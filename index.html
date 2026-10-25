@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>brain-hack — Ý tưởng kinh doanh mỗi ngày từ thị trường Trung Quốc</title>
+<meta name="description" content="Mỗi ngày: xu hướng thị trường Trung Quốc và các ý tưởng khởi nghiệp nhỏ / cơ hội đầu tư được xếp hạng, có nguồn dẫn đầy đủ.">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0f766e" id="meta-theme">
+<meta name="color-scheme" content="light dark">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="brain-hack">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="icon" href="icons/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="css/style.css">
+<script>
+// apply saved theme before paint (no flash)
+try{var t=localStorage.getItem('bh.theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);}catch(e){}
+</script>
+</head>
+<body>
+<a class="skip" href="#app">Bỏ qua điều hướng</a>
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="#/hom-nay" aria-label="brain-hack — Hôm nay">
+      <img src="icons/icon.svg" alt="" width="28" height="28"><span>brain-hack</span>
+    </a>
+    <label class="search" aria-label="Tìm kiếm ý tưởng">
+      <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14zm9 16-4-4"/></svg>
+      <input id="q" type="search" placeholder="Tìm ý tưởng, thẻ, nguồn…" autocomplete="off" enterkeyhint="search">
+    </label>
+    <button id="install" class="btn ghost" hidden title="Cài app lên màn hình">Cài app</button>
+    <button id="theme" class="btn icon" aria-label="Đổi chế độ sáng/tối" title="Sáng / Tối"></button>
+  </div>
+  <nav class="tabs" id="nav" aria-label="Điều hướng chính">
+    <a href="#/hom-nay" data-r="hom-nay"><i aria-hidden="true">☀</i><span>Hôm nay</span></a>
+    <a href="#/xep-hang" data-r="xep-hang"><i aria-hidden="true">🏆</i><span>Xếp hạng</span></a>
+    <a href="#/luu-tru" data-r="luu-tru"><i aria-hidden="true">🗓</i><span>Lưu trữ</span></a>
+    <a href="#/da-luu" data-r="da-luu"><i aria-hidden="true">★</i><span>Đã lưu</span></a>
+    <a href="#/phuong-phap" data-r="phuong-phap"><i aria-hidden="true">ⓘ</i><span>Phương pháp</span></a>
+  </nav>
+</header>
+<main id="app" tabindex="-1"><p class="loading">Đang tải dữ liệu…</p></main>
+<footer class="foot">
+  <p>brain-hack · nghiên cứu mỗi ngày cho HA NM · nội dung tiếng Việt · <strong>không phải tư vấn đầu tư</strong>. Phần áp dụng cho Việt Nam là giả thuyết cần tự kiểm chứng.</p>
+  <p id="dataver" class="muted"></p>
+</footer>
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<noscript><p style="padding:1rem">Trang cần JavaScript để hiển thị dữ liệu.</p></noscript>
+<script src="js/app.js" defer></script>
+</body>
+</html>

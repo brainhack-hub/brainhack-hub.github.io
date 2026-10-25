@@ -1,0 +1,38 @@
+{
+  "site_name": "brain-hack",
+  "timezone": "Asia/Saigon",
+  "usd_vnd_rate": 26000,
+  "usd_vnd_rate_note": "Tỷ giá giả định ~26.000 VND/USD (VietNamNet 29/09/2026 quy đổi 199.000đ ≈ 7,60 USD). Chỉ dùng để ước lượng vốn.",
+  "criteria": [
+    {"key": "ease",    "label": "Độ dễ thực hiện",      "weight": 0.20, "hint": "10 = làm được trong vài ngày, ít kỹ năng/giấy phép."},
+    {"key": "demand",  "label": "Nhu cầu thị trường",   "weight": 0.25, "hint": "10 = có bằng chứng cầu mạnh, rõ khách hàng."},
+    {"key": "novelty", "label": "Độ mới lạ",             "weight": 0.15, "hint": "10 = rất ít người làm ở thị trường mục tiêu."},
+    {"key": "lowcap",  "label": "Vốn thấp",              "weight": 0.20, "hint": "10 = gần như 0 đồng vốn; 1 = cần vốn lớn."},
+    {"key": "china",   "label": "Tín hiệu từ Trung Quốc","weight": 0.20, "hint": "10 = nhiều nguồn độc lập xác nhận xu hướng, còn mới."}
+  ],
+  "categories": [
+    {"id": "ai", "label": "AI"},
+    {"id": "ecom", "label": "Thương mại điện tử / DTC"},
+    {"id": "product", "label": "Sản phẩm tiêu dùng"},
+    {"id": "service", "label": "Dịch vụ"},
+    {"id": "content", "label": "Nội dung / Mạng xã hội"},
+    {"id": "fnb", "label": "Đồ ăn & uống"},
+    {"id": "b2b", "label": "B2B"},
+    {"id": "invest", "label": "Đầu tư / Xu hướng"}
+  ],
+  "types": [
+    {"id": "startup", "label": "Khởi nghiệp nhỏ"},
+    {"id": "invest", "label": "Cơ hội đầu tư"}
+  ],
+  "capital_tiers": [
+    {"id": "t1", "label": "Dưới 10 triệu", "max_m": 10},
+    {"id": "t2", "label": "10–50 triệu", "max_m": 50},
+    {"id": "t3", "label": "50–200 triệu", "max_m": 200},
+    {"id": "t4", "label": "Trên 200 triệu", "max_m": null}
+  ],
+  "effort_levels": [
+    {"id": "easy", "label": "Dễ (≥ 7 điểm dễ làm)", "min_ease": 7},
+    {"id": "mid", "label": "Vừa (5–6)", "min_ease": 5},
+    {"id": "hard", "label": "Khó hơn (≤ 4)", "min_ease": 0}
+  ]
+}

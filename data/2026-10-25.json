@@ -1,0 +1,1454 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T12:00:00+07:00",
+  "headline": "Hôm nay: bóp-vỡ “giòn vỏ”, mini-app bằng AI, và Pop Mart sau Labubu",
+  "summary": "Tổng hợp từ nguồn tiếng Trung & Anh (Xinhua, 中国经济网, TechNode, Pandaily, DataEye, China Daily…). Nổi bật: Qwen Go cho phép “nói ra là có app” (23/10); đồ bóp giải stress thế hệ mới được Nghĩa Ô/Kim Hoa chạy đơn xuất khẩu; 谷子 vỡ bong bóng nhưng còn cầu; Pop Mart chuẩn bị Q3 yếu do nền cao. Mọi con số đều kèm nguồn đã mở ngày 25/10/2026; phần áp dụng cho Việt Nam là giả thuyết.",
+  "trends": [
+    {
+      "id": "20261025-t1-kinh-ai",
+      "title": "Kính AI & thiết bị thông minh từ “đồ chơi” sang đại chúng",
+      "summary": "Bộ Thương mại TQ: doanh số kính thông minh +110% (giá trị) trong 9 tháng đầu 2026; Omdia: lượng xuất xưởng kính AI tại TQ nửa đầu 2026 +306% nhưng thị trường rất phân mảnh. Dịp Quốc khánh, cửa hàng trải nghiệm AI đông khách (dịch trực tiếp, điều hướng, quay phim).",
+      "why_it_matters": "Gợi ý ngách phụ kiện/trải nghiệm/nội dung quanh kính AI; hoặc theo dõi chuỗi cung ứng — hiện chỉ là tín hiệu, chưa thành ý tưởng có điểm.",
+      "key_facts": [
+        {
+          "text": "Doanh số kính thông minh trên các nền tảng lớn +110% YoY (giá trị) trong 9 tháng đầu 2026; thiết bị hỗ trợ xương ngoài +46,4%; robot trí tuệ nhân tạo hiện thân +22,6% (Bộ Thương mại TQ).",
+          "source_ids": [
+            "xinhua"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Omdia: lượng xuất xưởng kính AI toàn cầu nửa đầu 2026 đạt 4,2 triệu (+127%); tại Trung Quốc +306% YoY nhưng Alibaba, INMO, Xiaomi cộng lại chỉ 46,1%; Meta chiếm 81,3% toàn cầu.",
+          "source_ids": [
+            "omdia"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Các cửa hàng trải nghiệm AI ở Thượng Hải đông khách dịp Quốc khánh; Suning: lưu lượng khách tại cửa hàng chủ lực +50% (1–7/10); doanh số đồ gia dụng tích hợp AI tăng hơn 40%.",
+          "source_ids": [
+            "cd_ai"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "xinhua",
+          "name": "Xinhua",
+          "title": "Services, smart products fuel new momentum in China's consumer market",
+          "url": "https://english.news.cn/20261023/4e2456915eea48988508607fb9156d13/c.html",
+          "published": "2026-10-23",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "omdia",
+          "name": "Omdia (BusinessWire, qua Nasdaq)",
+          "title": "Omdia: Global AI Glasses Shipments More Than Doubled in 1H26, Hitting a Record 4.2 Million",
+          "url": "https://www.nasdaq.com/press-release/omdia-global-ai-glasses-shipments-more-doubled-1h26-hitting-record-42-million-2026-09",
+          "published": "2026-09-23",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "cd_ai",
+          "name": "China Daily",
+          "title": "AI products fuel spending during National Day holiday",
+          "url": "https://www.chinadaily.com.cn/a/202610/16/WS6ad185e8e4b06d4aa056323c.html",
+          "published": "2026-10-16",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        }
+      ],
+      "tags": [
+        "AI",
+        "phần cứng",
+        "tiêu dùng"
+      ]
+    },
+    {
+      "id": "20261025-t2-qwen-go-app",
+      "title": "Alibaba: “nói ra là có app” — Qwen Go “Ứng dụng của tôi” (23/10)",
+      "summary": "Qwen Go ra mắt tính năng dựng app bằng ngôn ngữ tự nhiên, kèm CSDL và triển khai, chia sẻ được; đang mời thử nghiệm. Trước đó (13/10) agent của Qwen Go thể hiện khả năng thực hiện tác vụ (đòi bồi thường trễ chuyến, hoàn tiền, đặt lịch).",
+      "why_it_matters": "AI chuyển từ trò chuyện sang làm việc thật; “app một lần dùng cho cộng đồng nhỏ” sẽ phổ biến — cơ hội cho dịch vụ dựng app theo yêu cầu (ý tưởng #2).",
+      "key_facts": [
+        {
+          "text": "23/10/2026: Qwen Go ra mắt “我的应用” (dựng app không cần code, có CSDL & triển khai, chia sẻ được); đang mời thử nghiệm.",
+          "source_ids": [
+            "ce_qwen",
+            "ithome",
+            "tide"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "13/10/2026: Qwen Go chuẩn bị xử lý bồi thường trễ chuyến bay, hoàn tiền mua sắm, đặt lịch bảo dưỡng xe, đặt sân thể thao; demo đòi được 70 NDT.",
+          "source_ids": [
+            "technode_qwen",
+            "ce_qwen"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ce_qwen",
+          "name": "中国经济网 (ce.cn)",
+          "title": "把生活需求搓成专属应用，「千问Go!」上线“我的应用”",
+          "url": "http://www.ce.cn/cysc/newmain/yc/jsxw/202610/t20261023_3269165.shtml",
+          "published": "2026-10-23",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "ithome",
+          "name": "IT之家",
+          "title": "「千问 Go!」上线“我的应用”，支持搭建长期、可分享的专属应用",
+          "url": "https://www.ithome.com/1/016/852.htm",
+          "published": "2026-10-23",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "tide",
+          "name": "潮新闻 (Tide News)",
+          "title": "阿里云Meoo接入千问APP，为AI生成的应用装上云端“后台”",
+          "url": "https://tidenews.com.cn/news.html?id=3594170",
+          "published": "2026-10-23",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "technode_qwen",
+          "name": "TechNode",
+          "title": "Alibaba prepares Qwen Go personal AI assistant for claims, bookings and shopping",
+          "url": "https://technode.com/2026/10/13/alibaba-prepares-qwen-go-personal-ai-assistant-for-claims-bookings-and-shopping/",
+          "published": "2026-10-13",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        }
+      ],
+      "tags": [
+        "AI",
+        "agent",
+        "no-code"
+      ]
+    },
+    {
+      "id": "20261025-t3-capnhat-squishy",
+      "title": "“脆皮捏捏” — đồ bóp giải stress lên thế hệ mới, Nghĩa Ô/Kim Hoa chạy đơn xuất khẩu",
+      "summary": "Chủ đề Xiaohongshu đạt 340 triệu lượt xem (22/10); xưởng Nghĩa Ô nói xuất khẩu >95%, “cung không đủ cầu” hồi mùa hè; một xưởng Kim Hoa làm ~1 triệu món/ngày. People's Daily xếp đồ bóp stress trong làn sóng “tiêu dùng cảm xúc” (dự báo >4,5 nghìn tỷ NDT vào 2029).",
+      "why_it_matters": "Chuỗi cung ứng phản ứng cực nhanh (khuôn ~1 tuần) → hợp với người làm sourcing; nhưng vòng đời ngắn, cần test nhỏ (ý tưởng #1).",
+      "key_facts": [
+        {
+          "text": "Chủ đề “脆皮捏捏” trên Xiaohongshu đạt 340 triệu lượt xem (đến 22/10/2026).",
+          "source_ids": [
+            "zgyww"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Xưởng Kim Hoa Jinfeng: ~1 triệu món đồ bóp giải stress bằng nhựa mỗi ngày, doanh số dự kiến 500 triệu NDT (+300%) năm 2026, xuất sang Mỹ.",
+          "source_ids": [
+            "jdnews"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Dự báo thị trường “tiêu dùng cảm xúc” TQ >4,5 nghìn tỷ NDT vào 2029 (đồ chơi thiết kế, blind box, thủ công).",
+          "source_ids": [
+            "people_emo"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "zgyww",
+          "name": "中国义乌网",
+          "title": "“三秒上头”的生意！年轻人捏碎的是蜡壳，义乌捏住的是商机",
+          "url": "http://news.zgyww.cn/system/2026/10/23/010308974.shtml",
+          "published": "2026-10-23",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "jdnews",
+          "name": "金义新区新闻网 (今日金东)",
+          "title": "订单增长 忙生产",
+          "url": "https://jdnews.zjol.com.cn/jdnews/system/2026/08/12/035269396.shtml",
+          "published": "2026-08-11",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "people_emo",
+          "name": "People's Daily Online",
+          "title": "China's emotion-driven consumption market to exceed 4.5 tln yuan by 2029",
+          "url": "https://en.people.cn/n3/2026/0616/c90000-20467822.html",
+          "published": "2026-06-16",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        }
+      ],
+      "tags": [
+        "tiêu dùng cảm xúc",
+        "đồ chơi",
+        "sourcing"
+      ]
+    },
+    {
+      "id": "20261025-t4-guzi",
+      "title": "谷子 (goods anime): thị trường vẫn tăng nhưng tiệm đóng hàng loạt",
+      "summary": "Dự báo 2026 ≈ 226,5 tỷ NDT, nhưng ≥155 tiệm đóng/dự kiến đóng nửa đầu 2025 và ~14% tiệm mở mới 2025 không qua 1 năm. Người sống sót bán trải nghiệm: ký gửi, hàng cũ, DIY, pop-up. IP nội địa vượt IP Nhật trên Xianyu.",
+      "why_it_matters": "Bài học: đừng làm mô hình ôm hàng; nhẹ vốn + trải nghiệm (ý tưởng #5).",
+      "key_facts": [
+        {
+          "text": "Quy mô 谷子 TQ: 2025 ≈ 202,1 tỷ NDT, dự báo 2026 ≈ 226,5 tỷ (iiMedia).",
+          "source_ids": [
+            "paper_guzi",
+            "ce_guzi"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "≥155 tiệm đóng/dự kiến đóng nửa đầu 2025; ~14% tiệm mở mới 2025 không qua 1 năm; 潮玩星球 148 → 99, 暴蒙 59 → 22.",
+          "source_ids": [
+            "paper_guzi",
+            "ce_guzi"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Doanh thu cấp phép Ultraman tại TQ năm tài chính 2026 giảm 51,6% (còn 25,57 tỷ yên) theo công bố của công ty chủ sở hữu IP.",
+          "source_ids": [
+            "paper_guzi",
+            "ce_guzi"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "id": "paper_guzi",
+          "name": "澎湃新闻 (The Paper; nguồn: 中国经济导报)",
+          "title": "门店在退、市场在涨，谷子经济正在经历什么",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34125006",
+          "published": "2026-09-21",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "ce_guzi",
+          "name": "中国经济网 (nguồn: 国际商报)",
+          "title": "谷子店接连倒闭，二次元经济进入新周期",
+          "url": "http://www.ce.cn/cysc/newmain/yc/jsxw/202608/t20260826_3170151.shtml",
+          "published": "2026-08-26",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        }
+      ],
+      "tags": [
+        "IP",
+        "anime",
+        "bán lẻ"
+      ]
+    },
+    {
+      "id": "20261025-t5-microdrama-ai",
+      "title": "Phim ngắn/truyện tranh AI: doanh thu xuất khẩu tăng, AI thành động cơ mới",
+      "summary": "DataEye: IAP app micro-drama hải ngoại 9 tháng đầu 2026 >2,1 tỷ USD; dự báo cả năm >6 tỷ USD (gồm cả mô hình quảng cáo). App thuần AI VibeShort, StoryReel vào top 15 doanh thu. VN: app phim ngắn chiếm hơn nửa top giải trí miễn phí App Store. Cảnh báo: khán giả toàn cầu chưa đồng loạt chấp nhận AI.",
+      "why_it_matters": "Nội dung bản địa tiếng Việt cho kênh ngắn là cửa nhỏ để thử (ý tưởng #3), nhưng chi phí sản xuất giảm cũng nghĩa là cạnh tranh tăng.",
+      "key_facts": [
+        {
+          "text": "1–9/2026: doanh thu IAP ước tính >2,1 tỷ USD (App Store + Google Play, không gồm quảng cáo).",
+          "source_ids": [
+            "yf"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "DataEye nâng dự báo 2026 lên >6 tỷ USD, nhờ AI short/comic xuất khẩu + hợp tác TikTok/YouTube.",
+          "source_ids": [
+            "baijing",
+            "yicai"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Hai app AI (VibeShort, StoryReel) vào top 15 doanh thu; một số người xem không thích nội dung AI chất lượng thấp.",
+          "source_ids": [
+            "yf",
+            "yicai"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "VN: PineDrama đứng đầu bảng app giải trí miễn phí trên App Store; ĐNÁ 32% lượt tải toàn cầu Q1/2026 (Sensor Tower).",
+          "source_ids": [
+            "vnnet"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "yf",
+          "name": "扬帆出海 (số liệu DataEye)",
+          "title": "出海短剧1-9月内购破21亿美元，前三名吃掉一半收入",
+          "url": "https://www.yfchuhai.com/article/10229277.html",
+          "published": null,
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Trang không ghi ngày đăng; nội dung gồm số liệu đến hết tháng 9/2026."
+        },
+        {
+          "id": "baijing",
+          "name": "百鲸出海 (tác giả: DataEye研究院)",
+          "title": "2026上半年海外短剧AI剧：APP狂揽$12.7亿、增13%…",
+          "url": "https://www.baijing.cn/article/56268",
+          "published": "2026-08-06",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "yicai",
+          "name": "第一财经 (Yicai)",
+          "title": "400亿短剧出海市场，AI正在成为新变量",
+          "url": "https://www.yicai.com/news/103405608.html",
+          "published": "2026-10-23",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "vnnet",
+          "name": "VietNamNet Global",
+          "title": "Short-drama apps climb Vietnam's app charts as paid viewing grows",
+          "url": "https://vietnamnet.vn/en/short-drama-apps-climb-vietnam-s-app-charts-as-paid-viewing-grows-2559794.html",
+          "published": "2026-09-29",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        }
+      ],
+      "tags": [
+        "nội dung",
+        "AI",
+        "micro-drama"
+      ]
+    },
+    {
+      "id": "20261025-t6-popmart-reset",
+      "title": "Pop Mart “reset” sau cơn sốt Labubu — IP cảm xúc bước vào giai đoạn chọn lọc",
+      "summary": "Dự báo Q3/26 doanh thu −37% (JPM) đến −40–45% (MS) so cùng kỳ do nền cao; nửa đầu 2026 nhóm Labubu −7,5%, tỷ trọng 34,7% → 26%. GS: Miniso/YOYO tăng. Ngành chuyển sang đa IP, đồ nội địa, trải nghiệm.",
+      "why_it_matters": "Với nhà đầu tư: theo dõi cập nhật Q3 + giảm giá 11/11 như chỉ báo tồn kho (ý tưởng #8, chỉ watchlist).",
+      "key_facts": [
+        {
+          "text": "Dự báo Q3/26 của Pop Mart: MS −40–45% YoY; JPM −37% YoY.",
+          "source_ids": [
+            "tasty_ms",
+            "elebank_jpm"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Hai tổ chức độc lập, dự báo, không phải số thực tế."
+        },
+        {
+          "text": "Nửa đầu 2026: doanh thu 17,17 tỷ NDT (+23,8%), Labubu/THE MONSTERS −7,5%, tỷ trọng 34,7% → 26%.",
+          "source_ids": [
+            "paper_guzi"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "GS: Miniso TQ GMV Q3 +25–30%, YOYO >1 tỷ NDT GMV toàn cầu 9 tháng đầu 2026.",
+          "source_ids": [
+            "longbridge_gs"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "tasty_ms",
+          "name": "TastyMoney (trích báo cáo Morgan Stanley)",
+          "title": "大摩: 泡泡瑪特 3Q26 銷售預估年減 40–45%…",
+          "url": "https://www.tastymoney.hk/%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90/112803",
+          "published": "2026-10-23",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "elebank_jpm",
+          "name": "WallStreetCN qua Elebank (trích báo cáo JPMorgan)",
+          "title": "Key Highlights of Pop Mart's Q3 Financial Report: Revenue Expected to Decline by 30%…",
+          "url": "https://news.platform.elebank.com/en/post/1001946833/key-highlights-of-pop-mart-s-q3-financial-report-revenue",
+          "published": "2026-10-22",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "paper_guzi",
+          "name": "澎湃新闻 (The Paper; nguồn: 中国经济导报)",
+          "title": "门店在退、市场在涨，谷子经济正在经历什么",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34125006",
+          "published": "2026-09-21",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "longbridge_gs",
+          "name": "Longbridge (trích báo cáo Goldman Sachs)",
+          "title": "G Sachs: POP MART Sep Online Sales Decline Deepens; MNSO 3Q GMV Strong; BLOKS Online Growth Accelerates",
+          "url": "https://longbridge.com/en/news/301672092.md",
+          "published": null,
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Bài không ghi ngày đăng rõ; dữ liệu short-selling trong bài tính đến 2026-10-13."
+        }
+      ],
+      "tags": [
+        "đầu tư",
+        "IP",
+        "tiêu dùng cảm xúc"
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Squishy “giòn vỏ” (脆皮捏捏): nhập sỉ Nghĩa Ô, bán túi mù & buổi bóp-vỡ",
+      "pitch": "Đồ bóp xả stress “bóp nghe tách” đang viral ở Trung Quốc; thử bán vài chục món qua TikTok/Facebook theo dạng túi mù và workshop trải nghiệm.",
+      "type": "startup",
+      "category": [
+        "product",
+        "ecom"
+      ],
+      "tags": [
+        "xả stress",
+        "tiêu dùng cảm xúc",
+        "sourcing Nghĩa Ô",
+        "túi mù"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Chưa có dữ liệu về nhu cầu đồ bóp “giòn vỏ” ở Việt Nam. Phần Trung Quốc có nguồn; phần Việt Nam là giả thuyết cần test 1 tuần.",
+      "confidence": "trung bình",
+      "china_signal": "Đồ bóp giải stress đã đổi ít nhất 3 thế hệ; thế hệ mới nhất “giòn vỏ” (vỏ sáp bóp vỡ có tiếng “rắc”, lõi đất sét/PU) đang nổi. Chủ đề liên quan trên Xiaohongshu đạt 340 triệu lượt xem tính đến 22/10/2026. Chợ sỉ Nghĩa Ô giá sỉ khoảng 7 NDT/món, xưởng khuôn ra mẫu trong ~1 tuần.",
+      "key_facts": [
+        {
+          "text": "Chủ đề “脆皮捏捏” trên Xiaohongshu có 340 triệu lượt xem (tính đến 22/10/2026); phẩm loại đã đổi ít nhất 3 thế hệ (bánh bao bột → PU hồi chậm → vỏ sáp giòn).",
+          "source_ids": [
+            "zgyww"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Tại Nghĩa Ô: giá sỉ ~7 NDT/món (loại dùng một lần ~3 NDT); giá lẻ 10–80 NDT; túi mù 12 món 88 NDT.",
+          "source_ids": [
+            "zgyww"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Một bộ khuôn ~1–1,5 vạn NDT, mẫu thông thường giao trong 1 tuần; xưởng nói hàng “giòn vỏ” chỉ làm được 1–2 vạn món/ngày (PU thường ~20 vạn/ngày).",
+          "source_ids": [
+            "zgyww"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Đồ bóp giải stress đang bùng nổ ở Chiết Giang: một xưởng Kim Hoa làm ~1 triệu món/ngày, dự kiến doanh số 500 triệu NDT (+300%) năm 2026, xuất sang Mỹ; xưởng ở Nghĩa Ô có >95% đơn xuất khẩu.",
+          "source_ids": [
+            "jdnews",
+            "zgyww",
+            "people_emo"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Hai nguồn đầu nói về đồ bóp nói chung; nguồn thứ ba (People's Daily) nói về một xưởng Kim Hoa ~1.000 món/ngày — quy mô khác nhau tùy xưởng."
+        },
+        {
+          "text": "Cảnh báo từ người bán: hàng sáp dễ mềm/chảy khi nóng; là đồ xả stress cho người lớn, không phải đồ chơi trẻ em; vận chuyển đường biển khó giữ chất lượng.",
+          "source_ids": [
+            "zgyww"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "zgyww",
+          "name": "中国义乌网",
+          "title": "“三秒上头”的生意！年轻人捏碎的是蜡壳，义乌捏住的是商机",
+          "url": "http://news.zgyww.cn/system/2026/10/23/010308974.shtml",
+          "published": "2026-10-23",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "jdnews",
+          "name": "金义新区新闻网 (今日金东)",
+          "title": "订单增长 忙生产",
+          "url": "https://jdnews.zjol.com.cn/jdnews/system/2026/08/12/035269396.shtml",
+          "published": "2026-08-11",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "people_emo",
+          "name": "People's Daily Online",
+          "title": "China's emotion-driven consumption market to exceed 4.5 tln yuan by 2029",
+          "url": "https://en.people.cn/n3/2026/0616/c90000-20467822.html",
+          "published": "2026-06-16",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Giả thuyết: (1) Hà Nội nóng ẩm → sáp mềm nhanh: bán mùa mát (thu–đông), đóng gói cách nhiệt, giao nội thành nhanh; (2) bán theo túi mù 6 món + video bóp-vỡ trên TikTok Shop/Reels; (3) nhắm nhân viên văn phòng/sinh viên, ghi rõ “dành cho người lớn”; (4) lợi thế của anh: đàm phán sỉ, kiểm QC mẫu, chọn nhà cung cấp.",
+      "localize_global": "Xưởng Trung Quốc đang chạy đơn xuất khẩu Âu–Mỹ (theo nguồn) nên Việt Nam/ĐNÁ đi sau theo đơn nhỏ; chưa có số liệu ĐNÁ.",
+      "first_steps": [
+        "Ngày 1–2: tìm 3–5 nhà cung cấp trên 1688/Taobao/Alibaba, hỏi MOQ, giá sỉ, ảnh thật, chứng nhận an toàn vật liệu.",
+        "Ngày 2–3: đặt 10–20 mẫu (giòn vỏ + PU thường); thử chảy/mềm ở nhiệt độ phòng nóng và khi vận chuyển.",
+        "Ngày 4–5: quay 5 video bóp-vỡ ngắn, đăng TikTok/Reels, đo lượt xem + bình luận “mua ở đâu”.",
+        "Ngày 6–7: mở pre-order 20–30 túi mù; ≥10 đơn đặt trước = tín hiệu tiếp tục (ngưỡng tự đặt)."
+      ],
+      "capital": {
+        "vnd_min_m": 5,
+        "vnd_max_m": 20,
+        "usd_min": 190,
+        "usd_max": 770,
+        "note": "Ước tính của người soạn: 20–50 mẫu + vận chuyển + thử quảng cáo; giá sỉ tham khảo ~7 NDT/món (theo nguồn), chưa gồm vận chuyển/thuế."
+      },
+      "risks": [
+        "Sáp mềm/chảy ở khí hậu nóng, hàng vỡ khi vận chuyển.",
+        "Vòng đời xu hướng ngắn (“mỗi thời gian lại có một loại squishy mới hot”).",
+        "Quy định nhập khẩu/nhãn mác/an toàn sản phẩm — cần kiểm tra trước khi bán số lượng lớn.",
+        "Hàng nhái hình dáng IP có thể vi phạm bản quyền."
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 6,
+        "novelty": 7,
+        "lowcap": 8,
+        "china": 9
+      },
+      "id": "20261025-01-squishy-gion-vo",
+      "date": "2026-10-25",
+      "total_score": 7.55,
+      "rank": 1
+    },
+    {
+      "title": "Dịch vụ “mini-app theo yêu cầu” bằng AI cho phòng gym, lớp học, CLB, sự kiện nhỏ",
+      "pitch": "Alibaba vừa cho người dùng “nói ra là có app” (trang đăng ký, đặt lịch, bình chọn). Ở Việt Nam: dựng trọn gói mini-app bằng công cụ AI cho cộng đồng nhỏ, thu phí dựng + thuê bao tháng.",
+      "type": "startup",
+      "category": [
+        "ai",
+        "b2b",
+        "service"
+      ],
+      "tags": [
+        "AI",
+        "no-code",
+        "SME",
+        "Zalo"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu Trung Quốc có nguồn (ra mắt 23/10/2026, đang mời thử). Nhu cầu và mức sẵn sàng trả tiền của SME Việt Nam là giả thuyết; công cụ AI phù hợp ở VN cần tự kiểm chứng.",
+      "confidence": "trung bình",
+      "china_signal": "23/10/2026: Qwen Go (trợ lý AI cá nhân của Alibaba) ra mắt “Ứng dụng của tôi”: nói nhu cầu bằng ngôn ngữ tự nhiên là tự dựng app + cơ sở dữ liệu + triển khai, chia sẻ được và lưu dữ liệu lâu dài (qua nền tảng Meoo của Alibaba Cloud). Tính năng đang ở giai đoạn mời thử nghiệm.",
+      "key_facts": [
+        {
+          "text": "Ngày 23/10/2026 Qwen Go ra mắt “我的应用”: không cần lập trình, tự động dựng app, cấu hình CSDL và triển khai; app chia sẻ được, lưu và cập nhật dữ liệu lâu dài (dùng Meoo/秒悟 của Alibaba Cloud).",
+          "source_ids": [
+            "ce_qwen",
+            "ithome",
+            "tide"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Ví dụ ứng dụng nêu trong bài: trang đăng ký sự kiện, đặt lịch tập của HLV, “bạn đồng hành cuối tuần” (bình chọn đi chơi), cẩm nang tham quan cho phụ huynh, bài giảng tương tác.",
+          "source_ids": [
+            "ce_qwen",
+            "tide"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Tính năng và “Cloud Pro” (thao tác điện thoại/máy tính đám mây) đang ở giai đoạn mời thử nghiệm (邀测), xếp hàng trong ứng dụng Qwen.",
+          "source_ids": [
+            "ce_qwen",
+            "ithome",
+            "tide"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "13/10/2026 TechNode: Qwen Go được chuẩn bị để xử lý đòi bồi thường chuyến bay trễ, hoàn tiền mua sắm, đặt lịch bảo dưỡng xe; một demo đòi được 70 NDT.",
+          "source_ids": [
+            "technode_qwen",
+            "ce_qwen"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Nguồn thứ hai (ce.cn) nhắc cùng vụ đòi 70 NDT."
+        }
+      ],
+      "sources": [
+        {
+          "id": "ce_qwen",
+          "name": "中国经济网 (ce.cn)",
+          "title": "把生活需求搓成专属应用，「千问Go!」上线“我的应用”",
+          "url": "http://www.ce.cn/cysc/newmain/yc/jsxw/202610/t20261023_3269165.shtml",
+          "published": "2026-10-23",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "ithome",
+          "name": "IT之家",
+          "title": "「千问 Go!」上线“我的应用”，支持搭建长期、可分享的专属应用",
+          "url": "https://www.ithome.com/1/016/852.htm",
+          "published": "2026-10-23",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "tide",
+          "name": "潮新闻 (Tide News)",
+          "title": "阿里云Meoo接入千问APP，为AI生成的应用装上云端“后台”",
+          "url": "https://tidenews.com.cn/news.html?id=3594170",
+          "published": "2026-10-23",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "technode_qwen",
+          "name": "TechNode",
+          "title": "Alibaba prepares Qwen Go personal AI assistant for claims, bookings and shopping",
+          "url": "https://technode.com/2026/10/13/alibaba-prepares-qwen-go-personal-ai-assistant-for-claims-bookings-and-shopping/",
+          "published": "2026-10-13",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Giả thuyết: nhiều phòng yoga/gym nhỏ, trung tâm ngoại ngữ, CLB chạy bộ, đơn vị team building ở VN vẫn quản lý bằng Zalo/Google Form/Excel. Bán gói “app đăng ký + đặt lịch + nhắc lịch” làm trong 48 giờ bằng bất kỳ công cụ AI tạo web/app nào đang dùng được ở VN (không phụ thuộc Qwen vì tính năng đó mới ở giai đoạn mời).",
+      "localize_global": "Sản phẩm không phụ thuộc địa lý: có thể phục vụ cộng đồng nói tiếng Việt ở nước ngoài và SME nhỏ nói chung.",
+      "first_steps": [
+        "Ngày 1: chọn 1 ngách (ví dụ phòng yoga/gym), liệt kê 3 quy trình đang làm tay (đăng ký, đặt lịch, thu phí).",
+        "Ngày 2–3: dựng 1 app mẫu bằng công cụ AI, chạy được trên điện thoại.",
+        "Ngày 4–5: nhắn/gặp 10 chủ cơ sở; dựng thử miễn phí cho 2–3 nơi.",
+        "Ngày 6–7: đo có ai dùng thật không và họ chịu trả bao nhiêu/tháng; quyết định có đóng gói thành dịch vụ hay không."
+      ],
+      "capital": {
+        "vnd_min_m": 0.5,
+        "vnd_max_m": 5,
+        "usd_min": 20,
+        "usd_max": 190,
+        "note": "Ước tính: phí công cụ AI + tên miền + thử quảng cáo; chủ yếu là thời gian."
+      },
+      "risks": [
+        "Tính năng gốc còn ở giai đoạn mời thử, chưa chắc mở rộng ra ngoài TQ.",
+        "Công cụ AI dễ sao chép → cạnh tranh giá, khách khó trả lâu dài.",
+        "Bảo trì/hỗ trợ tốn thời gian; trách nhiệm dữ liệu cá nhân của khách hàng.",
+        "SME nhỏ có thể chỉ cần Zalo/Google Form miễn phí."
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 6,
+        "novelty": 6,
+        "lowcap": 9,
+        "china": 8
+      },
+      "id": "20261025-02-mini-app-ai-theo-yeu-cau",
+      "date": "2026-10-25",
+      "total_score": 7.2,
+      "rank": 2
+    },
+    {
+      "title": "Kênh truyện tranh/phim ngắn AI tiếng Việt (漫剧) cho TikTok & YouTube Shorts",
+      "pitch": "Phim ngắn dọc 1–3 phút đang là thể loại tăng nhanh và AI hạ giá sản xuất. Thử một kênh truyện tranh động AI tiếng Việt (truyện dân gian, “sự tích”, truyện chữa lành) với chi phí gần như chỉ là thời gian.",
+      "type": "startup",
+      "category": [
+        "content",
+        "ai"
+      ],
+      "tags": [
+        "micro-drama",
+        "AI",
+        "truyện tranh động",
+        "TikTok"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Số liệu thị trường là ước tính của DataEye/Sensor Tower (nguồn thứ ba). Khả năng kiếm tiền của một kênh tiếng Việt nhỏ chưa có bằng chứng.",
+      "confidence": "trung bình",
+      "china_signal": "DataEye ước tính doanh thu IAP của app phim ngắn xuất khẩu 9 tháng đầu 2026 vượt 2,1 tỷ USD; hai app thuần AI (VibeShort, StoryReel) ra mắt đầu 2026 đã vào top 15 doanh thu. Tencent có app truyện tranh ngắn AI riêng (Fire Dragon, 2/2026). Tại VN, app phim ngắn chiếm hơn một nửa top bảng xếp hạng giải trí miễn phí trên App Store (VietNamNet 29/9/2026).",
+      "key_facts": [
+        {
+          "text": "1–9/2026: doanh thu IAP ước tính của app micro-drama hải ngoại >2,1 tỷ USD, tải >2,2 tỷ lượt (DataEye; chỉ tính App Store + Google Play, không gồm quảng cáo). Nửa đầu 2026: ~1,27 tỷ USD, +13% so với cùng kỳ.",
+          "source_ids": [
+            "yf",
+            "baijing"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Cùng gốc DataEye, hai trang đăng hai kỳ số liệu khác nhau, nhất quán với nhau (Q3 ≈ 0,85 tỷ)."
+        },
+        {
+          "text": "VibeShort (lên App Store 25/2) và StoryReel (lên 8/4) — hai app thuần AI — cùng vào top 15 doanh thu 1–9/2026; riêng số liệu >36 triệu và >28 triệu USD chỉ từ một nguồn.",
+          "source_ids": [
+            "yf",
+            "yicai"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Việc lọt top 15 có 2 nguồn; con số USD cụ thể chỉ có ở yfchuhai."
+        },
+        {
+          "text": "DataEye nâng dự báo thị trường micro-drama hải ngoại 2026 lên >6 tỷ USD (từ 5 tỷ), lý do: AI short/comic xuất khẩu hàng loạt + TikTok/YouTube tăng hợp tác.",
+          "source_ids": [
+            "baijing",
+            "yicai"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Hai nguồn cùng trích DataEye."
+        },
+        {
+          "text": "Nội dung bản địa chiếm ưu thế trong hot list: 26/30 phim (9/2026) và 19/20 (H1/2026) là phim làm bản địa, phim dịch/lồng ít.",
+          "source_ids": [
+            "yf",
+            "baijing"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "YouTube: micro-drama đạt 6,5 tỷ lượt xem trong nửa đầu 2026; nhưng một số người xem không thích nội dung AI chất lượng thấp, các nền tảng thường đặt phim AI vào kênh riêng.",
+          "source_ids": [
+            "yicai"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Việt Nam: PineDrama đứng đầu bảng app giải trí miễn phí trên App Store, nhiều app phim ngắn trong top 25; ĐNÁ chiếm 32% lượt tải toàn cầu Q1/2026 (Sensor Tower).",
+          "source_ids": [
+            "vnnet"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Tencent ra mắt Fire Dragon ngày 4/2/2026 — app truyện tranh ngắn AI đầu tiên, nội dung hiện miễn phí, tập 1–3 phút.",
+          "source_ids": [
+            "pandaily_fd"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "yf",
+          "name": "扬帆出海 (số liệu DataEye)",
+          "title": "出海短剧1-9月内购破21亿美元，前三名吃掉一半收入",
+          "url": "https://www.yfchuhai.com/article/10229277.html",
+          "published": null,
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Trang không ghi ngày đăng; nội dung gồm số liệu đến hết tháng 9/2026."
+        },
+        {
+          "id": "baijing",
+          "name": "百鲸出海 (tác giả: DataEye研究院)",
+          "title": "2026上半年海外短剧AI剧：APP狂揽$12.7亿、增13%…",
+          "url": "https://www.baijing.cn/article/56268",
+          "published": "2026-08-06",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "yicai",
+          "name": "第一财经 (Yicai)",
+          "title": "400亿短剧出海市场，AI正在成为新变量",
+          "url": "https://www.yicai.com/news/103405608.html",
+          "published": "2026-10-23",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "vnnet",
+          "name": "VietNamNet Global",
+          "title": "Short-drama apps climb Vietnam's app charts as paid viewing grows",
+          "url": "https://vietnamnet.vn/en/short-drama-apps-climb-vietnam-s-app-charts-as-paid-viewing-grows-2559794.html",
+          "published": "2026-09-29",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "pandaily_fd",
+          "name": "Pandaily",
+          "title": "Tencent Launches “Fire Dragon,” Its First AI-Generated Comic Shorts App",
+          "url": "https://pandaily.com/tencent-launches-fire-dragon-its-first-ai-generated-comic-shorts-app",
+          "published": "2026-02-04",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Làm kênh tiếng Việt: truyện dân gian/cổ tích VN (thuộc phạm vi công cộng), lồng tiếng AI, phát hành TikTok/Reels/YouTube Shorts; kiếm tiền qua chương trình sáng tạo/affiliate/tài trợ. Không cần app riêng. VN đã có thói quen xem micro-drama (theo xếp hạng app).",
+      "localize_global": "Có thể làm song ngữ Việt–Anh; nguồn cho thấy thị trường chuộng nội dung bản địa hơn nội dung dịch.",
+      "first_steps": [
+        "Ngày 1: chọn 3 truyện dân gian VN thuộc phạm vi công cộng; viết kịch bản 10–15 cảnh.",
+        "Ngày 2–4: làm 3 tập 60–90 giây bằng công cụ AI hình ảnh + giọng đọc; giữ nhân vật nhất quán.",
+        "Ngày 5: đăng cùng lúc TikTok + YouTube Shorts + Reels.",
+        "Ngày 6–7: đo tỷ lệ xem hết, lượt theo dõi, bình luận; quyết định tiếp tục hay đổi thể loại."
+      ],
+      "capital": {
+        "vnd_min_m": 1,
+        "vnd_max_m": 10,
+        "usd_min": 40,
+        "usd_max": 380,
+        "note": "Ước tính: 1–2 tháng đăng ký công cụ AI hình/giọng + nhạc có bản quyền; chủ yếu là thời gian."
+      },
+      "risks": [
+        "Nội dung AI đại trà, bão hòa nhanh; khán giả có thể ác cảm nội dung AI chất lượng thấp.",
+        "Chính sách nền tảng về nội dung AI và kiếm tiền có thể đổi.",
+        "Bản quyền truyện/nhân vật/nhạc; phải dùng nguồn công cộng hoặc tự sáng tác.",
+        "Duy trì sản xuất đều đặn rất mệt; thu nhập ban đầu có thể bằng 0."
+      ],
+      "scores": {
+        "ease": 5,
+        "demand": 7,
+        "novelty": 6,
+        "lowcap": 7,
+        "china": 9
+      },
+      "id": "20261025-03-truyen-tranh-ai-tieng-viet",
+      "date": "2026-10-25",
+      "total_score": 6.85,
+      "rank": 3
+    },
+    {
+      "title": "Trông thú cưng tại nhà theo giờ, có báo cáo video (宠物托管师) cho dân văn phòng Hà Nội",
+      "pitch": "Dịp lễ ở Trung Quốc, dịch vụ trông thú cưng tận nhà “cháy đơn” nhờ quy trình chuẩn (bao giày–găng, quay video toàn bộ, phản hồi tình trạng). Thử bản nhỏ qua Zalo/mini-app ở Hà Nội, bắt đầu với mèo.",
+      "type": "startup",
+      "category": [
+        "service"
+      ],
+      "tags": [
+        "thú cưng",
+        "dịch vụ",
+        "kinh tế một mình"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu TQ chủ yếu là một câu chuyện cá nhân (một người ở Trịnh Châu) cộng số liệu thị trường chung; nhu cầu ở Hà Nội chưa được kiểm chứng.",
+      "confidence": "thấp–trung bình",
+      "china_signal": "3/10/2026 (中新社): một người trông thú cưng 00後 ở Trịnh Châu nói đơn dịp Quốc khánh tăng gấp 2 (“已经爆单”); nhóm của anh ra mini-program từ tháng 3/2026 với quy chuẩn: bao giày–găng khi vào nhà, quay video toàn bộ, phản hồi tình trạng thú cưng. Thị trường chó mèo đô thị TQ 2025 khoảng 312,6 tỷ NDT.",
+      "key_facts": [
+        {
+          "text": "Dịp Quốc khánh 2026, một người trông thú cưng ở Trịnh Châu cho biết đơn hàng tăng gấp 2; mini-program ra mắt tháng 3/2026 với quy chuẩn bao giày–găng, quay video toàn bộ, phản hồi tình trạng.",
+          "source_ids": [
+            "ce_pet"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Chỉ là lời kể của một người hành nghề, không phải số liệu ngành."
+        },
+        {
+          "text": "Thị trường tiêu dùng chó–mèo đô thị TQ 2025 ≈ 312,6 tỷ NDT (3126 億 theo Sách trắng ngành thú cưng 2026), chi trung bình 3.006 NDT/chó và 2.085 NDT/mèo mỗi năm.",
+          "source_ids": [
+            "ce_pet",
+            "cd_pet"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "ce.cn nêu 3126 億; China Daily nêu 312,6 tỷ NDT, +4,1% — khớp nhau."
+        },
+        {
+          "text": "Khảo sát iiMedia 2026: mức sẵn sàng chi cho dịch vụ gửi/trông thú cưng 28,60%; chăm sóc/làm đẹp 36,61%; y tế 39,59%.",
+          "source_ids": [
+            "iimedia"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Nguồn ce.cn cho rằng dịch vụ chuẩn hóa, cá nhân hóa và chăm sóc cả vòng đời là những hướng “cửa gió” mới của ngành.",
+          "source_ids": [
+            "ce_pet"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ce_pet",
+          "name": "中国经济网 (nguồn: 中新社)",
+          "title": "宠物托管假日“爆单” 千亿“它经济”催生新消费业态",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261003_3247466.shtml",
+          "published": "2026-10-03",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "iimedia",
+          "name": "艾媒咨询 (iiMedia Research)",
+          "title": "智能养宠成风口——2026年宠物经济行业消费趋势研究报告",
+          "url": "https://www.iimedia.cn/c400/118002.html",
+          "published": "2026-10-01",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "cd_pet",
+          "name": "China Daily",
+          "title": "AI pet mkt cat's meow for the lonely",
+          "url": "https://www.chinadaily.com.cn/a/202610/08/WS6ac6f4cee4b06d4aa0561a42.html",
+          "published": "2026-10-08",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Giả thuyết: ở chung cư Hà Nội nhiều người nuôi mèo, hay đi công tác/về quê dịp lễ–Tết; dịch vụ đến nhà (cho ăn, dọn cát, chơi, báo cáo video) tiện hơn gửi khách sạn. Bắt đầu với mèo ở 1–2 quận, đơn giá theo lượt thăm. Chưa có số liệu VN trong báo cáo này.",
+      "localize_global": "Mô hình dịch vụ nội địa, chưa đánh giá cho thị trường khác.",
+      "first_steps": [
+        "Ngày 1: viết quy trình chuẩn 1 trang (check-in, cho ăn, dọn cát, video báo cáo, xử lý sự cố) + form thông tin thú cưng.",
+        "Ngày 2: hỏi 20 người nuôi mèo trong nhóm chung cư/cộng đồng: từng gửi chưa, giá chịu được.",
+        "Ngày 3–5: nhận 2–3 khách thử (giá ưu đãi) ở một khu vực; quay video báo cáo.",
+        "Ngày 6–7: tổng kết hài lòng, lỗi quy trình, giá; quyết định mở bảng giá + trang đặt lịch."
+      ],
+      "capital": {
+        "vnd_min_m": 2,
+        "vnd_max_m": 10,
+        "usd_min": 80,
+        "usd_max": 380,
+        "note": "Ước tính: dụng cụ vệ sinh, bao giày/găng, quảng cáo thử, bảo hiểm trách nhiệm (nếu có)."
+      },
+      "risks": [
+        "Trách nhiệm khi thú cưng bệnh/thương tích/mất.",
+        "Rào cản niềm tin (cho người lạ vào nhà).",
+        "Khó mở rộng vì phụ thuộc người thực hiện; nhu cầu theo mùa (lễ, Tết).",
+        "Cần hợp đồng/điều khoản rõ ràng."
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 7,
+        "novelty": 5,
+        "lowcap": 8,
+        "china": 6
+      },
+      "id": "20261025-04-trong-thu-cung-bao-cao-video",
+      "date": "2026-10-25",
+      "total_score": 6.5,
+      "rank": 4
+    },
+    {
+      "title": "Góc ký gửi + DIY huy hiệu (吧唧) cho Gen Z — học từ đợt “vỡ bong bóng” 谷子 ở Trung Quốc",
+      "pitch": "Cửa hàng “goods” anime ở TQ đóng hàng loạt vì ôm hàng, nhưng nhu cầu vẫn còn. Người sống sót bán trải nghiệm: ký gửi, đồ cũ, DIY. Ở VN: tồn kho ≈ 0 — máy ép huy hiệu, ký gửi, pop-up cuối tuần tại quán cà phê.",
+      "type": "startup",
+      "category": [
+        "service",
+        "product"
+      ],
+      "tags": [
+        "谷子",
+        "huy hiệu",
+        "ký gửi",
+        "anime",
+        "pop-up"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Dữ liệu 谷子 là của TQ. Quy mô và hành vi mua của Gen Z Việt Nam chưa được kiểm chứng; rủi ro bản quyền IP rất cao.",
+      "confidence": "trung bình",
+      "china_signal": "Thị trường 谷子 TQ 2025 ≈ 202,1 tỷ NDT, dự báo 2026 ≈ 226,5 tỷ (iiMedia) nhưng cửa hàng đóng hàng loạt (≥155 tiệm đóng/dự kiến đóng nửa đầu 2025; 14% tiệm mới 2025 không qua nổi 1 năm). Cửa hàng sống sót thêm ký gửi, DIY thủ công, quán cà phê chủ đề; IP nội địa đã vượt IP Nhật trên Xianyu.",
+      "key_facts": [
+        {
+          "text": "Thị trường 谷子 TQ: 2025 ≈ 202,1 tỷ NDT (+gần 20%); dự báo 2026 ≈ 226,5 tỷ; >300 tỷ vào 2029 (iiMedia).",
+          "source_ids": [
+            "paper_guzi",
+            "ce_guzi"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Hai báo cáo báo chí cùng trích iiMedia."
+        },
+        {
+          "text": "Ít nhất 155 cửa hàng 谷子 đóng/dự kiến đóng trong nửa đầu 2025; ~14% cửa hàng mở mới 2025 không qua nổi 1 năm; chuỗi 潮玩星球 từ 148 → 99 tiệm, 暴蒙 từ 59 → 22.",
+          "source_ids": [
+            "paper_guzi",
+            "ce_guzi"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Cửa hàng mở với ~10 vạn NDT; hoa hồng mặt bằng ở một số trung tâm tăng từ 15% lên 30%; nhà bán lẻ bị ép “mua kèm” hàng ế (30 hộp hot + 10 hộp IP lạnh).",
+          "source_ids": [
+            "paper_guzi",
+            "ce_guzi"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Cầu vẫn còn: >50% người mua mua 谷子 mỗi tháng ít nhất 1 lần; 59% chi 50–200 NDT/lần (khảo sát Guotai Junan 2026).",
+          "source_ids": [
+            "paper_guzi",
+            "ce_guzi"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Cửa hàng sống sót thêm ký gửi, DIY thủ công, quán cà phê chủ đề, hàng cũ nhập từ Nhật giá 10–50 NDT.",
+          "source_ids": [
+            "paper_guzi",
+            "ce_guzi"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Trên Xianyu quý 1/2025, giao dịch 谷子 IP nội địa gấp 1,2 lần IP Nhật; nhóm “quốc phong” tăng 167%.",
+          "source_ids": [
+            "paper_guzi",
+            "ce_guzi"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "id": "paper_guzi",
+          "name": "澎湃新闻 (The Paper; nguồn: 中国经济导报)",
+          "title": "门店在退、市场在涨，谷子经济正在经历什么",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34125006",
+          "published": "2026-09-21",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "ce_guzi",
+          "name": "中国经济网 (nguồn: 国际商报)",
+          "title": "谷子店接连倒闭，二次元经济进入新周期",
+          "url": "http://www.ce.cn/cysc/newmain/yc/jsxw/202608/t20260826_3170151.shtml",
+          "published": "2026-08-26",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Giả thuyết: VN có cộng đồng anime/game/K-pop. Làm nhỏ: máy ép huy hiệu + thiết kế cho IP tự do/nhân vật tự sáng tác (hoặc fan-art có xin phép), pop-up cuối tuần tại quán cà phê/cửa hàng sách chia hoa hồng, nhận ký gửi từ cộng đồng. Tránh nhập hàng IP nước ngoài khi chưa có phép.",
+      "localize_global": "Không đánh giá thị trường toàn cầu trong báo cáo này.",
+      "first_steps": [
+        "Ngày 1–2: khảo sát 15–20 bạn trẻ/nhóm fan: mua gì, chi bao nhiêu/lần, mua ở đâu.",
+        "Ngày 3: xin 1–2 quán cà phê/cửa hàng sách cho pop-up 1 ngày cuối tuần (chia hoa hồng).",
+        "Ngày 4–5: thiết kế ~10 mẫu huy hiệu IP tự có; thuê gia công 50 cái.",
+        "Ngày 6–7: chạy pop-up/đặt trước thử, ghi tỷ lệ mua và phản hồi."
+      ],
+      "capital": {
+        "vnd_min_m": 10,
+        "vnd_max_m": 30,
+        "usd_min": 380,
+        "usd_max": 1150,
+        "note": "Ước tính của người soạn; có thể thấp hơn nếu thuê gia công thay vì mua máy ép."
+      },
+      "risks": [
+        "Bản quyền IP (rất cao) và hàng nhái/fan-made có thể bị gỡ.",
+        "IP thoái trào làm hàng ế; chu kỳ nóng–lạnh nhanh.",
+        "Giá trị đơn nhỏ (TQ: phần lớn chi 50–200 NDT/lần) → biên lợi nhuận mỏng.",
+        "Thị trường VN chưa kiểm chứng."
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 5,
+        "novelty": 6,
+        "lowcap": 7,
+        "china": 7
+      },
+      "id": "20261025-05-ky-gui-diy-huy-hieu",
+      "date": "2026-10-25",
+      "total_score": 6.35,
+      "rank": 5
+    },
+    {
+      "title": "Nam châm tủ lạnh in ảnh/AI theo yêu cầu — đánh giá thẳng thắn: làm được nhưng ĐÔNG, cần góc riêng",
+      "pitch": "Ý tưởng gốc của anh: web in ảnh lên nam châm tủ lạnh on-demand. Thị trường đã có người làm ở cả VN lẫn TQ; còn chỗ ở phong cách AI + ngách (thú cưng, cưới, quà lưu niệm Hà Nội, quà tặng doanh nghiệp) + tốc độ.",
+      "type": "startup",
+      "category": [
+        "ai",
+        "ecom",
+        "product"
+      ],
+      "tags": [
+        "POD",
+        "in theo yêu cầu",
+        "AI",
+        "quà tặng",
+        "ý tưởng gốc"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Cạnh tranh VN/TQ có nguồn; giá/biên lợi nhuận và nhu cầu cho phong cách AI mới là giả thuyết.",
+      "confidence": "trung bình",
+      "china_signal": "Taobao tháng 10/2026 có hàng chục listing nam châm in ảnh theo yêu cầu (giá từ ~¥7 đến ~¥99); có listing “AI tạo ảnh bó hoa” giá ¥8,8 ghi 1000+ người mua. Nền tảng thiết kế 创客贴 cho gõ mô tả → AI tạo mẫu → đặt in → giao toàn quốc. Meshy (toàn cầu) cho biến ảnh thành nam châm 3D, dịch vụ in/giao “sắp ra mắt”.",
+      "key_facts": [
+        {
+          "text": "VN đã có người làm: Lala Printed in nam châm từ 18k/ảnh, set 6 ảnh 125.000đ (~21k/ảnh), giao 3–4 ngày, chỉnh ảnh bằng AI miễn phí, ship đồng giá 25k.",
+          "source_ids": [
+            "lala"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "VN có nhiều nhà cung cấp khác (ví dụ Chodole: combo 6/9 hình, nam châm dẻo 6×8 cm, thanh toán chuyển khoản trước); kết quả tìm kiếm cũng liệt kê In4U và DXC Space (không mở được trang để xác minh giá).",
+          "source_ids": [
+            "chodole"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "In4U/DXC trả lỗi 500 khi truy cập — chưa xác minh."
+        },
+        {
+          "text": "Taobao (10/2026): danh sách “抠图冰箱贴定制” có nhiều listing nam châm acrylic/ảnh theo yêu cầu, giá hiển thị từ ~¥7,2 đến ~¥99.",
+          "source_ids": [
+            "taobao_list"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Một listing AI tạo ảnh bó hoa làm nam châm acrylic: ¥8,8, hiển thị “1000+人付款”.",
+          "source_ids": [
+            "taobao_ai"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Đọc qua bản trích tìm kiếm."
+        },
+        {
+          "text": "创客贴 (Chuangkit): gõ mô tả/tải ảnh → AI tạo mẫu nam châm → chọn chất liệu → đặt in; nói giao toàn quốc, 17.000+ điểm dịch vụ.",
+          "source_ids": [
+            "chuangkit"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Trang chặn truy cập trực tiếp; nội dung từ bản trích tìm kiếm."
+        },
+        {
+          "text": "Meshy: biến ảnh thành nam châm 3D浮雕 (mỗi thiết kế 6 credit); dịch vụ in & giao nam châm “sắp ra mắt”.",
+          "source_ids": [
+            "meshy"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Đọc qua bản trích tìm kiếm."
+        }
+      ],
+      "sources": [
+        {
+          "id": "lala",
+          "name": "Lala Printed (VN)",
+          "title": "In ảnh nam châm tủ lạnh theo yêu cầu",
+          "url": "https://lalaprinted.com/",
+          "published": null,
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Trang bán hàng, không ghi ngày."
+        },
+        {
+          "id": "chodole",
+          "name": "Chodole (VN)",
+          "title": "Combo 6 hình in nam châm hít tủ lạnh (có thể chọn hình của bạn)",
+          "url": "https://chodole.com/products/nam-cham-in-hinh-theo-yeu-cau",
+          "published": null,
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Trang bán hàng; trang này không hiển thị giá nam châm."
+        },
+        {
+          "id": "taobao_list",
+          "name": "Taobao (trang danh sách)",
+          "title": "抠图冰箱贴定制 - Top 100件 - 2026年10月更新",
+          "url": "https://www.taobao.com/list/product/%E6%8A%A0%E5%9B%BE%E5%86%B0%E7%AE%B1%E8%B4%B4%E5%AE%9A%E5%88%B6.htm",
+          "published": "2026-10",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "taobao_ai",
+          "name": "Taobao (guangtao)",
+          "title": "AI冰箱贴艺飞大师 – danh sách sản phẩm",
+          "url": "https://guangtao.taobao.com/product-c523a9af7677be20775a33e9fc481f07209108b059409c0b492809d60f6e7c66.html",
+          "published": null,
+          "accessed": "2026-10-25",
+          "how_read": "qua kết quả tìm kiếm (trang chặn truy cập trực tiếp)",
+          "note": "Có listing 'AI生成花束照片 来图定做' giá ¥8,8, hiển thị '1000+人付款'."
+        },
+        {
+          "id": "chuangkit",
+          "name": "创客贴 (Chuangkit)",
+          "title": "AI定制专属冰箱贴 – AI造实物",
+          "url": "https://www.chuangkit.com/lpad/AIbingxiangtie.html",
+          "published": null,
+          "accessed": "2026-10-25",
+          "how_read": "qua kết quả tìm kiếm (trang chặn truy cập trực tiếp)",
+          "note": "Trang trả về 'Safety check' khi truy cập trực tiếp; nội dung lấy từ bản trích kết quả tìm kiếm."
+        },
+        {
+          "id": "meshy",
+          "name": "Meshy",
+          "title": "Custom 3D fridge magnet from your photo",
+          "url": "https://www.meshy.ai/zh/creative-lab/fridge-magnet",
+          "published": null,
+          "accessed": "2026-10-25",
+          "how_read": "qua kết quả tìm kiếm (trang chặn truy cập trực tiếp)",
+          "note": "Trang nói dịch vụ in & giao nam châm 'sắp ra mắt'; hiện chỉ xem/tải thiết kế 3D."
+        }
+      ],
+      "localize_vn": "Đừng cạnh tranh trên “in ảnh thường ~20k/ảnh”. Góc có thể: (1) AI biến ảnh thành phong cách (chibi, tranh giấy, bó hoa AI…), (2) ngách thú cưng/đám cưới/quà lưu niệm phố cổ Hà Nội, (3) B2B: quà tặng sự kiện/doanh nghiệp theo lô; tự động hóa upload → AI → xem trước → gửi đối tác in (không mua máy).",
+      "localize_global": "Chưa đánh giá: nam châm mỏng nhưng phí vận chuyển quốc tế có thể ăn hết lợi nhuận (chưa có số liệu).",
+      "first_steps": [
+        "Ngày 1: landing page + form upload ảnh.",
+        "Ngày 2: chuẩn bị 3 phong cách AI mẫu.",
+        "Ngày 3–4: đặt in thử 20 ảnh qua đối tác in nam châm; so chất lượng và giá vốn.",
+        "Ngày 5–7: chạy thử quảng cáo nhỏ/nhóm gia đình–thú cưng, đo chuyển đổi; so giá với Lala."
+      ],
+      "capital": {
+        "vnd_min_m": 3,
+        "vnd_max_m": 15,
+        "usd_min": 110,
+        "usd_max": 580,
+        "note": "Ước tính: tên miền/hosting + phí API AI + in thử + quảng cáo thử (in thuê ngoài)."
+      },
+      "risks": [
+        "Cạnh tranh giá khốc liệt, ~18–21k/ảnh là mốc thị trường.",
+        "Mua một lần, ít mua lại; chi phí giao hàng ăn lợi nhuận.",
+        "Quyền riêng tư ảnh khách; tránh bắt chước nhân vật/phong cách có bản quyền.",
+        "Chất lượng in/độ bền nam châm."
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 5,
+        "novelty": 3,
+        "lowcap": 8,
+        "china": 7
+      },
+      "id": "20261025-06-nam-cham-tu-lanh-in-anh-ai",
+      "date": "2026-10-25",
+      "total_score": 6.3,
+      "rank": 6
+    },
+    {
+      "title": "Bộ kit pha chế “ít đường – mini size” (trà/soda tự pha) bán dạng gói thử",
+      "pitch": "Xiaohongshu cho thấy người dùng TQ chuyển sang “nhẹ gánh” (tìm không chất tạo ngọt, tự pha, chai nhỏ để thử). Ở VN: bộ kit trà/soda tự pha, gói nhỏ “thử một lần”, nhãn thành phần rõ ràng.",
+      "type": "startup",
+      "category": [
+        "fnb",
+        "ecom"
+      ],
+      "tags": [
+        "đồ uống",
+        "ít đường",
+        "kit DIY",
+        "mini"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Các % là tăng trưởng lượt tìm kiếm so cùng kỳ (có thể từ nền thấp), không phải doanh số; hai trang nguồn cùng diễn giải một báo cáo gốc của Xiaohongshu. Nhu cầu ở VN chưa kiểm chứng.",
+      "confidence": "thấp–trung bình",
+      "china_signal": "Báo cáo xu hướng thực phẩm–đồ uống quý của Xiaohongshu: “无甜味剂” (không chất tạo ngọt) +356%, “长期饮用” +1.593%, “小份装” +43%, “小瓶饮料” +130%, “mini装” +61%, “茉莉花茶自制” +8.749% (đều là tăng trưởng lượt tìm kiếm YoY).",
+      "key_facts": [
+        {
+          "text": "Lượt tìm kiếm Xiaohongshu YoY: “无甜味剂” +356%; “长期饮用” +1.593%; “小份装” +43%; “一人份” +19%; “一人食” +31%.",
+          "source_ids": [
+            "yydm",
+            "sgpjbg"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Hai trang đều diễn giải cùng báo cáo gốc của Xiaohongshu; trang sgpjbg chỉ đọc được qua bản trích."
+        },
+        {
+          "text": "Đồ uống: “小瓶饮料” +130%, “mini装” +61%, “便利店饮料” +51%; “无糖茶” +122%.",
+          "source_ids": [
+            "yydm",
+            "sgpjbg"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Tự pha: “茉莉花茶自制” +8.749%, “自制饮料配方” +656%; #Homebar có >120 triệu lượt xem.",
+          "source_ids": [
+            "yydm",
+            "sgpjbg"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Khuyến nghị trong báo cáo: sau khi “giảm” (đường/phụ gia) vẫn phải giữ vị và cảm giác thỏa mãn; “nhẹ” phải được chứng minh bằng thành phần/tần suất/quy cách.",
+          "source_ids": [
+            "yydm"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "yydm",
+          "name": "运营动脉 (diễn giải báo cáo Xiaohongshu)",
+          "title": "小红书食饮报告：无甜味剂搜索涨356%，配料表成了新入口",
+          "url": "https://www.yydm.cn/article/4160.html",
+          "published": "2026-10-25",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "sgpjbg",
+          "name": "三个皮匠报告 (bản tóm tắt báo cáo Xiaohongshu)",
+          "title": "小红书：TastesonTrend 应季新味·2026小红书商业快消食饮季度趋势报告",
+          "url": "https://www.sgpjbg.com/baogao/1338628.html",
+          "published": "2026-09-17",
+          "accessed": "2026-10-25",
+          "how_read": "qua kết quả tìm kiếm (trang chặn truy cập trực tiếp)",
+          "note": "Trang chặn truy cập trực tiếp (HTTP 444); nội dung lấy từ bản trích kết quả tìm kiếm. Là bản tóm tắt của cùng báo cáo gốc Xiaohongshu."
+        }
+      ],
+      "localize_vn": "Giả thuyết: trà hoa nhài/trà thảo mộc lạnh ít đường dạng kit (gói trà + topping + công thức), gói nhỏ 1–2 ly để thử; bán cho dân văn phòng qua TikTok Shop/Zalo; nhãn thành phần rõ ràng. Cần kiểm tra quy định an toàn thực phẩm/tự công bố sản phẩm ở VN trước khi bán.",
+      "localize_global": "Không đánh giá.",
+      "first_steps": [
+        "Ngày 1–2: chọn 1 công thức (trà hoa nhài lạnh ít đường + gói topping), làm 10 mẫu, cho 20 người nếm.",
+        "Ngày 3: thiết kế nhãn thành phần + giá thử.",
+        "Ngày 4–6: bán thử 30 gói cho nhóm văn phòng/Facebook, hỏi vị và độ ngọt.",
+        "Ngày 7: tính biên lợi nhuận; tìm cơ sở sản xuất có giấy phép nếu tiếp tục."
+      ],
+      "capital": {
+        "vnd_min_m": 5,
+        "vnd_max_m": 25,
+        "usd_min": 190,
+        "usd_max": 960,
+        "note": "Ước tính: nguyên liệu + bao bì + tem nhãn + quảng cáo thử; cơ sở sản xuất có giấy phép có thể thêm chi phí."
+      },
+      "risks": [
+        "Quy định an toàn thực phẩm/nhãn mác; hạn sử dụng.",
+        "Số liệu nguồn là tăng trưởng tìm kiếm, không phải nhu cầu mua.",
+        "Cạnh tranh với trà đóng chai lớn và quán trà sữa.",
+        "Vị/độ ngọt “ít đường” khó chiều khách."
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 6,
+        "novelty": 6,
+        "lowcap": 7,
+        "china": 6
+      },
+      "id": "20261025-07-kit-pha-che-it-duong-mini",
+      "date": "2026-10-25",
+      "total_score": 6.2,
+      "rank": 7
+    },
+    {
+      "title": "Watchlist đầu tư: Pop Mart “reset” hậu Labubu + Miniso (YOYO) + Bloks — chỉ theo dõi, không khuyến nghị",
+      "pitch": "Pop Mart sắp công bố cập nhật Q3 (thường nửa cuối tháng 10). Các ngân hàng dự báo doanh thu Q3 giảm mạnh do nền cao; câu hỏi năm 2027: IP mới có thay được Labubu? Lập watchlist + checklist sự kiện thay vì mua vội.",
+      "type": "invest",
+      "category": [
+        "invest",
+        "product"
+      ],
+      "tags": [
+        "Pop Mart",
+        "Labubu",
+        "Miniso",
+        "IP",
+        "cổ phiếu HK",
+        "watchlist"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Đây là ý tưởng theo dõi, KHÔNG phải khuyến nghị đầu tư. Số liệu là dự báo của ngân hàng/nhà phân tích qua bài đăng thứ ba; các tổ chức đánh giá khác nhau.",
+      "confidence": "trung bình",
+      "china_signal": "Morgan Stanley (23/10): doanh thu Q3/26 của Pop Mart dự kiến −40–45% YoY (TQ −20–25%, hải ngoại −65–70%) do nền Q3/25 cao vì bán trước Labubu quy mô lớn; JPMorgan (21/10): −37%. Nửa đầu 2026 doanh thu 17,17 tỷ NDT (+23,8%) nhưng nhóm THE MONSTERS (Labubu) −7,5%, tỷ trọng 34,7% → 26%.",
+      "key_facts": [
+        {
+          "text": "Morgan Stanley dự kiến doanh thu Q3/26 −40–45% YoY (TQ −20–25%, hải ngoại −65–70%); nền Q3/25 cao do bán trước Labubu quy mô lớn; nhu cầu Labubu đang “reset”.",
+          "source_ids": [
+            "tasty_ms"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "JPMorgan (21/10) dự kiến doanh thu Q3/26 −37% YoY, Q4 khoảng −23%, lợi nhuận điều chỉnh cả năm −27% còn ~9,341 tỷ NDT.",
+          "source_ids": [
+            "elebank_jpm"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Nửa đầu 2026: doanh thu 17,17 tỷ NDT (+23,8%); THE MONSTERS (Labubu) 4,45 tỷ NDT (−7,5%), tỷ trọng từ 34,7% xuống 26%; người sáng lập cho biết khó đạt mục tiêu tăng 20% (họp 20/8).",
+          "source_ids": [
+            "paper_guzi"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Goldman Sachs (đầu 10/2026): doanh số Tmall+Douyin của Pop Mart −44% YoY trong tháng 9 (−30% Q3); Miniso TQ GMV Q3 +25–30%; IP YOYO của Miniso vượt 1 tỷ NDT GMV toàn cầu trong 9 tháng; mốc sự kiện: cập nhật Q3 của Pop Mart (thường nửa cuối tháng 10) và giảm giá 11/11 như chỉ báo tồn kho.",
+          "source_ids": [
+            "longbridge_gs"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Các tổ chức bất đồng: Morgan Stanley giữ Overweight cho Pop Mart; Goldman Sachs Neutral với Pop Mart nhưng Buy với Miniso.",
+          "source_ids": [
+            "tasty_ms",
+            "longbridge_gs"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "id": "tasty_ms",
+          "name": "TastyMoney (trích báo cáo Morgan Stanley)",
+          "title": "大摩: 泡泡瑪特 3Q26 銷售預估年減 40–45%…",
+          "url": "https://www.tastymoney.hk/%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90/112803",
+          "published": "2026-10-23",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "elebank_jpm",
+          "name": "WallStreetCN qua Elebank (trích báo cáo JPMorgan)",
+          "title": "Key Highlights of Pop Mart's Q3 Financial Report: Revenue Expected to Decline by 30%…",
+          "url": "https://news.platform.elebank.com/en/post/1001946833/key-highlights-of-pop-mart-s-q3-financial-report-revenue",
+          "published": "2026-10-22",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "paper_guzi",
+          "name": "澎湃新闻 (The Paper; nguồn: 中国经济导报)",
+          "title": "门店在退、市场在涨，谷子经济正在经历什么",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34125006",
+          "published": "2026-09-21",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "longbridge_gs",
+          "name": "Longbridge (trích báo cáo Goldman Sachs)",
+          "title": "G Sachs: POP MART Sep Online Sales Decline Deepens; MNSO 3Q GMV Strong; BLOKS Online Growth Accelerates",
+          "url": "https://longbridge.com/en/news/301672092.md",
+          "published": null,
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Bài không ghi ngày đăng rõ; dữ liệu short-selling trong bài tính đến 2026-10-13."
+        }
+      ],
+      "localize_vn": "Giả thuyết/hướng đi: nhà đầu tư VN tiếp cận cổ phiếu HK/ADR cần kiểm tra kênh hợp pháp, chi phí, thuế — chưa xác minh. Cách rủi ro thấp: “paper trading” 4 tuần để học chu kỳ IP trước khi đặt tiền thật. Đây KHÔNG phải tư vấn đầu tư.",
+      "localize_global": "Mảng hải ngoại của Pop Mart đang “reset” (−65–70% Q3 theo MS) nhưng MS vẫn xem đây là động lực 2027–28; Miniso/YOYO tăng ở Mỹ theo GS.",
+      "first_steps": [
+        "Ngày 1: lập bảng theo dõi: Pop Mart (9992.HK), MINISO (9896.HK/MNSO), Bloks (0325.HK) — ghi giá, ngày.",
+        "Ngày 1–7: theo dõi cập nhật doanh thu Q3 của Pop Mart; ghi KPI: tăng trưởng TQ vs hải ngoại, tồn kho, tỷ trọng Labubu.",
+        "Quanh 11/11: xem mức giảm giá Singles' Day như chỉ báo tồn kho.",
+        "Ngày 7: tự quyết có mở vị thế hay không (ngoài phạm vi trang này; cân nhắc hỏi chuyên gia tài chính)."
+      ],
+      "capital": {
+        "vnd_min_m": 0,
+        "vnd_max_m": 100,
+        "usd_min": 0,
+        "usd_max": 3850,
+        "note": "Minh họa, tùy khẩu vị và hoàn toàn do bạn quyết định; không phải khuyến nghị. Theo dõi bằng paper trading thì vốn = 0."
+      },
+      "risks": [
+        "Biến động rất cao; dự báo ngân hàng có thể sai và khác nhau giữa các tổ chức.",
+        "Rủi ro chu kỳ IP (hot → nguội) — chính các nguồn nêu rõ.",
+        "Rủi ro tiếp cận thị trường/tỷ giá/thuế đối với nhà đầu tư VN.",
+        "Thông tin lấy từ bài đăng thứ ba trích báo cáo, không phải báo cáo gốc."
+      ],
+      "scores": {
+        "ease": 3,
+        "demand": 6,
+        "novelty": 3,
+        "lowcap": 4,
+        "china": 8
+      },
+      "id": "20261025-08-watchlist-popmart-sau-labubu",
+      "date": "2026-10-25",
+      "total_score": 4.95,
+      "rank": 8
+    }
+  ]
+}
