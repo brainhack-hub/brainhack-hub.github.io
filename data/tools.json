@@ -1,0 +1,828 @@
+{
+  "title": "Danh mục công cụ AI & vận hành (đã kiểm tra với trang chính thức)",
+  "verified_at": "2026-10-25",
+  "next_review": "2026-11-01",
+  "notes": [
+    "Giá/tính năng đọc từ trang chính thức ngày 25/10/2026 (giờ UTC+7), giá USD niêm yết, chưa gồm thuế; nhiều trang đổi giá/khuyến mãi theo tuần — kiểm lại trước khi mua.",
+    "Mục “chưa xác minh” = không mở được trang chính thức hoặc không đọc được số liệu; trong trường hợp đó KHÔNG nêu giá.",
+    "Khả dụng tại Việt Nam chỉ ghi “đã xác minh” khi có trang chính thức liệt kê Việt Nam; còn lại là “chưa xác minh” — kiểm tra đăng ký/thanh toán thực tế."
+  ],
+  "categories": [
+    {
+      "id": "llm",
+      "label": "Mô hình ngôn ngữ / AI"
+    },
+    {
+      "id": "image",
+      "label": "Tạo ảnh"
+    },
+    {
+      "id": "video",
+      "label": "Tạo video"
+    },
+    {
+      "id": "voice",
+      "label": "Giọng nói / TTS"
+    },
+    {
+      "id": "music",
+      "label": "Nhạc"
+    },
+    {
+      "id": "3d",
+      "label": "3D / in 3D"
+    },
+    {
+      "id": "dev",
+      "label": "Dev & hosting"
+    },
+    {
+      "id": "automation",
+      "label": "Tự động hóa"
+    },
+    {
+      "id": "edit",
+      "label": "Dựng & thiết kế"
+    },
+    {
+      "id": "commerce",
+      "label": "Bán hàng / nguồn hàng"
+    },
+    {
+      "id": "payment",
+      "label": "Thanh toán QR / ví"
+    },
+    {
+      "id": "chat",
+      "label": "Chat / CRM"
+    }
+  ],
+  "tools": [
+    {
+      "id": "claude",
+      "name": "Claude (Anthropic)",
+      "category": "llm",
+      "url": "https://claude.com/pricing",
+      "pricing_url": "https://claude.com/pricing",
+      "summary": "Trợ lý AI cho viết/chiến lược/lập trình; có gói web & API.",
+      "facts": [
+        {
+          "text": "Gói Free $0; Pro $17/tháng khi trả theo năm ($20 nếu trả theo tháng); Max từ $100/tháng (trang giá, giá USD).",
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "API (docs.claude.com): Claude Opus 5.5 $4 vào / $20 ra mỗi triệu token; Sonnet 5.5 $2 / $10; Haiku 5.5 từ $0.10 / $0.50 (prompt ≤100K token).",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "đã xác minh",
+      "vn_note": "Việt Nam có trong danh sách quốc gia được hỗ trợ (anthropic.com/supported-countries).",
+      "vi_support": "Dùng tiếng Việt tốt trong thực tế; trang chính thức không nêu cam kết riêng — chưa xác minh.",
+      "how_read": "mở trang (claude.com/pricing, docs.claude.com pricing, supported-countries)",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT / OpenAI",
+      "category": "llm",
+      "url": "https://openai.com/chatgpt/pricing/",
+      "pricing_url": "https://openai.com/chatgpt/pricing/",
+      "summary": "Trợ lý AI đa năng; có Deep research, tạo ảnh, Codex.",
+      "facts": [
+        {
+          "text": "Trang giá liệt kê các gói Free, Go, Plus, Pro, Business, Enterprise; Plus có Deep research & tạo ảnh “with Thinking”. Trang KHÔNG hiển thị số tiền khi đọc bằng máy → không nêu giá.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "đã xác minh",
+      "vn_note": "Danh sách quốc gia hỗ trợ API của OpenAI có Việt Nam (platform.openai.com/docs/supported-countries); ứng dụng ChatGPT: chưa kiểm riêng.",
+      "vi_support": null,
+      "how_read": "mở trang (openai.com/chatgpt/pricing, supported-countries)",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini (Google)",
+      "category": "llm",
+      "url": "https://gemini.google/subscriptions/",
+      "pricing_url": "https://ai.google.dev/gemini-api/docs/pricing",
+      "summary": "Trợ lý AI của Google; có app, Deep Research, API cho nhà phát triển.",
+      "facts": [
+        {
+          "text": "App: Free $0; Google AI Plus $4.99/tháng; AI Pro $19.99/tháng (giá trang hiển thị cho Mỹ; nước khác có thể khác).",
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Gemini API có gói Free cho một số model (“free of charge” có giới hạn); Gemini 4 Argon không có ở gói Free (ai.google.dev/gemini-api/docs/pricing).",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "có hạn chế",
+      "vn_note": "Gemini API: Việt Nam nằm trong danh sách vùng khả dụng (ai.google.dev/gemini-api/docs/available-regions). Gói Google AI: “hơn 160 quốc gia” — chưa kiểm riêng Việt Nam & giá theo nước.",
+      "vi_support": null,
+      "how_read": "mở trang (gemini.google/subscriptions, ai.google.dev pricing & available-regions)",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek API",
+      "category": "llm",
+      "url": "https://api-docs.deepseek.com/quick_start/pricing",
+      "pricing_url": "https://api-docs.deepseek.com/quick_start/pricing",
+      "summary": "API LLM giá rẻ, tương thích định dạng OpenAI/Anthropic.",
+      "facts": [
+        {
+          "text": "deepseek-flash (DeepSeek-V4.1-Flash-1017): đầu vào (cache miss) $0.15 / triệu token ngoài giờ cao điểm, $0.3 giờ cao điểm; đầu ra $0.6 / $1.2; hỗ trợ ảnh (vision). Giờ cao điểm = 01–04h và 06–10h UTC, thứ 2–6.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Trang tài liệu mở được; chưa tìm thấy danh sách quốc gia/điều khoản vùng — chưa xác minh dùng/thanh toán tại VN.",
+      "vi_support": null,
+      "how_read": "mở trang (api-docs.deepseek.com pricing)",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "qwen",
+      "name": "Qwen (Alibaba Cloud Model Studio)",
+      "category": "llm",
+      "url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+      "pricing_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+      "summary": "Họ model Qwen (chữ, ảnh, video) qua Alibaba Cloud Model Studio.",
+      "facts": [
+        {
+          "text": "qwen3.8-flash (giá “International”): $0.15 đầu vào / $0.47 đầu ra mỗi triệu token (0<token≤1M).",
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Có hạn mức miễn phí cho người dùng mới (trang “Free quota for new users”, cập nhật 16/10/2026) — chưa đọc chi tiết hạn mức.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh khả dụng/thanh toán tại VN (Model Studio có nhiều vùng; kiểm tra vùng Quốc tế khi đăng ký).",
+      "vi_support": null,
+      "how_read": "mở trang (Model Studio pricing + free quota)",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face",
+      "category": "llm",
+      "url": "https://huggingface.co/pricing",
+      "pricing_url": "https://huggingface.co/pricing",
+      "summary": "Kho model/dataset mã nguồn mở, Spaces (demo), Inference Providers.",
+      "facts": [
+        {
+          "text": "Tài khoản Free; Spaces: CPU Basic miễn phí, ZeroGPU miễn phí (có hạn mức); PRO $9/tháng (8× hạn mức ZeroGPU, $2 credit inference mỗi tháng); Team $20/người/tháng.",
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "GPU Spaces tính theo giờ, ví dụ Nvidia T4 small $0.40/giờ, L4 $0.80/giờ.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Trang mở được; chưa kiểm tra giới hạn theo vùng/thanh toán tại VN.",
+      "vi_support": null,
+      "how_read": "mở trang (huggingface.co/pricing)",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "nano_banana",
+      "name": "Nano Banana (Gemini image, Google)",
+      "category": "image",
+      "url": "https://ai.google.dev/gemini-api/docs/pricing",
+      "pricing_url": "https://ai.google.dev/gemini-api/docs/pricing",
+      "summary": "Tạo & chỉnh ảnh hội thoại của Google (Nano Banana 2 = Gemini 3.1 Flash Image; Nano Banana Pro).",
+      "facts": [
+        {
+          "text": "API trả phí: Nano Banana 2 (gemini-3.1-flash-image) khoảng $0.067/ảnh 1K, $0.101/ảnh 2K; Nano Banana 2.1 mô tả “nhất quán nhân vật nhiều lượt, chữ chính xác”. Gói Free của API KHÔNG có model ảnh (“Not available”).",
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Trong app Gemini: gói AI Plus/Pro nêu “more access to Nano Banana”; giới hạn gói Free của app: chưa xác minh.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "có hạn chế",
+      "vn_note": "API: Việt Nam có trong vùng khả dụng; app/gói AI: chưa kiểm riêng VN.",
+      "vi_support": null,
+      "how_read": "mở trang (ai.google.dev pricing, gemini.google/subscriptions)",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "flux",
+      "name": "FLUX (Black Forest Labs)",
+      "category": "image",
+      "url": "https://bfl.ai/pricing",
+      "pricing_url": "https://bfl.ai/pricing",
+      "summary": "Họ model ảnh FLUX; có bản mở trọng số (open weights) và API tính theo credit.",
+      "facts": [
+        {
+          "text": "API: 1 credit = $0.01; tính theo ảnh/độ phân giải; FLUX 3 Image Klein có open weights (banner trang docs). Số tiền từng model không đọc được bằng máy → không nêu giá/ảnh.",
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Gói giấy phép “Builder” (FLUX 3 Image Klein + FLUX.2 [klein]): 10K ảnh/tháng, có quyền fine-tune/LoRA (trang bfl.ai/pricing; giá không đọc được).",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Trang mở được; chưa kiểm tra giới hạn vùng/thanh toán tại VN.",
+      "vi_support": null,
+      "how_read": "mở trang (bfl.ai/pricing, docs.bfl.ai pricing)",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "seedream",
+      "name": "Seedream (ByteDance / BytePlus)",
+      "category": "image",
+      "url": "https://docs.byteplus.com/en/docs/modelark/model-pricing",
+      "pricing_url": "https://docs.byteplus.com/en/docs/modelark/model-pricing",
+      "summary": "Model ảnh của ByteDance trên BytePlus ModelArk (Seedream 5.0 pro/flash).",
+      "facts": [
+        {
+          "text": "Tài liệu BytePlus ModelArk liệt kê hướng dẫn “Seedream 5.0 pro / flash”. Chưa mở trang giá riêng nên không nêu giá.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh khả dụng tại VN (BytePlus có trang “Region availability” — chưa đọc).",
+      "vi_support": null,
+      "how_read": "mở trang (docs BytePlus ModelArk)",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "midjourney",
+      "name": "Midjourney",
+      "category": "image",
+      "url": "https://www.midjourney.com/",
+      "pricing_url": "https://www.midjourney.com/",
+      "summary": "Tạo ảnh nghệ thuật chất lượng cao qua web/Discord.",
+      "facts": [
+        {
+          "text": "Không mở được trang chính thức (Cloudflare chặn bot) → không nêu giá/tính năng.",
+          "verification": "chưa xác minh"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh.",
+      "vi_support": null,
+      "how_read": "không mở được (bị chặn bot)",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "ideogram",
+      "name": "Ideogram",
+      "category": "image",
+      "url": "https://ideogram.ai/features/",
+      "pricing_url": "https://ideogram.ai/features/",
+      "summary": "Tạo ảnh có chữ (poster, logo).",
+      "facts": [
+        {
+          "text": "Trang tính năng mở được nhưng trang giá bị chặn (403) → không nêu giá.",
+          "verification": "chưa xác minh"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh.",
+      "vi_support": null,
+      "how_read": "mở trang tính năng; trang giá không mở được",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "seedance",
+      "name": "Seedance (ByteDance)",
+      "category": "video",
+      "url": "https://ai.byteplus.com/en/",
+      "pricing_url": "https://www.capcut.com/pricing",
+      "summary": "Model tạo video của ByteDance (Seedance 2.5/2.0); có trong CapCut/Dreamina và API BytePlus ModelArk.",
+      "facts": [
+        {
+          "text": "API BytePlus: Seedance 2.5 $10.7 / triệu token (không video đầu vào), $6.4 (có video đầu vào) — cập nhật 07/08/2026; mô tả: video đến 30 giây, tới 50 tài sản đầu vào, hỗ trợ 10+ ngôn ngữ.",
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "CapCut Pro $19.99/tháng ghi “Seedance 2.5 từ $0.12/giây (tháng đầu)” và “Seedance 2.0 Mini 480p từ $0.007/giây (tháng đầu)”.",
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Chưa xác minh: quy đổi ≈ $0.10–0.23/giây (480p–720p) cho Seedance 2.5 lấy từ trang bên thứ ba, chưa đối chiếu trang BytePlus.",
+          "verification": "chưa xác minh"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh khả dụng/ưu đãi theo nước (một trang bên thứ ba nói ưu đãi Dreamina chỉ cho 12 nước — chưa kiểm chứng).",
+      "vi_support": null,
+      "how_read": "mở trang (ai.byteplus.com, capcut.com/pricing) + trích đoạn docs qua tìm kiếm",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "kling",
+      "name": "Kling AI",
+      "category": "video",
+      "url": "https://kling.ai/",
+      "pricing_url": "https://kling.ai/",
+      "summary": "Tạo video/ảnh AI của Kuaishou (Kling 4.0, Kling Image 3.0).",
+      "facts": [
+        {
+          "text": "Trang chủ giới thiệu Kling 4.0 (âm thanh–hình ảnh), Kling Image 3.0, Creative Studio, API và MCP/CLI. Trang giá không đọc được → không nêu giá.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh.",
+      "vi_support": null,
+      "how_read": "mở trang chủ; trang giá không đọc được",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "google_flow",
+      "name": "Google Flow / Veo / Gemini Omni Flash",
+      "category": "video",
+      "url": "https://gemini.google/subscriptions/",
+      "pricing_url": "https://gemini.google/subscriptions/",
+      "summary": "Xưởng sáng tạo video của Google (Flow) trong gói Google AI.",
+      "facts": [
+        {
+          "text": "AI Plus $4.99/tháng gồm 200 Flow Credits; AI Pro $19.99/tháng gồm 1.000 Flow Credits (truy cập Gemini Omni Flash); giá hiển thị cho Mỹ.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh khả dụng Flow/Veo tại VN.",
+      "vi_support": null,
+      "how_read": "mở trang (gemini.google/subscriptions)",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "runway",
+      "name": "Runway",
+      "category": "video",
+      "url": "https://runwayml.com/pricing",
+      "pricing_url": "https://runwayml.com/pricing",
+      "summary": "Tạo/chỉnh video AI (Gen-4.5, Gen-4 Turbo).",
+      "facts": [
+        {
+          "text": "Free: 125 credit một lần; Standard $12/tháng (trả năm; $15 theo tháng) = 625 credit/tháng ≈ 52 giây Gen-4.5.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh.",
+      "vi_support": null,
+      "how_read": "mở trang",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "hailuo",
+      "name": "Hailuo / MiniMax",
+      "category": "video",
+      "url": "https://www.minimax.io/",
+      "pricing_url": "https://www.minimax.io/",
+      "summary": "Hệ model MiniMax: video MiniMax H3, giọng Speech 2.8, nhạc Music 3.0, LLM M3.1.",
+      "facts": [
+        {
+          "text": "Trang chủ liệt kê MiniMax H3 (video), Speech 2.8, Music 3.0, M3.1 Flash. Trang giá chưa đọc → không nêu giá.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh.",
+      "vi_support": null,
+      "how_read": "mở trang chủ",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "wan",
+      "name": "Wan (Alibaba)",
+      "category": "video",
+      "url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+      "pricing_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+      "summary": "Họ model video Wan 3.0 qua Alibaba Cloud Model Studio (cũng có “happyhorse-1.1”).",
+      "facts": [
+        {
+          "text": "Giá quốc tế wan3.0-video: 480P ≈ $0.05/giây, 720P ≈ $0.10/giây, 1080P ≈ $0.20/giây (trang ghi “giảm 30% có thời hạn”); tối đa 30 giây/clip; hỗ trợ audio.",
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Có tổ chức Wan-AI trên Hugging Face; chưa xác nhận bản nào mở trọng số/giấy phép.",
+          "verification": "chưa xác minh"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh khả dụng/thanh toán tại VN.",
+      "vi_support": null,
+      "how_read": "mở trang (Model Studio pricing + video-generation, HF Wan-AI)",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "elevenlabs",
+      "name": "ElevenLabs",
+      "category": "voice",
+      "url": "https://elevenlabs.io/pricing",
+      "pricing_url": "https://elevenlabs.io/pricing",
+      "summary": "Giọng đọc/TTS, lồng tiếng, nhạc, hiệu ứng.",
+      "facts": [
+        {
+          "text": "Free $0 (10k credit/tháng); Starter $6/tháng (khuyến mãi $1 tháng đầu đến 1/11) có Commercial License; Creator $22/tháng; Pro $99/tháng.",
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Tiếng Việt: được hỗ trợ ở eleven_flash_v2_5 (32 ngôn ngữ) và eleven_v3 (70+); KHÔNG ở eleven_multilingual_v2 (docs chính thức, qua trích đoạn tìm kiếm).",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh khả dụng/thanh toán tại VN.",
+      "vi_support": "Có (flash_v2_5, v3)",
+      "how_read": "mở trang giá + đọc docs chính thức qua tìm kiếm",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "fish_audio",
+      "name": "Fish Audio",
+      "category": "voice",
+      "url": "https://fish.audio/plan/",
+      "pricing_url": "https://fish.audio/plan/",
+      "summary": "TTS/nhân bản giọng, có API.",
+      "facts": [
+        {
+          "text": "Free $0: 8.000 credit/tháng, ≤7 phút, ≤500 ký tự/lần; Plus $11/tháng (trả năm; $15 theo tháng) ghi “Commercial use allowed”.",
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Tiếng Việt: S2.1 Pro hỗ trợ 83 ngôn ngữ gồm tiếng Việt (docs & blog chính thức, qua trích đoạn tìm kiếm).",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh.",
+      "vi_support": "Có (S2.1 Pro)",
+      "how_read": "mở trang giá + docs qua tìm kiếm",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "suno",
+      "name": "Suno",
+      "category": "music",
+      "url": "https://suno.com/pricing",
+      "pricing_url": "https://suno.com/pricing",
+      "summary": "Tạo bài hát/nhạc nền bằng AI.",
+      "facts": [
+        {
+          "text": "Free $0: 50 credit/ngày, KHÔNG có quyền thương mại; Pro $8/tháng (trả năm): 2.500 credit, 20 lượt tải/tháng, có quyền thương mại; Premier $24/tháng.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh khả dụng tại VN; hát tiếng Việt: chưa xác minh.",
+      "vi_support": null,
+      "how_read": "mở trang",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "meshy",
+      "name": "Meshy",
+      "category": "3d",
+      "url": "https://www.meshy.ai/pricing",
+      "pricing_url": "https://www.meshy.ai/pricing",
+      "summary": "Tạo mô hình 3D từ chữ/ảnh, texture, rig; hỗ trợ in 3D.",
+      "facts": [
+        {
+          "text": "Free $0 (100 credit/tháng; giấy phép CC BY 4.0 — dùng thương mại kèm ghi nguồn); Pro $20/tháng (1.000 credit); Premium $40; Ultra $100.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh.",
+      "vi_support": null,
+      "how_read": "mở trang",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "vercel",
+      "name": "Vercel",
+      "category": "dev",
+      "url": "https://vercel.com/pricing",
+      "pricing_url": "https://vercel.com/pricing",
+      "summary": "Triển khai web/app (Next.js…), CDN, serverless.",
+      "facts": [
+        {
+          "text": "Hobby $0/tháng (“starting place for your web app or personal project”); Pro $20/tháng gồm $20 credit sử dụng.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh.",
+      "vi_support": null,
+      "how_read": "mở trang",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "supabase",
+      "name": "Supabase",
+      "category": "dev",
+      "url": "https://supabase.com/pricing",
+      "pricing_url": "https://supabase.com/pricing",
+      "summary": "CSDL Postgres + auth + storage có API.",
+      "facts": [
+        {
+          "text": "Free $0: 50.000 MAU, DB 500 MB, 1 GB file, tối đa 2 dự án, dự án bị tạm dừng sau 1 tuần không hoạt động; Pro từ $25/tháng.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh.",
+      "vi_support": null,
+      "how_read": "mở trang",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "cloudflare_pages",
+      "name": "Cloudflare Pages / Workers",
+      "category": "dev",
+      "url": "https://pages.cloudflare.com/",
+      "pricing_url": "https://pages.cloudflare.com/",
+      "summary": "Host trang tĩnh/full-stack, Workers serverless.",
+      "facts": [
+        {
+          "text": "Pages: “unlimited sites, seats, requests and bandwidth” ở mọi gói; Workers có gói Free giới hạn, gói trả phí tối thiểu $5/tháng.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh.",
+      "vi_support": null,
+      "how_read": "mở trang (pages.cloudflare.com, developers.cloudflare.com/workers pricing)",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "github_pages",
+      "name": "GitHub Pages",
+      "category": "dev",
+      "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits",
+      "pricing_url": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits",
+      "summary": "Host trang tĩnh miễn phí từ repo.",
+      "facts": [
+        {
+          "text": "Giới hạn: site ≤ 1 GB, băng thông mềm 100 GB/tháng, 10 build/giờ; KHÔNG dành cho giao dịch thương mại/SaaS thương mại → trang bán hàng/nhận thanh toán nên host chỗ khác.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh (GitHub truy cập được từ VN trên thực tế nhưng chưa có trang chính thức nêu).",
+      "vi_support": null,
+      "how_read": "mở trang (docs.github.com)",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "n8n",
+      "name": "n8n",
+      "category": "automation",
+      "url": "https://n8n.io/pricing/",
+      "pricing_url": "https://n8n.io/pricing/",
+      "summary": "Tự động hóa quy trình (workflow) có node AI, webhook.",
+      "facts": [
+        {
+          "text": "Gói Starter €20/tháng (trả năm): 2.5K lượt chạy, 1 dự án; Pro €50/tháng: 10K lượt; dùng thử miễn phí không cần thẻ. Trang giá có nêu gói “Self-hosted”.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh.",
+      "vi_support": null,
+      "how_read": "mở trang",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "zapier",
+      "name": "Zapier",
+      "category": "automation",
+      "url": "https://zapier.com/pricing",
+      "pricing_url": "https://zapier.com/pricing",
+      "summary": "Nối ứng dụng không cần code.",
+      "facts": [
+        {
+          "text": "Free $0: 100 task/tháng, Zap 2 bước; Professional từ $19.99/tháng (Zap nhiều bước, webhook).",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh.",
+      "vi_support": null,
+      "how_read": "mở trang",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "capcut",
+      "name": "CapCut",
+      "category": "edit",
+      "url": "https://www.capcut.com/pricing",
+      "pricing_url": "https://www.capcut.com/pricing",
+      "summary": "Dựng video (mobile/desktop/web), phụ đề tự động, công cụ AI.",
+      "facts": [
+        {
+          "text": "Free $0 (mẫu & công cụ cơ bản); Pro $19.99/tháng (1.200 credit AI/tháng, 1 TB lưu trữ; giá hiển thị USD); Ultra $79/tháng.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh giá/tính năng theo nước (thực tế dùng được ở VN nhưng trang chính thức không nêu).",
+      "vi_support": null,
+      "how_read": "mở trang",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "canva",
+      "name": "Canva",
+      "category": "edit",
+      "url": "https://www.canva.com/",
+      "pricing_url": "https://www.canva.com/",
+      "summary": "Thiết kế poster, banner, thẻ.",
+      "facts": [
+        {
+          "text": "Trang giá không đọc được từ công cụ (JS/404) → không nêu giá/tính năng.",
+          "verification": "chưa xác minh"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh.",
+      "vi_support": null,
+      "how_read": "không mở được trang giá",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "tiktok_shop",
+      "name": "TikTok Shop Việt Nam (Seller Center)",
+      "category": "commerce",
+      "url": "https://seller-vn.tiktok.com/",
+      "pricing_url": "https://seller-vn.tiktok.com/",
+      "summary": "Kênh bán hàng video/livestream ở Việt Nam; Học viện TikTok Shop.",
+      "facts": [
+        {
+          "text": "Trang Seller Center VN mở được (tiêu đề “Sell More on TikTok Shop Vietnam”); phí/hoa hồng không đọc được → không nêu số.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "đã xác minh",
+      "vn_note": "Sàn hoạt động tại Việt Nam (trang seller-vn.tiktok.com).",
+      "vi_support": null,
+      "how_read": "mở trang (đăng nhập; chỉ đọc tiêu đề)",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "shopee_seller",
+      "name": "Shopee Việt Nam (Kênh Người Bán)",
+      "category": "commerce",
+      "url": "https://banhang.shopee.vn/",
+      "pricing_url": "https://banhang.shopee.vn/",
+      "summary": "Sàn TMĐT lớn tại Việt Nam.",
+      "facts": [
+        {
+          "text": "Trang người bán là ứng dụng JS, không đọc được nội dung → không nêu phí/chính sách.",
+          "verification": "chưa xác minh"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Sàn Việt Nam; chi tiết phí chưa xác minh.",
+      "vi_support": null,
+      "how_read": "không đọc được nội dung",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "alibaba",
+      "name": "Alibaba.com",
+      "category": "commerce",
+      "url": "https://www.alibaba.com/",
+      "pricing_url": "https://www.alibaba.com/",
+      "summary": "Sàn B2B toàn cầu để tìm nhà cung cấp/nhà máy, có “AI sourcing agent”.",
+      "facts": [
+        {
+          "text": "Trang chủ mô tả “world’s largest online B2B marketplace” và “AI Mode — AI Sourcing Agent”. Chưa kiểm phí, giao hàng về VN, MOQ.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Mở được từ ngoài VN; chưa xác minh giao hàng/thanh toán về VN — kiểm tra từng nhà cung cấp.",
+      "vi_support": null,
+      "how_read": "mở trang chủ",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "a1688",
+      "name": "1688.com",
+      "category": "commerce",
+      "url": "https://www.1688.com/",
+      "pricing_url": "https://www.1688.com/",
+      "summary": "Sàn sỉ nội địa Trung Quốc (tiếng Trung).",
+      "facts": [
+        {
+          "text": "Không đọc được trang → không nêu tính năng/giá; thường cần tài khoản Trung Quốc hoặc đại lý — chưa xác minh.",
+          "verification": "chưa xác minh"
+        }
+      ],
+      "vn_availability": "chưa xác minh",
+      "vn_note": "Chưa xác minh.",
+      "vi_support": null,
+      "how_read": "không đọc được",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "vietqr",
+      "name": "VietQR Kit (Casso)",
+      "category": "payment",
+      "url": "https://vietqr.io/",
+      "pricing_url": "https://vietqr.io/",
+      "summary": "API công khai tạo mã VietQR động, tra cứu ngân hàng, deeplink mở app ngân hàng.",
+      "facts": [
+        {
+          "text": "Chèn ảnh VietQR bằng một URL (img.vietqr.io/image/<BIN>-<số tài khoản>-<template>.svg); có API Banks, Bank Deeplink. Trang có thông báo tháng 10/2026: thay đổi API Generate, Quicklink, Custom Theme. Giá: không nêu trên trang → chưa xác minh.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "đã xác minh",
+      "vn_note": "Dịch vụ cho ngân hàng Việt Nam.",
+      "vi_support": null,
+      "how_read": "mở trang",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "payos",
+      "name": "payOS (Casso)",
+      "category": "payment",
+      "url": "https://payos.vn/",
+      "pricing_url": "https://payos.vn/",
+      "summary": "Cổng thanh toán QR cho website/app/shop, không qua trung gian.",
+      "facts": [
+        {
+          "text": "Trang chủ ghi “Cổng thanh toán miễn phí payOS … được tài trợ chi phí bởi các ngân hàng Việt Nam”; ưu đãi payOS × BIDV: miễn phí gói BIDV-1K, tặng chữ ký số, tới 06 Soundbox (áp dụng đến 31/12/2026). Điều kiện chi tiết chưa đọc.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "đã xác minh",
+      "vn_note": "Dịch vụ Việt Nam.",
+      "vi_support": null,
+      "how_read": "mở trang",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "momo",
+      "name": "MoMo (Business)",
+      "category": "payment",
+      "url": "https://business.momo.vn/",
+      "pricing_url": "https://business.momo.vn/",
+      "summary": "Ví điện tử, thanh toán cho doanh nghiệp.",
+      "facts": [
+        {
+          "text": "Trang doanh nghiệp không đọc được → không nêu phí/tính năng.",
+          "verification": "chưa xác minh"
+        }
+      ],
+      "vn_availability": "đã xác minh",
+      "vn_note": "Dịch vụ Việt Nam; phí & điều kiện chưa xác minh.",
+      "vi_support": null,
+      "how_read": "không đọc được",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "zalo_oa",
+      "name": "Zalo Official Account (OA)",
+      "category": "chat",
+      "url": "https://oa.zalo.me/",
+      "pricing_url": "https://oa.zalo.me/",
+      "summary": "Tài khoản chính thức của doanh nghiệp trên Zalo: kết nối và tương tác khách.",
+      "facts": [
+        {
+          "text": "Trang chủ: OA là tài khoản chính thức của doanh nghiệp; có gói dịch vụ cho tính năng nâng cao theo hạn mức từng gói. Bảng giá chi tiết chưa đọc → không nêu số.",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "đã xác minh",
+      "vn_note": "Dịch vụ Việt Nam.",
+      "vi_support": null,
+      "how_read": "mở trang",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "zalo_zns",
+      "name": "Zalo Business Message (ZNS/ZBS)",
+      "category": "chat",
+      "url": "https://zalo.cloud/zns",
+      "pricing_url": "https://zalo.cloud/zns",
+      "summary": "Gửi tin nhắn mẫu giao dịch/khuyến mãi tới số điện thoại có Zalo.",
+      "facts": [
+        {
+          "text": "Trang ghi phí chỉ trả cho tin Business Message xử lý thành công, “chỉ từ 200đ”/tin; gửi không cần khách follow OA; có mẫu ZBS Template Message giao dịch & khuyến mãi (cần đăng ký mẫu).",
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "vn_availability": "đã xác minh",
+      "vn_note": "Dịch vụ Việt Nam.",
+      "vi_support": null,
+      "how_read": "mở trang",
+      "checked": "2026-10-25"
+    }
+  ]
+}

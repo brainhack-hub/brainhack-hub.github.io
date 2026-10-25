@@ -8,6 +8,7 @@ Usage:
   python3 scripts/add_day.py data/2026-10-26.json --check-links   # also HTTP-check every source URL
   python3 scripts/add_day.py --all                           # validate every day file in data/ + data/vn-youth.json
   python3 scripts/add_day.py --youth [--check-links]         # validate only the VN youth profile (data/vn-youth.json)
+  python3 scripts/add_day.py --tools [--check-links]         # validate only the tool registry (data/tools.json)
 
 Standard library only (Python 3.8+).
 """
@@ -20,6 +21,15 @@ DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 VERIFICATION = {"2+ nguồn độc lập", "1 nguồn gốc", "chưa xác minh"}
 CONFIDENCE = {"cao", "trung bình", "thấp–trung bình", "thấp"}
 HOW_READ_OPEN = "mở trang"
+VN_AVAIL = {"đã xác minh", "có hạn chế", "chưa xác minh"}
+PRICE_RE = re.compile(r"[$€£]\s?\d|\d\s?(?:USD|EUR|đ\b|VND|NDT|¥)|\d\s?/\s?(?:tháng|giây|ảnh|mo\b|month)", re.I)
+_TOOLS_CACHE = {}
+def tool_ids():
+    if "ids" not in _TOOLS_CACHE:
+        pth = os.path.join(DATA, "tools.json")
+        _TOOLS_CACHE["ids"] = {t["id"]: t for t in load(pth).get("tools", [])} if os.path.exists(pth) else {}
+    return _TOOLS_CACHE["ids"]
+
 
 def load(path):
     with open(path, encoding="utf-8") as f:
@@ -175,6 +185,7 @@ def validate(day, cfg, path, fix=False):
                             and n.rstrip(".,").replace(".", "").replace(",", "").isdigit() and int(n.rstrip(".,").replace(".", "").replace(",", "")) > 20})
             if extra:
                 warns.append(f"{lab}: claude_prompt có số không có trong dữ liệu nguồn của ý tưởng: {', '.join(extra[:8])} — kiểm tra không bịa")
+        errors.extend(validate_toolstack(lab, i))
         for r in i.get("regions") or []:
             if r not in regions:
                 errors.append(f"{lab}: region không hợp lệ: {r}")
@@ -271,6 +282,99 @@ def validate(day, cfg, path, fix=False):
                 (warns if fix else errors).append(f"idea {i['id']}: rank={i.get('rank')} ≠ tính lại {p['rank']}")
     return errors, warns
 
+def validate_toolstack(lab, i):
+    errs = []
+    ts = i.get("toolstack")
+    if not ts:
+        return [f"{lab}: thiếu 'toolstack' (bộ công cụ đề xuất)"]
+    reg = tool_ids()
+    if not DATE_RE.match(str(ts.get("checked", ""))):
+        errs.append(f"{lab}: toolstack.checked phải là YYYY-MM-DD")
+    if ts.get("confidence") not in CONFIDENCE:
+        errs.append(f"{lab}: toolstack.confidence không hợp lệ")
+    if not ts.get("wow") or len(ts["wow"]) < 20:
+        errs.append(f"{lab}: toolstack.wow thiếu/quá ngắn")
+    tools = ts.get("tools") or []
+    if not (3 <= len(tools) <= 7):
+        errs.append(f"{lab}: toolstack.tools cần 3–7 công cụ (hiện {len(tools)})")
+    seen = set()
+    for t in tools:
+        tid = t.get("tool_id")
+        if tid not in reg:
+            errs.append(f"{lab}: toolstack tool_id không có trong tools.json: {tid}")
+        if tid in seen:
+            errs.append(f"{lab}: toolstack trùng tool_id {tid}")
+        seen.add(tid)
+        for k in ("role", "why"):
+            if not t.get(k):
+                errs.append(f"{lab}: toolstack/{tid} thiếu '{k}'")
+        for a in t.get("alt_ids") or []:
+            if a not in reg:
+                errs.append(f"{lab}: toolstack/{tid} alt_id không có trong tools.json: {a}")
+    allowed = seen | {a for t in tools for a in (t.get("alt_ids") or [])}
+    for v in ("budget", "premium"):
+        b = ts.get(v) or {}
+        if not b.get("tool_ids") or not b.get("monthly_cost_note") or not b.get("tradeoff"):
+            errs.append(f"{lab}: toolstack.{v} thiếu tool_ids/monthly_cost_note/tradeoff")
+        for k in b.get("tool_ids") or []:
+            if k not in reg:
+                errs.append(f"{lab}: toolstack.{v} tool_id không có trong tools.json: {k}")
+            elif k not in allowed:
+                errs.append(f"{lab}: toolstack.{v} dùng {k} nhưng không có trong tools/alt_ids của ý tưởng")
+    cp = i.get("claude_prompt") or ""
+    for t in tools:
+        if t.get("tool_id") in reg and reg[t["tool_id"]]["name"] not in cp:
+            errs.append(f"{lab}: claude_prompt chưa nhắc công cụ {reg[t['tool_id']]['name']} của toolstack")
+    # ghi chú chi phí chỉ được dùng công cụ có trong registry: cảnh báo nếu nhắc công cụ 'chưa xác minh giá'
+    return errs
+
+def validate_tools():
+    path = os.path.join(DATA, "tools.json")
+    errors, warns = [], []
+    if not os.path.exists(path):
+        return ["tools.json: không tìm thấy"], {}
+    t = load(path)
+    for k in ("verified_at", "next_review", "categories", "tools"):
+        if not t.get(k):
+            errors.append(f"tools: thiếu '{k}'")
+    for dk in ("verified_at", "next_review"):
+        if t.get(dk) and not DATE_RE.match(t[dk]):
+            errors.append(f"tools: '{dk}' sai định dạng")
+    if t.get("verified_at") and DATE_RE.match(t["verified_at"]):
+        age = (date.today() - date.fromisoformat(t["verified_at"])).days
+        if age > 7:
+            warns.append(f"tools: đã {age} ngày chưa kiểm lại (quy định: ≤ 7 ngày) — chạy re-verify hàng tuần")
+    cats = {c["id"] for c in t.get("categories", [])}
+    ids = set()
+    for x in t.get("tools", []):
+        lab = f"tools/{x.get('id')}"
+        if x.get("id") in ids:
+            errors.append(f"{lab}: trùng id")
+        ids.add(x.get("id"))
+        for k in ("id", "name", "category", "url", "summary", "vn_availability", "checked", "how_read", "facts"):
+            if not x.get(k):
+                errors.append(f"{lab}: thiếu '{k}'")
+        if x.get("category") not in cats:
+            errors.append(f"{lab}: category không hợp lệ")
+        for uk in ("url", "pricing_url"):
+            if x.get(uk) and not is_url(x[uk]):
+                errors.append(f"{lab}: {uk} không phải URL http(s)")
+        if x.get("vn_availability") not in VN_AVAIL:
+            errors.append(f"{lab}: vn_availability không hợp lệ")
+        if x.get("checked") and not DATE_RE.match(x["checked"]):
+            errors.append(f"{lab}: checked sai định dạng")
+        for f in x.get("facts", []):
+            if f.get("verification") not in VERIFICATION:
+                errors.append(f"{lab}: fact verification không hợp lệ: {f.get('verification')}")
+            if f.get("verification") == "chưa xác minh" and PRICE_RE.search(f.get("text", "")) and "chưa xác minh" not in f["text"].lower():
+                warns.append(f"{lab}: fact 'chưa xác minh' có vẻ chứa giá — nêu rõ là chưa xác minh hoặc bỏ: {f['text'][:70]}")
+        if x.get("how_read") and not str(x["how_read"]).startswith(HOW_READ_OPEN) and not any(f.get("verification") == "chưa xác minh" for f in x["facts"]):
+            warns.append(f"{lab}: how_read='{x['how_read']}' nhưng không có fact nào 'chưa xác minh' — kiểm tra")
+    print(f"== data/tools.json: {len(errors)} lỗi, {len(warns)} cảnh báo")
+    for e in errors: print("  ERROR:", e)
+    for x in warns: print("  warn :", x)
+    return errors, t
+
 def validate_youth(cfg):
     path = os.path.join(DATA, "vn-youth.json")
     errors, warns = [], []
@@ -308,6 +412,9 @@ def check_links(day):
     for blk in blocks:
         for s in blk.get("sources", []):
             urls[s["url"]] = s["id"]
+    for tt in day.get("tools", []):
+        for uk in ("url", "pricing_url"):
+            if tt.get(uk): urls[tt[uk]] = tt["id"]
     for u in urls:
         ok, code = False, None
         for method in ("HEAD", "GET"):
@@ -349,19 +456,24 @@ def main():
     ap.add_argument("--check-links", action="store_true")
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--youth", action="store_true", help="chỉ kiểm tra data/vn-youth.json")
+    ap.add_argument("--tools", action="store_true", help="chỉ kiểm tra data/tools.json")
     a = ap.parse_args()
     cfg = load(os.path.join(DATA, "config.json"))
     w = weights(cfg)
     if a.rebuild_index and not a.file:
         rebuild_index(cfg); return 0
     files = sorted(glob.glob(os.path.join(DATA, "????-??-??.json"))) if a.all else ([a.file] if a.file else [])
-    if not files and not a.youth:
+    if not files and not a.youth and not a.tools:
         ap.print_help(); return 2
     rc = 0
     if a.youth or a.all:
         yerrs, y = validate_youth(cfg)
         if yerrs: rc = 1
         if a.check_links: check_links(y)
+    if a.tools or a.all:
+        terrs, tt = validate_tools()
+        if terrs: rc = 1
+        if a.check_links and tt: check_links(tt)
     for f in files:
         day = load(f)
         if a.fix:

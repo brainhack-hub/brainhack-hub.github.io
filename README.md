@@ -8,6 +8,7 @@ Trung tâm **ý tưởng kinh doanh mỗi ngày** (tiếng Việt) — mỗi ng�
 - **Hôm nay**: ngày rõ ràng, huy hiệu *MỚI HÔM NAY*, các thẻ ý tưởng xếp hạng (có cờ vùng tín hiệu 🇨🇳🇰🇷🇯🇵🇺🇸…), mục *Xu hướng thế giới hôm nay* (có link nguồn). Bộ lọc **Vùng tín hiệu** lọc cả ý tưởng lẫn xu hướng.
 - **Ảnh minh họa mỗi ý tưởng** (`assets/ideas/<id>.webp`, ≤150KB, có alt): thumbnail trên thẻ, ảnh lớn khi mở chi tiết; tải lười, cache bởi service worker (cache riêng `bh-img-v1`).
 - **🤖 Copy prompt** (mục *Triển khai*): mỗi ý tưởng có `claude_prompt` tiếng Việt tự đủ ý (bối cảnh, tín hiệu có nguồn, khách hàng giới trẻ VN, kế hoạch MVP 1 tuần, sản phẩm Claude phải tạo, ràng buộc, định dạng đầu ra); nút Copy dùng Clipboard API, có phương án dự phòng và thông báo, hiển thị số ký tự.
+- **🧰 Bộ công cụ đề xuất** (mỗi ý tưởng, mục *Chi tiết*): 3–7 công cụ (LLM, ảnh, video, giọng, nhạc, 3D, dev/hosting, tự động hóa, bán hàng, thanh toán QR, Zalo…) — mỗi công cụ có vai trò trong ý tưởng, lý do chọn + phương án thay thế, ghi chú giá/free-tier kèm ngày kiểm, link trang chính thức, nhãn *khả dụng ở VN* và nhãn mức xác minh; dòng **Wow**; hai biến thể **Tiết kiệm** vs **Cao cấp** với chi phí chỉ cộng từ giá đã xác minh. Thẻ có hàng chip công cụ (bấm để lọc); bộ lọc & ô tìm kiếm có **Công cụ**; tab **🧰 Công cụ** (`#/cong-cu`) là danh mục đầy đủ (`data/tools.json`). Công cụ không mở được trang chính thức ghi **chưa xác minh và không nêu giá**.
 - **🔥 Từ khóa** (`#/tu-khoa`): từ khóa/chủ đề hot theo vùng (VN, CN, KR, JP, US, toàn cầu) — mỗi mục có hạng, nguồn, giờ chụp, độ tin cậy, nhóm theo chủ đề, nối tới ý tưởng; lọc theo vùng/chủ đề; liệt kê nguồn **không truy cập được** (không bịa).
 - **🧑 Giới trẻ** (`#/gioi-tre`): *Chân dung giới trẻ Việt Nam* — 22 dữ kiện có nguồn/ngày truy cập/mức xác minh; mỗi ý tưởng có mục *Phù hợp hành vi giới trẻ VN* trỏ về đúng dữ kiện.
 - **Xếp hạng**: bảng xếp hạng tổng hợp mọi ngày. **Lưu trữ**: duyệt theo ngày.
@@ -23,6 +24,7 @@ icons/                          icon PWA
 assets/ideas/                   ảnh minh họa từng ý tưởng (webp ≤150KB)
 data/config.json                tiêu chí & trọng số, vùng, chủ đề từ khóa, danh mục, mức vốn, tỷ giá
 data/vn-youth.json              chân dung giới trẻ VN (kiểm lại hằng tuần: add_day.py --youth)
+data/tools.json                 danh mục công cụ + giá/tính năng đã kiểm với trang chính thức (kiểm lại hằng tuần: add_day.py --tools)
 data/YYYY-MM-DD.json            dữ liệu từng ngày (trends, ideas, keywords, keyword_sources, keyword_unreachable)
 data/index.json                 chỉ mục (do script dựng — đừng sửa tay)
 scripts/add_day.py              kiểm tra + tính điểm/hạng + dựng index

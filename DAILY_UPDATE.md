@@ -3,7 +3,7 @@
 Mục tiêu: mỗi ngày thêm **một file `data/YYYY-MM-DD.json`** (ngày theo múi giờ Asia/Saigon, UTC+7) gồm **≥ 8 ý tưởng xếp hạng + ≥ 4 tín hiệu xu hướng đa vùng (Trung Quốc vẫn là trọng tâm; thêm KR/JP/US, và SEA/EU/IN khi có) + bảng từ khóa & chủ đề hot**, dựa trên nghiên cứu thật. **Chất lượng và độ chính xác quan trọng hơn tốc độ.** Không bịa số liệu, không bịa link.
 
 ## 1. Quy trình (đúng thứ tự)
-0. **Ảnh + `claude_prompt` cho mọi ý tưởng mới** (mục 8). **Làm mới từ khóa hot** (mục 6) và, nếu `data/vn-youth.json` đã quá 7 ngày, **kiểm lại chân dung giới trẻ** (mục 7).
+0. **Ảnh + `claude_prompt` + `toolstack` cho mọi ý tưởng mới** (mục 8, 9). Nếu `data/tools.json` quá 7 ngày, **kiểm lại công cụ** (mục 9). **Làm mới từ khóa hot** (mục 6) và, nếu `data/vn-youth.json` đã quá 7 ngày, **kiểm lại chân dung giới trẻ** (mục 7).
 1. **Nghiên cứu** (mục 2) — tìm xu hướng/tín hiệu *mới trong ~7 ngày*: Trung Quốc (Xinhua, China Daily, 36Kr, TechNode, Pandaily, Yicai, 界面, 人民网…), Hàn (Korea Herald/Times/JoongAng, Yonhap, Sportschosun, Olive Young…), Nhật (Fun Japan, Nikkei, Yahoo Japan realtime…), Mỹ (Z Media/TikTok Shop, Retail Dive, TechCrunch…), SEA/EU/IN khi có. Có thể trùng chủ đề hôm trước nếu có diễn biến mới; không lặp nguyên ý tưởng cũ — xem `data/index.json` để tránh trùng.
 2. **Tạo `data/YYYY-MM-DD.json`** theo schema (mục 3). Bắt đầu bằng cách copy file ngày gần nhất làm khung.
 3. **Kiểm tra & tính điểm:** `python3 scripts/add_day.py data/YYYY-MM-DD.json --fix`
@@ -50,6 +50,9 @@ Mục tiêu: mỗi ngày thêm **một file `data/YYYY-MM-DD.json`** (ngày theo
       "hypothesis": true|false, "hypothesis_note": "(bắt buộc nếu hypothesis)", "confidence": "thấp|trung bình|cao",
       "image": "assets/ideas/<id>.webp", "image_alt": "mô tả ảnh (≥15 ký tự)",
       "claude_prompt": "prompt tiếng Việt để dán vào Claude (mục 8)",
+      "toolstack": { "checked": "YYYY-MM-DD", "confidence": "…", "wow": "1 câu 'wow'",
+          "tools": [ 3–7 × { "tool_id": "id trong data/tools.json", "role", "why", "alt_ids": [..], "alt_note"? } ],
+          "budget": { "tool_ids": [..], "monthly_cost_note", "tradeoff" }, "premium": { …như budget… } },   // mục 9
       "regions": ["CN", "KR", …],
       "signal_text": "tín hiệu quốc tế (có số liệu + ngày)",
       "vn_youth_fit": "vì sao hợp/không hợp hành vi giới trẻ VN (có trích dữ kiện)",
@@ -94,7 +97,8 @@ python3 scripts/add_day.py data/YYYY-MM-DD.json            # chỉ kiểm tra
 python3 scripts/add_day.py data/YYYY-MM-DD.json --fix      # tính điểm/hạng + dựng index
 python3 scripts/add_day.py --rebuild-index                 # dựng lại index
 python3 scripts/add_day.py --youth                         # kiểm data/vn-youth.json
-python3 scripts/add_day.py --all --check-links             # kiểm toàn bộ file (gồm vn-youth.json) + link
+python3 scripts/add_day.py --tools [--check-links]         # kiểm data/tools.json (≤ 7 ngày, nhãn xác minh, url)
+python3 scripts/add_day.py --all --check-links             # kiểm toàn bộ file (gồm vn-youth.json, tools.json) + link
 ```
 
 ## 6. Làm mới tab *Từ khóa & chủ đề hot* (mỗi ngày)
@@ -138,3 +142,16 @@ Quy tắc:
 8. Định dạng đầu ra (tóm tắt + giả định → bảng 7 ngày → từng sản phẩm → chỉ số & ngưỡng quyết định → 5 rủi ro).
 
 Quy tắc: không chèn số liệu ngoài dữ liệu có nguồn của ý tưởng — `add_day.py` cảnh báo mọi số > 20 trong prompt mà không có trong `title/pitch/signal_text/key_facts/vn_youth_fit/localize_vn/first_steps/capital/risks`. 18 prompt của ngày 2026-10-25 là mẫu tham chiếu (xem `data/2026-10-25.json`). UI hiển thị số ký tự và nút **Copy prompt** (thẻ + mục *Triển khai*).
+
+## 9. Bộ công cụ (`toolstack`) & `data/tools.json` — kiểm lại hằng tuần (bắt buộc)
+**Kiến trúc:** `data/tools.json` là *registry* duy nhất cho giá/tính năng/khả dụng ở VN; mỗi ý tưởng chỉ tham chiếu `tool_id` (không chép giá vào ý tưởng) nên cập nhật hằng tuần ở một chỗ. Mỗi tool: `id, name, category, url, pricing_url, summary, facts[{text, verification}], vn_availability, vn_note, vi_support, how_read, checked`.
+
+**Quy trình kiểm lại (mỗi 7 ngày hoặc trước khi dùng công cụ mới):**
+1. **Mở trang chính thức** của từng công cụ (trang giá + docs) — không dùng blog/bên thứ ba cho giá. Ghi `how_read` = `mở trang (…)`; ghi ngày vào `checked`; cập nhật `verified_at`/`next_review` ở đầu file.
+2. **Không mở/đọc được** (chặn bot, JS-only, 403, trang trống) ⇒ fact ghi `verification: "chưa xác minh"`, **KHÔNG nêu giá/tính năng**, `how_read` ghi rõ lý do. Thử lại bằng `curl` rồi trình duyệt trước khi bỏ cuộc. Giá chỉ đọc được từ bên thứ ba ⇒ ghi “Chưa xác minh: …” và nêu rõ nguồn.
+3. **Không bịa model/tính năng**: chỉ ghi tên model/tính năng xuất hiện trên trang chính thức vừa mở. Ví dụ: Seedance — chỉ giá token của BytePlus hoặc dòng giá của CapCut; quy đổi $/giây từ trang bên thứ ba là “chưa xác minh”.
+4. **Khả dụng ở VN:** `vn_availability = "đã xác minh"` CHỈ khi trang chính thức liệt kê Việt Nam (hoặc dịch vụ của VN: VietQR, payOS, Zalo, TikTok Shop VN); còn lại `chưa xác minh`; có giới hạn đã biết ⇒ `có hạn chế` + ghi `vn_note`. Ghi giới hạn thương mại (gói Free không cho dùng thương mại, GitHub Pages không dành cho trang thanh toán…).
+5. **Mức xác minh** dùng đúng 3 nhãn như phần còn lại: `2+ nguồn độc lập` / `1 nguồn gốc` / `chưa xác minh`. Giá niêm yết USD/€ chưa gồm thuế; ghi chú nếu hiển thị theo vùng.
+6. Chạy `python3 scripts/add_day.py --tools --check-links`, rồi `--all --fix`. Giá đổi ⇒ cập nhật lại `monthly_cost_note` của các `toolstack` bị ảnh hưởng (chi phí chỉ cộng từ giá đã xác minh; phần chưa xác minh phải ghi “giá chưa xác minh”).
+
+**Mỗi ý tưởng mới BẮT BUỘC có `toolstack`** (script báo lỗi nếu thiếu): 3–7 công cụ, mỗi công cụ có `role` (làm gì trong *ý tưởng này*) + `why` (vì sao hợp, kèm `alt_ids` thay thế); `wow` (1 câu); `budget` (rẻ nhất khả thi) và `premium`; mọi `tool_id` phải có trong `tools.json` (cần công cụ mới ⇒ thêm vào registry kèm nghiên cứu như trên, không đoán); `budget/premium.tool_ids` ⊆ tools + `alt_ids` của ý tưởng. **`claude_prompt` phải nhắc đúng tên các công cụ đó** (mục 4 *Ràng buộc* — tên + vai trò, KHÔNG giá) để Claude dùng đúng bộ công cụ; script kiểm điều này. Chọn công cụ theo ý tưởng, không dùng một bộ cho tất cả; ưu tiên công cụ có kênh dùng được ở VN và nhắc rõ khi cần thẻ quốc tế/VPN.

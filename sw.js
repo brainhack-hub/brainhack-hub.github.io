@@ -4,7 +4,7 @@
  * - Bump VERSION whenever you change index.html / css / js / icons so old caches are purged.
  *   (Daily data updates do NOT require a bump.)
  */
-const VERSION = 'v1.2.0';
+const VERSION = 'v1.3.0';
 const SHELL = 'bh-shell-' + VERSION;
 const IMG = 'bh-img-v1'; // illustrations are content-addressed by idea id; kept across shell versions
 const DATA = 'bh-data-' + VERSION;
