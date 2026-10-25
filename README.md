@@ -11,10 +11,11 @@ Trung tâm **ý tưởng kinh doanh mỗi ngày** (tiếng Việt) — mỗi ng�
 - **🧰 Bộ công cụ đề xuất** (mỗi ý tưởng, mục *Chi tiết*): 3–7 công cụ (LLM, ảnh, video, giọng, nhạc, 3D, dev/hosting, tự động hóa, bán hàng, thanh toán QR, Zalo…) — mỗi công cụ có vai trò trong ý tưởng, lý do chọn + phương án thay thế, ghi chú giá/free-tier kèm ngày kiểm, link trang chính thức, nhãn *khả dụng ở VN* và nhãn mức xác minh; dòng **Wow**; hai biến thể **Tiết kiệm** vs **Cao cấp** với chi phí chỉ cộng từ giá đã xác minh. Thẻ có hàng chip công cụ (bấm để lọc); bộ lọc & ô tìm kiếm có **Công cụ**; tab **🧰 Công cụ** (`#/cong-cu`) là danh mục đầy đủ (`data/tools.json`). Công cụ không mở được trang chính thức ghi **chưa xác minh và không nêu giá**.
 - **🔥 Từ khóa** (`#/tu-khoa`): từ khóa/chủ đề hot theo vùng (VN, CN, KR, JP, US, toàn cầu) — mỗi mục có hạng, nguồn, giờ chụp, độ tin cậy, nhóm theo chủ đề, nối tới ý tưởng; lọc theo vùng/chủ đề; liệt kê nguồn **không truy cập được** (không bịa).
 - **🧑 Giới trẻ** (`#/gioi-tre`): *Chân dung giới trẻ Việt Nam* — 22 dữ kiện có nguồn/ngày truy cập/mức xác minh; mỗi ý tưởng có mục *Phù hợp hành vi giới trẻ VN* trỏ về đúng dữ kiện.
+- **📰 Đọc báo** (`#/doc-bao`): tin công nghệ, chuỗi cung ứng/vật tư và đặc biệt **AI trong xây dựng & phát triển bất động sản** (cả Việt Nam). Mỗi ngày có *Tóm tắt 5 điều cần biết hôm nay*, danh sách nhóm theo chủ đề (AI-xây-dựng / Chuỗi cung ứng / Công nghệ / VN-thị trường), lọc theo chủ đề/vùng/nguồn/trạng thái, tìm kiếm (toàn bộ các ngày), kho lưu trữ theo ngày, đánh dấu **đã đọc / chưa đọc** và **lưu** (localStorage `bh.news.v1`), nút **Mở bài gốc** (`target=_blank rel="noopener noreferrer"`). Mỗi tin có tóm tắt tiếng Việt do người soạn viết sau khi mở bài gốc, nhãn *mức đã đọc* (đọc đầy đủ / đọc một phần / chỉ đọc đoạn trích / chỉ đọc tiêu đề), loại nguồn (tin độc lập, thông cáo nhà cung cấp, ý kiến, khảo sát…), mục *Vì sao quan trọng với đấu thầu/mua sắm* (ghi rõ là phân tích), và danh sách nguồn không mở được. Dữ liệu: `data/news/YYYY-MM-DD.json`, kiểm bằng `scripts/add_news.py`.
 - **Xếp hạng**: bảng xếp hạng tổng hợp mọi ngày. **Lưu trữ**: duyệt theo ngày.
 - Lọc theo danh mục (AI, TMĐT/DTC, sản phẩm tiêu dùng, dịch vụ, nội dung/MXH, F&B, B2B, đầu tư/xu hướng), loại (Khởi nghiệp nhỏ / Cơ hội đầu tư), mức vốn, mức độ khó; sắp xếp theo điểm; tìm kiếm.
 - ⭐ gắn sao + trạng thái (quan tâm / đang thử / bỏ qua) lưu trong `localStorage` (có xuất/nhập JSON ở tab *Đã lưu*).
-- Sáng/tối, offline (service worker, cache có phiên bản; `data/*.json` ưu tiên mạng).
+- Sáng/tối, offline (service worker, cache có phiên bản; `data/*.json` — gồm `data/news/*.json` — ưu tiên mạng).
 
 ## Cấu trúc
 ```
@@ -27,6 +28,9 @@ data/vn-youth.json              chân dung giới trẻ VN (kiểm lại hằng 
 data/tools.json                 danh mục công cụ + giá/tính năng đã kiểm với trang chính thức (kiểm lại hằng tuần: add_day.py --tools)
 data/YYYY-MM-DD.json            dữ liệu từng ngày (trends, ideas, keywords, keyword_sources, keyword_unreachable)
 data/index.json                 chỉ mục (do script dựng — đừng sửa tay)
+data/news/YYYY-MM-DD.json       tin "Đọc báo" từng ngày (digest 5 điểm, items, unreachable)
+data/news/index.json            chỉ mục tin (do add_news.py dựng — đừng sửa tay)
+scripts/add_news.py             kiểm tra tin, khử trùng URL giữa các ngày, kiểm link, dựng data/news/index.json
 scripts/add_day.py              kiểm tra + tính điểm/hạng + dựng index
 DAILY_UPDATE.md                 quy trình cập nhật hằng ngày (đọc kỹ)
 ```

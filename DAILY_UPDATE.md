@@ -3,7 +3,7 @@
 Mục tiêu: mỗi ngày thêm **một file `data/YYYY-MM-DD.json`** (ngày theo múi giờ Asia/Saigon, UTC+7) gồm **≥ 8 ý tưởng xếp hạng + ≥ 4 tín hiệu xu hướng đa vùng (Trung Quốc vẫn là trọng tâm; thêm KR/JP/US, và SEA/EU/IN khi có) + bảng từ khóa & chủ đề hot**, dựa trên nghiên cứu thật. **Chất lượng và độ chính xác quan trọng hơn tốc độ.** Không bịa số liệu, không bịa link.
 
 ## 1. Quy trình (đúng thứ tự)
-0. **Ảnh + `claude_prompt` + `toolstack` cho mọi ý tưởng mới** (mục 8, 9). Nếu `data/tools.json` quá 7 ngày, **kiểm lại công cụ** (mục 9). **Làm mới từ khóa hot** (mục 6) và, nếu `data/vn-youth.json` đã quá 7 ngày, **kiểm lại chân dung giới trẻ** (mục 7).
+0. **Ảnh + `claude_prompt` + `toolstack` cho mọi ý tưởng mới** (mục 8, 9). **Làm mới tab *Đọc báo*** (mục 10 — tin của ngày + digest 5 điểm). Nếu `data/tools.json` quá 7 ngày, **kiểm lại công cụ** (mục 9). **Làm mới từ khóa hot** (mục 6) và, nếu `data/vn-youth.json` đã quá 7 ngày, **kiểm lại chân dung giới trẻ** (mục 7).
 1. **Nghiên cứu** (mục 2) — tìm xu hướng/tín hiệu *mới trong ~7 ngày*: Trung Quốc (Xinhua, China Daily, 36Kr, TechNode, Pandaily, Yicai, 界面, 人民网…), Hàn (Korea Herald/Times/JoongAng, Yonhap, Sportschosun, Olive Young…), Nhật (Fun Japan, Nikkei, Yahoo Japan realtime…), Mỹ (Z Media/TikTok Shop, Retail Dive, TechCrunch…), SEA/EU/IN khi có. Có thể trùng chủ đề hôm trước nếu có diễn biến mới; không lặp nguyên ý tưởng cũ — xem `data/index.json` để tránh trùng.
 2. **Tạo `data/YYYY-MM-DD.json`** theo schema (mục 3). Bắt đầu bằng cách copy file ngày gần nhất làm khung.
 3. **Kiểm tra & tính điểm:** `python3 scripts/add_day.py data/YYYY-MM-DD.json --fix`
@@ -98,7 +98,10 @@ python3 scripts/add_day.py data/YYYY-MM-DD.json --fix      # tính điểm/hạn
 python3 scripts/add_day.py --rebuild-index                 # dựng lại index
 python3 scripts/add_day.py --youth                         # kiểm data/vn-youth.json
 python3 scripts/add_day.py --tools [--check-links]         # kiểm data/tools.json (≤ 7 ngày, nhãn xác minh, url)
-python3 scripts/add_day.py --all --check-links             # kiểm toàn bộ file (gồm vn-youth.json, tools.json) + link
+python3 scripts/add_day.py --news [--check-links]          # kiểm data/news/*.json (cùng việc với add_news.py --all)
+python3 scripts/add_news.py data/news/YYYY-MM-DD.json [--check-links]   # kiểm 1 ngày tin + dựng data/news/index.json
+python3 scripts/add_news.py --all | --rebuild-index        # kiểm mọi ngày tin / chỉ dựng lại index tin
+python3 scripts/add_day.py --all --check-links             # kiểm toàn bộ file (gồm vn-youth.json, tools.json, news) + link
 ```
 
 ## 6. Làm mới tab *Từ khóa & chủ đề hot* (mỗi ngày)
@@ -155,3 +158,22 @@ Quy tắc: không chèn số liệu ngoài dữ liệu có nguồn của ý tư�
 6. Chạy `python3 scripts/add_day.py --tools --check-links`, rồi `--all --fix`. Giá đổi ⇒ cập nhật lại `monthly_cost_note` của các `toolstack` bị ảnh hưởng (chi phí chỉ cộng từ giá đã xác minh; phần chưa xác minh phải ghi “giá chưa xác minh”).
 
 **Mỗi ý tưởng mới BẮT BUỘC có `toolstack`** (script báo lỗi nếu thiếu): 3–7 công cụ, mỗi công cụ có `role` (làm gì trong *ý tưởng này*) + `why` (vì sao hợp, kèm `alt_ids` thay thế); `wow` (1 câu); `budget` (rẻ nhất khả thi) và `premium`; mọi `tool_id` phải có trong `tools.json` (cần công cụ mới ⇒ thêm vào registry kèm nghiên cứu như trên, không đoán); `budget/premium.tool_ids` ⊆ tools + `alt_ids` của ý tưởng. **`claude_prompt` phải nhắc đúng tên các công cụ đó** (mục 4 *Ràng buộc* — tên + vai trò, KHÔNG giá) để Claude dùng đúng bộ công cụ; script kiểm điều này. Chọn công cụ theo ý tưởng, không dùng một bộ cho tất cả; ưu tiên công cụ có kênh dùng được ở VN và nhắc rõ khi cần thẻ quốc tế/VPN.
+
+## 10. Tab *Đọc báo* — làm mới mỗi ngày (bắt buộc, cùng độ nghiêm ngặt)
+
+Tạo `data/news/YYYY-MM-DD.json` (ngày theo UTC+7) **15–25 tin, ≥ 8 tin chủ đề AI trong xây dựng/BĐS**, rồi chạy `python3 scripts/add_news.py data/news/YYYY-MM-DD.json --check-links`. Script khử trùng URL giữa các ngày và dựng `data/news/index.json`.
+
+**Chủ đề (`topic`)**: `ai_xd` (AI trong xây dựng & BĐS: thiết kế/BIM, generative design, dự toán/QTO, đấu thầu & mua sắm tự động, giám sát công trường/drone/computer vision, an toàn, tiến độ, digital twin, prefab/modular, contech & gọi vốn — VN và thế giới) · `chuoi_cung_ung` (chuỗi cung ứng, mua sắm, vật liệu, logistics) · `cong_nghe` (công nghệ chung) · `vn` (VN–thị trường: giá vật liệu, BĐS, hạ tầng, chính sách ở Hà Nội/TP.HCM).
+
+**Quy trình đọc (không được bỏ bước):**
+1. Quét RSS/trang chủ/tìm kiếm các nguồn uy tín: Construction Dive, ENR, Supply Chain Dive, SupplyChainBrain, FreightWaves, Logistics Management; blog/newsroom Autodesk, Procore, Trimble, Bentley, Newforma, các startup contech; McKinsey/BCG/Deloitte; Reuters/Bloomberg (trang công khai); TechCrunch, The Verge, MIT Technology Review; VnExpress, CafeF, VIR, Báo Xây dựng, Tạp chí Xây dựng, VnEconomy, Reatimes, Tuổi Trẻ, Vietnam Logistics Review; nguồn Trung Quốc qua bản tiếng Anh.
+2. **Mở từng bài** (curl, WebFetch hoặc trình duyệt). **Ngày đăng lấy từ chính trang bài** (meta `article:published_time`/JSON-LD/dòng đăng) — *không* lấy từ RSS (RSS của vài báo lệch giờ). Ghi `published` dạng ISO có múi giờ (hoặc chỉ `YYYY-MM-DD` và `time_known:false`), cùng `date_basis`.
+3. **Chỉ lấy tin ≤ ~7 ngày.** Tin cũ hơn chỉ giữ khi thật sự liên quan, và phải gắn `older_than_7d:true` + `older_note` (script báo lỗi nếu thiếu).
+4. **Không mở được/paywall → đừng tóm tắt từ trí nhớ.** Hoặc bỏ, hoặc dùng `verification:"chỉ đọc tiêu đề"` (tóm tắt ≤ 2 câu, chỉ nói điều tiêu đề cho biết). Mọi nguồn không truy cập được ghi vào `unreachable` (kể cả RSS hỏng) — không giấu.
+5. **Tóm tắt 2–4 câu tiếng Việt do mình viết**, dùng *chỉ* thông tin có trong bài. Không chép đoạn dài (script chặn trích nguyên văn > 25 từ), **không thêm số liệu ngoài bài**; số liệu nào cũng đối chiếu lại với trang bài. Khi bài tự mâu thuẫn (ví dụ ngày) thì nêu trong `note`, đừng chọn bừa.
+6. **Nhãn `verification`** trung thực: `đọc đầy đủ` · `đọc một phần` (ghi rõ phần đã đọc trong `how_read`) · `chỉ đọc đoạn trích` · `chỉ đọc tiêu đề`. **Nhãn `source_type`**: tin độc lập · thông cáo/blog nhà cung cấp (lợi ích do hãng tự nêu — nói rõ "theo hãng") · ý kiến · khảo sát/báo cáo (nêu cỡ mẫu) · bảng giá tổng hợp · văn bản/sự kiện cơ quan nhà nước.
+7. `why_it_matters` (1–2 câu) là **phân tích của mình**, UI gắn nhãn "phân tích của tôi". Đừng đưa số liệu mới vào đây. `idea_ids` chỉ gắn khi thực sự liên quan.
+8. **`digest`** đúng 5 điểm "cần biết hôm nay" (`title`, `text`, `item_ids` trỏ đúng tin trong ngày); nhắc rõ khi tin là thông cáo hãng, closed beta hay mẫu khảo sát nhỏ.
+9. Xem thử local (`#/doc-bao`, desktop + mobile, 0 lỗi console), commit `data/news/` rồi push. Chỉ thêm file tin ngày → **không** cần đổi `VERSION` của `sw.js` (`data/news/*.json` đi qua nhánh network-first như `data/*.json`).
+
+**Schema mỗi tin:** `id` (`n-YYYYMMDD-NN-slug`), `title` (nguyên văn), `title_vi`, `source{name,kind}`, `url` (https), `published`, `time_known`, `date_basis`, `topic`, `region` (VN/US/EU/AU/CN/KR/JP/SEA/Global), `summary_vi`, `why_it_matters`, `tags[1–8]`, `verification`, `source_type`, `how_read`, `accessed`; tùy chọn `idea_ids[]`, `note`, `older_than_7d`+`older_note`. File ngày có thêm `headline`, `generated_at`, `digest[5]`, `unreachable[]`.

@@ -16,7 +16,7 @@
   var saveUser = function () { LS.set('bh.user.v1', user); };
 
   /* ---------- state ---------- */
-  var S = { cfg: null, index: null, days: {}, ideas: [], trends: [], w: {}, openIds: {}, offline: false, youth: null, tools: null, toolMap: {} };
+  var S = { cfg: null, index: null, days: {}, ideas: [], trends: [], w: {}, openIds: {}, offline: false, youth: null, tools: null, toolMap: {}, news: null };
   var F = { cat: '', type: '', cap: '', eff: '', st: '', reg: '', tool: '', sort: 'total', q: '' };
   var KF = { reg: '', th: '' };
 
@@ -388,6 +388,101 @@
       '<h2>Lưu ý</h2><p class="muted">Đây là công cụ gợi ý ý tưởng, <b>không phải tư vấn đầu tư/pháp lý</b>. Số liệu thị trường là ước tính của bên thứ ba. Nguồn tiếng Trung được người soạn đọc và tóm tắt sang tiếng Việt.</p>';
   }
 
+  /* ---------- Đọc báo (news) ---------- */
+  var NU = LS.get('bh.news.v1', { read: {}, saved: {} });
+  NU.read = NU.read || {}; NU.saved = NU.saved || {};
+  var saveNU = function () { LS.set('bh.news.v1', NU); };
+  var NF = { topic: '', region: '', src: '', st: '' };
+  function loadNews() {
+    return fetchJSON('data/news/index.json').then(function (idx) {
+      var N = { index: idx, days: {}, items: [] };
+      return Promise.all(idx.days.map(function (d) { return fetchJSON('data/news/' + d.file).then(function (j) { N.days[d.date] = j; }); })).then(function () {
+        Object.keys(N.days).sort().reverse().forEach(function (dt) { (N.days[dt].items || []).forEach(function (it) { it._date = dt; it._pub = pubInfo(it); N.items.push(it); }); });
+        S.news = N;
+      });
+    });
+  }
+  function pubInfo(it) {
+    var p = String(it.published || ''), ms, label;
+    if (/^\d{4}-\d{2}-\d{2}$/.test(p)) { ms = Date.parse(p + 'T00:00:00+07:00'); label = dmy(p) + ' (chỉ có ngày đăng, múi giờ VN)'; }
+    else { ms = Date.parse(p); if (isNaN(ms)) return { ms: 0, label: p }; var v = new Date(ms + 7 * 3600e3); label = pad(v.getUTCDate()) + '/' + pad(v.getUTCMonth() + 1) + '/' + v.getUTCFullYear() + (it.time_known ? ' ' + pad(v.getUTCHours()) + ':' + pad(v.getUTCMinutes()) + ' (UTC+7)' : ' (chưa rõ giờ)'); }
+    return { ms: ms, label: label };
+  }
+  function topicLabel(id) { var t = (S.news.index.topics || []).filter(function (x) { return x.id === id; })[0]; return t ? t.label : id; }
+  var TOPIC_ICON = { ai_xd: '🏗', chuoi_cung_ung: '🚚', cong_nghe: '💻', vn: '🇻🇳' };
+  function regionLabel(id) { var t = (S.news.index.regions || []).filter(function (x) { return x.id === id; })[0]; return t ? t.label : id; }
+  function verClass(v) { return v === 'đọc đầy đủ' ? 'v2' : v === 'đọc một phần' ? 'v1' : 'vu'; }
+  function newsMatch(it) {
+    if (NF.topic && it.topic !== NF.topic) return false;
+    if (NF.region && it.region !== NF.region) return false;
+    if (NF.src && it.source.name !== NF.src) return false;
+    if (NF.st === 'unread' && NU.read[it.id]) return false;
+    if (NF.st === 'saved' && !NU.saved[it.id]) return false;
+    var q = (F.q || '').toLowerCase();
+    if (q && (it.title + ' ' + it.title_vi + ' ' + it.summary_vi + ' ' + it.why_it_matters + ' ' + it.source.name + ' ' + (it.tags || []).join(' ')).toLowerCase().indexOf(q) < 0) return false;
+    return true;
+  }
+  function newsCard(it) {
+    var rd = !!NU.read[it.id], sv = !!NU.saved[it.id];
+    var ideas = (it.idea_ids || []).map(function (id) { var x = S.ideas.filter(function (y) { return y.id === id; })[0]; return x ? '<a class="chip small" href="#/y-tuong/' + esc(id) + '">💡 #' + x._overall + ' ' + esc(x.title.split(/[—:(“]/)[0].trim().slice(0, 40)) + '</a>' : ''; }).join(' ');
+    return '<article class="card newscard' + (rd ? ' isread' : '') + '" id="' + esc(it.id) + '" data-nid="' + esc(it.id) + '">' +
+      '<div class="nmeta"><span class="tag">' + (TOPIC_ICON[it.topic] || '') + ' ' + esc(topicLabel(it.topic)) + '</span><span class="tag reg">' + esc(regionLabel(it.region)) + '</span>' +
+      '<span class="vb ' + verClass(it.verification) + '" title="Mức tôi đã đọc bài gốc">' + esc(it.verification) + '</span><span class="tag">' + esc(it.source_type) + '</span>' +
+      (it.older_than_7d ? '<span class="badge hyp">cũ &gt; 7 ngày</span>' : '') + (rd ? '' : '<span class="badge new">chưa đọc</span>') + '</div>' +
+      '<h3>' + esc(it.title_vi) + '</h3>' +
+      (it.title !== it.title_vi ? '<p class="small muted otitle" lang="en">' + esc(it.title) + '</p>' : '') +
+      '<p class="small muted">' + esc(it.source.name) + ' · ' + esc(it._pub.label) + '</p>' +
+      '<p class="nsum">' + esc(it.summary_vi) + '</p>' +
+      '<div class="box why"><b>Vì sao quan trọng với đấu thầu / mua sắm / xây dựng</b> <span class="vb v1">phân tích của tôi</span><br>' + esc(it.why_it_matters) + '</div>' +
+      (it.note ? '<div class="note small">Lưu ý: ' + esc(it.note) + '</div>' : '') + (it.older_note ? '<div class="note small">Tin cũ: ' + esc(it.older_note) + '</div>' : '') +
+      '<div class="tags">' + (it.tags || []).map(function (g) { return '<span class="tag">#' + esc(g) + '</span>'; }).join('') + '</div>' + (ideas ? '<div class="kwl">' + ideas + '</div>' : '') +
+      '<details class="more" data-id="' + esc(it.id) + '"><summary>Cách tôi đã đọc</summary><p class="small muted">' + esc(it.how_read) + ' · cơ sở ngày đăng: ' + esc(it.date_basis) + ' · truy cập ' + dmy(it.accessed) + '</p></details>' +
+      '<div class="acts"><a class="btn small primary" data-nopen="1" href="' + esc(safeUrl(it.url)) + '" target="_blank" rel="noopener noreferrer">Mở bài gốc ↗</a>' +
+      '<button type="button" class="btn small" data-nact="read" aria-pressed="' + rd + '">' + (rd ? '↩ Đánh dấu chưa đọc' : '✓ Đã đọc') + '</button>' +
+      '<button type="button" class="btn small" data-nact="save" aria-pressed="' + sv + '">' + (sv ? '★ Đã lưu' : '☆ Lưu') + '</button></div></article>';
+  }
+  function newsScope(dt) {
+    var scoped = !!((F.q || '').trim() || NF.st === 'saved');
+    return { scoped: scoped, items: scoped ? S.news.items : (S.news.days[dt].items || []).map(function (i) { return i; }) };
+  }
+  function newsListHtml(dt) {
+    var sc = newsScope(dt), list = sc.items.filter(newsMatch), h = '';
+    list.sort(function (a, b) { return b._pub.ms - a._pub.ms; });
+    h += '<p class="muted small" id="ncount">' + list.length + '/' + sc.items.length + ' tin' + (sc.scoped ? ' · đang xét tất cả các ngày' : '') + ' · ' + list.filter(function (i) { return !NU.read[i.id]; }).length + ' chưa đọc</p>';
+    if (!list.length) return h + '<div class="empty">Không có tin khớp bộ lọc. <button type="button" class="btn small" data-nact="clear">Xóa bộ lọc</button></div>';
+    S.news.index.topics.forEach(function (t) {
+      var items = list.filter(function (i) { return i.topic === t.id; }); if (!items.length) return;
+      h += '<section class="kwtheme"><h2>' + (TOPIC_ICON[t.id] || '') + ' ' + esc(t.label) + ' <span class="muted small">' + items.length + ' tin</span></h2><div class="grid cols2">' + items.map(newsCard).join('') + '</div></section>';
+    });
+    return h;
+  }
+  function viewNews(dt) {
+    var N = S.news; if (!N || !N.index.days.length) return '<div class="empty">Chưa có tin nào.</div>';
+    dt = (dt && N.days[dt]) ? dt : N.index.latest; var day = N.days[dt], items = day.items || [];
+    var chips = function (key, arr, all, cnt) { return '<button type="button" class="chip" data-nf="' + key + '" data-v="" aria-pressed="' + (NF[key] === '') + '">' + all + '</button>' + arr.map(function (x) { return '<button type="button" class="chip" data-nf="' + key + '" data-v="' + esc(x.id) + '" aria-pressed="' + (NF[key] === x.id) + '">' + esc(x.label) + (cnt ? ' <span class="muted">' + cnt(x.id) + '</span>' : '') + '</button>'; }).join(''); };
+    var tcnt = function (id) { return items.filter(function (i) { return i.topic === id; }).length; };
+    var regs = N.index.regions.filter(function (r) { return items.some(function (i) { return i.region === r.id; }); });
+    var srcNames = []; items.forEach(function (i) { if (srcNames.indexOf(i.source.name) < 0) srcNames.push(i.source.name); }); srcNames.sort();
+    var unread = items.filter(function (i) { return !NU.read[i.id]; }).length;
+    var h = '<div class="sec"><h1>📰 Đọc báo</h1><span class="muted small">' + longDate(dt) + ' · giờ hiển thị UTC+7</span></div>' +
+      '<p class="muted">Tin công nghệ, chuỗi cung ứng/vật tư và đặc biệt <b>AI trong xây dựng &amp; phát triển bất động sản</b>, kèm góc nhìn Việt Nam. Mỗi tin do tôi mở bài gốc, tự tóm tắt bằng tiếng Việt và ghi rõ <b>mức đã đọc</b>; phần “vì sao quan trọng” là phân tích của tôi, không phải của bài báo.</p>' +
+      '<div class="box digest" id="digest"><h2>Tóm tắt 5 điều cần biết hôm nay</h2><ol>' + (day.digest || []).map(function (p) {
+        return '<li><b>' + esc(p.title) + '</b><br><span class="small">' + esc(p.text) + '</span><br>' + (p.item_ids || []).map(function (id, k) { var di = items.filter(function (x) { return x.id === id; })[0]; return '<a class="chip small" href="#' + esc(id) + '" data-nsrc="' + esc(id) + '">↓ ' + esc(di ? di.source.name.replace(/\s*\(.*$/, '') : 'tin ' + (k + 1)) + '</a>'; }).join(' ') + '</li>';
+      }).join('') + '</ol></div>' +
+      '<div class="filters"><div class="frow"><span class="lbl">Ngày</span><select id="newsdate" aria-label="Chọn ngày">' + N.index.days.map(function (d) { return '<option value="' + esc(d.date) + '"' + (d.date === dt ? ' selected' : '') + '>' + dmy(d.date) + ' · ' + d.item_count + ' tin</option>'; }).join('') + '</select>' +
+      '<span class="grow"></span><button type="button" class="btn small" data-nact="allread">✓ Đánh dấu cả ngày đã đọc (' + unread + ' chưa đọc)</button></div>' +
+      '<div class="frow"><span class="lbl">Chủ đề</span>' + chips('topic', N.index.topics, 'Tất cả', tcnt) + '</div>' +
+      '<div class="frow"><span class="lbl">Vùng</span>' + chips('region', regs, 'Tất cả') + '</div>' +
+      '<div class="frow"><span class="lbl">Nguồn</span><select id="newssrc" aria-label="Lọc theo nguồn"><option value="">Tất cả nguồn (' + srcNames.length + ')</option>' + srcNames.map(function (n) { return '<option value="' + esc(n) + '"' + (NF.src === n ? ' selected' : '') + '>' + esc(n) + '</option>'; }).join('') + '</select></div>' +
+      '<div class="frow"><span class="lbl">Trạng thái</span>' + chips('st', [{ id: 'unread', label: 'Chưa đọc' }, { id: 'saved', label: '★ Đã lưu (mọi ngày)' }], 'Tất cả') + '</div>' +
+      '<p class="muted small">Gõ vào ô tìm kiếm phía trên để tìm trong tất cả các ngày. Trạng thái đọc/lưu chỉ nằm trên thiết bị này.</p></div>' +
+      '<div id="nlist">' + newsListHtml(dt) + '</div>' +
+      '<details class="more"><summary>Nguồn không mở được / paywall hôm nay (' + (day.unreachable || []).length + ')</summary><div class="box"><ul>' + (day.unreachable || []).map(function (u) { return '<li><b>' + esc(u.source) + '</b>: ' + esc(u.status) + (u.impact ? ' — ' + esc(u.impact) : '') + '</li>'; }).join('') + '</ul></div></details>' +
+      '<details class="more"><summary>Cách đọc các nhãn</summary><div class="box"><ul><li><span class="vb v2">đọc đầy đủ</span> tôi đã mở và đọc gần hết nội dung bài.</li><li><span class="vb v1">đọc một phần</span> chỉ đọc một phần nội dung (ghi rõ trong “Cách tôi đã đọc”).</li><li><span class="vb vu">chỉ đọc đoạn trích / tiêu đề</span> không mở được toàn bài (paywall…); tóm tắt rất hạn chế.</li><li>Loại nguồn: tin độc lập · thông cáo/blog nhà cung cấp (lợi ích do hãng tự nêu) · ý kiến · khảo sát/báo cáo (xem cỡ mẫu) · bảng giá tổng hợp.</li></ul></div></details>';
+    return h;
+  }
+  function newsRerender() { var dt = ((location.hash || '').split('/')[2]) || S.news.index.latest; if (!S.news.days[dt]) dt = S.news.index.latest; var l = $('#nlist'); if (l) l.innerHTML = newsListHtml(dt); }
+
   /* ---------- router ---------- */
   function route() {
     var h = location.hash || '#/hom-nay';
@@ -401,11 +496,16 @@
     else if (r === 'da-luu') html = viewSaved();
     else if (r === 'phuong-phap') html = viewMethod();
     else if (r === 'tu-khoa') html = viewKeywords(seg[1]);
+    else if (r === 'doc-bao') {
+      if (!S.news) { app.innerHTML = '<p class="loading">Đang tải tin…</p>'; $$('#nav a').forEach(function (a) { if (a.dataset.r === 'doc-bao') a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); }); loadNews().then(route, function (er) { app.innerHTML = '<div class="empty"><p><b>Không tải được tin.</b></p><p class="muted small">' + esc(er.message) + '</p><p><button class="btn" onclick="location.reload()">Thử lại</button></p></div>'; }); return; }
+      html = viewNews(seg[1]);
+    }
     else if (r === 'gioi-tre') html = viewYouth();
     else if (r === 'cong-cu') html = viewTools(seg[1]);
     else if (r === 'y-tuong' && seg[1]) { var it = S.ideas.filter(function (x) { return x.id === seg[1]; })[0]; S.openIds[seg[1]] = true; html = it ? '<p><a href="#/xep-hang">← Bảng xếp hạng</a></p>' + ideaCard(it, { overall: true }) : '<div class="empty">Không tìm thấy ý tưởng.</div>'; nav = 'xep-hang'; }
     else { html = '<div class="empty">Không tìm thấy trang. <a href="#/hom-nay">Về Hôm nay</a></div>'; }
     app.innerHTML = html;
+    var qe = $('#q'); if (qe) qe.placeholder = r === 'doc-bao' ? 'Tìm trong tin, nguồn, thẻ…' : 'Tìm ý tưởng, thẻ, công cụ, nguồn…';
     $$('#nav a').forEach(function (a) { if (a.dataset.r === nav) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
     updateCount();
     window.scrollTo(0, 0);
@@ -433,6 +533,28 @@
   /* ---------- events ---------- */
   document.addEventListener('click', function (e) {
     var t = e.target.closest('button,a'); if (!t) return;
+    if (t.dataset.nf !== undefined) { NF[t.dataset.nf] = t.dataset.v; var sy4 = window.scrollY; route(); window.scrollTo(0, sy4); return; }
+    if (t.dataset.nopen) { var nc = t.closest('.newscard'); if (nc && !NU.read[nc.dataset.nid]) { NU.read[nc.dataset.nid] = Date.now(); saveNU(); setTimeout(function () { var nit0 = S.news.items.filter(function (x) { return x.id === nc.dataset.nid; })[0]; if (nit0 && nc.isConnected) { var tm0 = document.createElement('div'); tm0.innerHTML = newsCard(nit0); var o0 = nc.querySelector('details.more'); if (o0 && o0.open) tm0.firstChild.querySelector('details.more').open = true; nc.replaceWith(tm0.firstChild); var nct0 = $('#ncount'); if (nct0 && NF.st) newsRerender(); } }, 80); } return; }
+    if (t.dataset.nact) {
+      var a1 = t.dataset.nact, nc2 = t.closest('.newscard');
+      if (a1 === 'clear') { NF = { topic: '', region: '', src: '', st: '' }; F.q = ''; $('#q').value = ''; route(); return; }
+      if (a1 === 'allread') { var dd = ((location.hash || '').split('/')[2]) || S.news.index.latest; ((S.news.days[dd] || {}).items || []).forEach(function (i) { NU.read[i.id] = NU.read[i.id] || Date.now(); }); saveNU(); var sy5 = window.scrollY; route(); window.scrollTo(0, sy5); toast('Đã đánh dấu cả ngày là đã đọc'); return; }
+      if (nc2) {
+        var nid = nc2.dataset.nid;
+        if (a1 === 'read') { if (NU.read[nid]) delete NU.read[nid]; else NU.read[nid] = Date.now(); } else if (a1 === 'save') { if (NU.saved[nid]) delete NU.saved[nid]; else NU.saved[nid] = Date.now(); }
+        saveNU();
+        var nit = S.news.items.filter(function (x) { return x.id === nid; })[0]; var op = nc2.querySelector('details.more').open;
+        var tm = document.createElement('div'); tm.innerHTML = newsCard(nit); if (op) tm.firstChild.querySelector('details.more').open = true; nc2.replaceWith(tm.firstChild);
+        var nct = $('#ncount'); if (nct && NF.st) newsRerender();
+        return;
+      }
+    }
+    if (t.dataset.nsrc) {
+      e.preventDefault(); var tid = t.dataset.nsrc, tel = document.getElementById(tid);
+      if (!tel) { NF = { topic: '', region: '', src: '', st: '' }; F.q = ''; $('#q').value = ''; route(); tel = document.getElementById(tid); }
+      if (tel) { tel.scrollIntoView({ block: 'center' }); tel.style.outline = '3px solid var(--brand)'; setTimeout(function () { tel.style.outline = ''; }, 1800); }
+      return;
+    }
     if (t.dataset.kf !== undefined) { KF[t.dataset.kf] = t.dataset.v; var sy = window.scrollY; route(); window.scrollTo(0, sy); return; }
     if (t.dataset.tool) {
       F.tool = t.dataset.tool; var rt = (location.hash || '#/hom-nay').replace(/^#\/?/, '').split('/')[0] || 'hom-nay';
@@ -473,6 +595,8 @@
   document.addEventListener('toggle', function (e) { var d = e.target; if (d.matches && d.matches('details.more')) S.openIds[d.dataset.id] = d.open; }, true);
   document.addEventListener('change', function (e) {
     var s = e.target;
+    if (s.id === 'newsdate') { location.hash = '#/doc-bao/' + s.value; return; }
+    if (s.id === 'newssrc') { NF.src = s.value; var sy6 = window.scrollY; route(); window.scrollTo(0, sy6); return; }
     if (s.dataset && s.dataset.fs) { F[s.dataset.fs] = s.value; refreshFilterUI(); rerenderList(); }
     if (s.id === 'impf' && s.files[0]) { var fr = new FileReader(); fr.onload = function () { try { var j = JSON.parse(fr.result); var u = j.user || j; if (u && u.stars && u.status) { Object.assign(user.stars, u.stars); Object.assign(user.status, u.status); saveUser(); toast('Đã khôi phục dữ liệu đã lưu'); route(); } else toast('File không đúng định dạng'); } catch (er) { toast('File không đọc được'); } }; fr.readAsText(s.files[0]); }
   });
@@ -481,6 +605,7 @@
     clearTimeout(qT); qT = setTimeout(function () {
       F.q = qEl.value.trim();
       var r = (location.hash || '#/hom-nay').replace(/^#\/?/, '').split('/')[0];
+      if (r === 'doc-bao') { var sy7 = window.scrollY; route(); window.scrollTo(0, sy7); return; }
       if (r === 'cong-cu') { var sy3 = window.scrollY; route(); window.scrollTo(0, sy3); return; }
       if (F.q && (r === 'phuong-phap' || r === 'gioi-tre' || (r === 'luu-tru' && !location.hash.split('/')[2]))) { location.hash = '#/xep-hang'; return; }
       if (r === 'tu-khoa') { var sy2 = window.scrollY; route(); window.scrollTo(0, sy2); return; }

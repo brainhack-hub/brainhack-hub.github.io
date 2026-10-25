@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-25",
+  "latest": "2026-10-25",
+  "topics": [
+    {
+      "id": "ai_xd",
+      "label": "AI trong xây dựng"
+    },
+    {
+      "id": "chuoi_cung_ung",
+      "label": "Chuỗi cung ứng"
+    },
+    {
+      "id": "cong_nghe",
+      "label": "Công nghệ"
+    },
+    {
+      "id": "vn",
+      "label": "VN – thị trường"
+    }
+  ],
+  "regions": [
+    {
+      "id": "VN",
+      "label": "Việt Nam"
+    },
+    {
+      "id": "US",
+      "label": "Mỹ"
+    },
+    {
+      "id": "EU",
+      "label": "Châu Âu"
+    },
+    {
+      "id": "AU",
+      "label": "Úc"
+    },
+    {
+      "id": "CN",
+      "label": "Trung Quốc"
+    },
+    {
+      "id": "KR",
+      "label": "Hàn Quốc"
+    },
+    {
+      "id": "JP",
+      "label": "Nhật Bản"
+    },
+    {
+      "id": "SEA",
+      "label": "Đông Nam Á"
+    },
+    {
+      "id": "Global",
+      "label": "Toàn cầu"
+    }
+  ],
+  "verification": [
+    "đọc đầy đủ",
+    "đọc một phần",
+    "chỉ đọc đoạn trích",
+    "chỉ đọc tiêu đề"
+  ],
+  "days": [
+    {
+      "date": "2026-10-25",
+      "file": "2026-10-25.json",
+      "headline": "Đọc báo 25/10/2026: AI đi vào mua sắm & hồ sơ thầu, vật liệu và thị trường Việt Nam",
+      "item_count": 25,
+      "topics": {
+        "ai_xd": 11,
+        "chuoi_cung_ung": 5,
+        "cong_nghe": 3,
+        "vn": 6
+      }
+    }
+  ]
+}

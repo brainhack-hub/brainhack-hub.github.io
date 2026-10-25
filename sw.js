@@ -1,10 +1,10 @@
 /* brain-hack service worker
  * - App shell: stale-while-revalidate (instant open, refreshed in background).
- * - data/*.json: NETWORK-FIRST (so a new day's data shows immediately), falls back to cache offline.
+ * - data/*.json (incl. data/news/*.json for "Đọc báo"): NETWORK-FIRST (so a new day's data shows immediately), falls back to cache offline.
  * - Bump VERSION whenever you change index.html / css / js / icons so old caches are purged.
  *   (Daily data updates do NOT require a bump.)
  */
-const VERSION = 'v1.3.0';
+const VERSION = 'v1.4.0';
 const SHELL = 'bh-shell-' + VERSION;
 const IMG = 'bh-img-v1'; // illustrations are content-addressed by idea id; kept across shell versions
 const DATA = 'bh-data-' + VERSION;

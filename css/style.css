@@ -219,3 +219,19 @@ ol.tools .tp{margin-top:.2rem}
 .variant .vt{display:flex;flex-wrap:wrap;gap:.25rem;margin:.3rem 0}
 .toolcard h3{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center}
 @media (max-width:620px){ .variants{grid-template-columns:1fr} }
+
+/* ---------- Đọc báo ---------- */
+.newscard{border-left:4px solid var(--brand)}
+.newscard.isread{border-left-color:var(--line)}
+.newscard.isread h3,.newscard.isread .nsum{opacity:.78}
+.nmeta{display:flex;flex-wrap:wrap;gap:.3rem;align-items:center;margin-bottom:.35rem}
+.newscard h3{margin:.1rem 0 .15rem;font-size:1.04rem;line-height:1.3}
+.newscard .otitle{margin:0 0 .2rem;font-style:italic}
+.nsum{margin:.35rem 0 .5rem}
+.box.why{border-left:3px solid var(--accent)}
+.digest{border-left:4px solid var(--brand);background:color-mix(in srgb,var(--brand) 8%,var(--surface))}
+.digest h2{margin:.1rem 0 .4rem;font-size:1.1rem}
+.digest ol{margin:0;padding-left:1.25rem;display:grid;gap:.55rem}
+.filters select{font:inherit;font-size:.88rem;max-width:100%;padding:.3rem .5rem;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--text)}
+.newscard .acts .btn[aria-pressed="true"]:not(.primary){border-color:var(--brand);color:var(--brand)}
+@media (max-width:520px){ .newscard .acts .btn{flex:1 1 auto;text-align:center;min-height:40px}  }

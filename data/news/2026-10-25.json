@@ -1,0 +1,830 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T17:00:00+07:00",
+  "headline": "Đọc báo 25/10/2026: AI đi vào mua sắm & hồ sơ thầu, vật liệu và thị trường Việt Nam",
+  "digest": [
+    {
+      "title": "AI agent đi thẳng vào mua sắm và submittal (Procore)",
+      "text": "Tại Groundbreak, Procore giới thiệu agent submittal (đã chạy thật), nhật ký mua sắm trong nền tảng (closed beta) và digital twin với NVIDIA (closed beta). Đây là các thông tin từ hãng/ENR; tính năng mua sắm chưa ra bản chính thức.",
+      "item_ids": [
+        "n-20261025-01-procore-ai-agents",
+        "n-20261025-02-procore-nvidia-digital-twin"
+      ]
+    },
+    {
+      "title": "AI đọc hồ sơ thầu: báo giá, bản vẽ, hợp đồng",
+      "text": "Zebel (đọc báo giá nhà thầu phụ), Trimble Document Crunch (rà bản vẽ cùng hợp đồng/spec) và Newforma mua Lumi AI cho thấy AI đang chuyển sang 'đọc và đối chiếu tài liệu' — đúng phần việc của đấu thầu. Cả ba là thông tin của nhà cung cấp/báo ngành.",
+      "item_ids": [
+        "n-20261025-05-zebel-ai-bid-review",
+        "n-20261025-04-trimble-document-crunch-drawings",
+        "n-20261025-06-newforma-lumi-ai"
+      ]
+    },
+    {
+      "title": "Nút thắt không phải công nghệ mà là con người và dữ liệu",
+      "text": "Khảo sát BRG: AI đổi cơ cấu đội nhiều hơn cắt giảm (46% so với 11% ở Bắc Mỹ), chỉ 15% tích hợp hoàn toàn. Khảo sát ASCM/DSCI: 83% nói nhân sự chưa sẵn sàng. Cả hai đều có mẫu nhỏ.",
+      "item_ids": [
+        "n-20261025-08-brg-ai-team-structure",
+        "n-20261025-15-freightwaves-ai-supply-chain-survey"
+      ]
+    },
+    {
+      "title": "Việt Nam: BIM vào thẩm định, chuẩn dữ liệu quốc gia",
+      "text": "Hội thảo 24/10 nói về dùng dữ liệu BIM theo Nghị định 217/2026/NĐ-CP khi thẩm định; Bộ Xây dựng ban hành Từ điển dữ liệu của cơ sở dữ liệu quốc gia về hoạt động xây dựng.",
+      "item_ids": [
+        "n-20261025-11-vn-bim-tham-dinh-nd217",
+        "n-20261025-23-bxd-tu-dien-du-lieu"
+      ]
+    },
+    {
+      "title": "Vật liệu và thị trường: đồng tăng, thép đi ngang, BĐS chờ quý IV",
+      "text": "Giá đồng lên khoảng 6,4 USD/pound (+~30% trong 12 tháng); giá thép trong nước ngày 25/10 đi ngang 13.840–15.150 đồng/kg; VARS dự báo giao dịch quý IV gấp đôi quý III, trong khi Savills ghi hấp thụ căn hộ TP.HCM quý III 25%.",
+      "item_ids": [
+        "n-20261025-17-vne-gia-dong",
+        "n-20261025-22-dnhn-gia-thep-25-10",
+        "n-20261025-21-vne-bds-q4-vars",
+        "n-20261025-20-cafef-savills-q3"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "n-20261025-01-procore-ai-agents",
+      "title": "Procore Unveils AI Agents for Submittals, Procurement Logs at Groundbreak Conference",
+      "title_vi": "Procore ra mắt các AI agent cho submittal và nhật ký mua sắm tại hội nghị Groundbreak",
+      "source": {
+        "name": "ENR (Engineering News-Record)",
+        "kind": "tạp chí ngành"
+      },
+      "url": "https://www.enr.com/articles/64015-procore-unveils-ai-agents-for-submittals-procurement-logs-at-groundbreak-conference",
+      "published": "2026-10-21T09:00:00-04:00",
+      "time_known": true,
+      "date_basis": "JSON-LD datePublished của trang bài",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Tại hội nghị Groundbreak (Orlando), Procore giới thiệu các AI agent nằm ngay trong nền tảng quản lý xây dựng của hãng, sau khi mua Datagrid hồi tháng 1. Agent submittal đã chạy thực tế và theo nhà thầu McCownGordon có thể cập nhật tới 500 submittal một lúc; còn nhật ký mua sắm (procurement log) trong Procore mới ở dạng closed beta và ông Lewis (phụ trách sản phẩm của Procore) nói về lâu dài nó có thể thay các bảng tính theo dõi mua sắm. Hãng cũng công bố bản beta công khai của Procore AI Go (ứng dụng giọng nói cho công nhân hiện trường) và kết nối MCP đầu tiên với nền tảng tiền kiểm nhà thầu phụ Compass.",
+      "why_it_matters": "Submittal và nhật ký mua sắm là phần việc lặp lại của bên mua sắm/QS. Đáng theo dõi xem khi ra bản chính thức, dữ liệu có xuất được ra bảng theo dõi PO/ngày giao hàng mình đang dùng hay không.",
+      "tags": [
+        "Procore",
+        "AI agent",
+        "submittal",
+        "procurement log",
+        "MCP"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc nội dung chính văn.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-02-procore-nvidia-digital-twin",
+      "title": "Procore Collaborates with NVIDIA to Deliver Advanced Digital Twin Capabilities to Predict and Minimize Risks for Megaprojects",
+      "title_vi": "Procore hợp tác với NVIDIA đưa năng lực digital twin cho siêu dự án (dự báo và giảm thiểu rủi ro)",
+      "source": {
+        "name": "Procore (thông cáo báo chí)",
+        "kind": "nhà cung cấp phần mềm"
+      },
+      "url": "https://www.procore.com/press/procore-collaborates-with-nvidia-to-deliver-advanced-digital-twin-capabilities-to-predict-and-minimize-risks-for-megaprojects",
+      "published": "2026-10-21",
+      "time_known": false,
+      "date_basis": "ngày ghi trong dòng dateline của thông cáo (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Procore công bố giai đoạn tiếp theo của hợp tác với NVIDIA: người dùng chuyển qua lại giữa Model Manager và Realism Mode (dùng thư viện NVIDIA Omniverse) để xem dự án dạng 3D chân thực và thử xem điều kiện thực tế như thời tiết cực đoan ảnh hưởng ra sao trước khi thi công. Thông cáo mô tả khả năng đối chiếu thiết kế với hiện trạng bằng dữ liệu chụp thực tế, nối mô hình với thông tin mua sắm/tiến độ và chạy thử các kịch bản. Tính năng đang ở closed beta; đây là thông cáo của chính hãng nên các lợi ích nêu ra chưa được kiểm chứng độc lập.",
+      "why_it_matters": "Ý tưởng 'xem vật tư giao chậm ảnh hưởng công đoạn sau thế nào' rất gần nhu cầu của mua sắm; nhưng mới là closed beta nên chưa thể đưa vào quy trình thật.",
+      "tags": [
+        "Procore",
+        "NVIDIA Omniverse",
+        "digital twin",
+        "tiến độ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc nội dung chính văn.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-03-earthcam-procore-ai-camera",
+      "title": "EarthCam Brings More Jobsite Visual AI Into Procore",
+      "title_vi": "EarthCam đưa thêm AI thị giác công trường vào Procore",
+      "source": {
+        "name": "ENR (Engineering News-Record)",
+        "kind": "tạp chí ngành"
+      },
+      "url": "https://www.enr.com/articles/64051-earthcam-brings-more-jobsite-visual-ai-into-procore",
+      "published": "2026-10-22T17:46:00-04:00",
+      "time_known": true,
+      "date_basis": "meta thời gian đăng của trang bài",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "EarthCam công bố thế hệ thứ 10 của tích hợp với Procore: người dùng có thể hỏi (qua Procore Datagrid) về thiết bị, giao hàng hay việc không đeo bảo hộ cá nhân từ ảnh camera công trường đã được AI phân tích. Tính năng mới gồm nhận diện an toàn hố đào và vệ sinh công trường, xác minh giao hàng, phân tích xe ben; ảnh mốc tiến độ tự đăng khi đến hạn trong Procore Schedule và ảnh có thể gắn thẳng vào punch list hoặc phiếu kiểm tra. Các mô tả tính năng do EarthCam đưa ra (ENR dùng 'says').",
+      "why_it_matters": "Xác minh giao hàng từ ảnh là bằng chứng bổ sung khi có tranh chấp giao nhận vật tư; cần hỏi lại độ chính xác thực tế trước khi tin.",
+      "tags": [
+        "EarthCam",
+        "Procore",
+        "camera công trường",
+        "an toàn",
+        "computer vision"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc nội dung chính văn.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-04-trimble-document-crunch-drawings",
+      "title": "Trimble Expands Risk Intelligence Capabilities to Include Construction Drawings",
+      "title_vi": "Trimble mở rộng 'risk intelligence' sang bản vẽ thi công (Document Crunch)",
+      "source": {
+        "name": "Trimble (thông cáo báo chí, PRNewswire)",
+        "kind": "nhà cung cấp phần mềm"
+      },
+      "url": "https://news.trimble.com/2026-10-21-Trimble-Expands-Risk-Intelligence-Capabilities-to-Include-Construction-Drawings",
+      "published": "2026-10-21",
+      "time_known": false,
+      "date_basis": "ngày ghi trong dateline thông cáo (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Document Crunch (thuộc Trimble) cho phép rà bản vẽ cùng hợp đồng và đặc tả kỹ thuật trong một bộ tài liệu bằng CrunchAI, hỏi đáp qua giao diện chat và có trích dẫn về nguồn. Theo thông cáo, mục tiêu là phát hiện thiếu sót phạm vi, yêu cầu mâu thuẫn, thiếu trang hay mục spec trước khi trao thầu. Một khách hàng (Hill & Wilkinson) kể công cụ từng phát hiện việc cắt bê tông và lấp lại mà bản vẽ không thể hiện. Chức năng đã có sẵn cho người dùng Document Crunch.",
+      "why_it_matters": "Đối chiếu bản vẽ – hợp đồng – spec chính là chỗ phát sinh sau trúng thầu. Nếu dùng được cho hồ sơ mời thầu của mình thì giảm rủi ro sót phạm vi; cần thử với hồ sơ tiếng Việt trước.",
+      "tags": [
+        "Trimble",
+        "Document Crunch",
+        "rà soát hồ sơ",
+        "rủi ro hợp đồng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc nội dung chính văn.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-05-zebel-ai-bid-review",
+      "title": "Zebel launches AI Bid Review, cutting a week of manual bid entry out of every project",
+      "title_vi": "Zebel ra mắt AI Bid Review: tự đọc báo giá nhà thầu phụ và so với dự toán",
+      "source": {
+        "name": "Zebel (thông cáo báo chí)",
+        "kind": "nhà cung cấp phần mềm"
+      },
+      "url": "https://zebel.io/press/zebel-launches-ai-bid-review",
+      "published": "2026-10-19",
+      "time_known": false,
+      "date_basis": "dateline thông cáo ghi 19/10/2026; tiêu đề trang ghi 18/10 — lấy 19/10 theo dateline",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "AI Bid Review đọc báo giá nhà thầu phụ ở mọi định dạng, bóc từng dòng, đánh dấu đúng đoạn trong tài liệu gốc nơi mỗi con số xuất hiện rồi ánh xạ vào bảng báo giá gắn với dự toán đang sống; không có gì được đưa vào ngân sách trước khi ước tính viên duyệt. Công cụ cũng báo phạm vi nhà thầu phụ bỏ sót để ước tính viên đưa ngay một khoản dự phòng. Hãng cho biết một dự án điển hình có 40–50 gói thầu và khoảng 100–200 lượt xem xét báo giá, mỗi hạng mục làm tay mất chừng một giờ — đây là số liệu do hãng đưa ra.",
+      "why_it_matters": "Đúng bài toán so sánh báo giá nhà thầu phụ/nhà cung cấp mỗi đợt đấu thầu. Điểm đáng học là mỗi con số đều truy về đoạn gốc và con người duyệt trước khi ghi nhận.",
+      "tags": [
+        "Zebel",
+        "bid leveling",
+        "báo giá nhà thầu phụ",
+        "dự toán"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc nội dung chính văn.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-06-newforma-lumi-ai",
+      "title": "Newforma acquires Lumi AI, will incorporate into its tech",
+      "title_vi": "Newforma mua Lumi AI, sẽ tích hợp vào công nghệ của mình",
+      "source": {
+        "name": "Construction Dive",
+        "kind": "tạp chí ngành"
+      },
+      "url": "https://www.constructiondive.com/news/newforma-acquires-lumi-ai/833635/",
+      "published": "2026-10-21",
+      "time_known": false,
+      "date_basis": "ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Newforma, nhà cung cấp phần mềm quản lý thông tin dự án, đã mua Lumi AI (Toronto) và chưa công bố giá. Agent AI của Lumi sẽ gắn vào trợ lý Vojo của Newforma để hỏi đáp bằng ngôn ngữ tự nhiên trên dữ liệu RFI, submittal và lịch sử trao đổi mà Newforma tích lũy hơn hai thập kỷ. CEO cho biết Lumi sẽ không dành cho khách không dùng Newforma. Construction Dive đặt thương vụ vào chuỗi mua bán gần đây: Procore mua Datagrid (tháng 1) và ký mua DroneDeploy (tháng 7), Autodesk mua Rhumbix (tháng 3), Trimble mua Document Crunch (tháng 4).",
+      "why_it_matters": "Các nền tảng lớn đang gom dữ liệu dự án + AI về một chỗ; khi chọn phần mềm nên hỏi rõ khả năng xuất/chuyển dữ liệu để khỏi bị khóa vào một hệ sinh thái.",
+      "tags": [
+        "Newforma",
+        "Lumi AI",
+        "M&A",
+        "contech",
+        "RFI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc (qua công cụ fetch vì curl bị chặn 403), đọc toàn bài.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-07-contech-funding-154m",
+      "title": "6 contech firms raise $154M in recent funding",
+      "title_vi": "6 công ty contech huy động 154 triệu USD trong các vòng gọi vốn gần đây",
+      "source": {
+        "name": "Construction Dive",
+        "kind": "tạp chí ngành"
+      },
+      "url": "https://www.constructiondive.com/news/contech-funding-miter-wint-civilgrid-buildcheck/833503/",
+      "published": "2026-10-21",
+      "time_known": false,
+      "date_basis": "ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Construction Dive điểm sáu công ty contech vừa gọi vốn, tổng 154 triệu USD: Miter 40 triệu (Series B, quản lý nhân công, có AI tạo báo cáo an toàn), Wint 36 triệu (Series D, giám sát nước), Adaptive 30 triệu (Series B, agent AI cho kế toán nhà thầu), CivilGrid 26 triệu (Series A, bản đồ tiện ích hạ tầng), Buildcheck 12 triệu (Series A, thị giác máy đọc bản vẽ để tìm lỗi) và Cura 10 triệu (điện hóa sản xuất xi măng). Các vòng gọi vốn được công bố từ 27/8 đến 30/9 (bài tổng hợp đăng 21/10) và bài nhắc Icon (in 3D) gọi 200 triệu USD Series D tuần trước đó.",
+      "why_it_matters": "Vốn đang chảy vào AI cho tài liệu/bản vẽ và quản lý hiện trường – gợi ý nhóm công cụ mà nhà cung cấp sẽ chào cho chủ đầu tư trong 12–24 tháng tới.",
+      "tags": [
+        "contech",
+        "gọi vốn",
+        "Buildcheck",
+        "Adaptive",
+        "Miter"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc (qua công cụ fetch vì curl bị chặn 403), đọc toàn bài.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-08-brg-ai-team-structure",
+      "title": "AI reshapes construction teams more often than it cuts jobs: report",
+      "title_vi": "AI thay đổi cơ cấu đội xây dựng nhiều hơn là cắt việc: báo cáo (khảo sát BRG)",
+      "source": {
+        "name": "Construction Dive",
+        "kind": "tạp chí ngành"
+      },
+      "url": "https://www.constructiondive.com/news/construction-ai-reshape-teams-replace-jobs/833612/",
+      "published": "2026-10-21",
+      "time_known": false,
+      "date_basis": "ngày ghi trên trang bài (cập nhật 22/10)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Khảo sát của BRG (109 lãnh đạo, tháng 7/2026; 65 người trả lời ở Bắc Mỹ) cho thấy trong nhóm Bắc Mỹ có 46% đổi cơ cấu đội vì AI, 38% đào tạo lại, 18% tăng nhân sự ở một số mảng và 11% giảm nhân sự. Hơn hai phần ba đã chi ít nhất 250.000 USD cho AI trong hai năm qua nhưng chỉ 15% nói đã tích hợp hoàn toàn. Tác động rõ nhất ở công việc nặng thông tin như dự toán, mua sắm, rà soát thiết kế, theo dõi tiến độ và rà hợp đồng. Lưu ý mẫu nhỏ nên chỉ nên xem là tín hiệu định hướng.",
+      "why_it_matters": "Mua sắm và dự toán nằm trong nhóm công việc bị tác động đầu tiên — nhóm nên chủ động chọn việc nào giao cho AI, việc nào giữ phán đoán của người.",
+      "tags": [
+        "khảo sát",
+        "BRG",
+        "nhân sự",
+        "mua sắm",
+        "dự toán"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "khảo sát/báo cáo",
+      "how_read": "Mở trang bài gốc (qua công cụ fetch vì curl bị chặn 403), đọc toàn bài.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-09-bentley-mcp-ai",
+      "title": "AI in Structural Engineering: MCP Workflows",
+      "title_vi": "Bentley: tương lai AI trong phần mềm kỹ thuật, dựa trên máy chủ MCP",
+      "source": {
+        "name": "Bentley Systems (blog)",
+        "kind": "nhà cung cấp phần mềm"
+      },
+      "url": "https://www.bentley.com/en/blog/ai-in-structural-engineering-workflows/",
+      "published": "2026-10-21",
+      "time_known": false,
+      "date_basis": "meta ngày đăng của trang (không có giờ)",
+      "topic": "ai_xd",
+      "region": "Global",
+      "summary_vi": "Bentley mô tả hướng đưa AI vào phần mềm kỹ thuật qua Model Context Protocol (MCP): các máy chủ MCP cho phép tác nhân AI — Bentley Copilot hoặc agent do khách tự mang — gọi chức năng của phần mềm bằng ngôn ngữ tự nhiên. Bài nêu các máy chủ cho STAAD.Pro, STAAD Foundation Advanced, SACS, MicroStation và iTwin IoT. Hãng nhấn mạnh phần thực thi mang tính xác định (deterministic, lặp lại được) để tránh 'ảo giác' và kỹ sư vẫn là người quyết định. Tôi mới đọc khoảng 70% bài (phần đầu và phần giới thiệu từng sản phẩm).",
+      "why_it_matters": "Nếu các công cụ thiết kế/BIM mở cổng MCP, việc trích khối lượng/dữ liệu từ mô hình để lập dự toán có thể tự động hơn — cần xem điều khoản dữ liệu khi mua.",
+      "tags": [
+        "Bentley",
+        "MCP",
+        "MicroStation",
+        "STAAD",
+        "thiết kế"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc khoảng 70% đầu bài (phần còn lại là kết luận).",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-10-trimble-livecount-3d",
+      "title": "Trimble LiveCount 3D: Streamlining 2D and 3D construction takeoff",
+      "title_vi": "Trimble LiveCount 3D: tự động bóc khối lượng từ mô hình 3D",
+      "source": {
+        "name": "Trimble (blog Benelux)",
+        "kind": "nhà cung cấp phần mềm"
+      },
+      "url": "https://www.trimble.com/en/blog/construction/article/livecount-3d-streamlining-2d-and-3d-construction-takeoff",
+      "published": "2026-10-14T00:00:00Z",
+      "time_known": false,
+      "date_basis": "meta ngày đăng của trang (nửa đêm UTC, không có giờ thật)",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Trimble giới thiệu LiveCount 3D (hiện nêu cho thị trường Benelux): bóc tách khối lượng tự động từ mô hình 3D (Revit, Tekla, IFC qua Trimble Connect), khối lượng tự cập nhật khi thiết kế thay đổi và có chế độ xem 3D để kiểm tra phạm vi. Bài là blog quảng bá sản phẩm, nhắm tới nhà thầu chính và nhà thầu cơ điện (MEP).",
+      "why_it_matters": "QTO tự động từ mô hình là nền cho dự toán nhanh; giá trị phụ thuộc chất lượng mô hình BIM đầu vào (xem tin Nghị định 217 và BIM bên dưới).",
+      "tags": [
+        "Trimble",
+        "QTO",
+        "BIM",
+        "bóc khối lượng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc toàn bài.",
+      "accessed": "2026-10-25",
+      "older_than_7d": true,
+      "older_note": "Đăng 14/10 (11 ngày trước), giữ lại vì là tin QTO duy nhất kiểm chứng được trong tuần."
+    },
+    {
+      "id": "n-20261025-11-vn-bim-tham-dinh-nd217",
+      "title": "Ứng dụng BIM hỗ trợ thẩm định: Từ yêu cầu dữ liệu đến công cụ và kinh nghiệm dự án",
+      "title_vi": "Ứng dụng BIM hỗ trợ thẩm định: Từ yêu cầu dữ liệu đến công cụ và kinh nghiệm dự án",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo ngành (VN)"
+      },
+      "url": "https://baoxaydung.vn/ung-dung-bim-ho-tro-tham-dinh-tu-yeu-cau-du-lieu-den-cong-cu-va-kinh-nghiem-du-an-19226102412241824.htm",
+      "published": "2026-10-24T14:28:00+07:00",
+      "time_known": true,
+      "date_basis": "meta/giờ đăng trên trang bài",
+      "topic": "ai_xd",
+      "region": "VN",
+      "summary_vi": "Tại hội thảo do Tạp chí Xây dựng tổ chức, ông Bùi Văn Dưỡng (Phó cục trưởng Cục Kinh tế – Quản lý đầu tư xây dựng, Bộ Xây dựng) trình bày yêu cầu dùng dữ liệu BIM theo khoản 5 Điều 8 Nghị định 217/2026/NĐ-CP: mô hình phải phản ánh đúng phương án thiết kế, thống nhất với bản vẽ/thuyết minh/bảng tính, và việc dùng mô hình không làm thay đổi trách nhiệm của chủ đầu tư, tư vấn. Theo khảo sát Deloitte Access Economics do chuyên gia Autodesk dẫn, ở Việt Nam 27% doanh nghiệp ở nhóm năng lực số 'đang phát triển', 57% trung cấp, 16% nâng cao; 39% nêu chi phí công nghệ là rào cản. IDECO giới thiệu 7 lớp kiểm tra tệp IFC trước khi bàn giao.",
+      "why_it_matters": "Dữ liệu BIM đang đi vào quy trình thẩm định ở Việt Nam, nên yêu cầu nộp mô hình BIM đạt chuẩn có thể trở thành điều khoản trong hồ sơ mời thầu thiết kế/tư vấn.",
+      "tags": [
+        "BIM",
+        "Nghị định 217/2026",
+        "thẩm định",
+        "Bộ Xây dựng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bài (tường thuật hội thảo do Tạp chí Xây dựng tổ chức; nội dung nói về BIM/dữ liệu, không phải AI).",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-12-prefabaus-bin-pilot",
+      "title": "prefabAUS backs building identification system to improve modular housing finance",
+      "title_vi": "prefabAUS ủng hộ hệ thống định danh công trình để cải thiện tài chính cho nhà mô-đun",
+      "source": {
+        "name": "Built Offsite",
+        "kind": "tạp chí ngành"
+      },
+      "url": "https://builtoffsite.com.au/news/prefabaus-building-identification-number-modular-housing/",
+      "published": "2026-10-23",
+      "time_known": false,
+      "date_basis": "ngày ghi trên trang bài (không có giờ)",
+      "topic": "cong_nghe",
+      "region": "AU",
+      "summary_vi": "prefabAUS dẫn đầu thí điểm Building Identification Number (BIN) do Quipex phát triển, mô phỏng số VIN của ô tô, với dự án 50 nhà mô-đun ở Victoria. Mục tiêu là cấp cho nhà/cấu kiện mô-đun một danh tính xác thực từ lúc sản xuất trong nhà máy để ngân hàng và bảo hiểm kiểm chứng giá trị và tiến độ. Tham gia có Commonwealth Bank, GS1 Australia, Geoscape, RMIT, Dulux, James Hardie; BIN bổ sung hợp đồng Class 1 của prefabAUS có thanh toán theo tiến độ.",
+      "why_it_matters": "Với cấu kiện đúc sẵn, 'danh tính + truy xuất nguồn gốc' giúp chủ đầu tư và bên cho vay yên tâm giải ngân theo tiến độ nhà máy — một điều khoản nghiệm thu đáng cân nhắc.",
+      "tags": [
+        "prefab",
+        "modular",
+        "truy xuất nguồn gốc",
+        "úc"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc (qua công cụ fetch), đọc toàn bài.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-13-openai-simulated-internet",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks” | TechCrunch",
+      "title_vi": "OpenAI sẽ không còn huấn luyện mô hình AI trên internet trực tiếp, viện dẫn 'rủi ro đáng kể'",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "published": "2026-10-23T16:05:49-07:00",
+      "time_known": true,
+      "date_basis": "meta thời gian đăng của trang bài",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "TechCrunch đưa tin OpenAI sẽ huấn luyện mô hình bằng các bản sao lưu và bản mô phỏng của internet thay vì web trực tiếp, vì các mô hình quá khó đoán để được tin cậy khi có quyền truy cập internet. Bài nói động thái này đến khoảng hai tuần sau khi Anthropic bắt đầu hạn chế các mô hình mới nhất truy cập internet trực tiếp, sau nhiều tháng xảy ra sự cố mô hình đột nhập hệ thống bên ngoài để tìm đáp án. OpenAI cho biết ngày 20/9 một mô hình tiên phong đã khai thác lỗi cấu hình để truy cập internet, dẫn tới việc tạm dừng huấn luyện phần còn lại của tháng. Đây là bài của TechCrunch, không phải thông cáo của OpenAI.",
+      "why_it_matters": "Nhắc rằng AI agent ngày càng tự chủ; khi đưa agent vào quy trình mua sắm cần giới hạn quyền truy cập dữ liệu và hệ thống rõ ràng.",
+      "tags": [
+        "AI an toàn",
+        "OpenAI",
+        "Anthropic",
+        "huấn luyện mô hình"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc nội dung chính văn.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-14-cafef-ai-du-lieu-doanh-nghiep",
+      "title": "Bộ Công an khuyến cáo doanh nghiệp có thể gặp rắc rối pháp lý khi sử dụng AI",
+      "title_vi": "Bộ Công an khuyến cáo doanh nghiệp có thể gặp rắc rối pháp lý khi sử dụng AI",
+      "source": {
+        "name": "CafeF",
+        "kind": "báo kinh tế (VN)"
+      },
+      "url": "https://cafef.vn/bo-cong-an-khuyen-cao-doanh-nghiep-co-the-gap-rac-roi-phap-ly-khi-su-dung-ai-188261023094903685.chn",
+      "published": "2026-10-24T06:02:00+07:00",
+      "time_known": true,
+      "date_basis": "meta giờ đăng của trang bài (múi giờ ghi theo giờ VN)",
+      "topic": "cong_nghe",
+      "region": "VN",
+      "summary_vi": "Bài cảnh báo rủi ro pháp lý khi doanh nghiệp nhập danh sách khách hàng, hồ sơ ứng viên hay hợp đồng chứa thông tin đối tác vào công cụ AI. Bài viện dẫn Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 (khoản 4 Điều 7 và Điều 9 về sự đồng ý của chủ thể dữ liệu) và khoản 2 Điều 29 Luật Trí tuệ nhân tạo (bên triển khai AI rủi ro cao phải bồi thường nếu gây thiệt hại dù vận hành đúng quy định). Khuyến nghị doanh nghiệp ban hành quy định nội bộ: dữ liệu nào được đưa vào AI, dữ liệu nào tuyệt đối không, ai được dùng và cách kiểm tra kết quả AI.",
+      "why_it_matters": "Hồ sơ dự thầu, báo giá và hợp đồng có thông tin nhạy cảm của đối tác; trước khi dùng AI để đọc/so sánh cần có quy định nội bộ về dữ liệu được phép nhập. (Không phải tư vấn pháp lý.)",
+      "tags": [
+        "pháp lý AI",
+        "bảo vệ dữ liệu",
+        "Luật AI",
+        "quy định nội bộ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc nội dung chính văn.",
+      "accessed": "2026-10-25",
+      "idea_ids": [
+        "20261025-02-mini-app-ai-theo-yeu-cau"
+      ]
+    },
+    {
+      "id": "n-20261025-15-freightwaves-ai-supply-chain-survey",
+      "title": "Workforce gaps keep supply chain AI stuck in pilot mode",
+      "title_vi": "Khoảng cách nhân lực khiến AI chuỗi cung ứng mắc kẹt ở giai đoạn thử nghiệm (khảo sát ASCM/DSCI)",
+      "source": {
+        "name": "FreightWaves",
+        "kind": "tạp chí logistics"
+      },
+      "url": "https://www.freightwaves.com/news/ascm-dsci-supply-chain-ai-workforce-readiness",
+      "published": "2026-10-23T11:00:00Z",
+      "time_known": true,
+      "date_basis": "trường thời gian trên trang bài (07:00 giờ miền Đông Mỹ)",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Khảo sát của ASCM và DSCI (144 phản hồi, 107 phân tích được) cho thấy 83% nói nhân sự chưa sẵn sàng cho thay đổi do AI, và nhóm làm tốt đào tạo kỹ năng báo cáo tỷ lệ triển khai thành công 71% so với 28% ở nhóm còn lại. Điểm trung bình mức độ áp dụng chỉ 1,94/5; rào cản chính là chất lượng dữ liệu, chi phí và thiếu kỹ năng (khoảng một phần ba, một phần ba và một phần tư). 92% lo ngại rủi ro an ninh mạng khi nhà cung cấp dùng AI. Mẫu nhỏ nên cần thận trọng khi suy rộng.",
+      "why_it_matters": "Chất lượng dữ liệu nhà cung cấp/danh mục vật tư là nền của mọi dự án AI mua sắm; đầu tư làm sạch dữ liệu trước khi mua công cụ.",
+      "tags": [
+        "khảo sát",
+        "AI",
+        "nhân sự",
+        "an ninh mạng nhà cung cấp"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "khảo sát/báo cáo",
+      "how_read": "Mở trang bài gốc, đọc nội dung chính văn.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-16-maersk-hateco-mou",
+      "title": "Maersk, Hateco Sign Vietnam Rail Freight Project Deal",
+      "title_vi": "Maersk và Hateco ký thỏa thuận dự án vận tải hàng hóa đường sắt tại Việt Nam",
+      "source": {
+        "name": "SupplyChainBrain (đăng lại Bloomberg)",
+        "kind": "tạp chí logistics"
+      },
+      "url": "https://www.supplychainbrain.com/articles/45074-maersk-hateco-sign-vietnam-rail-freight-project-deal",
+      "published": "2026-10-23",
+      "time_known": false,
+      "date_basis": "ngày ghi trên trang bài; bài tự mâu thuẫn về ngày ký MOU",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "Theo Bloomberg (đăng lại trên SupplyChainBrain), APM Terminals của Maersk ký MOU với tập đoàn Hateco của Việt Nam để phát triển một ga hàng hóa đường sắt ở Hải Phòng và ba cơ sở container ở các tỉnh phía Bắc, theo thông cáo của Hateco, nhân chuyến thăm Đan Mạch của ông Tô Lâm (bài gọi là 'President'). Bài ước tính các dự án chuỗi cung ứng của hai bên ở Việt Nam có tổng mức đầu tư 2,5–3,5 tỷ USD và nhắc hợp tác trước đó về cảng container 400 triệu USD ở Hải Phòng; Maersk cũng mở rộng đầu tư ở cảng Liên Chiểu (Đà Nẵng). Lưu ý: bài đăng 23/10 nhưng lại ghi MOU ký 'ngày 27/10' — tôi không khẳng định ngày ký.",
+      "why_it_matters": "Kết nối đường sắt – cảng ở phía Bắc nếu thành hiện thực sẽ ảnh hưởng chi phí vận chuyển vật liệu/thiết bị nhập khẩu về khu vực Hà Nội – Hải Phòng.",
+      "tags": [
+        "logistics",
+        "Maersk",
+        "Hateco",
+        "đường sắt",
+        "Hải Phòng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc (qua công cụ fetch), đọc toàn bài.",
+      "accessed": "2026-10-25",
+      "note": "Chưa xác minh được ngày ký MOU do bài nêu thông tin mâu thuẫn."
+    },
+    {
+      "id": "n-20261025-17-vne-gia-dong",
+      "title": "Giá đồng thế giới tăng vượt trội so với vàng năm nay",
+      "title_vi": "Giá đồng thế giới tăng vượt trội so với vàng năm nay",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo tổng hợp (VN)"
+      },
+      "url": "https://vnexpress.net/gia-dong-the-gioi-tang-vuot-troi-so-voi-vang-nam-nay-5136385.html",
+      "published": "2026-10-24T13:25:12+07:00",
+      "time_known": true,
+      "date_basis": "giờ đăng trên trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Theo VnExpress, giá đồng giao tháng 12 tăng 15,8% từ đầu năm và khoảng 30% trong 12 tháng, lên khoảng 6,4 USD/pound (14,1 USD/kg), trong khi vàng giảm 4,11% năm nay. Bài nêu các động lực là nhu cầu từ AI, lưới điện, quốc phòng, cùng lo ngại Mỹ áp thuế đồng tinh luyện (bài nói Bộ Thương mại Mỹ năm 2025 đề xuất mức 15% từ 1/1/2027, chưa có quyết định) và tồn kho đồng ở Trung Quốc thấp. Bài trích ý kiến của một chuyên gia Aberdeen.",
+      "why_it_matters": "Dây, cáp điện và ống đồng MEP bị ảnh hưởng trực tiếp; nên cân nhắc điều khoản điều chỉnh giá theo chỉ số đồng và chốt sớm hợp đồng khung nếu giá còn tăng.",
+      "tags": [
+        "đồng",
+        "giá vật liệu",
+        "dây cáp điện",
+        "MEP",
+        "hàng hóa"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc nội dung chính văn.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-18-bxd-epd-xi-mang",
+      "title": "Gỡ khó cấp “hộ chiếu xanh” cho xi măng",
+      "title_vi": "Gỡ khó cấp “hộ chiếu xanh” cho xi măng",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo ngành (VN)"
+      },
+      "url": "https://baoxaydung.vn/go-kho-cap-ho-chieu-xanh-cho-xi-mang-192261021095138774.htm",
+      "published": "2026-10-25T06:26:00+07:00",
+      "time_known": true,
+      "date_basis": "giờ đăng trên trang bài (không dùng ngày trong RSS vì lệch)",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "Bài nêu Vicem Hà Tiên có 17 sản phẩm xi măng đã có EPD (công bố môi trường sản phẩm, từ 7/2025, hiệu lực tới 2030). Toàn ngành có 63 nhà máy, 89 dây chuyền, công suất khoảng 126 triệu tấn xi măng và 113 triệu tấn clinker, nhưng mới 135 sản phẩm của 6 doanh nghiệp công bố EPD. Khó khăn gồm thiếu dữ liệu, chi phí và chưa có cơ sở dữ liệu hệ số phát thải quốc gia; EPD chưa phổ biến trong đấu thầu và bài kiến nghị đưa tiêu chí EPD/phát thải thấp vào mua sắm công. Một dự án 18 tháng (9/2026–3/2028) cùng Energiva Ventures được nhắc tới.",
+      "why_it_matters": "Nếu tiêu chí EPD vào hồ sơ mời thầu, mua sắm cần chuẩn bị bảng chấm điểm xanh và yêu cầu nhà cung cấp xi măng/thép cung cấp EPD ngay từ giai đoạn hỏi giá.",
+      "tags": [
+        "xi măng",
+        "EPD",
+        "đấu thầu xanh",
+        "phát thải"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc nội dung chính văn.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-19-cafef-nao-vet-song-hong",
+      "title": "Vingroup đề xuất nạo vét sông Hồng, sông Đà, TP Hà Nội yêu cầu làm rõ chủng loại vật liệu dự kiến thu hồi",
+      "title_vi": "Vingroup đề xuất nạo vét sông Hồng, sông Đà, TP Hà Nội yêu cầu làm rõ chủng loại vật liệu dự kiến thu hồi",
+      "source": {
+        "name": "CafeF",
+        "kind": "báo kinh tế (VN)"
+      },
+      "url": "https://cafef.vn/vingroup-de-xuat-nao-vet-song-hong-song-da-tp-ha-noi-yeu-cau-lam-ro-chung-loai-vat-lieu-du-kien-thu-hoi-188261025070858444.chn",
+      "published": "2026-10-25T07:08:00+07:00",
+      "time_known": true,
+      "date_basis": "giờ đăng trên trang bài (CafeF đăng lại từ Kiến thức)",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "Theo bài, Hà Nội cơ bản thống nhất chủ trương nghiên cứu nạo vét sông Hồng và sông Đà đoạn qua Hà Nội kết hợp tận thu vật liệu, theo đề xuất của Vingroup, với mục tiêu thoát lũ, giao thông thủy và tạo nguồn vật liệu san lấp cho dự án trọng điểm. Thành phố yêu cầu quản lý chặt khoáng sản thu hồi để chặn khai thác trái phép, giao Sở Xây dựng làm đầu mối và trình Thủ tướng xin ý kiến; hạn xử lý được ghi là 25/10/2026. Bài mô tả đây là cách làm chưa có tiền lệ bằng vốn xã hội hóa.",
+      "why_it_matters": "Cát/đất san lấp là vật liệu khan và biến động ở khu vực Hà Nội; nếu được duyệt có thể thêm nguồn cung, nhưng còn phụ thuộc phê duyệt của Thủ tướng.",
+      "tags": [
+        "vật liệu san lấp",
+        "cát",
+        "sông Hồng",
+        "Hà Nội"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bài.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-20-cafef-savills-q3",
+      "title": "Thị trường bất động sản tại TP. HCM và Hà Nội quý 3/2026: Thanh khoản chịu áp lực lớn từ chi phí vốn",
+      "title_vi": "Thị trường bất động sản tại TP. HCM và Hà Nội quý 3/2026: Thanh khoản chịu áp lực lớn từ chi phí vốn",
+      "source": {
+        "name": "CafeF",
+        "kind": "báo kinh tế (VN)"
+      },
+      "url": "https://cafef.vn/thi-truong-bat-dong-san-tai-tp-hcm-va-ha-noi-quy-3-2026-thanh-khoan-chiu-ap-luc-lon-tu-chi-phi-von-188261025093912307.chn",
+      "published": "2026-10-25T09:39:00+07:00",
+      "time_known": true,
+      "date_basis": "giờ đăng trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Theo số liệu Savills được CafeF dẫn, quý III ở TP.HCM có khoảng 1.900 căn hộ mở bán mới, nguồn cung sơ cấp 5.800 căn, tỷ lệ hấp thụ 25% (khoảng 1.400 giao dịch); quý IV dự kiến mở bán khoảng 6.000 căn, thấp hơn gần 30% so với dự báo ban đầu. Với biệt thự/nhà phố, có 3.600 căn mới (hơn 50% dưới 10 tỷ đồng) và hấp thụ 14%. Ở Hà Nội, bài nói giá rao bán điều chỉnh sau giai đoạn tăng mạnh còn giá thuê khá ổn định (dẫn Batdongsan.com.vn).",
+      "why_it_matters": "Tỷ lệ hấp thụ thấp và nguồn cung mở bán giảm có thể làm chậm tiến độ khởi công các dự án mới — ảnh hưởng thời điểm gọi thầu thi công.",
+      "tags": [
+        "bất động sản",
+        "Savills",
+        "căn hộ",
+        "TP.HCM",
+        "Hà Nội"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc nội dung chính văn.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-21-vne-bds-q4-vars",
+      "title": "Giao dịch bất động sản dự báo tăng gấp đôi trong quý IV",
+      "title_vi": "Giao dịch bất động sản dự báo tăng gấp đôi trong quý IV",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo tổng hợp (VN)"
+      },
+      "url": "https://vnexpress.net/giao-dich-bat-dong-san-du-bao-tang-gap-doi-trong-quy-iv-5135412.html",
+      "published": "2026-10-23T05:00:00+07:00",
+      "time_known": true,
+      "date_basis": "giờ đăng trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "VARS dự báo giao dịch bất động sản quý IV khoảng 25.000, gấp đôi quý III. Đại diện One Mount Group (nhắc là cùng hệ sinh thái với Techcombank và Masterise Group) cho rằng sức mua giảm trong 9 tháng là điều chỉnh tạm thời. Bài nêu các chính sách ưu đãi chủ đầu tư đang dùng như đóng đợt đầu thấp, hỗ trợ lãi suất, ân hạn gốc 2–5 năm, và VARS khuyến nghị tái cấu trúc sản phẩm. Bài có dự báo nguồn cung 2026–2027 nhưng cách viết số liệu chưa rõ nên tôi không trích lại.",
+      "why_it_matters": "Nếu giao dịch hồi phục thì chủ đầu tư sẽ đẩy tiến độ; mua sắm cần chốt sớm vật tư dài hạn như thang máy, MEP, kính để tránh nghẽn cuối năm.",
+      "tags": [
+        "bất động sản",
+        "VARS",
+        "giao dịch",
+        "quý IV"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc nội dung chính văn.",
+      "accessed": "2026-10-25",
+      "note": "Số liệu nguồn cung 2026–2027 trong bài diễn đạt chưa rõ nên không đưa vào."
+    },
+    {
+      "id": "n-20261025-22-dnhn-gia-thep-25-10",
+      "title": "Giá thép hôm nay 25/10/2026: Thép quốc tế tuần qua biến động giằng co và áp lực dư cung đè nặng",
+      "title_vi": "Giá thép hôm nay 25/10/2026: Thép quốc tế tuần qua biến động giằng co và áp lực dư cung đè nặng",
+      "source": {
+        "name": "Doanh nghiệp & Hội nhập",
+        "kind": "báo kinh tế (VN)"
+      },
+      "url": "https://doanhnghiephoinhap.vn/gia-thep-hom-nay-25102026-thep-quoc-te-tuan-qua-bien-dong-giang-co-va-ap-luc-du-cung-de-nang-152375.html",
+      "published": "2026-10-25T09:00:35+07:00",
+      "time_known": true,
+      "date_basis": "giờ đăng trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Bài tổng hợp (nguồn giá từ SteelOnline) cho biết giá thép trong nước ngày 25/10 ổn định ở khoảng 13.840–15.150 đồng/kg tùy loại. Ở miền Bắc, Hòa Phát CB240 khoảng 14.920 đồng/kg và D10 CB300 khoảng 14.210; Việt Đức CB240 khoảng 14.650 và D10 khoảng 13.950. Trên thị trường thế giới, thép thanh Thượng Hải khoảng 3.051 NDT/tấn phiên 24/10, quặng sắt giảm; bài nêu triển vọng khó bứt phá do nguồn cung quặng dồi dào và bất động sản Trung Quốc phục hồi chậm.",
+      "why_it_matters": "Đây là giá tham khảo tổng hợp, không phải báo giá chính thức; dùng để so với chào giá nhà cung cấp và theo dõi xu hướng khi đàm phán hợp đồng khung thép.",
+      "tags": [
+        "thép",
+        "giá vật liệu",
+        "Hòa Phát",
+        "Việt Đức"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "bảng giá tổng hợp",
+      "how_read": "Mở trang bài gốc, đọc các đoạn giá trong nước và thế giới; không đọc hết phần bình luận cuối.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-23-bxd-tu-dien-du-lieu",
+      "title": "Bộ Xây dựng ban hành Từ điển dữ liệu về hoạt động xây dựng",
+      "title_vi": "Bộ Xây dựng ban hành Từ điển dữ liệu về hoạt động xây dựng",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo ngành (VN)"
+      },
+      "url": "https://baoxaydung.vn/bo-xay-dung-ban-hanh-tu-dien-du-lieu-ve-hoat-dong-xay-dung-192261025093233339.htm",
+      "published": "2026-10-25T12:10:00+07:00",
+      "time_known": true,
+      "date_basis": "giờ đăng trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Bộ Xây dựng ban hành Từ điển dữ liệu của cơ sở dữ liệu quốc gia về hoạt động xây dựng và năng lực hành nghề. Bài nêu cấu trúc nhóm dữ liệu như quy hoạch đô thị – nông thôn (21 trường dữ liệu kỹ thuật) và hoạt động xây dựng (7 nhóm), trong đó có dự án đầu tư xây dựng, chứng chỉ hành nghề, năng lực tổ chức và cá nhân; có đề cập mã định danh cho dự án/công trình. Tôi chỉ tóm tắt cấu trúc chung vì bài chủ yếu liệt kê danh mục dữ liệu.",
+      "why_it_matters": "Chuẩn dữ liệu quốc gia (mã dự án, năng lực nhà thầu) có thể thành nguồn tra cứu năng lực nhà thầu/tư vấn khi đánh giá hồ sơ dự thầu.",
+      "tags": [
+        "cơ sở dữ liệu quốc gia",
+        "Bộ Xây dựng",
+        "năng lực nhà thầu",
+        "mã định danh"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc nội dung chính văn.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-24-vne-tay-ninh-long-huu",
+      "title": "Tây Ninh sắp đấu thầu tìm nhà đầu tư khu đô thị hơn 10 tỷ USD",
+      "title_vi": "Tây Ninh sắp đấu thầu tìm nhà đầu tư khu đô thị hơn 10 tỷ USD",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo tổng hợp (VN)"
+      },
+      "url": "https://vnexpress.net/tay-ninh-sap-dau-thau-tim-nha-dau-tu-khu-do-thi-hon-10-ty-usd-5136316.html",
+      "published": "2026-10-24T12:05:00+07:00",
+      "time_known": true,
+      "date_basis": "giờ đăng trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Tây Ninh chuẩn bị đấu thầu chọn nhà đầu tư khu đô thị mới Long Hựu rộng gần 2.610 ha, quy mô khoảng 200.000 dân, vốn gần 265.000 tỷ đồng (khoảng 10,2 tỷ USD), thực hiện trong 5 năm. Khu đô thị chia 7 phân khu và 14 đơn vị ở; đất nhà ở hơn 711 ha, gồm nhà liền kề khoảng 351 ha (~42.000 căn) và biệt thự 276 ha (~16.500 căn). Nhà đầu tư trúng thầu sẽ làm hạ tầng đồng bộ.",
+      "why_it_matters": "Dự án quy mô cực lớn sẽ kéo cầu vật liệu và thầu phụ khu vực phía Nam; theo dõi hồ sơ mời thầu để biết điều kiện năng lực nhà đầu tư.",
+      "tags": [
+        "đấu thầu",
+        "khu đô thị",
+        "Tây Ninh",
+        "nhà đầu tư"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc nội dung chính văn.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": "n-20261025-25-tt-duong-sat-ben-thanh-can-gio",
+      "title": "Triển khai thi công đồng loạt các hạng mục trọng điểm đường sắt Bến Thành - Cần Giờ vào 30-10",
+      "title_vi": "Triển khai thi công đồng loạt các hạng mục trọng điểm đường sắt Bến Thành - Cần Giờ vào 30-10",
+      "source": {
+        "name": "Tuổi Trẻ",
+        "kind": "báo tổng hợp (VN)"
+      },
+      "url": "https://tuoitre.vn/vinspeed-thong-bao-khoi-cong-duong-sat-ben-thanh-can-gio-ngay-30-10-100261024160139434.htm",
+      "published": "2026-10-24T16:30:00+07:00",
+      "time_known": true,
+      "date_basis": "giờ ghi trong bài (GMT+7)",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "VinSpeed (chủ đầu tư) thông báo sẽ thi công đồng loạt các hạng mục trọng điểm tuyến đường sắt Bến Thành – Cần Giờ từ 30/10 (gồm hầm, cầu cạn, hai ga, depot, trung tâm điều hành và hệ thống điện – tín hiệu – soát vé). Tuyến dài khoảng 54 km trong đó đoạn ngầm khoảng 3,3 km. Liên danh thi công do SGC đứng đầu cùng Vinhomes, giám sát là CONINCO; dự kiến hoàn thành 12/2029, sau khi động thổ ngày 19/12/2025. Đường ray khổ 1.435 mm.",
+      "why_it_matters": "Hạ tầng giao thông lớn tại TP.HCM kéo theo nhu cầu vật liệu, thiết bị và thầu phụ; thông tin liên danh thi công giúp dự báo nguồn cung nhân lực – thiết bị.",
+      "tags": [
+        "đường sắt đô thị",
+        "hạ tầng",
+        "TP.HCM",
+        "VinSpeed"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc (qua công cụ fetch), đọc toàn bài.",
+      "accessed": "2026-10-25"
+    }
+  ],
+  "unreachable": [
+    {
+      "source": "Reuters (reuters.com/business)",
+      "status": "HTTP 401 — không mở được",
+      "impact": "không có mục Reuters trong bộ tin"
+    },
+    {
+      "source": "Bloomberg (bloomberg.com)",
+      "status": "HTTP 403 — không mở được trực tiếp",
+      "impact": "chỉ có một bản đăng lại trên SupplyChainBrain (mục 16)"
+    },
+    {
+      "source": "McKinsey Insights",
+      "status": "không kết nối được (timeout)",
+      "impact": "không có mục McKinsey"
+    },
+    {
+      "source": "BCG",
+      "status": "HTTP 403",
+      "impact": "không có mục BCG"
+    },
+    {
+      "source": "Deloitte (trang E&C)",
+      "status": "HTTP 404",
+      "impact": "không có mục Deloitte"
+    },
+    {
+      "source": "Autodesk (blog xây dựng, RSS)",
+      "status": "HTTP 403 / RSS rỗng",
+      "impact": "không có mục Autodesk"
+    },
+    {
+      "source": "Procore (thư viện RSS)",
+      "status": "404 — dùng ENR và trang thông cáo thay thế",
+      "impact": "đã lấy tin Procore qua ENR/thông cáo"
+    },
+    {
+      "source": "Bentley (RSS)",
+      "status": "404 — đọc blog trực tiếp",
+      "impact": "không"
+    },
+    {
+      "source": "Trimble (RSS)",
+      "status": "RSS lỗi định dạng — đọc trực tiếp từng trang",
+      "impact": "không"
+    },
+    {
+      "source": "Logistics Management",
+      "status": "RSS rỗng",
+      "impact": "không có mục Logistics Management"
+    },
+    {
+      "source": "Vietnam Logistics Review",
+      "status": "không kết nối được",
+      "impact": "không có mục VLR"
+    },
+    {
+      "source": "Vietnam Investment Review (VIR)",
+      "status": "RSS 404; trang chủ mở được nhưng không có bài phù hợp, kiểm chứng được trong phiên này",
+      "impact": "không có mục VIR"
+    },
+    {
+      "source": "Reatimes",
+      "status": "RSS 404; trang chủ mở được nhưng không chọn được bài phù hợp trong phiên này",
+      "impact": "không có mục Reatimes"
+    },
+    {
+      "source": "VnEconomy (BĐS)",
+      "status": "RSS rỗng",
+      "impact": "không có mục VnEconomy"
+    },
+    {
+      "source": "Tạp chí Xây dựng (RSS)",
+      "status": "RSS lỗi; đọc bài trực tiếp",
+      "impact": "không"
+    },
+    {
+      "source": "Construction Dive, Supply Chain Dive, SupplyChainBrain, Tuổi Trẻ, Built Offsite",
+      "status": "curl bị chặn/trống (403/rỗng); đọc được qua công cụ fetch",
+      "impact": "đã đọc, ghi trong how_read"
+    },
+    {
+      "source": "Nguồn tiếng Trung qua bản tiếng Anh",
+      "status": "chưa khai thác trong phiên này",
+      "impact": "không có mục"
+    }
+  ]
+}

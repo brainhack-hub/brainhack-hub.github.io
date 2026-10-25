@@ -9,6 +9,7 @@ Usage:
   python3 scripts/add_day.py --all                           # validate every day file in data/ + data/vn-youth.json
   python3 scripts/add_day.py --youth [--check-links]         # validate only the VN youth profile (data/vn-youth.json)
   python3 scripts/add_day.py --tools [--check-links]         # validate only the tool registry (data/tools.json)
+  python3 scripts/add_day.py --news [--check-links]          # validate "Đọc báo" (data/news/*.json) — same as scripts/add_news.py --all
 
 Standard library only (Python 3.8+).
 """
@@ -457,13 +458,14 @@ def main():
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--youth", action="store_true", help="chỉ kiểm tra data/vn-youth.json")
     ap.add_argument("--tools", action="store_true", help="chỉ kiểm tra data/tools.json")
+    ap.add_argument("--news", action="store_true", help="chỉ kiểm tra data/news/*.json (Đọc báo)")
     a = ap.parse_args()
     cfg = load(os.path.join(DATA, "config.json"))
     w = weights(cfg)
     if a.rebuild_index and not a.file:
         rebuild_index(cfg); return 0
     files = sorted(glob.glob(os.path.join(DATA, "????-??-??.json"))) if a.all else ([a.file] if a.file else [])
-    if not files and not a.youth and not a.tools:
+    if not files and not a.youth and not a.tools and not a.news:
         ap.print_help(); return 2
     rc = 0
     if a.youth or a.all:
@@ -474,6 +476,10 @@ def main():
         terrs, tt = validate_tools()
         if terrs: rc = 1
         if a.check_links and tt: check_links(tt)
+    if a.news or a.all:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import add_news
+        if add_news.run_all(a.check_links) != 0: rc = 1
     for f in files:
         day = load(f)
         if a.fix:
