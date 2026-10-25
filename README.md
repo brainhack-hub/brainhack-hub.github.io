@@ -2,7 +2,7 @@
 
 Trung tâm **ý tưởng kinh doanh mỗi ngày** (tiếng Việt) — mỗi ngày các ý tưởng xếp hạng + tín hiệu xu hướng **Trung Quốc (trọng tâm), Hàn, Nhật, Mỹ, Đông Nam Á, châu Âu** + bảng **từ khóa & chủ đề hot theo vùng**, được chấm theo độ hợp **hành vi giới trẻ Việt Nam**; mọi dữ kiện kèm nguồn đã mở và mức xác minh. Là một **PWA** cài được lên màn hình chính điện thoại/máy tính.
 
-**Mở app:** https://formalboy.github.io/brain-hack/
+**Mở app:** https://brainhack-hub.github.io/
 
 ## Tính năng
 - **Hôm nay**: ngày rõ ràng, huy hiệu *MỚI HÔM NAY*, các thẻ ý tưởng xếp hạng (có cờ vùng tín hiệu 🇨🇳🇰🇷🇯🇵🇺🇸…), mục *Xu hướng thế giới hôm nay* (có link nguồn). Bộ lọc **Vùng tín hiệu** lọc cả ý tưởng lẫn xu hướng.
