@@ -16,8 +16,9 @@
   var saveUser = function () { LS.set('bh.user.v1', user); };
 
   /* ---------- state ---------- */
-  var S = { cfg: null, index: null, days: {}, ideas: [], trends: [], w: {}, openIds: {}, offline: false };
-  var F = { cat: '', type: '', cap: '', eff: '', st: '', sort: 'total', q: '' };
+  var S = { cfg: null, index: null, days: {}, ideas: [], trends: [], w: {}, openIds: {}, offline: false, youth: null };
+  var F = { cat: '', type: '', cap: '', eff: '', st: '', reg: '', sort: 'total', q: '' };
+  var KF = { reg: '', th: '' };
 
   /* ---------- helpers ---------- */
   function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
@@ -42,6 +43,8 @@
   function tierOf(c) { var t = S.cfg.capital_tiers; for (var i = 0; i < t.length; i++) if (t[i].max_m == null || c.vnd_max_m <= t[i].max_m) return t[i]; return t[t.length - 1]; }
   function effOf(ease) { var e = S.cfg.effort_levels; for (var i = 0; i < e.length; i++) if (ease >= e[i].min_ease) return e[i]; return e[e.length - 1]; }
   function catLabel(id) { var c = S.cfg.categories.filter(function (x) { return x.id === id; })[0]; return c ? c.label : id; }
+  function regInfo(id) { var r = S.cfg.regions.filter(function (x) { return x.id === id; })[0]; return r || { id: id, label: id, flag: '' }; }
+  function regChips(list) { return (list || []).map(function (r) { var x = regInfo(r); return '<span class="tag reg" title="' + esc(x.label) + '">' + esc(x.flag) + ' ' + esc(r) + '</span>'; }).join(''); }
   function typeLabel(id) { var c = S.cfg.types.filter(function (x) { return x.id === id; })[0]; return c ? c.label : id; }
   var STATUS = [{ id: 'interested', label: 'Quan tâm' }, { id: 'testing', label: 'Đang thử' }, { id: 'skipped', label: 'Bỏ qua' }];
   function toast(msg, action, cb) {
@@ -53,26 +56,27 @@
   /* ---------- data ---------- */
   function fetchJSON(url) { return fetch(url, { cache: 'no-cache' }).then(function (r) { if (!r.ok) throw new Error(url + ' ' + r.status); return r.json(); }); }
   function load() {
-    return Promise.all([fetchJSON('data/config.json'), fetchJSON('data/index.json')]).then(function (a) {
-      S.cfg = a[0]; S.index = a[1]; S.cfg.criteria.forEach(function (c) { S.w[c.key] = c.weight; });
+    return Promise.all([fetchJSON('data/config.json'), fetchJSON('data/index.json'), fetchJSON('data/vn-youth.json').catch(function () { return null; })]).then(function (a) {
+      S.cfg = a[0]; S.index = a[1]; S.youth = a[2]; S.cfg.criteria.forEach(function (c) { S.w[c.key] = c.weight; });
       return Promise.all(S.index.days.map(function (d) { return fetchJSON('data/' + d.file).then(function (j) { S.days[d.date] = j; }); }));
     }).then(function () {
       S.ideas = []; S.trends = [];
       Object.keys(S.days).sort().reverse().forEach(function (dt) {
         var day = S.days[dt];
-        (day.ideas || []).forEach(function (i) { i._total = total(i.scores); i._tier = tierOf(i.capital); i._eff = effOf(i.scores.ease); S.ideas.push(i); });
+        (day.ideas || []).forEach(function (i) { i._date = dt; i._total = total(i.scores); i._tier = tierOf(i.capital); i._eff = effOf(i.scores.ease); S.ideas.push(i); });
         (day.trends || []).forEach(function (t) { S.trends.push(t); });
       });
       var sorted = S.ideas.slice().sort(cmpTotal);
       sorted.forEach(function (i, n) { i._overall = n + 1; });
     });
   }
-  function cmpTotal(a, b) { return (b._total - a._total) || (b.scores.china - a.scores.china) || (b.scores.demand - a.scores.demand) || (a.id < b.id ? -1 : 1); }
+  function cmpTotal(a, b) { return (b._total - a._total) || (b.scores.signal - a.scores.signal) || (b.scores.demand - a.scores.demand) || (a.id < b.id ? -1 : 1); }
 
   /* ---------- filtering ---------- */
   function match(i) {
     if (F.cat && i.category.indexOf(F.cat) < 0) return false;
     if (F.type && i.type !== F.type) return false;
+    if (F.reg && (i.regions || []).indexOf(F.reg) < 0) return false;
     if (F.cap && i._tier.id !== F.cap) return false;
     if (F.eff && i._eff.id !== F.eff) return false;
     if (F.st) {
@@ -82,7 +86,7 @@
       else if (F.st !== 'star' && F.st !== 'none' && s !== F.st) return false;
     }
     if (F.q) {
-      var hay = [i.title, i.pitch, (i.tags || []).join(' '), i.china_signal, i.localize_vn, (i.sources || []).map(function (s) { return s.name + ' ' + s.title; }).join(' ')].join(' ').toLowerCase();
+      var hay = [i.title, i.pitch, (i.tags || []).join(' '), i.signal_text, i.localize_vn, i.vn_youth_fit, (i.regions || []).join(' '), (i.sources || []).map(function (s) { return s.name + ' ' + s.title; }).join(' ')].join(' ').toLowerCase();
       var terms = F.q.toLowerCase().split(/\s+/).filter(Boolean);
       for (var k = 0; k < terms.length; k++) if (hay.indexOf(terms[k]) < 0) return false;
     }
@@ -94,11 +98,12 @@
     else if (by === 'new') c = function (a, b) { return (a.date < b.date ? 1 : a.date > b.date ? -1 : cmpTotal(a, b)); };
     else if (by === 'lowcap') c = function (a, b) { return (a.capital.vnd_max_m - b.capital.vnd_max_m) || cmpTotal(a, b); };
     else if (by === 'ease') c = function (a, b) { return (b.scores.ease - a.scores.ease) || cmpTotal(a, b); };
-    else if (by === 'china') c = function (a, b) { return (b.scores.china - a.scores.china) || cmpTotal(a, b); };
+    else if (by === 'signal') c = function (a, b) { return (b.scores.signal - a.scores.signal) || cmpTotal(a, b); };
+    else if (by === 'vnfit') c = function (a, b) { return (b.scores.vnfit - a.scores.vnfit) || cmpTotal(a, b); };
     else c = cmpTotal;
     return list.slice().sort(c);
   }
-  function hasFilter() { return !!(F.cat || F.type || F.cap || F.eff || F.st || F.q); }
+  function hasFilter() { return !!(F.cat || F.type || F.cap || F.eff || F.st || F.reg || F.q); }
 
   /* ---------- components ---------- */
   function filterBar(extraNote) {
@@ -111,29 +116,29 @@
     return '<details class="filters" id="filters"' + (hasFilter() ? ' open' : '') + '><summary><span>⚙ Bộ lọc &amp; sắp xếp</span><span class="count" id="fcount"></span></summary>' +
       '<div class="frow"><span class="lbl">Danh mục</span>' + chips('cat', cfg.categories, 'Tất cả') + '</div>' +
       '<div class="frow"><span class="lbl">Loại</span>' + chips('type', cfg.types, 'Tất cả') + '</div>' +
+      '<div class="frow"><span class="lbl">Vùng tín hiệu</span>' + chips('reg', cfg.regions.map(function (r) { return { id: r.id, label: r.flag + ' ' + r.label }; }), 'Tất cả') + '</div>' +
       '<div class="frow"><span class="lbl">Vốn / công sức</span>' + opts('cap', cfg.capital_tiers, 'Mọi mức vốn') + opts('eff', cfg.effort_levels, 'Mọi mức công sức') +
       '<select data-fs="st" aria-label="Trạng thái của tôi"><option value="">Mọi trạng thái</option><option value="star"' + (F.st === 'star' ? ' selected' : '') + '>★ Đã gắn sao</option>' +
       STATUS.map(function (s) { return '<option value="' + s.id + '"' + (F.st === s.id ? ' selected' : '') + '>' + s.label + '</option>'; }).join('') + '<option value="none"' + (F.st === 'none' ? ' selected' : '') + '>Chưa phân loại</option></select></div>' +
       '<div class="frow"><span class="lbl">Sắp xếp</span><select data-fs="sort" aria-label="Sắp xếp">' +
-      [['total', 'Tổng điểm (cao → thấp)'], ['new', 'Mới nhất'], ['lowcap', 'Vốn thấp nhất'], ['ease', 'Dễ làm nhất'], ['china', 'Tín hiệu TQ mạnh nhất']].map(function (o) { return '<option value="' + o[0] + '"' + (F.sort === o[0] ? ' selected' : '') + '>' + o[1] + '</option>'; }).join('') + '</select>' +
+      [['total', 'Tổng điểm (cao → thấp)'], ['new', 'Mới nhất'], ['lowcap', 'Vốn thấp nhất'], ['ease', 'Dễ làm nhất'], ['signal', 'Tín hiệu quốc tế mạnh nhất'], ['vnfit', 'Hợp giới trẻ VN nhất']].map(function (o) { return '<option value="' + o[0] + '"' + (F.sort === o[0] ? ' selected' : '') + '>' + o[1] + '</option>'; }).join('') + '</select>' +
       (hasFilter() ? '<button type="button" class="btn" id="fclear">Xóa bộ lọc</button>' : '') + '</div>' + (extraNote || '') + '</details>';
   }
   function bars(sc, compact) {
     var cfg = S.cfg.criteria;
     if (compact) return '<div class="minibars" aria-label="Điểm thành phần">' + cfg.map(function (c) {
-      return '<div class="mb" title="' + esc(c.label) + ' (trọng số ' + Math.round(c.weight * 100) + '%)"><strong>' + sc[c.key] + '</strong><div class="bar"><i style="width:' + sc[c.key] * 10 + '%"></i></div>' + esc(short(c.label)) + '</div>';
+      return '<div class="mb" title="' + esc(c.label) + ' (trọng số ' + Math.round(c.weight * 100) + '%)"><strong>' + sc[c.key] + '</strong><div class="bar"><i style="width:' + sc[c.key] * 10 + '%"></i></div>' + esc(c.short || c.label) + '</div>';
     }).join('') + '</div>';
     return '<div class="detailbars">' + cfg.map(function (c) {
       return '<div class="row"><span>' + esc(c.label) + ' <span class="muted">(×' + fmtNum(c.weight) + ')</span></span><div class="bar"><i style="width:' + sc[c.key] * 10 + '%"></i></div><b>' + sc[c.key] + '/10</b></div>';
     }).join('') + '</div>';
   }
-  function short(l) { return ({ 'Độ dễ thực hiện': 'Dễ làm', 'Nhu cầu thị trường': 'Nhu cầu', 'Độ mới lạ': 'Mới lạ', 'Vốn thấp': 'Vốn thấp', 'Tín hiệu từ Trung Quốc': 'Tín hiệu TQ' })[l] || l; }
   function factList(facts, sources, pref) {
     var idx = {}; sources.forEach(function (s, n) { idx[s.id] = n + 1; });
     return '<ul class="facts">' + facts.map(function (f) {
       var cls = f.verification === '2+ nguồn độc lập' ? 'v2' : f.verification === '1 nguồn gốc' ? 'v1' : 'vu';
       var refs = (f.source_ids || []).map(function (id) { return '<sup><a href="#' + esc(pref + id) + '" data-src="' + esc(pref + id) + '">[' + (idx[id] || '?') + ']</a></sup>'; }).join('');
-      return '<li class="' + cls + '"><span class="vb ' + cls + '">' + esc(f.verification) + '</span>' + esc(f.text) + ' ' + refs + (f.note ? '<span class="note">Lưu ý: ' + esc(f.note) + '</span>' : '') + '</li>';
+      return '<li' + (f.id && pref.indexOf('ys-') === 0 ? ' id="yfact-' + esc(f.id) + '"' : '') + ' class="' + cls + '"><span class="vb ' + cls + '">' + esc(f.verification) + '</span>' + esc(f.text) + ' ' + refs + (f.note ? '<span class="note">Lưu ý: ' + esc(f.note) + '</span>' : '') + '</li>';
     }).join('') + '</ul>';
   }
   function srcList(sources, pref) {
@@ -141,6 +146,35 @@
       return '<li id="' + esc(pref + s.id) + '"><a href="' + esc(safeUrl(s.url)) + '" target="_blank" rel="noopener noreferrer">' + esc(s.name) + ' — ' + esc(s.title) + '</a>' +
         '<br><span class="m">đăng: ' + (s.published ? dmy(s.published) : 'không rõ') + ' · truy cập: ' + dmy(s.accessed) + ' · ' + esc(s.how_read) + (s.note ? ' · ' + esc(s.note) : '') + '</span></li>';
     }).join('') + '</ol>';
+  }
+  function youthRefs(i) {
+    var facts = {}; if (S.youth) S.youth.sections.forEach(function (sc) { sc.facts.forEach(function (f) { facts[f.id] = f; }); });
+    var h = (i.vn_fit_refs || []).filter(function (r) { return facts[r]; }).map(function (r) { return '<a class="chip small" href="#/gioi-tre/' + esc(r) + '">' + esc(facts[r].label) + '</a>'; }).join(' ');
+    return h ? '<p class="small muted">Dữ kiện giới trẻ liên quan: ' + h + '</p>' : '';
+  }
+  function kwRefs(i) {
+    var d = S.days[i._date]; if (!d || !d.keywords) return '';
+    var rel = d.keywords.filter(function (k) { return (k.idea_ids || []).indexOf(i.id) >= 0; });
+    var src = (i.from_keywords || []).map(function (id) { return d.keywords.filter(function (k) { return k.id === id; })[0]; }).filter(Boolean);
+    var h = '';
+    if (src.length) h += '<p class="small"><b>Sinh ra từ từ khóa hot:</b> ' + src.map(function (k) { return regInfo(k.region).flag + ' ' + esc(k.keyword); }).join(' · ') + ' — <a href="#/tu-khoa">xem tab Từ khóa hot</a></p>';
+    if (rel.length) h += '<p class="small muted">Từ khóa hot liên quan: ' + rel.map(function (k) { return regInfo(k.region).flag + ' ' + esc(k.keyword); }).join(' · ') + '</p>';
+    return h;
+  }
+  function promptBlock(i) {
+    if (!i.claude_prompt) return '';
+    return '<h4 class="sub">Triển khai: giao cho Claude làm</h4><div class="promptbox"><div class="ph"><b>🤖 Prompt cho Claude</b><span class="muted small">' + i.claude_prompt.length.toLocaleString('vi-VN') + ' ký tự</span><button type="button" class="btn primary copybig" data-act="copyprompt">📋 Copy prompt</button></div>' +
+      '<p class="small muted">Dán nguyên văn vào Claude. Prompt chỉ dùng các dữ kiện có nguồn của ý tưởng này; phần áp dụng cho VN vẫn là giả thuyết cần test.</p>' +
+      '<pre class="prompt" tabindex="0">' + esc(i.claude_prompt) + '</pre></div>';
+  }
+  function copyText(text) {
+    if (navigator.clipboard && window.isSecureContext) return navigator.clipboard.writeText(text);
+    return new Promise(function (res, rej) {
+      var ta = document.createElement('textarea'); ta.value = text; ta.setAttribute('readonly', ''); ta.style.cssText = 'position:fixed;top:-1000px;opacity:0';
+      document.body.appendChild(ta); ta.select(); ta.setSelectionRange(0, text.length);
+      var ok = false; try { ok = document.execCommand('copy'); } catch (e) { ok = false; }
+      document.body.removeChild(ta); ok ? res() : rej(new Error('copy failed'));
+    });
   }
   function ideaCard(i, o) {
     o = o || {};
@@ -153,19 +187,22 @@
       '<div class="top"><div class="rank' + rcls + '" title="' + (o.overall ? 'Hạng toàn thời gian' : 'Hạng trong ngày') + '">#' + rk + '</div>' +
       '<div style="min-width:0;flex:1"><h3>' + esc(i.title) + '</h3><div class="tags">' +
       (isNew ? '<span class="badge new">Mới</span>' : '') + (i.hypothesis ? '<span class="badge hyp" title="' + esc(i.hypothesis_note) + '">Giả thuyết</span>' : '') +
-      '<span class="tag' + (i.type === 'invest' ? ' type-invest' : '') + '">' + esc(typeLabel(i.type)) + '</span>' +
+      '<span class="tag' + (i.type === 'invest' ? ' type-invest' : '') + '">' + esc(typeLabel(i.type)) + '</span>' + regChips(i.regions) +
       i.category.map(function (c) { return '<span class="tag">' + esc(catLabel(c)) + '</span>'; }).join('') + '</div></div>' +
       '<div class="score" title="Tổng điểm có trọng số (thang 10)"><b>' + fmtNum(i._total.toFixed(2)) + '</b><span>/ 10</span></div></div>' +
-      '<p class="pitch">' + esc(i.pitch) + '</p>' + bars(i.scores, true) +
+      '<div class="pitchrow">' + (i.image ? '<img class="thumb" src="' + esc(i.image) + '" alt="' + esc(i.image_alt || i.title) + '" loading="lazy" decoding="async" width="128" height="96">' : '') + '<p class="pitch">' + esc(i.pitch) + '</p></div>' + bars(i.scores, true) +
       '<div class="meta"><span>💰 <b>' + esc(capLabel(i.capital)) + '</b></span><span>🛠 ' + esc(i._eff.label) + '</span><span>📅 ' + dmy(i.date) + '</span><span>Độ tin cậy: <b>' + esc(i.confidence) + '</b></span></div>' +
       '<div class="acts"><button class="btn star" data-act="star" aria-pressed="' + starred + '" aria-label="Gắn sao" title="Gắn sao">' + (starred ? '★' : '☆') + '</button>' +
       STATUS.map(function (s) { return '<button class="btn st s-' + s.id + '" data-act="st" data-v="' + s.id + '" aria-pressed="' + (st === s.id) + '">' + s.label + '</button>'; }).join('') +
-      '<span class="grow"></span><button class="btn ghost small" data-act="link" title="Sao chép liên kết">🔗</button></div>' +
+      '<span class="grow"></span><button class="btn primary small" data-act="copyprompt" title="Sao chép prompt để dán vào Claude">🤖 Copy prompt</button><button class="btn ghost small" data-act="link" title="Sao chép liên kết">🔗</button></div>' +
       '<details class="more" data-id="' + esc(i.id) + '"' + open + '><summary>Chi tiết, nguồn &amp; 7 ngày thử đầu tiên</summary>' +
+      (i.image ? '<figure class="hero-img"><img src="' + esc(i.image) + '" alt="' + esc(i.image_alt || i.title) + '" loading="lazy" decoding="async" width="800" height="600"><figcaption>Minh họa ý tưởng (ảnh do AI tạo, chỉ để hình dung)</figcaption></figure>' : '') +
       (i.hypothesis ? '<div class="box hypbox"><b>Giả thuyết:</b> ' + esc(i.hypothesis_note) + '</div>' : '') +
-      '<h4 class="sub">Tín hiệu Trung Quốc (vì sao bây giờ)</h4><p>' + esc(i.china_signal) + '</p>' + factList(i.key_facts, i.sources, 'src-' + i.id + '-') +
+      '<h4 class="sub">Tín hiệu quốc tế (vì sao bây giờ) ' + regChips(i.regions) + '</h4><p>' + esc(i.signal_text) + '</p>' + factList(i.key_facts, i.sources, 'src-' + i.id + '-') +
+      '<h4 class="sub">Phù hợp hành vi giới trẻ VN (điểm ' + i.scores.vnfit + '/10)</h4><p>' + esc(i.vn_youth_fit) + '</p>' + youthRefs(i) + kwRefs(i) +
       '<h4 class="sub">Việt hóa</h4><p>' + esc(i.localize_vn) + '</p>' + (i.localize_global ? '<h4 class="sub">Toàn cầu</h4><p>' + esc(i.localize_global) + '</p>' : '') +
       '<h4 class="sub">Thử trong 1 tuần</h4><ol class="steps">' + i.first_steps.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ol>' +
+      promptBlock(i) +
       '<h4 class="sub">Vốn ước tính</h4><p><b>' + esc(capLabel(i.capital)) + '</b><br><span class="muted small">' + esc(i.capital.note) + '</span></p>' +
       '<h4 class="sub">Rủi ro</h4><ul class="risks">' + i.risks.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul>' +
       '<h4 class="sub">Điểm chi tiết (tổng = Σ điểm × trọng số)</h4>' + bars(i.scores, false) +
@@ -173,7 +210,7 @@
     return h;
   }
   function trendCard(t, n) {
-    return '<article class="card trend" id="trend-' + esc(t.id) + '"><h3><span class="n">' + n + '</span>' + esc(t.title) + '</h3><p>' + esc(t.summary) + '</p>' +
+    return '<article class="card trend" id="trend-' + esc(t.id) + '"><h3><span class="n">' + n + '</span>' + esc(t.title) + '</h3><div class="tags">' + regChips(t.regions) + '</div><p>' + esc(t.summary) + '</p>' +
       '<p class="why">💡 ' + esc(t.why_it_matters) + '</p>' +
       '<details class="more" data-id="' + esc(t.id) + '"' + (S.openIds[t.id] ? ' open' : '') + '><summary>Dữ kiện &amp; nguồn (' + t.sources.length + ')</summary>' + factList(t.key_facts, t.sources, 'tsrc-' + t.id + '-') + srcList(t.sources, 'tsrc-' + t.id + '-') + '</details></article>';
   }
@@ -183,6 +220,13 @@
   }
 
   /* ---------- views ---------- */
+  function regionsOf(day) { var o = {}; (day.trends || []).forEach(function (t) { (t.regions || []).forEach(function (r) { o[r] = 1; }); }); return Object.keys(o); }
+  function trendsHtml(day) {
+    var list = (day.trends || []).filter(function (t) { return !F.reg || (t.regions || []).indexOf(F.reg) >= 0; });
+    list = list.slice().sort(function (a, b) { var ac = (a.regions || []).indexOf('CN') >= 0 ? 0 : 1, bc = (b.regions || []).indexOf('CN') >= 0 ? 0 : 1; return ac - bc; });
+    if (!list.length) return '<div class="empty small">Không có tín hiệu nào ở vùng này hôm nay.</div>';
+    return '<div class="grid cols2">' + list.map(function (t, n) { return trendCard(t, n + 1); }).join('') + '</div>';
+  }
   function viewDay(dt, isToday) {
     var day = S.days[dt];
     if (!day) return '<div class="empty">Không tìm thấy dữ liệu ngày ' + esc(dt) + '. <a href="#/luu-tru">Xem lưu trữ</a></div>';
@@ -193,10 +237,10 @@
     var top = day.ideas.slice().sort(cmpTotal)[0];
     var h = banner + '<section class="hero"><div class="date">' + badge + '<span>' + (isToday ? 'Hôm nay' : 'Lưu trữ') + '</span></div><div class="bigdate">' + longDate(dt) + '</div>' +
       '<p><b>' + esc(day.headline) + '</b></p><p>' + esc(day.summary) + '</p>' +
-      '<div class="stats"><span class="stat">' + day.ideas.length + ' ý tưởng</span><span class="stat">' + day.trends.length + ' tín hiệu Trung Quốc</span>' +
+      '<div class="stats"><span class="stat">' + day.ideas.length + ' ý tưởng</span><span class="stat">' + day.trends.length + ' tín hiệu · ' + regionsOf(day).length + ' vùng</span>' + (day.keywords ? '<span class="stat">' + day.keywords.length + ' từ khóa hot</span>' : '') +
       (top ? '<span class="stat">Top 1: ' + fmtNum(top._total.toFixed(2)) + '/10</span>' : '') + '</div></section>';
-    h += '<div class="sec"><h2>🇨🇳 Xu hướng Trung Quốc ' + (fresh ? 'hôm nay' : 'ngày ' + dmy(dt)) + '</h2><span class="muted small">Mỗi dữ kiện ghi rõ mức xác minh &amp; nguồn đã mở</span></div>';
-    h += '<div class="grid cols2">' + day.trends.map(function (t, n) { return trendCard(t, n + 1); }).join('') + '</div>';
+    h += '<div class="sec"><h2>🌏 Xu hướng thế giới ' + (fresh ? 'hôm nay' : 'ngày ' + dmy(dt)) + '</h2><span class="muted small">Trung Quốc là trọng tâm · mỗi dữ kiện ghi mức xác minh &amp; nguồn đã mở</span></div>';
+    h += '<div id="trends">' + trendsHtml(day) + '</div>';
     h += '<div class="sec"><h2>💡 Ý tưởng xếp hạng ' + (fresh ? 'hôm nay' : 'ngày ' + dmy(dt)) + '</h2><span class="muted small" id="rescount">' + ideas.length + '/' + day.ideas.length + ' ý tưởng</span></div>';
     h += filterBar() + '<div id="list">' + listIdeas(ideas) + '</div>';
     return h;
@@ -213,6 +257,52 @@
         return '<a class="dayrow" href="#/luu-tru/' + d.date + '"><div class="d"><b>' + pad(p.d) + '</b><span>Th' + pad(p.m) + '/' + p.y + '</span></div><div style="flex:1;min-width:0"><b>' + esc(longDate(d.date)) + '</b><br><span class="muted small">' + esc(d.headline) + '</span><br><span class="small">' + d.idea_count + ' ý tưởng · ' + d.trend_count + ' xu hướng' + (d.top ? ' · Top 1: ' + esc(d.top.title) + ' (' + fmtNum(Number(d.top.total_score).toFixed(2)) + ')' : '') + '</span></div></a>';
       }).join('') + '</div>';
   }
+  function viewKeywords(dt) {
+    dt = (dt && S.days[dt]) ? dt : S.index.latest; var day = S.days[dt];
+    if (!day || !day.keywords) return '<div class="empty">Chưa có dữ liệu từ khóa cho ngày này.</div>';
+    var kws = day.keywords, srcs = {}; (day.keyword_sources || []).forEach(function (x) { srcs[x.id] = x; });
+    var regs = S.cfg.regions.filter(function (r) { return kws.some(function (k) { return k.region === r.id; }); });
+    var ths = S.cfg.keyword_themes.filter(function (t) { return kws.some(function (k) { return k.theme === t.id; }); });
+    var chips = function (key, items, all) { return '<button type="button" class="chip" data-kf="' + key + '" data-v="" aria-pressed="' + (KF[key] === '') + '">' + all + '</button>' + items.map(function (x) { return '<button type="button" class="chip" data-kf="' + key + '" data-v="' + esc(x.id) + '" aria-pressed="' + (KF[key] === x.id) + '">' + esc(x.label) + '</button>'; }).join(''); };
+    var h = '<div class="sec"><h1>🔥 Từ khóa &amp; chủ đề hot</h1><span class="muted small">' + longDate(dt) + '</span></div>' +
+      '<p class="muted">Từ khóa/chủ đề đang nổi theo vùng, nhóm theo chủ đề. Mỗi mục ghi <b>hạng, nguồn, giờ chụp (UTC+7) và độ tin cậy</b>; chủ đề có tiềm năng thương mại được nối tới ý tưởng. Bảng tìm kiếm thường nghiêng về thể thao/tin nóng nên nhiều từ khóa không gắn ý tưởng — đó là có chủ đích.</p>' +
+      '<div class="filters kwf"><div class="frow"><span class="lbl">Vùng</span>' + chips('reg', regs.map(function (r) { return { id: r.id, label: r.flag + ' ' + r.label }; }), 'Tất cả') + '</div>' +
+      '<div class="frow"><span class="lbl">Chủ đề</span>' + chips('th', ths.map(function (t) { return { id: t.id, label: t.icon + ' ' + t.label }; }), 'Tất cả') + '</div></div>';
+    var q = (F.q || '').toLowerCase();
+    var list = kws.filter(function (k) { return (!KF.reg || k.region === KF.reg) && (!KF.th || k.theme === KF.th) && (!q || (k.keyword + ' ' + (k.gloss || '') + ' ' + (k.metric || '')).toLowerCase().indexOf(q) >= 0); });
+    h += '<p class="muted small" id="kwcount">' + list.length + '/' + kws.length + ' từ khóa</p>';
+    if (!list.length) h += '<div class="empty">Không có từ khóa khớp bộ lọc.</div>';
+    ths.forEach(function (t) {
+      var items = list.filter(function (k) { return k.theme === t.id; }); if (!items.length) return;
+      var rs = {}; items.forEach(function (k) { rs[k.region] = 1; });
+      items.sort(function (a, b) { return (a.region < b.region ? -1 : a.region > b.region ? 1 : ((a.rank || 999) - (b.rank || 999))); });
+      h += '<section class="kwtheme"><h2>' + t.icon + ' ' + esc(t.label) + ' <span class="muted small">' + items.length + ' từ khóa · ' + Object.keys(rs).map(function (r) { return regInfo(r).flag; }).join(' ') + '</span></h2><ul class="kwlist">' +
+        items.map(function (k) {
+          var s = srcs[k.source_id];
+          var links = (k.idea_ids || []).map(function (id) { var it = S.ideas.filter(function (x) { return x.id === id; })[0]; return it ? '<a class="chip small" href="#/y-tuong/' + esc(id) + '">💡 #' + it._overall + ' ' + esc(it.title.split(/[—:(“]/)[0].trim().slice(0, 38)) + '</a>' : ''; }).join(' ');
+          var cc = k.confidence.indexOf('gốc') >= 0 ? 'v2' : k.confidence.indexOf('chưa') >= 0 ? 'vu' : 'v1';
+          return '<li><div class="kwh"><span class="rk">' + (k.rank ? '#' + k.rank : '·') + '</span><span class="tag reg">' + esc(regInfo(k.region).flag) + ' ' + esc(k.region) + '</span><b class="kwt">' + esc(k.keyword) + '</b><span class="vb ' + cc + '">' + esc(k.confidence) + '</span></div>' +
+            (k.gloss ? '<div class="small">' + esc(k.gloss) + '</div>' : '') + (k.metric ? '<div class="small muted">' + esc(k.metric) + '</div>' : '') +
+            (s ? '<div class="small muted">Nguồn: <a href="' + esc(safeUrl(s.url)) + '" target="_blank" rel="noopener noreferrer">' + esc(s.name) + '</a> · chụp ' + esc(String(s.captured_at).replace('T', ' ').slice(0, 16)) + ' (UTC+7) · truy cập ' + dmy(s.accessed) + '</div>' : ((k.derived_from || []).length ? '<div class="small muted">Suy ra từ ' + k.derived_from.length + ' từ khóa ở các vùng khác (lọc từng vùng để xem)</div>' : '')) +
+            (k.note ? '<div class="note">Lưu ý: ' + esc(k.note) + '</div>' : '') + (links ? '<div class="kwl">' + links + '</div>' : '') + '</li>';
+        }).join('') + '</ul></section>';
+    });
+    h += '<details class="more"><summary>Nguồn dữ liệu từ khóa (' + (day.keyword_sources || []).length + ')</summary><ol class="srcs">' + (day.keyword_sources || []).map(function (s) { return '<li><a href="' + esc(safeUrl(s.url)) + '" target="_blank" rel="noopener noreferrer">' + esc(s.name) + ' — ' + esc(s.title) + '</a><br><span class="m">chụp ' + esc(String(s.captured_at).replace('T', ' ').slice(0, 16)) + ' (UTC+7) · ' + esc(s.how_read) + (s.note ? ' · ' + esc(s.note) : '') + '</span></li>'; }).join('') + '</ol></details>';
+    if ((day.keyword_unreachable || []).length) h += '<div class="box"><b>Nguồn không truy cập/không lấy được (không bịa số liệu):</b><ul>' + day.keyword_unreachable.map(function (u) { return '<li><b>' + esc(regInfo(u.region).flag + ' ' + u.source) + '</b> — ' + esc(u.reason) + '</li>'; }).join('') + '</ul></div>';
+    return h;
+  }
+  function viewYouth() {
+    var y = S.youth; if (!y) return '<div class="empty">Chưa có dữ liệu chân dung giới trẻ.</div>';
+    var h = '<div class="sec"><h1>🧑‍🤝‍🧑 ' + esc(y.title) + '</h1><span class="muted small">kiểm lần cuối ' + dmy(y.verified_at) + ' · kiểm lại trước ' + dmy(y.next_review) + '</span></div>' +
+      '<div class="box"><b>Tóm tắt</b><ul>' + y.summary_points.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul><span class="small muted">' + esc(y.definition) + '</span></div>';
+    y.sections.forEach(function (sc) {
+      h += '<section class="kwtheme"><h2>' + sc.icon + ' ' + esc(sc.title) + '</h2>' + factList(sc.facts, sc.sources, 'ys-' + sc.id + '-') + '<details class="more" data-id="ys-' + esc(sc.id) + '"><summary>Nguồn (' + sc.sources.length + ')</summary>' + srcList(sc.sources, 'ys-' + sc.id + '-') + '</details></section>';
+    });
+    h += '<h2>Hàm ý cho ý tưởng</h2><ul>' + y.implications.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul>' +
+      '<h2>Hạn chế &amp; điểm chưa khớp</h2><ul class="risks">' + y.caveats.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul>';
+    return h;
+  }
+
   function viewSaved() {
     var all = S.ideas.filter(function (i) { return user.stars[i.id] || user.status[i.id]; });
     var list = sortList(all.filter(match));
@@ -225,7 +315,7 @@
   function viewMethod() {
     var c = S.cfg;
     return '<h1>ⓘ Phương pháp &amp; cách đọc</h1>' +
-      '<h2>Công thức tổng điểm</h2><div class="box"><b>Tổng điểm = Σ (điểm tiêu chí × trọng số)</b>, thang 10 (làm tròn 2 chữ số). Hạng = sắp theo tổng điểm giảm dần; hòa thì ưu tiên “Tín hiệu TQ”, rồi “Nhu cầu”.</div>' +
+      '<h2>Công thức tổng điểm</h2><div class="box"><b>Tổng điểm = Σ (điểm tiêu chí × trọng số)</b>, thang 10 (làm tròn 2 chữ số). Hạng = sắp theo tổng điểm giảm dần; hòa thì ưu tiên “Tín hiệu quốc tế”, rồi “Nhu cầu”. Tiêu chí “Hợp giới trẻ VN” dựa trên các dữ kiện ở trang <a href="#/gioi-tre">Giới trẻ VN</a>; vùng (CN/KR/JP/US…) dùng để lọc, không cộng điểm riêng.</div>' +
       '<table class="w"><thead><tr><th>Tiêu chí</th><th class="n">Trọng số</th><th>Ý nghĩa điểm 10</th></tr></thead><tbody>' +
       c.criteria.map(function (x) { return '<tr><td>' + esc(x.label) + '</td><td class="n">' + Math.round(x.weight * 100) + '%</td><td>' + esc(x.hint) + '</td></tr>'; }).join('') + '</tbody></table>' +
       '<h2 style="margin-top:1.2rem">Mức xác minh của từng dữ kiện</h2><ul class="facts"><li class="v2"><span class="vb v2">2+ nguồn độc lập</span> ít nhất hai nguồn đã mở xác nhận (cùng trích một báo cáo gốc vẫn được ghi chú).</li><li class="v1"><span class="vb v1">1 nguồn gốc</span> chỉ có một nguồn gốc xác nhận — dùng thận trọng.</li><li class="vu"><span class="vb vu">chưa xác minh</span> chưa kiểm được; không dùng để chấm điểm.</li></ul>' +
@@ -247,17 +337,20 @@
     else if (r === 'luu-tru') { html = seg[1] ? viewDay(seg[1], false) : viewArchive(); }
     else if (r === 'da-luu') html = viewSaved();
     else if (r === 'phuong-phap') html = viewMethod();
+    else if (r === 'tu-khoa') html = viewKeywords(seg[1]);
+    else if (r === 'gioi-tre') html = viewYouth();
     else if (r === 'y-tuong' && seg[1]) { var it = S.ideas.filter(function (x) { return x.id === seg[1]; })[0]; S.openIds[seg[1]] = true; html = it ? '<p><a href="#/xep-hang">← Bảng xếp hạng</a></p>' + ideaCard(it, { overall: true }) : '<div class="empty">Không tìm thấy ý tưởng.</div>'; nav = 'xep-hang'; }
     else { html = '<div class="empty">Không tìm thấy trang. <a href="#/hom-nay">Về Hôm nay</a></div>'; }
     app.innerHTML = html;
     $$('#nav a').forEach(function (a) { if (a.dataset.r === nav) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
     updateCount();
     window.scrollTo(0, 0);
+    if (r === 'gioi-tre' && seg[1]) { var yf = document.getElementById('yfact-' + seg[1]); if (yf) { yf.scrollIntoView({ block: 'center' }); yf.style.background = 'color-mix(in srgb,var(--brand) 18%,transparent)'; } }
     if (r === 'hom-nay' && S.index.latest) { clearTimeout(route._t); route._t = setTimeout(function () { LS.set('bh.lastSeen', S.index.latest); }, 4000); }
   }
   function updateCount() {
     var el = $('#fcount'); if (!el) return;
-    var n = hasFilter() ? [F.cat, F.type, F.cap, F.eff, F.st, F.q].filter(Boolean).length : 0;
+    var n = hasFilter() ? [F.cat, F.type, F.cap, F.eff, F.st, F.reg, F.q].filter(Boolean).length : 0;
     el.textContent = n ? n + ' bộ lọc đang bật' : 'không lọc';
   }
   function rerenderList() {
@@ -266,7 +359,7 @@
     var res;
     if (r === 'xep-hang') { res = sortList(S.ideas.filter(match)); list.innerHTML = listIdeas(res, { overall: true }); setCount(res.length, S.ideas.length); }
     else if (r === 'da-luu') { var all = S.ideas.filter(function (i) { return user.stars[i.id] || user.status[i.id]; }); res = sortList(all.filter(match)); list.innerHTML = all.length ? listIdeas(res, { overall: true }) : list.innerHTML; setCount(res.length, all.length); }
-    else { var dt = r === 'luu-tru' ? location.hash.split('/')[2] : S.index.latest; var day = S.days[dt]; res = sortList(day.ideas.filter(match)); list.innerHTML = listIdeas(res); setCount(res.length, day.ideas.length, true); }
+    else { var dt = r === 'luu-tru' ? location.hash.split('/')[2] : S.index.latest; var day = S.days[dt]; res = sortList(day.ideas.filter(match)); list.innerHTML = listIdeas(res); setCount(res.length, day.ideas.length, true); var tr = $('#trends'); if (tr) tr.innerHTML = trendsHtml(day); }
     updateCount();
   }
   function setCount(a, b, simple) { var e = $('#rescount'); if (e) e.textContent = simple ? a + '/' + b + ' ý tưởng' : a + '/' + b; }
@@ -275,9 +368,22 @@
   /* ---------- events ---------- */
   document.addEventListener('click', function (e) {
     var t = e.target.closest('button,a'); if (!t) return;
+    if (t.dataset.kf !== undefined) { KF[t.dataset.kf] = t.dataset.v; var sy = window.scrollY; route(); window.scrollTo(0, sy); return; }
     if (t.dataset.f !== undefined) { F[t.dataset.f] = t.dataset.v; refreshFilterUI(); rerenderList(); return; }
-    if (t.id === 'fclear' || t.id === 'fclear2') { F = { cat: '', type: '', cap: '', eff: '', st: '', sort: F.sort, q: '' }; $('#q').value = ''; refreshFilterUI(); rerenderList(); return; }
+    if (t.id === 'fclear' || t.id === 'fclear2') { F = { cat: '', type: '', cap: '', eff: '', st: '', reg: '', sort: F.sort, q: '' }; $('#q').value = ''; refreshFilterUI(); rerenderList(); return; }
     var card = t.closest('.card');
+    if (t.dataset.act === 'copyprompt' && card) {
+      var pit = S.ideas.filter(function (x) { return x.id === card.dataset.id; })[0];
+      if (pit && pit.claude_prompt) {
+        var cn = pit.claude_prompt.length.toLocaleString('vi-VN');
+        copyText(pit.claude_prompt).then(function () { toast('Đã sao chép prompt (' + cn + ' ký tự) — dán vào Claude'); }, function () {
+          var d = card.querySelector('details.more'); if (d) { d.open = true; S.openIds[pit.id] = true; }
+          var pre = card.querySelector('pre.prompt'); if (pre) { pre.focus(); var r = document.createRange(); r.selectNodeContents(pre); var sel = window.getSelection(); sel.removeAllRanges(); sel.addRange(r); }
+          toast('Không tự sao chép được — đã chọn sẵn prompt, hãy nhấn Ctrl/Cmd+C');
+        });
+      }
+      return;
+    }
     if (t.dataset.act && card) {
       var id = card.dataset.id;
       if (t.dataset.act === 'star') { if (user.stars[id]) delete user.stars[id]; else user.stars[id] = Date.now(); saveUser(); }
@@ -305,11 +411,15 @@
     clearTimeout(qT); qT = setTimeout(function () {
       F.q = qEl.value.trim();
       var r = (location.hash || '#/hom-nay').replace(/^#\/?/, '').split('/')[0];
-      if (F.q && (r === 'phuong-phap' || (r === 'luu-tru' && !location.hash.split('/')[2]))) { location.hash = '#/xep-hang'; return; }
+      if (F.q && (r === 'phuong-phap' || r === 'gioi-tre' || (r === 'luu-tru' && !location.hash.split('/')[2]))) { location.hash = '#/xep-hang'; return; }
+      if (r === 'tu-khoa') { var sy2 = window.scrollY; route(); window.scrollTo(0, sy2); return; }
       refreshFilterUI(); rerenderList();
     }, 160);
   });
   window.addEventListener('hashchange', route);
+  (window.requestIdleCallback || function (f) { setTimeout(f, 3000); })(function () {
+    try { S.ideas.forEach(function (i) { if (i.image) fetch(i.image).catch(function () {}); }); } catch (e) {}
+  });
 
   /* ---------- theme ---------- */
   function currentTheme() { var t = document.documentElement.getAttribute('data-theme'); if (t) return t; return window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'; }

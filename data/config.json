@@ -4,35 +4,245 @@
   "usd_vnd_rate": 26000,
   "usd_vnd_rate_note": "Tỷ giá giả định ~26.000 VND/USD (VietNamNet 29/09/2026 quy đổi 199.000đ ≈ 7,60 USD). Chỉ dùng để ước lượng vốn.",
   "criteria": [
-    {"key": "ease",    "label": "Độ dễ thực hiện",      "weight": 0.20, "hint": "10 = làm được trong vài ngày, ít kỹ năng/giấy phép."},
-    {"key": "demand",  "label": "Nhu cầu thị trường",   "weight": 0.25, "hint": "10 = có bằng chứng cầu mạnh, rõ khách hàng."},
-    {"key": "novelty", "label": "Độ mới lạ",             "weight": 0.15, "hint": "10 = rất ít người làm ở thị trường mục tiêu."},
-    {"key": "lowcap",  "label": "Vốn thấp",              "weight": 0.20, "hint": "10 = gần như 0 đồng vốn; 1 = cần vốn lớn."},
-    {"key": "china",   "label": "Tín hiệu từ Trung Quốc","weight": 0.20, "hint": "10 = nhiều nguồn độc lập xác nhận xu hướng, còn mới."}
+    {
+      "key": "ease",
+      "label": "Độ dễ thực hiện",
+      "short": "Dễ làm",
+      "weight": 0.18,
+      "hint": "10 = làm được trong vài ngày, ít kỹ năng/giấy phép."
+    },
+    {
+      "key": "demand",
+      "label": "Nhu cầu thị trường",
+      "short": "Nhu cầu",
+      "weight": 0.22,
+      "hint": "10 = có bằng chứng cầu mạnh, rõ khách hàng."
+    },
+    {
+      "key": "novelty",
+      "label": "Độ mới lạ",
+      "short": "Mới lạ",
+      "weight": 0.12,
+      "hint": "10 = rất ít người làm ở thị trường mục tiêu."
+    },
+    {
+      "key": "lowcap",
+      "label": "Vốn thấp",
+      "short": "Vốn thấp",
+      "weight": 0.16,
+      "hint": "10 = gần như 0 đồng vốn; 1 = cần vốn lớn."
+    },
+    {
+      "key": "signal",
+      "label": "Tín hiệu quốc tế (TQ ưu tiên)",
+      "short": "Tín hiệu",
+      "weight": 0.14,
+      "hint": "10 = nhiều nguồn độc lập xác nhận xu hướng ở Trung Quốc/Hàn/Nhật/Mỹ…, còn mới."
+    },
+    {
+      "key": "vnfit",
+      "label": "Hợp hành vi giới trẻ VN",
+      "short": "Hợp VN",
+      "weight": 0.18,
+      "hint": "10 = khớp ≥ 3 hành vi giới trẻ VN có số liệu (trang “Giới trẻ VN”); 5 = trung tính/ít dữ kiện; 1 = đi ngược hành vi."
+    }
   ],
   "categories": [
-    {"id": "ai", "label": "AI"},
-    {"id": "ecom", "label": "Thương mại điện tử / DTC"},
-    {"id": "product", "label": "Sản phẩm tiêu dùng"},
-    {"id": "service", "label": "Dịch vụ"},
-    {"id": "content", "label": "Nội dung / Mạng xã hội"},
-    {"id": "fnb", "label": "Đồ ăn & uống"},
-    {"id": "b2b", "label": "B2B"},
-    {"id": "invest", "label": "Đầu tư / Xu hướng"}
+    {
+      "id": "ai",
+      "label": "AI"
+    },
+    {
+      "id": "ecom",
+      "label": "Thương mại điện tử / DTC"
+    },
+    {
+      "id": "product",
+      "label": "Sản phẩm tiêu dùng"
+    },
+    {
+      "id": "service",
+      "label": "Dịch vụ"
+    },
+    {
+      "id": "content",
+      "label": "Nội dung / Mạng xã hội"
+    },
+    {
+      "id": "fnb",
+      "label": "Đồ ăn & uống"
+    },
+    {
+      "id": "b2b",
+      "label": "B2B"
+    },
+    {
+      "id": "invest",
+      "label": "Đầu tư / Xu hướng"
+    }
   ],
   "types": [
-    {"id": "startup", "label": "Khởi nghiệp nhỏ"},
-    {"id": "invest", "label": "Cơ hội đầu tư"}
+    {
+      "id": "startup",
+      "label": "Khởi nghiệp nhỏ"
+    },
+    {
+      "id": "invest",
+      "label": "Cơ hội đầu tư"
+    }
   ],
   "capital_tiers": [
-    {"id": "t1", "label": "Dưới 10 triệu", "max_m": 10},
-    {"id": "t2", "label": "10–50 triệu", "max_m": 50},
-    {"id": "t3", "label": "50–200 triệu", "max_m": 200},
-    {"id": "t4", "label": "Trên 200 triệu", "max_m": null}
+    {
+      "id": "t1",
+      "label": "Dưới 10 triệu",
+      "max_m": 10
+    },
+    {
+      "id": "t2",
+      "label": "10–50 triệu",
+      "max_m": 50
+    },
+    {
+      "id": "t3",
+      "label": "50–200 triệu",
+      "max_m": 200
+    },
+    {
+      "id": "t4",
+      "label": "Trên 200 triệu",
+      "max_m": null
+    }
   ],
   "effort_levels": [
-    {"id": "easy", "label": "Dễ (≥ 7 điểm dễ làm)", "min_ease": 7},
-    {"id": "mid", "label": "Vừa (5–6)", "min_ease": 5},
-    {"id": "hard", "label": "Khó hơn (≤ 4)", "min_ease": 0}
+    {
+      "id": "easy",
+      "label": "Dễ (≥ 7 điểm dễ làm)",
+      "min_ease": 7
+    },
+    {
+      "id": "mid",
+      "label": "Vừa (5–6)",
+      "min_ease": 5
+    },
+    {
+      "id": "hard",
+      "label": "Khó hơn (≤ 4)",
+      "min_ease": 0
+    }
+  ],
+  "regions": [
+    {
+      "id": "CN",
+      "label": "Trung Quốc",
+      "flag": "🇨🇳"
+    },
+    {
+      "id": "KR",
+      "label": "Hàn Quốc",
+      "flag": "🇰🇷"
+    },
+    {
+      "id": "JP",
+      "label": "Nhật Bản",
+      "flag": "🇯🇵"
+    },
+    {
+      "id": "US",
+      "label": "Mỹ",
+      "flag": "🇺🇸"
+    },
+    {
+      "id": "SEA",
+      "label": "Đông Nam Á",
+      "flag": "🌏"
+    },
+    {
+      "id": "EU",
+      "label": "Châu Âu",
+      "flag": "🇪🇺"
+    },
+    {
+      "id": "IN",
+      "label": "Ấn Độ",
+      "flag": "🇮🇳"
+    },
+    {
+      "id": "VN",
+      "label": "Việt Nam (tín hiệu nội địa)",
+      "flag": "🇻🇳"
+    },
+    {
+      "id": "GLOBAL",
+      "label": "Toàn cầu / xuyên vùng",
+      "flag": "🌐"
+    }
+  ],
+  "keyword_themes": [
+    {
+      "id": "beauty",
+      "label": "Làm đẹp & sức khỏe",
+      "icon": "💄"
+    },
+    {
+      "id": "food",
+      "label": "Ăn uống",
+      "icon": "🍜"
+    },
+    {
+      "id": "fashion",
+      "label": "Thời trang & phụ kiện",
+      "icon": "👗"
+    },
+    {
+      "id": "tech",
+      "label": "Công nghệ & AI",
+      "icon": "📱"
+    },
+    {
+      "id": "collect",
+      "label": "Sưu tầm, đồ chơi & nhân vật",
+      "icon": "🧸"
+    },
+    {
+      "id": "ent",
+      "label": "Giải trí, phim & idol",
+      "icon": "🎬"
+    },
+    {
+      "id": "travel",
+      "label": "Du lịch & sự kiện",
+      "icon": "✈️"
+    },
+    {
+      "id": "money",
+      "label": "Tiền, giá cả & nhà ở",
+      "icon": "💰"
+    },
+    {
+      "id": "work",
+      "label": "Học tập & việc làm",
+      "icon": "🎓"
+    },
+    {
+      "id": "sport",
+      "label": "Thể thao",
+      "icon": "⚽"
+    },
+    {
+      "id": "society",
+      "label": "Tin tức & xã hội",
+      "icon": "📰"
+    },
+    {
+      "id": "home",
+      "label": "Gia đình, thú cưng & nhà cửa",
+      "icon": "🏠"
+    }
+  ],
+  "keyword_confidence": [
+    "bảng xếp hạng gốc (đo trực tiếp)",
+    "tổng hợp bởi bên thứ ba",
+    "suy ra từ nhiều vùng",
+    "chưa xác minh"
   ]
 }

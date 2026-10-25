@@ -1,11 +1,15 @@
 # 💡 brain-hack
 
-Trung tâm **ý tưởng kinh doanh mỗi ngày** (tiếng Việt) — mỗi ngày 8 ý tưởng xếp hạng + 4–6 tín hiệu xu hướng Trung Quốc, kèm nguồn đã mở và mức xác minh. Là một **PWA** cài được lên màn hình chính điện thoại/máy tính.
+Trung tâm **ý tưởng kinh doanh mỗi ngày** (tiếng Việt) — mỗi ngày các ý tưởng xếp hạng + tín hiệu xu hướng **Trung Quốc (trọng tâm), Hàn, Nhật, Mỹ, Đông Nam Á, châu Âu** + bảng **từ khóa & chủ đề hot theo vùng**, được chấm theo độ hợp **hành vi giới trẻ Việt Nam**; mọi dữ kiện kèm nguồn đã mở và mức xác minh. Là một **PWA** cài được lên màn hình chính điện thoại/máy tính.
 
 **Mở app:** https://formalboy.github.io/brain-hack/
 
 ## Tính năng
-- **Hôm nay**: ngày rõ ràng, huy hiệu *MỚI HÔM NAY*, các thẻ ý tưởng xếp hạng, mục *Xu hướng Trung Quốc hôm nay* (có link nguồn).
+- **Hôm nay**: ngày rõ ràng, huy hiệu *MỚI HÔM NAY*, các thẻ ý tưởng xếp hạng (có cờ vùng tín hiệu 🇨🇳🇰🇷🇯🇵🇺🇸…), mục *Xu hướng thế giới hôm nay* (có link nguồn). Bộ lọc **Vùng tín hiệu** lọc cả ý tưởng lẫn xu hướng.
+- **Ảnh minh họa mỗi ý tưởng** (`assets/ideas/<id>.webp`, ≤150KB, có alt): thumbnail trên thẻ, ảnh lớn khi mở chi tiết; tải lười, cache bởi service worker (cache riêng `bh-img-v1`).
+- **🤖 Copy prompt** (mục *Triển khai*): mỗi ý tưởng có `claude_prompt` tiếng Việt tự đủ ý (bối cảnh, tín hiệu có nguồn, khách hàng giới trẻ VN, kế hoạch MVP 1 tuần, sản phẩm Claude phải tạo, ràng buộc, định dạng đầu ra); nút Copy dùng Clipboard API, có phương án dự phòng và thông báo, hiển thị số ký tự.
+- **🔥 Từ khóa** (`#/tu-khoa`): từ khóa/chủ đề hot theo vùng (VN, CN, KR, JP, US, toàn cầu) — mỗi mục có hạng, nguồn, giờ chụp, độ tin cậy, nhóm theo chủ đề, nối tới ý tưởng; lọc theo vùng/chủ đề; liệt kê nguồn **không truy cập được** (không bịa).
+- **🧑 Giới trẻ** (`#/gioi-tre`): *Chân dung giới trẻ Việt Nam* — 22 dữ kiện có nguồn/ngày truy cập/mức xác minh; mỗi ý tưởng có mục *Phù hợp hành vi giới trẻ VN* trỏ về đúng dữ kiện.
 - **Xếp hạng**: bảng xếp hạng tổng hợp mọi ngày. **Lưu trữ**: duyệt theo ngày.
 - Lọc theo danh mục (AI, TMĐT/DTC, sản phẩm tiêu dùng, dịch vụ, nội dung/MXH, F&B, B2B, đầu tư/xu hướng), loại (Khởi nghiệp nhỏ / Cơ hội đầu tư), mức vốn, mức độ khó; sắp xếp theo điểm; tìm kiếm.
 - ⭐ gắn sao + trạng thái (quan tâm / đang thử / bỏ qua) lưu trong `localStorage` (có xuất/nhập JSON ở tab *Đã lưu*).
@@ -16,8 +20,10 @@ Trung tâm **ý tưởng kinh doanh mỗi ngày** (tiếng Việt) — mỗi ng�
 index.html, css/, js/app.js     giao diện (vanilla, không build)
 sw.js, manifest.webmanifest     PWA (đổi VERSION trong sw.js khi sửa code/icon)
 icons/                          icon PWA
-data/config.json                trọng số, danh mục, mức vốn, tỷ giá
-data/YYYY-MM-DD.json            dữ liệu từng ngày
+assets/ideas/                   ảnh minh họa từng ý tưởng (webp ≤150KB)
+data/config.json                tiêu chí & trọng số, vùng, chủ đề từ khóa, danh mục, mức vốn, tỷ giá
+data/vn-youth.json              chân dung giới trẻ VN (kiểm lại hằng tuần: add_day.py --youth)
+data/YYYY-MM-DD.json            dữ liệu từng ngày (trends, ideas, keywords, keyword_sources, keyword_unreachable)
 data/index.json                 chỉ mục (do script dựng — đừng sửa tay)
 scripts/add_day.py              kiểm tra + tính điểm/hạng + dựng index
 DAILY_UPDATE.md                 quy trình cập nhật hằng ngày (đọc kỹ)
@@ -30,7 +36,7 @@ python3 scripts/add_day.py --all --check-links
 ```
 
 ## Chấm điểm
-5 tiêu chí 1–10, **tổng = Σ điểm × trọng số** (thang 10): dễ làm 0,20 · nhu cầu 0,25 · mới lạ 0,15 · vốn thấp 0,20 · tín hiệu Trung Quốc 0,20. Hạng: tổng giảm dần → tín hiệu TQ → nhu cầu → id. Chi tiết ở tab *Phương pháp* và `DAILY_UPDATE.md`.
+6 tiêu chí 1–10, **tổng = Σ điểm × trọng số** (thang 10): dễ làm 0,18 · nhu cầu 0,22 · mới lạ 0,12 · vốn thấp 0,16 · tín hiệu quốc tế 0,14 · **hợp hành vi giới trẻ VN 0,18**. Hạng: tổng giảm dần → tín hiệu → nhu cầu → id. Điểm `vnfit` ≥ 8 chỉ khi dẫn ≥ 2 dữ kiện đã xác minh ở `vn-youth.json`. Chi tiết ở tab *Phương pháp* và `DAILY_UPDATE.md`.
 
 ## Lưu ý
-Nội dung chỉ để tham khảo, **không phải tư vấn đầu tư/pháp lý**. Dữ liệu Trung Quốc có dẫn nguồn; phần áp dụng cho Việt Nam thường là **giả thuyết** cần test. Tỷ giá USD/VND chỉ là ước lượng (xem `data/config.json`).
+Nội dung chỉ để tham khảo, **không phải tư vấn đầu tư/pháp lý**. Dữ liệu nước ngoài có dẫn nguồn; từ khóa hot là ảnh chụp tại một thời điểm (các bảng tìm kiếm nghiêng về thể thao/tin nóng); phần áp dụng cho Việt Nam thường là **giả thuyết** cần test. Tỷ giá USD/VND chỉ là ước lượng (xem `data/config.json`).

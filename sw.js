@@ -4,8 +4,9 @@
  * - Bump VERSION whenever you change index.html / css / js / icons so old caches are purged.
  *   (Daily data updates do NOT require a bump.)
  */
-const VERSION = 'v1.0.1';
+const VERSION = 'v1.2.0';
 const SHELL = 'bh-shell-' + VERSION;
+const IMG = 'bh-img-v1'; // illustrations are content-addressed by idea id; kept across shell versions
 const DATA = 'bh-data-' + VERSION;
 const SHELL_ASSETS = [
   './', 'index.html', 'css/style.css', 'js/app.js', 'manifest.webmanifest',
@@ -18,7 +19,7 @@ self.addEventListener('install', (e) => {
 
 self.addEventListener('activate', (e) => {
   e.waitUntil((async () => {
-    const keep = [SHELL, DATA];
+    const keep = [SHELL, DATA, IMG];
     for (const k of await caches.keys()) if (k.startsWith('bh-') && !keep.includes(k)) await caches.delete(k);
     await self.clients.claim();
   })());
@@ -37,6 +38,15 @@ async function networkFirst(req) {
   }
 }
 
+async function cacheFirstImage(req) {
+  const cache = await caches.open(IMG);
+  const hit = await cache.match(req, { ignoreSearch: true });
+  if (hit) return hit;
+  const res = await fetch(req);
+  if (res && res.ok) cache.put(req, res.clone());
+  return res;
+}
+
 async function staleWhileRevalidate(req) {
   const cache = await caches.open(SHELL);
   const hit = await cache.match(req, { ignoreSearch: true });
@@ -50,6 +60,7 @@ self.addEventListener('fetch', (e) => {
   const url = new URL(req.url);
   if (url.origin !== self.location.origin) return; // external links/sources are not cached
   if (url.pathname.includes('/data/') && url.pathname.endsWith('.json')) { e.respondWith(networkFirst(req)); return; }
+  if (url.pathname.includes('/assets/ideas/')) { e.respondWith(cacheFirstImage(req)); return; }
   if (req.mode === 'navigate') {
     e.respondWith((async () => {
       try { const res = await fetch(req, { cache: 'no-cache' }); const c = await caches.open(SHELL); c.put('index.html', res.clone()); return res; }

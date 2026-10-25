@@ -1,0 +1,509 @@
+{
+  "title": "Chân dung giới trẻ Việt Nam (Gen Z & Millennials)",
+  "verified_at": "2026-10-25",
+  "next_review": "2026-11-01",
+  "definition": "Gen Z ≈ dưới 28 tuổi, Gen Y ≈ 28–43 tuổi (cách chia của Decision Lab, qua VTV). Các nguồn khác chia khác nhau (ví dụ Gen Z sinh 1997–2012).",
+  "summary_points": [
+    "Đông và rất ‘số’: ~24 triệu người 18–34 tuổi; 84% dùng internet, 79 triệu danh tính MXH; TikTok 76 triệu người 18+; Zalo và Facebook gần như phủ kín.",
+    "Mua sắm giải trí: TikTok Shop chiếm 41% GMV 4 sàn (từ 29%); video commerce VN lớn thứ 2 Đông Nam Á (1,3 tỷ giao dịch); Shopee vẫn là nơi ‘mua có chủ đích’.",
+    "Ví không tiền mặt, săn mã: 30–36 triệu ví điện tử; người trẻ giữ 2–3 ví để gom ưu đãi; mục tiêu tài chính số 1 của Gen Z là tiết kiệm để đi du lịch.",
+    "Tiết kiệm nhưng ‘tự thưởng’: 49% Gen Z giữ ngân sách chặt, hơn nửa sẵn sàng chi cho ‘xa xỉ vừa túi tiền’; giá dưới 200 nghìn vẫn chiếm gần một nửa doanh số sàn.",
+    "Ưu tiên sống: làm đẹp/sức khỏe (+46,9%), thú cưng (mèo 72% doanh số Shopee ngành thú cưng), du lịch ngắn theo sự kiện, văn hóa Hàn/Nhật, AI dùng hằng ngày; thu nhập BQ 8,4 triệu/tháng và thất nghiệp thanh niên 8,6% khiến giá luôn quan trọng."
+  ],
+  "implications": [
+    "Ý tưởng hợp giới trẻ thường: giá lẻ < 200–500 nghìn, quay được video demo 15–30 giây, bán qua TikTok Shop/Zalo/Shopee, thanh toán QR/ví, có yếu tố ‘tự thưởng’/sưu tầm/cá nhân hóa.",
+    "Thận trọng: nhóm 15–24 tuổi thu nhập thấp và thất nghiệp cao; ‘săn sale’ khiến biên lợi nhuận mỏng; số shop trên sàn đang giảm (cạnh tranh sàng lọc)."
+  ],
+  "caveats": [
+    "Nhiều số liệu là khảo sát của hãng (Decision Lab, Mastercard, Visa, Agoda, Google-Temasek-Bain) — cỡ mẫu thường không công bố và có thể thiên lệch theo đối tượng đô thị/online.",
+    "Tỷ lệ đô thị khác nhau giữa NSO (38,6%) và LHQ (41,1%). Cách chia thế hệ khác nhau giữa các nguồn; số ‘Gen Z ~15 triệu’ không khớp cơ cấu tuổi nên bị loại.",
+    "Các chỉ số có nhãn ‘chưa xác minh’ chỉ đọc đoạn trích tìm kiếm và không dùng để chấm điểm.",
+    "Số liệu e-Conomy SEA được đọc qua báo (VietnamPlus), chưa đọc báo cáo gốc; dự báo năm 2026 của e-Conomy thường ra vào cuối năm — cần kiểm lại khi có."
+  ],
+  "sections": [
+    {
+      "id": "demo",
+      "title": "Dân số, thu nhập & việc làm",
+      "icon": "👥",
+      "sources": [
+        {
+          "id": "nso",
+          "name": "Cục Thống kê (NSO)",
+          "title": "Thông cáo báo chí về tình hình dân số, lao động, việc làm quý IV và năm 2025",
+          "url": "https://www.nso.gov.vn/tin-tuc-thong-ke/2026/01/thong-cao-bao-chi-ve-tinh-hinh-dan-so-lao-dong-viec-lam-quy-iv-va-nam-2025/",
+          "published": "2026-01",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Trang chỉ ghi tháng 01/2026."
+        },
+        {
+          "id": "dr",
+          "name": "DataReportal (Kepios)",
+          "title": "Digital 2026: Vietnam",
+          "url": "https://datareportal.com/reports/digital-2026-vietnam",
+          "published": "2025-11-08",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Dữ liệu tới 10/2025; lượng người dùng MXH là số liệu quảng cáo, không phải người thật duy nhất."
+        }
+      ],
+      "facts": [
+        {
+          "id": "dan-so",
+          "label": "Dân số ~102 triệu, 60% ở nông thôn",
+          "text": "Dân số trung bình 2025 khoảng 102 triệu (NSO: 102,3 triệu; DataReportal/UN: 102 triệu). Thành thị chỉ ~39–41% (NSO 38,6%; UN 41,1%) — đa số vẫn ở nông thôn; tuổi trung vị 33,4.",
+          "source_ids": [
+            "nso",
+            "dr"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Hai nguồn khác nhau về tỷ lệ đô thị (định nghĩa/ước tính khác nhau); dùng khoảng 39–41%."
+        },
+        {
+          "id": "do-tuoi",
+          "label": "~24 triệu người 18–34 tuổi",
+          "text": "Theo cơ cấu tuổi của LHQ (qua DataReportal, cuối 2025): 13–17 tuổi 7,8%; 18–24 tuổi 9,2%; 25–34 tuổi 14,4%. Cộng lại, 13–34 tuổi ≈ 31,4% dân số (~32 triệu) và 18–34 tuổi ≈ 23,6% (~24 triệu).",
+          "source_ids": [
+            "dr"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Phép cộng/quy đổi do người soạn tính từ các nhóm tuổi; con số ‘Gen Z ~15 triệu’ trên một infographic (BBW) không khớp định nghĩa nên không dùng."
+        },
+        {
+          "id": "thu-nhap",
+          "label": "Thu nhập BQ 8,4 triệu/tháng",
+          "text": "Thu nhập bình quân của lao động 2025: 8,4 triệu đồng/tháng (+8,9%); thành thị 10,1 triệu, nông thôn 7,3 triệu; nam 9,5 triệu, nữ 7,2 triệu. Quý IV/2025: 8,7 triệu.",
+          "source_ids": [
+            "nso"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "id": "viec-lam-tre",
+          "label": "Thanh niên thất nghiệp 8,6%",
+          "text": "Tỷ lệ thất nghiệp thanh niên 15–24 tuổi năm 2025 là 8,64% (+0,72 điểm); thành thị 11,23%. Quý IV/2025: 1,4 triệu thanh niên không đi làm cũng không đi học (10,2%).",
+          "source_ids": [
+            "nso"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Ngụ ý: áp lực việc làm/thu nhập → nhạy giá, thích kiếm thêm (side-hustle)."
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "title": "Mạng xã hội & AI",
+      "icon": "📱",
+      "sources": [
+        {
+          "id": "dr",
+          "name": "DataReportal (Kepios)",
+          "title": "Digital 2026: Vietnam",
+          "url": "https://datareportal.com/reports/digital-2026-vietnam",
+          "published": "2025-11-08",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Dữ liệu tới 10/2025; lượng người dùng MXH là số liệu quảng cáo, không phải người thật duy nhất."
+        },
+        {
+          "id": "vtv",
+          "name": "VTV.vn (trích Decision Lab Connected Consumer Q4/2025)",
+          "title": "3 ứng dụng được coi \"không thể thiếu\" đối với Gen Z",
+          "url": "https://vtv.vn/3-ung-dung-duoc-coi-khong-the-thieu-doi-voi-gen-z-100260212170546189.htm",
+          "published": "2026-02-13",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "vplus",
+          "name": "VietnamPlus (trích e-Conomy SEA 2025 – Google, Temasek, Bain)",
+          "title": "Nền kinh tế số Việt Nam dự kiến đạt 39 tỷ USD năm 2025",
+          "url": "https://www.vietnamplus.vn/nen-kinh-te-so-viet-nam-du-kien-dat-39-ty-usd-nam-2025-post1079139.vnp",
+          "published": "2025-11-25",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Báo cáo gốc không đọc trực tiếp; đọc qua báo. Các chỉ số AI là người dùng tự khai."
+        }
+      ],
+      "facts": [
+        {
+          "id": "ket-noi",
+          "label": "85,6 triệu người dùng internet",
+          "text": "Cuối 2025: 85,6 triệu người dùng internet (84,2%); 137 triệu kết nối di động (134% dân số); 79,0 triệu ‘danh tính’ mạng xã hội; TikTok 76,1 triệu người 18+; Facebook 79,0 triệu; Zalo 78,3 triệu MAU; YouTube 62,1 triệu.",
+          "source_ids": [
+            "dr"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu quảng cáo/ước tính; có thể vượt 100% dân số trưởng thành."
+        },
+        {
+          "id": "mxh-top",
+          "label": "Facebook, Zalo, YouTube phủ rộng nhất",
+          "text": "Facebook, Zalo, YouTube là ba nền tảng phổ biến nhất: DataReportal (độ phủ/MAU) và Decision Lab Q4/2025 (tỷ lệ sử dụng: Facebook 94%, Zalo 89%, YouTube 87%).",
+          "source_ids": [
+            "dr",
+            "vtv"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Hai phép đo khác nhau nhưng cùng thứ hạng."
+        },
+        {
+          "id": "genz-app",
+          "label": "Gen Z: 3 app ‘không thể thiếu’, TikTok #1 video ngắn",
+          "text": "Gen Z (dưới 28 tuổi theo cách chia của Decision Lab) coi trung bình 3 ứng dụng là không thể thiếu; Facebook mất dần sức hút, Zalo vượt YouTube vào top 3; TikTok giữ vị trí nền tảng video ngắn số 1 và là kênh cập nhật tin tức quan trọng của giới trẻ.",
+          "source_ids": [
+            "vtv"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Một infographic khác trích cùng báo cáo liệt kê top 3 là TikTok, Instagram, Facebook — chưa đối chiếu được; coi thành phần top 3 là chưa thống nhất."
+        },
+        {
+          "id": "ai",
+          "label": "81% dùng công cụ AI hằng ngày",
+          "text": "e-Conomy SEA 2025: 81% người dùng Việt tương tác với công cụ/tính năng AI hằng ngày; 83% tham gia học/nâng kỹ năng AI; 96% sẵn sàng chia sẻ dữ liệu cho AI; doanh thu ứng dụng tích hợp AI +78% trong một năm (đến H1/2025).",
+          "source_ids": [
+            "vplus"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Người dùng tự khai (khảo sát), không phải đo hành vi; đọc qua báo."
+        }
+      ]
+    },
+    {
+      "id": "shop",
+      "title": "Mua sắm online & video commerce",
+      "icon": "🛒",
+      "sources": [
+        {
+          "id": "metric",
+          "name": "Metric.vn",
+          "title": "Thị trường TMĐT Việt Nam năm 2025: những chuyển dịch đáng chú ý",
+          "url": "https://metric.vn/insights/thi-truong-tmdt-viet-nam-nam-2025-nhung-chuyen-dich-dang-chu-y/",
+          "published": "2026-01-14",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Chỉ tính 4 sàn: Shopee, TikTok Shop, Lazada, Tiki."
+        },
+        {
+          "id": "vtv",
+          "name": "VTV.vn (trích Decision Lab Connected Consumer Q4/2025)",
+          "title": "3 ứng dụng được coi \"không thể thiếu\" đối với Gen Z",
+          "url": "https://vtv.vn/3-ung-dung-duoc-coi-khong-the-thieu-doi-voi-gen-z-100260212170546189.htm",
+          "published": "2026-02-13",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "vplus",
+          "name": "VietnamPlus (trích e-Conomy SEA 2025 – Google, Temasek, Bain)",
+          "title": "Nền kinh tế số Việt Nam dự kiến đạt 39 tỷ USD năm 2025",
+          "url": "https://www.vietnamplus.vn/nen-kinh-te-so-viet-nam-du-kien-dat-39-ty-usd-nam-2025-post1079139.vnp",
+          "published": "2025-11-25",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Báo cáo gốc không đọc trực tiếp; đọc qua báo. Các chỉ số AI là người dùng tự khai."
+        }
+      ],
+      "facts": [
+        {
+          "id": "san-tmdt",
+          "label": "Shopee dẫn đầu, TikTok Shop tăng nhanh",
+          "text": "Metric (GMV 2025): Shopee 56,04% (từ 64%), TikTok Shop 41,31% (từ 29%). Decision Lab Q4/2025: Shopee thâm nhập 83%, ưa thích 64%; TikTok Shop thâm nhập 58%, ưa thích 19% — Shopee cho mua có chủ đích, TikTok Shop cho mua sắm kết hợp giải trí/ngẫu hứng.",
+          "source_ids": [
+            "metric",
+            "vtv"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Hai phép đo khác nhau (thị phần doanh số vs khảo sát người dùng) nhưng cùng xu hướng."
+        },
+        {
+          "id": "tmdt-quy-mo",
+          "label": "GMV 4 sàn 429,7 nghìn tỷ (+34,75%)",
+          "text": "Metric 2025: GMV 4 sàn 429,7 nghìn tỷ đồng (+34,75%), 3,94 tỷ sản phẩm (+15,23%), số shop có đơn giảm 7,43% còn 601,8 nghìn. Ngành lớn: Làm đẹp 74,5 nghìn tỷ (+29,5%), Nhà cửa & Đời sống, Thời trang nữ (+39,5%); tăng nhanh: Văn phòng phẩm +54,8%, Sức khỏe +46,9%. Phân khúc dưới 100 nghìn đồng chiếm 22,6% (từ 24,4%), 100–200 nghìn chiếm 25,3%; Shop Mall chỉ 2,12% số shop nhưng 32,6% doanh số.",
+          "source_ids": [
+            "metric"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Chỉ 4 sàn; không gồm Facebook/Zalo bán hàng."
+        },
+        {
+          "id": "video-commerce",
+          "label": "Video commerce: 1,3 tỷ giao dịch (+60%)",
+          "text": "e-Conomy SEA 2025: Việt Nam là thị trường video commerce lớn thứ hai và tăng nhanh thứ hai Đông Nam Á — 1,3 tỷ giao dịch và 650.000 người bán, cùng tăng 60% so với cùng kỳ.",
+          "source_ids": [
+            "vplus"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Đọc qua báo; Metric cũng nhận định mua sắm qua livestream/video ngắn là động lực của TikTok Shop (cùng hướng nhưng không phải số liệu độc lập)."
+        }
+      ]
+    },
+    {
+      "id": "pay",
+      "title": "Thanh toán & tài chính cá nhân",
+      "icon": "💳",
+      "sources": [
+        {
+          "id": "tt",
+          "name": "Tuổi Trẻ Online",
+          "title": "Gen Z dẫn dắt thanh toán không tiền mặt",
+          "url": "https://tuoitre.vn/gen-z-dan-dat-thanh-toan-khong-tien-mat-20260605075811876.htm",
+          "published": "2026-06-05",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Trích khảo sát của Mastercard/Visa/JCB và khảo sát nhỏ của báo; không công bố cỡ mẫu."
+        },
+        {
+          "id": "vplus",
+          "name": "VietnamPlus (trích e-Conomy SEA 2025 – Google, Temasek, Bain)",
+          "title": "Nền kinh tế số Việt Nam dự kiến đạt 39 tỷ USD năm 2025",
+          "url": "https://www.vietnamplus.vn/nen-kinh-te-so-viet-nam-du-kien-dat-39-ty-usd-nam-2025-post1079139.vnp",
+          "published": "2025-11-25",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Báo cáo gốc không đọc trực tiếp; đọc qua báo. Các chỉ số AI là người dùng tự khai."
+        }
+      ],
+      "facts": [
+        {
+          "id": "vi-dien-tu",
+          "label": "30–36 triệu ví điện tử đang hoạt động",
+          "text": "e-Conomy SEA 2025: khoảng 30 triệu tài khoản ví điện tử đang hoạt động; NHNN (qua Tuổi Trẻ 06/2026): 36,2 triệu ví đang hoạt động; giao dịch không tiền mặt tăng 30–40%/năm; ~4,7 tỷ giao dịch trong 2 tháng đầu 2026.",
+          "source_ids": [
+            "vplus",
+            "tt"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Hai mốc thời gian/định nghĩa khác nhau nên khoảng 30–36 triệu."
+        },
+        {
+          "id": "tre-thanh-toan",
+          "label": "Giới trẻ dẫn thanh toán số, ‘nhiều ví để săn mã’",
+          "text": "Tuổi Trẻ trích Mastercard: 94% người Việt đã dùng ít nhất 1 phương thức thanh toán mới; 57% người trẻ sẵn sàng dùng mua-trước-trả-sau. Visa: 56% mang ít tiền mặt hơn năm trước, 80% dùng ví điện tử thường xuyên; mục tiêu tài chính số 1 của Gen Z là ‘tiết kiệm để đi du lịch’. Khảo sát nhỏ của báo: người trẻ thường có 2–3 ví điện tử để săn khuyến mãi.",
+          "source_ids": [
+            "tt"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Khảo sát của hãng thẻ, cỡ mẫu không công bố; đọc qua báo."
+        }
+      ]
+    },
+    {
+      "id": "spend",
+      "title": "Chi tiêu & giá trị",
+      "icon": "💸",
+      "sources": [
+        {
+          "id": "dlf",
+          "name": "Decision Lab",
+          "title": "Vietnamese consumers prioritise savings while dining out remains essential (F&B Trends 2024)",
+          "url": "https://www.decisionlab.co/blog/vietnamese-consumers-prioritise-savings-while-dining-out-remains-essential",
+          "published": null,
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Trang không ghi ngày đăng; báo cáo F&B Trends 2024."
+        },
+        {
+          "id": "vneco",
+          "name": "VnEconomy",
+          "title": "Nghịch lý tiêu dùng đang định hình phân khúc “xa xỉ vừa túi tiền”",
+          "url": "https://vneconomy.vn/nghich-ly-tieu-dung-dang-dinh-hinh-phan-khuc-xa-xi-vua-tui-tien.htm",
+          "published": "2026-04-16",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Trích NielsenIQ 2024 (cả Đông Nam Á) và Decision Lab; không có số liệu gốc."
+        },
+        {
+          "id": "metric",
+          "name": "Metric.vn",
+          "title": "Thị trường TMĐT Việt Nam năm 2025: những chuyển dịch đáng chú ý",
+          "url": "https://metric.vn/insights/thi-truong-tmdt-viet-nam-nam-2025-nhung-chuyen-dich-dang-chu-y/",
+          "published": "2026-01-14",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Chỉ tính 4 sàn: Shopee, TikTok Shop, Lazada, Tiki."
+        }
+      ],
+      "facts": [
+        {
+          "id": "ngan-sach",
+          "label": "Có ngân sách, Gen Z siết nhất",
+          "text": "Decision Lab (F&B Trends 2024): 84% đặt hạn mức chi ăn uống ngoài, trong đó 49% Gen Z tuân thủ nghiêm ngặt — cao nhất mọi nhóm tuổi (trung bình 44%). 57% thích uống ở quán cà phê/trà sữa; 45% coi ‘đáng tiền’ là yếu tố quyết định.",
+          "source_ids": [
+            "dlf"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Khảo sát F&B 2024 (có thể đã cũ)."
+        },
+        {
+          "id": "xa-xi-vua-tui",
+          "label": "‘Xa xỉ vừa túi tiền’",
+          "text": "Decision Lab (qua VnEconomy 04/2026): hơn một nửa Gen Z sẵn sàng trả cho sản phẩm/dịch vụ ‘cảm giác cao cấp’ nếu giá hợp lý; thương hiệu 1,5–4 triệu đồng và mini-size cao cấp được ưa chuộng. Metric cùng chiều: người mua ‘nâng cấp giỏ hàng’ (phân khúc 350–500 nghìn tăng từ 8,5% lên 9,1%).",
+          "source_ids": [
+            "vneco",
+            "metric"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Nguồn VnEconomy chỉ trích lại Decision Lab/NielsenIQ (không có số gốc); Metric đo hành vi thật trên sàn → hai hướng độc lập nhưng khác phép đo."
+        }
+      ]
+    },
+    {
+      "id": "interest",
+      "title": "Sở thích & xu hướng sống",
+      "icon": "🎯",
+      "sources": [
+        {
+          "id": "danviet",
+          "name": "Dân Việt",
+          "title": "Thị trường thú cưng Việt Nam, Gen Z tham gia đông đảo…",
+          "url": "https://danviet.vn/thi-truong-thu-cung-viet-nam-gen-z-tham-gia-dong-dao-san-sang-chi-tra-hang-trieu-cham-soc-va-lam-dep-cho-meo-d1452578.html",
+          "published": "2026-08-19",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Số liệu bán hàng là khảo sát riêng của nhà sáng lập Pety (người bán); Mordor Intelligence là nguồn thứ cấp."
+        },
+        {
+          "id": "agoda",
+          "name": "VOV.vn (trích Agoda Triển vọng Du lịch 2026)",
+          "title": "Nhóm khách Gen Z Việt Nam có xu hướng du lịch khác biệt",
+          "url": "https://vov.vn/du-lich/tu-van/nhom-khach-gen-z-viet-nam-co-xu-huong-du-lich-khac-biet-post1285915.vov",
+          "published": "2026-04-22",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "tt",
+          "name": "Tuổi Trẻ Online",
+          "title": "Gen Z dẫn dắt thanh toán không tiền mặt",
+          "url": "https://tuoitre.vn/gen-z-dan-dat-thanh-toan-khong-tien-mat-20260605075811876.htm",
+          "published": "2026-06-05",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Trích khảo sát của Mastercard/Visa/JCB và khảo sát nhỏ của báo; không công bố cỡ mẫu."
+        },
+        {
+          "id": "mcst",
+          "name": "Bộ Văn hóa, Thể thao & Du lịch Hàn Quốc (MCST)",
+          "title": "The Growing Popularity and Diversification of Hallyu (Overseas Hallyu Survey 2025)",
+          "url": "https://www.mcst.go.kr/english/policy/pressView.jsp?pSeq=511",
+          "published": "2025-04-08",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Khảo sát 28 vùng, 26.400 người đã từng dùng nội dung Hàn; số theo riêng Việt Nam chỉ có ở một chỉ số."
+        },
+        {
+          "id": "zlab",
+          "name": "Z Lab (báo cáo K-pop & Gen Z)",
+          "title": "Gen Z sẵn sàng làm điều táo bạo đu idol K-Pop…",
+          "url": "https://static.mediacdn.vn/Zlab/document/Report36_ZLAB_KPOP_GENZ.pdf",
+          "published": null,
+          "accessed": "2026-10-25",
+          "how_read": "tìm kiếm (snippet)",
+          "note": "PDF không đọc được bằng công cụ; chỉ có đoạn trích tìm kiếm."
+        },
+        {
+          "id": "zenodo",
+          "name": "Zenodo (bài nghiên cứu)",
+          "title": "The consumer trends of secondhand clothing in young people – the case of Generation Z of Vietnam",
+          "url": "https://doi.org/10.5281/zenodo.8088905",
+          "published": null,
+          "accessed": "2026-10-25",
+          "how_read": "tìm kiếm (snippet)",
+          "note": "Trang không mở được (timeout); chỉ đọc đoạn trích tìm kiếm; cỡ mẫu nhỏ, chưa rõ năm."
+        },
+        {
+          "id": "metric",
+          "name": "Metric.vn",
+          "title": "Thị trường TMĐT Việt Nam năm 2025: những chuyển dịch đáng chú ý",
+          "url": "https://metric.vn/insights/thi-truong-tmdt-viet-nam-nam-2025-nhung-chuyen-dich-dang-chu-y/",
+          "published": "2026-01-14",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Chỉ tính 4 sàn: Shopee, TikTok Shop, Lazada, Tiki."
+        },
+        {
+          "id": "vplus",
+          "name": "VietnamPlus (trích e-Conomy SEA 2025 – Google, Temasek, Bain)",
+          "title": "Nền kinh tế số Việt Nam dự kiến đạt 39 tỷ USD năm 2025",
+          "url": "https://www.vietnamplus.vn/nen-kinh-te-so-viet-nam-du-kien-dat-39-ty-usd-nam-2025-post1079139.vnp",
+          "published": "2025-11-25",
+          "accessed": "2026-10-25",
+          "how_read": "mở trang",
+          "note": "Báo cáo gốc không đọc trực tiếp; đọc qua báo. Các chỉ số AI là người dùng tự khai."
+        }
+      ],
+      "facts": [
+        {
+          "id": "thu-cung",
+          "label": "Thú cưng: combo 200–500 nghìn, mèo chiếm 72% doanh số Shopee",
+          "text": "Thị trường thức ăn thú cưng VN ~155,5 triệu USD (2025) → 243,7 triệu USD (2030) (Mordor). Người nuôi trẻ sẵn sàng chi cho combo thức ăn + phụ kiện phổ biến 200–500 nghìn đồng; 72% doanh số thú cưng trên Shopee thuộc ngành mèo (ngành mèo ước +27% lên ~767 tỷ đồng); bán online/livestream ~45% doanh thu; nhu cầu spa thú cưng rất mạnh.",
+          "source_ids": [
+            "danviet"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu bán hàng do một người bán/nhà phân phối tự khảo sát."
+        },
+        {
+          "id": "du-lich",
+          "label": "Du lịch ngắn, nhiều chuyến, theo sự kiện",
+          "text": "Agoda 2026 (Gen Z Việt): 81% dự định tối đa 6 chuyến/năm; ~80% ở dưới 1 tuần; 55% coi ngân sách là yếu tố quyết định; 49% cân nhắc điểm đến ít biết; 21% đi chỉ để xem hòa nhạc/lễ hội/thể thao. Visa Consumer 360 (qua Tuổi Trẻ): ‘tiết kiệm để đi du lịch’ là mục tiêu tài chính số 1 của Gen Z.",
+          "source_ids": [
+            "agoda",
+            "tt"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Hai khảo sát khác nhau cùng cho thấy du lịch là ưu tiên của Gen Z."
+        },
+        {
+          "id": "han-quoc",
+          "label": "Phim/TV Hàn kéo mua hàng Hàn",
+          "text": "MCST (khảo sát 28 vùng): ở Việt Nam 26,9% người đã dùng nội dung Hàn nêu ‘xuất hiện trong phim/TV’ là lý do mua sản phẩm Hàn — thuộc nhóm cao nhất; toàn mẫu: 58,9% sẵn sàng trả tiền cho sản phẩm/dịch vụ Hàn (ẩm thực 66,2%, mỹ phẩm 57,1%).",
+          "source_ids": [
+            "mcst"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Chỉ số 26,9% là số riêng của Việt Nam; các số còn lại là toàn mẫu 28 vùng."
+        },
+        {
+          "id": "kpop",
+          "label": "~80% Gen Z theo dõi K-pop (chưa xác minh)",
+          "text": "Báo cáo Z Lab: 79,6% Gen Z theo dõi K-pop, 56,5% thuộc fandom; chi chủ yếu cho merchandise nhưng đa số chỉ mua thỉnh thoảng.",
+          "source_ids": [
+            "zlab"
+          ],
+          "verification": "chưa xác minh",
+          "note": "Chỉ đọc đoạn trích tìm kiếm của PDF; chưa mở được báo cáo nên chưa dùng để chấm điểm."
+        },
+        {
+          "id": "do-cu",
+          "label": "68% Gen Z từng dùng đồ cũ (chưa xác minh)",
+          "text": "Một nghiên cứu học thuật nhỏ về Gen Z Việt Nam: 68% từng mua và dùng đồ secondhand; lý do hàng đầu là tiết kiệm (58,4%), sở thích (56,2%), xu hướng xanh (32,4%).",
+          "source_ids": [
+            "zenodo"
+          ],
+          "verification": "chưa xác minh",
+          "note": "Trang không mở được; cỡ mẫu nhỏ; chưa đối chiếu nguồn thứ hai."
+        },
+        {
+          "id": "lam-dep-suc-khoe",
+          "label": "Làm đẹp #1 trên sàn; sức khỏe +46,9%",
+          "text": "Metric 2025: Làm đẹp là ngành lớn nhất trên 4 sàn (74,5 nghìn tỷ đồng, +29,5%); Sức khỏe tăng 46,89%.",
+          "source_ids": [
+            "metric"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "id": "game",
+          "label": "Game & nội dung số",
+          "text": "e-Conomy SEA 2025: truyền thông trực tuyến (quảng cáo, game, video, nhạc theo yêu cầu) dự kiến ~6 tỷ USD (+16%); Việt Nam có 3 nhà phát triển game trong top 15 thế giới theo lượt tải.",
+          "source_ids": [
+            "vplus"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ]
+    }
+  ]
+}

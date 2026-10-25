@@ -52,7 +52,8 @@ main{outline:none}
   .topbar{backdrop-filter:none;-webkit-backdrop-filter:none;background:var(--bg)}
   .brand span{display:none}
   .tabs{position:fixed;left:0;right:0;bottom:0;z-index:40;margin:0;max-width:none;padding:.3rem .4rem calc(.3rem + env(safe-area-inset-bottom));background:var(--surface);border-top:1px solid var(--line);justify-content:space-around;gap:0;box-shadow:0 -4px 18px rgba(0,0,0,.08)}
-  .tabs a{flex-direction:column;gap:0;font-size:.7rem;padding:.25rem .3rem;border-radius:10px;flex:1;justify-content:center;min-height:44px}
+  .tabs{overflow-x:auto;scrollbar-width:none} .tabs::-webkit-scrollbar{display:none}
+  .tabs a{flex-direction:column;gap:0;font-size:.66rem;padding:.25rem .2rem;border-radius:10px;flex:1 0 auto;min-width:50px;justify-content:center;min-height:44px;white-space:nowrap}
   .tabs a i{font-size:1.15rem;line-height:1.1}
   .btn.ghost#install{padding:.35rem .6rem;font-size:.8rem}
 }
@@ -172,3 +173,33 @@ table.w td.n,table.w th.n{text-align:right;white-space:nowrap}
 }
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 @media print{.topbar,.tabs,.acts,.filters{display:none!important} details.more{display:block} details.more>*{display:block}}
+
+/* v1.1 — regions, keywords, youth */
+.tag.reg{background:var(--surface2);color:var(--text);border:1px solid var(--line)}
+.trend .tags{display:flex;gap:.3rem;flex-wrap:wrap;margin:.2rem 0 .3rem}
+.chip.small{font-size:.76rem;padding:.12rem .5rem;text-decoration:none;display:inline-block;margin:.1rem 0}
+.kwf{margin-top:.8rem}
+.kwtheme{margin:1.1rem 0}
+.kwtheme > h2{font-size:1.1rem;margin:0 0 .4rem}
+.kwlist{list-style:none;margin:0;padding:0;display:grid;gap:.5rem}
+.kwlist > li{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:.6rem .8rem}
+.kwh{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center;margin-bottom:.2rem}
+.kwh .rk{font-weight:800;color:var(--brand);min-width:1.8rem}
+.kwh .kwt{font-size:1rem;overflow-wrap:anywhere}
+.kwl{margin-top:.35rem}
+.kwlist .note{font-size:.8rem;color:var(--muted);margin-top:.2rem}
+.risks li{margin:.3rem 0}
+
+/* v1.2 — illustrations & Claude prompt */
+.pitchrow{display:flex;gap:.7rem;align-items:flex-start;margin:.25rem 0 .5rem}
+.pitchrow .pitch{margin:0;flex:1;min-width:0}
+.thumb{flex:none;width:128px;height:96px;object-fit:cover;border-radius:10px;border:1px solid var(--line);background:var(--surface2)}
+.hero-img{margin:.4rem 0 .8rem}
+.hero-img img{display:block;width:100%;max-width:560px;height:auto;aspect-ratio:4/3;object-fit:cover;border-radius:12px;border:1px solid var(--line);background:var(--surface2)}
+.hero-img figcaption{font-size:.76rem;color:var(--muted);margin-top:.25rem}
+.btn.small{font-size:.8rem;padding:.3rem .6rem}
+.promptbox{border:2px solid var(--brand);border-radius:12px;padding:.6rem .8rem;margin:.4rem 0 .8rem;background:color-mix(in srgb,var(--brand) 6%,var(--surface))}
+.promptbox .ph{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center}
+.promptbox .ph .copybig{margin-left:auto;font-size:1rem;padding:.55rem 1rem}
+.promptbox pre.prompt{white-space:pre-wrap;overflow-wrap:anywhere;max-height:16rem;overflow:auto;font:.82rem/1.55 inherit;background:var(--surface2);border:1px solid var(--line);border-radius:8px;padding:.6rem .7rem;margin:.4rem 0 0;-webkit-user-select:text;user-select:text}
+@media (max-width:520px){ .thumb{width:96px;height:72px} .promptbox .ph .copybig{width:100%;margin-left:0} }
