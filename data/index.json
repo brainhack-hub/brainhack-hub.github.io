@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-25",
-  "latest": "2026-10-25",
+  "updated": "2026-10-26",
+  "latest": "2026-10-26",
   "days": [
+    {
+      "date": "2026-10-26",
+      "file": "2026-10-26.json",
+      "headline": "Chơi như trẻ con, làm bằng tay: bếp hỗn loạn, sticker dựng cảnh, thẻ sưu tầm 6 tệ — và bánh gạo phủ pizza từ Hàn",
+      "idea_count": 8,
+      "trend_count": 9,
+      "keyword_count": 81,
+      "top": {
+        "title": "Thẻ sưu tầm “Boss” — biến ảnh mèo, chó thành bộ thẻ có chỉ số và độ hiếm, in bo góc theo yêu cầu",
+        "total_score": 7.18
+      }
+    },
     {
       "date": "2026-10-25",
       "file": "2026-10-25.json",

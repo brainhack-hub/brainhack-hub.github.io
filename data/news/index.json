@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25",
-  "latest": "2026-10-25",
+  "updated": "2026-10-26",
+  "latest": "2026-10-26",
   "topics": [
     {
       "id": "ai_xd",
@@ -64,6 +64,18 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-10-26",
+      "file": "2026-10-26.json",
+      "headline": "Đọc báo 26/10/2026: AI bóc khối lượng gọi vốn dồn dập, Hà Nội buộc công trường lớn giám sát bụi bằng AI, BĐS vẫn chật vật",
+      "item_count": 22,
+      "topics": {
+        "ai_xd": 10,
+        "chuoi_cung_ung": 4,
+        "cong_nghe": 2,
+        "vn": 6
+      }
+    },
     {
       "date": "2026-10-25",
       "file": "2026-10-25.json",

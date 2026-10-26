@@ -1,0 +1,684 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T13:00:00+07:00",
+  "headline": "Đọc báo 26/10/2026: AI bóc khối lượng gọi vốn dồn dập, Hà Nội buộc công trường lớn giám sát bụi bằng AI, BĐS vẫn chật vật",
+  "digest": [
+    {
+      "title": "AI vào bóc khối lượng & dự toán: tiền và sản phẩm cùng tăng",
+      "text": "Mach9 gọi 34 triệu USD cho CAD dùng AI, PataBid gọi 2 triệu USD cho dự toán, FieldFlō và GPStimate ra công cụ bóc khối lượng có người duyệt; bản tin Bricks & Bytes đếm 10 vòng ConTech trong một tuần. Lưu ý: các mức tiết kiệm thời gian phần lớn do hãng tự nêu.",
+      "item_ids": [
+        "n-20261026-01-mach9-ai-cad",
+        "n-20261026-02-patabid-ai-du-toan",
+        "n-20261026-04-fieldflo-takeoff",
+        "n-20261026-05-gpstimate-mai",
+        "n-20261026-03-contech-tuan-19-10"
+      ]
+    },
+    {
+      "title": "Hà Nội: công trường lớn phải giám sát bụi bằng cảm biến/camera/AI",
+      "text": "Kế hoạch 400/KH-UBND yêu cầu 100% công trình lớn giám sát bụi bằng công nghệ, nhật ký xe ra vào và camera nhận diện biển số; cùng lúc thành phố siết 62 vị trí rào chắn tại 11 dự án trọng điểm. Ở cấp quốc gia, Cục Đường bộ thí điểm UAV LiDAR + digital twin + AI cảnh báo sạt lở.",
+      "item_ids": [
+        "n-20261026-09-ha-noi-ai-giam-sat-bui",
+        "n-20261026-20-ha-noi-siet-cong-truong",
+        "n-20261026-08-ai-canh-bao-sat-lo"
+      ]
+    },
+    {
+      "title": "BĐS: ưu đãi mạnh vẫn khó kéo sức mua, luật NOXH siết bán lại",
+      "text": "VnExpress: chiết khấu 20–30% và hỗ trợ lãi suất không còn hiệu quả như trước; DXS – FERI cho rằng kịch bản có khả năng nhất là lãi suất thả nổi 11–13%. Dự thảo Luật Nhà ở bỏ trần lợi nhuận 10% và chỉ cho bán lại NOXH cho người đủ điều kiện.",
+      "item_ids": [
+        "n-20261026-17-uu-dai-mua-nha-mat-tac-dung",
+        "n-20261026-19-3-kich-ban-bds-cuoi-nam",
+        "n-20261026-18-noxh-khong-ban-tu-do"
+      ]
+    },
+    {
+      "title": "Chi phí vận chuyển & năng lượng tiếp tục căng",
+      "text": "Brent vượt 115 USD/thùng; Drewry ghi nhận cước container tăng và hãng tàu cắt thêm chuyến Á–Âu; giá ký lại hợp đồng xe tải ở Mỹ cao hơn khoảng 13%. Nên rà điều khoản điều chỉnh giá và chốt cước sớm cho lô hàng cuối năm.",
+      "item_ids": [
+        "n-20261026-14-brent-115-usd",
+        "n-20261026-11-drewry-cuoc-container",
+        "n-20261026-12-cuoc-xe-tai-hop-dong"
+      ]
+    },
+    {
+      "title": "Người và AI: ai biết khi máy sai?",
+      "text": "Một thợ mộc kiêm quản lý viết trên Construction Dive rằng ngành phải giữ tay nghề để nhận ra lỗi AI; kinh tế trưởng Apollo nói AI chưa tạo lợi ích tài chính rõ cho doanh nghiệp ngoài ngành công nghệ; ENR cho thấy làn sóng trung tâm dữ liệu AI đang hút lao động lành nghề.",
+      "item_ids": [
+        "n-20261026-06-ai-sai-tho-lanh-nghe",
+        "n-20261026-15-apollo-ai-zero-payoff",
+        "n-20261026-16-enr-top600-ai-boom"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "n-20261026-01-mach9-ai-cad",
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "title_vi": "Mach9 gọi vốn 34 triệu USD sau khi chuyển từ robot sang phần mềm CAD dùng AI",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+      "published": "2026-10-21T13:00:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Mach9 (Mỹ) ban đầu làm robot khảo sát hiện trường, nhưng nhận ra điểm nghẽn là khâu biến dữ liệu quét laser/ảnh thành bản đồ khảo sát dùng được, nên chuyển sang phần mềm CAD dùng AI. Bản beta kín đã có gần 100 khách hàng, dùng cho hơn 2.500 dự án. Vòng Series A 34 triệu USD do First Round Capital và Bessemer đồng dẫn dắt; công ty tự nêu phần mềm giúp làm nhanh gấp 10 lần và tự huấn luyện mô hình AI riêng để đạt độ chính xác cấp centimet.",
+      "why_it_matters": "Khâu dựng bản vẽ hiện trạng từ dữ liệu quét là đầu vào của bóc khối lượng và dự toán. Nếu các công cụ kiểu này chín muồi, bên tư vấn/QS có thể nhận hồ sơ nhanh hơn — nhưng con số “nhanh gấp 10” là do hãng tự nêu, cần đòi dữ liệu dự án thật.",
+      "tags": [
+        "Mach9",
+        "CAD",
+        "AI",
+        "khảo sát",
+        "gọi vốn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-02-patabid-ai-du-toan",
+      "title": "PataBid raises $2 million to expand AI construction estimator",
+      "title_vi": "PataBid (Canada) gọi 2 triệu USD cho công cụ AI lập dự toán xây dựng",
+      "source": {
+        "name": "BetaKit",
+        "kind": "báo khởi nghiệp"
+      },
+      "url": "https://betakit.com/patabid-raises-2-million-to-expand-ai-construction-estimator/",
+      "published": "2026-10-21T21:25:39+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "Global",
+      "summary_vi": "Startup PataBid ở Calgary gọi được 2 triệu USD vòng tiền hạt giống, dẫn dắt bởi Graphite Ventures. Nền tảng Quantify được giới thiệu là thay thế công cụ dự toán thủ công/cũ, lập dự toán từ bản vẽ trong vài giờ (theo công ty). PataBid đang thử nghiệm một AI agent tên Newton, dự kiến ra mắt năm 2027; phí bản quyền nêu trong bài là 2.460 USD/năm.",
+      "why_it_matters": "Tập trung vào các gói cơ điện, PCCC, cấp thoát nước — đúng nhóm hạng mục mà đội đấu thầu hay phải bóc tách lại. Đáng theo dõi như một tham chiếu giá phần mềm khi tự đánh giá công cụ dự toán AI.",
+      "tags": [
+        "PataBid",
+        "dự toán",
+        "AI agent",
+        "MEP",
+        "Canada"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-03-contech-tuan-19-10",
+      "title": "Latest Construction Technology Funding Rounds – 19th Oct 2026",
+      "title_vi": "Tổng hợp gọi vốn ConTech tuần đến 19/10: in 3D nhà, bê tông tái chế, AI làm báo cáo hiện trường",
+      "source": {
+        "name": "Bricks & Bytes",
+        "kind": "bản tin ngành"
+      },
+      "url": "https://bricks-bytes.com/funding-ma/latest-construction-technology-funding-rounds-19th-oct-2026/",
+      "published": "2026-10-20",
+      "time_known": false,
+      "date_basis": "ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "Global",
+      "summary_vi": "Bản tin đếm 10 vòng gọi vốn ConTech trong tuần đến 19/10, tổng khoảng 370 triệu USD (ước tính sau quy đổi). Lớn nhất là Icon 200 triệu USD (in 3D nhà nhiều tầng) và SL Materials 100 triệu euro (bê tông từ phế thải phá dỡ). Ở nhóm nhỏ: Punch nói ứng dụng giọng nói giúp báo cáo ngày giảm từ khoảng 30 phút xuống 3 phút; Solvera hoạt động như công ty tư vấn MEP với AI agent làm phần lớn việc, kỹ sư ký duyệt; Hexagon mua Rocscience với giá 535 triệu USD.",
+      "why_it_matters": "Tiền lớn đang vào vật liệu và thiết bị, còn tiền nhỏ vào “giấy tờ” (hóa đơn, báo cáo ngày, dự toán). Với mua sắm, mảng bê tông tái chế và AI đối chiếu hóa đơn–phiếu giao hàng là hai thứ đáng hỏi nhà cung cấp trong nước.",
+      "tags": [
+        "ConTech",
+        "gọi vốn",
+        "in 3D",
+        "bê tông tái chế",
+        "báo cáo hiện trường"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "curl trả 202 rỗng; đọc toàn bộ bài qua WebFetch.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-04-fieldflo-takeoff",
+      "title": "FieldFlō Launches Estimating Tool for Demolition Contractors",
+      "title_vi": "FieldFlō ra công cụ bóc khối lượng & dự toán cho nhà thầu phá dỡ, xử lý vật liệu nguy hại",
+      "source": {
+        "name": "CCR-Mag (Commercial Construction & Renovation)",
+        "kind": "tạp chí ngành"
+      },
+      "url": "https://ccr-mag.com/fieldflo-launches-estimating-tool-for-demolition-contractors/",
+      "published": "2026-10-22T20:24:37-04:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "FieldFlō chính thức phát hành Takeoff & Estimating cho nhà thầu phá dỡ, xử lý amiăng và khắc phục ô nhiễm: đọc hồ sơ dự án, bóc khối lượng và tính giá theo năng suất thực. Một khách hàng dùng thử (HEPA Environmental Services) kể lần chạy song song đầu tiên cho ra 474 giờ công so với 480 giờ theo cách cũ, nhưng nhanh hơn nhiều. Đây là thông tin trong thông cáo của hãng.",
+      "why_it_matters": "Điểm hay là bám vào năng suất thật và có dấu vết kiểm tra (audit trail) cho từng con số — điều tổ thầu cần khi bảo vệ giá. Tuy vậy, so sánh chỉ là một ca do khách hàng của hãng kể lại.",
+      "tags": [
+        "FieldFlō",
+        "bóc khối lượng",
+        "phá dỡ",
+        "dự toán"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-05-gpstimate-mai",
+      "title": "GPStimate Offers AI Tools for Commercial Roof Estimates",
+      "title_vi": "GPStimate: AI hỗ trợ bóc khối lượng mái công trình thương mại, người dự toán vẫn duyệt",
+      "source": {
+        "name": "Roofing Contractor",
+        "kind": "tạp chí ngành"
+      },
+      "url": "https://www.roofingcontractor.com/articles/102823-gpstimate-offers-ai-tools-for-commercial-roof-estimates",
+      "published": "2026-10-22T14:15:48-04:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "GPStimate cung cấp nền tảng dự toán mái dùng AI: bóc khối lượng tự động, thư viện cấu tạo dùng lại, bảng giá riêng của công ty và trợ lý AI tra tài liệu nhà sản xuất; người dự toán xem và duyệt số đo. Theo thông cáo, thử trên khoảng 100 dự án giúp giảm khoảng một nửa thời gian cho các bộ dự toán thường mất hơn hai giờ. Bài báo nói rõ thông cáo không nêu phương pháp thử hay đánh giá độc lập.",
+      "why_it_matters": "Mô hình “AI đo – người duyệt” là cách an toàn để đưa AI vào bóc tách. Trước khi tin con số tiết kiệm thời gian, nên tự chạy thử trên vài hồ sơ cũ đã biết kết quả.",
+      "tags": [
+        "GPStimate",
+        "mái",
+        "bóc khối lượng",
+        "AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-06-ai-sai-tho-lanh-nghe",
+      "title": "Construction must preserve trades knowledge to know when AI is wrong",
+      "title_vi": "Ngành xây dựng phải giữ tay nghề thợ để biết khi nào AI sai",
+      "source": {
+        "name": "Construction Dive",
+        "kind": "báo ngành"
+      },
+      "url": "https://www.constructiondive.com/news/preserve-trades-knowledge-when-ai-is-wrong/833505/",
+      "published": "2026-10-21",
+      "time_known": false,
+      "date_basis": "ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Bài ý kiến của Lance Mazzariello (thợ mộc công đoàn, phó chủ tịch Specialty Services of New England): AI đang vào dự toán và quản lý dự án, BIM phát hiện xung đột, nhưng ai sẽ đủ kinh nghiệm để biết khi công nghệ sai? Tác giả cho rằng học nghề kèm cặp và AI cùng giải bài toán truyền tri thức, nên dùng công nghệ để tăng năng suất người thợ giỏi chứ không chỉ cắt giảm nhân sự, và chia sẻ lợi ích năng suất với người lao động.",
+      "why_it_matters": "Áp vào đấu thầu: dùng AI bóc khối lượng vẫn cần người có kinh nghiệm hiện trường rà lại. Nên giữ bước “người duyệt” và ghi lại các lỗi AI hay mắc để đào tạo người mới.",
+      "tags": [
+        "AI",
+        "nhân lực",
+        "học nghề",
+        "BIM",
+        "ý kiến"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "ý kiến",
+      "how_read": "curl bị 403; đọc toàn bộ bài qua WebFetch.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-07-tu-dong-hoa-nha-o",
+      "title": "Why Automation Could Be the Key to Fixing America's Broken Housing Market",
+      "title_vi": "Vì sao tự động hóa có thể là chìa khóa sửa thị trường nhà ở Mỹ",
+      "source": {
+        "name": "ENR (Engineering News-Record)",
+        "kind": "tạp chí ngành"
+      },
+      "url": "https://www.enr.com/articles/64023-why-automation-could-be-the-key-to-fixing-americas-broken-housing-market",
+      "published": "2026-10-21",
+      "time_known": false,
+      "date_basis": "ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Bài quan điểm trên ENR lấy ví dụ các lô đất cháy ở Altadena và Pacific Palisades vẫn trống hơn một năm sau cháy rừng tháng 1/2025, do nhà vẫn xây thủ công từng căn với hơn 20 nhà thầu phụ nối tiếp nhau. Tác giả dẫn số liệu Mỹ thiếu hơn 4 triệu căn nhà và chi phí vật liệu tăng 40% từ tháng 12/2020, rồi lập luận phải chuyển phần lớn công việc vào nhà máy có tự động hóa để xây nhanh và dễ dự báo hơn.",
+      "why_it_matters": "Đây là góc nhìn của bên làm nhà xưởng hóa, không phải nghiên cứu độc lập. Ý đáng giữ cho mua sắm: chuẩn hóa cấu kiện giúp đấu thầu vật tư theo lô lớn và ít phát sinh hơn.",
+      "tags": [
+        "tự động hóa",
+        "nhà lắp ghép",
+        "nhà ở",
+        "ý kiến"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "ý kiến",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-08-ai-canh-bao-sat-lo",
+      "title": "Dùng AI cảnh báo sớm nguy cơ sạt lở",
+      "title_vi": "Dùng AI cảnh báo sớm nguy cơ sạt lở trên quốc lộ 6",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo ngành (Bộ Xây dựng)"
+      },
+      "url": "https://baoxaydung.vn/dung-ai-canh-bao-som-nguy-co-sat-lo-192261021094523395.htm",
+      "published": "2026-10-24T13:45:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài (URL mang mã ngày 21/10; trang ghi 24/10)",
+      "topic": "ai_xd",
+      "region": "VN",
+      "summary_vi": "Cục Đường bộ Việt Nam đang phối hợp với Trường ĐH GTVT Hà Nội và một công ty trắc địa thí điểm cảnh báo sạt lở trên quốc lộ 6. Cách làm là kết hợp UAV gắn LiDAR, khảo sát địa vật lý, mô hình bản sao số (digital twin) và AI để phân vùng, dự báo và cảnh báo sớm trượt lở mái dốc. Theo PGS.TS Nguyễn Châu Lân, trượt lở quy mô lớn chỉ chiếm khoảng 15% số vụ nhưng gây hơn 85% thiệt hại.",
+      "why_it_matters": "Mô hình UAV LiDAR + digital twin cho hạ tầng có thể mở thêm gói thầu khảo sát/giám sát số; bên mua sắm nên theo dõi tiêu chí kỹ thuật khi thí điểm được nhân rộng.",
+      "tags": [
+        "AI",
+        "LiDAR",
+        "digital twin",
+        "sạt lở",
+        "hạ tầng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-09-ha-noi-ai-giam-sat-bui",
+      "title": "Hà Nội yêu cầu 100% công trình lớn giám sát bụi bằng cảm biến, camera, AI",
+      "title_vi": "Hà Nội yêu cầu 100% công trình lớn giám sát bụi bằng cảm biến, camera, AI",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo ngành (Bộ Xây dựng)"
+      },
+      "url": "https://baoxaydung.vn/ha-noi-yeu-cau-100-cong-trinh-lon-giam-sat-bui-bang-cam-bien-camera-ai-192261016232250952.htm",
+      "published": "2026-10-17T07:39:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "VN",
+      "summary_vi": "Kế hoạch số 400/KH-UBND của Hà Nội yêu cầu trong tháng 10 Sở Xây dựng lập danh mục công trình lớn, công trình có nguy cơ cao gây bụi; 100% công trình lớn phải giám sát bụi bằng cảm biến, camera, AI hoặc công nghệ phù hợp, kết nối dữ liệu về công an cấp xã và UBND xã, phường. Công trường phải lập nhật ký xe ra vào (biển số, đơn vị vận tải, loại vật liệu, kết quả rửa xe) và lắp camera ở khu rửa xe, cổng, ưu tiên nhận diện biển số.",
+      "why_it_matters": "Ảnh hưởng trực tiếp tới các dự án đang thi công ở Hà Nội: cần dự trù gói thiết bị quan trắc bụi/camera và quy trình nhật ký xe trong hồ sơ mời thầu nhà thầu chính.",
+      "tags": [
+        "Hà Nội",
+        "bụi",
+        "AI",
+        "camera",
+        "công trường",
+        "quy định"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26",
+      "older_than_7d": true,
+      "older_note": "Đăng 17/10 (9 ngày trước); giữ lại vì là yêu cầu mới áp dụng cho công trường Hà Nội ngay trong tháng 10."
+    },
+    {
+      "id": "n-20261026-10-glodon-bo-xay-dung-bim",
+      "title": "Glodon and Vietnam's Ministry of Construction Explore Collaboration on BIM and Digital Cost Management",
+      "title_vi": "Glodon làm việc với Bộ Xây dựng về BIM trong quản lý chi phí đầu tư xây dựng",
+      "source": {
+        "name": "Glodon (trang tin công ty)",
+        "kind": "nhà cung cấp phần mềm"
+      },
+      "url": "https://www.glodon.com/en/insights/glodon-and-vietnams-ministry-construction-explore-collaboration-bim-and-digital-cost-management-469",
+      "published": "2026-10-15",
+      "time_known": false,
+      "date_basis": "ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "VN",
+      "summary_vi": "Theo Glodon (Trung Quốc), ngày 9/10/2026 đoàn của hãng đã làm việc với Bộ Xây dựng tại Hà Nội, do Thứ trưởng Bùi Xuân Dũng chủ trì, Viện Kinh tế xây dựng điều phối. Thứ trưởng nhấn mạnh BIM cần vượt khỏi hình ảnh 3D để phục vụ thực chất quản lý chi phí: bóc khối lượng chính xác, kiểm soát vốn đầu tư, giảm rủi ro vượt chi và lãng phí ở các dự án hạ tầng lớn.",
+      "why_it_matters": "Định hướng “BIM cho chi phí” nếu thành quy định sẽ ảnh hưởng cách lập dự toán và hồ sơ mời thầu. Lưu ý đây là bài do chính hãng đăng.",
+      "tags": [
+        "BIM",
+        "Glodon",
+        "Bộ Xây dựng",
+        "quản lý chi phí"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26",
+      "older_than_7d": true,
+      "older_note": "Đăng 15/10 (11 ngày trước); giữ lại vì là tin trực tiếp về định hướng BIM–chi phí tại Việt Nam."
+    },
+    {
+      "id": "n-20261026-11-drewry-cuoc-container",
+      "title": "New Drewry data shows import demand boosting trans-Pacific rates",
+      "title_vi": "Drewry: cước container xuyên Thái Bình Dương tiếp tục tăng nhờ nhu cầu nhập khẩu Mỹ",
+      "source": {
+        "name": "FreightWaves",
+        "kind": "báo logistics"
+      },
+      "url": "https://www.freightwaves.com/news/new-drewry-data-shows-import-demand-boosting-trans-pacific-rates",
+      "published": "2026-10-23T18:55:28+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Chỉ số World Container Index của Drewry tăng 2% lên 4.585 USD/container 40 feet. Tuyến Thượng Hải–Los Angeles tăng 2% lên 8.007 USD, Thượng Hải–Rotterdam tăng 3% lên 3.632 USD. Hãng tàu công bố 8 chuyến hủy trên tuyến Á–Âu tuần tới (từ 2 chuyến), trong khi thời gian chờ tàu ở Thượng Hải giảm từ 97 giờ (tuần 38) xuống 38 giờ (tuần 42).",
+      "why_it_matters": "Hàng nhập từ Trung Quốc/châu Âu (thiết bị, vật tư hoàn thiện) đang chịu cước cao và phụ thuộc quyết định cắt chuyến của hãng tàu — nên chốt cước sớm cho các lô cuối năm.",
+      "tags": [
+        "cước container",
+        "Drewry",
+        "Á–Âu",
+        "Thượng Hải"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-12-cuoc-xe-tai-hop-dong",
+      "title": "Truckload contract rate increases riding steady above 10%",
+      "title_vi": "Giá hợp đồng vận tải xe tải ở Mỹ tăng đều trên 10%",
+      "source": {
+        "name": "FreightWaves",
+        "kind": "báo logistics"
+      },
+      "url": "https://www.freightwaves.com/news/truckload-contract-rate-increases-riding-steady-above-10",
+      "published": "2026-10-25T00:30:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Chỉ số CRCD của SONAR cho thấy chủ hàng ký lại hợp đồng vận tải xe tải đang trả cao hơn khoảng 13% so với giá cũ (13,11% ngày 22/10, so với 3,53% một năm trước). Tỷ lệ từ chối đơn trung bình gần 13% trong vài tháng qua, và dữ liệu cho thấy năng lực vận tải chưa tăng đáng kể dù giá cao, nên đà tăng có thể còn kéo dài.",
+      "why_it_matters": "Là chỉ báo về chu kỳ chi phí vận tải nội địa ở Mỹ; với đội mua sắm VN, bài học là theo dõi “giá ký lại” chứ không chỉ giá giao ngay khi đàm phán hợp đồng khung vận chuyển.",
+      "tags": [
+        "xe tải",
+        "hợp đồng vận tải",
+        "SONAR",
+        "Mỹ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-13-apple-nha-cung-cap-my",
+      "title": "Apple expands US supplier network for iPhone materials, components",
+      "title_vi": "Apple mở rộng mạng lưới nhà cung cấp tại Mỹ cho vật liệu, linh kiện iPhone",
+      "source": {
+        "name": "Supply Chain Dive",
+        "kind": "báo chuỗi cung ứng"
+      },
+      "url": "https://www.supplychaindive.com/news/apple-expands-us-supplier-network-for-iphone-materials-components/833496/",
+      "published": "2026-10-21",
+      "time_known": false,
+      "date_basis": "ngày ghi trên trang bài (không có giờ)",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Apple ký với nhà sản xuất titan Perryman (Pennsylvania) — cam kết tới 100 triệu USD trong ba năm cho titan có ít nhất 80% thành phần tái chế — và mở rộng hợp tác với Qnity Electronics về màng cho camera. Đây là một phần chương trình sản xuất tại Mỹ trong cam kết 600 tỷ USD trong bốn năm của Apple.",
+      "why_it_matters": "Ví dụ về “mua sắm chiến lược” gắn với tỷ lệ vật liệu tái chế và nội địa hóa — xu hướng có thể lan sang tiêu chí ESG trong mua vật tư xây dựng.",
+      "tags": [
+        "Apple",
+        "nhà cung cấp",
+        "titan",
+        "tái chế",
+        "nội địa hóa"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "curl bị 403; đọc toàn bộ bài qua WebFetch.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-14-brent-115-usd",
+      "title": "Giá dầu Brent chạm mốc 115 USD mỗi thùng",
+      "title_vi": "Giá dầu Brent chạm mốc 115 USD mỗi thùng",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử"
+      },
+      "url": "https://vnexpress.net/gia-dau-brent-cham-moc-115-usd-moi-thung-5136174.html",
+      "published": "2026-10-23T20:07:07+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Tối 23/10, dầu Brent tăng hơn 1,8%, vượt 115 USD/thùng — cao nhất từ đầu tháng 5; WTI trên 101 USD. Nguyên nhân là các cuộc tấn công của lực lượng Houthi vào hạ tầng năng lượng Arab Saudi, khiến Saudi Aramco sơ tán trụ sở ở Dhahran. Deutsche Bank nêu hai kịch bản cho 2027: ngừng bắn thì Brent về khoảng 74 USD, chiến sự kéo dài thì khoảng 130 USD.",
+      "why_it_matters": "Giá dầu cao đẩy chi phí vận chuyển, nhựa đường, và các vật liệu tốn năng lượng (thép, xi măng, kính). Nên rà điều khoản điều chỉnh giá trong hợp đồng cung cấp vật tư dài hạn.",
+      "tags": [
+        "dầu Brent",
+        "năng lượng",
+        "chi phí vận chuyển",
+        "Trung Đông"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-15-apollo-ai-zero-payoff",
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "title_vi": "Kinh tế trưởng Apollo: AI chưa mang lại lợi ích tài chính nào cho đa số doanh nghiệp ngoài ngành công nghệ",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "published": "2026-10-25T16:57:32+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "Torsten Slok, kinh tế trưởng Apollo Global Management, xem xét nhóm “S&P 493” (S&P 500 trừ bảy hãng công nghệ lớn) và thấy biên lợi nhuận, doanh thu trên mỗi lao động gần như đi ngang, chưa có bằng chứng AI tăng năng suất. Ông viết rằng AI có thể là “cái máy tính giỏi” nhưng kinh doanh chủ yếu cần phán đoán, trách nhiệm và niềm tin.",
+      "why_it_matters": "Lời nhắc tỉnh táo khi đề xuất mua công cụ AI: nên đặt chỉ số đo hiệu quả cụ thể (giờ công tiết kiệm, lỗi giảm) ngay từ đầu thay vì kỳ vọng chung chung.",
+      "tags": [
+        "AI",
+        "năng suất",
+        "Apollo",
+        "doanh nghiệp"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-16-enr-top600-ai-boom",
+      "title": "ENR Top 600: AI Boom Tests Talent Pipelines",
+      "title_vi": "ENR Top 600: làn sóng xây trung tâm dữ liệu AI thử thách nguồn nhân lực nhà thầu chuyên ngành",
+      "source": {
+        "name": "ENR (Engineering News-Record)",
+        "kind": "tạp chí ngành"
+      },
+      "url": "https://www.enr.com/articles/64024-enr-top-600-ai-boom-tests-talent-pipelines",
+      "published": "2026-10-21",
+      "time_known": false,
+      "date_basis": "ngày ghi trên trang bài (không có giờ)",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "Doanh thu của nhóm 600 nhà thầu chuyên ngành lớn nhất Mỹ (ENR Top 600) tăng 14,7% lên 275,1 tỷ USD năm ngoái, nhờ nhu cầu xây hạ tầng AI, nhất là trung tâm dữ liệu. Doanh thu mảng viễn thông của nhóm tăng 65%; thị trường xử lý công nghiệp, điện và cấp nước tăng mạnh, trong khi chất thải nguy hại và sản xuất giảm. Nhu cầu lao động có tay nghề tăng vọt.",
+      "why_it_matters": "Trung tâm dữ liệu đang hút nhà thầu cơ điện và thiết bị điện; nếu xu hướng lan sang châu Á, giá và thời gian giao thiết bị điện (máy biến áp, tủ điện) có thể bị kéo căng.",
+      "tags": [
+        "ENR",
+        "trung tâm dữ liệu",
+        "nhà thầu chuyên ngành",
+        "nhân lực"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "khảo sát/báo cáo",
+      "how_read": "Mở trang bài gốc, đọc phần đầu (số liệu tổng hợp và các đoạn về thị trường); phần còn lại là phỏng vấn doanh nghiệp.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-17-uu-dai-mua-nha-mat-tac-dung",
+      "title": "Nhiều 'chiêu' ưu đãi mua nhà dần mất tác dụng",
+      "title_vi": "Nhiều “chiêu” ưu đãi mua nhà dần mất tác dụng",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử"
+      },
+      "url": "https://vnexpress.net/nhieu-chieu-uu-dai-mua-nha-dan-mat-tac-dung-5134178.html",
+      "published": "2026-10-26T04:00:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Chiết khấu 20–30%, hỗ trợ lãi vay, giãn tiến độ thanh toán nhưng nhiều chủ đầu tư vẫn khó kéo sức mua. Một dự án ở Bình Dương cũ áp dụng chiết khấu đến 15% và lãi suất 0% trong 12 tháng nhưng sức mua chỉ đạt 35% kế hoạch. Theo One Mount Group, giao dịch nhà đất TP HCM quý III giảm 83% theo quý; Savills ghi nhận tỷ lệ hấp thụ căn hộ sơ cấp TP HCM khoảng 25%, nhà thấp tầng 14%.",
+      "why_it_matters": "Khi sức mua yếu, chủ đầu tư thường giãn tiến độ — ảnh hưởng kế hoạch đấu thầu và dòng tiền thanh toán nhà thầu/nhà cung cấp; nên theo dõi sát lịch bàn giao.",
+      "tags": [
+        "bất động sản",
+        "TP HCM",
+        "ưu đãi",
+        "sức mua",
+        "căn hộ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-18-noxh-khong-ban-tu-do",
+      "title": "Nhà ở xã hội dự kiến không được bán lại tự do sau 5 năm",
+      "title_vi": "Nhà ở xã hội dự kiến không được bán lại tự do sau 5 năm",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử"
+      },
+      "url": "https://vnexpress.net/nha-o-xa-hoi-du-kien-khong-duoc-ban-lai-tu-do-sau-5-nam-5136578.html",
+      "published": "2026-10-25T13:05:28+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Dự thảo Luật Nhà ở (sửa đổi) đề xuất sau 5 năm, người mua nhà ở xã hội chỉ được bán lại cho người đủ điều kiện mua nhà ở xã hội, thay vì chuyển nhượng tự do như luật hiện hành. Dự thảo cũng bỏ quy định cứng tỷ lệ tối đa 20% đất dành cho thương mại – dịch vụ và mức lợi nhuận định mức tối đa 10% cho chủ đầu tư, giao Chính phủ quy định chi tiết.",
+      "why_it_matters": "Bỏ trần lợi nhuận và tỷ lệ đất thương mại có thể làm dự án nhà ở xã hội hấp dẫn hơn với doanh nghiệp — tạo thêm nguồn gói thầu chi phí tối ưu, đòi hỏi tổ thầu tối ưu vật tư giá rẻ.",
+      "tags": [
+        "nhà ở xã hội",
+        "Luật Nhà ở",
+        "chính sách"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-19-3-kich-ban-bds-cuoi-nam",
+      "title": "Dự báo 3 kịch bản cho bất động sản cuối năm 2026",
+      "title_vi": "Dự báo 3 kịch bản cho bất động sản cuối năm 2026 (DXS – FERI)",
+      "source": {
+        "name": "CafeF (theo VTC News)",
+        "kind": "báo kinh tế"
+      },
+      "url": "https://cafef.vn/du-bao-3-kich-ban-cho-bat-dong-san-cuoi-nam-2026-18826102509232225.chn",
+      "published": "2026-10-25T09:18:00+07:00",
+      "time_known": true,
+      "date_basis": "dòng thời gian trên trang bài (25-10-2026 09:18 AM; trang không ghi múi giờ, hiểu là giờ Việt Nam)",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Viện DXS – FERI đưa ra ba kịch bản. Kịch bản kỳ vọng (xác suất cao nhất): nguồn cung tăng khoảng 20–30%, lãi suất thả nổi 11–13%, giá đi ngang hoặc tăng nhẹ, hấp thụ 25–40%. Kịch bản thách thức: lãi suất 13–15%, hấp thụ dưới 20%. Kịch bản lý tưởng: lãi suất 9–11%, giá tăng 5–10%.",
+      "why_it_matters": "Lãi suất là biến số chính; với tổ mua sắm, kịch bản kỳ vọng nghĩa là nguồn cung dự án tăng nhưng chủ đầu tư sẽ ép giá thầu mạnh hơn.",
+      "tags": [
+        "bất động sản",
+        "kịch bản",
+        "lãi suất",
+        "DXS"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "khảo sát/báo cáo",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-20-ha-noi-siet-cong-truong",
+      "title": "Hà Nội siết quản lý công trường, giảm áp lực ùn tắc giao thông",
+      "title_vi": "Hà Nội siết quản lý công trường: 62 vị trí rào chắn tại 11 dự án trọng điểm",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo ngành (Bộ Xây dựng)"
+      },
+      "url": "https://baoxaydung.vn/ha-noi-siet-quan-ly-cong-truong-giam-ap-luc-un-tac-giao-thong-192261025083117299.htm",
+      "published": "2026-10-25T14:00:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Tính đến 22/10, Hà Nội có 11 dự án trọng điểm với 62 vị trí rào chắn thi công (đường bộ, đường sắt đô thị, thoát nước). Riêng hầm chui Cổ Linh có 6 vị trí rào chắn, một số đoạn trên Đàm Quang Trung dự kiến duy trì đến 30/4/2027; các dự án cầu Trần Hưng Đạo, cầu Tứ Liên cũng ảnh hưởng nhiều tuyến. Thành phố yêu cầu siết phối hợp thi công và phân luồng hợp lý.",
+      "why_it_matters": "Rào chắn kéo dài ảnh hưởng tuyến giao vật tư vào công trường nội đô; nên tính lại khung giờ và tuyến xe trong kế hoạch cung ứng.",
+      "tags": [
+        "Hà Nội",
+        "công trường",
+        "rào chắn",
+        "giao thông"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-21-duong-sat-vanh-dai-dong",
+      "title": "Quy hoạch tuyến đường sắt vành đai phía Đông Hà Nội dài hơn 48km",
+      "title_vi": "Quy hoạch tuyến đường sắt vành đai phía Đông Hà Nội dài hơn 48km",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo ngành (Bộ Xây dựng)"
+      },
+      "url": "https://baoxaydung.vn/quy-hoach-tuyen-duong-sat-vanh-dai-phia-dong-ha-noi-dai-hon-48-km-192261025171143338.htm",
+      "published": "2026-10-25T17:37:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Theo dự thảo quy hoạch các tuyến, ga đường sắt khu vực đầu mối Hà Nội, tuyến vành đai phía Đông (Ngọc Hồi – Thường Tín – Kim Sơn và các nhánh đi Lạc Đạo) được định hướng đường đôi, tốc độ thiết kế 120km/h. Dự án đoạn Ngọc Hồi – Kim Sơn do UBND TP Hà Nội làm cơ quan chủ quản, đã khởi công ngày 28/8/2026.",
+      "why_it_matters": "Hạ tầng đường sắt phía Đông/Nam Hà Nội có thể thay đổi giá trị quỹ đất và nhu cầu vật liệu khu vực Thường Tín, Gia Lâm trong vài năm tới.",
+      "tags": [
+        "đường sắt",
+        "Hà Nội",
+        "quy hoạch",
+        "hạ tầng"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc phần mở đầu và các đoạn mô tả tuyến; chưa đọc hết phần danh mục ga.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "n-20261026-22-nguoi-tieu-dung-than-trong",
+      "title": "Người tiêu dùng thận trọng chi tiêu",
+      "title_vi": "Người tiêu dùng thận trọng chi tiêu: tăng trưởng chủ yếu do giá",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử"
+      },
+      "url": "https://vnexpress.net/nguoi-tieu-dung-than-trong-chi-tieu-5136664.html",
+      "published": "2026-10-25T18:28:58+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Theo YouNet ECI, GMV 9 tháng trên Shopee, TikTok Shop, Lazada, Tiki đạt khoảng 15,8 tỷ USD nhưng sản lượng bán ra gần như đi ngang 4 quý liên tiếp — tăng trưởng chủ yếu do giá. Tổng mức bán lẻ và dịch vụ 9 tháng tăng 13,4%, loại trừ lạm phát còn 7,8%, thấp hơn tăng trưởng GDP; CPI bình quân 9 tháng 4,52%.",
+      "why_it_matters": "Người tiêu dùng “mua có kiểm soát” — với các ý tưởng kinh doanh nhỏ hôm nay, giá vào cửa thấp và trải nghiệm rõ ràng quan trọng hơn sản phẩm đắt tiền.",
+      "tags": [
+        "tiêu dùng",
+        "TMĐT",
+        "lạm phát",
+        "bán lẻ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "unreachable": [
+    {
+      "source": "Construction Dive / Supply Chain Dive (curl)",
+      "status": "HTTP 403 khi tải bằng curl",
+      "impact": "Đã đọc lại đầy đủ qua WebFetch (mục 6, 13); không mất tin."
+    },
+    {
+      "source": "Bricks & Bytes (curl)",
+      "status": "HTTP 202, nội dung rỗng",
+      "impact": "Đã đọc đầy đủ qua WebFetch (mục 3)."
+    },
+    {
+      "source": "Yonhap (yna.co.kr)",
+      "status": "curl không kết nối được (mã 000)",
+      "impact": "Không có tin Hàn Quốc từ Yonhap hôm nay."
+    },
+    {
+      "source": "Construction Dive — “Commercial groundbreakings plunged in September”",
+      "status": "HTTP 403 bằng curl; không ưu tiên đọc lại",
+      "impact": "Không đưa vào bộ tin."
+    }
+  ]
+}

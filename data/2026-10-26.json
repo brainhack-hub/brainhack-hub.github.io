@@ -1,0 +1,3603 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T14:30:00+07:00",
+  "headline": "Chơi như trẻ con, làm bằng tay: bếp hỗn loạn, sticker dựng cảnh, thẻ sưu tầm 6 tệ — và bánh gạo phủ pizza từ Hàn",
+  "summary": "Trung Quốc vẫn là trọng tâm: mô hình ‘胡闹厨房’ (nấu ăn nhóm kiểu Overcooked) lan nhiều thành phố, sticker dựng cảnh nóng trong khi cửa hàng hạt ủi đóng cửa hàng loạt, ‘bạn đồng hành trả phí’, thẻ nhỏ 6 tệ, cốc đá. Nhật: app vlog 2 giây setlog, sticker Bondrop; Hàn: cửa hàng tiện lợi thành kênh làm đẹp và món trend (pizza jeolpyeon), pop-up; Mỹ: báo cáo ‘kidulting’ của Harris Poll. 8 ý tưởng mới nhỏ, vui, có bộ công cụ đã kiểm giá ngày 26/10 — phần lớn phần Việt Nam là giả thuyết cần thử 1 tuần.",
+  "trends": [
+    {
+      "id": "20261026-t1-ho-nao-tru-phong",
+      "title": "“胡闹厨房” — bếp hỗn loạn ngoài đời thật cứu các nông trại ăn uống ở TQ",
+      "summary": "Mô phỏng game Overcooked: nhóm bạn trẻ nhận “đơn”, chia việc, nấu vài món trong 2–3 giờ ở sân vườn/nông trại. Lan từ mô hình “bếp của bà” ở Chiang Mai sang Thượng Hải (cuối tháng 6) rồi nhiều thành phố; Baidu realtime 26/10 có mục “农家乐杀回来了”.",
+      "why_it_matters": "Trải nghiệm nhóm giá vừa, cho phép ‘làm hỏng cũng vui’ — hợp xu hướng chơi theo nhóm và quay clip. Nền cho ý tưởng #1.",
+      "tags": [
+        "trải nghiệm",
+        "nấu ăn",
+        "Gen Z",
+        "nông trại",
+        "game hóa"
+      ],
+      "regions": [
+        "CN",
+        "SEA"
+      ],
+      "key_facts": [
+        {
+          "text": "Mô hình đang có ở nhiều thành phố TQ với giá khoảng 100–200 NDT/người (Hàng Châu 198 NDT/người, vé đi kèm 98 NDT; Thường Châu khoảng 100–200 NDT).",
+          "source_ids": [
+            "ifeng_hz",
+            "ifeng_cz",
+            "n163_hn"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Hàng Châu (Long Ổ): hơn 700 lượt khách dịp Quốc khánh, hơn 5.000 lượt từ khi mở; khách chủ yếu sinh sau 2000.",
+          "source_ids": [
+            "ifeng_hz"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Bản sao đầu tiên ở TQ là “村野里” (Tùng Giang, Thượng Hải) lên sóng cuối tháng 6; nay có ở Tế Nam, Hàng Châu, Hạ Môn, Thành Đô… Bài cũng nêu hơn 8,4 vạn nông trại ăn uống (农家乐) đã giải thể.",
+          "source_ids": [
+            "n163_hn"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Điểm yếu đã được nêu: đặt chỗ lộn xộn, một hướng dẫn viên có lúc phải lo 30–40 người.",
+          "source_ids": [
+            "pedaily"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ifeng_hz",
+          "name": "凤凰网 (大风号)",
+          "title": "一群00后，为什么抢着来杭州龙坞这间厨房“胡闹”",
+          "url": "https://feng.ifeng.com/c/8xTtbANT8xZ",
+          "published": "2026-10-24",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "ifeng_cz",
+          "name": "凤凰网 (大风号)",
+          "title": "常州小清迈，真火",
+          "url": "https://feng.ifeng.com/c/8xOcHQKUBZL",
+          "published": "2026-10-21",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "n163_hn",
+          "name": "网易 (湘菜人微报)",
+          "title": "真人版“胡闹厨房”爆火，农家乐退潮后，院子餐饮找到新玩法",
+          "url": "https://c.m.163.com/news/a/L91GGKMT0522858F.html",
+          "published": "2026-10-12",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "pedaily",
+          "name": "投资界 (PEdaily)",
+          "title": "打工人排队体验新型农家乐",
+          "url": "https://news.pedaily.cn/202607/566935.shtml",
+          "published": "2026-07-29",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "baidu_rt",
+          "name": "Baidu 百度热搜 (mục #31)",
+          "title": "被年轻人抛弃的农家乐杀回来了",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 26/10 ~07:00 (UTC+7); mô tả: 重庆等地农家乐引入“胡闹厨房”真人体验，客流爆满."
+        }
+      ]
+    },
+    {
+      "id": "20261026-t2-sticker-dung-canh",
+      "title": "Sticker dựng cảnh (造景贴纸) & “kinh tế tự tay làm” — nhưng cửa hàng hạt ủi (拼豆) đóng cửa hàng loạt",
+      "summary": "Sticker PET nhiều lớp dán thành cảnh nhỏ đang rất nóng trên Xiaohongshu/Douyin; cùng lúc, chuỗi cửa hàng trải nghiệm hạt ủi mọc ồ ạt rồi đóng cửa vì chiến tranh giá.",
+      "why_it_matters": "Sản phẩm rẻ, tự làm tại nhà thì bền hơn mô hình cửa hàng trải nghiệm dễ sao chép — bài học cho ý tưởng #2 và #7.",
+      "tags": [
+        "sticker",
+        "DIY",
+        "手搓经济",
+        "cảnh báo"
+      ],
+      "regions": [
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "Chủ đề “造景贴纸” trên Xiaohongshu vượt 10,9 tỷ lượt xem; trên Douyin hơn 2,5 tỷ lượt phát; nhiều mẫu ở 九木杂物社 hết hàng; với 森游文化, sticker dựng cảnh chiếm hơn 70% doanh thu.",
+          "source_ids": [
+            "zjol"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Họa sĩ được trả khoảng 10–16 NDT cho mỗi sticker; nhà sản xuất nhấn mạnh nét vẽ tay của họa sĩ là giá trị chính.",
+          "source_ids": [
+            "zjol"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Cửa hàng hạt ủi: đến tháng 10/2026 có 7.747 doanh nghiệp liên quan, 7.154 lập trong vòng một năm; giá rơi xuống mức 9,9 NDT chơi cả ngày, nhiều nơi lỗ và đóng cửa.",
+          "source_ids": [
+            "qq_pindou",
+            "jj21_pindou"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Một chủ tiệm ở Thành Đô kể giá mỗi người từ 49 NDT lúc đỉnh xuống 19,9 NDT; chuyên gia nhận định lý do chính là trải nghiệm dễ bị thay thế bằng bộ đồ mua online.",
+          "source_ids": [
+            "jj21_pindou"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "zjol",
+          "name": "浙江新闻 (zjol)",
+          "title": "方寸之间拼出小世界 造景贴纸爆火背后的“手搓经济”",
+          "url": "https://zjnews.zjol.com.cn/yc/qmt/202610/t20261015_31965786.shtml",
+          "published": "2026-10-15",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "qq_pindou",
+          "name": "腾讯新闻",
+          "title": "从排队到9.9元也无人问津，2026最火爆的拼豆生意，开始批量倒闭了",
+          "url": "https://news.qq.com/rain/a/20261021A09FUT00",
+          "published": "2026-10-21",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "jj21_pindou",
+          "name": "21经济网 (羊城派)",
+          "title": "网红拼豆店出现倒闭潮，“三个月亏了10万”“半年收不回本”等信息充斥网络",
+          "url": "https://www.21jingji.com/article/20261024/herald/2bdacc011072dadc160c7e0aa8006117.html",
+          "published": "2026-10-24",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        }
+      ]
+    },
+    {
+      "id": "20261026-t3-tra-tien-ban-dong-hanh",
+      "title": "Trả tiền cho “bạn đồng hành” (付费搭子/陪拍): chụp ảnh, thể thao, đi chơi",
+      "summary": "Người trẻ TQ trả tiền theo giờ cho bạn chụp ảnh đi cùng, bạn đánh cầu, bạn leo núi — thay cho việc nhờ người quen. Baidu 26/10 có mục “年轻人热衷付费社交”. Báo chí cũng nêu vùng xám và rủi ro an toàn.",
+      "why_it_matters": "Dịch vụ “nhẹ” cho người đi một mình — nền của ý tưởng #5, nhưng bắt buộc có quy tắc an toàn.",
+      "tags": [
+        "dịch vụ",
+        "du lịch một mình",
+        "chụp ảnh",
+        "an toàn"
+      ],
+      "regions": [
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "Giá “陪拍” (đi cùng chụp ảnh) phổ biến khoảng 35–150 NDT/giờ: 35–69 NDT/giờ, nửa ngày 200–300 NDT (một sinh viên năm 3 ở Vũ Hán); 40–150 NDT/giờ theo bài khác.",
+          "source_ids": [
+            "thepaper_pp",
+            "qq_peipai"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Chủ đề “陪拍” trên Xiaohongshu có 15,2 tỷ lượt xem; khảo sát của ĐH Phục Đán (2025) cho thấy khoảng 56% sẵn sàng trả tiền cho “hỗ trợ cảm xúc”.",
+          "source_ids": [
+            "qq_peipai"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Chuyên gia (欧阳日辉) gọi đây là ‘thương mại hóa giá trị cảm xúc’, đồng thời cảnh báo ranh giới an toàn còn mờ.",
+          "source_ids": [
+            "bjd"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "72,6% thanh niên được khảo sát có “搭子”; báo chí phát hiện các trò lừa như thu phí lập nhóm, ‘chim mồi’ quán rượu.",
+          "source_ids": [
+            "chinanews"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "thepaper_pp",
+          "name": "澎湃新闻 (澎湃号·金融八卦女)",
+          "title": "国庆的孤独生意：花200块，买一个不让你尴尬的人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34210504",
+          "published": "2026-10-08",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "qq_peipai",
+          "name": "腾讯新闻 (极目新闻)",
+          "title": "花40块请人陪拍，年轻人买的是照片还是陪伴？",
+          "url": "https://news.qq.com/rain/a/20260915A0DBDL00",
+          "published": "2026-09-15",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "bjd",
+          "name": "北京日报客户端",
+          "title": "年轻人热衷付费社交，新业态如何守住安全边界？",
+          "url": "https://xinwen.bjd.com.cn/content/s6addf4d8e4b0e42f8f020bdf.html",
+          "published": "2026-10-25",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "chinanews",
+          "name": "中新网",
+          "title": "收费组局、酒托引流、地陪暗语交易……社交平台“求搭”乱象调查",
+          "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711877.shtml",
+          "published": "2026-10-12",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        }
+      ]
+    },
+    {
+      "id": "20261026-t4-coc-da",
+      "title": "Cốc đá đóng sẵn (冰杯) bán chạy hơn cả cà phê ở cửa hàng tiện lợi TQ",
+      "summary": "Baidu #5 ngày 26/10: “人均48杯 冰杯卖得比咖啡还疯”. Người trẻ mua cốc đá để tự pha đồ uống (DIY) thay vì mua đồ uống pha sẵn.",
+      "why_it_matters": "Chỉ là tín hiệu hành vi ‘tự pha cho rẻ’; VN đã có đá viên/đá túi phổ biến nên không đưa thành ý tưởng riêng hôm nay.",
+      "tags": [
+        "đồ uống",
+        "tiện lợi",
+        "DIY"
+      ],
+      "regions": [
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "Người ở thành phố cấp 1 tiêu thụ trung bình 48 cốc đá/năm (theo sách trắng 2025 được dẫn lại); chủ đề “冰杯” trên Xiaohongshu có 41,5 vạn thảo luận, 1,2 tỷ lượt xem.",
+          "source_ids": [
+            "jj21_ice"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Một khảo sát được dẫn: 69% người mua dùng cốc đá để tự pha đồ uống; giá phổ biến 3–5 NDT.",
+          "source_ids": [
+            "yicai_ice"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Bài Yicai là bài mùa hè (cũ), chỉ dùng làm bối cảnh."
+        }
+      ],
+      "sources": [
+        {
+          "id": "jj21_ice",
+          "name": "21经济网",
+          "title": "人均48杯，卖得比咖啡还疯",
+          "url": "https://www.21jingji.com/article/20261025/herald/c4aefc901b4ec0b5191fe2a71e2f82fc.html",
+          "published": "2026-10-25",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "yicai_ice",
+          "name": "第一财经 (Yicai)",
+          "title": "夏日经济| 比同重量饮用水贵2倍，“卖冰”到底是不是门暴利生意",
+          "url": "https://www.yicai.com/news/102699847.html",
+          "published": null,
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Trang không hiển thị rõ ngày đăng khi đọc bằng máy; nội dung là mùa hè (bài cũ, chỉ dùng làm bối cảnh)."
+        },
+        {
+          "id": "baidu_rt",
+          "name": "Baidu 百度热搜 (mục #31)",
+          "title": "被年轻人抛弃的农家乐杀回来了",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 26/10 ~07:00 (UTC+7); mô tả: 重庆等地农家乐引入“胡闹厨房”真人体验，客流爆满."
+        }
+      ]
+    },
+    {
+      "id": "20261026-t5-the-nho-6-te",
+      "title": "Thẻ nhỏ 6 tệ (Hitcard) giữ chân Gen Z giữa lúc thị trường thẻ suy giảm",
+      "summary": "Baidu #40: “一张6元小卡凭什么硬控00后”. Thẻ phim/truyện giá thấp, bán kiểu blind box, thẻ hiếm có ký tên được bán lại giá rất cao. Mỹ: thẻ sưu tầm nằm trong nhóm sản phẩm ‘kidulting’ mà người trẻ mua nhiều.",
+      "why_it_matters": "Cơ chế ‘độ hiếm + giá vào cửa thấp’ áp được cho sản phẩm cá nhân hóa (ý tưởng #4) — nhưng cần thận trọng vì phân khúc thẻ phổ thông đang co lại.",
+      "tags": [
+        "thẻ sưu tầm",
+        "blind box",
+        "IP",
+        "Gen Z"
+      ],
+      "regions": [
+        "CN",
+        "US"
+      ],
+      "key_facts": [
+        {
+          "text": "Một hộp thẻ phim có giá trung bình khoảng 6,6 NDT/thẻ; thẻ ký tên được bán lại tới 3.788 NDT; Hitcard nói tỷ lệ mua lại hằng tháng khoảng 40%, mua chéo IP hơn 20% (số liệu do công ty cung cấp).",
+          "source_ids": [
+            "hit163"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "GMV thẻ không dùng để đấu năm 2025 giảm 26,8% còn 235 tỷ NDT; thẻ phổ thông giảm hơn 40% trong khi thẻ trên 10 NDT tăng 29% (số liệu dẫn trong bài).",
+          "source_ids": [
+            "hit163"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Mỹ: 57% Gen Z & Millennials đã mua thẻ sưu tầm cho bản thân trong 12 tháng qua, so với 16% ở nhóm lớn tuổi hơn.",
+          "source_ids": [
+            "harris"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "hit163",
+          "name": "网易 (转载 虎嗅)",
+          "title": "一张6元小卡，凭什么硬控00后？",
+          "url": "https://m.163.com/dy/article/LA3P0KGE051188EA.html",
+          "published": "2026-10-25",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Bản ZAKER cùng nội dung là đăng lại — không tính là nguồn độc lập."
+        },
+        {
+          "id": "harris",
+          "name": "The Harris Poll",
+          "title": "The Rise of Kidulting Report (October 2026)",
+          "url": "https://theharrispoll.com/wp-content/uploads/2026/10/The-Rise-of-Kidulting-Report-October-2026.pdf",
+          "published": "2026-10",
+          "accessed": "2026-10-26",
+          "how_read": "mở file PDF",
+          "note": "Khảo sát online 2.158 người trưởng thành Mỹ, 25–27/6/2026."
+        },
+        {
+          "id": "baidu_rt",
+          "name": "Baidu 百度热搜 (mục #31)",
+          "title": "被年轻人抛弃的农家乐杀回来了",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 26/10 ~07:00 (UTC+7); mô tả: 重庆等地农家乐引入“胡闹厨房”真人体验，客流爆满."
+        }
+      ]
+    },
+    {
+      "id": "20261026-t6-nhat-setlog-sticker",
+      "title": "Nhật: app vlog 2 giây “setlog”, sticker phồng Bondrop và Chiikawa dẫn xu hướng học sinh",
+      "summary": "Khảo sát học sinh THPT (Wakamono Research, 10/2026): setlog là thứ đang thịnh hành số 1; Chiikawa áp đảo nhân vật. Sticker phồng Bondrop vượt 45 triệu tấm nhưng ‘cơn sốt sticker’ đang hạ nhiệt ở cửa hàng.",
+      "why_it_matters": "Nội dung ‘ghi lại cùng bạn bè, không chạy theo lượt thích’ và đồ sưu tầm dán giá rẻ — nền cho ý tưởng #3 và #2.",
+      "tags": [
+        "Nhật",
+        "setlog",
+        "sticker",
+        "Chiikawa",
+        "học sinh"
+      ],
+      "regions": [
+        "JP"
+      ],
+      "key_facts": [
+        {
+          "text": "setlog — app quay mỗi lần 2 giây ghép thành vlog trong ngày — đứng số 1 bảng ‘đang thịnh hành’ với 33,9% học sinh THPT chọn; điểm cộng là không phải lo số follower/lượt thích.",
+          "source_ids": [
+            "wakamono"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Khảo sát 479 học sinh–sinh viên (7/2026): 91,4% biết setlog, 73,7% đang dùng, 93,1% bắt đầu dùng trong 3 tháng gần nhất; 51,0% nghĩ đây là trào lưu nhất thời.",
+          "source_ids": [
+            "parente"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "setlog được hai khảo sát độc lập ghi nhận là trào lưu lớn của học sinh Nhật mùa thu 2026.",
+          "source_ids": [
+            "wakamono",
+            "parente"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Bondrop (sticker phồng) vượt 45 triệu tấm xuất xưởng tính đến cuối 9/2026.",
+          "source_ids": [
+            "xtrend"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Cơn sốt sticker nói chung đang hạ nhiệt: nhiều cửa hàng giảm giá sticker, dù riêng Bondrop vẫn khó mua.",
+          "source_ids": [
+            "shueisha",
+            "xtrend"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Chiikawa là nhân vật được 51,9% học sinh chọn; LINE Research (15–24 tuổi, 9/2026) cũng xếp Chiikawa số 1.",
+          "source_ids": [
+            "wakamono",
+            "line_res"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Nguồn LINE Research mới đọc qua đoạn trích tìm kiếm."
+        }
+      ],
+      "sources": [
+        {
+          "id": "wakamono",
+          "name": "ワカモノリサーチ",
+          "title": "令和の高校生の流行語1位は「メロい」！SNSは「setlog」…2026年秋の最新トレンド",
+          "url": "https://wakamono-research.co.jp/media/reiwa-teens-top-trends/",
+          "published": "2026-10-09",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "parente",
+          "name": "PR TIMES (株式会社パレンテ)",
+          "title": "話題のVlogアプリ「Setlog」の利用実態を学生479名に調査！認知率91.4%…",
+          "url": "https://prtimes.jp/main/html/rd/p/000000102.000033964.html",
+          "published": "2026-08-03",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "xtrend",
+          "name": "日経クロストレンド",
+          "title": "ボンボンドロップが4500万枚突破　平成女児だけじゃない熱狂の真の理由",
+          "url": "https://xtrend.nikkei.com/atcl/contents/18/00589/00372/",
+          "published": "2026-10-26",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang (chỉ phần miễn phí; phần sau cần trả phí)",
+          "note": "Chỉ đọc phần mở đầu miễn phí; số 45 triệu tấm nằm trong tiêu đề/phần miễn phí."
+        },
+        {
+          "id": "shueisha",
+          "name": "集英社オンライン",
+          "title": "「シールブーム終了？」店では値引きしまくり…火付け役“ボンドロ”のメーカーにもきいてみた",
+          "url": "https://shueisha.online/articles/-/259012",
+          "published": "2026-10-25",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "line_res",
+          "name": "PR TIMES (LINEヤフー / LINEリサーチ)",
+          "title": "【LINEリサーチ】若年層の流行に関する定点調査（2026年9月）",
+          "url": "https://prtimes.jp/main/html/rd/p/000001827.000129774.html",
+          "published": "2026-10-23",
+          "accessed": "2026-10-26",
+          "how_read": "qua kết quả tìm kiếm (không mở được/không mở trang gốc)",
+          "note": "Chỉ đọc đoạn trích kết quả tìm kiếm (Nikkei/PR TIMES/note) — chưa mở trang gốc."
+        }
+      ]
+    },
+    {
+      "id": "20261026-t7-han-tien-loi-trai-nghiem",
+      "title": "Hàn: cửa hàng tiện lợi thành kênh làm đẹp–thời trang, pop-up hút người 20+, bánh gạo biến tấu",
+      "summary": "Cửa hàng tiện lợi Hàn bán mỹ phẩm mini, quần áo; CU ra “pizza jeolpyeon” (bánh gạo phủ topping pizza) theo trào lưu pizza seolgi; pop-up dày đặc ở Seongsu. GS25 có 448 cửa hàng ở Việt Nam.",
+      "why_it_matters": "Hai mạch hữu ích cho VN: (1) biến tấu món truyền thống kiểu ‘bánh gạo + topping’ (ý tưởng #6); (2) theo dõi chuỗi tiện lợi Hàn như một kênh tiêu dùng trẻ (ý tưởng #8).",
+      "tags": [
+        "Hàn Quốc",
+        "tiện lợi",
+        "pop-up",
+        "bánh gạo",
+        "mỹ phẩm mini"
+      ],
+      "regions": [
+        "KR",
+        "SEA"
+      ],
+      "key_facts": [
+        {
+          "text": "CU: doanh thu mỹ phẩm trang điểm 1–8/2026 tăng 212,1% (cửa hàng chuyên làm đẹp +301,5%); GS25: dòng mỹ phẩm đồng giá 3.000 won tăng 108,3% (1–9/2026).",
+          "source_ids": [
+            "ezy"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Tính đến cuối 9/2026, GS25 có 740 cửa hàng ở nước ngoài, trong đó 448 ở Việt Nam; CU có 915 cửa hàng nước ngoài.",
+          "source_ids": [
+            "asiae"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "CU bán “피자절편” (bánh gạo jeolpyeon phủ sốt cà chua, phô mai, pepperoni) giá 3.800 won từ 8/10; lượng nhắc tới “피자설기” trên MXH từ dưới 100 (tháng 4) lên hơn 10.000 (tháng 9) theo dữ liệu CU dẫn.",
+          "source_ids": [
+            "bgf",
+            "segye"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Segye dẫn lại số liệu của CU nên con số lượt nhắc chỉ tính là 1 nguồn gốc."
+        },
+        {
+          "text": "Trào lưu bánh gạo biến tấu (pizza seolgi, bánh gạo bơ, bánh gạo kiểu Dubai) đã lan sang GS25, 7-Eleven, emart24 và đại siêu thị.",
+          "source_ids": [
+            "segye",
+            "bgf"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "72% khách đến pop-up nửa đầu năm ở độ tuổi 20 (dữ liệu Sweetspot); riêng tháng 10/2026 có 138 pop-up ở Seoul, 26 ở Seongsu.",
+          "source_ids": [
+            "sedaily",
+            "dealseoul"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ezy",
+          "name": "이지경제 (EZY Economy)",
+          "title": "[EZ 클릭] 간편식 넘어 패션·뷰티까지···편의점, 상품 다변화 속도",
+          "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=240988",
+          "published": "2026-10-20",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "asiae",
+          "name": "아시아경제 (The Asia Business Daily)",
+          "title": "해외 점포 1800개 넘었다…K편의점, 신흥시장 공략 가속",
+          "url": "https://www.asiae.co.kr/article/2026101909250779299",
+          "published": "2026-10-19",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang (qua WebFetch; curl không kết nối được)",
+          "note": "Đọc toàn văn qua WebFetch (công cụ đọc trang), không phải bản trích."
+        },
+        {
+          "id": "bgf",
+          "name": "BGF Live (thông cáo của BGF Retail/CU)",
+          "title": "CU, 요즘 SNS에서 핫한 K-디저트 ‘피자절편’ 출시!",
+          "url": "https://www.bgf.co.kr/bgflive/view/?categoryId=1&id=2060",
+          "published": "2026-10-12",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "segye",
+          "name": "세계일보 (Segye Ilbo)",
+          "title": "두쫀쿠·버터떡 다음은 '피자절편'…편의점까지 번진 이색 떡 열풍",
+          "url": "https://www.segye.com/newsView/20261025502072",
+          "published": "2026-10-25",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "sedaily",
+          "name": "Seoul Economic Daily (bản tiếng Anh)",
+          "title": "Gen Z Shoppers Chase Hands-On Experiences at Markets and Malls",
+          "url": "https://en.sedaily.com/finance/2026/08/27/gen-z-flocks-to-dongdaemun-market-for-hands-on-shopping",
+          "published": "2026-08-27",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "dealseoul",
+          "name": "DealSeoul",
+          "title": "Seoul pop-ups in October 2026",
+          "url": "https://dealseoul.com/popups/october-2026",
+          "published": null,
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Trang danh sách, không ghi ngày đăng."
+        }
+      ]
+    },
+    {
+      "id": "20261026-t8-my-kidulting",
+      "title": "Mỹ: “kidulting” — người lớn chơi như trẻ con, chi tiền cho sticker, thẻ, không gian chơi",
+      "summary": "Báo cáo Harris Poll (10/2026): 80% người Mỹ và 94% Gen Z tham gia hoạt động vui chơi cho bản thân trong năm qua; khoảng 8/10 người trẻ đến không gian chơi/nhà hàng theo chủ đề.",
+      "why_it_matters": "Củng cố tín hiệu cho trải nghiệm nhóm (#1), sticker (#2), thẻ sưu tầm (#4) — nhưng là dữ liệu Mỹ, cần kiểm lại ở VN.",
+      "tags": [
+        "Mỹ",
+        "kidulting",
+        "khảo sát",
+        "sưu tầm"
+      ],
+      "regions": [
+        "US"
+      ],
+      "key_facts": [
+        {
+          "text": "65% Gen Z & Millennials mua sách tô màu/sticker cho bản thân trong 12 tháng (so với 30% nhóm lớn tuổi); 65% mua bộ đồ thủ công; 57% mua thẻ sưu tầm.",
+          "source_ids": [
+            "harris"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Khoảng 8/10 người trẻ đến không gian vui chơi thực tế và nhà hàng/quán bar theo chủ đề — cao hơn trung bình 20 điểm %; 56% Gen Z thà ‘chơi’ (blind box, mô hình, sưu tầm) còn hơn gặp nhà trị liệu.",
+          "source_ids": [
+            "harris"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "harris",
+          "name": "The Harris Poll",
+          "title": "The Rise of Kidulting Report (October 2026)",
+          "url": "https://theharrispoll.com/wp-content/uploads/2026/10/The-Rise-of-Kidulting-Report-October-2026.pdf",
+          "published": "2026-10",
+          "accessed": "2026-10-26",
+          "how_read": "mở file PDF",
+          "note": "Khảo sát online 2.158 người trưởng thành Mỹ, 25–27/6/2026."
+        }
+      ]
+    },
+    {
+      "id": "20261026-t9-cho-phien-tre",
+      "title": "Chợ phiên trẻ (青年市集) ở TQ: người bán bán thời gian, khách chi dưới 100 tệ",
+      "summary": "Tân Khoái Báo (26/10): giới trẻ “quay về gần nhà”, chợ phiên sáng tạo thành nơi thử bán hàng chi phí thấp; ở Hà Nội cũng có lịch chợ sáng tạo dày (Big Village Project, Craftopia).",
+      "why_it_matters": "Người bán lần đầu cần trọn bộ dụng cụ bày bán mà không muốn mua — nền của ý tưởng #7.",
+      "tags": [
+        "chợ phiên",
+        "người bán nhỏ",
+        "bán thời gian"
+      ],
+      "regions": [
+        "CN",
+        "VN"
+      ],
+      "key_facts": [
+        {
+          "text": "75% khách chợ sáng tạo đô thị 18–35 tuổi; 62,4% chi dưới 100 NDT/lần; 67% chủ sạp làm bán thời gian.",
+          "source_ids": [
+            "xkb"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hà Nội: Big Village Project lần thứ 8 (17/10, vé 110.000đ) bày đồ handmade, đổi đồ; Craftopia × Lotte Mall Tây Hồ 30/10–1/11 có đồ thủ công, local brand.",
+          "source_ids": [
+            "cityguide",
+            "somo"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "id": "xkb",
+          "name": "新快报 (bản báo giấy điện tử)",
+          "title": "年轻人“重返附近” 青春经济让赶集焕发新生",
+          "url": "https://ep.ycwb.com/epaper/xkb/html/2026-10/26/content_1512_769981.htm",
+          "published": "2026-10-26",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "cityguide",
+          "name": "CityGuide Hà Nội",
+          "title": "Chợ sáng tạo «Big Village Project Vol.8»",
+          "url": "https://cityguide.vn/vn/hanoi/su-kien/so-thich-va-thu-cong/gap-go-theo-chu-de/cho-sang-tao-big-village-project-vol-8-868b6c13-097a-414d-bd70-da7be1ba796b",
+          "published": "2026-10-17",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Trang sự kiện; ngày là ngày diễn ra (17/10/2026)."
+        },
+        {
+          "id": "somo",
+          "name": "Somo (tự động liệt kê từ Facebook)",
+          "title": "CRAFTOPIA X LOTTE MALL WEST LAKE: COFFEE WEEKEND FAIR 2026",
+          "url": "https://somo.social/e/craftopia-x-lotte-mall-west-lake-coffee-weekend-fair-2026-10-30",
+          "published": "2026-10-30",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Trang sự kiện; ngày là ngày diễn ra (30/10–1/11/2026). Somo không phải ban tổ chức."
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "20261026-04-the-suu-tam-boss",
+      "date": "2026-10-26",
+      "title": "Thẻ sưu tầm “Boss” — biến ảnh mèo, chó thành bộ thẻ có chỉ số và độ hiếm, in bo góc theo yêu cầu",
+      "pitch": "Khách gửi 3–5 ảnh thú cưng; AI tạo bộ 5 thẻ cùng phong cách (thường, hiếm, siêu hiếm phủ nhũ) kèm chỉ số vui như ‘độ lười’, ‘kỹ năng xin pate’. In bo góc, ép lụa; bán 129–199 nghìn/bộ, thêm hộp blind pack cho hội nuôi mèo.",
+      "type": "startup",
+      "category": [
+        "ai",
+        "product",
+        "ecom"
+      ],
+      "tags": [
+        "thú cưng",
+        "thẻ sưu tầm",
+        "AI",
+        "quà tặng",
+        "in theo yêu cầu"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Chưa thấy cửa hàng VN chuyên thẻ sưu tầm thú cưng có độ hiếm (đã có công cụ tạo thẻ ở nước ngoài và tiệm in card bo góc cho fan K-pop) — chưa khảo sát kỹ. Phân khúc thẻ giá thấp ở TQ đang co lại; nhu cầu và giá là giả thuyết.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261026-04-the-suu-tam-boss.webp",
+      "image_alt": "Ba lá thẻ sưu tầm minh họa mèo và chó với khung lấp lánh, xếp quạt trên bàn cạnh hộp quà",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Gửi 3 tấm ảnh, 10 phút sau nhận bản nháp bộ thẻ ‘siêu hiếm’ của chính con mèo nhà mình — giữ đúng gương mặt thú cưng nhờ model ảnh nhất quán nhân vật.",
+        "tools": [
+          {
+            "tool_id": "nano_banana",
+            "role": "Biến ảnh thú cưng thành minh họa cùng phong cách, giữ nét mặt.",
+            "why": "Nano Banana 2.1 mô tả nhất quán nhân vật nhiều lượt; API khoảng $0,067/ảnh 1K (26/10).",
+            "alt_ids": [
+              "seedream",
+              "flux"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "claude",
+            "role": "Viết chỉ số vui, mô tả ‘kỹ năng’, nội dung bán hàng.",
+            "why": "Viết tiếng Việt tốt, làm kế hoạch–kịch bản dài có cấu trúc; Pro $17/tháng (trả năm) hoặc $20 (trả tháng) theo trang giá ngày 26/10.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Dàn khung thẻ, mặt sau, hộp.",
+            "why": "Mẫu thẻ có sẵn; giá gói trả phí chưa xác minh.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận ảnh và duyệt bản nháp với khách.",
+            "why": "Kênh quen thuộc; giá gói nâng cao chưa xác minh.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "payos",
+            "role": "Thu cọc QR.",
+            "why": "Miễn phí theo trang chủ (26/10).",
+            "alt_ids": [
+              "vietqr"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "tiktok_shop",
+            "role": "Bán bộ thẻ mẫu/ blind pack.",
+            "why": "Phí sàn chưa đọc được.",
+            "alt_ids": [
+              "shopee_seller"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "zalo_oa",
+            "payos"
+          ],
+          "monthly_cost_note": "≈ $0/tháng (bản Free); ảnh có thể tạo trong app Gemini (giới hạn gói Free chưa xác minh).",
+          "tradeoff": "Ít ảnh/ngày; làm tay nhiều."
+        },
+        "premium": {
+          "tool_ids": [
+            "nano_banana",
+            "claude",
+            "canva",
+            "zalo_oa",
+            "payos",
+            "tiktok_shop"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + ảnh Nano Banana (khoảng $0,067/ảnh, 100 ảnh ≈ $7) ≈ $25–30/tháng; phí sàn chưa xác minh.",
+          "tradeoff": "Tạo nhiều bản nháp nhanh, mở thêm kênh sàn."
+        },
+        "checked": "2026-10-26"
+      },
+      "regions": [
+        "CN",
+        "US"
+      ],
+      "signal_text": "TQ: Baidu #40 ngày 26/10 “一张6元小卡凭什么硬控00后”: thẻ khoảng 6,6 NDT/thẻ, thẻ hiếm ký tên bán lại tới 3.788 NDT; Hitcard nói tỷ lệ mua lại hằng tháng khoảng 40% (163/虎嗅 25/10). Mỹ: 57% Gen Z & Millennials mua thẻ sưu tầm cho bản thân trong 12 tháng (Harris 10/2026).",
+      "vn_youth_fit": "Người nuôi trẻ chi 200–500 nghìn cho combo thức ăn + phụ kiện, 72% doanh số thú cưng trên Shopee thuộc ngành mèo (thu-cung); Gen Z chịu chi cho món ‘cảm giác cao cấp’ giá hợp lý (xa-xi-vua-tui); bán qua Shopee/TikTok Shop (san-tmdt).",
+      "vn_fit_refs": [
+        "thu-cung",
+        "xa-xi-vua-tui",
+        "san-tmdt"
+      ],
+      "key_facts": [
+        {
+          "text": "Thẻ phim giá thấp ở TQ: trung bình khoảng 6,6 NDT/thẻ; thẻ ký tên bán lại tới 3.788 NDT; Hitcard nói mua lại hằng tháng khoảng 40%, mua chéo IP hơn 20%.",
+          "source_ids": [
+            "hit163"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Thị trường thẻ không dùng để đấu ở TQ 2025 giảm 26,8%, thẻ phổ thông giảm hơn 40%, thẻ trên 10 NDT tăng 29%.",
+          "source_ids": [
+            "hit163"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Mỹ: 57% Gen Z & Millennials đã mua thẻ sưu tầm cho bản thân trong 12 tháng (nhóm lớn tuổi 16%).",
+          "source_ids": [
+            "harris"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Ở nước ngoài đã có dịch vụ làm thẻ thú cưng theo yêu cầu (MyTradingCards).",
+          "source_ids": [
+            "mytc"
+          ],
+          "verification": "chưa xác minh",
+          "note": "Chỉ thấy qua kết quả tìm kiếm, chưa mở trang."
+        }
+      ],
+      "sources": [
+        {
+          "id": "hit163",
+          "name": "网易 (转载 虎嗅)",
+          "title": "一张6元小卡，凭什么硬控00后？",
+          "url": "https://m.163.com/dy/article/LA3P0KGE051188EA.html",
+          "published": "2026-10-25",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Bản ZAKER cùng nội dung là đăng lại — không tính là nguồn độc lập."
+        },
+        {
+          "id": "harris",
+          "name": "The Harris Poll",
+          "title": "The Rise of Kidulting Report (October 2026)",
+          "url": "https://theharrispoll.com/wp-content/uploads/2026/10/The-Rise-of-Kidulting-Report-October-2026.pdf",
+          "published": "2026-10",
+          "accessed": "2026-10-26",
+          "how_read": "mở file PDF",
+          "note": "Khảo sát online 2.158 người trưởng thành Mỹ, 25–27/6/2026."
+        },
+        {
+          "id": "mytc",
+          "name": "MyTradingCards.com",
+          "title": "Make Your own Pets Trading Cards",
+          "url": "https://www.mytradingcards.com/Pets-Trading-Card",
+          "published": null,
+          "accessed": "2026-10-26",
+          "how_read": "qua kết quả tìm kiếm (không mở được/không mở trang gốc)",
+          "note": "Trang bán hàng không ghi ngày; chỉ đọc đoạn trích tìm kiếm."
+        },
+        {
+          "id": "baidu_rt",
+          "name": "Baidu 百度热搜 (mục #31)",
+          "title": "被年轻人抛弃的农家乐杀回来了",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 26/10 ~07:00 (UTC+7); mô tả: 重庆等地农家乐引入“胡闹厨房”真人体验，客流爆满."
+        }
+      ],
+      "localize_vn": "Giả thuyết: bán theo ‘bộ 5 thẻ + 1 thẻ hiếm ngẫu nhiên’, chủ đề lễ hội (Tết, Noel); hợp tác với tiệm grooming/pet café làm quầy ‘chụp ảnh lấy thẻ’. Chỉ số vui viết bằng tiếng Việt đời thường.",
+      "localize_global": "Có thể bán cho người Việt ở nước ngoài làm quà nhớ thú cưng.",
+      "first_steps": [
+        "Ngày 1: tạo 3 bộ mẫu với ảnh mèo/chó của bạn bè bằng Nano Banana; Claude viết chỉ số vui; dàn trang Canva.",
+        "Ngày 2: in thử 3 bộ ở tiệm in card bo góc; chụp ảnh sản phẩm.",
+        "Ngày 3–5: đăng vào 3 hội nhóm nuôi mèo/chó + TikTok, nhận đặt trước qua Zalo OA, cọc qua payOS.",
+        "Ngày 6–7: đếm đơn, đo thời gian làm một bộ, tính lãi/bộ; quyết định đi tiếp."
+      ],
+      "capital": {
+        "vnd_min_m": 3,
+        "vnd_max_m": 10,
+        "usd_min": 115,
+        "usd_max": 385,
+        "note": "In thử, bao bì, quảng cáo nhỏ trong hội nhóm; không tồn kho vì in theo đơn."
+      },
+      "risks": [
+        "Phân khúc thẻ giá thấp đang suy giảm ở TQ — đừng dựa vào ‘sưu tầm’ lâu dài, bán như quà tặng.",
+        "Chất lượng ảnh AI không giống thú cưng thật → khách không hài lòng; cần cho xem bản nháp.",
+        "Không dùng hình nhân vật/thương hiệu thẻ bài nổi tiếng (bản quyền).",
+        "Dễ bị sao chép; lợi thế ở phong cách riêng và tốc độ."
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 6,
+        "novelty": 6,
+        "lowcap": 8,
+        "signal": 7,
+        "vnfit": 8
+      },
+      "claude_prompt": "Bạn là nhà thiết kế quà tặng cá nhân hóa dùng AI và người bán hàng online. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: Thẻ sưu tầm “Boss” — biến ảnh mèo, chó thành bộ thẻ có chỉ số và độ hiếm, in bo góc theo yêu cầu\nTóm tắt: Khách gửi 3–5 ảnh thú cưng; AI tạo bộ 5 thẻ cùng phong cách (thường, hiếm, siêu hiếm phủ nhũ) kèm chỉ số vui như ‘độ lười’, ‘kỹ năng xin pate’. In bo góc, ép lụa; bán 129–199 nghìn/bộ, thêm hộp blind pack cho hội nuôi mèo.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN, US\nTQ: Baidu #40 ngày 26/10 “一张6元小卡凭什么硬控00后”: thẻ khoảng 6,6 NDT/thẻ, thẻ hiếm ký tên bán lại tới 3.788 NDT; Hitcard nói tỷ lệ mua lại hằng tháng khoảng 40% (163/虎嗅 25/10). Mỹ: 57% Gen Z & Millennials mua thẻ sưu tầm cho bản thân trong 12 tháng (Harris 10/2026).\nDữ kiện chi tiết (kèm mức xác minh):\n- Thẻ phim giá thấp ở TQ: trung bình khoảng 6,6 NDT/thẻ; thẻ ký tên bán lại tới 3.788 NDT; Hitcard nói mua lại hằng tháng khoảng 40%, mua chéo IP hơn 20%. [1 nguồn gốc]\n- Thị trường thẻ không dùng để đấu ở TQ 2025 giảm 26,8%, thẻ phổ thông giảm hơn 40%, thẻ trên 10 NDT tăng 29%. [1 nguồn gốc]\n- Mỹ: 57% Gen Z & Millennials đã mua thẻ sưu tầm cho bản thân trong 12 tháng (nhóm lớn tuổi 16%). [1 nguồn gốc]\n- Ở nước ngoài đã có dịch vụ làm thẻ thú cưng theo yêu cầu (MyTradingCards). [chưa xác minh]\n\nLƯU Ý ĐỘ TIN CẬY: Chưa thấy cửa hàng VN chuyên thẻ sưu tầm thú cưng có độ hiếm (đã có công cụ tạo thẻ ở nước ngoài và tiệm in card bo góc cho fan K-pop) — chưa khảo sát kỹ. Phân khúc thẻ giá thấp ở TQ đang co lại; nhu cầu và giá là giả thuyết.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nNgười nuôi trẻ chi 200–500 nghìn cho combo thức ăn + phụ kiện, 72% doanh số thú cưng trên Shopee thuộc ngành mèo (thu-cung); Gen Z chịu chi cho món ‘cảm giác cao cấp’ giá hợp lý (xa-xi-vua-tui); bán qua Shopee/TikTok Shop (san-tmdt).\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: bán theo ‘bộ 5 thẻ + 1 thẻ hiếm ngẫu nhiên’, chủ đề lễ hội (Tết, Noel); hợp tác với tiệm grooming/pet café làm quầy ‘chụp ảnh lấy thẻ’. Chỉ số vui viết bằng tiếng Việt đời thường.\n\n## 4. Ràng buộc\n- Vốn: khoảng 3–10 triệu VND (In thử, bao bì, quảng cáo nhỏ trong hội nhóm; không tồn kho vì in theo đơn.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Không dùng thiết kế/nhân vật của thương hiệu thẻ bài có bản quyền; xin phép dùng ảnh khách để quảng cáo; không gọi là ‘đầu tư’ hay hứa giá trị bán lại. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Phân khúc thẻ giá thấp đang suy giảm ở TQ — đừng dựa vào ‘sưu tầm’ lâu dài, bán như quà tặng.\n- Chất lượng ảnh AI không giống thú cưng thật → khách không hài lòng; cần cho xem bản nháp.\n- Không dùng hình nhân vật/thương hiệu thẻ bài nổi tiếng (bản quyền).\n- Dễ bị sao chép; lợi thế ở phong cách riêng và tốc độ.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Nano Banana (Gemini image, Google): Biến ảnh thú cưng thành minh họa cùng phong cách, giữ nét mặt.\n- Claude (Anthropic): Viết chỉ số vui, mô tả ‘kỹ năng’, nội dung bán hàng.\n- Canva: Dàn khung thẻ, mặt sau, hộp.\n- Zalo Official Account (OA): Nhận ảnh và duyệt bản nháp với khách.\n- payOS (Casso): Thu cọc QR.\n- TikTok Shop Việt Nam (Seller Center): Bán bộ thẻ mẫu/ blind pack.\n  Bản tiết kiệm: Claude (Anthropic), Canva, Zalo Official Account (OA), payOS (Casso). Bản cao cấp: Nano Banana (Gemini image, Google), Claude (Anthropic), Canva, Zalo Official Account (OA), payOS (Casso), TikTok Shop Việt Nam (Seller Center).\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: tạo 3 bộ mẫu với ảnh mèo/chó của bạn bè bằng Nano Banana; Claude viết chỉ số vui; dàn trang Canva.\n- Ngày 2: in thử 3 bộ ở tiệm in card bo góc; chụp ảnh sản phẩm.\n- Ngày 3–5: đăng vào 3 hội nhóm nuôi mèo/chó + TikTok, nhận đặt trước qua Zalo OA, cọc qua payOS.\n- Ngày 6–7: đếm đơn, đo thời gian làm một bộ, tính lãi/bộ; quyết định đi tiếp.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Quy trình đặt hàng từ lúc nhận ảnh đến lúc giao (các bước, thời gian, mẫu tin nhắn duyệt nháp)\n2. Bộ prompt tạo ảnh cho 3 phong cách thẻ (giữ nét mặt thú cưng) và checklist kiểm tra ảnh\n3. Khung chỉ số vui + 20 mẫu ‘kỹ năng’ tiếng Việt cho mèo/chó\n4. Thông số in (kích thước, giấy, bo góc, ép nhũ) và câu hỏi để hỏi giá tiệm in\n5. Bảng giá vốn–giá bán và nội dung đăng 7 ngày\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 7.18,
+      "rank": 1
+    },
+    {
+      "id": "20261026-05-ban-chup-anh-dong-hanh",
+      "date": "2026-10-26",
+      "title": "“Bạn chụp ảnh đồng hành” — sinh viên đi cùng chụp ảnh, dẫn đường 2 giờ cho người đi chơi một mình",
+      "pitch": "Người đi du lịch/đi chơi một mình ở Hà Nội đặt 1–2 giờ với một ‘bạn đồng hành’ là sinh viên biết chụp ảnh điện thoại, gợi ý góc, quán, tạo dáng. Giá thử 150–250 nghìn/giờ, đặt qua Zalo, có quy tắc an toàn rõ ràng.",
+      "type": "startup",
+      "category": [
+        "service"
+      ],
+      "tags": [
+        "du lịch",
+        "chụp ảnh",
+        "sinh viên",
+        "đi một mình",
+        "việc làm thêm"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Ở Hà Nội đã có thợ chụp ảnh tour cho khách nước ngoài (giá cao) và thợ chụp concept; mô hình ‘bạn đồng hành’ giá rẻ cho khách trong nước chưa khảo sát kỹ. Mức giá và nhu cầu là giả thuyết; rủi ro an toàn là trọng tâm.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261026-05-ban-chup-anh-dong-hanh.webp",
+      "image_alt": "Bạn trẻ cầm điện thoại chụp ảnh cho một người đi chơi một mình trên phố cổ có cây xanh và ban công",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Mỗi buổi kết thúc bằng một reel 15 giây và album đã chỉnh màu gửi qua Zalo trong ngày — trông như có ekip riêng dù chỉ là một sinh viên với điện thoại.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Viết quy tắc an toàn, kịch bản tư vấn, gợi ý tuyến và góc chụp.",
+            "why": "Viết tiếng Việt tốt, làm kế hoạch–kịch bản dài có cấu trúc; Pro $17/tháng (trả năm) hoặc $20 (trả tháng) theo trang giá ngày 26/10.",
+            "alt_ids": [
+              "chatgpt",
+              "gemini"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Portfolio, bảng giá, ảnh đăng bài.",
+            "why": "Mẫu nhanh; giá gói trả phí chưa xác minh.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Reel 15 giây sau mỗi buổi.",
+            "why": "Free; Pro USD 19,99/tháng (26/10).",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Đặt lịch, gửi album, chia sẻ quy tắc trước buổi.",
+            "why": "Kênh khách Việt dùng nhiều nhất; giá gói nâng cao chưa xác minh.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "payos",
+            "role": "Thu cọc QR.",
+            "why": "Miễn phí theo trang chủ (26/10).",
+            "alt_ids": [
+              "vietqr",
+              "momo"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_zns",
+            "role": "Tin nhắn nhắc lịch/xác nhận tự động.",
+            "why": "Dùng khi số buổi tăng; giá chưa xác minh trong ngày.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "capcut",
+            "zalo_oa",
+            "payos"
+          ],
+          "monthly_cost_note": "≈ $0/tháng (bản Free).",
+          "tradeoff": "Nhắc lịch thủ công."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "capcut",
+            "zalo_oa",
+            "payos",
+            "zalo_zns"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $19,99 (CapCut Pro) ≈ $37–40/tháng + phí Zalo ZNS/OA (chưa xác minh).",
+          "tradeoff": "Tự động nhắc lịch, reel đẹp hơn."
+        },
+        "checked": "2026-10-26"
+      },
+      "regions": [
+        "CN"
+      ],
+      "signal_text": "TQ: giá “陪拍” khoảng 35–150 NDT/giờ (澎湃 8/10: 35–69 NDT/giờ, nửa ngày 200–300 NDT; 腾讯/极目 15/9: 40–150 NDT/giờ); chủ đề “陪拍” trên Xiaohongshu có 15,2 tỷ lượt xem. Baidu 26/10 có mục “年轻人热衷付费社交”; báo chí cũng cảnh báo vùng xám an toàn (北京日报 25/10, 中新网 12/10).",
+      "vn_youth_fit": "Gen Z Việt đi nhiều chuyến ngắn, 55% coi ngân sách là yếu tố quyết định, 49% cân nhắc điểm đến ít biết (du-lich) → cần người địa phương chỉ góc chụp, giá theo giờ; chia sẻ ảnh qua Facebook/Zalo/YouTube (mxh-top); nhạy chi tiêu (ngan-sach) nên gói 1–2 giờ hợp hơn buổi chụp studio.",
+      "vn_fit_refs": [
+        "du-lich",
+        "mxh-top",
+        "ngan-sach"
+      ],
+      "key_facts": [
+        {
+          "text": "Giá “陪拍” ở TQ khoảng 35–150 NDT/giờ: 35–69 NDT/giờ, nửa ngày 200–300 NDT; bài khác ghi 40–150 NDT/giờ.",
+          "source_ids": [
+            "thepaper_pp",
+            "qq_peipai"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Chủ đề “陪拍” trên Xiaohongshu có 15,2 tỷ lượt xem; khoảng 56% người trẻ được khảo sát sẵn sàng trả cho ‘hỗ trợ cảm xúc’ (ĐH Phục Đán 2025).",
+          "source_ids": [
+            "qq_peipai"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Chuyên gia cảnh báo ranh giới an toàn của ‘bạn đồng hành trả phí’ còn mờ; báo chí phát hiện trò lừa thu phí lập nhóm, chim mồi.",
+          "source_ids": [
+            "bjd",
+            "chinanews"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Đối thủ ở Hà Nội: tour chụp ảnh nửa ngày 4 giờ có giá 129 USD cho 1 người, 69 USD/người cho nhóm 3–5 (Hanoi Photo Tours by Xuan Phuong, khách nói tiếng Anh).",
+          "source_ids": [
+            "xp"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "thepaper_pp",
+          "name": "澎湃新闻 (澎湃号·金融八卦女)",
+          "title": "国庆的孤独生意：花200块，买一个不让你尴尬的人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34210504",
+          "published": "2026-10-08",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "qq_peipai",
+          "name": "腾讯新闻 (极目新闻)",
+          "title": "花40块请人陪拍，年轻人买的是照片还是陪伴？",
+          "url": "https://news.qq.com/rain/a/20260915A0DBDL00",
+          "published": "2026-09-15",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "bjd",
+          "name": "北京日报客户端",
+          "title": "年轻人热衷付费社交，新业态如何守住安全边界？",
+          "url": "https://xinwen.bjd.com.cn/content/s6addf4d8e4b0e42f8f020bdf.html",
+          "published": "2026-10-25",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "chinanews",
+          "name": "中新网",
+          "title": "收费组局、酒托引流、地陪暗语交易……社交平台“求搭”乱象调查",
+          "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711877.shtml",
+          "published": "2026-10-12",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "xp",
+          "name": "Hanoi Photo Tours by Xuan Phuong",
+          "title": "A Glimpse of Hanoi: Half-day Photo Tour",
+          "url": "https://xuanphuongle.com/hanoi-photo-tours/a-glimpse-of-hanoi-photo-tours/",
+          "published": null,
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Trang dịch vụ, không ghi ngày."
+        },
+        {
+          "id": "baidu_rt",
+          "name": "Baidu 百度热搜 (mục #31)",
+          "title": "被年轻人抛弃的农家乐杀回来了",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 26/10 ~07:00 (UTC+7); mô tả: 重庆等地农家乐引入“胡闹厨房”真人体验，客流爆满."
+        }
+      ],
+      "localize_vn": "Giả thuyết: tuyển 5 sinh viên báo chí/mỹ thuật, kiểm tra CCCD, đào tạo 1 buổi về góc chụp điện thoại và quy tắc ứng xử; chỉ hẹn ở nơi công cộng, ban ngày, có chia sẻ vị trí. Bắt đầu với 3 tuyến: phố cổ, Tây Hồ, Long Biên.",
+      "localize_global": "Có thể mở bản tiếng Anh/Hàn cho khách du lịch trẻ, nhưng cần xác minh quy định về hướng dẫn viên du lịch.",
+      "first_steps": [
+        "Ngày 1: viết bộ quy tắc an toàn + checklist góc chụp bằng Claude; làm portfolio 20 ảnh mẫu trên Canva.",
+        "Ngày 2: tuyển 3 bạn đồng hành, chụp thử tuyến phố cổ, dựng reel CapCut.",
+        "Ngày 3–5: mở đặt lịch qua Zalo OA, cọc payOS; chạy 5 buổi giá thử.",
+        "Ngày 6–7: đo tỷ lệ đặt lại/giới thiệu, đánh giá an toàn; quyết định đi tiếp."
+      ],
+      "capital": {
+        "vnd_min_m": 1,
+        "vnd_max_m": 5,
+        "usd_min": 38,
+        "usd_max": 192,
+        "note": "Portfolio, đồng phục/thẻ nhận diện, quảng cáo nhỏ; dùng điện thoại sẵn có."
+      },
+      "risks": [
+        "An toàn cá nhân cho cả khách và bạn đồng hành — phải có quy tắc, xác minh danh tính, nơi công cộng.",
+        "Có thể bị coi là hướng dẫn du lịch không phép nếu thu phí khách nước ngoài — cần xác minh.",
+        "Chất lượng ảnh phụ thuộc người chụp; khó đồng đều khi mở rộng.",
+        "Novelty thấp: thợ chụp ảnh tự do rất nhiều."
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 6,
+        "novelty": 4,
+        "lowcap": 9,
+        "signal": 8,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là người xây dựng dịch vụ đặt lịch nhỏ và chuyên gia an toàn cho dịch vụ gặp mặt trực tiếp. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Bạn chụp ảnh đồng hành” — sinh viên đi cùng chụp ảnh, dẫn đường 2 giờ cho người đi chơi một mình\nTóm tắt: Người đi du lịch/đi chơi một mình ở Hà Nội đặt 1–2 giờ với một ‘bạn đồng hành’ là sinh viên biết chụp ảnh điện thoại, gợi ý góc, quán, tạo dáng. Giá thử 150–250 nghìn/giờ, đặt qua Zalo, có quy tắc an toàn rõ ràng.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN\nTQ: giá “陪拍” khoảng 35–150 NDT/giờ (澎湃 8/10: 35–69 NDT/giờ, nửa ngày 200–300 NDT; 腾讯/极目 15/9: 40–150 NDT/giờ); chủ đề “陪拍” trên Xiaohongshu có 15,2 tỷ lượt xem. Baidu 26/10 có mục “年轻人热衷付费社交”; báo chí cũng cảnh báo vùng xám an toàn (北京日报 25/10, 中新网 12/10).\nDữ kiện chi tiết (kèm mức xác minh):\n- Giá “陪拍” ở TQ khoảng 35–150 NDT/giờ: 35–69 NDT/giờ, nửa ngày 200–300 NDT; bài khác ghi 40–150 NDT/giờ. [2+ nguồn độc lập]\n- Chủ đề “陪拍” trên Xiaohongshu có 15,2 tỷ lượt xem; khoảng 56% người trẻ được khảo sát sẵn sàng trả cho ‘hỗ trợ cảm xúc’ (ĐH Phục Đán 2025). [1 nguồn gốc]\n- Chuyên gia cảnh báo ranh giới an toàn của ‘bạn đồng hành trả phí’ còn mờ; báo chí phát hiện trò lừa thu phí lập nhóm, chim mồi. [2+ nguồn độc lập]\n- Đối thủ ở Hà Nội: tour chụp ảnh nửa ngày 4 giờ có giá 129 USD cho 1 người, 69 USD/người cho nhóm 3–5 (Hanoi Photo Tours by Xuan Phuong, khách nói tiếng Anh). [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Ở Hà Nội đã có thợ chụp ảnh tour cho khách nước ngoài (giá cao) và thợ chụp concept; mô hình ‘bạn đồng hành’ giá rẻ cho khách trong nước chưa khảo sát kỹ. Mức giá và nhu cầu là giả thuyết; rủi ro an toàn là trọng tâm.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nGen Z Việt đi nhiều chuyến ngắn, 55% coi ngân sách là yếu tố quyết định, 49% cân nhắc điểm đến ít biết (du-lich) → cần người địa phương chỉ góc chụp, giá theo giờ; chia sẻ ảnh qua Facebook/Zalo/YouTube (mxh-top); nhạy chi tiêu (ngan-sach) nên gói 1–2 giờ hợp hơn buổi chụp studio.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: tuyển 5 sinh viên báo chí/mỹ thuật, kiểm tra CCCD, đào tạo 1 buổi về góc chụp điện thoại và quy tắc ứng xử; chỉ hẹn ở nơi công cộng, ban ngày, có chia sẻ vị trí. Bắt đầu với 3 tuyến: phố cổ, Tây Hồ, Long Biên.\n\n## 4. Ràng buộc\n- Vốn: khoảng 1–5 triệu VND (Portfolio, đồng phục/thẻ nhận diện, quảng cáo nhỏ; dùng điện thoại sẵn có.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Không cung cấp dịch vụ ngoài phạm vi chụp ảnh/dẫn đường; xác minh quy định về hướng dẫn du lịch và hợp đồng cộng tác viên; bảo vệ dữ liệu ảnh khách. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- An toàn cá nhân cho cả khách và bạn đồng hành — phải có quy tắc, xác minh danh tính, nơi công cộng.\n- Có thể bị coi là hướng dẫn du lịch không phép nếu thu phí khách nước ngoài — cần xác minh.\n- Chất lượng ảnh phụ thuộc người chụp; khó đồng đều khi mở rộng.\n- Novelty thấp: thợ chụp ảnh tự do rất nhiều.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Viết quy tắc an toàn, kịch bản tư vấn, gợi ý tuyến và góc chụp.\n- Canva: Portfolio, bảng giá, ảnh đăng bài.\n- CapCut: Reel 15 giây sau mỗi buổi.\n- Zalo Official Account (OA): Đặt lịch, gửi album, chia sẻ quy tắc trước buổi.\n- payOS (Casso): Thu cọc QR.\n- Zalo Business Message (ZNS/ZBS): Tin nhắn nhắc lịch/xác nhận tự động.\n  Bản tiết kiệm: Claude (Anthropic), Canva, CapCut, Zalo Official Account (OA), payOS (Casso). Bản cao cấp: Claude (Anthropic), Canva, CapCut, Zalo Official Account (OA), payOS (Casso), Zalo Business Message (ZNS/ZBS).\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: viết bộ quy tắc an toàn + checklist góc chụp bằng Claude; làm portfolio 20 ảnh mẫu trên Canva.\n- Ngày 2: tuyển 3 bạn đồng hành, chụp thử tuyến phố cổ, dựng reel CapCut.\n- Ngày 3–5: mở đặt lịch qua Zalo OA, cọc payOS; chạy 5 buổi giá thử.\n- Ngày 6–7: đo tỷ lệ đặt lại/giới thiệu, đánh giá an toàn; quyết định đi tiếp.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Bộ quy tắc an toàn cho khách và bạn đồng hành (xác minh, địa điểm, giờ, chia sẻ vị trí, xử lý sự cố)\n2. 3 tuyến chụp ở Hà Nội dạng bảng: điểm dừng, giờ đẹp, gợi ý tạo dáng (ghi ‘cần tôi kiểm tra thực địa’)\n3. Quy trình đặt lịch–cọc–giao ảnh và mẫu tin nhắn Zalo\n4. Tài liệu đào tạo 1 buổi cho bạn đồng hành (chụp điện thoại, ứng xử)\n5. Bảng giá thử, chi phí, chia doanh thu với bạn đồng hành; tiêu chí đi tiếp\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 7.06,
+      "rank": 2
+    },
+    {
+      "id": "20261026-02-sticker-dung-canh-pho-viet",
+      "date": "2026-10-26",
+      "title": "Sticker dựng cảnh “phố Việt” — bộ dán nhiều lớp tạo cảnh quán cóc, phố cổ, chợ Tết",
+      "pitch": "Bộ sticker PET cắt sẵn, dán chồng lớp thành cảnh 3D trong sổ: quán trà đá vỉa hè, ban công phố cổ, gánh hàng hoa, chợ Tết. Họa sĩ Việt vẽ tay (AI chỉ để phác ý tưởng), giá 59–129 nghìn/bộ, bán qua TikTok Shop/Shopee và chợ phiên.",
+      "type": "startup",
+      "category": [
+        "product",
+        "ecom"
+      ],
+      "tags": [
+        "sticker",
+        "DIY",
+        "quà tặng",
+        "văn hóa Việt",
+        "TikTok Shop"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Dòng sticker dựng cảnh đã có trên sàn VN (MiniScape, HOBBYIN — chủ đề chung, nhập khẩu); chủ đề ‘phố Việt’ do họa sĩ Việt vẽ chưa thấy nhưng chưa khảo sát hết. Nhu cầu và giá 59–129 nghìn là giả thuyết. TQ cho thấy mô hình cửa hàng trải nghiệm DIY dễ đổ vỡ — nên bán sản phẩm, không mở cửa hàng.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261026-02-sticker-dung-canh-pho-viet.webp",
+      "image_alt": "Cuốn sổ mở với cảnh phố nhỏ dựng bằng nhiều lớp sticker: ban công, quán nhỏ, xe đạp chở hoa",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Từ một câu mô tả đến 6 concept cảnh phố trong một buổi sáng, rồi để họa sĩ Việt vẽ lại thành bộ sticker có ‘hồn’ — AI tăng tốc, con người giữ chất.",
+        "tools": [
+          {
+            "tool_id": "nano_banana",
+            "role": "Phác nhanh concept cảnh/phối màu để chọn chủ đề (không dùng làm bản bán).",
+            "why": "Model ảnh của Google, nhất quán nhân vật nhiều lượt; API khoảng $0,067/ảnh 1K (26/10).",
+            "alt_ids": [
+              "seedream",
+              "flux",
+              "midjourney"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "claude",
+            "role": "Viết brief cho họa sĩ, mô tả sản phẩm, kịch bản clip, bảng giá vốn.",
+            "why": "Viết tiếng Việt tốt, làm kế hoạch–kịch bản dài có cấu trúc; Pro $17/tháng (trả năm) hoặc $20 (trả tháng) theo trang giá ngày 26/10.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Thiết kế bao bì, hướng dẫn dán, ảnh listing.",
+            "why": "Nhiều mẫu bao bì; giá gói trả phí chưa xác minh.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Dựng clip ASMR dán sticker cho TikTok.",
+            "why": "Free đủ dùng; Pro USD 19,99/tháng (26/10).",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "tiktok_shop",
+            "role": "Bán kèm video, mua ngẫu hứng.",
+            "why": "Seller Center VN mở được; phí/hoa hồng chưa đọc được → không nêu.",
+            "alt_ids": [
+              "shopee_seller"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "capcut",
+            "tiktok_shop"
+          ],
+          "monthly_cost_note": "≈ $0/tháng (bản Free) + phí sàn (chưa xác minh).",
+          "tradeoff": "Không có concept AI — phải phác tay hoặc nhờ họa sĩ từ đầu."
+        },
+        "premium": {
+          "tool_ids": [
+            "nano_banana",
+            "claude",
+            "canva",
+            "capcut",
+            "tiktok_shop",
+            "shopee_seller"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $19,99 (CapCut Pro) + vài USD ảnh Nano Banana ≈ $40/tháng; phí sàn chưa xác minh.",
+          "tradeoff": "Thử nhiều concept nhanh, bán cả hai sàn."
+        },
+        "checked": "2026-10-26"
+      },
+      "regions": [
+        "CN",
+        "JP",
+        "US"
+      ],
+      "signal_text": "TQ: chủ đề “造景贴纸” trên Xiaohongshu vượt 10,9 tỷ lượt xem, Douyin hơn 2,5 tỷ lượt phát; với 森游文化 sticker dựng cảnh chiếm hơn 70% doanh thu (zjol 15/10). Nhật: sticker phồng Bondrop vượt 45 triệu tấm (Nikkei xTrend 26/10) dù cơn sốt sticker chung đang hạ nhiệt. Mỹ: 65% Gen Z & Millennials mua sách tô màu/sticker cho bản thân (Harris 10/2026).",
+      "vn_youth_fit": "Người mua trẻ thích ‘xa xỉ vừa túi’ và mini-size (xa-xi-vua-tui); Shopee dùng cho mua có chủ đích, TikTok Shop cho mua ngẫu hứng (san-tmdt) — video ASMR dán sticker hợp TikTok; VN là thị trường video commerce lớn thứ hai ĐNA (video-commerce).",
+      "vn_fit_refs": [
+        "xa-xi-vua-tui",
+        "san-tmdt",
+        "video-commerce"
+      ],
+      "key_facts": [
+        {
+          "text": "Chủ đề “造景贴纸”: Xiaohongshu vượt 10,9 tỷ lượt xem, Douyin hơn 2,5 tỷ lượt phát; với 森游文化 dòng này chiếm hơn 70% doanh thu; họa sĩ được trả khoảng 10–16 NDT/sticker.",
+          "source_ids": [
+            "zjol"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Cửa hàng trải nghiệm hạt ủi (拼豆) ở TQ đóng cửa hàng loạt sau khi mở ồ ạt; chuyên gia nói trải nghiệm tại cửa hàng dễ bị thay bằng bộ đồ mua online.",
+          "source_ids": [
+            "qq_pindou",
+            "jj21_pindou"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Nhật: Bondrop vượt 45 triệu tấm xuất xưởng; cơn sốt sticker chung đang hạ nhiệt, cửa hàng giảm giá.",
+          "source_ids": [
+            "xtrend",
+            "shueisha"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Mỹ: 65% Gen Z & Millennials mua sách tô màu/sticker cho bản thân trong 12 tháng (nhóm lớn tuổi: 30%).",
+          "source_ids": [
+            "harris"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Tại VN đã bán bộ sticker cảnh thu nhỏ HOBBYIN (10 cảnh, 33 tờ) khoảng 180–199 nghìn đồng (đoạn trích trang so giá).",
+          "source_ids": [
+            "hobbyin"
+          ],
+          "verification": "chưa xác minh",
+          "note": "Giá lấy từ đoạn trích tìm kiếm của trang so giá, chưa mở trang Shopee gốc."
+        }
+      ],
+      "sources": [
+        {
+          "id": "zjol",
+          "name": "浙江新闻 (zjol)",
+          "title": "方寸之间拼出小世界 造景贴纸爆火背后的“手搓经济”",
+          "url": "https://zjnews.zjol.com.cn/yc/qmt/202610/t20261015_31965786.shtml",
+          "published": "2026-10-15",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "qq_pindou",
+          "name": "腾讯新闻",
+          "title": "从排队到9.9元也无人问津，2026最火爆的拼豆生意，开始批量倒闭了",
+          "url": "https://news.qq.com/rain/a/20261021A09FUT00",
+          "published": "2026-10-21",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "jj21_pindou",
+          "name": "21经济网 (羊城派)",
+          "title": "网红拼豆店出现倒闭潮，“三个月亏了10万”“半年收不回本”等信息充斥网络",
+          "url": "https://www.21jingji.com/article/20261024/herald/2bdacc011072dadc160c7e0aa8006117.html",
+          "published": "2026-10-24",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "xtrend",
+          "name": "日経クロストレンド",
+          "title": "ボンボンドロップが4500万枚突破　平成女児だけじゃない熱狂の真の理由",
+          "url": "https://xtrend.nikkei.com/atcl/contents/18/00589/00372/",
+          "published": "2026-10-26",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang (chỉ phần miễn phí; phần sau cần trả phí)",
+          "note": "Chỉ đọc phần mở đầu miễn phí; số 45 triệu tấm nằm trong tiêu đề/phần miễn phí."
+        },
+        {
+          "id": "shueisha",
+          "name": "集英社オンライン",
+          "title": "「シールブーム終了？」店では値引きしまくり…火付け役“ボンドロ”のメーカーにもきいてみた",
+          "url": "https://shueisha.online/articles/-/259012",
+          "published": "2026-10-25",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "harris",
+          "name": "The Harris Poll",
+          "title": "The Rise of Kidulting Report (October 2026)",
+          "url": "https://theharrispoll.com/wp-content/uploads/2026/10/The-Rise-of-Kidulting-Report-October-2026.pdf",
+          "published": "2026-10",
+          "accessed": "2026-10-26",
+          "how_read": "mở file PDF",
+          "note": "Khảo sát online 2.158 người trưởng thành Mỹ, 25–27/6/2026."
+        },
+        {
+          "id": "hobbyin",
+          "name": "Mua Thông Minh (trang so giá, sản phẩm trên Shopee)",
+          "title": "Nhãn dán cảnh thu nhỏ hobbyin, 10 cảnh 33 tờ…",
+          "url": "https://muathongminh.vn/nhan-dan-canh-thu-nho-hobbyin-10-canh-33-to-nhan-dan-phong-canh-mini-pet-110-store-series-die-cut-xe-p.1__54060307661__1000361347",
+          "published": null,
+          "accessed": "2026-10-26",
+          "how_read": "qua kết quả tìm kiếm (không mở được/không mở trang gốc)",
+          "note": "Đoạn trích nêu giá khoảng 180–199 nghìn đồng/bộ; chưa mở trang."
+        }
+      ],
+      "localize_vn": "Giả thuyết: 3 bộ đầu ‘Quán trà đá’, ‘Ban công phố cổ’, ‘Chợ hoa Tết’ — mỗi bộ 1 tấm nền + 2–3 tờ sticker; bản giới hạn có chữ ký họa sĩ. Thuê họa sĩ Việt vẽ, in PET cắt khuôn số lượng nhỏ; đúng mùa Tết sắp tới.",
+      "localize_global": "Có thể bán cho khách du lịch như quà lưu niệm nhỏ gọn ‘mang Hà Nội về’.",
+      "first_steps": [
+        "Ngày 1: dùng Nano Banana phác 6 concept cảnh, chọn 3; brief họa sĩ (Claude viết brief).",
+        "Ngày 2–3: đăng 3 concept lên TikTok/Facebook, mở form đặt trước, đếm lượt đặt.",
+        "Ngày 4–5: hỏi giá in PET cắt khuôn 2 xưởng; làm 1 bản mẫu dán thử, quay clip ASMR bằng CapCut.",
+        "Ngày 6–7: mở listing đặt trước trên TikTok Shop/Shopee; quyết định số lượng in theo lượt đặt."
+      ],
+      "capital": {
+        "vnd_min_m": 8,
+        "vnd_max_m": 25,
+        "usd_min": 308,
+        "usd_max": 962,
+        "note": "Phí họa sĩ cho 3 bộ, in PET cắt khuôn lô nhỏ, bao bì, mẫu dán thử. Chưa tính tồn kho lớn."
+      },
+      "risks": [
+        "Sản phẩm dễ bị nhái; cần bản quyền rõ với họa sĩ.",
+        "Cơn sốt sticker ở Nhật đã hạ nhiệt — trào lưu có thể ngắn.",
+        "Chất lượng in PET/cắt khuôn quyết định trải nghiệm; lô nhỏ có giá/đơn vị cao.",
+        "Dùng ảnh AI làm sản phẩm bán có thể bị chê thiếu ‘hồn’ — chỉ dùng AI để phác ý."
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 6,
+        "novelty": 6,
+        "lowcap": 7,
+        "signal": 9,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là nhà thiết kế sản phẩm giấy/sticker và người bán hàng trên TikTok Shop. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: Sticker dựng cảnh “phố Việt” — bộ dán nhiều lớp tạo cảnh quán cóc, phố cổ, chợ Tết\nTóm tắt: Bộ sticker PET cắt sẵn, dán chồng lớp thành cảnh 3D trong sổ: quán trà đá vỉa hè, ban công phố cổ, gánh hàng hoa, chợ Tết. Họa sĩ Việt vẽ tay (AI chỉ để phác ý tưởng), giá 59–129 nghìn/bộ, bán qua TikTok Shop/Shopee và chợ phiên.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN, JP, US\nTQ: chủ đề “造景贴纸” trên Xiaohongshu vượt 10,9 tỷ lượt xem, Douyin hơn 2,5 tỷ lượt phát; với 森游文化 sticker dựng cảnh chiếm hơn 70% doanh thu (zjol 15/10). Nhật: sticker phồng Bondrop vượt 45 triệu tấm (Nikkei xTrend 26/10) dù cơn sốt sticker chung đang hạ nhiệt. Mỹ: 65% Gen Z & Millennials mua sách tô màu/sticker cho bản thân (Harris 10/2026).\nDữ kiện chi tiết (kèm mức xác minh):\n- Chủ đề “造景贴纸”: Xiaohongshu vượt 10,9 tỷ lượt xem, Douyin hơn 2,5 tỷ lượt phát; với 森游文化 dòng này chiếm hơn 70% doanh thu; họa sĩ được trả khoảng 10–16 NDT/sticker. [1 nguồn gốc]\n- Cửa hàng trải nghiệm hạt ủi (拼豆) ở TQ đóng cửa hàng loạt sau khi mở ồ ạt; chuyên gia nói trải nghiệm tại cửa hàng dễ bị thay bằng bộ đồ mua online. [2+ nguồn độc lập]\n- Nhật: Bondrop vượt 45 triệu tấm xuất xưởng; cơn sốt sticker chung đang hạ nhiệt, cửa hàng giảm giá. [2+ nguồn độc lập]\n- Mỹ: 65% Gen Z & Millennials mua sách tô màu/sticker cho bản thân trong 12 tháng (nhóm lớn tuổi: 30%). [1 nguồn gốc]\n- Tại VN đã bán bộ sticker cảnh thu nhỏ HOBBYIN (10 cảnh, 33 tờ) khoảng 180–199 nghìn đồng (đoạn trích trang so giá). [chưa xác minh]\n\nLƯU Ý ĐỘ TIN CẬY: Dòng sticker dựng cảnh đã có trên sàn VN (MiniScape, HOBBYIN — chủ đề chung, nhập khẩu); chủ đề ‘phố Việt’ do họa sĩ Việt vẽ chưa thấy nhưng chưa khảo sát hết. Nhu cầu và giá 59–129 nghìn là giả thuyết. TQ cho thấy mô hình cửa hàng trải nghiệm DIY dễ đổ vỡ — nên bán sản phẩm, không mở cửa hàng.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nNgười mua trẻ thích ‘xa xỉ vừa túi’ và mini-size (xa-xi-vua-tui); Shopee dùng cho mua có chủ đích, TikTok Shop cho mua ngẫu hứng (san-tmdt) — video ASMR dán sticker hợp TikTok; VN là thị trường video commerce lớn thứ hai ĐNA (video-commerce).\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: 3 bộ đầu ‘Quán trà đá’, ‘Ban công phố cổ’, ‘Chợ hoa Tết’ — mỗi bộ 1 tấm nền + 2–3 tờ sticker; bản giới hạn có chữ ký họa sĩ. Thuê họa sĩ Việt vẽ, in PET cắt khuôn số lượng nhỏ; đúng mùa Tết sắp tới.\n\n## 4. Ràng buộc\n- Vốn: khoảng 8–25 triệu VND (Phí họa sĩ cho 3 bộ, in PET cắt khuôn lô nhỏ, bao bì, mẫu dán thử. Chưa tính tồn kho lớn.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Ký thỏa thuận bản quyền với họa sĩ; không sao chép mẫu sticker có sẵn; ghi đúng chất liệu và độ tuổi phù hợp. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Sản phẩm dễ bị nhái; cần bản quyền rõ với họa sĩ.\n- Cơn sốt sticker ở Nhật đã hạ nhiệt — trào lưu có thể ngắn.\n- Chất lượng in PET/cắt khuôn quyết định trải nghiệm; lô nhỏ có giá/đơn vị cao.\n- Dùng ảnh AI làm sản phẩm bán có thể bị chê thiếu ‘hồn’ — chỉ dùng AI để phác ý.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Nano Banana (Gemini image, Google): Phác nhanh concept cảnh/phối màu để chọn chủ đề (không dùng làm bản bán).\n- Claude (Anthropic): Viết brief cho họa sĩ, mô tả sản phẩm, kịch bản clip, bảng giá vốn.\n- Canva: Thiết kế bao bì, hướng dẫn dán, ảnh listing.\n- CapCut: Dựng clip ASMR dán sticker cho TikTok.\n- TikTok Shop Việt Nam (Seller Center): Bán kèm video, mua ngẫu hứng.\n  Bản tiết kiệm: Claude (Anthropic), Canva, CapCut, TikTok Shop Việt Nam (Seller Center). Bản cao cấp: Nano Banana (Gemini image, Google), Claude (Anthropic), Canva, CapCut, TikTok Shop Việt Nam (Seller Center), Shopee Việt Nam (Kênh Người Bán).\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: dùng Nano Banana phác 6 concept cảnh, chọn 3; brief họa sĩ (Claude viết brief).\n- Ngày 2–3: đăng 3 concept lên TikTok/Facebook, mở form đặt trước, đếm lượt đặt.\n- Ngày 4–5: hỏi giá in PET cắt khuôn 2 xưởng; làm 1 bản mẫu dán thử, quay clip ASMR bằng CapCut.\n- Ngày 6–7: mở listing đặt trước trên TikTok Shop/Shopee; quyết định số lượng in theo lượt đặt.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. 3 brief chi tiết cho họa sĩ (bố cục lớp, bảng màu, danh sách chi tiết cần vẽ, kích thước) cho 3 cảnh phố Việt\n2. Thông số in sticker PET cắt khuôn và danh sách câu hỏi để hỏi giá xưởng in\n3. Bảng giá vốn–giá bán–điểm hòa vốn cho lô nhỏ (ô giá để trống cho tôi điền)\n4. Mô tả sản phẩm + 5 kịch bản clip 15–30 giây (ASMR dán, trước–sau, quà tặng)\n5. Kế hoạch đặt trước 7 ngày và tiêu chí đi tiếp\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.94,
+      "rank": 3
+    },
+    {
+      "id": "20261026-06-banh-giay-bien-tau",
+      "date": "2026-10-26",
+      "title": "Bánh giầy “biến tấu” kiểu Hàn — bánh giầy nướng phủ topping pizza, bơ mật ong, bán theo đợt cuối tuần",
+      "pitch": "Lấy cảm hứng từ ‘pizza seolgi/pizza jeolpyeon’ đang hot ở Hàn: dùng bánh giầy Việt làm đế, phủ sốt cà chua–phô mai–xúc xích hoặc bơ–mật ong–mè, nướng/áp chảo nóng giòn. Bán pre-order theo đợt cuối tuần 25–35 nghìn/cái, hộp 4 cái làm quà.",
+      "type": "startup",
+      "category": [
+        "fnb",
+        "product"
+      ],
+      "tags": [
+        "ăn vặt",
+        "bánh truyền thống",
+        "biến tấu",
+        "pre-order",
+        "Hàn Quốc"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tìm nhanh chưa thấy ‘bánh giầy pizza’ bán rộng ở Hà Nội (đã có bánh đồng xu phô mai, butter mochi) — chưa khảo sát TikTok kỹ. Vị và giá là giả thuyết; cần giấy chứng nhận an toàn thực phẩm khi bán.",
+      "confidence": "thấp",
+      "image": "assets/ideas/20261026-06-banh-giay-bien-tau.webp",
+      "image_alt": "Đĩa bánh giầy nướng tròn phủ phô mai, xúc xích và mè, bên cạnh hộp quà bốn ô và ly trà",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Clip kéo phô mai trên đế bánh giầy giòn, quay bằng điện thoại và dựng sẵn mẫu — đủ ‘wow’ cho TikTok mà không cần studio.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Tính định lượng, giá vốn, viết mô tả, kịch bản clip.",
+            "why": "Viết tiếng Việt tốt, làm kế hoạch–kịch bản dài có cấu trúc; Pro $17/tháng (trả năm) hoặc $20 (trả tháng) theo trang giá ngày 26/10.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip áp chảo/kéo phô mai, slow motion.",
+            "why": "Free; Pro USD 19,99/tháng (26/10).",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Thiết kế hộp, sticker niêm phong, menu.",
+            "why": "Mẫu bao bì; giá gói trả phí chưa xác minh.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận pre-order và thông báo đợt giao.",
+            "why": "Giá gói nâng cao chưa xác minh.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "payos",
+            "role": "Thu cọc QR.",
+            "why": "Miễn phí theo trang chủ (26/10).",
+            "alt_ids": [
+              "vietqr",
+              "momo"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "tiktok_shop",
+            "role": "Bán qua video khi đủ giấy tờ.",
+            "why": "Phí sàn chưa đọc được.",
+            "alt_ids": [
+              "shopee_seller"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "capcut",
+            "canva",
+            "zalo_oa",
+            "payos"
+          ],
+          "monthly_cost_note": "≈ $0/tháng (bản Free).",
+          "tradeoff": "Chưa lên sàn; bán qua tin nhắn."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "capcut",
+            "canva",
+            "zalo_oa",
+            "payos",
+            "tiktok_shop"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $19,99 (CapCut Pro) ≈ $37–40/tháng; phí sàn chưa xác minh.",
+          "tradeoff": "Mở thêm kênh sàn khi đã có giấy tờ."
+        },
+        "checked": "2026-10-26"
+      },
+      "regions": [
+        "KR",
+        "JP"
+      ],
+      "signal_text": "Hàn: CU ra “피자절편” (bánh gạo phủ topping pizza) giá 3.800 won từ 8/10; lượt nhắc “피자설기” trên MXH từ dưới 100 (tháng 4) lên hơn 10.000 (tháng 9) theo dữ liệu CU dẫn (BGF 12/10, Segye 25/10); trào lưu bánh gạo biến tấu đã lan sang GS25, 7-Eleven, emart24. Nhật: ‘バター餅’ (bánh dẻo bơ) đồng hạng 3 món ăn đang thịnh hành của học sinh THPT (Wakamono Research 9/10).",
+      "vn_youth_fit": "57% thích uống ở quán cà phê/trà sữa và 45% coi ‘đáng tiền’ là yếu tố quyết định (ngan-sach) → món ăn vặt 25–35 nghìn đi kèm đồ uống; ẩm thực là nhóm người Việt sẵn sàng trả tiền cho sản phẩm Hàn cao nhất (han-quoc: 66,2% toàn mẫu) — nhãn ‘kiểu Hàn’ giúp tò mò; bán qua video ngắn (video-commerce).",
+      "vn_fit_refs": [
+        "ngan-sach",
+        "han-quoc",
+        "video-commerce"
+      ],
+      "key_facts": [
+        {
+          "text": "CU bán “피자절편” giá 3.800 won từ 8/10 (bánh gạo jeolpyeon phủ sốt cà chua, mozzarella, pepperoni, ngô, ô liu, hâm vi sóng khoảng 20 giây); lượt nhắc pizza seolgi trên MXH từ dưới 100 (tháng 4) lên hơn 10.000 (tháng 9) theo Sometrend do CU dẫn.",
+          "source_ids": [
+            "bgf",
+            "segye"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Segye dẫn lại số liệu CU."
+        },
+        {
+          "text": "Trào lưu bánh gạo biến tấu (pizza seolgi, bánh gạo bơ kiểu Thượng Hải, bánh gạo kiểu Dubai) đã lan sang GS25, 7-Eleven, emart24, đại siêu thị; xuất hiện cụm ‘xếp hàng tiệm bánh gạo’.",
+          "source_ids": [
+            "segye",
+            "bgf"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Món bánh gạo kiểu Dubai của CU bán khoảng 1,1 triệu cái trong quý IV/2025, lũy kế khoảng 2,8 triệu cái.",
+          "source_ids": [
+            "bgf"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Segye dẫn lại số liệu của CU — không tính là nguồn độc lập."
+        },
+        {
+          "text": "Nhật: ‘バター餅’ đồng hạng 3 bảng món ăn đang thịnh hành của học sinh THPT (sau mala tang và frozen yogurt kiểu Hàn).",
+          "source_ids": [
+            "wakamono"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bgf",
+          "name": "BGF Live (thông cáo của BGF Retail/CU)",
+          "title": "CU, 요즘 SNS에서 핫한 K-디저트 ‘피자절편’ 출시!",
+          "url": "https://www.bgf.co.kr/bgflive/view/?categoryId=1&id=2060",
+          "published": "2026-10-12",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "segye",
+          "name": "세계일보 (Segye Ilbo)",
+          "title": "두쫀쿠·버터떡 다음은 '피자절편'…편의점까지 번진 이색 떡 열풍",
+          "url": "https://www.segye.com/newsView/20261025502072",
+          "published": "2026-10-25",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "wakamono",
+          "name": "ワカモノリサーチ",
+          "title": "令和の高校生の流行語1位は「メロい」！SNSは「setlog」…2026年秋の最新トレンド",
+          "url": "https://wakamono-research.co.jp/media/reiwa-teens-top-trends/",
+          "published": "2026-10-09",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Giả thuyết: 2 vị đầu ‘pizza’ và ‘bơ mật ong mè’; mua bánh giầy từ lò truyền thống (ghi rõ nguồn), thêm topping và nướng tại bếp đạt chuẩn. Bán pre-order theo đợt thứ Bảy, giao nội thành hoặc ký gửi quán cà phê sinh viên.",
+      "localize_global": "Biến tấu món truyền thống bằng topping quen thuộc là công thức chung (Hàn: bánh gạo + pizza).",
+      "first_steps": [
+        "Ngày 1–2: thử 4 công thức ở bếp nhà, nhờ 10 người chấm điểm; Claude giúp tính định lượng và giá vốn.",
+        "Ngày 3: chụp ảnh/clip áp chảo kéo phô mai bằng CapCut; thiết kế hộp 4 cái trên Canva.",
+        "Ngày 4–5: mở pre-order qua Zalo OA/TikTok, cọc payOS, giới hạn 40 hộp.",
+        "Ngày 6–7: giao đợt đầu, thu phản hồi, đo tỷ lệ mua lại; tìm hiểu thủ tục chứng nhận an toàn thực phẩm."
+      ],
+      "capital": {
+        "vnd_min_m": 3,
+        "vnd_max_m": 10,
+        "usd_min": 115,
+        "usd_max": 385,
+        "note": "Nguyên liệu thử, hộp, chảo/lò nướng nhỏ, quảng cáo nhỏ. Chưa tính thuê bếp đạt chuẩn."
+      },
+      "risks": [
+        "An toàn thực phẩm: bánh giầy để lâu dễ cứng/hỏng; cần chứng nhận khi bán thường xuyên.",
+        "Trào lưu món ăn nhanh nguội (Hàn cũng đang tự hỏi món sẽ bán được bao lâu).",
+        "Dễ bị quán ăn vặt khác bắt chước.",
+        "Vị ‘pizza + bánh giầy’ có thể không hợp khẩu vị số đông — chỉ là giả thuyết."
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 6,
+        "novelty": 7,
+        "lowcap": 8,
+        "signal": 7,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là đầu bếp phát triển món ăn vặt và người bán đồ ăn pre-order. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: Bánh giầy “biến tấu” kiểu Hàn — bánh giầy nướng phủ topping pizza, bơ mật ong, bán theo đợt cuối tuần\nTóm tắt: Lấy cảm hứng từ ‘pizza seolgi/pizza jeolpyeon’ đang hot ở Hàn: dùng bánh giầy Việt làm đế, phủ sốt cà chua–phô mai–xúc xích hoặc bơ–mật ong–mè, nướng/áp chảo nóng giòn. Bán pre-order theo đợt cuối tuần 25–35 nghìn/cái, hộp 4 cái làm quà.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: KR, JP\nHàn: CU ra “피자절편” (bánh gạo phủ topping pizza) giá 3.800 won từ 8/10; lượt nhắc “피자설기” trên MXH từ dưới 100 (tháng 4) lên hơn 10.000 (tháng 9) theo dữ liệu CU dẫn (BGF 12/10, Segye 25/10); trào lưu bánh gạo biến tấu đã lan sang GS25, 7-Eleven, emart24. Nhật: ‘バター餅’ (bánh dẻo bơ) đồng hạng 3 món ăn đang thịnh hành của học sinh THPT (Wakamono Research 9/10).\nDữ kiện chi tiết (kèm mức xác minh):\n- CU bán “피자절편” giá 3.800 won từ 8/10 (bánh gạo jeolpyeon phủ sốt cà chua, mozzarella, pepperoni, ngô, ô liu, hâm vi sóng khoảng 20 giây); lượt nhắc pizza seolgi trên MXH từ dưới 100 (tháng 4) lên hơn 10.000 (tháng 9) theo Sometrend do CU dẫn. [1 nguồn gốc]\n- Trào lưu bánh gạo biến tấu (pizza seolgi, bánh gạo bơ kiểu Thượng Hải, bánh gạo kiểu Dubai) đã lan sang GS25, 7-Eleven, emart24, đại siêu thị; xuất hiện cụm ‘xếp hàng tiệm bánh gạo’. [2+ nguồn độc lập]\n- Món bánh gạo kiểu Dubai của CU bán khoảng 1,1 triệu cái trong quý IV/2025, lũy kế khoảng 2,8 triệu cái. [1 nguồn gốc]\n- Nhật: ‘バター餅’ đồng hạng 3 bảng món ăn đang thịnh hành của học sinh THPT (sau mala tang và frozen yogurt kiểu Hàn). [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Tìm nhanh chưa thấy ‘bánh giầy pizza’ bán rộng ở Hà Nội (đã có bánh đồng xu phô mai, butter mochi) — chưa khảo sát TikTok kỹ. Vị và giá là giả thuyết; cần giấy chứng nhận an toàn thực phẩm khi bán.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\n57% thích uống ở quán cà phê/trà sữa và 45% coi ‘đáng tiền’ là yếu tố quyết định (ngan-sach) → món ăn vặt 25–35 nghìn đi kèm đồ uống; ẩm thực là nhóm người Việt sẵn sàng trả tiền cho sản phẩm Hàn cao nhất (han-quoc: 66,2% toàn mẫu) — nhãn ‘kiểu Hàn’ giúp tò mò; bán qua video ngắn (video-commerce).\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: 2 vị đầu ‘pizza’ và ‘bơ mật ong mè’; mua bánh giầy từ lò truyền thống (ghi rõ nguồn), thêm topping và nướng tại bếp đạt chuẩn. Bán pre-order theo đợt thứ Bảy, giao nội thành hoặc ký gửi quán cà phê sinh viên.\n\n## 4. Ràng buộc\n- Vốn: khoảng 3–10 triệu VND (Nguyên liệu thử, hộp, chảo/lò nướng nhỏ, quảng cáo nhỏ. Chưa tính thuê bếp đạt chuẩn.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Không bán thường xuyên khi chưa đủ điều kiện an toàn thực phẩm; ghi nguồn bánh giầy và hạn dùng; không dùng tên/thương hiệu của CU. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- An toàn thực phẩm: bánh giầy để lâu dễ cứng/hỏng; cần chứng nhận khi bán thường xuyên.\n- Trào lưu món ăn nhanh nguội (Hàn cũng đang tự hỏi món sẽ bán được bao lâu).\n- Dễ bị quán ăn vặt khác bắt chước.\n- Vị ‘pizza + bánh giầy’ có thể không hợp khẩu vị số đông — chỉ là giả thuyết.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Tính định lượng, giá vốn, viết mô tả, kịch bản clip.\n- CapCut: Clip áp chảo/kéo phô mai, slow motion.\n- Canva: Thiết kế hộp, sticker niêm phong, menu.\n- Zalo Official Account (OA): Nhận pre-order và thông báo đợt giao.\n- payOS (Casso): Thu cọc QR.\n- TikTok Shop Việt Nam (Seller Center): Bán qua video khi đủ giấy tờ.\n  Bản tiết kiệm: Claude (Anthropic), CapCut, Canva, Zalo Official Account (OA), payOS (Casso). Bản cao cấp: Claude (Anthropic), CapCut, Canva, Zalo Official Account (OA), payOS (Casso), TikTok Shop Việt Nam (Seller Center).\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1–2: thử 4 công thức ở bếp nhà, nhờ 10 người chấm điểm; Claude giúp tính định lượng và giá vốn.\n- Ngày 3: chụp ảnh/clip áp chảo kéo phô mai bằng CapCut; thiết kế hộp 4 cái trên Canva.\n- Ngày 4–5: mở pre-order qua Zalo OA/TikTok, cọc payOS, giới hạn 40 hộp.\n- Ngày 6–7: giao đợt đầu, thu phản hồi, đo tỷ lệ mua lại; tìm hiểu thủ tục chứng nhận an toàn thực phẩm.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. 4 công thức thử (định lượng cho 10 cái, cách nướng/áp chảo, thời gian bảo quản) — ghi rõ phần tôi phải thử thực tế\n2. Bảng giá vốn–giá bán cho cái lẻ và hộp 4 (ô giá nguyên liệu để trống)\n3. Quy trình pre-order theo đợt và mẫu tin nhắn\n4. 5 kịch bản clip 15 giây\n5. Danh sách thủ tục an toàn thực phẩm cần hỏi cơ quan chức năng\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.94,
+      "rank": 4
+    },
+    {
+      "id": "20261026-01-bep-hon-loan",
+      "date": "2026-10-26",
+      "title": "“Bếp hỗn loạn” — game nấu ăn nhóm 2 tiếng kiểu Overcooked ngoài đời thật cho Gen Z Hà Nội",
+      "pitch": "Nhóm 4–8 người nhận ‘đơn hàng’ trên màn hình, chia việc, chạy đua nấu 3 món Việt dễ (nem, bún trộn, chè) trong 2 tiếng ở sân vườn quán cà phê thuê theo buổi. Làm hỏng cũng được chấm điểm vui; cuối buổi có video recap. Giá thử 249–349 nghìn/người.",
+      "type": "startup",
+      "category": [
+        "service",
+        "fnb"
+      ],
+      "tags": [
+        "trải nghiệm",
+        "nấu ăn",
+        "team",
+        "game hóa",
+        "cuối tuần"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu đến từ TQ (nhiều nguồn) và Mỹ (khảo sát); nhu cầu của Gen Z Hà Nội với giá 249–349 nghìn là GIẢ THUYẾT. Ở Hà Nội đã có lớp nấu ăn cho khách du lịch (Love Kitchen Lab) nhưng chưa thấy dạng ‘game hỗn loạn’ cho người trẻ địa phương — chưa khảo sát kỹ trên TikTok/Facebook.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261026-01-bep-hon-loan.webp",
+      "image_alt": "Nhóm bạn trẻ đeo tạp dề nấu ăn vui nhộn quanh các bếp mini trong sân vườn, bảng đơn hàng và nồi chảo",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Buổi nấu ăn chạy như một màn game: bảng ‘đơn hàng’ tự nhảy, đồng hồ đếm ngược, cuối buổi mỗi nhóm có clip recap — tất cả dựng bằng công cụ có sẵn, không cần code.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Viết luật chơi, bộ ‘đơn hàng’ ngẫu nhiên, thực đơn định lượng cho 8 người, kịch bản MC.",
+            "why": "Viết tiếng Việt tốt, làm kế hoạch–kịch bản dài có cấu trúc; Pro $17/tháng (trả năm) hoặc $20 (trả tháng) theo trang giá ngày 26/10.",
+            "alt_ids": [
+              "chatgpt",
+              "gemini"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Thiết kế thẻ công thức, bảng điểm, poster đặt chỗ.",
+            "why": "Kéo-thả nhanh, nhiều mẫu; giá gói trả phí chưa đọc được từ trang chính thức nên không nêu.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Dựng clip recap 30 giây cho từng nhóm ngay sau buổi.",
+            "why": "Có bản Free; Pro USD 19,99/tháng (trang giá 26/10) nếu cần mẫu cao cấp.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận đặt chỗ, gửi nhắc lịch và địa chỉ.",
+            "why": "Kênh nhắn tin phổ biến nhất với người Việt; bảng giá gói nâng cao chưa đọc → không nêu.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "payos",
+            "role": "Thu cọc bằng mã QR chuyển khoản.",
+            "why": "Trang chủ ghi cổng thanh toán miễn phí, chi phí do ngân hàng tài trợ (đọc 26/10).",
+            "alt_ids": [
+              "vietqr"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "nano_banana",
+            "role": "Tạo ảnh concept không gian/đạo cụ để chào quán đối tác.",
+            "why": "API Nano Banana 2 khoảng $0,067/ảnh 1K (trang giá Gemini API 26/10); gói Free của API không có model ảnh.",
+            "alt_ids": [
+              "seedream",
+              "flux"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "capcut",
+            "zalo_oa",
+            "payos"
+          ],
+          "monthly_cost_note": "≈ $0/tháng nếu dùng bản Free (Claude Free, Canva Free, CapCut Free, payOS miễn phí).",
+          "tradeoff": "Làm tay nhiều hơn; không có ảnh concept AI."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "capcut",
+            "zalo_oa",
+            "payos",
+            "nano_banana"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $19,99 (CapCut Pro) + vài USD ảnh Nano Banana ≈ $40/tháng; Canva/Zalo OA gói trả phí chưa xác minh giá.",
+          "tradeoff": "Nhanh và đẹp hơn; vẫn cần thử thực tế trước khi trả phí."
+        },
+        "checked": "2026-10-26"
+      },
+      "regions": [
+        "CN",
+        "SEA",
+        "US"
+      ],
+      "signal_text": "TQ: “胡闹厨房” lan ra nhiều thành phố, giá khoảng 100–200 NDT/người; Hàng Châu đón hơn 700 lượt khách dịp Quốc khánh, khách chủ yếu sinh sau 2000 (ifeng 24/10). Mô hình gốc từ Chiang Mai. Baidu realtime 26/10 có mục “农家乐杀回来了”. Mỹ: khoảng 8/10 người trẻ đến không gian vui chơi và nhà hàng theo chủ đề (Harris Poll 10/2026).",
+      "vn_youth_fit": "Gen Z Việt sẵn sàng trả cho trải nghiệm ‘cảm giác cao cấp’ nếu giá hợp lý (xa-xi-vua-tui) và đặt hạn mức chi ăn uống chặt (49% Gen Z tuân thủ nghiêm — ngan-sach) → buổi trọn gói, giá rõ, có món ăn + video mang về là điểm ‘đáng tiền’. Xu hướng đi chơi ngắn ngày, nhạy ngân sách (du-lich) hợp với hoạt động cuối tuần trong thành phố.",
+      "vn_fit_refs": [
+        "xa-xi-vua-tui",
+        "ngan-sach",
+        "du-lich"
+      ],
+      "key_facts": [
+        {
+          "text": "Mô hình “胡闹厨房” có ở nhiều thành phố TQ, giá khoảng 100–200 NDT/người.",
+          "source_ids": [
+            "ifeng_hz",
+            "ifeng_cz",
+            "n163_hn"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Hàng Châu: 198 NDT/người, vé đi kèm 98 NDT; hơn 700 lượt khách dịp Quốc khánh, hơn 5.000 lượt từ khi mở; khách chủ yếu sinh sau 2000.",
+          "source_ids": [
+            "ifeng_hz"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Điểm yếu: đặt chỗ lộn xộn, có lúc một hướng dẫn viên lo 30–40 người.",
+          "source_ids": [
+            "pedaily"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Mỹ: khoảng 8/10 người trẻ đến không gian vui chơi thực tế và nhà hàng/quán bar theo chủ đề.",
+          "source_ids": [
+            "harris"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Đối thủ gần ở Hà Nội: Love Kitchen Lab bán lớp nấu ăn + đi chợ cho khách du lịch, nhóm ghép 29–39 USD/người, lớp 2–10 người.",
+          "source_ids": [
+            "lkl"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ifeng_hz",
+          "name": "凤凰网 (大风号)",
+          "title": "一群00后，为什么抢着来杭州龙坞这间厨房“胡闹”",
+          "url": "https://feng.ifeng.com/c/8xTtbANT8xZ",
+          "published": "2026-10-24",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "ifeng_cz",
+          "name": "凤凰网 (大风号)",
+          "title": "常州小清迈，真火",
+          "url": "https://feng.ifeng.com/c/8xOcHQKUBZL",
+          "published": "2026-10-21",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "n163_hn",
+          "name": "网易 (湘菜人微报)",
+          "title": "真人版“胡闹厨房”爆火，农家乐退潮后，院子餐饮找到新玩法",
+          "url": "https://c.m.163.com/news/a/L91GGKMT0522858F.html",
+          "published": "2026-10-12",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "pedaily",
+          "name": "投资界 (PEdaily)",
+          "title": "打工人排队体验新型农家乐",
+          "url": "https://news.pedaily.cn/202607/566935.shtml",
+          "published": "2026-07-29",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "harris",
+          "name": "The Harris Poll",
+          "title": "The Rise of Kidulting Report (October 2026)",
+          "url": "https://theharrispoll.com/wp-content/uploads/2026/10/The-Rise-of-Kidulting-Report-October-2026.pdf",
+          "published": "2026-10",
+          "accessed": "2026-10-26",
+          "how_read": "mở file PDF",
+          "note": "Khảo sát online 2.158 người trưởng thành Mỹ, 25–27/6/2026."
+        },
+        {
+          "id": "baidu_rt",
+          "name": "Baidu 百度热搜 (mục #31)",
+          "title": "被年轻人抛弃的农家乐杀回来了",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 26/10 ~07:00 (UTC+7); mô tả: 重庆等地农家乐引入“胡闹厨房”真人体验，客流爆满."
+        },
+        {
+          "id": "lkl",
+          "name": "Love Kitchen Lab (Hà Nội)",
+          "title": "Vietnamese Cooking Class At Love Kitchen Lab",
+          "url": "https://lovekitchenlab.com/vietnamese-cooking-class-at-love-kitchen-lab/",
+          "published": null,
+          "accessed": "2026-10-26",
+          "how_read": "mở trang (qua WebFetch)",
+          "note": "Trang bán dịch vụ, không ghi ngày."
+        }
+      ],
+      "localize_vn": "Giả thuyết: thuê sân vườn quán cà phê/homestay ven Tây Hồ, Long Biên vào khung giờ vắng (chiều thứ Bảy, tối thứ Sáu); 4 trạm bếp mini, bảng ‘đơn hàng’ chiếu từ laptop; món Việt dễ nấu; mỗi nhóm nhận clip 30 giây. Bán cho nhóm bạn, team công ty nhỏ, sinh nhật. Kiểm tra trước điều kiện an toàn thực phẩm và PCCC của địa điểm.",
+      "localize_global": "Ở TQ là cách các nông trại ăn uống ‘sống lại’; ở VN có thể gắn với quán cà phê sân vườn đang vắng khách ngày thường.",
+      "first_steps": [
+        "Ngày 1: chọn 3 món Việt nấu được trong 20 phút, viết luật chơi và ‘đơn hàng’ bằng Claude; hỏi 2 quán sân vườn về giá thuê theo buổi.",
+        "Ngày 2: đăng bài/clip giới thiệu + form đặt chỗ (Zalo OA) với 2 khung giờ; nhận cọc qua mã QR payOS.",
+        "Ngày 3–5: chạy 1 buổi thử miễn phí/giảm giá cho 8 người quen, quay clip CapCut, đo thời gian từng trạm.",
+        "Ngày 6–7: chạy 1 buổi bán thật; đo tỷ lệ lấp chỗ, chi phí nguyên liệu/người, điểm hài lòng; quyết định đi tiếp/dừng."
+      ],
+      "capital": {
+        "vnd_min_m": 15,
+        "vnd_max_m": 45,
+        "usd_min": 577,
+        "usd_max": 1731,
+        "note": "Thuê địa điểm theo buổi, 4 bếp mini + dụng cụ, đạo cụ/tạp dề, nguyên liệu 2 buổi thử, in bảng luật. Không thuê mặt bằng cố định."
+      },
+      "risks": [
+        "An toàn thực phẩm, dao, lửa — cần quy trình và bảo hiểm/cam kết của địa điểm.",
+        "Dễ bị sao chép; lợi thế nằm ở kịch bản và cộng đồng.",
+        "Mô hình ở TQ từng bị phàn nàn vì đặt chỗ lộn xộn, quá tải hướng dẫn viên.",
+        "Nhu cầu ở Hà Nội và mức giá là giả thuyết; thời tiết mưa/lạnh ảnh hưởng sân vườn."
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 7,
+        "novelty": 6,
+        "lowcap": 6,
+        "signal": 9,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là người thiết kế trải nghiệm sự kiện nhỏ và vận hành dịch vụ ăn uống. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Bếp hỗn loạn” — game nấu ăn nhóm 2 tiếng kiểu Overcooked ngoài đời thật cho Gen Z Hà Nội\nTóm tắt: Nhóm 4–8 người nhận ‘đơn hàng’ trên màn hình, chia việc, chạy đua nấu 3 món Việt dễ (nem, bún trộn, chè) trong 2 tiếng ở sân vườn quán cà phê thuê theo buổi. Làm hỏng cũng được chấm điểm vui; cuối buổi có video recap. Giá thử 249–349 nghìn/người.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN, SEA, US\nTQ: “胡闹厨房” lan ra nhiều thành phố, giá khoảng 100–200 NDT/người; Hàng Châu đón hơn 700 lượt khách dịp Quốc khánh, khách chủ yếu sinh sau 2000 (ifeng 24/10). Mô hình gốc từ Chiang Mai. Baidu realtime 26/10 có mục “农家乐杀回来了”. Mỹ: khoảng 8/10 người trẻ đến không gian vui chơi và nhà hàng theo chủ đề (Harris Poll 10/2026).\nDữ kiện chi tiết (kèm mức xác minh):\n- Mô hình “胡闹厨房” có ở nhiều thành phố TQ, giá khoảng 100–200 NDT/người. [2+ nguồn độc lập]\n- Hàng Châu: 198 NDT/người, vé đi kèm 98 NDT; hơn 700 lượt khách dịp Quốc khánh, hơn 5.000 lượt từ khi mở; khách chủ yếu sinh sau 2000. [1 nguồn gốc]\n- Điểm yếu: đặt chỗ lộn xộn, có lúc một hướng dẫn viên lo 30–40 người. [1 nguồn gốc]\n- Mỹ: khoảng 8/10 người trẻ đến không gian vui chơi thực tế và nhà hàng/quán bar theo chủ đề. [1 nguồn gốc]\n- Đối thủ gần ở Hà Nội: Love Kitchen Lab bán lớp nấu ăn + đi chợ cho khách du lịch, nhóm ghép 29–39 USD/người, lớp 2–10 người. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Tín hiệu đến từ TQ (nhiều nguồn) và Mỹ (khảo sát); nhu cầu của Gen Z Hà Nội với giá 249–349 nghìn là GIẢ THUYẾT. Ở Hà Nội đã có lớp nấu ăn cho khách du lịch (Love Kitchen Lab) nhưng chưa thấy dạng ‘game hỗn loạn’ cho người trẻ địa phương — chưa khảo sát kỹ trên TikTok/Facebook.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nGen Z Việt sẵn sàng trả cho trải nghiệm ‘cảm giác cao cấp’ nếu giá hợp lý (xa-xi-vua-tui) và đặt hạn mức chi ăn uống chặt (49% Gen Z tuân thủ nghiêm — ngan-sach) → buổi trọn gói, giá rõ, có món ăn + video mang về là điểm ‘đáng tiền’. Xu hướng đi chơi ngắn ngày, nhạy ngân sách (du-lich) hợp với hoạt động cuối tuần trong thành phố.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: thuê sân vườn quán cà phê/homestay ven Tây Hồ, Long Biên vào khung giờ vắng (chiều thứ Bảy, tối thứ Sáu); 4 trạm bếp mini, bảng ‘đơn hàng’ chiếu từ laptop; món Việt dễ nấu; mỗi nhóm nhận clip 30 giây. Bán cho nhóm bạn, team công ty nhỏ, sinh nhật. Kiểm tra trước điều kiện an toàn thực phẩm và PCCC của địa điểm.\n\n## 4. Ràng buộc\n- Vốn: khoảng 15–45 triệu VND (Thuê địa điểm theo buổi, 4 bếp mini + dụng cụ, đạo cụ/tạp dề, nguyên liệu 2 buổi thử, in bảng luật. Không thuê mặt bằng cố định.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Kiểm tra điều kiện an toàn thực phẩm, PCCC của địa điểm; không quảng cáo là ‘lớp dạy nghề’; ghi rõ chính sách hủy/hoàn cọc. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- An toàn thực phẩm, dao, lửa — cần quy trình và bảo hiểm/cam kết của địa điểm.\n- Dễ bị sao chép; lợi thế nằm ở kịch bản và cộng đồng.\n- Mô hình ở TQ từng bị phàn nàn vì đặt chỗ lộn xộn, quá tải hướng dẫn viên.\n- Nhu cầu ở Hà Nội và mức giá là giả thuyết; thời tiết mưa/lạnh ảnh hưởng sân vườn.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Viết luật chơi, bộ ‘đơn hàng’ ngẫu nhiên, thực đơn định lượng cho 8 người, kịch bản MC.\n- Canva: Thiết kế thẻ công thức, bảng điểm, poster đặt chỗ.\n- CapCut: Dựng clip recap 30 giây cho từng nhóm ngay sau buổi.\n- Zalo Official Account (OA): Nhận đặt chỗ, gửi nhắc lịch và địa chỉ.\n- payOS (Casso): Thu cọc bằng mã QR chuyển khoản.\n- Nano Banana (Gemini image, Google): Tạo ảnh concept không gian/đạo cụ để chào quán đối tác.\n  Bản tiết kiệm: Claude (Anthropic), Canva, CapCut, Zalo Official Account (OA), payOS (Casso). Bản cao cấp: Claude (Anthropic), Canva, CapCut, Zalo Official Account (OA), payOS (Casso), Nano Banana (Gemini image, Google).\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: chọn 3 món Việt nấu được trong 20 phút, viết luật chơi và ‘đơn hàng’ bằng Claude; hỏi 2 quán sân vườn về giá thuê theo buổi.\n- Ngày 2: đăng bài/clip giới thiệu + form đặt chỗ (Zalo OA) với 2 khung giờ; nhận cọc qua mã QR payOS.\n- Ngày 3–5: chạy 1 buổi thử miễn phí/giảm giá cho 8 người quen, quay clip CapCut, đo thời gian từng trạm.\n- Ngày 6–7: chạy 1 buổi bán thật; đo tỷ lệ lấp chỗ, chi phí nguyên liệu/người, điểm hài lòng; quyết định đi tiếp/dừng.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Luật chơi đầy đủ (vai trò, ‘đơn hàng’, cách tính điểm vui, xử lý khi nhóm làm hỏng) cho buổi 2 tiếng\n2. Thực đơn 3 món Việt dễ: định lượng cho 8 người, danh sách dụng cụ, quy trình an toàn bếp & vệ sinh\n3. Kịch bản MC theo phút và checklist chuẩn bị trước buổi\n4. Bảng chi phí–giá vé–điểm hòa vốn (để trống các ô giá tôi phải tự hỏi)\n5. Nội dung đặt chỗ: bài đăng, tin nhắn Zalo tự động, kịch bản clip recap\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.82,
+      "rank": 5
+    },
+    {
+      "id": "20261026-03-vlog-2-giay-cho-lop",
+      "date": "2026-10-26",
+      "title": "“Vlog 2 giây” cho lớp, CLB, tiệc — quét QR, mỗi người quay 2 giây, tự ghép thành một vlog chung",
+      "pitch": "Web app không cần cài: ban tổ chức tạo ‘phòng’, in mã QR; khách quét, quay clip 2 giây; hết buổi hệ thống ghép theo thời gian thành vlog 60–90 giây có nhạc nền. Bán gói theo sự kiện (lớp tốt nghiệp, CLB, sinh nhật) 99–299 nghìn.",
+      "type": "startup",
+      "category": [
+        "ai",
+        "content",
+        "service"
+      ],
+      "tags": [
+        "vlog",
+        "QR",
+        "sự kiện",
+        "học sinh",
+        "web app"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu chỉ từ Nhật (setlog). Ở VN đã có dịch vụ album ảnh sự kiện qua QR (Joysnap, Chia Sẻ Ảnh) — khác biệt ở clip 2 giây tự ghép, nhưng có thể bị họ thêm tính năng nhanh. Giá 99–299 nghìn là giả thuyết.",
+      "confidence": "thấp",
+      "image": "assets/ideas/20261026-03-vlog-2-giay-cho-lop.webp",
+      "image_alt": "Điện thoại quét mã QR, các khung clip nhỏ ghép thành một dải phim vlog giữa nhóm bạn đang vui chơi",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Không cài app: quét QR là quay — hết buổi có ngay một vlog chung của cả lớp, dựng bằng một web app nhỏ do AI viết code.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Viết code web app (quay clip, upload, ghép theo thời gian), giao diện tiếng Việt, điều khoản quyền riêng tư.",
+            "why": "Viết tiếng Việt tốt, làm kế hoạch–kịch bản dài có cấu trúc; Pro $17/tháng (trả năm) hoặc $20 (trả tháng) theo trang giá ngày 26/10.",
+            "alt_ids": [
+              "chatgpt",
+              "gemini"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "supabase",
+            "role": "Lưu clip và dữ liệu phòng sự kiện, đăng nhập ban tổ chức.",
+            "why": "Free: 500 MB DB, 1 GB file, 50.000 MAU; Pro từ $25/tháng (trang giá 26/10).",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "cloudflare_pages",
+            "role": "Host web app tĩnh, tốc độ tốt.",
+            "why": "Trang ghi băng thông/requests không giới hạn ở mọi gói (26/10).",
+            "alt_ids": [
+              "vercel",
+              "github_pages"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "payos",
+            "role": "Thu phí gói sự kiện bằng QR.",
+            "why": "Miễn phí theo trang chủ (26/10).",
+            "alt_ids": [
+              "vietqr"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Làm intro/outro mẫu cho vlog.",
+            "why": "Free; Pro USD 19,99/tháng.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "supabase",
+            "cloudflare_pages",
+            "payos"
+          ],
+          "monthly_cost_note": "≈ $0/tháng khi còn trong hạn mức Free.",
+          "tradeoff": "Dung lượng video giới hạn; phải xóa clip cũ định kỳ."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "supabase",
+            "vercel",
+            "payos",
+            "capcut"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $25 (Supabase Pro) + $20 (Vercel Pro) + $19,99 (CapCut Pro) ≈ $82–85/tháng.",
+          "tradeoff": "Đủ dung lượng cho nhiều sự kiện cùng lúc; chỉ nâng khi có đơn."
+        },
+        "checked": "2026-10-26"
+      },
+      "regions": [
+        "JP"
+      ],
+      "signal_text": "Nhật: app setlog (mỗi lần quay 2 giây, ghép thành vlog trong ngày) đứng số 1 bảng ‘đang thịnh hành’ của học sinh THPT với 33,9% (Wakamono Research 9/10); khảo sát 479 học sinh–sinh viên: 91,4% biết, 73,7% đang dùng, 93,1% mới bắt đầu trong 3 tháng (Parente 3/8). Học sinh nói dùng để làm vlog nhanh trong các dịp sự kiện.",
+      "vn_youth_fit": "Gen Z Việt dùng trung bình 3 app ‘không thể thiếu’ (genz-app) nên khó cài thêm app mới → dạng web/QR không cần cài hợp hơn; 81% người dùng Việt tương tác với AI hằng ngày (ai); Facebook/Zalo/YouTube là kênh chia sẻ chính (mxh-top) — vlog xuất ra file để đăng lại.",
+      "vn_fit_refs": [
+        "genz-app",
+        "ai",
+        "mxh-top"
+      ],
+      "key_facts": [
+        {
+          "text": "setlog đứng số 1 bảng ‘đang thịnh hành’ với 33,9% học sinh THPT chọn; điểm cộng là không phải lo follower/lượt thích; học sinh dùng để làm vlog nhanh ở sự kiện.",
+          "source_ids": [
+            "wakamono"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "479 học sinh–sinh viên: 91,4% biết setlog, 73,7% dùng, 93,1% bắt đầu trong 3 tháng gần nhất; 51,0% cho rằng đây là trào lưu nhất thời.",
+          "source_ids": [
+            "parente"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "setlog được hai khảo sát độc lập ghi nhận là trào lưu lớn của học sinh Nhật mùa thu 2026.",
+          "source_ids": [
+            "wakamono",
+            "parente"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "VN đã có dịch vụ album ảnh/video sự kiện qua QR: Joysnap (album qua QR, sẵn sàng trong 30 giây), Chia Sẻ Ảnh.",
+          "source_ids": [
+            "joysnap",
+            "chiaseanh"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "id": "wakamono",
+          "name": "ワカモノリサーチ",
+          "title": "令和の高校生の流行語1位は「メロい」！SNSは「setlog」…2026年秋の最新トレンド",
+          "url": "https://wakamono-research.co.jp/media/reiwa-teens-top-trends/",
+          "published": "2026-10-09",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "parente",
+          "name": "PR TIMES (株式会社パレンテ)",
+          "title": "話題のVlogアプリ「Setlog」の利用実態を学生479名に調査！認知率91.4%…",
+          "url": "https://prtimes.jp/main/html/rd/p/000000102.000033964.html",
+          "published": "2026-08-03",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "joysnap",
+          "name": "Joysnap (VN)",
+          "title": "Joysnap – Album ảnh sự kiện qua QR, sẵn sàng trong 30 giây",
+          "url": "https://joysnap.live/",
+          "published": null,
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Trang sản phẩm, không ghi ngày."
+        },
+        {
+          "id": "chiaseanh",
+          "name": "Chia Sẻ Ảnh (VN)",
+          "title": "Chia Sẻ Ảnh — khách mời quét QR gửi ảnh/video sự kiện",
+          "url": "https://chiaseanh.com/",
+          "published": null,
+          "accessed": "2026-10-26",
+          "how_read": "qua kết quả tìm kiếm (không mở được/không mở trang gốc)",
+          "note": "Trang sản phẩm không ghi ngày; chỉ đọc đoạn trích tìm kiếm."
+        }
+      ],
+      "localize_vn": "Giả thuyết: bắt đầu với lớp 12/sinh viên năm cuối (kỷ yếu), CLB trường, tiệc công ty nhỏ. Bán qua ban cán sự lớp; vlog có intro tên lớp và nhạc không bản quyền.",
+      "localize_global": "Không cạnh tranh với setlog (app mạng xã hội) mà là công cụ cho sự kiện một lần.",
+      "first_steps": [
+        "Ngày 1–2: nhờ Claude viết MVP web (tạo phòng, QR, quay 2 giây, lưu Supabase), deploy Cloudflare Pages.",
+        "Ngày 3: thử với 10 người quen trong một buổi cà phê; đo tỷ lệ người quét QR và quay.",
+        "Ngày 4–5: nhờ 2 lớp/CLB dùng miễn phí ở buổi sinh hoạt; ghép vlog, xin phản hồi.",
+        "Ngày 6–7: chào gói trả phí qua payOS cho 5 ban tổ chức; đếm số đơn."
+      ],
+      "capital": {
+        "vnd_min_m": 2,
+        "vnd_max_m": 8,
+        "usd_min": 77,
+        "usd_max": 308,
+        "note": "Tên miền, thiết bị test, quảng cáo nhỏ; hạ tầng dùng gói Free (Supabase Free có 500 MB DB, 1 GB file — cần theo dõi dung lượng video)."
+      },
+      "risks": [
+        "Video tốn dung lượng/băng thông — có thể vượt gói Free nhanh.",
+        "Quyền riêng tư: quay người khác, trẻ vị thành niên — cần đồng ý và cho xóa clip.",
+        "Đối thủ album QR có sẵn khách hàng, có thể thêm tính năng tương tự.",
+        "Tín hiệu chỉ từ một quốc gia; 51% người dùng Nhật nghĩ là trào lưu nhất thời."
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 6,
+        "novelty": 5,
+        "lowcap": 8,
+        "signal": 7,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là kỹ sư full-stack làm sản phẩm web nhỏ cho sự kiện. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Vlog 2 giây” cho lớp, CLB, tiệc — quét QR, mỗi người quay 2 giây, tự ghép thành một vlog chung\nTóm tắt: Web app không cần cài: ban tổ chức tạo ‘phòng’, in mã QR; khách quét, quay clip 2 giây; hết buổi hệ thống ghép theo thời gian thành vlog 60–90 giây có nhạc nền. Bán gói theo sự kiện (lớp tốt nghiệp, CLB, sinh nhật) 99–299 nghìn.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: JP\nNhật: app setlog (mỗi lần quay 2 giây, ghép thành vlog trong ngày) đứng số 1 bảng ‘đang thịnh hành’ của học sinh THPT với 33,9% (Wakamono Research 9/10); khảo sát 479 học sinh–sinh viên: 91,4% biết, 73,7% đang dùng, 93,1% mới bắt đầu trong 3 tháng (Parente 3/8). Học sinh nói dùng để làm vlog nhanh trong các dịp sự kiện.\nDữ kiện chi tiết (kèm mức xác minh):\n- setlog đứng số 1 bảng ‘đang thịnh hành’ với 33,9% học sinh THPT chọn; điểm cộng là không phải lo follower/lượt thích; học sinh dùng để làm vlog nhanh ở sự kiện. [1 nguồn gốc]\n- 479 học sinh–sinh viên: 91,4% biết setlog, 73,7% dùng, 93,1% bắt đầu trong 3 tháng gần nhất; 51,0% cho rằng đây là trào lưu nhất thời. [1 nguồn gốc]\n- setlog được hai khảo sát độc lập ghi nhận là trào lưu lớn của học sinh Nhật mùa thu 2026. [2+ nguồn độc lập]\n- VN đã có dịch vụ album ảnh/video sự kiện qua QR: Joysnap (album qua QR, sẵn sàng trong 30 giây), Chia Sẻ Ảnh. [2+ nguồn độc lập]\n\nLƯU Ý ĐỘ TIN CẬY: Tín hiệu chỉ từ Nhật (setlog). Ở VN đã có dịch vụ album ảnh sự kiện qua QR (Joysnap, Chia Sẻ Ảnh) — khác biệt ở clip 2 giây tự ghép, nhưng có thể bị họ thêm tính năng nhanh. Giá 99–299 nghìn là giả thuyết.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nGen Z Việt dùng trung bình 3 app ‘không thể thiếu’ (genz-app) nên khó cài thêm app mới → dạng web/QR không cần cài hợp hơn; 81% người dùng Việt tương tác với AI hằng ngày (ai); Facebook/Zalo/YouTube là kênh chia sẻ chính (mxh-top) — vlog xuất ra file để đăng lại.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: bắt đầu với lớp 12/sinh viên năm cuối (kỷ yếu), CLB trường, tiệc công ty nhỏ. Bán qua ban cán sự lớp; vlog có intro tên lớp và nhạc không bản quyền.\n\n## 4. Ràng buộc\n- Vốn: khoảng 2–8 triệu VND (Tên miền, thiết bị test, quảng cáo nhỏ; hạ tầng dùng gói Free (Supabase Free có 500 MB DB, 1 GB file — cần theo dõi dung lượng video).)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Xin đồng ý trước khi quay; với người dưới 18 tuổi cần cách xin phép phù hợp; cho phép xóa dữ liệu; không dùng nhạc có bản quyền khi chưa có giấy phép. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Video tốn dung lượng/băng thông — có thể vượt gói Free nhanh.\n- Quyền riêng tư: quay người khác, trẻ vị thành niên — cần đồng ý và cho xóa clip.\n- Đối thủ album QR có sẵn khách hàng, có thể thêm tính năng tương tự.\n- Tín hiệu chỉ từ một quốc gia; 51% người dùng Nhật nghĩ là trào lưu nhất thời.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Viết code web app (quay clip, upload, ghép theo thời gian), giao diện tiếng Việt, điều khoản quyền riêng tư.\n- Supabase: Lưu clip và dữ liệu phòng sự kiện, đăng nhập ban tổ chức.\n- Cloudflare Pages / Workers: Host web app tĩnh, tốc độ tốt.\n- payOS (Casso): Thu phí gói sự kiện bằng QR.\n- CapCut: Làm intro/outro mẫu cho vlog.\n  Bản tiết kiệm: Claude (Anthropic), Supabase, Cloudflare Pages / Workers, payOS (Casso). Bản cao cấp: Claude (Anthropic), Supabase, Vercel, payOS (Casso), CapCut.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1–2: nhờ Claude viết MVP web (tạo phòng, QR, quay 2 giây, lưu Supabase), deploy Cloudflare Pages.\n- Ngày 3: thử với 10 người quen trong một buổi cà phê; đo tỷ lệ người quét QR và quay.\n- Ngày 4–5: nhờ 2 lớp/CLB dùng miễn phí ở buổi sinh hoạt; ghép vlog, xin phản hồi.\n- Ngày 6–7: chào gói trả phí qua payOS cho 5 ban tổ chức; đếm số đơn.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Kiến trúc MVP và mã nguồn đầy đủ: tạo phòng, sinh QR, quay clip 2 giây trên trình duyệt điện thoại, upload, trang ban tổ chức\n2. Cách ghép clip theo thời gian thành một video (nêu phương án chạy trên trình duyệt hoặc máy chủ, ưu–nhược)\n3. Chính sách quyền riêng tư & đồng ý quay ngắn gọn bằng tiếng Việt, nút xóa clip\n4. Bảng ước tính dung lượng/chi phí theo số sự kiện (công thức để tôi tự điền)\n5. Kịch bản chào bán cho ban cán sự lớp/CLB và tiêu chí đi tiếp\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.52,
+      "rank": 6
+    },
+    {
+      "id": "20261026-07-thue-tron-bo-sap-cho-phien",
+      "date": "2026-10-26",
+      "title": "Thuê trọn bộ “sạp chợ phiên” — bàn, khăn, kệ, đèn, bảng giá QR cho người bán lần đầu",
+      "pitch": "Người trẻ lần đầu bán ở chợ sáng tạo/hội chợ thường phải mua bàn gấp, khăn trải, kệ, đèn, bảng giá… rồi để xó. Dịch vụ cho thuê nguyên bộ theo ngày 150–250 nghìn, giao tận nơi, kèm bảng giá in sẵn mã QR thanh toán và 3 kiểu bày sạp mẫu.",
+      "type": "startup",
+      "category": [
+        "service",
+        "b2b"
+      ],
+      "tags": [
+        "chợ phiên",
+        "cho thuê",
+        "người bán nhỏ",
+        "local brand"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Chưa tìm thấy dịch vụ cho thuê ‘trọn bộ sạp nhỏ’ hướng tới người bán chợ phiên ở Hà Nội (có cho thuê thiết bị sự kiện lớn) — chưa khảo sát kỹ. Số người bán lần đầu và mức giá là giả thuyết.",
+      "confidence": "thấp",
+      "image": "assets/ideas/20261026-07-thue-tron-bo-sap-cho-phien.webp",
+      "image_alt": "Sạp chợ phiên nhỏ gọn với bàn gấp phủ khăn, kệ gỗ hai tầng, đèn kẹp và bảng giá có mã QR",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Người bán chỉ cần mang hàng tới: sạp đẹp như local brand trong 15 phút, bảng giá có sẵn mã QR thanh toán đúng tài khoản của họ.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Hợp đồng thuê, chính sách cọc/hư hỏng, kịch bản chào ban tổ chức.",
+            "why": "Viết tiếng Việt tốt, làm kế hoạch–kịch bản dài có cấu trúc; Pro $17/tháng (trả năm) hoặc $20 (trả tháng) theo trang giá ngày 26/10.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "3 bố cục bày sạp mẫu, bảng giá A5, ảnh quảng cáo.",
+            "why": "Mẫu in nhanh; giá gói trả phí chưa xác minh.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Tạo ảnh mã VietQR cho bảng giá của từng người thuê.",
+            "why": "Chèn ảnh VietQR bằng một URL (trang vietqr.io); giá API chưa xác minh.",
+            "alt_ids": [
+              "payos"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận đặt thuê, gửi hướng dẫn lắp.",
+            "why": "Giá gói nâng cao chưa xác minh.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "payos",
+            "role": "Thu cọc QR của người thuê.",
+            "why": "Miễn phí theo trang chủ (26/10).",
+            "alt_ids": [
+              "momo"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "vietqr",
+            "zalo_oa"
+          ],
+          "monthly_cost_note": "≈ $0/tháng (bản Free); thu cọc bằng chuyển khoản thường.",
+          "tradeoff": "Đối soát cọc thủ công."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "vietqr",
+            "zalo_oa",
+            "payos"
+          ],
+          "monthly_cost_note": "≈ $17–20/tháng (Claude Pro); payOS miễn phí theo trang chủ; Canva/Zalo OA trả phí chưa xác minh.",
+          "tradeoff": "Đối soát cọc tự động."
+        },
+        "checked": "2026-10-26"
+      },
+      "regions": [
+        "CN",
+        "VN"
+      ],
+      "signal_text": "TQ: Tân Khoái Báo 26/10 — 67% chủ sạp chợ sáng tạo là bán thời gian, 62,4% khách chi dưới 100 NDT/lần, 75% khách 18–35 tuổi. Hà Nội: lịch chợ sáng tạo dày — Big Village Project lần thứ 8 (17/10), Craftopia × Lotte Mall Tây Hồ (30/10–1/11).",
+      "vn_youth_fit": "Thanh niên 15–24 có tỷ lệ thất nghiệp 8,64% và nhiều người làm thêm (viec-lam-tre) → bán sạp cuối tuần là việc phụ phổ biến; thanh toán QR/ví đã quen (vi-dien-tu); người mua trẻ thích món ‘vừa túi nhưng đẹp’ (xa-xi-vua-tui) nên sạp trình bày đẹp bán tốt hơn.",
+      "vn_fit_refs": [
+        "viec-lam-tre",
+        "vi-dien-tu",
+        "xa-xi-vua-tui"
+      ],
+      "key_facts": [
+        {
+          "text": "67% chủ sạp chợ sáng tạo đô thị TQ làm bán thời gian; 62,4% khách chi dưới 100 NDT/lần; 75% khách 18–35 tuổi.",
+          "source_ids": [
+            "xkb"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hà Nội có lịch chợ sáng tạo/hội chợ thủ công dày: Big Village Project lần thứ 8 (17/10, vé 110.000đ) và Craftopia × Lotte Mall Tây Hồ (30/10–1/11).",
+          "source_ids": [
+            "cityguide",
+            "somo"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Bài học TQ: cửa hàng trải nghiệm DIY mở ồ ạt rồi đóng cửa — mô hình nhẹ tài sản, linh hoạt an toàn hơn.",
+          "source_ids": [
+            "qq_pindou",
+            "jj21_pindou"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "id": "xkb",
+          "name": "新快报 (bản báo giấy điện tử)",
+          "title": "年轻人“重返附近” 青春经济让赶集焕发新生",
+          "url": "https://ep.ycwb.com/epaper/xkb/html/2026-10/26/content_1512_769981.htm",
+          "published": "2026-10-26",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "cityguide",
+          "name": "CityGuide Hà Nội",
+          "title": "Chợ sáng tạo «Big Village Project Vol.8»",
+          "url": "https://cityguide.vn/vn/hanoi/su-kien/so-thich-va-thu-cong/gap-go-theo-chu-de/cho-sang-tao-big-village-project-vol-8-868b6c13-097a-414d-bd70-da7be1ba796b",
+          "published": "2026-10-17",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Trang sự kiện; ngày là ngày diễn ra (17/10/2026)."
+        },
+        {
+          "id": "somo",
+          "name": "Somo (tự động liệt kê từ Facebook)",
+          "title": "CRAFTOPIA X LOTTE MALL WEST LAKE: COFFEE WEEKEND FAIR 2026",
+          "url": "https://somo.social/e/craftopia-x-lotte-mall-west-lake-coffee-weekend-fair-2026-10-30",
+          "published": "2026-10-30",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang",
+          "note": "Trang sự kiện; ngày là ngày diễn ra (30/10–1/11/2026). Somo không phải ban tổ chức."
+        },
+        {
+          "id": "qq_pindou",
+          "name": "腾讯新闻",
+          "title": "从排队到9.9元也无人问津，2026最火爆的拼豆生意，开始批量倒闭了",
+          "url": "https://news.qq.com/rain/a/20261021A09FUT00",
+          "published": "2026-10-21",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "jj21_pindou",
+          "name": "21经济网 (羊城派)",
+          "title": "网红拼豆店出现倒闭潮，“三个月亏了10万”“半年收不回本”等信息充斥网络",
+          "url": "https://www.21jingji.com/article/20261024/herald/2bdacc011072dadc160c7e0aa8006117.html",
+          "published": "2026-10-24",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Giả thuyết: 10 bộ sạp ban đầu (bàn gấp 1,2m, khăn 3 màu, kệ 2 tầng, đèn kẹp, giá treo, bảng giá A5 in QR); hợp tác với ban tổ chức chợ để được giới thiệu cho người bán mới; giao–nhận bằng xe ba gác/ứng dụng giao hàng.",
+      "localize_global": "Mô hình ‘thuê thay vì mua’ cho người bán nhỏ có thể nhân bản ở TP HCM, Đà Nẵng.",
+      "first_steps": [
+        "Ngày 1: liệt kê đồ trong một sạp, hỏi giá mua sỉ; Claude soạn hợp đồng thuê và chính sách đặt cọc.",
+        "Ngày 2: nhắn 5 ban tổ chức chợ sắp diễn ra xin giới thiệu dịch vụ cho người bán mới.",
+        "Ngày 3–4: làm 2 bộ mẫu, chụp 3 kiểu bày sạp (Canva), mở đặt qua Zalo OA, cọc payOS.",
+        "Ngày 5–7: cho thuê ở 1 phiên chợ; đo số bộ thuê, hư hỏng, thời gian giao–nhận."
+      ],
+      "capital": {
+        "vnd_min_m": 10,
+        "vnd_max_m": 30,
+        "usd_min": 385,
+        "usd_max": 1154,
+        "note": "Mua 5–10 bộ đồ bày sạp, chi phí vận chuyển, in bảng giá; có thể bắt đầu với 2 bộ."
+      },
+      "risks": [
+        "Nhu cầu theo mùa/theo lịch chợ, không đều.",
+        "Hư hỏng, mất đồ — cần đặt cọc và biên bản.",
+        "Ban tổ chức chợ có thể tự cung cấp bàn ghế.",
+        "Vận chuyển cồng kềnh làm giảm lãi."
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 5,
+        "novelty": 6,
+        "lowcap": 7,
+        "signal": 6,
+        "vnfit": 6
+      },
+      "claude_prompt": "Bạn là người vận hành dịch vụ cho thuê thiết bị nhỏ và tư vấn bày sạp bán lẻ. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: Thuê trọn bộ “sạp chợ phiên” — bàn, khăn, kệ, đèn, bảng giá QR cho người bán lần đầu\nTóm tắt: Người trẻ lần đầu bán ở chợ sáng tạo/hội chợ thường phải mua bàn gấp, khăn trải, kệ, đèn, bảng giá… rồi để xó. Dịch vụ cho thuê nguyên bộ theo ngày 150–250 nghìn, giao tận nơi, kèm bảng giá in sẵn mã QR thanh toán và 3 kiểu bày sạp mẫu.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN, VN\nTQ: Tân Khoái Báo 26/10 — 67% chủ sạp chợ sáng tạo là bán thời gian, 62,4% khách chi dưới 100 NDT/lần, 75% khách 18–35 tuổi. Hà Nội: lịch chợ sáng tạo dày — Big Village Project lần thứ 8 (17/10), Craftopia × Lotte Mall Tây Hồ (30/10–1/11).\nDữ kiện chi tiết (kèm mức xác minh):\n- 67% chủ sạp chợ sáng tạo đô thị TQ làm bán thời gian; 62,4% khách chi dưới 100 NDT/lần; 75% khách 18–35 tuổi. [1 nguồn gốc]\n- Hà Nội có lịch chợ sáng tạo/hội chợ thủ công dày: Big Village Project lần thứ 8 (17/10, vé 110.000đ) và Craftopia × Lotte Mall Tây Hồ (30/10–1/11). [2+ nguồn độc lập]\n- Bài học TQ: cửa hàng trải nghiệm DIY mở ồ ạt rồi đóng cửa — mô hình nhẹ tài sản, linh hoạt an toàn hơn. [2+ nguồn độc lập]\n\nLƯU Ý ĐỘ TIN CẬY: Chưa tìm thấy dịch vụ cho thuê ‘trọn bộ sạp nhỏ’ hướng tới người bán chợ phiên ở Hà Nội (có cho thuê thiết bị sự kiện lớn) — chưa khảo sát kỹ. Số người bán lần đầu và mức giá là giả thuyết.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nThanh niên 15–24 có tỷ lệ thất nghiệp 8,64% và nhiều người làm thêm (viec-lam-tre) → bán sạp cuối tuần là việc phụ phổ biến; thanh toán QR/ví đã quen (vi-dien-tu); người mua trẻ thích món ‘vừa túi nhưng đẹp’ (xa-xi-vua-tui) nên sạp trình bày đẹp bán tốt hơn.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: 10 bộ sạp ban đầu (bàn gấp 1,2m, khăn 3 màu, kệ 2 tầng, đèn kẹp, giá treo, bảng giá A5 in QR); hợp tác với ban tổ chức chợ để được giới thiệu cho người bán mới; giao–nhận bằng xe ba gác/ứng dụng giao hàng.\n\n## 4. Ràng buộc\n- Vốn: khoảng 10–30 triệu VND (Mua 5–10 bộ đồ bày sạp, chi phí vận chuyển, in bảng giá; có thể bắt đầu với 2 bộ.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Ghi rõ trách nhiệm khi hư hỏng; tuân thủ quy định của địa điểm tổ chức; mã QR phải là tài khoản của người bán, không thu hộ khi chưa có giấy phép. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Nhu cầu theo mùa/theo lịch chợ, không đều.\n- Hư hỏng, mất đồ — cần đặt cọc và biên bản.\n- Ban tổ chức chợ có thể tự cung cấp bàn ghế.\n- Vận chuyển cồng kềnh làm giảm lãi.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Hợp đồng thuê, chính sách cọc/hư hỏng, kịch bản chào ban tổ chức.\n- Canva: 3 bố cục bày sạp mẫu, bảng giá A5, ảnh quảng cáo.\n- VietQR Kit (Casso): Tạo ảnh mã VietQR cho bảng giá của từng người thuê.\n- Zalo Official Account (OA): Nhận đặt thuê, gửi hướng dẫn lắp.\n- payOS (Casso): Thu cọc QR của người thuê.\n  Bản tiết kiệm: Claude (Anthropic), Canva, VietQR Kit (Casso), Zalo Official Account (OA). Bản cao cấp: Claude (Anthropic), Canva, VietQR Kit (Casso), Zalo Official Account (OA), payOS (Casso).\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: liệt kê đồ trong một sạp, hỏi giá mua sỉ; Claude soạn hợp đồng thuê và chính sách đặt cọc.\n- Ngày 2: nhắn 5 ban tổ chức chợ sắp diễn ra xin giới thiệu dịch vụ cho người bán mới.\n- Ngày 3–4: làm 2 bộ mẫu, chụp 3 kiểu bày sạp (Canva), mở đặt qua Zalo OA, cọc payOS.\n- Ngày 5–7: cho thuê ở 1 phiên chợ; đo số bộ thuê, hư hỏng, thời gian giao–nhận.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Danh sách đồ trong một bộ sạp (thông số, tiêu chí chọn) và bảng ước tính vốn (ô giá để trống)\n2. Hợp đồng thuê ngắn gọn + chính sách cọc, hư hỏng, trễ hạn\n3. 3 bố cục bày sạp mẫu mô tả bằng chữ (vị trí, chiều cao, ánh sáng) cho 3 loại hàng: phụ kiện, đồ ăn khô, quần áo\n4. Kịch bản chào ban tổ chức chợ và người bán mới; mẫu tin nhắn đặt thuê\n5. Bảng theo dõi tài sản/lịch thuê và tiêu chí đi tiếp\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.3,
+      "rank": 7
+    },
+    {
+      "id": "20261026-08-watchlist-tien-loi-han",
+      "date": "2026-10-26",
+      "title": "Watchlist: chuỗi tiện lợi Hàn (GS Retail, BGF Retail) thành kênh làm đẹp–đồ ăn trend — chỉ theo dõi, không khuyến nghị",
+      "pitch": "Cửa hàng tiện lợi Hàn đang bán mỹ phẩm mini, quần áo và ra món trend rất nhanh (pizza jeolpyeon); GS25 có 448 cửa hàng ở Việt Nam. Lập watchlist theo dõi doanh thu mảng mới và tốc độ mở cửa hàng ở VN — đồng thời là ‘radar’ sản phẩm cho người kinh doanh nhỏ.",
+      "type": "invest",
+      "category": [
+        "invest"
+      ],
+      "tags": [
+        "watchlist",
+        "GS Retail",
+        "BGF Retail",
+        "tiện lợi",
+        "Hàn Quốc"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Đây là ý tưởng THEO DÕI, KHÔNG phải khuyến nghị đầu tư. Số liệu từ báo Hàn và thông cáo của công ty; chưa đọc báo cáo tài chính gốc; chưa kiểm tra mã niêm yết và cách nhà đầu tư VN tiếp cận.",
+      "confidence": "thấp",
+      "image": "assets/ideas/20261026-08-watchlist-tien-loi-han.webp",
+      "image_alt": "Kệ cửa hàng tiện lợi với mỹ phẩm mini và bánh gạo, bên cạnh sổ theo dõi có biểu đồ đường và kính lúp",
+      "toolstack": {
+        "confidence": "thấp–trung bình",
+        "wow": "Một ‘radar’ kết hợp: số liệu công ty + ảnh chụp kệ hàng GS25 mỗi tuần — vừa học đầu tư, vừa săn ý tưởng sản phẩm mà không cần bỏ tiền.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Dựng khung watchlist, tóm tắt báo cáo, phản biện luận điểm.",
+            "why": "Viết tiếng Việt tốt, làm kế hoạch–kịch bản dài có cấu trúc; Pro $17/tháng (trả năm) hoặc $20 (trả tháng) theo trang giá ngày 26/10.",
+            "alt_ids": [
+              "chatgpt",
+              "gemini"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "gemini",
+            "role": "Deep Research thu thập nguồn công khai có dẫn nguồn.",
+            "why": "Google AI Plus $4,99/tháng, AI Pro $19,99/tháng (giá trang Mỹ, 26/10).",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "n8n",
+            "role": "Nhắc lịch công bố kết quả quý, ghi thay đổi vào bảng.",
+            "why": "Starter €20/tháng (trả năm) theo trang giá đã đọc 25/10.",
+            "alt_ids": [
+              "zapier"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "gemini"
+          ],
+          "monthly_cost_note": "≈ $0/tháng (Claude Free + Gemini Free).",
+          "tradeoff": "Giới hạn lượt nghiên cứu; nhắc lịch thủ công."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "gemini",
+            "n8n"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $19,99 (Google AI Pro) + €20 (n8n) ≈ $60/tháng.",
+          "tradeoff": "Nghiên cứu sâu hơn; vẫn chỉ là tham khảo."
+        },
+        "checked": "2026-10-26"
+      },
+      "regions": [
+        "KR",
+        "SEA"
+      ],
+      "signal_text": "Hàn: CU tăng doanh thu mỹ phẩm trang điểm 212,1% (1–8/2026), GS25 dòng mỹ phẩm 3.000 won +108,3% (1–9/2026) (이지경제 20/10). Cuối 9/2026 GS25 có 740 cửa hàng nước ngoài, 448 ở Việt Nam; CU có 915 cửa hàng nước ngoài (아시아경제 19/10). CU ra pizza jeolpyeon theo trào lưu MXH (BGF 12/10).",
+      "vn_youth_fit": "Gen Z Việt sẵn sàng trả cho sản phẩm Hàn (han-quoc: 58,9% toàn mẫu sẵn sàng trả cho sản phẩm/dịch vụ Hàn) và làm đẹp là ngành lớn nhất trên sàn (lam-dep-suc-khoe) — GS25 ở VN là nơi quan sát hành vi này hằng ngày.",
+      "vn_fit_refs": [
+        "han-quoc",
+        "lam-dep-suc-khoe"
+      ],
+      "key_facts": [
+        {
+          "text": "CU: doanh thu mỹ phẩm trang điểm 1–8/2026 +212,1% (cửa hàng chuyên làm đẹp +301,5%); GS25: mỹ phẩm đồng giá 3.000 won +108,3% (1–9/2026).",
+          "source_ids": [
+            "ezy"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Cuối 9/2026: GS25 có 740 cửa hàng nước ngoài (448 ở Việt Nam), CU 915, emart24 153; tổng ba chuỗi 1.808.",
+          "source_ids": [
+            "asiae"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "CU ra “피자절편” từ 8/10 theo trào lưu MXH; món bánh gạo kiểu Dubai của CU lũy kế khoảng 2,8 triệu cái.",
+          "source_ids": [
+            "bgf"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Segye dẫn lại số liệu của CU — không tính là nguồn độc lập."
+        }
+      ],
+      "sources": [
+        {
+          "id": "ezy",
+          "name": "이지경제 (EZY Economy)",
+          "title": "[EZ 클릭] 간편식 넘어 패션·뷰티까지···편의점, 상품 다변화 속도",
+          "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=240988",
+          "published": "2026-10-20",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "asiae",
+          "name": "아시아경제 (The Asia Business Daily)",
+          "title": "해외 점포 1800개 넘었다…K편의점, 신흥시장 공략 가속",
+          "url": "https://www.asiae.co.kr/article/2026101909250779299",
+          "published": "2026-10-19",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang (qua WebFetch; curl không kết nối được)",
+          "note": "Đọc toàn văn qua WebFetch (công cụ đọc trang), không phải bản trích."
+        },
+        {
+          "id": "bgf",
+          "name": "BGF Live (thông cáo của BGF Retail/CU)",
+          "title": "CU, 요즘 SNS에서 핫한 K-디저트 ‘피자절편’ 출시!",
+          "url": "https://www.bgf.co.kr/bgflive/view/?categoryId=1&id=2060",
+          "published": "2026-10-12",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "segye",
+          "name": "세계일보 (Segye Ilbo)",
+          "title": "두쫀쿠·버터떡 다음은 '피자절편'…편의점까지 번진 이색 떡 열풍",
+          "url": "https://www.segye.com/newsView/20261025502072",
+          "published": "2026-10-25",
+          "accessed": "2026-10-26",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Giả thuyết/hướng đi: theo dõi số cửa hàng GS25 ở VN theo quý, danh mục mỹ phẩm mini và món trend xuất hiện ở GS25 VN; dùng làm ‘radar’ ý tưởng sản phẩm. Muốn đầu tư thật phải tự kiểm tra kênh hợp pháp, thuế, tỷ giá — KHÔNG phải tư vấn đầu tư.",
+      "localize_global": "Chuỗi tiện lợi Hàn đang dùng thị trường mới nổi (VN, Mông Cổ) để tăng trưởng khi thị trường nội địa bão hòa (theo bài báo).",
+      "first_steps": [
+        "Ngày 1: lập bảng theo dõi GS Retail, BGF Retail — ghi nguồn chính thức (báo cáo quý, thông cáo).",
+        "Ngày 2–3: ghé 3 cửa hàng GS25 ở Hà Nội, ghi danh mục mỹ phẩm mini/món mới (ảnh, giá).",
+        "Ngày 4–6: đọc báo cáo quý gần nhất của hai công ty; ghi KPI: tăng trưởng mảng nước ngoài, biên lợi nhuận.",
+        "Ngày 7: viết bản tóm tắt ‘đã biết/chưa biết’; quyết định có tiếp tục theo dõi không (không phải quyết định mua/bán)."
+      ],
+      "capital": {
+        "vnd_min_m": 0,
+        "vnd_max_m": 50,
+        "usd_min": 0,
+        "usd_max": 1923,
+        "note": "Minh họa; theo dõi bằng paper trading thì vốn = 0. Mọi quyết định đầu tư hoàn toàn do bạn, không phải khuyến nghị."
+      },
+      "risks": [
+        "Số liệu từ báo chí/thông cáo, không phải báo cáo tài chính gốc.",
+        "Tỷ trọng nước ngoài nhỏ so với doanh thu nội địa (CU khoảng 4% theo bài báo) — tăng trưởng VN chưa chắc tác động lớn tới cổ phiếu.",
+        "Rủi ro tỷ giá, thuế, kênh tiếp cận cổ phiếu Hàn với nhà đầu tư VN.",
+        "Trào lưu sản phẩm thay đổi rất nhanh."
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 5,
+        "novelty": 5,
+        "lowcap": 6,
+        "signal": 7,
+        "vnfit": 5
+      },
+      "claude_prompt": "Bạn là nhà phân tích bán lẻ độc lập (chỉ phân tích, KHÔNG đưa khuyến nghị mua/bán). Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: Watchlist: chuỗi tiện lợi Hàn (GS Retail, BGF Retail) thành kênh làm đẹp–đồ ăn trend — chỉ theo dõi, không khuyến nghị\nTóm tắt: Cửa hàng tiện lợi Hàn đang bán mỹ phẩm mini, quần áo và ra món trend rất nhanh (pizza jeolpyeon); GS25 có 448 cửa hàng ở Việt Nam. Lập watchlist theo dõi doanh thu mảng mới và tốc độ mở cửa hàng ở VN — đồng thời là ‘radar’ sản phẩm cho người kinh doanh nhỏ.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: KR, SEA\nHàn: CU tăng doanh thu mỹ phẩm trang điểm 212,1% (1–8/2026), GS25 dòng mỹ phẩm 3.000 won +108,3% (1–9/2026) (이지경제 20/10). Cuối 9/2026 GS25 có 740 cửa hàng nước ngoài, 448 ở Việt Nam; CU có 915 cửa hàng nước ngoài (아시아경제 19/10). CU ra pizza jeolpyeon theo trào lưu MXH (BGF 12/10).\nDữ kiện chi tiết (kèm mức xác minh):\n- CU: doanh thu mỹ phẩm trang điểm 1–8/2026 +212,1% (cửa hàng chuyên làm đẹp +301,5%); GS25: mỹ phẩm đồng giá 3.000 won +108,3% (1–9/2026). [1 nguồn gốc]\n- Cuối 9/2026: GS25 có 740 cửa hàng nước ngoài (448 ở Việt Nam), CU 915, emart24 153; tổng ba chuỗi 1.808. [1 nguồn gốc]\n- CU ra “피자절편” từ 8/10 theo trào lưu MXH; món bánh gạo kiểu Dubai của CU lũy kế khoảng 2,8 triệu cái. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Đây là ý tưởng THEO DÕI, KHÔNG phải khuyến nghị đầu tư. Số liệu từ báo Hàn và thông cáo của công ty; chưa đọc báo cáo tài chính gốc; chưa kiểm tra mã niêm yết và cách nhà đầu tư VN tiếp cận.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nGen Z Việt sẵn sàng trả cho sản phẩm Hàn (han-quoc: 58,9% toàn mẫu sẵn sàng trả cho sản phẩm/dịch vụ Hàn) và làm đẹp là ngành lớn nhất trên sàn (lam-dep-suc-khoe) — GS25 ở VN là nơi quan sát hành vi này hằng ngày.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết/hướng đi: theo dõi số cửa hàng GS25 ở VN theo quý, danh mục mỹ phẩm mini và món trend xuất hiện ở GS25 VN; dùng làm ‘radar’ ý tưởng sản phẩm. Muốn đầu tư thật phải tự kiểm tra kênh hợp pháp, thuế, tỷ giá — KHÔNG phải tư vấn đầu tư.\n\n## 4. Ràng buộc\n- Vốn: khoảng 0–50 triệu VND (Minh họa; theo dõi bằng paper trading thì vốn = 0. Mọi quyết định đầu tư hoàn toàn do bạn, không phải khuyến nghị.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Đây là phân tích tham khảo, không phải khuyến nghị đầu tư; không tự bịa số liệu tài chính, giá cổ phiếu hay dự báo; nêu quan điểm trái chiều. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Số liệu từ báo chí/thông cáo, không phải báo cáo tài chính gốc.\n- Tỷ trọng nước ngoài nhỏ so với doanh thu nội địa (CU khoảng 4% theo bài báo) — tăng trưởng VN chưa chắc tác động lớn tới cổ phiếu.\n- Rủi ro tỷ giá, thuế, kênh tiếp cận cổ phiếu Hàn với nhà đầu tư VN.\n- Trào lưu sản phẩm thay đổi rất nhanh.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Dựng khung watchlist, tóm tắt báo cáo, phản biện luận điểm.\n- Gemini (Google): Deep Research thu thập nguồn công khai có dẫn nguồn.\n- n8n: Nhắc lịch công bố kết quả quý, ghi thay đổi vào bảng.\n  Bản tiết kiệm: Claude (Anthropic), Gemini (Google). Bản cao cấp: Claude (Anthropic), Gemini (Google), n8n.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: lập bảng theo dõi GS Retail, BGF Retail — ghi nguồn chính thức (báo cáo quý, thông cáo).\n- Ngày 2–3: ghé 3 cửa hàng GS25 ở Hà Nội, ghi danh mục mỹ phẩm mini/món mới (ảnh, giá).\n- Ngày 4–6: đọc báo cáo quý gần nhất của hai công ty; ghi KPI: tăng trưởng mảng nước ngoài, biên lợi nhuận.\n- Ngày 7: viết bản tóm tắt ‘đã biết/chưa biết’; quyết định có tiếp tục theo dõi không (không phải quyết định mua/bán).\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Khung watchlist (Google Sheets/CSV): doanh nghiệp, chỉ số theo dõi, lịch công bố, nguồn chính thức, ô ghi chú luận điểm đồng thuận/phản biện\n2. Checklist quan sát cửa hàng GS25 ở Hà Nội (danh mục, giá, món mới) và mẫu ghi chép\n3. Danh sách câu hỏi cần trả lời khi đọc báo cáo quý — mọi con số khác để trống ‘cần tôi tra’\n4. Bản tóm tắt 1 trang ‘đã biết / chưa biết / sẽ theo dõi’\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 5.62,
+      "rank": 8
+    }
+  ],
+  "keywords": [
+    {
+      "id": "kw-vn-01",
+      "region": "VN",
+      "rank": 1,
+      "keyword": "tỉ số bóng đá",
+      "gloss": "Tỷ số bóng đá — HLV Việt Thắng xin từ chức (V.League)",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 26/10 06:20 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-02",
+      "region": "VN",
+      "rank": 2,
+      "keyword": "lol world 2026",
+      "gloss": "Chung kết thế giới Liên Minh Huyền Thoại 2026 — bốc thăm vòng Thụy Sĩ lượt 3",
+      "theme": "ent",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 26/10 06:20 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-03",
+      "region": "VN",
+      "rank": 3,
+      "keyword": "dự báo thời tiết hà nội",
+      "gloss": "Dự báo thời tiết Hà Nội: đêm 27/10 có mưa",
+      "theme": "society",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 26/10 05:50 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-04",
+      "region": "VN",
+      "rank": 4,
+      "keyword": "sporting đấu với câu lạc bộ bóng đá académico de viseu",
+      "gloss": "Trận Sporting Lisbon – Académico de Viseu",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 26/10 05:40 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-05",
+      "region": "VN",
+      "rank": 5,
+      "keyword": "tiết kiệm",
+      "gloss": "Ngân hàng điều chỉnh lãi suất tiết kiệm (bài nêu mức tới 9,1%/năm)",
+      "theme": "money",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 26/10 05:30 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-06",
+      "region": "VN",
+      "rank": 6,
+      "keyword": "đội tuyển bóng đá quốc gia việt nam",
+      "gloss": "Đội tuyển Việt Nam: Văn Hậu, Thành Chung, Văn Vĩ trở lại cho Asian Cup",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 26/10 05:30 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-07",
+      "region": "VN",
+      "rank": 7,
+      "keyword": "thứ hạng của olympique de marseille gặp le havre ac",
+      "gloss": "Marseille – Le Havre (Ligue 1)",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 26/10 05:30 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-08",
+      "region": "VN",
+      "rank": 8,
+      "keyword": "24h",
+      "gloss": "Từ khóa trang tin 24h (bài kèm: bán lẻ Pháp gặp khó)",
+      "theme": "society",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "5000+ lượt tìm · 26/10 05:10 (UTC+7)",
+      "note": "Truy vấn chung chung, không rõ ý định."
+    },
+    {
+      "id": "kw-vn-09",
+      "region": "VN",
+      "rank": 9,
+      "keyword": "the thao 24h",
+      "gloss": "Tin thể thao 24h (bi-a nữ Hàn Quốc giành cúp)",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 26/10 05:10 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-10",
+      "region": "VN",
+      "rank": 10,
+      "keyword": "24",
+      "gloss": "Truy vấn ‘24’ — bài kèm là NFL (Browns thắng Titans 27-24)",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 26/10 05:00 (UTC+7)",
+      "note": "Truy vấn chung chung, không rõ ý định."
+    },
+    {
+      "id": "kw-kr-01",
+      "region": "KR",
+      "rank": 1,
+      "keyword": "thứ hạng của barcelona gặp real madrid",
+      "gloss": "El Clásico Barcelona – Real Madrid (truy vấn tiếng Việt xuất hiện trong feed KR)",
+      "theme": "sport",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 26/10 05:50 (UTC+7)",
+      "note": "Truy vấn tiếng nước ngoài lọt vào feed KR — chưa rõ lý do."
+    },
+    {
+      "id": "kw-kr-02",
+      "region": "KR",
+      "rank": 2,
+      "keyword": "барселона – реал мадрид турнирная таблица",
+      "gloss": "El Clásico — truy vấn tiếng Nga trong feed KR",
+      "theme": "sport",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 26/10 05:50 (UTC+7)",
+      "note": "Truy vấn tiếng nước ngoài lọt vào feed KR — chưa rõ lý do."
+    },
+    {
+      "id": "kw-kr-03",
+      "region": "KR",
+      "rank": 3,
+      "keyword": "김연경",
+      "gloss": "Kim Yeon-koung: tuyên bố không làm HLV nữa (show ‘신인감독2’)",
+      "theme": "ent",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "2000+ lượt tìm · 26/10 05:50 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-04",
+      "region": "KR",
+      "rank": 4,
+      "keyword": "열병합발전소",
+      "gloss": "Nhà máy nhiệt điện đồng phát: trúng thầu 2 năm vẫn chưa khởi công",
+      "theme": "work",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 26/10 05:40 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-05",
+      "region": "KR",
+      "rank": 5,
+      "keyword": "베트남",
+      "gloss": "‘Việt Nam’ — Lotte tuyển dụng tại 5 trường đại học lớn ở Hà Nội",
+      "theme": "work",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 26/10 05:40 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-06",
+      "region": "KR",
+      "rank": 6,
+      "keyword": "이건희",
+      "gloss": "Cố chủ tịch Samsung Lee Kun-hee — bài về tương lai Samsung",
+      "theme": "money",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 26/10 05:40 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-07",
+      "region": "KR",
+      "rank": 7,
+      "keyword": "klasemen fc barcelona vs real madrid",
+      "gloss": "El Clásico — truy vấn tiếng Indonesia",
+      "theme": "sport",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 26/10 05:30 (UTC+7)",
+      "note": "Truy vấn tiếng nước ngoài lọt vào feed KR — chưa rõ lý do."
+    },
+    {
+      "id": "kw-kr-08",
+      "region": "KR",
+      "rank": 8,
+      "keyword": "롯데백화점",
+      "gloss": "Lotte Department Store: cải tạo toàn bộ khu ẩm thực Jamsil sau 10 năm",
+      "theme": "food",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 26/10 05:30 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-09",
+      "region": "KR",
+      "rank": 9,
+      "keyword": "젠지",
+      "gloss": "Gen.G thua ở vòng Thụy Sĩ CKTG LMHT",
+      "theme": "ent",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 26/10 05:20 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-10",
+      "region": "KR",
+      "rank": 10,
+      "keyword": "월즈 2026",
+      "gloss": "Worlds 2026 — ‘thế giới LoL’ với game, âm nhạc, goods",
+      "theme": "ent",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 26/10 05:20 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-11",
+      "region": "KR",
+      "rank": null,
+      "keyword": "치이카와 극장판",
+      "gloss": "Phim Chiikawa dẫn đầu phòng vé Hàn",
+      "theme": "ent",
+      "source_id": "issue",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "2.112.687 lượt xem (KOBIS, 24/10)"
+    },
+    {
+      "id": "kw-kr-12",
+      "region": "KR",
+      "rank": null,
+      "keyword": "메디힐 마스크",
+      "gloss": "Mặt nạ Mediheal lên #1 Olive Young",
+      "theme": "beauty",
+      "source_id": "issue",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "#1 Olive Young (sáng 25/10)"
+    },
+    {
+      "id": "kw-kr-13",
+      "region": "KR",
+      "rank": null,
+      "keyword": "귀 지압 주얼리 패치",
+      "gloss": "Miếng dán ‘đá quý’ bấm huyệt tai",
+      "theme": "beauty",
+      "source_id": "issue",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "#16 Olive Young (25/10)"
+    },
+    {
+      "id": "kw-kr-14",
+      "region": "KR",
+      "rank": null,
+      "keyword": "피자절편",
+      "gloss": "Pizza jeolpyeon — bánh gạo phủ topping pizza của CU (₩3.800)",
+      "theme": "food",
+      "source_id": "issue",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "lượt nhắc pizza seolgi: <100 (4/2026) → 10.000+ (9/2026)",
+      "idea_ids": [
+        "20261026-06-banh-giay-bien-tau",
+        "20261026-08-watchlist-tien-loi-han"
+      ]
+    },
+    {
+      "id": "kw-kr-15",
+      "region": "KR",
+      "rank": null,
+      "keyword": "떡 디저트",
+      "gloss": "Tráng miệng bánh gạo — Lotte Jamsil +500% (tháng 9)",
+      "theme": "food",
+      "source_id": "issue",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "+500% doanh số tháng 9 (Seoul Economic Daily qua issueitnow)",
+      "idea_ids": [
+        "20261026-06-banh-giay-bien-tau"
+      ]
+    },
+    {
+      "id": "kw-kr-16",
+      "region": "KR",
+      "rank": null,
+      "keyword": "편의점 화장품",
+      "gloss": "Mỹ phẩm ở cửa hàng tiện lợi — CU trang điểm +212,1%, GS25 mini +108,3%",
+      "theme": "beauty",
+      "source_id": "issue",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "IT Chosun 24/10 (qua issueitnow)",
+      "idea_ids": [
+        "20261026-08-watchlist-tien-loi-han"
+      ]
+    },
+    {
+      "id": "kw-kr-17",
+      "region": "KR",
+      "rank": null,
+      "keyword": "디카 키링",
+      "gloss": "Móc khóa hình máy ảnh số — Ably +3.779% (so cùng kỳ)",
+      "theme": "fashion",
+      "source_id": "issue",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "+3.779% (Newsis 24/10 qua issueitnow)"
+    },
+    {
+      "id": "kw-kr-18",
+      "region": "KR",
+      "rank": null,
+      "keyword": "패딩 조끼",
+      "gloss": "Áo gile phao — KREAM +335% so tháng trước",
+      "theme": "fashion",
+      "source_id": "issue",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "+335% (SME Daily 25/10 qua issueitnow)"
+    },
+    {
+      "id": "kw-jp-01",
+      "region": "JP",
+      "rank": 1,
+      "keyword": "中畑清",
+      "gloss": "Nakahata Kiyoshi — bối cảnh HLV mới của Yomiuri Giants",
+      "theme": "sport",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "10000+ lượt tìm · 26/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-02",
+      "region": "JP",
+      "rank": 2,
+      "keyword": "モーニングショー",
+      "gloss": "Chương trình ‘Morning Show’ (TV Asahi) — 2 người dẫn vắng mặt",
+      "theme": "ent",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 26/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-03",
+      "region": "JP",
+      "rank": 3,
+      "keyword": "萩原利久",
+      "gloss": "Diễn viên Hagiwara Riku (phim ‘救命病棟24時’)",
+      "theme": "ent",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 26/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-04",
+      "region": "JP",
+      "rank": 4,
+      "keyword": "下村彩里",
+      "gloss": "Phát thanh viên Shimomura Sari",
+      "theme": "ent",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 26/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-05",
+      "region": "JP",
+      "rank": 5,
+      "keyword": "珠城りょう 宝塚",
+      "gloss": "Tamaki Ryo (cựu Takarazuka) — vai trong ‘VIVANT’",
+      "theme": "ent",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 26/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-06",
+      "region": "JP",
+      "rank": 6,
+      "keyword": "チャンス大城",
+      "gloss": "Danh hài Chance Oshiro kể chuyện bị bắt nạt",
+      "theme": "ent",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 26/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-07",
+      "region": "JP",
+      "rank": 7,
+      "keyword": "レイカーズ",
+      "gloss": "Lakers — Hachimura Rui ghi 16 điểm",
+      "theme": "sport",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 26/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-08",
+      "region": "JP",
+      "rank": 8,
+      "keyword": "新谷仁美",
+      "gloss": "VĐV chạy Niiya Hitomi",
+      "theme": "sport",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 26/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-09",
+      "region": "JP",
+      "rank": 9,
+      "keyword": "ラジコ",
+      "gloss": "radiko (nghe radio online) — sự kiện của Miyano Mamoru",
+      "theme": "ent",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 26/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-10",
+      "region": "JP",
+      "rank": 10,
+      "keyword": "日経新聞",
+      "gloss": "Báo Nikkei — bài về ‘quy định ngầm’ làm giảm năng suất Nhật",
+      "theme": "work",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 26/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-11",
+      "region": "JP",
+      "rank": 1,
+      "keyword": "ダイアン津田 VIVANT",
+      "gloss": "Diễn viên hài Tsuda (Diane) trong ‘VIVANT’",
+      "theme": "ent",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "#1 まとめ · 26/10 ~07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-12",
+      "region": "JP",
+      "rank": 2,
+      "keyword": "秋広",
+      "gloss": "Cầu thủ bóng chày Akihiro",
+      "theme": "sport",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "#2 まとめ · 26/10 ~07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-13",
+      "region": "JP",
+      "rank": 3,
+      "keyword": "竜星涼 情熱大陸",
+      "gloss": "Ryusei Ryo trên ‘Jōnetsu Tairiku’",
+      "theme": "ent",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "#3 まとめ · 26/10 ~07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-14",
+      "region": "JP",
+      "rank": 4,
+      "keyword": "ヤムチャ 声優交代",
+      "gloss": "Đổi diễn viên lồng tiếng Yamcha (Dragon Ball)",
+      "theme": "ent",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "#4 まとめ · 26/10 ~07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-15",
+      "region": "JP",
+      "rank": 5,
+      "keyword": "Mrs. GREEN APPLE シンデレラ",
+      "gloss": "MV ‘Cinderella’ của Mrs. GREEN APPLE",
+      "theme": "ent",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "#5 まとめ · 26/10 ~07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-16",
+      "region": "JP",
+      "rank": 6,
+      "keyword": "矢野謙次 阪神コーチ",
+      "gloss": "Yano Kenji làm HLV Hanshin",
+      "theme": "sport",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "#6 まとめ · 26/10 ~07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-17",
+      "region": "JP",
+      "rank": 7,
+      "keyword": "まゆすず ヤンマガ",
+      "gloss": "Mayusuzu lên bìa Young Magazine",
+      "theme": "ent",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "#7 まとめ · 26/10 ~07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-18",
+      "region": "JP",
+      "rank": 8,
+      "keyword": "矢野謙次",
+      "gloss": "Yano Kenji (lần nhắc thứ hai)",
+      "theme": "sport",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "#8 まとめ · 26/10 ~07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-19",
+      "region": "JP",
+      "rank": 9,
+      "keyword": "キン肉マン",
+      "gloss": "Kinnikuman (manga/anime)",
+      "theme": "ent",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "#9 まとめ · 26/10 ~07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-20",
+      "region": "JP",
+      "rank": 10,
+      "keyword": "中途覚醒",
+      "gloss": "Thức giấc giữa đêm — chủ đề giấc ngủ",
+      "theme": "beauty",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "#10 まとめ · 26/10 ~07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-21",
+      "region": "JP",
+      "rank": null,
+      "keyword": "setlog",
+      "gloss": "App vlog 2 giây — #1 ‘đang thịnh hành’ của học sinh THPT",
+      "theme": "tech",
+      "source_id": "wakamono-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "33,9% học sinh chọn",
+      "idea_ids": [
+        "20261026-03-vlog-2-giay-cho-lop"
+      ]
+    },
+    {
+      "id": "kw-jp-22",
+      "region": "JP",
+      "rank": null,
+      "keyword": "ボンドロ (ボンボンドロップシール)",
+      "gloss": "Sticker phồng Bondrop — ‘ボンドロネイル’ được đoán là trend tiếp theo",
+      "theme": "collect",
+      "source_id": "wakamono-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "học sinh dự đoán trend kế tiếp",
+      "idea_ids": [
+        "20261026-02-sticker-dung-canh-pho-viet"
+      ]
+    },
+    {
+      "id": "kw-us-01",
+      "region": "US",
+      "rank": 1,
+      "keyword": "xavier worthy",
+      "gloss": "Xavier Worthy (Chiefs, NFL)",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 26/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-us-02",
+      "region": "US",
+      "rank": 2,
+      "keyword": "luka",
+      "gloss": "Luka Dončić đấu khẩu với tân binh Warriors",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 26/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-us-03",
+      "region": "US",
+      "rank": 3,
+      "keyword": "paul reed",
+      "gloss": "Paul Reed (NBA)",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 26/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-us-04",
+      "region": "US",
+      "rank": 4,
+      "keyword": "marvel cinematic universe",
+      "gloss": "Vũ trụ Marvel — Chris Pratt nói Star-Lord sẽ trở lại",
+      "theme": "ent",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 26/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-us-05",
+      "region": "US",
+      "rank": 5,
+      "keyword": "nfc north standings",
+      "gloss": "Bảng xếp hạng NFC North (NFL tuần 7)",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "5000+ lượt tìm · 26/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-us-06",
+      "region": "US",
+      "rank": 6,
+      "keyword": "luka dončić",
+      "gloss": "Dončić vượt LeBron về số trận 40 điểm cho Lakers",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "2000+ lượt tìm · 26/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-us-07",
+      "region": "US",
+      "rank": 7,
+      "keyword": "vj edgecombe",
+      "gloss": "VJ Edgecombe vắng mặt trận gặp Pistons",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 26/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-us-08",
+      "region": "US",
+      "rank": 8,
+      "keyword": "nba league pass",
+      "gloss": "NBA League Pass (khuyến mãi kèm cá cược)",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "2000+ lượt tìm · 26/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-us-09",
+      "region": "US",
+      "rank": 9,
+      "keyword": "chiefs depth chart",
+      "gloss": "Đội hình Chiefs (Sunday Night Football)",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 26/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-us-10",
+      "region": "US",
+      "rank": 10,
+      "keyword": "collin sexton",
+      "gloss": "Collin Sexton ra mắt Lakers",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 26/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-us-11",
+      "region": "US",
+      "rank": null,
+      "keyword": "kidulting",
+      "gloss": "Người lớn chơi như trẻ con — 80% người Mỹ, 94% Gen Z tham gia",
+      "theme": "collect",
+      "source_id": "harris-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "khảo sát 2.158 người (6/2026)",
+      "idea_ids": [
+        "20261026-01-bep-hon-loan",
+        "20261026-04-the-suu-tam-boss"
+      ]
+    },
+    {
+      "id": "kw-us-12",
+      "region": "US",
+      "rank": null,
+      "keyword": "trading cards",
+      "gloss": "Thẻ sưu tầm — 57% Gen Z & Millennials đã mua",
+      "theme": "collect",
+      "source_id": "harris-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "57% vs 16% (nhóm lớn tuổi)",
+      "idea_ids": [
+        "20261026-04-the-suu-tam-boss"
+      ]
+    },
+    {
+      "id": "kw-cn-01",
+      "region": "CN",
+      "rank": 2,
+      "keyword": "一条匿名差评 胖哥俩咋追踪到人的",
+      "gloss": "Đánh giá xấu ẩn danh bị quán lẩu cua truy ra danh tính — tranh cãi quyền riêng tư",
+      "theme": "society",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.809.251"
+    },
+    {
+      "id": "kw-cn-02",
+      "region": "CN",
+      "rank": 5,
+      "keyword": "人均48杯 冰杯卖得比咖啡还疯",
+      "gloss": "Cốc đá đóng sẵn bán chạy hơn cà phê — 48 cốc/người/năm ở thành phố cấp 1",
+      "theme": "food",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.522.954"
+    },
+    {
+      "id": "kw-cn-03",
+      "region": "CN",
+      "rank": 6,
+      "keyword": "上百万老电车集中脱保",
+      "gloss": "Hàng triệu xe điện đời đầu hết bảo hành pin 8 năm",
+      "theme": "tech",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.425.921"
+    },
+    {
+      "id": "kw-cn-04",
+      "region": "CN",
+      "rank": 7,
+      "keyword": "广东人最爱的不锈钢闯进了时尚圈",
+      "gloss": "Trang sức thép không gỉ (Phiên Ngung) vào giới thời trang ở Hội chợ Quảng Châu",
+      "theme": "fashion",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.331.101"
+    },
+    {
+      "id": "kw-cn-05",
+      "region": "CN",
+      "rank": 10,
+      "keyword": "3000万豪宅跌至1000万 出入口在隧道",
+      "gloss": "Biệt thự 30 triệu tệ rớt còn 10 triệu vì lối ra vào nằm trong hầm",
+      "theme": "home",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.043.731"
+    },
+    {
+      "id": "kw-cn-06",
+      "region": "CN",
+      "rank": 12,
+      "keyword": "“聚能环”省燃气没有科学依据",
+      "gloss": "Vòng ‘tụ nhiệt’ tiết kiệm gas không có cơ sở khoa học, còn nguy hiểm",
+      "theme": "home",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 6.855.440"
+    },
+    {
+      "id": "kw-cn-07",
+      "region": "CN",
+      "rank": 21,
+      "keyword": "机器人老板们烧香、磕头、翻旧账",
+      "gloss": "IPO robot hiện thân hạ nhiệt — các ông chủ robot ‘lo lắng’",
+      "theme": "tech",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 6.000.033"
+    },
+    {
+      "id": "kw-cn-08",
+      "region": "CN",
+      "rank": 30,
+      "keyword": "小区近300户玻璃自爆 物业：过质保期",
+      "gloss": "Gần 300 hộ bị kính tự vỡ, ban quản lý nói đã hết bảo hành",
+      "theme": "home",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 5.120.039"
+    },
+    {
+      "id": "kw-cn-09",
+      "region": "CN",
+      "rank": 31,
+      "keyword": "被年轻人抛弃的农家乐杀回来了",
+      "gloss": "Nông trại ăn uống ‘sống lại’ nhờ mô hình ‘胡闹厨房’",
+      "theme": "travel",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 5.038.809",
+      "idea_ids": [
+        "20261026-01-bep-hon-loan"
+      ]
+    },
+    {
+      "id": "kw-cn-10",
+      "region": "CN",
+      "rank": 34,
+      "keyword": "丈母娘也开始抢AI人了",
+      "gloss": "Người làm AI thành ‘hàng hot’ trên thị trường hẹn hò",
+      "theme": "work",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 4.764.849"
+    },
+    {
+      "id": "kw-cn-11",
+      "region": "CN",
+      "rank": 38,
+      "keyword": "网购绿植半年后死亡要求全额退款",
+      "gloss": "Mua cây cảnh online chết sau nửa năm đòi hoàn tiền — tranh chấp",
+      "theme": "home",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 4.349.077"
+    },
+    {
+      "id": "kw-cn-12",
+      "region": "CN",
+      "rank": 39,
+      "keyword": "年轻人热衷付费社交",
+      "gloss": "Người trẻ chuộng ‘bạn đồng hành trả phí’",
+      "theme": "society",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 4.278.376",
+      "idea_ids": [
+        "20261026-05-ban-chup-anh-dong-hanh"
+      ]
+    },
+    {
+      "id": "kw-cn-13",
+      "region": "CN",
+      "rank": 40,
+      "keyword": "一张6元小卡凭什么硬控00后",
+      "gloss": "Vì sao thẻ nhỏ 6 tệ ‘giữ chân’ thế hệ 00",
+      "theme": "collect",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 4.187.761",
+      "idea_ids": [
+        "20261026-04-the-suu-tam-boss"
+      ]
+    },
+    {
+      "id": "kw-cn-14",
+      "region": "CN",
+      "rank": 43,
+      "keyword": "美国客户一口气在广州买200套房",
+      "gloss": "Khách Mỹ mua một lúc 200 căn hộ ở Quảng Châu",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 3.870.809"
+    },
+    {
+      "id": "kw-cn-15",
+      "region": "CN",
+      "rank": 44,
+      "keyword": "捷达在中国“逆袭”",
+      "gloss": "Jetta M6 thuần điện: 1 vạn đơn khóa trong 19 giờ",
+      "theme": "tech",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 3.790.791"
+    },
+    {
+      "id": "kw-global-01",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Sưu tầm giá rẻ: thẻ & sticker",
+      "gloss": "Thẻ nhỏ/sticker là mạch chung TQ–Nhật–Mỹ",
+      "theme": "collect",
+      "source_id": "baidu",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "TQ: Baidu #40 thẻ 6 tệ; Nhật: Bondrop; Mỹ: 57% người trẻ mua thẻ",
+      "derived_from": [
+        "kw-cn-13",
+        "kw-jp-22",
+        "kw-us-12"
+      ],
+      "idea_ids": [
+        "20261026-04-the-suu-tam-boss",
+        "20261026-02-sticker-dung-canh-pho-viet"
+      ]
+    },
+    {
+      "id": "kw-global-02",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Trải nghiệm nhóm ‘chơi như trẻ con’",
+      "gloss": "Nấu ăn hỗn loạn (TQ), kidulting (Mỹ), pop-up/phim Chiikawa (Hàn)",
+      "theme": "ent",
+      "source_id": "baidu",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "TQ: Baidu #31; Mỹ: 94% Gen Z tham gia hoạt động vui chơi; Hàn: Chiikawa 2,1 triệu lượt xem",
+      "derived_from": [
+        "kw-cn-09",
+        "kw-us-11",
+        "kw-kr-11"
+      ],
+      "idea_ids": [
+        "20261026-01-bep-hon-loan"
+      ]
+    },
+    {
+      "id": "kw-global-03",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Món truyền thống + topping lạ",
+      "gloss": "Bánh gạo phủ pizza (Hàn), bánh dẻo bơ (Nhật)",
+      "theme": "food",
+      "source_id": "issue",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "Hàn: pizza jeolpyeon, tráng miệng bánh gạo +500%; Nhật: バター餅 hạng 3 (học sinh)",
+      "derived_from": [
+        "kw-kr-14",
+        "kw-kr-15"
+      ],
+      "idea_ids": [
+        "20261026-06-banh-giay-bien-tau"
+      ]
+    },
+    {
+      "id": "kw-global-04",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Chung kết thế giới LMHT 2026",
+      "gloss": "Esports nóng ở VN, Hàn, TQ cùng lúc",
+      "theme": "ent",
+      "source_id": "gt-vn",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "VN: ‘lol world 2026’ 200+; Hàn: ‘젠지’ 500+, ‘월즈 2026’ 200+; TQ: Baidu ‘IG战胜HLE’",
+      "derived_from": [
+        "kw-vn-02",
+        "kw-kr-09",
+        "kw-kr-10"
+      ],
+      "note": "Chỉ là tín hiệu sự kiện, chưa thành ý tưởng."
+    }
+  ],
+  "keyword_sources": [
+    {
+      "id": "gt-vn",
+      "name": "Google Trends — Daily Search Trends (Việt Nam)",
+      "title": "Google Trends RSS geo=VN (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "published": null,
+      "accessed": "2026-10-26",
+      "captured_at": "2026-10-26T07:02:00+07:00",
+      "how_read": "mở trang",
+      "region": "VN",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "gt-kr",
+      "name": "Google Trends — Daily Search Trends (Hàn Quốc)",
+      "title": "Google Trends RSS geo=KR (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=KR",
+      "published": null,
+      "accessed": "2026-10-26",
+      "captured_at": "2026-10-26T07:02:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "gt-jp",
+      "name": "Google Trends — Daily Search Trends (Nhật Bản)",
+      "title": "Google Trends RSS geo=JP (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "published": null,
+      "accessed": "2026-10-26",
+      "captured_at": "2026-10-26T07:02:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "gt-us",
+      "name": "Google Trends — Daily Search Trends (Mỹ)",
+      "title": "Google Trends RSS geo=US (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "published": null,
+      "accessed": "2026-10-26",
+      "captured_at": "2026-10-26T07:02:00+07:00",
+      "how_read": "mở trang",
+      "region": "US",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "baidu",
+      "name": "Baidu 百度热搜",
+      "title": "百度热搜 实时榜 (51 mục)",
+      "url": "https://top.baidu.com/board?tab=realtime",
+      "published": null,
+      "accessed": "2026-10-26",
+      "captured_at": "2026-10-26T07:02:00+07:00",
+      "how_read": "mở trang",
+      "region": "CN",
+      "note": "Bảng xếp hạng gốc (51 mục); chỉ trích các mục liên quan đời sống/thương mại/công nghệ, bỏ các mục chính trị–thời sự quốc tế. Chỉ số là ‘điểm nóng’ Baidu."
+    },
+    {
+      "id": "yahoojp",
+      "name": "Yahoo! JAPAN リアルタイム検索 まとめ",
+      "title": "Yahoo! リアルタイム検索 — まとめ (10 mục)",
+      "url": "https://search.yahoo.co.jp/realtime/search/matome",
+      "published": null,
+      "accessed": "2026-10-26",
+      "captured_at": "2026-10-26T07:02:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "Bảng ‘matome’ (chủ đề đang bàn luận) do Yahoo biên tập từ bài đăng realtime; 10 mục, không có số lượt."
+    },
+    {
+      "id": "issue",
+      "name": "Trending in Korea — tuần 43 (issueitnow.com)",
+      "title": "Korea Trend Desk — Week 43 (19–25/10, cập nhật 25/10)",
+      "url": "https://issueitnow.com/en/",
+      "published": "2026-10-25",
+      "accessed": "2026-10-26",
+      "captured_at": "2026-10-26T07:02:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "Trang tổng hợp (không phải bảng xếp hạng tìm kiếm) trích KOBIS, Olive Young, IT Chosun, Newsis, SME Daily, Edaily, Segye…; số liệu là của các nguồn được trích."
+    },
+    {
+      "id": "wakamono-kw",
+      "name": "Wakamono Research (khảo sát học sinh THPT)",
+      "title": "令和の高校生の流行語…2026年秋の最新トレンド",
+      "url": "https://wakamono-research.co.jp/media/reiwa-teens-top-trends/",
+      "published": "2026-10-09",
+      "accessed": "2026-10-26",
+      "captured_at": "2026-10-26T07:02:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "Khảo sát, không phải bảng xếp hạng realtime."
+    },
+    {
+      "id": "harris-kw",
+      "name": "The Harris Poll — The Rise of Kidulting (10/2026)",
+      "title": "The Rise of Kidulting Report",
+      "url": "https://theharrispoll.com/wp-content/uploads/2026/10/The-Rise-of-Kidulting-Report-October-2026.pdf",
+      "published": "2026-10",
+      "accessed": "2026-10-26",
+      "captured_at": "2026-10-26T07:02:00+07:00",
+      "how_read": "mở file PDF",
+      "region": "US",
+      "note": "Khảo sát 2.158 người trưởng thành Mỹ (25–27/6/2026), không phải bảng xếp hạng tìm kiếm."
+    }
+  ],
+  "keyword_unreachable": [
+    {
+      "region": "CN",
+      "source": "Weibo 热搜 (s.weibo.com/top/summary)",
+      "reason": "Đã thử 26/10: chuyển sang trang đăng nhập khách (passport.weibo.com), không lấy được danh sách."
+    },
+    {
+      "region": "CN",
+      "source": "Douyin/Xiaohongshu hot list",
+      "reason": "Chưa thử lại 26/10 (25/10: cần đăng nhập/JS, không có API công khai)."
+    },
+    {
+      "region": "CN",
+      "source": "Google Trends RSS geo=CN",
+      "reason": "Đã thử 26/10: RSS gần như rỗng (Google bị chặn ở TQ, không phản ánh tìm kiếm trong nước)."
+    },
+    {
+      "region": "VN",
+      "source": "Shopee/TikTok Shop/Lazada VN trending",
+      "reason": "Chưa thử lại 26/10 (25/10: danh sách nằm sau JavaScript/đăng nhập)."
+    },
+    {
+      "region": "KR",
+      "source": "Naver DataLab / Daum realtime",
+      "reason": "Chưa thử lại 26/10 (Naver đã bỏ bảng từ khóa realtime công khai); dùng Google Trends KR + Korea Trend Desk thay thế."
+    },
+    {
+      "region": "US",
+      "source": "Amazon Movers & Shakers",
+      "reason": "Chưa thử lại 26/10 (25/10: danh sách tải bằng JavaScript)."
+    },
+    {
+      "region": "GLOBAL",
+      "source": "TikTok Creative Center",
+      "reason": "Chưa thử lại 26/10 (25/10: chỉ trả khung JS)."
+    },
+    {
+      "region": "GLOBAL",
+      "source": "Bảng từ khóa toàn cầu",
+      "reason": "Không có nguồn toàn cầu công khai đọc được; mục ‘Toàn cầu’ là chủ đề suy ra từ ≥ 2 vùng và ghi rõ nguồn."
+    }
+  ]
+}
