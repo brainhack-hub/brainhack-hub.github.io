@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26",
-  "latest": "2026-10-26",
+  "updated": "2026-10-29",
+  "latest": "2026-10-29",
   "topics": [
     {
       "id": "ai_xd",
@@ -64,6 +64,18 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-10-29",
+      "file": "2026-10-29.json",
+      "headline": "Đọc báo 29/10/2026: máy xúc tự hành gọi 600 triệu USD, AI vào hồ sơ dự toán – thanh toán, Hà Nội duyệt hai trục giao thông hơn 26.000 tỷ",
+      "item_count": 22,
+      "topics": {
+        "ai_xd": 9,
+        "chuoi_cung_ung": 5,
+        "cong_nghe": 3,
+        "vn": 5
+      }
+    },
     {
       "date": "2026-10-26",
       "file": "2026-10-26.json",

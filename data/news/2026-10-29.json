@@ -1,0 +1,690 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T15:00:00+07:00",
+  "headline": "Đọc báo 29/10/2026: máy xúc tự hành gọi 600 triệu USD, AI vào hồ sơ dự toán – thanh toán, Hà Nội duyệt hai trục giao thông hơn 26.000 tỷ",
+  "digest": [
+    {
+      "title": "Robot thi công hút vốn và lên dây chuyền",
+      "text": "Bedrock Robotics gọi 600 triệu USD (định giá 4,1 tỷ) cho kit tự hành lắp lên máy xúc; Xpanner bán máy đóng cọc tự động theo thuê bao; Hàn tài trợ bản sao số cho máy xúc không người lái; công trường Hải Nam dùng cẩu tháp điều khiển từ mặt đất.",
+      "item_ids": [
+        "n-20261029-01-bedrock-600m-series-c",
+        "n-20261029-04-xpanner-x1-piling",
+        "n-20261029-05-hd-hyundai-digital-twin",
+        "n-20261029-06-hai-nam-cau-thap-ai"
+      ]
+    },
+    {
+      "title": "AI đi vào ‘giấy tờ tiền’ của dự án và đấu thầu",
+      "text": "Oracle NetSuite ra agent chuyển dự toán thành ngân sách và soạn hồ sơ thanh toán; Tyce gọi 2 triệu USD để AI học từ lịch sử bỏ thầu của chính nhà thầu (khách hàng nói giảm ít nhất 40% thời gian).",
+      "item_ids": [
+        "n-20261029-02-netsuite-construction-agents",
+        "n-20261029-03-tyce-2m-preseed"
+      ]
+    },
+    {
+      "title": "TQ đẩy nhà mô-đun: từ triển lãm Vũ Hán đến Hội chợ Quảng Châu",
+      "text": "Căn hộ 155 m² ghép từ 4 mô-đun bê tông, tiến độ rút 20–30%; Phật Sơn xuất khẩu nhà lắp ghép 12,2 tỷ NDT trong 9 tháng; ở Mỹ, Đại học Maine làm nhà máy in 3D nhà ở.",
+      "item_ids": [
+        "n-20261029-07-vu-han-tri-bac-hoi-ai",
+        "n-20261029-08-quang-chau-nha-lap-ghep",
+        "n-20261029-09-umaine-3d-nha"
+      ]
+    },
+    {
+      "title": "Chi phí logistics và linh kiện còn căng",
+      "text": "Diesel có thể neo cao tới xuân 2027; Mỹ khuyến cáo tránh eo Hormuz; gần 35.700 container chờ tàu hỏa ở LA–Long Beach; Nvidia ‘đặt cọc công suất’ với 6 nhà cung cấp; giá MacBook Pro bản tối đa lên khoảng 14.549 USD.",
+      "item_ids": [
+        "n-20261029-10-diesel-cao-den-xuan-2027",
+        "n-20261029-12-hormuz-canh-bao",
+        "n-20261029-11-la-long-beach-35000-cont",
+        "n-20261029-13-nvidia-hop-dong-nha-cung-cap",
+        "n-20261029-15-macbook-pro-cam-ung-gia"
+      ]
+    },
+    {
+      "title": "BĐS & hạ tầng Việt Nam",
+      "text": "Hà Nội duyệt Vành đai 3,5 (hơn 13.367 tỷ) và trục Tây Thăng Long (hơn 12.765 tỷ); TP HCM: căn hộ cao cấp chiếm 73,6% nguồn cung; hơn 30.000 sản phẩm dự kiến mở bán quý IV; NOXH sau 5 năm không được bán theo giá thị trường; sụt lún quanh công trường ở Việt Hưng.",
+      "item_ids": [
+        "n-20261029-21-ha-noi-du-an-giao-thong",
+        "n-20261029-18-can-ho-cao-cap-73",
+        "n-20261029-19-30000-can-quy-iv",
+        "n-20261029-20-bo-truong-noxh-5-nam",
+        "n-20261029-22-viet-hung-sut-lun"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "n-20261029-01-bedrock-600m-series-c",
+      "title": "Bedrock Raised $600M at $4.1bn. The Part That Changed Is the Customer List.",
+      "title_vi": "Bedrock Robotics gọi 600 triệu USD, định giá 4,1 tỷ USD — thêm 8 nhà thầu khách hàng có tên",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang tin chuyên ngành contech"
+      },
+      "url": "https://constructionindustry.ai/funding/bedrock-robotics-600m-series-c-4-1b-valuation/",
+      "published": "2026-10-26",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Bedrock Robotics (Mỹ), công ty làm bộ kit giúp máy xúc có sẵn tự vận hành, gọi vòng Series C 600 triệu USD, định giá sau vốn 4,1 tỷ USD, do CapitalG (quỹ tăng trưởng của Alphabet) và Emergence Capital đồng dẫn dắt; tổng vốn đã gọi gần 1 tỷ USD, định giá gấp 2,3 lần so với tháng 2. Nhà đầu tư mới gồm USIT, Bessemer và Temasek. Bài nhấn mạnh danh sách khách hàng: thêm 8 nhà thầu có tên công khai.",
+      "why_it_matters": "Robot thi công đất hút vốn rất lớn — tín hiệu rằng máy móc tự hành sẽ sớm xuất hiện trong hồ sơ dự thầu thi công san nền quy mô lớn.",
+      "tags": [
+        "Bedrock Robotics",
+        "máy xúc tự hành",
+        "gọi vốn",
+        "robot"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc chính văn; bản của Construction Dive bị curl 403 nên dùng nguồn này.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-02-netsuite-construction-agents",
+      "title": "NetSuite Pointed Two AI Agents at the Estimate Handoff and the Pay App",
+      "title_vi": "Oracle NetSuite ra 2 AI agent cho xây dựng: chuyển dự toán thành ngân sách theo mã chi phí và soạn hồ sơ thanh toán",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang tin chuyên ngành contech"
+      },
+      "url": "https://constructionindustry.ai/product/netsuite-construction-ai-agents-estimate-import-payment-application/",
+      "published": "2026-10-28",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Tại SuiteWorld (Las Vegas, 26/10), Oracle NetSuite công bố phiên bản ERP riêng cho xây dựng (mới ở dạng kế hoạch, chưa phát hành) kèm hai AI agent. Estimate Import Agent chuyển bảng dự toán thành ngân sách theo mã chi phí, có truy vết về dự toán gốc. Payment Application Agent soạn hồ sơ đề nghị thanh toán kiểu AIA, có bước người duyệt trước khi gửi.",
+      "why_it_matters": "Khâu chuyển dự toán → ngân sách và hồ sơ thanh toán là nơi phòng mua hàng/QS tốn nhiều công và hay sai — ví dụ AI đặt đúng vào ‘giấy tờ tiền’. Nội dung dựa trên thông cáo của hãng.",
+      "tags": [
+        "NetSuite",
+        "ERP",
+        "dự toán",
+        "thanh toán"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29",
+      "note": "Bài phân tích dựa trên thông cáo của Oracle NetSuite; phiên bản xây dựng mới là kế hoạch."
+    },
+    {
+      "id": "n-20261029-03-tyce-2m-preseed",
+      "title": "Tyce Raised $2M to Make a Contractor's Own Bid History the Model",
+      "title_vi": "Tyce (Canada) gọi 2 triệu USD để AI học từ lịch sử bỏ thầu của chính nhà thầu",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang tin chuyên ngành contech"
+      },
+      "url": "https://constructionindustry.ai/funding/tyce-2m-pre-seed-bdc-thrive-mars-iaf-preconstruction-bids/",
+      "published": "2026-10-28",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Startup Tyce Technologies (Toronto) gọi vòng pre-seed 2 triệu USD do quỹ Thrive của BDC và MaRS IAF dẫn dắt. Mỗi nhà thầu có một hệ AI riêng, huấn luyện trên dữ liệu bỏ thầu lịch sử của chính họ thay vì dữ liệu chung của ngành. Nhà thầu Eastern Construction nói thời gian chuẩn bị giảm ít nhất 40%, có việc từ 5 giờ còn 15 phút (số liệu do khách hàng tự nêu).",
+      "why_it_matters": "Liên quan trực tiếp đến đấu thầu: kho hồ sơ thầu cũ của doanh nghiệp có thể thành ‘tài sản AI’. Đáng cân nhắc khi số hóa hồ sơ thầu nội bộ.",
+      "tags": [
+        "Tyce",
+        "đấu thầu",
+        "tiền thi công",
+        "gọi vốn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29",
+      "note": "Đặt trong bối cảnh North America (Canada); region ghi US theo nhóm Bắc Mỹ."
+    },
+    {
+      "id": "n-20261029-04-xpanner-x1-piling",
+      "title": "Xpanner's New Pile Driver Ships With the Machine Attached — and a Record of Every Pile",
+      "title_vi": "Xpanner ra máy đóng cọc tự động X1 Piling R6 cho dự án điện mặt trời, bán theo thuê bao",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang tin chuyên ngành contech"
+      },
+      "url": "https://constructionindustry.ai/product/xpanner-x1-piling-r6-automated-pile-driving-solar-bess/",
+      "published": "2026-10-28",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Xpanner ra mắt X1 Piling R6 ngày 26/10: hệ đóng cọc cho dự án điện mặt trời và lưu trữ pin, chạy cả chu trình (di chuyển, căn vị trí, đóng, giữ thẳng đứng) bằng một nút bấm, một người vận hành mỗi máy, bán theo thuê bao. Hãng tuyên bố chu trình nhanh hơn 45%; mỗi cọc được ghi lại vị trí, độ sâu, độ thẳng.",
+      "why_it_matters": "Dữ liệu từng cọc ghi tự động giúp nghiệm thu nhanh — mô hình ‘thuê bao tự động hóa’ có thể xuất hiện ở các dự án năng lượng tại VN. Số liệu do hãng tự nêu.",
+      "tags": [
+        "Xpanner",
+        "đóng cọc",
+        "điện mặt trời",
+        "tự động hóa"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-05-hd-hyundai-digital-twin",
+      "title": "Korea Is Funding the Simulator Before the Autonomous Excavator. The Hard Part Is the Dirt.",
+      "title_vi": "HD Hyundai XiteSolution dẫn dắt dự án nhà nước Hàn làm bản sao số cho máy xúc không người lái, 6,33 tỷ won",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang tin chuyên ngành contech"
+      },
+      "url": "https://constructionindustry.ai/analysis/hd-hyundai-xitesolution-korea-digital-twin-autonomous-excavator/",
+      "published": "2026-10-27",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "KR",
+      "summary_vi": "HD Hyundai XiteSolution công bố ngày 25/10 sẽ dẫn dắt liên danh được chính phủ Hàn tài trợ để xây nền tảng bản sao số (digital twin) mô phỏng độ chính xác cao cho máy xúc không người lái dùng AI, ngân sách 6,33 tỷ won, kéo dài tới 12/2029. Bài phân tích nhấn mạnh phần khó nhất là mô phỏng đất.",
+      "why_it_matters": "Hàn đầu tư vào ‘mô phỏng trước, máy tự hành sau’ — cho thấy lộ trình thận trọng mà các nhà sản xuất thiết bị đang theo.",
+      "tags": [
+        "HD Hyundai",
+        "digital twin",
+        "máy xúc",
+        "Hàn Quốc"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-06-hai-nam-cau-thap-ai",
+      "title": "塔机“无人驾驶” 机器人组队上岗 海南工地智能建造提速",
+      "title_vi": "Công trường Hải Nam: cẩu tháp ‘không người lái’ và 4 loại robot thi công, hiệu suất cẩu tăng hơn 15%",
+      "source": {
+        "name": "科技日报 (Science and Technology Daily)",
+        "kind": "báo khoa học nhà nước TQ"
+      },
+      "url": "https://www.stdaily.com/web/gdxw/2026-10/26/content_602954.html",
+      "published": "2026-10-26T19:58:00+08:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Tại giai đoạn 2 dự án Học viện Cảnh sát Hải Nam, 中建三局 dùng hệ thống điều khiển cẩu tháp thông minh (5G, IoT, thị giác AI, LiDAR, bản sao số), người lái ngồi dưới mặt đất; hiệu suất cẩu lắp tăng hơn 15% theo báo. Công trường còn dùng 4 loại robot: đo đạc, phun, san phẳng, mài.",
+      "why_it_matters": "Cẩu tháp điều khiển từ xa giảm rủi ro làm việc trên cao và thiếu thợ lái cẩu — đáng tham khảo khi đánh giá nhà thầu/thiết bị.",
+      "tags": [
+        "cẩu tháp",
+        "robot",
+        "中建三局",
+        "Hải Nam"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-07-vu-han-tri-bac-hoi-ai",
+      "title": "在智博会看AI重塑“好房子”",
+      "title_vi": "Triển lãm xây dựng thông minh Vũ Hán: căn hộ 155 m² ghép từ 4 mô-đun bê tông, AI giám sát vết nứt",
+      "source": {
+        "name": "央广网 (CNR, nguồn 湖北日报)",
+        "kind": "báo nhà nước TQ"
+      },
+      "url": "https://www.cnr.cn/hubei/yw/20261027/t20261027_527853949.shtml",
+      "published": "2026-10-27",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Triển lãm xây dựng thông minh quốc tế Vũ Hán khai mạc 27/10 trên 2 vạn m². Các doanh nghiệp giới thiệu AI thiết kế và quản lý thi công (信筑AI, Giant AI); một căn hộ 155 m² ghép từ 4 mô-đun bê tông đúc sẵn; giải pháp lắp ghép được nói rút ngắn tiến độ 20–30%; drone DJI dùng để phát hiện vết nứt.",
+      "why_it_matters": "Nhà mô-đun bê tông + AI đang được đẩy mạnh ở TQ — tham khảo nhà cung cấp và mức rút ngắn tiến độ khi xem xét giải pháp prefab.",
+      "tags": [
+        "Vũ Hán",
+        "mô-đun",
+        "AI thiết kế",
+        "drone"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc (mã GBK, đã chuyển mã), đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-08-quang-chau-nha-lap-ghep",
+      "title": "集成房屋走俏广交会 中国“智造家”加速出海",
+      "title_vi": "Nhà lắp ghép ‘thông minh’ hút khách ở Hội chợ Quảng Châu — Phật Sơn xuất khẩu 12,2 tỷ NDT trong 9 tháng",
+      "source": {
+        "name": "新华网 (Xinhua)",
+        "kind": "hãng tin nhà nước TQ"
+      },
+      "url": "https://www.news.cn/fortune/20261028/36521446d4ac425595ab0b52365164df/c.html",
+      "published": "2026-10-28",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Khu nhà lắp ghép tại Hội chợ Quảng Châu thu hút người mua nước ngoài: một mẫu nhà nghỉ dưỡng mô-đun giao hàng trong 25 ngày; nhà in 3D lắp xong trong 7–10 ngày. Phật Sơn xuất khẩu nhà lắp ghép 12,2 tỷ NDT trong 9 tháng (+5,6%), hơn 470 doanh nghiệp. Chủ đề lên Baidu 29/10 #10.",
+      "why_it_matters": "Nguồn cung nhà mô-đun TQ rất lớn và rẻ — liên quan trực tiếp tới tìm nguồn cung prefab, nhà tạm công trường, nhà mẫu cho dự án VN.",
+      "tags": [
+        "nhà lắp ghép",
+        "xuất khẩu",
+        "Quảng Châu",
+        "in 3D"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-09-umaine-3d-nha",
+      "title": "U. of Maine Facility Will Be Large-Scale Test Bed to Make 3D Homes and Materials",
+      "title_vi": "Đại học Maine xây nhà máy thử nghiệm in 3D nhà ở và vật liệu sinh học, khoảng 82 triệu USD",
+      "source": {
+        "name": "ENR",
+        "kind": "báo ngành xây dựng"
+      },
+      "url": "https://www.enr.com/articles/64086-u-of-maine-facility-will-be-large-scale-test-bed-to-make-3d-homes-and-materials",
+      "published": "2026-10-26T16:54:14-04:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Đại học Maine xây ‘Green Engineering & Materials Factory of the Future’: tòa nhà gỗ khối khoảng 50.000 sq ft, chi phí khoảng 82 triệu USD, Consigli làm quản lý xây dựng. Cơ sở dùng in 3D khổ lớn để thử sản xuất nhà ở và cấu kiện từ vật liệu sinh học.",
+      "why_it_matters": "In 3D khổ lớn và vật liệu sinh học đang chuyển từ phòng thí nghiệm sang dây chuyền thử nghiệm — tham khảo cho xu hướng nhà lắp ghép/vật liệu xanh.",
+      "tags": [
+        "in 3D",
+        "vật liệu sinh học",
+        "gỗ khối",
+        "nhà máy"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-10-diesel-cao-den-xuan-2027",
+      "title": "Diesel prices may stay elevated into spring 2027, fuel executives warn",
+      "title_vi": "Giá dầu diesel có thể neo cao tới mùa xuân 2027",
+      "source": {
+        "name": "FreightWaves",
+        "kind": "báo logistics"
+      },
+      "url": "https://www.freightwaves.com/news/diesel-prices-may-stay-elevated-into-spring-2027-fuel-executives-warn",
+      "published": "2026-10-28T13:30:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Tại WEX OTR Summit, lãnh đạo AMBEST, Circle K, Maverik nói giá diesel khó giảm đáng kể trước mùa xuân, kể cả khi giá dầu thô hạ, vì xung đột liên quan Iran, chiến sự Nga–Ukraine, hạn chế lọc dầu và đường ống ở Mỹ. CEO AMBEST: ‘dầu giảm hôm nay không có nghĩa giá sẽ giảm’.",
+      "why_it_matters": "Chi phí vận chuyển vật tư có thể giữ ở mức cao trong vài tháng — nên tính vào dự toán và điều khoản điều chỉnh giá hợp đồng.",
+      "tags": [
+        "diesel",
+        "nhiên liệu",
+        "vận tải",
+        "giá"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-11-la-long-beach-35000-cont",
+      "title": "Backlog grows as 35,000 containers await rail service at LA–Long Beach",
+      "title_vi": "Gần 35.700 container chờ tàu hỏa ở cảng Los Angeles – Long Beach",
+      "source": {
+        "name": "FreightWaves",
+        "kind": "báo logistics"
+      },
+      "url": "https://www.freightwaves.com/news/backlog-grows-as-35000-containers-await-rail-service-at-la-long-beach",
+      "published": "2026-10-28T14:01:08+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Ngày 26/10 có 35.688 container nhập khẩu chờ tàu hỏa tại cảng, trong đó 10.562 chiếc đã nằm bãi ít nhất 9 ngày (Los Angeles 41,4%, Long Beach 15,1%). Thời gian lưu bãi trung bình hàng đi đường sắt tăng lên 7,19 ngày trong tháng 9. Hai cảng đạt sản lượng tháng kỷ lục; C.H. Robinson nêu thiếu toa xe ở Nam California.",
+      "why_it_matters": "Tắc nghẽn nội địa Mỹ có thể làm chậm vòng quay container rỗng, ảnh hưởng gián tiếp tới cước và lịch tàu châu Á.",
+      "tags": [
+        "cảng",
+        "container",
+        "đường sắt",
+        "tắc nghẽn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-12-hormuz-canh-bao",
+      "title": "U.S. Tells Ships to Avoid Unnecessary Transits Through Hormuz",
+      "title_vi": "Mỹ khuyến cáo tàu tránh đi qua eo Hormuz nếu không cần thiết",
+      "source": {
+        "name": "SupplyChainBrain",
+        "kind": "báo chuỗi cung ứng"
+      },
+      "url": "https://www.supplychainbrain.com/articles/45112-us-tells-ships-to-avoid-unnecessary-transits-through-hormuz",
+      "published": "2026-10-28T12:22:27-04:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Hải quân Mỹ (NAVCENT) ra khuyến cáo ngày 28/10: tàu không cần thiết nên tránh xa vùng vịnh Oman và eo Hormuz, tàu đi qua cần dự trù thêm thời gian do mật độ giao thông và hoạt động thực thi phong tỏa. Iran tăng tấn công tàu lên gần 30 vụ trong tháng 10.",
+      "why_it_matters": "Rủi ro trên tuyến dầu chủ chốt tiếp tục đẩy giá năng lượng, ảnh hưởng chi phí vận chuyển và vật liệu gốc dầu (nhựa đường, PVC).",
+      "tags": [
+        "Hormuz",
+        "vận tải biển",
+        "rủi ro địa chính trị",
+        "dầu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-13-nvidia-hop-dong-nha-cung-cap",
+      "title": "Nvidia forges supplier agreements to expand capacity for AI",
+      "title_vi": "Nvidia ký với 6 nhà cung cấp để mở rộng công suất, có hạng mục tăng tới 15 lần",
+      "source": {
+        "name": "Supply Chain Dive",
+        "kind": "báo chuỗi cung ứng"
+      },
+      "url": "https://www.supplychaindive.com/news/nvidia-forges-supplier-agreements-to-expand-capacity-for-ai/872780/",
+      "published": "2026-10-28",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Nvidia ký thỏa thuận với Ibiden, Samsung Electro-Mechanics, Unimicron (tăng công suất đế mạch 2,5 lần trong 3 năm), cùng Amkor, KYEC, SPIL cho đóng gói và kiểm thử. Nvidia cấp 1,1 tỷ USD cho KYEC xây cơ sở kiểm thử ở Mỹ; SPIL mở rộng công suất ở Đài Loan 15 lần vào giữa 2027. Jensen Huang: ‘công suất là ràng buộc’.",
+      "why_it_matters": "Ví dụ kinh điển về ‘đặt cọc công suất’ với nhà cung cấp khi cầu vượt cung — cách làm có thể áp dụng cho vật tư khan hiếm.",
+      "tags": [
+        "Nvidia",
+        "công suất",
+        "nhà cung cấp",
+        "bán dẫn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "curl bị 403; đọc toàn bộ chính văn qua WebFetch.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-14-kroger-rfid",
+      "title": "Kroger taps RFID, computer vision data to boost inventory management",
+      "title_vi": "Kroger thử RFID ở 1.500 tiệm bánh: kiểm kho nhanh gần 70%, giảm 50% hao hụt",
+      "source": {
+        "name": "Supply Chain Dive",
+        "kind": "báo chuỗi cung ứng"
+      },
+      "url": "https://www.supplychaindive.com/news/kroger-taps-rfid-computer-vision-data-to-boost-inventory-management/872819/",
+      "published": "2026-10-27",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Kroger chia sẻ dữ liệu thị giác máy tính với nhà cung cấp và thử RFID ở khoảng 1.500 tiệm bánh trong siêu thị: độ đọc 98%, kiểm kho nhanh gần 70%, hao hụt giảm 50%; dự kiến mở rộng ra hơn 2.300 cửa hàng tới 2029. Công cụ AI nối 20 luồng dữ liệu.",
+      "why_it_matters": "RFID + chia sẻ dữ liệu với nhà cung cấp là mô hình có thể áp dụng cho quản lý vật tư công trường (kho thép, thiết bị).",
+      "tags": [
+        "Kroger",
+        "RFID",
+        "tồn kho",
+        "AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "curl bị 403; đọc toàn bộ chính văn qua WebFetch.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-15-macbook-pro-cam-ung-gia",
+      "title": "Apple's touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "title_vi": "MacBook Pro màn cảm ứng: từ 2.899 USD, bản tối đa khoảng 14.549 USD",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+      "published": "2026-10-28T22:47:50+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "Apple ra MacBook Pro màn cảm ứng, giá khởi điểm 2.899 USD; cấu hình tối đa 14 inch 14.249 USD, 16 inch 14.549 USD (chip M5 Max theo bài). Nâng SSD 16TB thêm 7.000 USD, RAM 128GB thêm 2.000 USD. Bài nói thiếu bộ nhớ do AI góp phần đẩy giá; trần giá 16 inch tăng 4.400 USD so với đời trước.",
+      "why_it_matters": "Giá thiết bị cao cấp tăng theo giá bộ nhớ — cần tính khi lập ngân sách mua máy trạm cho đội thiết kế/BIM.",
+      "tags": [
+        "Apple",
+        "MacBook",
+        "giá bộ nhớ",
+        "laptop"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29",
+      "idea_ids": [
+        "20261029-08-watchlist-sieu-chu-ky-chip-nho"
+      ],
+      "note": "Tin Nhật trong Google Trends ghi chip M6 — khác với TechCrunch (M5 Max); chưa đối chiếu."
+    },
+    {
+      "id": "n-20261029-16-microsoft-10-ty-tu-openai",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "title_vi": "Microsoft ghi nhận 10 tỷ USD doanh thu từ OpenAI trong một quý",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "published": "2026-10-28T21:34:30+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "Theo hồ sơ nộp cơ quan quản lý, Microsoft thu 10 tỷ USD từ các thỏa thuận thương mại với OpenAI trong quý kết thúc 30/9, gần 11% tổng doanh thu quý 92,3 tỷ USD; cả năm tài chính 2026 là 24,1 tỷ USD. Khoản phải thu từ OpenAI 7,2 tỷ USD.",
+      "why_it_matters": "Cho thấy quy mô tiền chảy vào hạ tầng AI — bối cảnh cho chi phí dịch vụ AI doanh nghiệp đang dùng.",
+      "tags": [
+        "Microsoft",
+        "OpenAI",
+        "doanh thu",
+        "AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-17-remote-tv-ai",
+      "title": "今年双十一，最火的AI硬件是电视遥控器",
+      "title_vi": "Double 11: remote TV dưới 100 NDT thành ‘phần cứng AI hot nhất’",
+      "source": {
+        "name": "21经济网 (21世纪经济报道)",
+        "kind": "báo kinh tế TQ"
+      },
+      "url": "https://www.21jingji.com/article/20261028/herald/77a28015d37094e6da3520cbca7e8084.html",
+      "published": "2026-10-28T11:28:30+08:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "CN",
+      "summary_vi": "Remote TV có micro, Bluetooth và phím vật lý được dân lập trình cải thành nút ‘bấm để nói’ cho AI lập trình, theo làn sóng vibe coding. Remote Xiaomi giá chính hãng 99 NDT, kênh ngoài 50–60 NDT; thiết bị chuyên dụng trên 200 NDT. Người trong ngành cho rằng nút thắt giờ là ‘lối vào’ chứ không phải độ chính xác nhận giọng.",
+      "why_it_matters": "Giọng nói đang thành cổng vào AI phổ biến — áp dụng được cho nhập liệu hiện trường, nhật ký công trường.",
+      "tags": [
+        "remote",
+        "giọng nói",
+        "vibe coding",
+        "Double 11"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29",
+      "idea_ids": [
+        "20261029-02-remote-noi-la-go"
+      ]
+    },
+    {
+      "id": "n-20261029-18-can-ho-cao-cap-73",
+      "title": "Căn hộ cao cấp chiếm hơn 73% nguồn cung nhà ở TP HCM",
+      "title_vi": "Căn hộ cao cấp chiếm hơn 73% nguồn cung nhà ở TP HCM",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử VN"
+      },
+      "url": "https://vnexpress.net/can-ho-cao-cap-chiem-hon-73-nguon-cung-nha-o-tp-hcm-5137644.html",
+      "published": "2026-10-28T06:00:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "HoREA cho biết phân khúc cao cấp và trung cao cấp chiếm 73,6% nguồn cung nhà ở TP HCM, trung cấp 7,1%, không có dự án bình dân. CBRE ghi giá sơ cấp khoảng 75 triệu đồng/m², DKRA trung bình 68,5 triệu. Tỷ lệ hấp thụ 26% (3.471/13.215 căn). 1.338 dự án vướng mắc với khoảng 658.084 tỷ đồng.",
+      "why_it_matters": "Lệch cơ cấu cung kéo dài — ảnh hưởng tới chiến lược sản phẩm và tốc độ bán hàng của chủ đầu tư, cũng như kế hoạch mua sắm vật tư theo tiến độ.",
+      "tags": [
+        "TP HCM",
+        "căn hộ cao cấp",
+        "nguồn cung",
+        "HoREA"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-19-30000-can-quy-iv",
+      "title": "Hơn 30.000 sản phẩm nhà ở dự kiến mở bán trong quý IV",
+      "title_vi": "Hơn 30.000 sản phẩm nhà ở dự kiến mở bán trong quý IV",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử VN"
+      },
+      "url": "https://vnexpress.net/hon-30-000-san-pham-nha-o-du-kien-mo-ban-trong-quy-iv-5137547.html",
+      "published": "2026-10-28T03:35:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "DXS-FERI dự báo khoảng 30.300 sản phẩm nhà ở mở bán quý IV, so với 12.357 của quý III (+145%), miền Nam chiếm 56%; Masterise Homes có tên trong nhóm chủ đầu tư được nhắc. VARS dự kiến khoảng 25.000 giao dịch trong quý IV.",
+      "why_it_matters": "Nguồn cung mở bán dồn vào cuối năm — áp lực tiến độ thi công, vật tư và cạnh tranh bán hàng tăng.",
+      "tags": [
+        "nguồn cung",
+        "quý IV",
+        "DXS-FERI",
+        "VARS"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-20-bo-truong-noxh-5-nam",
+      "title": "Bộ trưởng Xây dựng: Nhà xã hội sau 5 năm không được bán lại theo giá thị trường",
+      "title_vi": "Bộ trưởng Xây dựng: Nhà xã hội sau 5 năm không được bán lại theo giá thị trường",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử VN"
+      },
+      "url": "https://vnexpress.net/bo-truong-xay-dung-nha-xa-hoi-sau-5-nam-khong-duoc-ban-lai-theo-gia-thi-truong-5137995.html",
+      "published": "2026-10-28T18:26:56+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Giải trình dự thảo Luật Nhà ở (sửa đổi) chiều 28/10, Bộ trưởng Trần Hồng Minh nói chuyển nhượng NOXH sau 5 năm theo giá thị trường là ‘không được’, phải bán lại cho đúng đối tượng. Giá NOXH thời gian qua 15–29 triệu đồng/m² tùy địa phương. Đến 2030 các địa phương phát triển 899.857 căn (TP HCM 181.257, Hà Nội 84.000).",
+      "why_it_matters": "Chỉ tiêu NOXH lớn — nhu cầu thi công, vật liệu giá thấp tăng; quy định chuyển nhượng ảnh hưởng tính hấp dẫn với người mua.",
+      "tags": [
+        "nhà ở xã hội",
+        "Luật Nhà ở",
+        "Bộ Xây dựng",
+        "chuyển nhượng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29",
+      "note": "Diễn biến tiếp theo của tin ngày 26/10 về đề xuất không bán lại tự do sau 5 năm; tin hôm nay là phần giải trình của Bộ trưởng và chỉ tiêu tới 2030."
+    },
+    {
+      "id": "n-20261029-21-ha-noi-du-an-giao-thong",
+      "title": "Hà Nội thông qua loạt dự án giao thông lớn, tổng vốn đầu tư hàng chục nghìn tỷ đồng",
+      "title_vi": "Hà Nội thông qua Vành đai 3,5 (hơn 13.367 tỷ) và trục Tây Thăng Long (hơn 12.765 tỷ)",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo ngành xây dựng VN"
+      },
+      "url": "https://baoxaydung.vn/ha-noi-thong-qua-loat-du-an-giao-thong-lon-tong-von-dau-tu-hang-chuc-nghin-ty-dong-19226102819563591.htm",
+      "published": "2026-10-28T20:50:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "HĐND Hà Nội ngày 28/10 thông qua: Vành đai 3,5 đoạn QL2 – cầu Thượng Cát dài khoảng 12,36 km, hơn 13.367 tỷ đồng, thi công 2026 – quý I/2028. Trục Tây Thăng Long đoạn kênh Đan Hoài – cầu Vĩnh Thịnh dài khoảng 21,98 km, hơn 12.765 tỷ, mục tiêu thông tuyến 2027; cùng điều chỉnh đường 70.",
+      "why_it_matters": "Gói thầu xây lắp, vật liệu (đất đắp, đá, nhựa đường) lớn ở phía Bắc và Tây Hà Nội trong 2026–2028 — cơ hội và áp lực nguồn cung.",
+      "tags": [
+        "Hà Nội",
+        "Vành đai 3,5",
+        "Tây Thăng Long",
+        "đầu tư công"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "n-20261029-22-viet-hung-sut-lun",
+      "title": "Hà Nội: Đường nứt toác, sụt lún bất thường quanh công trường nhà cao tầng",
+      "title_vi": "Đường nứt toác, sụt lún quanh công trường nhà cao tầng ở phường Việt Hưng",
+      "source": {
+        "name": "CafeF (theo VTC News)",
+        "kind": "báo kinh tế VN"
+      },
+      "url": "https://cafef.vn/ha-noi-duong-nut-toac-sut-lun-bat-thuong-quanh-cong-truong-nha-cao-tang-188261028202331272.chn",
+      "published": "2026-10-28T20:29:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Nhiều đoạn đường ở phường Việt Hưng (Hà Nội) sụt lún, nứt sâu 20–30 cm sát công trường nhà cao tầng A2-CT1 và A4-CT3 thuộc Khu công viên công nghệ phần mềm Hà Nội. Khu vực bị quây rào; công nhân bơm vữa xi măng vào chỗ hỏng; người dân nói 2–3 tháng trước đã có sụt lún.",
+      "why_it_matters": "Rủi ro hố đào sâu và quan trắc lún lân cận — nhắc lại yêu cầu giám sát địa kỹ thuật, có thể là chỗ cho giải pháp quan trắc tự động/AI.",
+      "tags": [
+        "sụt lún",
+        "hố đào",
+        "Hà Nội",
+        "an toàn công trình"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-29",
+      "note": "Bài đăng lại từ VTC News."
+    }
+  ],
+  "unreachable": [
+    {
+      "source": "Construction Dive / Supply Chain Dive / Retail Dive (curl)",
+      "status": "HTTP 403 khi tải bằng curl",
+      "impact": "Supply Chain Dive, Retail Dive đọc đầy đủ qua WebFetch; tin Bedrock của Construction Dive thay bằng Construction Industry AI."
+    },
+    {
+      "source": "Yonhap (yna.co.kr)",
+      "status": "curl không kết nối được (mã 000)",
+      "impact": "Dùng Newsis/Hankook Ilbo cho tin móc khóa ‘공덕’; SK hynix dùng thông cáo và CNBC."
+    },
+    {
+      "source": "湖北新闻网 hb.news.cn / 한스경제",
+      "status": "HTTP 500",
+      "impact": "Bỏ qua; dùng CNR cho triển lãm Vũ Hán."
+    },
+    {
+      "source": "Hankyung (bài Chiikawa/Daiso)",
+      "status": "Không tách được chính văn",
+      "impact": "Bỏ qua tin này."
+    },
+    {
+      "source": "Bricks & Bytes",
+      "status": "HTTP 202, trang rỗng",
+      "impact": "Bỏ qua."
+    }
+  ]
+}

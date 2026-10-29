@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-26",
-  "latest": "2026-10-26",
+  "updated": "2026-10-29",
+  "latest": "2026-10-29",
   "days": [
+    {
+      "date": "2026-10-29",
+      "file": "2026-10-29.json",
+      "headline": "Hỏi trước khi mua, nói thay vì gõ: duyệt chi bởi người lạ, remote TV thành phần cứng AI, sạp ‘tự giác’ và siêu chu kỳ chip nhớ",
+      "idea_count": 8,
+      "trend_count": 7,
+      "keyword_count": 73,
+      "top": {
+        "title": "“Ví ơi chờ chút” — web app nhờ bạn bè/người lạ ‘duyệt chi’ trước khi chốt đơn",
+        "total_score": 7.82
+      }
+    },
     {
       "date": "2026-10-26",
       "file": "2026-10-26.json",

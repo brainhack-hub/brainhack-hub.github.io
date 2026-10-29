@@ -78,8 +78,8 @@
       "vn_availability": "đã xác minh",
       "vn_note": "Việt Nam có trong danh sách quốc gia được hỗ trợ (anthropic.com/supported-countries).",
       "vi_support": "Dùng tiếng Việt tốt trong thực tế; trang chính thức không nêu cam kết riêng — chưa xác minh.",
-      "how_read": "mở trang (claude.com/pricing, docs.claude.com pricing, supported-countries) · mở lại claude.com/pricing 26/10: Free, Pro $17 (năm)/$20 (tháng), Max từ $100 — khớp",
-      "checked": "2026-10-26"
+      "how_read": "mở trang (claude.com/pricing, docs.claude.com pricing, supported-countries) · mở lại claude.com/pricing 29/10: Free, Pro $17 (năm)/$20 (tháng), Max từ $100 — khớp",
+      "checked": "2026-10-29"
     },
     {
       "id": "chatgpt",
@@ -120,8 +120,8 @@
       "vn_availability": "có hạn chế",
       "vn_note": "Gemini API: Việt Nam nằm trong danh sách vùng khả dụng (ai.google.dev/gemini-api/docs/available-regions). Gói Google AI: “hơn 160 quốc gia” — chưa kiểm riêng Việt Nam & giá theo nước.",
       "vi_support": null,
-      "how_read": "mở trang (gemini.google/subscriptions, ai.google.dev pricing & available-regions) · mở lại gemini.google/subscriptions 26/10: $4.99 / $19.99 — khớp",
-      "checked": "2026-10-26"
+      "how_read": "mở trang (gemini.google/subscriptions, ai.google.dev pricing & available-regions) · mở lại gemini.google/subscriptions 29/10: AI Plus $4,99, AI Pro $19,99 (giá Mỹ) — khớp",
+      "checked": "2026-10-29"
     },
     {
       "id": "deepseek",
@@ -208,8 +208,8 @@
       "vn_availability": "có hạn chế",
       "vn_note": "API: Việt Nam có trong vùng khả dụng; app/gói AI: chưa kiểm riêng VN.",
       "vi_support": null,
-      "how_read": "mở trang (ai.google.dev pricing, gemini.google/subscriptions) · mở lại ai.google.dev/gemini-api/docs/pricing 26/10: Nano Banana 2 $0.067/ảnh 1K, $0.101/ảnh 2K; Free tier “Not available” — khớp",
-      "checked": "2026-10-26"
+      "how_read": "mở trang (ai.google.dev pricing, gemini.google/subscriptions) · mở lại bảng giá Gemini API 29/10: có Nano Banana trong bảng giá ảnh — khớp",
+      "checked": "2026-10-29"
     },
     {
       "id": "flux",
@@ -315,8 +315,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh khả dụng/ưu đãi theo nước (một trang bên thứ ba nói ưu đãi Dreamina chỉ cho 12 nước — chưa kiểm chứng).",
       "vi_support": null,
-      "how_read": "mở trang (ai.byteplus.com, capcut.com/pricing) + trích đoạn docs qua tìm kiếm",
-      "checked": "2026-10-25"
+      "how_read": "mở trang (ai.byteplus.com, capcut.com/pricing) + trích đoạn docs qua tìm kiếm · mở lại 29/10 (trang CapCut): Seedance 2.5 từ $0,12/giây trong tháng đầu — khớp",
+      "checked": "2026-10-29"
     },
     {
       "id": "kling",
@@ -517,8 +517,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại vercel.com/pricing 26/10: Hobby $0, Pro $20/tháng — khớp",
-      "checked": "2026-10-26"
+      "how_read": "mở trang · mở lại trang giá 29/10: Hobby miễn phí, Pro $20/tháng — khớp",
+      "checked": "2026-10-29"
     },
     {
       "id": "supabase",
@@ -536,8 +536,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại supabase.com/pricing 26/10: Free 50,000 MAU, 500 MB DB, 1 GB file, tạm dừng sau 1 tuần không hoạt động; Pro từ $25/tháng — khớp",
-      "checked": "2026-10-26"
+      "how_read": "mở trang · mở lại trang giá 29/10: Free 50.000 MAU, 500 MB; Pro từ $25 — khớp",
+      "checked": "2026-10-29"
     },
     {
       "id": "cloudflare_pages",
@@ -555,8 +555,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang (pages.cloudflare.com, developers.cloudflare.com/workers pricing) · mở lại pages.cloudflare.com 26/10: unlimited sites/requests/bandwidth — khớp",
-      "checked": "2026-10-26"
+      "how_read": "mở trang (pages.cloudflare.com, developers.cloudflare.com/workers pricing) · mở lại pages.cloudflare.com 29/10: không giới hạn site và băng thông — khớp",
+      "checked": "2026-10-29"
     },
     {
       "id": "github_pages",
@@ -631,8 +631,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh giá/tính năng theo nước (thực tế dùng được ở VN nhưng trang chính thức không nêu).",
       "vi_support": null,
-      "how_read": "mở trang · mở lại capcut.com/pricing 26/10: Free USD 0, Pro USD 19.99/tháng (1200 credit AI, 1 TB), Ultra USD 79 — khớp",
-      "checked": "2026-10-26"
+      "how_read": "mở trang · mở lại trang giá 29/10: Pro USD 19,99/tháng — khớp",
+      "checked": "2026-10-29"
     },
     {
       "id": "canva",
@@ -745,8 +745,8 @@
       "vn_availability": "đã xác minh",
       "vn_note": "Dịch vụ cho ngân hàng Việt Nam.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại vietqr.io 26/10: vẫn có hướng dẫn img.vietqr.io — khớp",
-      "checked": "2026-10-26"
+      "how_read": "mở trang · mở lại 29/10: img.vietqr.io tạo ảnh QR hoạt động — khớp",
+      "checked": "2026-10-29"
     },
     {
       "id": "payos",
@@ -764,8 +764,8 @@
       "vn_availability": "đã xác minh",
       "vn_note": "Dịch vụ Việt Nam.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại payos.vn 26/10: vẫn ghi miễn phí, ưu đãi BIDV — khớp",
-      "checked": "2026-10-26"
+      "how_read": "mở trang · mở lại trang chủ 29/10: ‘Cổng thanh toán miễn phí’ — khớp",
+      "checked": "2026-10-29"
     },
     {
       "id": "momo",

@@ -1,0 +1,3283 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T15:00:00+07:00",
+  "headline": "Hỏi trước khi mua, nói thay vì gõ: duyệt chi bởi người lạ, remote TV thành phần cứng AI, sạp ‘tự giác’ và siêu chu kỳ chip nhớ",
+  "summary": "Trung Quốc là trọng tâm: mini app ‘钱包请等等’ cho người lạ duyệt chi tiêu, remote TV dưới 100 NDT thành nút ‘bấm để nói’ cho AI, sạp hồng không người bán và buồng cách âm trong thư viện đại học. Hàn: trào lưu ‘불교코어’ (đã bão hòa ở VN), trạm khắc trong pop-up Coach × Musinsa, SK hynix lãi kỷ lục. Mỹ: Gen Z dùng AI để mua quà; Nhật: hộp khóa điện thoại, Siri AI tiếng Nhật. 8 ý tưởng nhỏ, vốn thấp, đều có ghi rõ phần giả thuyết.",
+  "trends": [
+    {
+      "id": "20261029-t1-duyet-chi-xa-hoi",
+      "title": "Gen Z biến việc ‘nhịn mua’ thành trò chơi: duyệt chi bởi người lạ ở TQ, hỏi AI trước khi mua ở Mỹ",
+      "summary": "Mini-program ‘钱包请等等’ cho người dùng nộp đơn xin chi để người khác duyệt/bác; dựng bằng AI trong 8 ngày, hơn 30 vạn người tham gia. Song song, các sàn TQ đưa trợ lý AI mua sắm vào Double 11, và ở Mỹ 80% Gen Z dùng AI cho quyết định mua.",
+      "why_it_matters": "Hành vi ‘hỏi trước khi mua’ (hỏi bạn, hỏi AI) đang thành thói quen — nền cho ý tưởng #1 và #4.",
+      "tags": [
+        "tiết kiệm",
+        "Gen Z",
+        "AI mua sắm",
+        "mini app"
+      ],
+      "regions": [
+        "CN",
+        "US"
+      ],
+      "key_facts": [
+        {
+          "text": "‘钱包请等等’ ra mắt 25/8, 9 giờ đầu vượt 1 vạn người dùng; hơn 30 vạn người tham gia; nhà phát triển chỉ nhận 28 NDT tiền tip.",
+          "source_ids": [
+            "qq_wallet1",
+            "qq_wallet2",
+            "qq_wallet3"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Gần 80% người tiêu dùng TQ nói AI ảnh hưởng quyết định mua (báo cáo quý 2/2026, qua 21经济网).",
+          "source_ids": [
+            "21j_aishop"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Attentive: 80% Gen Z Mỹ dùng AI cho mua sắm trong 3 tháng.",
+          "source_ids": [
+            "rd_genz"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "qq_wallet1",
+          "name": "腾讯新闻",
+          "title": "00后靠AI手搓小程序，让陌生人审核消费，省钱成社交游戏",
+          "url": "https://news.qq.com/rain/a/20261008A0AKB500",
+          "published": "2026-10-08",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "qq_wallet2",
+          "name": "腾讯新闻 (phỏng vấn nhà phát triển)",
+          "title": "对话“钱包请等等”开发者：有人享受“批折子”，有人真的省了钱，30多万人参与，我仅获28元打赏",
+          "url": "https://news.qq.com/rain/a/20261019A0A9TT00",
+          "published": "2026-10-19",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "qq_wallet3",
+          "name": "腾讯新闻",
+          "title": "“钱包请等等”小程序走红，用户消费申请可由网友审批，年轻人为何爱上消费审批？",
+          "url": "https://news.qq.com/rain/a/20261016A0BSII00",
+          "published": "2026-10-16",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "21j_aishop",
+          "name": "21经济网",
+          "title": "这个双11，AI导购上岗，商家开始重写详情页",
+          "url": "https://www.21jingji.com/article/20261014/herald/df240fb164757b665b868408a5614d1b.html",
+          "published": "2026-10-14",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "rd_genz",
+          "name": "Retail Dive",
+          "title": "Gen Z, Gen Alpha holiday shopping: retail trends",
+          "url": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
+          "published": "2026-10-13",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "curl bị 403; đọc qua WebFetch."
+        }
+      ]
+    },
+    {
+      "id": "20261029-t2-remote-ai",
+      "title": "Remote TV dưới 100 NDT thành ‘phần cứng AI hot nhất Double 11’ — nhập liệu bằng giọng nói lên ngôi",
+      "summary": "Dân lập trình TQ biến remote TV có micro thành nút ‘bấm để nói’ cho trợ lý AI lập trình; báo chí và Baidu cùng đưa tin. WeChat cũng ra tính năng ‘AI录音笔’ trong bộ gõ, và Siri AI hỗ trợ tiếng Nhật lên Google Trends Nhật.",
+      "why_it_matters": "Giọng nói đang thành cổng vào AI phổ biến — cơ hội cho phụ kiện rẻ và dịch vụ cài đặt. Nền cho ý tưởng #2.",
+      "tags": [
+        "giọng nói",
+        "vibe coding",
+        "phần cứng",
+        "AI"
+      ],
+      "regions": [
+        "CN",
+        "JP",
+        "US"
+      ],
+      "key_facts": [
+        {
+          "text": "Remote Xiaomi 99 NDT chính hãng, 50–60 NDT kênh ngoài; thiết bị chuyên dụng trên 200 NDT.",
+          "source_ids": [
+            "21j_remote",
+            "smzdm_remote"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Baidu 29/10 #40 ‘电视遥控器爆火’ và #26 ‘微信新功能来了：只用动嘴’ (AI录音笔).",
+          "source_ids": [
+            "baidu_rt"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Kho mã nguồn mở remote-mic-app khoảng 2.031 sao GitHub.",
+          "source_ids": [
+            "gh_remote"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "21j_remote",
+          "name": "21经济网",
+          "title": "今年双十一，最火的AI硬件是电视遥控器",
+          "url": "https://www.21jingji.com/article/20261028/herald/77a28015d37094e6da3520cbca7e8084.html",
+          "published": "2026-10-28",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "smzdm_remote",
+          "name": "什么值得买 (smzdm)",
+          "title": "99元的电视遥控器，怎么成了双十一最火的AI硬件",
+          "url": "https://post.smzdm.com/p/a26xdkx7/",
+          "published": "2026-10-28",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Bài tổng hợp, có dẫn 21世纪经济报道, 少数派, 雷科技, Xiaohongshu — không hoàn toàn độc lập với bài 21经济网."
+        },
+        {
+          "id": "gh_remote",
+          "name": "GitHub (HD838A/remote-mic-app)",
+          "title": "remote-mic-app — biến điều khiển Bluetooth thành micro nhập liệu",
+          "url": "https://github.com/HD838A/remote-mic-app",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Kho mã nguồn mở GPL-3.0; khoảng 2.031 sao lúc truy cập 29/10."
+        },
+        {
+          "id": "baidu_rt",
+          "name": "Baidu 百度热搜 (mục #40)",
+          "title": "今年双十一 电视遥控器爆火",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 29/10 07:10 (UTC+7); điểm nóng 4.168.590; #26 微信新功能来了：只用动嘴 điểm nóng 5.518.263."
+        }
+      ]
+    },
+    {
+      "id": "20261029-t3-bulgyo-core",
+      "title": "‘불교코어’ ở Hàn: móc khóa gõ mõ ‘tích công đức’ cháy hàng — nhưng ở VN đã bão hòa",
+      "summary": "Móc khóa ‘공덕키링’ bán ở chùa Bongeunsa hết hàng trong 50 phút (9/2026), đợt sau 2.000 chiếc hết trong khoảng 2,5 giờ; gần một nửa khách là người 20–30 tuổi. Ở VN, móc khóa ‘tích đức’ gõ mõ đã là nhóm hàng riêng trên sàn (Metric có báo cáo riêng) — nên không đưa thành ý tưởng mới hôm nay.",
+      "why_it_matters": "Ví dụ điển hình của việc kiểm tra đối thủ VN trước khi ‘bê’ trend: tín hiệu mạnh nhưng thị trường VN đã có sẵn.",
+      "tags": [
+        "Hàn Quốc",
+        "đồ lưu niệm",
+        "tâm linh vui",
+        "bão hòa"
+      ],
+      "regions": [
+        "KR",
+        "VN"
+      ],
+      "key_facts": [
+        {
+          "text": "Bongeunsa bán ‘공덕키링’ từ 11 giờ ngày 12/9, hết hàng sau 50 phút.",
+          "source_ids": [
+            "newsis_gongdeok"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Đợt bán 2/10: 2.000 chiếc hết sau khoảng 2,5 giờ, giới hạn 3 chiếc/người; gần một nửa khách thuộc nhóm 20–30 tuổi; báo gọi là trào lưu ‘불교코어’.",
+          "source_ids": [
+            "hk_gongdeok"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Ở VN đã có nhóm hàng ‘móc khóa tích đức’ trên sàn TMĐT với báo cáo xu hướng riêng của Metric (chỉ đọc đoạn trích).",
+          "source_ids": [
+            "metric_tichduc"
+          ],
+          "verification": "chưa xác minh",
+          "note": "Chỉ đọc đoạn trích kết quả tìm kiếm ngày 29/10; chưa mở trang gốc — cần kiểm tra trước khi dùng."
+        }
+      ],
+      "sources": [
+        {
+          "id": "hk_gongdeok",
+          "name": "한국일보 (Hankook Ilbo)",
+          "title": "공덕 키링 — 2030 ‘불교코어’ 열풍 (bài về móc khóa gõ mõ)",
+          "url": "https://www.hankookilbo.com/news/article/A2026100516190004347",
+          "published": "2026-10-13",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "newsis_gongdeok",
+          "name": "뉴시스 (Newsis)",
+          "title": "누르면 공덕이 쌓인다?…봉은사 '공덕키링' 50분 만에 품절",
+          "url": "https://www.newsis.com/view/NISX20260917_0003793843",
+          "published": "2026-09-18",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Bài cũ hơn 1 tháng — bối cảnh khởi phát trào lưu."
+        },
+        {
+          "id": "metric_tichduc",
+          "name": "Metric.vn (kết quả tìm kiếm)",
+          "title": "Phân tích xu hướng nhóm hàng Móc khoá tích đức trên sàn TMĐT (10/2026)",
+          "url": "https://metric.vn/ereport/xu-huong-moc-khoa-tich-duc",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "chỉ đọc đoạn trích",
+          "note": "Chỉ đọc đoạn trích kết quả tìm kiếm."
+        }
+      ]
+    },
+    {
+      "id": "20261029-t4-ban-khong-nguoi",
+      "title": "Bán không người: sạp hồng ‘chẳng mất gì’ ở Bắc Kinh và mặt trái trộm cắp ở Hàn",
+      "summary": "Sạp hồng tự giác ở Phòng Sơn lên Baidu hot search; người bán nói không mất gì. Ngược lại, Hàn có khoảng 12.000 cửa hàng không người bán và trộm cắp năm 2025 tăng 83% so với 2022.",
+      "why_it_matters": "Mô hình ‘niềm tin’ hút truyền thông nhưng rủi ro mất hàng có thật — nền cho ý tưởng #5 (thử nhỏ, đo hao hụt).",
+      "tags": [
+        "bán không người",
+        "niềm tin",
+        "nông sản",
+        "QR"
+      ],
+      "regions": [
+        "CN",
+        "KR"
+      ],
+      "key_facts": [
+        {
+          "text": "Hồng 10 NDT/túi, tự quét mã, không mất hàng/tiền (theo người bán).",
+          "source_ids": [
+            "ifeng_persimmon",
+            "sina_persimmon"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hàn: trộm cắp ở cửa hàng không người bán 11.015 vụ năm 2025, tăng 83,03% so với 2022.",
+          "source_ids": [
+            "newsis_unmanned"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ifeng_persimmon",
+          "name": "凤凰网 (九派新闻)",
+          "title": "北京房山一网友用无人售卖形式销售柿子：货品钱款未丢失",
+          "url": "https://feng.ifeng.com/c/8xaiJATxpOJ",
+          "published": "2026-10-28",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "sina_persimmon",
+          "name": "新浪新闻 (九派新闻)",
+          "title": "路口摆无人小摊 自觉扫码 (tin cùng sự việc)",
+          "url": "https://www.sina.cn/news/detail/5359101165178419.html",
+          "published": "2026-10-28",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Cùng gốc 九派新闻 với bài ifeng → tính là 1 nguồn gốc."
+        },
+        {
+          "id": "newsis_unmanned",
+          "name": "뉴시스 (Newsis)",
+          "title": "\"편하게 돈번다고? 더 힘들다\"…속타는 무인점포",
+          "url": "https://www.newsis.com/view/NISX20261014_0003826302",
+          "published": "2026-10-18",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "baidu_rt",
+          "name": "Baidu 百度热搜 (mục #48)",
+          "title": "路口摆无人小摊 自觉扫码什么都没丢",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 29/10 07:10 (UTC+7); điểm nóng 3.430.000."
+        }
+      ]
+    },
+    {
+      "id": "20261029-t5-ca-nhan-hoa-qua",
+      "title": "Cá nhân hóa và ‘cùng sáng tạo’ lên ngôi mùa quà: trạm khắc ở pop-up Seoul, công cụ tìm quà AI ở Mỹ",
+      "summary": "Pop-up Coach × Musinsa ở Seoul có trạm khắc lời nhắn lên thẻ treo túi; ở Mỹ, Target, Kohl’s ra công cụ AI tìm quà và giới trẻ muốn tự thiết kế sản phẩm. Ở Nhật, gashapon phụ kiện ‘めじるし’ hình máy ảnh Canon lên Google Trends.",
+      "why_it_matters": "Mùa 20/11 – Noel ở VN là cơ hội cho quà cá nhân hóa nhanh và trợ lý chọn quà. Nền cho ý tưởng #3 và #4.",
+      "tags": [
+        "quà tặng",
+        "cá nhân hóa",
+        "pop-up",
+        "AI"
+      ],
+      "regions": [
+        "KR",
+        "US",
+        "JP"
+      ],
+      "key_facts": [
+        {
+          "text": "Pop-up Coach × Musinsa tới 7/11, có trạm khắc thẻ treo túi.",
+          "source_ids": [
+            "chosun_coach",
+            "herald_coach"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "67% người mua và 80% Gen Z dùng AI cho mua sắm trong 3 tháng (Attentive).",
+          "source_ids": [
+            "rd_genz"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Google Trends JP 29/10 #1 ‘キヤノン’ với tin gashapon ‘めじるしアクセサリー’ hình máy ảnh.",
+          "source_ids": [
+            "gt_jp"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "chosun_coach",
+          "name": "Chosunbiz",
+          "title": "Musinsa partners with Coach to launch Seoul pop-up and drive Gen Z sales",
+          "url": "https://biz.chosun.com/en/en-retail/2026/10/27/3OWMSKYVS5HH5CGEARUZW7UEMQ/",
+          "published": "2026-10-27",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "herald_coach",
+          "name": "The Herald Business",
+          "title": "Musinsa, Coach launch pop-up at Seoul Forest with shopping, experiences and events",
+          "url": "https://biz.heraldcorp.com/article/10912341",
+          "published": "2026-10-23",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "rd_genz",
+          "name": "Retail Dive",
+          "title": "Gen Z, Gen Alpha holiday shopping: retail trends",
+          "url": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
+          "published": "2026-10-13",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "curl bị 403; đọc qua WebFetch."
+        },
+        {
+          "id": "gt_jp",
+          "name": "Google Trends RSS Nhật Bản (mục #1)",
+          "title": "キヤノン",
+          "url": "https://trends.google.com/trending/rss?geo=JP",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Chụp 29/10 07:10 (UTC+7); tin kèm: キヤノンのカメラがガシャポン「めじるしアクセサリー」に."
+        }
+      ]
+    },
+    {
+      "id": "20261029-t6-chip-nho",
+      "title": "‘Siêu chu kỳ’ chip nhớ: SK hynix lãi kỷ lục, giá laptop cao cấp leo thang",
+      "summary": "SK hynix báo doanh thu quý vượt 100 nghìn tỷ won lần đầu, biên lãi hoạt động 80%, cổ phiếu tăng hơn 13% ở New York; Samsung công bố kết quả 29/10. TechCrunch nói thiếu bộ nhớ góp phần đẩy giá MacBook Pro bản tối đa lên khoảng 14.549 USD; Baidu đưa tin cả hai.",
+      "why_it_matters": "AI hút bộ nhớ → thiết bị tiêu dùng đắt lên; đáng theo dõi khi mua sắm thiết bị và với chuỗi linh kiện. Nền cho watchlist #8.",
+      "tags": [
+        "bán dẫn",
+        "HBM",
+        "giá thiết bị",
+        "Hàn Quốc"
+      ],
+      "regions": [
+        "KR",
+        "US",
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "SK hynix Q3/2026: doanh thu 104,6155 nghìn tỷ won, lãi hoạt động 83,3338 nghìn tỷ won.",
+          "source_ids": [
+            "skh_q3",
+            "cnbc_skh"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "MacBook Pro màn cảm ứng từ 2.899 USD, bản tối đa khoảng 14.549 USD (TechCrunch); Baidu #17 nêu giá ở TQ từ 22.999 NDT.",
+          "source_ids": [
+            "tc_mbp",
+            "baidu_rt"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Google Trends KR 29/10: ‘삼성전자 실적발표’ 10000+ lượt tìm.",
+          "source_ids": [
+            "gt_kr"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "skh_q3",
+          "name": "SK hynix Newsroom (thông cáo)",
+          "title": "SK hynix Announces 3Q26 Financial Results",
+          "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+          "published": "2026-10-28",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Đọc qua WebFetch."
+        },
+        {
+          "id": "cnbc_skh",
+          "name": "CNBC",
+          "title": "SK Hynix shares jump 11% after record quarterly profit",
+          "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+          "published": "2026-10-28",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Đọc qua WebFetch."
+        },
+        {
+          "id": "tc_mbp",
+          "name": "TechCrunch",
+          "title": "Apple's touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+          "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+          "published": "2026-10-28",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "baidu_rt",
+          "name": "Baidu 百度热搜 (mục #18)",
+          "title": "美股收盘：SK海力士涨超13%",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 29/10 07:10 (UTC+7); điểm nóng 6.280.192; #17 乔布斯嘲讽的触屏笔记本苹果真出了 6.376.260."
+        },
+        {
+          "id": "gt_kr",
+          "name": "Google Trends RSS Hàn Quốc (mục #6)",
+          "title": "삼성전자 실적발표",
+          "url": "https://trends.google.com/trending/rss?geo=KR",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Chụp 29/10 07:10 (UTC+7); 10000+ lượt tìm."
+        }
+      ]
+    },
+    {
+      "id": "20261029-t7-buong-yen-tinh",
+      "title": "‘Buồng yên tĩnh’ trong trường ĐH TQ: chỗ để phỏng vấn online, họp video",
+      "summary": "Nhiều trường ĐH TQ (Renmin, Beihang theo Baidu; Đại Liên, Hàng hải Thượng Hải theo thông báo thư viện) đặt buồng cách âm một người; Đại Liên chuyển sang đặt online từ 19/10. Ở Nhật, hộp khóa điện thoại để tập trung học bán chạy.",
+      "why_it_matters": "Nhu cầu ‘một góc yên tĩnh có giờ’ cho phỏng vấn/học tập — nền cho ý tưởng #6 và #7.",
+      "tags": [
+        "không gian",
+        "phỏng vấn",
+        "học tập",
+        "sinh viên"
+      ],
+      "regions": [
+        "CN",
+        "JP"
+      ],
+      "key_facts": [
+        {
+          "text": "Buồng cách âm thư viện phục vụ họp online, phỏng vấn từ xa, đọc thuộc, gọi điện.",
+          "source_ids": [
+            "dlut_pod",
+            "shmtu_pod"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Baidu 29/10 #11: nhiều trường (Renmin, Beihang) bố trí ‘静音舱’.",
+          "source_ids": [
+            "baidu_rt"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Nhật: hộp khóa điện thoại ‘デジトックス’ đứng đầu một bảng xếp hạng của HANDS (Nolyn).",
+          "source_ids": [
+            "nolyn_zakka"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "dlut_pod",
+          "name": "大连理工大学图书馆",
+          "title": "关于图书馆静音舱启用线上预约使用的通知",
+          "url": "https://lib.dlut.edu.cn/info/1049/11389.htm",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Thông báo không ghi ngày đăng; nêu áp dụng từ 19/10/2026."
+        },
+        {
+          "id": "shmtu_pod",
+          "name": "上海海事大学图书馆",
+          "title": "图书馆关于启用静音舱服务的通知",
+          "url": "https://lib.shmtu.edu.cn/about/news/2781.htm",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Thông báo không ghi ngày đăng rõ; nêu mục đích họp online, phỏng vấn từ xa."
+        },
+        {
+          "id": "baidu_rt",
+          "name": "Baidu 百度热搜 (mục #11)",
+          "title": "多所高校内出现这种“小房子”",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 29/10 07:10 (UTC+7); điểm nóng 6.945.488."
+        },
+        {
+          "id": "nolyn_zakka",
+          "name": "Nolyn (báo cáo xu hướng tạp hóa Nhật)",
+          "title": "雑貨トレンド — sổ sticker, めじるし, 勉強垢, デジトックス",
+          "url": "https://www.nolyn.ai/ja/case-studies/ryuko-zakka",
+          "published": "2026-10-23",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Bên thứ ba tổng hợp dữ liệu bán lẻ/MXH."
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "20261029-01-vi-oi-cho-chut",
+      "date": "2026-10-29",
+      "title": "“Ví ơi chờ chút” — web app nhờ bạn bè/người lạ ‘duyệt chi’ trước khi chốt đơn",
+      "pitch": "Trước khi bấm mua, bạn nộp ‘tờ trình xin chi’: món gì, giá bao nhiêu, lý do, phương án thay thế. Bạn bè trong nhóm (hoặc cộng đồng ẩn danh) bấm Duyệt/Bác kèm một câu lý do. Biến việc tiết kiệm thành trò chơi xã hội; kiếm tiền sau bằng gói nhóm, sticker ‘phiếu duyệt’ và quảng cáo nhẹ từ nơi bán đồ cũ.",
+      "type": "startup",
+      "category": [
+        "ai",
+        "content"
+      ],
+      "tags": [
+        "tiết kiệm",
+        "Gen Z",
+        "mini app",
+        "mạng xã hội",
+        "chống mua sắm bốc đồng"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Bản TQ tăng người dùng rất nhanh nhưng nhà phát triển gần như không có doanh thu (chỉ 28 NDT tiền tip) — mô hình kiếm tiền là giả thuyết. Chưa kiểm tra kỹ đối thủ tương tự ở VN.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261029-01-vi-oi-cho-chut.webp",
+      "image_alt": "Ví tiền màu cam cạnh điện thoại hiển thị nút duyệt và nút bác cùng hai thanh phiếu bầu",
+      "toolstack": {
+        "confidence": "cao",
+        "wow": "Mỗi tờ trình được AI ‘phản biện’ bằng một câu châm biếm nhẹ và đề xuất phương án rẻ hơn, rồi xuất thành thẻ ảnh ‘ĐÃ BÁC’ để khoe lên TikTok.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Viết đặc tả, code giao diện, câu ‘AI phản biện’ và luật cộng đồng.",
+            "why": "Viết tiếng Việt hài, có cấu trúc; Free $0, Pro $17/tháng (trả năm) hoặc $20 (trả tháng) — mở lại claude.com/pricing 29/10.",
+            "alt_ids": [
+              "chatgpt",
+              "gemini"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vercel",
+            "role": "Lưu trữ web app.",
+            "why": "Gói Hobby miễn phí, Pro $20/tháng — mở lại trang giá 29/10.",
+            "alt_ids": [
+              "cloudflare_pages"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "supabase",
+            "role": "Cơ sở dữ liệu tờ trình, phiếu bầu, đăng nhập.",
+            "why": "Free 50.000 người dùng hoạt động/tháng, 500 MB; Pro từ $25 — mở lại 29/10.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "nano_banana",
+            "role": "Tạo thẻ ảnh ‘ĐÃ DUYỆT/ĐÃ BÁC’ theo món đồ.",
+            "why": "Gọi API theo ảnh; bảng giá API Gemini mở lại 29/10 (có Nano Banana).",
+            "alt_ids": [
+              "canva"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip TikTok giới thiệu.",
+            "why": "Free; Pro USD 19,99/tháng — mở lại 29/10.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "cloudflare_pages",
+            "supabase"
+          ],
+          "monthly_cost_note": "≈ $0/tháng (gói Free).",
+          "tradeoff": "Không có thẻ ảnh AI; phải làm mẫu thẻ cố định."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "vercel",
+            "supabase",
+            "nano_banana",
+            "capcut"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $0–20 (Vercel) + $0–25 (Supabase) + vài USD API ảnh + $19,99 (CapCut Pro) ≈ $40–90/tháng.",
+          "tradeoff": "Thẻ ảnh đẹp, chịu tải tốt khi viral; chi phí tăng theo lượt dùng."
+        },
+        "checked": "2026-10-29"
+      },
+      "regions": [
+        "CN",
+        "US"
+      ],
+      "signal_text": "TQ: mini-program ‘钱包请等等’ do một product manager 26 tuổi dựng bằng AI trong 8 ngày, ra mắt 25/8, 9 giờ đầu vượt 1 vạn người dùng, hơn 30 vạn người tham gia nhưng chỉ nhận 28 NDT tiền tip (腾讯新闻 8/10 và 19/10). Báo cáo được dẫn: 82% Gen Z TQ bắt đầu tiết kiệm/giảm chi không cần thiết. Mỹ: 80% Gen Z dùng AI cho quyết định mua sắm trong 3 tháng (Attentive, qua Retail Dive 13/10) — ‘hỏi trước khi mua’ đang thành thói quen.",
+      "vn_youth_fit": "49% Gen Z Việt tuân thủ nghiêm hạn mức chi ăn uống ngoài, 45% coi ‘đáng tiền’ là yếu tố quyết định (ngan-sach); 81% người dùng Việt tương tác với AI hằng ngày (ai) → thêm ‘AI phản biện’ vào tờ trình là điểm khác biệt dễ hiểu.",
+      "vn_fit_refs": [
+        "ngan-sach",
+        "ai"
+      ],
+      "key_facts": [
+        {
+          "text": "‘钱包请等等’: người dùng nộp đơn xin chi gồm tên món, giá, lý do và phương án thay thế; người duyệt phải ghi lý do khi Duyệt/Bác.",
+          "source_ids": [
+            "qq_wallet1",
+            "qq_wallet2"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Nhà phát triển dựng bản đầu bằng công cụ AI trong 8 ngày; ra mắt 25/8, 9 giờ đầu vượt 1 vạn người dùng, ngày thứ hai khoảng 4 vạn.",
+          "source_ids": [
+            "qq_wallet1"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hơn 30 vạn người tham gia; đến 18/10 nhà phát triển chỉ nhận 28 NDT tiền tip; gặp khó về máy chủ, kiểm duyệt nội dung, bị sao chép.",
+          "source_ids": [
+            "qq_wallet2"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Báo cáo người tiêu dùng TQ 2026 (được bài báo dẫn): 82% Gen Z đã bắt đầu tiết kiệm hoặc giảm chi không cần thiết.",
+          "source_ids": [
+            "qq_wallet1"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Attentive (qua Retail Dive): 80% Gen Z dùng AI cho việc mua sắm trong 3 tháng gần nhất.",
+          "source_ids": [
+            "rd_genz"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "qq_wallet1",
+          "name": "腾讯新闻",
+          "title": "00后靠AI手搓小程序，让陌生人审核消费，省钱成社交游戏",
+          "url": "https://news.qq.com/rain/a/20261008A0AKB500",
+          "published": "2026-10-08",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "qq_wallet2",
+          "name": "腾讯新闻 (phỏng vấn nhà phát triển)",
+          "title": "对话“钱包请等等”开发者：有人享受“批折子”，有人真的省了钱，30多万人参与，我仅获28元打赏",
+          "url": "https://news.qq.com/rain/a/20261019A0A9TT00",
+          "published": "2026-10-19",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "qq_wallet3",
+          "name": "腾讯新闻",
+          "title": "“钱包请等等”小程序走红，用户消费申请可由网友审批，年轻人为何爱上消费审批？",
+          "url": "https://news.qq.com/rain/a/20261016A0BSII00",
+          "published": "2026-10-16",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "rd_genz",
+          "name": "Retail Dive",
+          "title": "Gen Z, Gen Alpha holiday shopping: retail trends",
+          "url": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
+          "published": "2026-10-13",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "curl bị 403; đọc qua WebFetch."
+        }
+      ],
+      "localize_vn": "Giả thuyết: bản web chạy trong Zalo/Messenger, chế độ ‘nhóm bạn thân’ (duyệt kín) và ‘quảng trường’ (ẩn danh). Thêm nút ‘AI phản biện’ gợi ý phương án rẻ hơn. Thử với các nhóm săn sale 11/11–12/12.",
+      "localize_global": "Mô hình có thể dịch sang tiếng Anh cho cộng đồng ‘no-buy challenge’, cần kiểm tra đối thủ quốc tế.",
+      "first_steps": [
+        "Ngày 1: Claude viết đặc tả, luật cộng đồng, 20 tờ trình mẫu vui; dựng giao diện trên Vercel.",
+        "Ngày 2–3: Supabase lưu tờ trình, phiếu bầu; đăng nhập bằng link; chế độ nhóm kín.",
+        "Ngày 4: quay 3 clip CapCut ‘tờ trình hài’ đăng TikTok; mời 5 nhóm bạn dùng thử.",
+        "Ngày 5–7: đo số tờ trình/người, tỷ lệ bị ‘bác’, số người quay lại ngày hôm sau."
+      ],
+      "capital": {
+        "vnd_min_m": 0,
+        "vnd_max_m": 3,
+        "usd_min": 0,
+        "usd_max": 115,
+        "note": "Chủ yếu là thời gian; tên miền, quảng cáo nhỏ. Hạ tầng dùng gói miễn phí."
+      },
+      "risks": [
+        "Khó kiếm tiền (bản TQ gần như không có doanh thu).",
+        "Kiểm duyệt nội dung bình luận ẩn danh; cần lọc từ ngữ xúc phạm.",
+        "Dễ bị sao chép — lợi thế là cộng đồng và nội dung hài.",
+        "Thu thập dữ liệu chi tiêu cá nhân — cần chính sách riêng tư rõ."
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 7,
+        "novelty": 7,
+        "lowcap": 9,
+        "signal": 8,
+        "vnfit": 8
+      },
+      "claude_prompt": "Bạn là product manager kiêm lập trình viên full-stack chuyên mini app mạng xã hội cho Gen Z. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Ví ơi chờ chút” — web app nhờ bạn bè/người lạ ‘duyệt chi’ trước khi chốt đơn\nTóm tắt: Trước khi bấm mua, bạn nộp ‘tờ trình xin chi’: món gì, giá bao nhiêu, lý do, phương án thay thế. Bạn bè trong nhóm (hoặc cộng đồng ẩn danh) bấm Duyệt/Bác kèm một câu lý do. Biến việc tiết kiệm thành trò chơi xã hội; kiếm tiền sau bằng gói nhóm, sticker ‘phiếu duyệt’ và quảng cáo nhẹ từ nơi bán đồ cũ.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN, US\nTQ: mini-program ‘钱包请等等’ do một product manager 26 tuổi dựng bằng AI trong 8 ngày, ra mắt 25/8, 9 giờ đầu vượt 1 vạn người dùng, hơn 30 vạn người tham gia nhưng chỉ nhận 28 NDT tiền tip (腾讯新闻 8/10 và 19/10). Báo cáo được dẫn: 82% Gen Z TQ bắt đầu tiết kiệm/giảm chi không cần thiết. Mỹ: 80% Gen Z dùng AI cho quyết định mua sắm trong 3 tháng (Attentive, qua Retail Dive 13/10) — ‘hỏi trước khi mua’ đang thành thói quen.\nDữ kiện chi tiết (kèm mức xác minh):\n- ‘钱包请等等’: người dùng nộp đơn xin chi gồm tên món, giá, lý do và phương án thay thế; người duyệt phải ghi lý do khi Duyệt/Bác. [2+ nguồn độc lập]\n- Nhà phát triển dựng bản đầu bằng công cụ AI trong 8 ngày; ra mắt 25/8, 9 giờ đầu vượt 1 vạn người dùng, ngày thứ hai khoảng 4 vạn. [1 nguồn gốc]\n- Hơn 30 vạn người tham gia; đến 18/10 nhà phát triển chỉ nhận 28 NDT tiền tip; gặp khó về máy chủ, kiểm duyệt nội dung, bị sao chép. [1 nguồn gốc]\n- Báo cáo người tiêu dùng TQ 2026 (được bài báo dẫn): 82% Gen Z đã bắt đầu tiết kiệm hoặc giảm chi không cần thiết. [1 nguồn gốc]\n- Attentive (qua Retail Dive): 80% Gen Z dùng AI cho việc mua sắm trong 3 tháng gần nhất. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Bản TQ tăng người dùng rất nhanh nhưng nhà phát triển gần như không có doanh thu (chỉ 28 NDT tiền tip) — mô hình kiếm tiền là giả thuyết. Chưa kiểm tra kỹ đối thủ tương tự ở VN.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\n49% Gen Z Việt tuân thủ nghiêm hạn mức chi ăn uống ngoài, 45% coi ‘đáng tiền’ là yếu tố quyết định (ngan-sach); 81% người dùng Việt tương tác với AI hằng ngày (ai) → thêm ‘AI phản biện’ vào tờ trình là điểm khác biệt dễ hiểu.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: bản web chạy trong Zalo/Messenger, chế độ ‘nhóm bạn thân’ (duyệt kín) và ‘quảng trường’ (ẩn danh). Thêm nút ‘AI phản biện’ gợi ý phương án rẻ hơn. Thử với các nhóm săn sale 11/11–12/12.\n\n## 4. Ràng buộc\n- Vốn: khoảng 0–3 triệu VND (Chủ yếu là thời gian; tên miền, quảng cáo nhỏ. Hạ tầng dùng gói miễn phí.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Bảo vệ dữ liệu cá nhân theo quy định hiện hành, kiểm duyệt bình luận ẩn danh, điều khoản người dùng dưới 16 tuổi. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Khó kiếm tiền (bản TQ gần như không có doanh thu).\n- Kiểm duyệt nội dung bình luận ẩn danh; cần lọc từ ngữ xúc phạm.\n- Dễ bị sao chép — lợi thế là cộng đồng và nội dung hài.\n- Thu thập dữ liệu chi tiêu cá nhân — cần chính sách riêng tư rõ.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Viết đặc tả, code giao diện, câu ‘AI phản biện’ và luật cộng đồng.\n- Vercel: Lưu trữ web app.\n- Supabase: Cơ sở dữ liệu tờ trình, phiếu bầu, đăng nhập.\n- Nano Banana (Gemini image, Google): Tạo thẻ ảnh ‘ĐÃ DUYỆT/ĐÃ BÁC’ theo món đồ.\n- CapCut: Clip TikTok giới thiệu.\n  Bản tiết kiệm: Claude (Anthropic), Cloudflare Pages / Workers, Supabase. Bản cao cấp: Claude (Anthropic), Vercel, Supabase, Nano Banana (Gemini image, Google), CapCut.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude viết đặc tả, luật cộng đồng, 20 tờ trình mẫu vui; dựng giao diện trên Vercel.\n- Ngày 2–3: Supabase lưu tờ trình, phiếu bầu; đăng nhập bằng link; chế độ nhóm kín.\n- Ngày 4: quay 3 clip CapCut ‘tờ trình hài’ đăng TikTok; mời 5 nhóm bạn dùng thử.\n- Ngày 5–7: đo số tờ trình/người, tỷ lệ bị ‘bác’, số người quay lại ngày hôm sau.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Đặc tả sản phẩm 1 trang: luồng nộp tờ trình, duyệt/bác, nhóm kín, quảng trường\n2. Mã nguồn web app (HTML/JS + Supabase) kèm hướng dẫn chạy\n3. 20 tờ trình mẫu hài hước bằng tiếng Việt và 30 câu ‘AI phản biện’\n4. Luật cộng đồng và bộ lọc từ ngữ\n5. Kịch bản 3 clip TikTok và bảng chỉ số đi tiếp/dừng\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 7.82,
+      "rank": 1
+    },
+    {
+      "id": "20261029-04-tro-ly-ai-chon-qua",
+      "date": "2026-10-29",
+      "title": "Trợ lý AI chọn quà 20/11 – Noel qua Zalo: hỏi 5 câu, gợi ý 3 món trong ngân sách kèm lời chúc",
+      "pitch": "Một chatbot trên Zalo OA: người dùng trả lời 5 câu (tặng ai, ngân sách, sở thích, dịp, gấp hay không), AI gợi ý 3 món có thật trên sàn kèm lời chúc viết sẵn và thiệp ảnh. Thu tiền bằng hoa hồng tiếp thị liên kết hoặc gói ‘chọn quà + gói quà giao tận nơi’.",
+      "type": "startup",
+      "category": [
+        "ai",
+        "ecom",
+        "service"
+      ],
+      "tags": [
+        "quà tặng",
+        "20/11",
+        "Noel",
+        "chatbot",
+        "AI mua sắm"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Các sàn lớn (Taobao, JD) đã có trợ lý AI mua sắm riêng; ở VN sàn cũng có thể làm tương tự. Lợi thế thời vụ và lời chúc tiếng Việt là giả thuyết; điều kiện tiếp thị liên kết của sàn cần kiểm tra.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261029-04-tro-ly-ai-chon-qua.webp",
+      "image_alt": "Hộp quà đỏ buộc nơ vàng, hộp quà xanh nhỏ và bong bóng chat có mặt cười gợi ý quà",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Sau 5 câu hỏi, người dùng nhận 3 món quà kèm một thiệp ảnh AI có tên người nhận và lời chúc viết riêng — gửi thẳng qua Zalo.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Luồng hội thoại, viết lời chúc, chọn quà theo tiêu chí.",
+            "why": "Pro $17–20/tháng — mở lại 29/10.",
+            "alt_ids": [
+              "chatgpt",
+              "gemini"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "gemini",
+            "role": "Phương án mô hình rẻ cho bản đầu.",
+            "why": "Gemini AI Plus $4,99, AI Pro $19,99 (giá Mỹ) — mở lại 29/10.",
+            "alt_ids": [
+              "deepseek"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Kênh chat với người dùng.",
+            "why": "Giá gói nâng cao chưa đọc được 29/10.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "n8n",
+            "role": "Nối Zalo với mô hình AI và bảng danh mục quà.",
+            "why": "Giá theo registry (kiểm 25/10), chưa kiểm lại hôm nay.",
+            "alt_ids": [
+              "zapier"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "cloudflare_pages",
+            "role": "Trang danh mục quà và chính sách.",
+            "why": "Không giới hạn site và băng thông theo trang chủ (29/10).",
+            "alt_ids": [
+              "github_pages"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "nano_banana",
+            "role": "Thiệp ảnh cá nhân hóa.",
+            "why": "Bảng giá API Gemini mở lại 29/10.",
+            "alt_ids": [
+              "canva"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "gemini",
+            "zalo_oa",
+            "cloudflare_pages"
+          ],
+          "monthly_cost_note": "≈ $0–5/tháng.",
+          "tradeoff": "Không có thiệp ảnh, hội thoại đơn giản hơn."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "n8n",
+            "zalo_oa",
+            "nano_banana",
+            "cloudflare_pages"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + gói n8n (xem registry) + vài USD API ảnh ≈ $45–70/tháng.",
+          "tradeoff": "Lời chúc và thiệp ấn tượng; chi phí cố định cao hơn trong mùa thấp điểm."
+        },
+        "checked": "2026-10-29"
+      },
+      "regions": [
+        "US",
+        "CN"
+      ],
+      "signal_text": "Mỹ: Attentive (qua Retail Dive 13/10) — 67% người mua và 80% Gen Z dùng AI cho việc mua sắm trong 3 tháng; Target, Kohl’s ra công cụ tìm quà bằng AI. TQ: JD ra trợ lý ‘东东’, Taobao nối với Qwen; báo cáo quý 2/2026 cho thấy gần 80% người tiêu dùng nói AI ảnh hưởng quyết định mua (21经济网 14/10); 钛媒体 thử 4 trợ lý AI mua sắm dịp Double 11.",
+      "vn_youth_fit": "81% người dùng Việt tương tác với AI hằng ngày (ai); Zalo nằm trong top 3 nền tảng (89% sử dụng, mxh-top) → chatbot trên Zalo không bắt người dùng tải app mới.",
+      "vn_fit_refs": [
+        "ai",
+        "mxh-top"
+      ],
+      "key_facts": [
+        {
+          "text": "Attentive: 67% người mua và 80% Gen Z dùng AI cho mua sắm trong 3 tháng; Target và Kohl’s có công cụ tìm quà bằng AI.",
+          "source_ids": [
+            "rd_genz"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Khảo sát trước đó (600 người): 45% dùng AI để nhận gợi ý quà.",
+          "source_ids": [
+            "rd_aigift"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "JD ra trợ lý AI mua sắm ‘东东’ (9/2026); Taobao nối với Qwen; Doubao có ‘hỏi trước khi mua’; gần 80% người tiêu dùng TQ nói AI ảnh hưởng quyết định mua.",
+          "source_ids": [
+            "21j_aishop"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hai báo TQ độc lập cùng thử/ghi nhận trợ lý AI mua sắm dịp Double 11 2026.",
+          "source_ids": [
+            "21j_aishop",
+            "tmt_aishop"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "id": "rd_genz",
+          "name": "Retail Dive",
+          "title": "Gen Z, Gen Alpha holiday shopping: retail trends",
+          "url": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
+          "published": "2026-10-13",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "curl bị 403; đọc qua WebFetch."
+        },
+        {
+          "id": "rd_aigift",
+          "name": "Retail Dive",
+          "title": "Holiday shoppers using AI for gift purchases",
+          "url": "https://www.retaildive.com/news/holiday-shoppers-using-ai-gift-purchases/826939/",
+          "published": "2026-08-04",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Bài cũ gần 3 tháng — bối cảnh; curl 403, đọc qua WebFetch."
+        },
+        {
+          "id": "21j_aishop",
+          "name": "21经济网",
+          "title": "这个双11，AI导购上岗，商家开始重写详情页",
+          "url": "https://www.21jingji.com/article/20261014/herald/df240fb164757b665b868408a5614d1b.html",
+          "published": "2026-10-14",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "tmt_aishop",
+          "name": "钛媒体",
+          "title": "AI冲进双十一，算盘打得比人响？",
+          "url": "https://www.tmtpost.com/8177056.html",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Trang không hiện ngày đăng rõ ràng; nội dung về đợt Double 11 năm 2026."
+        }
+      ],
+      "localize_vn": "Giả thuyết: bản đầu chỉ 3 nhóm người nhận (thầy cô, người yêu, đồng nghiệp), ngân sách 100–500 nghìn; gợi ý dẫn link sàn + lời chúc; thử trước 20/11 rồi mở rộng cho Noel.",
+      "localize_global": "Có thể thêm chế độ ‘quà cho người nước ngoài’ (đặc sản VN gửi quốc tế).",
+      "first_steps": [
+        "Ngày 1: Claude viết luồng 5 câu hỏi, 60 gợi ý quà mẫu theo nhóm, lời chúc.",
+        "Ngày 2–3: nối Zalo OA với n8n + mô hình AI; trang danh mục trên Cloudflare Pages.",
+        "Ngày 4: đăng ký tiếp thị liên kết của sàn (kiểm điều kiện).",
+        "Ngày 5–7: mời 50 người dùng thử, đo tỷ lệ bấm link và đơn."
+      ],
+      "capital": {
+        "vnd_min_m": 1,
+        "vnd_max_m": 5,
+        "usd_min": 38,
+        "usd_max": 192,
+        "note": "Gói tự động hóa, chi phí gọi AI, quảng cáo nhỏ trên Zalo/TikTok."
+      },
+      "risks": [
+        "Hoa hồng tiếp thị liên kết thấp, phụ thuộc chính sách sàn.",
+        "Gợi ý sai giá/hết hàng làm mất uy tín — phải ghi rõ giá có thể thay đổi.",
+        "Sàn tự làm trợ lý AI riêng.",
+        "Quy định gửi tin nhắn Zalo và dữ liệu cá nhân."
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 7,
+        "novelty": 6,
+        "lowcap": 9,
+        "signal": 7,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là chuyên gia thiết kế chatbot mua sắm và tiếp thị liên kết. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: Trợ lý AI chọn quà 20/11 – Noel qua Zalo: hỏi 5 câu, gợi ý 3 món trong ngân sách kèm lời chúc\nTóm tắt: Một chatbot trên Zalo OA: người dùng trả lời 5 câu (tặng ai, ngân sách, sở thích, dịp, gấp hay không), AI gợi ý 3 món có thật trên sàn kèm lời chúc viết sẵn và thiệp ảnh. Thu tiền bằng hoa hồng tiếp thị liên kết hoặc gói ‘chọn quà + gói quà giao tận nơi’.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: US, CN\nMỹ: Attentive (qua Retail Dive 13/10) — 67% người mua và 80% Gen Z dùng AI cho việc mua sắm trong 3 tháng; Target, Kohl’s ra công cụ tìm quà bằng AI. TQ: JD ra trợ lý ‘东东’, Taobao nối với Qwen; báo cáo quý 2/2026 cho thấy gần 80% người tiêu dùng nói AI ảnh hưởng quyết định mua (21经济网 14/10); 钛媒体 thử 4 trợ lý AI mua sắm dịp Double 11.\nDữ kiện chi tiết (kèm mức xác minh):\n- Attentive: 67% người mua và 80% Gen Z dùng AI cho mua sắm trong 3 tháng; Target và Kohl’s có công cụ tìm quà bằng AI. [1 nguồn gốc]\n- Khảo sát trước đó (600 người): 45% dùng AI để nhận gợi ý quà. [1 nguồn gốc]\n- JD ra trợ lý AI mua sắm ‘东东’ (9/2026); Taobao nối với Qwen; Doubao có ‘hỏi trước khi mua’; gần 80% người tiêu dùng TQ nói AI ảnh hưởng quyết định mua. [1 nguồn gốc]\n- Hai báo TQ độc lập cùng thử/ghi nhận trợ lý AI mua sắm dịp Double 11 2026. [2+ nguồn độc lập]\n\nLƯU Ý ĐỘ TIN CẬY: Các sàn lớn (Taobao, JD) đã có trợ lý AI mua sắm riêng; ở VN sàn cũng có thể làm tương tự. Lợi thế thời vụ và lời chúc tiếng Việt là giả thuyết; điều kiện tiếp thị liên kết của sàn cần kiểm tra.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\n81% người dùng Việt tương tác với AI hằng ngày (ai); Zalo nằm trong top 3 nền tảng (89% sử dụng, mxh-top) → chatbot trên Zalo không bắt người dùng tải app mới.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: bản đầu chỉ 3 nhóm người nhận (thầy cô, người yêu, đồng nghiệp), ngân sách 100–500 nghìn; gợi ý dẫn link sàn + lời chúc; thử trước 20/11 rồi mở rộng cho Noel.\n\n## 4. Ràng buộc\n- Vốn: khoảng 1–5 triệu VND (Gói tự động hóa, chi phí gọi AI, quảng cáo nhỏ trên Zalo/TikTok.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Điều khoản tiếp thị liên kết của sàn, quy định quảng cáo (ghi rõ link có hoa hồng), dữ liệu cá nhân, chính sách tin nhắn Zalo. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Hoa hồng tiếp thị liên kết thấp, phụ thuộc chính sách sàn.\n- Gợi ý sai giá/hết hàng làm mất uy tín — phải ghi rõ giá có thể thay đổi.\n- Sàn tự làm trợ lý AI riêng.\n- Quy định gửi tin nhắn Zalo và dữ liệu cá nhân.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Luồng hội thoại, viết lời chúc, chọn quà theo tiêu chí.\n- Gemini (Google): Phương án mô hình rẻ cho bản đầu.\n- Zalo Official Account (OA): Kênh chat với người dùng.\n- n8n: Nối Zalo với mô hình AI và bảng danh mục quà.\n- Cloudflare Pages / Workers: Trang danh mục quà và chính sách.\n- Nano Banana (Gemini image, Google): Thiệp ảnh cá nhân hóa.\n  Bản tiết kiệm: Gemini (Google), Zalo Official Account (OA), Cloudflare Pages / Workers. Bản cao cấp: Claude (Anthropic), n8n, Zalo Official Account (OA), Nano Banana (Gemini image, Google), Cloudflare Pages / Workers.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude viết luồng 5 câu hỏi, 60 gợi ý quà mẫu theo nhóm, lời chúc.\n- Ngày 2–3: nối Zalo OA với n8n + mô hình AI; trang danh mục trên Cloudflare Pages.\n- Ngày 4: đăng ký tiếp thị liên kết của sàn (kiểm điều kiện).\n- Ngày 5–7: mời 50 người dùng thử, đo tỷ lệ bấm link và đơn.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Luồng 5 câu hỏi và cây quyết định chọn quà\n2. 60 gợi ý quà mẫu theo 3 nhóm người nhận và 3 mức ngân sách (ghi rõ cần kiểm giá thật)\n3. Bộ lời chúc 20/11 và Noel ngắn gọn (mỗi dịp một chục câu)\n4. Thiết kế workflow n8n nối Zalo OA – AI – bảng quà\n5. Bảng chỉ số và tiêu chí đi tiếp\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 7.2,
+      "rank": 2
+    },
+    {
+      "id": "20261029-02-remote-noi-la-go",
+      "date": "2026-10-29",
+      "title": "“Remote nói-là-gõ” — biến điều khiển TV Bluetooth giá rẻ thành nút ‘bấm để nói’ cho AI, bán kèm hướng dẫn cài tiếng Việt",
+      "pitch": "Ở TQ, dân lập trình đang săn remote TV có micro (khoảng 50–99 NDT) để bấm-giữ-nói ra lệnh cho trợ lý AI lập trình. Ở VN, bán bộ ‘remote + file cấu hình + video cài đặt 10 phút’ cho sinh viên, dân văn phòng muốn đọc chính tả tiếng Việt vào máy tính; kèm dịch vụ cài từ xa.",
+      "type": "startup",
+      "category": [
+        "product",
+        "ai",
+        "ecom"
+      ],
+      "tags": [
+        "vibe coding",
+        "phần cứng rẻ",
+        "giọng nói",
+        "Bluetooth",
+        "đồ chơi công nghệ"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Remote không tự chạy AI; trải nghiệm phụ thuộc phần mềm mã nguồn mở và khả năng nhận giọng tiếng Việt của công cụ đọc chính tả. Chưa kiểm tra remote cùng loại có bán chính hãng ở VN và giá bao nhiêu.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261029-02-remote-noi-la-go.webp",
+      "image_alt": "Điều khiển từ xa màu trắng có nút micro phát sóng âm về phía laptop đang hiện các dòng chữ",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Video demo: bấm nút remote nói ‘viết email xin nghỉ phép lịch sự’ — chữ tiếng Việt hiện ngay trên màn hình rồi AI soạn xong thư trong vài giây.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Viết hướng dẫn cài, file gán phím, xử lý lỗi; cũng là trợ lý AI người mua dùng cùng remote.",
+            "why": "Pro $17–20/tháng — trang giá mở lại 29/10.",
+            "alt_ids": [
+              "chatgpt",
+              "gemini"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "huggingface",
+            "role": "Tìm mô hình nhận giọng nói tiếng Việt chạy cục bộ (dự phòng khi không có mạng).",
+            "why": "Kho mô hình mở; gói Free — giá theo registry (kiểm 25/10).",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Video hướng dẫn và demo.",
+            "why": "Pro USD 19,99/tháng — mở lại 29/10.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "shopee_seller",
+            "role": "Kênh bán chính.",
+            "why": "Phí sàn theo ngành hàng — xem registry.",
+            "alt_ids": [
+              "tiktok_shop"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "payos",
+            "role": "Thu tiền dịch vụ cài từ xa qua QR.",
+            "why": "Cổng thanh toán miễn phí theo trang chủ (mở lại 29/10).",
+            "alt_ids": [
+              "vietqr"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "huggingface",
+            "shopee_seller"
+          ],
+          "monthly_cost_note": "≈ $0/tháng (gói Free) + phí sàn trên đơn.",
+          "tradeoff": "Video thô, không có dịch vụ cài từ xa thu phí."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "huggingface",
+            "capcut",
+            "tiktok_shop",
+            "payos"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $19,99 (CapCut Pro) ≈ $37–40/tháng + phí sàn.",
+          "tradeoff": "Nội dung demo chuyên nghiệp hơn, bán được trên video ngắn."
+        },
+        "checked": "2026-10-29"
+      },
+      "regions": [
+        "CN",
+        "US"
+      ],
+      "signal_text": "TQ: 21经济网 (28/10) gọi remote TV là ‘AI hardware hot nhất Double 11’ — remote Xiaomi giá chính hãng 99 NDT, kênh ngoài 50–60 NDT, trong khi thiết bị giọng nói chuyên dụng trên 200 NDT; smzdm (28/10) mô tả cách gán phím cho Cursor/Claude Code, cài mất khoảng mười mấy phút; Baidu 29/10 #40. Mỹ/toàn cầu: kho mã nguồn mở remote-mic-app trên GitHub khoảng 2.031 sao; bàn phím AI coding chuyên dụng giá khoảng 230 USD (theo smzdm).",
+      "vn_youth_fit": "81% người dùng Việt tương tác với AI hằng ngày, 83% học/nâng kỹ năng AI (ai); 137 triệu kết nối di động, internet phủ 84,2% (ket-noi) → nhóm sinh viên IT và dân văn phòng dùng AI là thị trường ngách thật, nhưng nhỏ.",
+      "vn_fit_refs": [
+        "ai",
+        "ket-noi"
+      ],
+      "from_keywords": [
+        "kw-cn-15",
+        "kw-global-03"
+      ],
+      "key_facts": [
+        {
+          "text": "Remote Xiaomi giá chính hãng 99 NDT, kênh ngoài khoảng 50–60 NDT; thiết bị bàn phím/micro AI chuyên dụng thường trên 200 NDT.",
+          "source_ids": [
+            "21j_remote",
+            "smzdm_remote"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Cách dùng: bấm giữ nút giọng nói để nói, nhả ra thì chữ vào ô chat của Cursor/Claude Code; phím hướng/OK/Back gán thành chuyển agent, gửi, dừng; cài đặt mất khoảng mười mấy phút.",
+          "source_ids": [
+            "smzdm_remote",
+            "gh_remote"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Lý do chọn remote: có micro, Bluetooth 5.4, phím vật lý lập trình được, pin sạc USB-C (smzdm).",
+          "source_ids": [
+            "smzdm_remote"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Kho remote-mic-app (GPL-3.0) khoảng 2.031 sao GitHub lúc truy cập 29/10.",
+          "source_ids": [
+            "gh_remote"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Baidu realtime 29/10 #40 ‘今年双十一 电视遥控器爆火’.",
+          "source_ids": [
+            "baidu_rt"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "21j_remote",
+          "name": "21经济网",
+          "title": "今年双十一，最火的AI硬件是电视遥控器",
+          "url": "https://www.21jingji.com/article/20261028/herald/77a28015d37094e6da3520cbca7e8084.html",
+          "published": "2026-10-28",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "smzdm_remote",
+          "name": "什么值得买 (smzdm)",
+          "title": "99元的电视遥控器，怎么成了双十一最火的AI硬件",
+          "url": "https://post.smzdm.com/p/a26xdkx7/",
+          "published": "2026-10-28",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Bài tổng hợp, có dẫn 21世纪经济报道, 少数派, 雷科技, Xiaohongshu — không hoàn toàn độc lập với bài 21经济网."
+        },
+        {
+          "id": "gh_remote",
+          "name": "GitHub (HD838A/remote-mic-app)",
+          "title": "remote-mic-app — biến điều khiển Bluetooth thành micro nhập liệu",
+          "url": "https://github.com/HD838A/remote-mic-app",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Kho mã nguồn mở GPL-3.0; khoảng 2.031 sao lúc truy cập 29/10."
+        },
+        {
+          "id": "baidu_rt",
+          "name": "Baidu 百度热搜 (mục #40)",
+          "title": "今年双十一 电视遥控器爆火",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 29/10 07:10 (UTC+7); điểm nóng 4.168.590."
+        }
+      ],
+      "localize_vn": "Giả thuyết: gói ‘Remote AI’ gồm remote Bluetooth có micro (mua sẵn trên sàn), file cấu hình cho Windows/macOS, video hướng dẫn tiếng Việt; bán trên Shopee/TikTok Shop, thêm dịch vụ cài từ xa qua Zalo.",
+      "localize_global": "Có thể bán gói cấu hình số (không kèm phần cứng) cho người dùng toàn cầu; phải tôn trọng giấy phép GPL-3.0 của mã nguồn.",
+      "first_steps": [
+        "Ngày 1: mua 2 mẫu remote Bluetooth có micro trên sàn; thử với phần mềm mã nguồn mở và tính năng đọc chính tả tiếng Việt.",
+        "Ngày 2: Claude viết hướng dẫn cài từng bước, file gán phím; ghi chú giấy phép.",
+        "Ngày 3: quay video demo CapCut ‘nói tiếng Việt ra code/ra email’.",
+        "Ngày 4–7: đăng bán 10 bộ trên Shopee, đếm lượt xem, đơn, câu hỏi hỗ trợ."
+      ],
+      "capital": {
+        "vnd_min_m": 2,
+        "vnd_max_m": 6,
+        "usd_min": 77,
+        "usd_max": 231,
+        "note": "Mua thử vài remote, quay video, quảng cáo nhỏ; không sản xuất phần cứng."
+      },
+      "risks": [
+        "Phụ thuộc phần mềm cộng đồng — có thể lỗi khi hệ điều hành cập nhật.",
+        "Nhận giọng tiếng Việt có thể kém ở môi trường ồn.",
+        "Không được ghi tên thương hiệu remote như thể là đối tác/chính hãng.",
+        "Trào lưu có thể ngắn, chủ yếu trong giới công nghệ."
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 6,
+        "novelty": 8,
+        "lowcap": 8,
+        "signal": 8,
+        "vnfit": 6
+      },
+      "claude_prompt": "Bạn là kỹ sư phần mềm kiêm người bán đồ công nghệ nhỏ trên sàn TMĐT. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Remote nói-là-gõ” — biến điều khiển TV Bluetooth giá rẻ thành nút ‘bấm để nói’ cho AI, bán kèm hướng dẫn cài tiếng Việt\nTóm tắt: Ở TQ, dân lập trình đang săn remote TV có micro (khoảng 50–99 NDT) để bấm-giữ-nói ra lệnh cho trợ lý AI lập trình. Ở VN, bán bộ ‘remote + file cấu hình + video cài đặt 10 phút’ cho sinh viên, dân văn phòng muốn đọc chính tả tiếng Việt vào máy tính; kèm dịch vụ cài từ xa.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN, US\nTQ: 21经济网 (28/10) gọi remote TV là ‘AI hardware hot nhất Double 11’ — remote Xiaomi giá chính hãng 99 NDT, kênh ngoài 50–60 NDT, trong khi thiết bị giọng nói chuyên dụng trên 200 NDT; smzdm (28/10) mô tả cách gán phím cho Cursor/Claude Code, cài mất khoảng mười mấy phút; Baidu 29/10 #40. Mỹ/toàn cầu: kho mã nguồn mở remote-mic-app trên GitHub khoảng 2.031 sao; bàn phím AI coding chuyên dụng giá khoảng 230 USD (theo smzdm).\nDữ kiện chi tiết (kèm mức xác minh):\n- Remote Xiaomi giá chính hãng 99 NDT, kênh ngoài khoảng 50–60 NDT; thiết bị bàn phím/micro AI chuyên dụng thường trên 200 NDT. [1 nguồn gốc]\n- Cách dùng: bấm giữ nút giọng nói để nói, nhả ra thì chữ vào ô chat của Cursor/Claude Code; phím hướng/OK/Back gán thành chuyển agent, gửi, dừng; cài đặt mất khoảng mười mấy phút. [2+ nguồn độc lập]\n- Lý do chọn remote: có micro, Bluetooth 5.4, phím vật lý lập trình được, pin sạc USB-C (smzdm). [1 nguồn gốc]\n- Kho remote-mic-app (GPL-3.0) khoảng 2.031 sao GitHub lúc truy cập 29/10. [1 nguồn gốc]\n- Baidu realtime 29/10 #40 ‘今年双十一 电视遥控器爆火’. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Remote không tự chạy AI; trải nghiệm phụ thuộc phần mềm mã nguồn mở và khả năng nhận giọng tiếng Việt của công cụ đọc chính tả. Chưa kiểm tra remote cùng loại có bán chính hãng ở VN và giá bao nhiêu.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\n81% người dùng Việt tương tác với AI hằng ngày, 83% học/nâng kỹ năng AI (ai); 137 triệu kết nối di động, internet phủ 84,2% (ket-noi) → nhóm sinh viên IT và dân văn phòng dùng AI là thị trường ngách thật, nhưng nhỏ.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: gói ‘Remote AI’ gồm remote Bluetooth có micro (mua sẵn trên sàn), file cấu hình cho Windows/macOS, video hướng dẫn tiếng Việt; bán trên Shopee/TikTok Shop, thêm dịch vụ cài từ xa qua Zalo.\n\n## 4. Ràng buộc\n- Vốn: khoảng 2–6 triệu VND (Mua thử vài remote, quay video, quảng cáo nhỏ; không sản xuất phần cứng.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Giấy phép mã nguồn mở GPL-3.0 khi phân phối kèm sản phẩm, quy định bán hàng điện tử nhập khẩu, không dùng thương hiệu người khác sai cách. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Phụ thuộc phần mềm cộng đồng — có thể lỗi khi hệ điều hành cập nhật.\n- Nhận giọng tiếng Việt có thể kém ở môi trường ồn.\n- Không được ghi tên thương hiệu remote như thể là đối tác/chính hãng.\n- Trào lưu có thể ngắn, chủ yếu trong giới công nghệ.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Viết hướng dẫn cài, file gán phím, xử lý lỗi; cũng là trợ lý AI người mua dùng cùng remote.\n- Hugging Face: Tìm mô hình nhận giọng nói tiếng Việt chạy cục bộ (dự phòng khi không có mạng).\n- CapCut: Video hướng dẫn và demo.\n- Shopee Việt Nam (Kênh Người Bán): Kênh bán chính.\n- payOS (Casso): Thu tiền dịch vụ cài từ xa qua QR.\n  Bản tiết kiệm: Claude (Anthropic), Hugging Face, Shopee Việt Nam (Kênh Người Bán). Bản cao cấp: Claude (Anthropic), Hugging Face, CapCut, TikTok Shop Việt Nam (Seller Center), payOS (Casso).\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: mua 2 mẫu remote Bluetooth có micro trên sàn; thử với phần mềm mã nguồn mở và tính năng đọc chính tả tiếng Việt.\n- Ngày 2: Claude viết hướng dẫn cài từng bước, file gán phím; ghi chú giấy phép.\n- Ngày 3: quay video demo CapCut ‘nói tiếng Việt ra code/ra email’.\n- Ngày 4–7: đăng bán 10 bộ trên Shopee, đếm lượt xem, đơn, câu hỏi hỗ trợ.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Hướng dẫn cài đặt từng bước cho Windows và macOS (tiếng Việt)\n2. Bảng gán phím gợi ý cho 3 tình huống: viết code, soạn văn bản, trình chiếu\n3. Danh sách kiểm tra lỗi thường gặp và cách xử lý\n4. Mô tả sản phẩm cho sàn + kịch bản video demo nửa phút\n5. Bảng chi phí, giá bán thử và tiêu chí đi tiếp\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 7.02,
+      "rank": 3
+    },
+    {
+      "id": "20261029-05-sap-tu-giac",
+      "date": "2026-10-29",
+      "title": "“Sạp tự giác” — sạp trái cây quê bán không người đứng, khách tự quét QR, kèm clip ‘chẳng mất gì’",
+      "pitch": "Gia đình có vườn (hồng, bưởi, ổi, cam) bày sạp ven đường du lịch hoặc trước cửa nhà: giá đồng loạt mỗi túi, khách tự lấy, tự quét VietQR. Nội dung TikTok ‘hôm nay sạp có mất gì không?’ kéo khách đặt trước. Gom vườn hàng xóm để có hàng.",
+      "type": "startup",
+      "category": [
+        "fnb",
+        "content"
+      ],
+      "tags": [
+        "bán không người",
+        "trái cây",
+        "VietQR",
+        "nông sản",
+        "niềm tin"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Ở Hàn, trộm cắp tại cửa hàng không người bán tăng mạnh — rủi ro mất hàng ở VN chưa biết. Doanh thu nhỏ; giá trị chính là nội dung và đơn đặt trước. Chưa kiểm tra mô hình tương tự ở VN.",
+      "confidence": "thấp",
+      "image": "assets/ideas/20261029-05-sap-tu-giac.webp",
+      "image_alt": "Sạp gỗ mái xanh bày các túi quả cam, bảng mã QR đứng bên cạnh và cành cây có quả",
+      "toolstack": {
+        "confidence": "cao",
+        "wow": "Mỗi tối đăng clip timelapse ‘sạp hôm nay’ với số đếm tự động: bao nhiêu túi đã bán, bao nhiêu tiền về — khán giả theo dõi như một thí nghiệm niềm tin.",
+        "tools": [
+          {
+            "tool_id": "vietqr",
+            "role": "Mã QR chuyển khoản in sẵn số tiền mỗi túi.",
+            "why": "Tạo ảnh QR bằng một đường link img.vietqr.io — đã thử 29/10.",
+            "alt_ids": [
+              "payos",
+              "momo"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Bảng giá, bảng ‘tự giác’.",
+            "why": "Giá gói trả phí chưa xác minh 29/10.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "claude",
+            "role": "Kịch bản clip, câu chuyện vườn, tin nhắn đặt trước.",
+            "why": "Pro $17–20/tháng — mở lại 29/10.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Dựng clip timelapse.",
+            "why": "Pro USD 19,99/tháng — mở lại 29/10.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "payos",
+            "role": "Cổng QR có thông báo khi tiền về (bản nâng cấp).",
+            "why": "Cổng thanh toán miễn phí theo trang chủ (29/10).",
+            "alt_ids": [
+              "vietqr"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "vietqr",
+            "canva",
+            "claude"
+          ],
+          "monthly_cost_note": "≈ $0/tháng.",
+          "tradeoff": "Phải tự đối chiếu tiền về bằng app ngân hàng."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "capcut",
+            "payos",
+            "vietqr",
+            "canva"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $19,99 (CapCut Pro) ≈ $37–40/tháng.",
+          "tradeoff": "Clip đẹp hơn, đếm tiền về tự động."
+        },
+        "checked": "2026-10-29"
+      },
+      "regions": [
+        "CN",
+        "KR"
+      ],
+      "signal_text": "TQ: người bán ở Phòng Sơn (Bắc Kinh) bày hồng 10 NDT/túi, khách tự quét mã; ‘trên xe không mất gì’, còn khoảng hơn 1.000 cân hồng để hái (九派新闻, qua ifeng và sina 28/10); Baidu 29/10 #48. Hàn (tín hiệu ngược): khoảng 12.000 cửa hàng không người bán; trộm cắp năm 2025 là 11.015 vụ, tăng 83% so với 2022 (Newsis 18/10).",
+      "vn_youth_fit": "Khoảng 36,2 triệu ví điện tử đang hoạt động (vi-dien-tu) → khách quen quét QR; Gen Z hay đi ngắn ngày và cân nhắc điểm đến ít biết (du-lich) → sạp ven đường du lịch là điểm dừng chụp ảnh.",
+      "vn_fit_refs": [
+        "vi-dien-tu",
+        "du-lich"
+      ],
+      "from_keywords": [
+        "kw-cn-17"
+      ],
+      "key_facts": [
+        {
+          "text": "Sạp hồng không người bán ở Phòng Sơn: 10 NDT/túi, khách tự đóng túi, quét mã hoặc để tiền mặt; người bán nói không mất gì; dự kiến hái thêm hơn 1.000 cân.",
+          "source_ids": [
+            "ifeng_persimmon",
+            "sina_persimmon"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Sau video, nhiều khách gọi điện đặt trước; quả còn thừa được tặng khách qua đường.",
+          "source_ids": [
+            "ifeng_persimmon"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hàn: khoảng 12.000 cửa hàng không người bán (6/2026); trộm cắp 11.015 vụ năm 2025, tăng 83,03% so với 2022; 78% khách dưới 50 tuổi.",
+          "source_ids": [
+            "newsis_unmanned"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Baidu realtime 29/10 #48 ‘路口摆无人小摊 自觉扫码什么都没丢’.",
+          "source_ids": [
+            "baidu_rt"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ifeng_persimmon",
+          "name": "凤凰网 (九派新闻)",
+          "title": "北京房山一网友用无人售卖形式销售柿子：货品钱款未丢失",
+          "url": "https://feng.ifeng.com/c/8xaiJATxpOJ",
+          "published": "2026-10-28",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "sina_persimmon",
+          "name": "新浪新闻 (九派新闻)",
+          "title": "路口摆无人小摊 自觉扫码 (tin cùng sự việc)",
+          "url": "https://www.sina.cn/news/detail/5359101165178419.html",
+          "published": "2026-10-28",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Cùng gốc 九派新闻 với bài ifeng → tính là 1 nguồn gốc."
+        },
+        {
+          "id": "newsis_unmanned",
+          "name": "뉴시스 (Newsis)",
+          "title": "\"편하게 돈번다고? 더 힘들다\"…속타는 무인점포",
+          "url": "https://www.newsis.com/view/NISX20261014_0003826302",
+          "published": "2026-10-18",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "baidu_rt",
+          "name": "Baidu 百度热搜 (mục #48)",
+          "title": "路口摆无人小摊 自觉扫码什么都没丢",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 29/10 07:10 (UTC+7); điểm nóng 3.430.000."
+        }
+      ],
+      "localize_vn": "Giả thuyết: thử ở đường lên điểm du lịch ven Hà Nội (Ba Vì, Sóc Sơn) mùa bưởi/cam; sạp có camera điện thoại quay timelapse, bảng ‘tự giác’; nhận đặt trước qua Zalo để giao sau.",
+      "localize_global": "Tương tự quầy honesty box ở nông trại Anh/Nhật — có thể làm nội dung so sánh.",
+      "first_steps": [
+        "Ngày 1: chọn vị trí, xin phép chủ đất/chính quyền; Canva làm bảng giá + VietQR.",
+        "Ngày 2: Claude viết kịch bản 5 clip ‘sạp tự giác’ và câu chuyện vườn.",
+        "Ngày 3–6: bày sạp 4 ngày, đếm số túi bán, tiền nhận, hao hụt; quay CapCut.",
+        "Ngày 7: tổng hợp, quyết định mở đặt trước online."
+      ],
+      "capital": {
+        "vnd_min_m": 1,
+        "vnd_max_m": 4,
+        "usd_min": 38,
+        "usd_max": 154,
+        "note": "Sạp gỗ, túi, bảng, camera điện thoại cũ; hàng lấy từ vườn nhà/hàng xóm."
+      },
+      "risks": [
+        "Mất hàng hoặc tiền mặt (Hàn có trộm cắp tăng).",
+        "Quy định bày bán ven đường.",
+        "Hàng tươi hỏng nhanh khi nắng mưa.",
+        "Doanh thu nhỏ, mùa vụ."
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 6,
+        "novelty": 6,
+        "lowcap": 8,
+        "signal": 6,
+        "vnfit": 6
+      },
+      "claude_prompt": "Bạn là chuyên gia bán nông sản trực tiếp và làm nội dung video ngắn. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Sạp tự giác” — sạp trái cây quê bán không người đứng, khách tự quét QR, kèm clip ‘chẳng mất gì’\nTóm tắt: Gia đình có vườn (hồng, bưởi, ổi, cam) bày sạp ven đường du lịch hoặc trước cửa nhà: giá đồng loạt mỗi túi, khách tự lấy, tự quét VietQR. Nội dung TikTok ‘hôm nay sạp có mất gì không?’ kéo khách đặt trước. Gom vườn hàng xóm để có hàng.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN, KR\nTQ: người bán ở Phòng Sơn (Bắc Kinh) bày hồng 10 NDT/túi, khách tự quét mã; ‘trên xe không mất gì’, còn khoảng hơn 1.000 cân hồng để hái (九派新闻, qua ifeng và sina 28/10); Baidu 29/10 #48. Hàn (tín hiệu ngược): khoảng 12.000 cửa hàng không người bán; trộm cắp năm 2025 là 11.015 vụ, tăng 83% so với 2022 (Newsis 18/10).\nDữ kiện chi tiết (kèm mức xác minh):\n- Sạp hồng không người bán ở Phòng Sơn: 10 NDT/túi, khách tự đóng túi, quét mã hoặc để tiền mặt; người bán nói không mất gì; dự kiến hái thêm hơn 1.000 cân. [1 nguồn gốc]\n- Sau video, nhiều khách gọi điện đặt trước; quả còn thừa được tặng khách qua đường. [1 nguồn gốc]\n- Hàn: khoảng 12.000 cửa hàng không người bán (6/2026); trộm cắp 11.015 vụ năm 2025, tăng 83,03% so với 2022; 78% khách dưới 50 tuổi. [1 nguồn gốc]\n- Baidu realtime 29/10 #48 ‘路口摆无人小摊 自觉扫码什么都没丢’. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Ở Hàn, trộm cắp tại cửa hàng không người bán tăng mạnh — rủi ro mất hàng ở VN chưa biết. Doanh thu nhỏ; giá trị chính là nội dung và đơn đặt trước. Chưa kiểm tra mô hình tương tự ở VN.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nKhoảng 36,2 triệu ví điện tử đang hoạt động (vi-dien-tu) → khách quen quét QR; Gen Z hay đi ngắn ngày và cân nhắc điểm đến ít biết (du-lich) → sạp ven đường du lịch là điểm dừng chụp ảnh.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: thử ở đường lên điểm du lịch ven Hà Nội (Ba Vì, Sóc Sơn) mùa bưởi/cam; sạp có camera điện thoại quay timelapse, bảng ‘tự giác’; nhận đặt trước qua Zalo để giao sau.\n\n## 4. Ràng buộc\n- Vốn: khoảng 1–4 triệu VND (Sạp gỗ, túi, bảng, camera điện thoại cũ; hàng lấy từ vườn nhà/hàng xóm.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Bày bán ven đường (trật tự đô thị, giao thông), an toàn thực phẩm với hàng tươi, khai thuế hộ kinh doanh nếu bán thường xuyên. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Mất hàng hoặc tiền mặt (Hàn có trộm cắp tăng).\n- Quy định bày bán ven đường.\n- Hàng tươi hỏng nhanh khi nắng mưa.\n- Doanh thu nhỏ, mùa vụ.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- VietQR Kit (Casso): Mã QR chuyển khoản in sẵn số tiền mỗi túi.\n- Canva: Bảng giá, bảng ‘tự giác’.\n- Claude (Anthropic): Kịch bản clip, câu chuyện vườn, tin nhắn đặt trước.\n- CapCut: Dựng clip timelapse.\n- payOS (Casso): Cổng QR có thông báo khi tiền về (bản nâng cấp).\n  Bản tiết kiệm: VietQR Kit (Casso), Canva, Claude (Anthropic). Bản cao cấp: Claude (Anthropic), CapCut, payOS (Casso), VietQR Kit (Casso), Canva.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: chọn vị trí, xin phép chủ đất/chính quyền; Canva làm bảng giá + VietQR.\n- Ngày 2: Claude viết kịch bản 5 clip ‘sạp tự giác’ và câu chuyện vườn.\n- Ngày 3–6: bày sạp 4 ngày, đếm số túi bán, tiền nhận, hao hụt; quay CapCut.\n- Ngày 7: tổng hợp, quyết định mở đặt trước online.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Bảng ‘tự giác’ và bảng giá có VietQR (nội dung chữ)\n2. Kịch bản 5 clip TikTok ‘sạp tự giác’ theo 5 ngày\n3. Bảng theo dõi hằng ngày: túi bày, túi bán, tiền về, hao hụt\n4. Tin nhắn nhận đặt trước và giao hàng\n5. Tiêu chí đi tiếp/dừng sau 7 ngày\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.68,
+      "rank": 4
+    },
+    {
+      "id": "20261029-06-goc-phong-van-30-phut",
+      "date": "2026-10-29",
+      "title": "“Góc phỏng vấn 30 phút” — đặt online một buồng yên tĩnh trong quán cà phê để phỏng vấn, họp video",
+      "pitch": "Hợp tác với quán cà phê có phòng nhỏ/góc kín: lắp rèm cách âm, đèn ring, giá đỡ laptop, rồi bán theo suất 30 phút qua web đặt chỗ. Khách: sinh viên phỏng vấn thực tập, người làm từ xa cần họp riêng. Quán thu thêm từ không gian ít dùng, khách mua đồ uống.",
+      "type": "startup",
+      "category": [
+        "service",
+        "b2b"
+      ],
+      "tags": [
+        "phỏng vấn",
+        "đặt chỗ",
+        "quán cà phê",
+        "việc làm",
+        "không gian yên tĩnh"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Đã có phòng họp cho thuê theo giờ ở Hà Nội (khoảng 150–250 nghìn/giờ, chỉ đọc đoạn trích); điểm khác là suất 30 phút giá thấp ngay trong quán gần trường. Mức cách âm đạt được bằng vật liệu rẻ là giả thuyết.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261029-06-goc-phong-van-30-phut.webp",
+      "image_alt": "Buồng nhỏ màu xanh có màn hình gọi video, bàn ăn nhỏ và điện thoại hiển thị lịch đặt chỗ cạnh đồng hồ",
+      "toolstack": {
+        "confidence": "cao",
+        "wow": "Đặt suất xong, khách nhận tin Zalo có mã vào buồng, checklist ‘5 phút trước phỏng vấn’ và một câu hỏi phỏng vấn thử do AI soạn theo ngành.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Code web đặt suất, checklist, câu hỏi phỏng vấn thử.",
+            "why": "Pro $17–20/tháng — mở lại 29/10.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vercel",
+            "role": "Lưu trữ web đặt chỗ.",
+            "why": "Hobby miễn phí, Pro $20/tháng — mở lại 29/10.",
+            "alt_ids": [
+              "cloudflare_pages"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "supabase",
+            "role": "Lịch suất, chống đặt trùng.",
+            "why": "Free 50.000 MAU, 500 MB; Pro từ $25 — mở lại 29/10.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "payos",
+            "role": "Thu tiền suất qua QR.",
+            "why": "Cổng thanh toán miễn phí theo trang chủ (29/10).",
+            "alt_ids": [
+              "vietqr"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_zns",
+            "role": "Tin nhắc lịch, mã vào buồng.",
+            "why": "Phí theo tin (xem registry), chưa kiểm lại 29/10.",
+            "alt_ids": [
+              "zalo_oa"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "cloudflare_pages",
+            "supabase",
+            "vietqr"
+          ],
+          "monthly_cost_note": "≈ $0/tháng.",
+          "tradeoff": "Đối chiếu chuyển khoản thủ công, không có tin nhắc tự động."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "vercel",
+            "supabase",
+            "payos",
+            "zalo_zns"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $0–25 (Supabase) + phí tin ZNS theo lượt ≈ $20–50/tháng.",
+          "tradeoff": "Tự động hoàn toàn; tốn phí tin nhắn theo lượt."
+        },
+        "checked": "2026-10-29"
+      },
+      "regions": [
+        "CN",
+        "US"
+      ],
+      "signal_text": "TQ: Baidu 29/10 #11 ‘多所高校内出现这种“小房子”’ (buồng cách âm trong trường); thư viện ĐH Bách khoa Đại Liên chuyển buồng cách âm sang đặt online từ 19/10 để phục vụ phỏng vấn từ xa, họp video, đọc thành tiếng; thư viện ĐH Hàng hải Thượng Hải cũng có buồng tương tự. Mỹ: Retail Dive (13/10) — giới trẻ tìm không gian vật lý để tạm rời thiết bị, xã hội hóa.",
+      "vn_youth_fit": "Thất nghiệp thanh niên 15–24 tuổi năm 2025 là 8,64%, thành thị 11,23% (viec-lam-tre) → nhu cầu phỏng vấn nhiều; 57% thích ngồi quán cà phê/trà sữa nhưng giữ hạn mức chi (ngan-sach) → suất 30 phút kèm đồ uống dưới 60 nghìn.",
+      "vn_fit_refs": [
+        "viec-lam-tre",
+        "ngan-sach"
+      ],
+      "from_keywords": [
+        "kw-cn-04"
+      ],
+      "key_facts": [
+        {
+          "text": "Thư viện ĐH Bách khoa Đại Liên: buồng cách âm chuyển từ ‘đến trước dùng trước’ sang đặt online từ 19/10/2026, phục vụ phỏng vấn từ xa, họp video, gọi điện, đọc thuộc.",
+          "source_ids": [
+            "dlut_pod"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Nhiều trường ĐH TQ đặt buồng cách âm trong thư viện (Đại Liên, Hàng hải Thượng Hải); chủ đề lên Baidu 29/10 #11.",
+          "source_ids": [
+            "dlut_pod",
+            "shmtu_pod",
+            "baidu_rt"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Phòng họp/phỏng vấn cho thuê theo giờ ở Hà Nội khoảng 150–250 nghìn/giờ; có gói sinh viên (đoạn trích).",
+          "source_ids": [
+            "novaup"
+          ],
+          "verification": "chưa xác minh",
+          "note": "Chỉ đọc đoạn trích kết quả tìm kiếm ngày 29/10; chưa mở trang gốc — cần kiểm tra trước khi dùng."
+        }
+      ],
+      "sources": [
+        {
+          "id": "dlut_pod",
+          "name": "大连理工大学图书馆",
+          "title": "关于图书馆静音舱启用线上预约使用的通知",
+          "url": "https://lib.dlut.edu.cn/info/1049/11389.htm",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Thông báo không ghi ngày đăng; nêu áp dụng từ 19/10/2026."
+        },
+        {
+          "id": "shmtu_pod",
+          "name": "上海海事大学图书馆",
+          "title": "图书馆关于启用静音舱服务的通知",
+          "url": "https://lib.shmtu.edu.cn/about/news/2781.htm",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Thông báo không ghi ngày đăng rõ; nêu mục đích họp online, phỏng vấn từ xa."
+        },
+        {
+          "id": "baidu_rt",
+          "name": "Baidu 百度热搜 (mục #11)",
+          "title": "多所高校内出现这种“小房子”",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 29/10 07:10 (UTC+7); điểm nóng 6.945.488."
+        },
+        {
+          "id": "rd_genz",
+          "name": "Retail Dive",
+          "title": "Gen Z, Gen Alpha holiday shopping: retail trends",
+          "url": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
+          "published": "2026-10-13",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "curl bị 403; đọc qua WebFetch."
+        },
+        {
+          "id": "novaup",
+          "name": "NovaUp / Hanoi Office (kết quả tìm kiếm)",
+          "title": "Bảng giá cho thuê phòng họp theo giờ Hà Nội",
+          "url": "https://www.novaup.vn/news/tin-tuc/bang-gia-cho-thue-phong-hop-theo-gio-ha-noi-2025.html",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "chỉ đọc đoạn trích",
+          "note": "Chỉ đọc đoạn trích; giá có thể đã đổi."
+        }
+      ],
+      "localize_vn": "Giả thuyết: thử 1 buồng tại quán gần cụm trường ở Cầu Giấy; giá suất 30 phút kèm 1 đồ uống; chia doanh thu với quán; nhắn nhắc lịch qua Zalo.",
+      "localize_global": "Mô hình ‘buồng họp trong quán’ có thể nhân bản thành mạng lưới nhiều quán.",
+      "first_steps": [
+        "Ngày 1: tìm 2 quán có góc ít dùng; thỏa thuận chia doanh thu.",
+        "Ngày 2: lắp rèm/tấm tiêu âm, đèn, giá đỡ; đo độ ồn bằng app điện thoại.",
+        "Ngày 3: Claude dựng web đặt suất trên Vercel + Supabase, thu tiền payOS.",
+        "Ngày 4–7: quảng bá trong nhóm sinh viên, đếm suất đặt, đánh giá độ yên tĩnh."
+      ],
+      "capital": {
+        "vnd_min_m": 4,
+        "vnd_max_m": 12,
+        "usd_min": 154,
+        "usd_max": 462,
+        "note": "Vật liệu tiêu âm, đèn, giá đỡ, tai nghe dự phòng; web dùng gói miễn phí."
+      },
+      "risks": [
+        "Cách âm kém làm hỏng buổi phỏng vấn — cần thử kỹ.",
+        "Quán đông giờ cao điểm, xung đột chỗ.",
+        "Đối thủ phòng họp theo giờ có sẵn.",
+        "Nhu cầu theo mùa tuyển dụng."
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 6,
+        "novelty": 6,
+        "lowcap": 7,
+        "signal": 6,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là người thiết kế dịch vụ không gian (space-as-a-service) và lập trình viên web đặt chỗ. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Góc phỏng vấn 30 phút” — đặt online một buồng yên tĩnh trong quán cà phê để phỏng vấn, họp video\nTóm tắt: Hợp tác với quán cà phê có phòng nhỏ/góc kín: lắp rèm cách âm, đèn ring, giá đỡ laptop, rồi bán theo suất 30 phút qua web đặt chỗ. Khách: sinh viên phỏng vấn thực tập, người làm từ xa cần họp riêng. Quán thu thêm từ không gian ít dùng, khách mua đồ uống.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN, US\nTQ: Baidu 29/10 #11 ‘多所高校内出现这种“小房子”’ (buồng cách âm trong trường); thư viện ĐH Bách khoa Đại Liên chuyển buồng cách âm sang đặt online từ 19/10 để phục vụ phỏng vấn từ xa, họp video, đọc thành tiếng; thư viện ĐH Hàng hải Thượng Hải cũng có buồng tương tự. Mỹ: Retail Dive (13/10) — giới trẻ tìm không gian vật lý để tạm rời thiết bị, xã hội hóa.\nDữ kiện chi tiết (kèm mức xác minh):\n- Thư viện ĐH Bách khoa Đại Liên: buồng cách âm chuyển từ ‘đến trước dùng trước’ sang đặt online từ 19/10/2026, phục vụ phỏng vấn từ xa, họp video, gọi điện, đọc thuộc. [1 nguồn gốc]\n- Nhiều trường ĐH TQ đặt buồng cách âm trong thư viện (Đại Liên, Hàng hải Thượng Hải); chủ đề lên Baidu 29/10 #11. [2+ nguồn độc lập]\n- Phòng họp/phỏng vấn cho thuê theo giờ ở Hà Nội khoảng 150–250 nghìn/giờ; có gói sinh viên (đoạn trích). [chưa xác minh]\n\nLƯU Ý ĐỘ TIN CẬY: Đã có phòng họp cho thuê theo giờ ở Hà Nội (khoảng 150–250 nghìn/giờ, chỉ đọc đoạn trích); điểm khác là suất 30 phút giá thấp ngay trong quán gần trường. Mức cách âm đạt được bằng vật liệu rẻ là giả thuyết.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nThất nghiệp thanh niên 15–24 tuổi năm 2025 là 8,64%, thành thị 11,23% (viec-lam-tre) → nhu cầu phỏng vấn nhiều; 57% thích ngồi quán cà phê/trà sữa nhưng giữ hạn mức chi (ngan-sach) → suất 30 phút kèm đồ uống dưới 60 nghìn.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: thử 1 buồng tại quán gần cụm trường ở Cầu Giấy; giá suất 30 phút kèm 1 đồ uống; chia doanh thu với quán; nhắn nhắc lịch qua Zalo.\n\n## 4. Ràng buộc\n- Vốn: khoảng 4–12 triệu VND (Vật liệu tiêu âm, đèn, giá đỡ, tai nghe dự phòng; web dùng gói miễn phí.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Hợp đồng chia doanh thu với quán, an toàn PCCC khi lắp vật liệu tiêu âm, dữ liệu cá nhân khách đặt chỗ. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Cách âm kém làm hỏng buổi phỏng vấn — cần thử kỹ.\n- Quán đông giờ cao điểm, xung đột chỗ.\n- Đối thủ phòng họp theo giờ có sẵn.\n- Nhu cầu theo mùa tuyển dụng.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Code web đặt suất, checklist, câu hỏi phỏng vấn thử.\n- Vercel: Lưu trữ web đặt chỗ.\n- Supabase: Lịch suất, chống đặt trùng.\n- payOS (Casso): Thu tiền suất qua QR.\n- Zalo Business Message (ZNS/ZBS): Tin nhắc lịch, mã vào buồng.\n  Bản tiết kiệm: Claude (Anthropic), Cloudflare Pages / Workers, Supabase, VietQR Kit (Casso). Bản cao cấp: Claude (Anthropic), Vercel, Supabase, payOS (Casso), Zalo Business Message (ZNS/ZBS).\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: tìm 2 quán có góc ít dùng; thỏa thuận chia doanh thu.\n- Ngày 2: lắp rèm/tấm tiêu âm, đèn, giá đỡ; đo độ ồn bằng app điện thoại.\n- Ngày 3: Claude dựng web đặt suất trên Vercel + Supabase, thu tiền payOS.\n- Ngày 4–7: quảng bá trong nhóm sinh viên, đếm suất đặt, đánh giá độ yên tĩnh.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Mô tả dịch vụ và bảng giá thử (ghi rõ giả định)\n2. Mã nguồn web đặt suất 30 phút + chống đặt trùng, hướng dẫn chạy\n3. Danh sách vật liệu tiêu âm rẻ và cách lắp không khoan đục\n4. Mẫu hợp đồng chia doanh thu với quán (bản nháp cần luật sư xem)\n5. Checklist ‘5 phút trước phỏng vấn’ và 20 câu hỏi phỏng vấn thử\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.52,
+      "rank": 5
+    },
+    {
+      "id": "20261029-07-phien-hoc-nop-dien-thoai",
+      "date": "2026-10-29",
+      "title": "Phiên học “nộp điện thoại” 3 tiếng — gửi máy vào tủ khóa, nhận lại kèm ảnh tiến độ học",
+      "pitch": "Tổ chức phiên học tập trung ở quán cà phê/không gian học: vào cửa nộp điện thoại vào tủ khóa trong suốt, học 3 tiếng theo nhịp 50/10 có người điều phối, cuối giờ nhận máy kèm ‘thẻ tiến độ’ để đăng mạng. Bán vé theo buổi hoặc gói tháng.",
+      "type": "startup",
+      "category": [
+        "service",
+        "content"
+      ],
+      "tags": [
+        "học tập trung",
+        "cai điện thoại",
+        "digital detox",
+        "sinh viên",
+        "study with me"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu quốc tế ở mức vừa (Nhật: hộp khóa điện thoại bán chạy tại HANDS; Mỹ: giới trẻ muốn rời thiết bị). Quán ‘học bài’ ở VN rất nhiều — chưa kiểm tra có nơi nào giữ điện thoại hay không; sẵn sàng trả tiền là giả thuyết.",
+      "confidence": "thấp",
+      "image": "assets/ideas/20261029-07-phien-hoc-nop-dien-thoai.webp",
+      "image_alt": "Bàn học có sách mở, ly nước và tủ khóa nhỏ chứa ba chiếc điện thoại, đồng hồ treo bên cạnh",
+      "toolstack": {
+        "confidence": "cao",
+        "wow": "Cuối buổi, mỗi người nhận một thẻ ảnh ‘3 giờ không điện thoại’ có số trang đã học và lời khen ngắn do AI viết — đăng lên mạng là quảng cáo miễn phí.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Luật phiên học, kịch bản điều phối, lời khen cá nhân hóa.",
+            "why": "Pro $17–20/tháng — mở lại 29/10.",
+            "alt_ids": [
+              "chatgpt",
+              "gemini"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Thẻ tiến độ, poster, vé.",
+            "why": "Giá gói trả phí chưa xác minh 29/10.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip timelapse phiên học.",
+            "why": "Pro USD 19,99/tháng — mở lại 29/10.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Bán vé, nhắc lịch.",
+            "why": "Giá gói nâng cao chưa đọc được 29/10.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "payos",
+            "role": "Thu tiền vé QR.",
+            "why": "Cổng thanh toán miễn phí theo trang chủ (29/10).",
+            "alt_ids": [
+              "vietqr"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "vietqr"
+          ],
+          "monthly_cost_note": "≈ $0/tháng.",
+          "tradeoff": "Đối chiếu tiền thủ công, không có clip đẹp."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "capcut",
+            "zalo_oa",
+            "payos"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $19,99 (CapCut Pro) ≈ $37–40/tháng.",
+          "tradeoff": "Nội dung đẹp hơn, bán vé tự động."
+        },
+        "checked": "2026-10-29"
+      },
+      "regions": [
+        "JP",
+        "US",
+        "CN"
+      ],
+      "signal_text": "Nhật: báo cáo xu hướng tạp hóa của Nolyn (23/10) ghi nhận nhóm đồ ‘勉強垢’ (tài khoản học tập) lưu nhiều và hộp khóa điện thoại (デジトックス) đứng đầu một bảng xếp hạng của HANDS. Mỹ: Retail Dive (13/10) — Gen Z tìm trải nghiệm vật lý để rời màn hình. TQ: thư viện ĐH đặt buồng yên tĩnh qua mạng (Đại Liên, 19/10).",
+      "vn_youth_fit": "Gen Z coi trung bình 3 ứng dụng là không thể thiếu, TikTok là kênh video số 1 (genz-app) → nhu cầu ‘cai’ tạm thời là có; 57% thích ngồi quán cà phê nhưng giữ hạn mức chi (ngan-sach) → vé buổi phải rẻ, gồm đồ uống.",
+      "vn_fit_refs": [
+        "genz-app",
+        "ngan-sach"
+      ],
+      "from_keywords": [
+        "kw-jp-21"
+      ],
+      "key_facts": [
+        {
+          "text": "Báo cáo Nolyn: nhóm đồ cho ‘勉強垢’ có tỷ lệ lưu cao; hộp khóa điện thoại ‘デジトックス’ đứng đầu một bảng xếp hạng của HANDS.",
+          "source_ids": [
+            "nolyn_zakka"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Retail Dive: giới trẻ Mỹ muốn không gian vật lý để tạm rời thiết bị và gặp gỡ.",
+          "source_ids": [
+            "rd_genz"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Thư viện ĐH Bách khoa Đại Liên chuyển buồng yên tĩnh sang đặt online từ 19/10/2026.",
+          "source_ids": [
+            "dlut_pod"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "nolyn_zakka",
+          "name": "Nolyn (báo cáo xu hướng tạp hóa Nhật)",
+          "title": "雑貨トレンド — sổ sticker, めじるし, 勉強垢, デジトックス",
+          "url": "https://www.nolyn.ai/ja/case-studies/ryuko-zakka",
+          "published": "2026-10-23",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Bên thứ ba tổng hợp dữ liệu bán lẻ/MXH."
+        },
+        {
+          "id": "rd_genz",
+          "name": "Retail Dive",
+          "title": "Gen Z, Gen Alpha holiday shopping: retail trends",
+          "url": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
+          "published": "2026-10-13",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "curl bị 403; đọc qua WebFetch."
+        },
+        {
+          "id": "dlut_pod",
+          "name": "大连理工大学图书馆",
+          "title": "关于图书馆静音舱启用线上预约使用的通知",
+          "url": "https://lib.dlut.edu.cn/info/1049/11389.htm",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Thông báo không ghi ngày đăng; nêu áp dụng từ 19/10/2026."
+        }
+      ],
+      "localize_vn": "Giả thuyết: thử 3 buổi tối ở quán có tầng riêng; 15 chỗ/buổi; người điều phối bấm giờ, cuối buổi chụp ảnh ‘bàn học’ làm thẻ tiến độ; có nút gọi khẩn cấp qua điện thoại của quán.",
+      "localize_global": "Có thể làm phiên ‘study with me’ trực tiếp kết hợp livestream không mặt.",
+      "first_steps": [
+        "Ngày 1: chọn quán, mua tủ khóa/hộp trong suốt; Claude viết luật phiên học và kịch bản điều phối.",
+        "Ngày 2: Canva làm thẻ tiến độ, poster; mở bán vé qua Zalo, thu payOS.",
+        "Ngày 3–6: chạy 3 buổi, đếm vé, tỷ lệ ở lại đủ 3 giờ, mức hài lòng.",
+        "Ngày 7: quyết định gói tháng."
+      ],
+      "capital": {
+        "vnd_min_m": 2,
+        "vnd_max_m": 6,
+        "usd_min": 77,
+        "usd_max": 231,
+        "note": "Tủ khóa/hộp, in ấn, quà nhỏ cho người hoàn thành; ăn chia với quán."
+      },
+      "risks": [
+        "Khách lo không nhận được cuộc gọi khẩn — cần quy trình liên lạc qua quán.",
+        "Mất/đổi nhầm điện thoại — cần thẻ số và trách nhiệm rõ.",
+        "Đối thủ quán học bài nhiều.",
+        "Nhu cầu có thể chỉ cao mùa thi."
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 6,
+        "novelty": 5,
+        "lowcap": 8,
+        "signal": 5,
+        "vnfit": 6
+      },
+      "claude_prompt": "Bạn là người tổ chức cộng đồng học tập và chuyên gia thói quen số lành mạnh. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: Phiên học “nộp điện thoại” 3 tiếng — gửi máy vào tủ khóa, nhận lại kèm ảnh tiến độ học\nTóm tắt: Tổ chức phiên học tập trung ở quán cà phê/không gian học: vào cửa nộp điện thoại vào tủ khóa trong suốt, học 3 tiếng theo nhịp 50/10 có người điều phối, cuối giờ nhận máy kèm ‘thẻ tiến độ’ để đăng mạng. Bán vé theo buổi hoặc gói tháng.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: JP, US, CN\nNhật: báo cáo xu hướng tạp hóa của Nolyn (23/10) ghi nhận nhóm đồ ‘勉強垢’ (tài khoản học tập) lưu nhiều và hộp khóa điện thoại (デジトックス) đứng đầu một bảng xếp hạng của HANDS. Mỹ: Retail Dive (13/10) — Gen Z tìm trải nghiệm vật lý để rời màn hình. TQ: thư viện ĐH đặt buồng yên tĩnh qua mạng (Đại Liên, 19/10).\nDữ kiện chi tiết (kèm mức xác minh):\n- Báo cáo Nolyn: nhóm đồ cho ‘勉強垢’ có tỷ lệ lưu cao; hộp khóa điện thoại ‘デジトックス’ đứng đầu một bảng xếp hạng của HANDS. [1 nguồn gốc]\n- Retail Dive: giới trẻ Mỹ muốn không gian vật lý để tạm rời thiết bị và gặp gỡ. [1 nguồn gốc]\n- Thư viện ĐH Bách khoa Đại Liên chuyển buồng yên tĩnh sang đặt online từ 19/10/2026. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Tín hiệu quốc tế ở mức vừa (Nhật: hộp khóa điện thoại bán chạy tại HANDS; Mỹ: giới trẻ muốn rời thiết bị). Quán ‘học bài’ ở VN rất nhiều — chưa kiểm tra có nơi nào giữ điện thoại hay không; sẵn sàng trả tiền là giả thuyết.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nGen Z coi trung bình 3 ứng dụng là không thể thiếu, TikTok là kênh video số 1 (genz-app) → nhu cầu ‘cai’ tạm thời là có; 57% thích ngồi quán cà phê nhưng giữ hạn mức chi (ngan-sach) → vé buổi phải rẻ, gồm đồ uống.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: thử 3 buổi tối ở quán có tầng riêng; 15 chỗ/buổi; người điều phối bấm giờ, cuối buổi chụp ảnh ‘bàn học’ làm thẻ tiến độ; có nút gọi khẩn cấp qua điện thoại của quán.\n\n## 4. Ràng buộc\n- Vốn: khoảng 2–6 triệu VND (Tủ khóa/hộp, in ấn, quà nhỏ cho người hoàn thành; ăn chia với quán.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Trách nhiệm giữ tài sản (điện thoại) của khách, hợp đồng ăn chia với quán, người chưa thành niên cần đồng ý của phụ huynh. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Khách lo không nhận được cuộc gọi khẩn — cần quy trình liên lạc qua quán.\n- Mất/đổi nhầm điện thoại — cần thẻ số và trách nhiệm rõ.\n- Đối thủ quán học bài nhiều.\n- Nhu cầu có thể chỉ cao mùa thi.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Luật phiên học, kịch bản điều phối, lời khen cá nhân hóa.\n- Canva: Thẻ tiến độ, poster, vé.\n- CapCut: Clip timelapse phiên học.\n- Zalo Official Account (OA): Bán vé, nhắc lịch.\n- payOS (Casso): Thu tiền vé QR.\n  Bản tiết kiệm: Claude (Anthropic), Canva, VietQR Kit (Casso). Bản cao cấp: Claude (Anthropic), Canva, CapCut, Zalo Official Account (OA), payOS (Casso).\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: chọn quán, mua tủ khóa/hộp trong suốt; Claude viết luật phiên học và kịch bản điều phối.\n- Ngày 2: Canva làm thẻ tiến độ, poster; mở bán vé qua Zalo, thu payOS.\n- Ngày 3–6: chạy 3 buổi, đếm vé, tỷ lệ ở lại đủ 3 giờ, mức hài lòng.\n- Ngày 7: quyết định gói tháng.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Luật phiên học 3 giờ và quy trình giữ – trả điện thoại\n2. Kịch bản điều phối theo phút (nhịp 50/10)\n3. Mẫu thẻ tiến độ và bộ lời khen ngắn\n4. Tin nhắn bán vé và nhắc lịch\n5. Bảng chỉ số và tiêu chí đi tiếp\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.42,
+      "rank": 6
+    },
+    {
+      "id": "20261029-03-xe-khac-ten-tai-cho",
+      "date": "2026-10-29",
+      "title": "Xe khắc tên tại chỗ mùa 20/11 — khắc lời cảm ơn lên móc khóa gỗ, bút, thẻ treo túi trong 5 phút ở cổng trường",
+      "pitch": "Một bàn gấp + máy khắc laser mini đặt ở cổng trường, hội chợ cuối tuần hoặc ‘ké’ quán cà phê: học sinh, sinh viên chọn món quà nhỏ cho thầy cô (móc khóa gỗ, bút, thẻ treo túi), gõ lời nhắn, nhận ngay sau 5 phút. Lấy cảm hứng từ ‘trạm khắc’ trong pop-up Coach × Musinsa ở Seoul.",
+      "type": "startup",
+      "category": [
+        "product",
+        "service"
+      ],
+      "tags": [
+        "khắc laser",
+        "20/11",
+        "quà tặng",
+        "cá nhân hóa",
+        "pop-up"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Ở VN đã có nhiều dịch vụ khắc laser lấy liền và cho thuê máy khắc chạy sự kiện (chỉ đọc đoạn trích) — điểm mới thấp; lợi thế chỉ là vị trí (cổng trường) và thời điểm 20/11. Giá máy, tốc độ khắc là giả thuyết.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261029-03-xe-khac-ten-tai-cho.webp",
+      "image_alt": "Xe đẩy có mái che xanh, máy khắc mini, móc khóa gỗ, thẻ treo và chiếc túi nhỏ trên quầy",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Khách xem trước món quà khắc tên mình trên điện thoại (ảnh AI) trước khi máy chạy, rồi nhận đồ thật sau 5 phút.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Viết câu cảm ơn mẫu, bảng giá, quy trình vận hành.",
+            "why": "Pro $17–20/tháng — mở lại 29/10.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "nano_banana",
+            "role": "Ảnh mock-up quà đã khắc để khách xem trước.",
+            "why": "Bảng giá API Gemini mở lại 29/10.",
+            "alt_ids": [
+              "canva"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Bảng giá, mẫu chữ, biển quầy.",
+            "why": "Giá gói trả phí chưa xác minh (trang giá chỉ đọc được tiêu đề 29/10).",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip ‘quà khắc 5 phút’.",
+            "why": "Pro USD 19,99/tháng — mở lại 29/10.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận đặt trước, báo lấy hàng.",
+            "why": "Giá gói nâng cao chưa đọc được 29/10.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "payos",
+            "role": "Thu tiền QR tại quầy.",
+            "why": "Cổng thanh toán miễn phí theo trang chủ (29/10).",
+            "alt_ids": [
+              "vietqr",
+              "momo"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "vietqr"
+          ],
+          "monthly_cost_note": "≈ $0/tháng phần mềm.",
+          "tradeoff": "Không có ảnh xem trước, không đặt trước online."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "nano_banana",
+            "canva",
+            "capcut",
+            "zalo_oa",
+            "payos"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + vài USD API ảnh + $19,99 (CapCut Pro) ≈ $40–45/tháng.",
+          "tradeoff": "Trải nghiệm xem trước ấn tượng, đặt trước giúp giảm thời gian chờ."
+        },
+        "checked": "2026-10-29"
+      },
+      "regions": [
+        "KR",
+        "US"
+      ],
+      "signal_text": "Hàn: pop-up ‘Live Your Story’ của Coach tại Musinsa Space Seoul Forest (tới 7/11) có trạm khắc lời nhắn lên thẻ treo túi, nhắm Gen Z (Chosunbiz 27/10; Herald Business 23/10). Mỹ: Retail Dive (13/10) ghi nhận giới trẻ muốn ‘cùng sáng tạo’ và cá nhân hóa sản phẩm trong mùa lễ.",
+      "vn_youth_fit": "Hơn một nửa Gen Z sẵn sàng trả cho cảm giác cao cấp nếu giá hợp lý (xa-xi-vua-tui); 57% người trẻ sẵn sàng thử phương thức thanh toán mới, 80% dùng ví điện tử thường xuyên (tre-thanh-toan) → quà nhỏ cá nhân hóa, trả QR tại chỗ.",
+      "vn_fit_refs": [
+        "xa-xi-vua-tui",
+        "tre-thanh-toan"
+      ],
+      "key_facts": [
+        {
+          "text": "Pop-up Coach × Musinsa ở Seoul Forest chạy tới 7/11, có trạm khắc lời nhắn lên thẻ treo túi, quầy nghe nhạc, tường câu chuyện; mua hàng qua QR dẫn về Musinsa.",
+          "source_ids": [
+            "chosun_coach",
+            "herald_coach"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Musinsa nói mục tiêu là đưa trải nghiệm offline của Gen Z thành mua hàng trên nền tảng.",
+          "source_ids": [
+            "chosun_coach"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Giới trẻ Mỹ muốn cùng sáng tạo, cá nhân hóa sản phẩm mùa lễ (Retail Dive dẫn các khảo sát).",
+          "source_ids": [
+            "rd_genz"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Ở VN đã có dịch vụ cho thuê máy khắc laser chạy sự kiện, khắc quà lấy liền tại Hà Nội.",
+          "source_ids": [
+            "laser_vn"
+          ],
+          "verification": "chưa xác minh",
+          "note": "Chỉ đọc đoạn trích kết quả tìm kiếm ngày 29/10; chưa mở trang gốc — cần kiểm tra trước khi dùng."
+        }
+      ],
+      "sources": [
+        {
+          "id": "chosun_coach",
+          "name": "Chosunbiz",
+          "title": "Musinsa partners with Coach to launch Seoul pop-up and drive Gen Z sales",
+          "url": "https://biz.chosun.com/en/en-retail/2026/10/27/3OWMSKYVS5HH5CGEARUZW7UEMQ/",
+          "published": "2026-10-27",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "herald_coach",
+          "name": "The Herald Business",
+          "title": "Musinsa, Coach launch pop-up at Seoul Forest with shopping, experiences and events",
+          "url": "https://biz.heraldcorp.com/article/10912341",
+          "published": "2026-10-23",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "rd_genz",
+          "name": "Retail Dive",
+          "title": "Gen Z, Gen Alpha holiday shopping: retail trends",
+          "url": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
+          "published": "2026-10-13",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "curl bị 403; đọc qua WebFetch."
+        },
+        {
+          "id": "laser_vn",
+          "name": "Dịch vụ khắc laser sự kiện ở VN (kết quả tìm kiếm)",
+          "title": "Cho thuê máy khắc laser chạy sự kiện; khắc quà lấy liền Hà Nội",
+          "url": "https://khacvietlaser.vn/cho-thue-may-khac-laser-chay-su-kien-khac-ten-khac-logo-theo-yeu-cau",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "chỉ đọc đoạn trích",
+          "note": "Chỉ đọc đoạn trích kết quả tìm kiếm; cho thấy đã có đối thủ."
+        }
+      ],
+      "localize_vn": "Giả thuyết: 3 mẫu quà dưới 60 nghìn, khắc kèm câu ‘Cảm ơn thầy cô’ do khách chọn; đặt trước qua Zalo để lấy nhanh; chạy 7 ngày trước 20/11 tại 2 cổng trường THPT/ĐH.",
+      "localize_global": "Có thể chạy mùa Valentine, Noel; tham khảo mô hình trạm khắc trong pop-up thương hiệu.",
+      "first_steps": [
+        "Ngày 1: thuê/mượn máy khắc mini, thử 3 chất liệu; Claude viết 30 câu cảm ơn mẫu.",
+        "Ngày 2: Canva làm bảng giá, mẫu chữ; Nano Banana dựng ảnh mock-up quà.",
+        "Ngày 3: xin phép điểm đặt (quán cà phê gần trường) và kiểm tra an toàn khói laser.",
+        "Ngày 4–7: chạy thử 2 buổi chiều, đếm đơn/giờ, thời gian khắc trung bình, lợi nhuận/món."
+      ],
+      "capital": {
+        "vnd_min_m": 5,
+        "vnd_max_m": 15,
+        "usd_min": 192,
+        "usd_max": 577,
+        "note": "Thuê hoặc mua máy khắc mini, phôi quà, bàn gấp, biển; phương án thuê máy rẻ hơn."
+      },
+      "risks": [
+        "Đối thủ có sẵn, điểm mới thấp.",
+        "An toàn: khói, tia laser — cần kính chắn, thông gió, không cho trẻ em đứng sát.",
+        "Bán hàng ở cổng trường có thể vi phạm quy định trật tự đô thị.",
+        "Mùa vụ ngắn (20/11), phải có kế hoạch cho Noel/Tết."
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 7,
+        "novelty": 3,
+        "lowcap": 6,
+        "signal": 6,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là người vận hành quầy pop-up bán lẻ và kỹ thuật viên khắc laser. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: Xe khắc tên tại chỗ mùa 20/11 — khắc lời cảm ơn lên móc khóa gỗ, bút, thẻ treo túi trong 5 phút ở cổng trường\nTóm tắt: Một bàn gấp + máy khắc laser mini đặt ở cổng trường, hội chợ cuối tuần hoặc ‘ké’ quán cà phê: học sinh, sinh viên chọn món quà nhỏ cho thầy cô (móc khóa gỗ, bút, thẻ treo túi), gõ lời nhắn, nhận ngay sau 5 phút. Lấy cảm hứng từ ‘trạm khắc’ trong pop-up Coach × Musinsa ở Seoul.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: KR, US\nHàn: pop-up ‘Live Your Story’ của Coach tại Musinsa Space Seoul Forest (tới 7/11) có trạm khắc lời nhắn lên thẻ treo túi, nhắm Gen Z (Chosunbiz 27/10; Herald Business 23/10). Mỹ: Retail Dive (13/10) ghi nhận giới trẻ muốn ‘cùng sáng tạo’ và cá nhân hóa sản phẩm trong mùa lễ.\nDữ kiện chi tiết (kèm mức xác minh):\n- Pop-up Coach × Musinsa ở Seoul Forest chạy tới 7/11, có trạm khắc lời nhắn lên thẻ treo túi, quầy nghe nhạc, tường câu chuyện; mua hàng qua QR dẫn về Musinsa. [2+ nguồn độc lập]\n- Musinsa nói mục tiêu là đưa trải nghiệm offline của Gen Z thành mua hàng trên nền tảng. [1 nguồn gốc]\n- Giới trẻ Mỹ muốn cùng sáng tạo, cá nhân hóa sản phẩm mùa lễ (Retail Dive dẫn các khảo sát). [1 nguồn gốc]\n- Ở VN đã có dịch vụ cho thuê máy khắc laser chạy sự kiện, khắc quà lấy liền tại Hà Nội. [chưa xác minh]\n\nLƯU Ý ĐỘ TIN CẬY: Ở VN đã có nhiều dịch vụ khắc laser lấy liền và cho thuê máy khắc chạy sự kiện (chỉ đọc đoạn trích) — điểm mới thấp; lợi thế chỉ là vị trí (cổng trường) và thời điểm 20/11. Giá máy, tốc độ khắc là giả thuyết.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nHơn một nửa Gen Z sẵn sàng trả cho cảm giác cao cấp nếu giá hợp lý (xa-xi-vua-tui); 57% người trẻ sẵn sàng thử phương thức thanh toán mới, 80% dùng ví điện tử thường xuyên (tre-thanh-toan) → quà nhỏ cá nhân hóa, trả QR tại chỗ.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: 3 mẫu quà dưới 60 nghìn, khắc kèm câu ‘Cảm ơn thầy cô’ do khách chọn; đặt trước qua Zalo để lấy nhanh; chạy 7 ngày trước 20/11 tại 2 cổng trường THPT/ĐH.\n\n## 4. Ràng buộc\n- Vốn: khoảng 5–15 triệu VND (Thuê hoặc mua máy khắc mini, phôi quà, bàn gấp, biển; phương án thuê máy rẻ hơn.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Kinh doanh tại vỉa hè/cổng trường (trật tự đô thị), an toàn thiết bị laser, hộ kinh doanh. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Đối thủ có sẵn, điểm mới thấp.\n- An toàn: khói, tia laser — cần kính chắn, thông gió, không cho trẻ em đứng sát.\n- Bán hàng ở cổng trường có thể vi phạm quy định trật tự đô thị.\n- Mùa vụ ngắn (20/11), phải có kế hoạch cho Noel/Tết.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Viết câu cảm ơn mẫu, bảng giá, quy trình vận hành.\n- Nano Banana (Gemini image, Google): Ảnh mock-up quà đã khắc để khách xem trước.\n- Canva: Bảng giá, mẫu chữ, biển quầy.\n- CapCut: Clip ‘quà khắc 5 phút’.\n- Zalo Official Account (OA): Nhận đặt trước, báo lấy hàng.\n- payOS (Casso): Thu tiền QR tại quầy.\n  Bản tiết kiệm: Claude (Anthropic), Canva, VietQR Kit (Casso). Bản cao cấp: Claude (Anthropic), Nano Banana (Gemini image, Google), Canva, CapCut, Zalo Official Account (OA), payOS (Casso).\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: thuê/mượn máy khắc mini, thử 3 chất liệu; Claude viết 30 câu cảm ơn mẫu.\n- Ngày 2: Canva làm bảng giá, mẫu chữ; Nano Banana dựng ảnh mock-up quà.\n- Ngày 3: xin phép điểm đặt (quán cà phê gần trường) và kiểm tra an toàn khói laser.\n- Ngày 4–7: chạy thử 2 buổi chiều, đếm đơn/giờ, thời gian khắc trung bình, lợi nhuận/món.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Quy trình vận hành quầy theo từng bước, mục tiêu 5 phút/món\n2. 30 câu cảm ơn thầy cô ngắn (thật ngắn, vừa khắc) và 10 câu cho bạn bè\n3. Bảng giá 3 mẫu quà và tính lợi nhuận/món\n4. Danh sách an toàn khi khắc laser nơi công cộng\n5. Kịch bản clip 15 giây và tin nhắn đặt trước\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.22,
+      "rank": 7
+    },
+    {
+      "id": "20261029-08-watchlist-sieu-chu-ky-chip-nho",
+      "date": "2026-10-29",
+      "title": "Watchlist: ‘siêu chu kỳ’ chip nhớ AI — SK hynix lãi kỷ lục, giá laptop leo thang; chỉ theo dõi",
+      "pitch": "Theo dõi chu kỳ chip nhớ (HBM, DRAM, NAND) đang bị kéo bởi AI: doanh nghiệp nhớ lãi kỷ lục, trong khi giá thiết bị tiêu dùng tăng. Mục tiêu là hiểu số liệu, mốc báo cáo và tác động tới giá điện thoại/laptop ở VN — không phải mua bán.",
+      "type": "invest",
+      "category": [
+        "invest"
+      ],
+      "tags": [
+        "chip nhớ",
+        "HBM",
+        "SK hynix",
+        "Samsung",
+        "watchlist"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Chỉ theo dõi, không khuyến nghị mua/bán. Dự báo ‘thiếu cung tới 2030’ là nhận định của chính SK hynix. Kết quả chi tiết của Samsung công bố 29/10 chưa được đọc trong bản này.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261029-08-watchlist-sieu-chu-ky-chip-nho.webp",
+      "image_alt": "Thanh chip nhớ màu xanh, biểu đồ đường tăng và kính lúp",
+      "toolstack": {
+        "confidence": "cao",
+        "wow": "Bảng theo dõi một trang nối ‘lãi chip nhớ’ với ‘giá laptop ở VN’ — thấy ngay chuỗi tác động từ nhà máy Hàn tới ví người mua.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Đọc thông cáo, tóm tắt, lập bảng mốc.",
+            "why": "Pro $17–20/tháng — mở lại 29/10.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "gemini",
+            "role": "Đối chiếu chéo bản tóm tắt.",
+            "why": "AI Plus $4,99 (giá Mỹ) — mở lại 29/10.",
+            "alt_ids": [
+              "deepseek"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Ghi chú 1 trang.",
+            "why": "Giá gói trả phí chưa xác minh 29/10.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "gemini",
+            "canva"
+          ],
+          "monthly_cost_note": "≈ $0/tháng.",
+          "tradeoff": "Giới hạn lượt dùng bản Free."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "gemini",
+            "canva"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $4,99 (Gemini AI Plus) ≈ $22–25/tháng.",
+          "tradeoff": "Đọc tài liệu dài, đối chiếu nhanh hơn."
+        },
+        "checked": "2026-10-29"
+      },
+      "regions": [
+        "KR",
+        "US",
+        "CN"
+      ],
+      "signal_text": "Hàn: SK hynix quý 3/2026 doanh thu 104,6155 nghìn tỷ won, lãi hoạt động 83,3338 nghìn tỷ won (biên 80%), lần đầu doanh thu quý vượt 100 nghìn tỷ won (thông cáo 28/10); cổ phiếu tăng khoảng 11% ở Seoul, hơn 13% ở New York (CNBC 28/10); Google Trends KR 29/10 ‘삼성전자 실적발표’ 10000+. Mỹ: TechCrunch (28/10) nói thiếu bộ nhớ góp phần đẩy giá MacBook Pro bản cao nhất lên khoảng 14.549 USD. TQ: Baidu 29/10 #18 ‘美股收盘：SK海力士涨超13%’.",
+      "vn_youth_fit": "81% người dùng Việt dùng AI hằng ngày (ai) nhưng nhà đầu tư cá nhân khó mua trực tiếp cổ phiếu Hàn/Mỹ; giá trị chính là hiểu vì sao giá thiết bị tăng. Độ phù hợp thấp.",
+      "vn_fit_refs": [
+        "ai"
+      ],
+      "from_keywords": [
+        "kw-kr-06",
+        "kw-cn-07",
+        "kw-global-02"
+      ],
+      "key_facts": [
+        {
+          "text": "SK hynix quý 3/2026: doanh thu 104,6155 nghìn tỷ won, lãi hoạt động 83,3338 nghìn tỷ won, biên lãi hoạt động 80%; doanh thu tăng 32% so với quý trước.",
+          "source_ids": [
+            "skh_q3",
+            "cnbc_skh"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "SK hynix có hợp đồng dài hạn với 14 khách hàng lớn, bao phủ hơn 50% công suất 2027–2028; dự báo cầu vượt cung tới 2030 (nhận định của công ty).",
+          "source_ids": [
+            "skh_q3",
+            "cnbc_skh"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Kế hoạch trả cổ đông khoảng 100 nghìn tỷ won năm 2026 (cổ tức tiền mặt từ 30 nghìn tỷ, mua lại – hủy cổ phiếu từ 60 nghìn tỷ).",
+          "source_ids": [
+            "skh_q3",
+            "cnbc_skh"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Cổ phiếu SK hynix đóng cửa tăng khoảng 10,89% ở Seoul và hơn 13% ở New York; một nhà phân tích Susquehanna vẫn giữ đánh giá trung lập.",
+          "source_ids": [
+            "cnbc_skh"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "TechCrunch: MacBook Pro màn cảm ứng khởi điểm 2.899 USD, bản tối đa khoảng 14.549 USD; bài nói thiếu bộ nhớ góp phần đẩy giá.",
+          "source_ids": [
+            "tc_mbp"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "skh_q3",
+          "name": "SK hynix Newsroom (thông cáo)",
+          "title": "SK hynix Announces 3Q26 Financial Results",
+          "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+          "published": "2026-10-28",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Đọc qua WebFetch."
+        },
+        {
+          "id": "cnbc_skh",
+          "name": "CNBC",
+          "title": "SK Hynix shares jump 11% after record quarterly profit",
+          "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+          "published": "2026-10-28",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Đọc qua WebFetch."
+        },
+        {
+          "id": "tc_mbp",
+          "name": "TechCrunch",
+          "title": "Apple's touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+          "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+          "published": "2026-10-28",
+          "accessed": "2026-10-29",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "baidu_rt",
+          "name": "Baidu 百度热搜 (mục #18)",
+          "title": "美股收盘：SK海力士涨超13%",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 29/10 07:10 (UTC+7); điểm nóng 6.280.192."
+        },
+        {
+          "id": "gt_kr",
+          "name": "Google Trends RSS Hàn Quốc (mục #6)",
+          "title": "삼성전자 실적발표",
+          "url": "https://trends.google.com/trending/rss?geo=KR",
+          "published": null,
+          "accessed": "2026-10-29",
+          "how_read": "mở trang",
+          "note": "Chụp 29/10 07:10 (UTC+7); 10000+ lượt tìm; tin kèm: Samsung công bố kết quả quý 3 chính thức trong ngày."
+        }
+      ],
+      "localize_vn": "Giả thuyết: theo dõi tác động lên giá điện thoại/laptop bán ở VN và các doanh nghiệp VN trong chuỗi linh kiện; ghi chú hằng tuần.",
+      "localize_global": "Mốc cần theo dõi: kết quả Samsung (29/10), Micron, giá hợp đồng DRAM quý 4.",
+      "first_steps": [
+        "Ngày 1: Claude tóm tắt thông cáo SK hynix, đối chiếu CNBC (Gemini kiểm chéo).",
+        "Ngày 2: đọc kết quả Samsung khi công bố, cập nhật bảng.",
+        "Ngày 3–5: theo dõi giá 3 mẫu laptop/điện thoại tại VN.",
+        "Ngày 6–7: ghi chú 1 trang bằng Canva — không khuyến nghị."
+      ],
+      "capital": {
+        "vnd_min_m": 0,
+        "vnd_max_m": 1,
+        "usd_min": 0,
+        "usd_max": 38,
+        "note": "Chỉ chi phí công cụ; không đặt tiền đầu tư."
+      },
+      "risks": [
+        "Không phải khuyến nghị đầu tư.",
+        "Chu kỳ bán dẫn đảo chiều nhanh; số liệu sơ bộ chưa kiểm toán.",
+        "Nhận định ‘thiếu cung tới 2030’ là của chính doanh nghiệp.",
+        "Biến động tỷ giá, chính sách thương mại."
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 5,
+        "novelty": 5,
+        "lowcap": 9,
+        "signal": 9,
+        "vnfit": 4
+      },
+      "claude_prompt": "Bạn là nhà phân tích ngành bán dẫn (chỉ phân tích, KHÔNG đưa khuyến nghị mua/bán). Hãy giúp tôi dựng một bộ theo dõi (watchlist) trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: Watchlist: ‘siêu chu kỳ’ chip nhớ AI — SK hynix lãi kỷ lục, giá laptop leo thang; chỉ theo dõi\nTóm tắt: Theo dõi chu kỳ chip nhớ (HBM, DRAM, NAND) đang bị kéo bởi AI: doanh nghiệp nhớ lãi kỷ lục, trong khi giá thiết bị tiêu dùng tăng. Mục tiêu là hiểu số liệu, mốc báo cáo và tác động tới giá điện thoại/laptop ở VN — không phải mua bán.\nMục tiêu tuần này: hiểu đúng các con số đã công bố, lập danh sách mốc cần theo dõi và tiêu chí đánh giá — KHÔNG đưa khuyến nghị mua/bán.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: KR, US, CN\nHàn: SK hynix quý 3/2026 doanh thu 104,6155 nghìn tỷ won, lãi hoạt động 83,3338 nghìn tỷ won (biên 80%), lần đầu doanh thu quý vượt 100 nghìn tỷ won (thông cáo 28/10); cổ phiếu tăng khoảng 11% ở Seoul, hơn 13% ở New York (CNBC 28/10); Google Trends KR 29/10 ‘삼성전자 실적발표’ 10000+. Mỹ: TechCrunch (28/10) nói thiếu bộ nhớ góp phần đẩy giá MacBook Pro bản cao nhất lên khoảng 14.549 USD. TQ: Baidu 29/10 #18 ‘美股收盘：SK海力士涨超13%’.\nDữ kiện chi tiết (kèm mức xác minh):\n- SK hynix quý 3/2026: doanh thu 104,6155 nghìn tỷ won, lãi hoạt động 83,3338 nghìn tỷ won, biên lãi hoạt động 80%; doanh thu tăng 32% so với quý trước. [2+ nguồn độc lập]\n- SK hynix có hợp đồng dài hạn với 14 khách hàng lớn, bao phủ hơn 50% công suất 2027–2028; dự báo cầu vượt cung tới 2030 (nhận định của công ty). [2+ nguồn độc lập]\n- Kế hoạch trả cổ đông khoảng 100 nghìn tỷ won năm 2026 (cổ tức tiền mặt từ 30 nghìn tỷ, mua lại – hủy cổ phiếu từ 60 nghìn tỷ). [2+ nguồn độc lập]\n- Cổ phiếu SK hynix đóng cửa tăng khoảng 10,89% ở Seoul và hơn 13% ở New York; một nhà phân tích Susquehanna vẫn giữ đánh giá trung lập. [1 nguồn gốc]\n- TechCrunch: MacBook Pro màn cảm ứng khởi điểm 2.899 USD, bản tối đa khoảng 14.549 USD; bài nói thiếu bộ nhớ góp phần đẩy giá. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Chỉ theo dõi, không khuyến nghị mua/bán. Dự báo ‘thiếu cung tới 2030’ là nhận định của chính SK hynix. Kết quả chi tiết của Samsung công bố 29/10 chưa được đọc trong bản này.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\n81% người dùng Việt dùng AI hằng ngày (ai) nhưng nhà đầu tư cá nhân khó mua trực tiếp cổ phiếu Hàn/Mỹ; giá trị chính là hiểu vì sao giá thiết bị tăng. Độ phù hợp thấp.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: theo dõi tác động lên giá điện thoại/laptop bán ở VN và các doanh nghiệp VN trong chuỗi linh kiện; ghi chú hằng tuần.\n\n## 4. Ràng buộc\n- Vốn: khoảng 0–1 triệu VND (Chỉ chi phí công cụ; không đặt tiền đầu tư.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Không đưa khuyến nghị đầu tư; nếu chia sẻ công khai cần ghi rõ ‘không phải tư vấn đầu tư’. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Không phải khuyến nghị đầu tư.\n- Chu kỳ bán dẫn đảo chiều nhanh; số liệu sơ bộ chưa kiểm toán.\n- Nhận định ‘thiếu cung tới 2030’ là của chính doanh nghiệp.\n- Biến động tỷ giá, chính sách thương mại.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Đọc thông cáo, tóm tắt, lập bảng mốc.\n- Gemini (Google): Đối chiếu chéo bản tóm tắt.\n- Canva: Ghi chú 1 trang.\n  Bản tiết kiệm: Claude (Anthropic), Gemini (Google), Canva. Bản cao cấp: Claude (Anthropic), Gemini (Google), Canva.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude tóm tắt thông cáo SK hynix, đối chiếu CNBC (Gemini kiểm chéo).\n- Ngày 2: đọc kết quả Samsung khi công bố, cập nhật bảng.\n- Ngày 3–5: theo dõi giá 3 mẫu laptop/điện thoại tại VN.\n- Ngày 6–7: ghi chú 1 trang bằng Canva — không khuyến nghị.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Bảng tóm tắt số liệu từ mục 2 (ghi rõ chỗ cần kiểm lại)\n2. Danh sách mốc theo dõi và nguồn chính thức\n3. Khung phân tích chuỗi tác động: chip nhớ → giá thiết bị → người mua VN\n4. Mẫu ghi chú 1 trang tiếng Việt\n5. Quy trình cập nhật hằng tuần\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Chỉ phân tích, KHÔNG đưa khuyến nghị mua/bán hay dự báo giá.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.2,
+      "rank": 8
+    }
+  ],
+  "keywords": [
+    {
+      "id": "kw-vn-01",
+      "region": "VN",
+      "rank": 1,
+      "keyword": "siêu quả bóng vàng",
+      "gloss": "‘Siêu Quả bóng vàng’ (Ronaldo nhận giải QBV vĩ đại nhất)",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-02",
+      "region": "VN",
+      "rank": 2,
+      "keyword": "new england đấu với new york rb",
+      "gloss": "New England – New York Red Bulls (MLS)",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 29/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-03",
+      "region": "VN",
+      "rank": 3,
+      "keyword": "thời tiết huế",
+      "gloss": "Thời tiết Huế (mưa lớn)",
+      "theme": "society",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 29/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-04",
+      "region": "VN",
+      "rank": 4,
+      "keyword": "hầm",
+      "gloss": "‘Hầm’ — sập đá trong hầm dài nhất ASEAN",
+      "theme": "society",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-05",
+      "region": "VN",
+      "rank": 5,
+      "keyword": "weather",
+      "gloss": "Thời tiết (tin quốc tế)",
+      "theme": "society",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 29/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-06",
+      "region": "VN",
+      "rank": 6,
+      "keyword": "đất",
+      "gloss": "Giá đất nền giảm sâu, có nơi hơn 70% sau 1 năm",
+      "theme": "home",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 06:30 (UTC+7)",
+      "note": "Liên quan tin BĐS trong tab Đọc báo (nguồn cung cao cấp chiếm >73% ở TP HCM)."
+    },
+    {
+      "id": "kw-vn-07",
+      "region": "VN",
+      "rank": 7,
+      "keyword": "new york city đấu với atlanta united",
+      "gloss": "NYC FC – Atlanta United (MLS)",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 06:10 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-08",
+      "region": "VN",
+      "rank": 8,
+      "keyword": "indonesia",
+      "gloss": "Indonesia (cháy rừng)",
+      "theme": "society",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 06:00 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-09",
+      "region": "VN",
+      "rank": 9,
+      "keyword": "inter miami đấu với cincinnati",
+      "gloss": "Inter Miami – Cincinnati (MLS)",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "5000+ lượt tìm · 29/10 05:40 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-10",
+      "region": "VN",
+      "rank": 10,
+      "keyword": "porto đấu với câu lạc bộ bóng đá académico de viseu",
+      "gloss": "Porto – Académico de Viseu",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 05:40 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-01",
+      "region": "KR",
+      "rank": 1,
+      "keyword": "마이크로소프트 주가",
+      "gloss": "Cổ phiếu Microsoft (kết quả quý kỷ lục)",
+      "theme": "money",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 05:50 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-02",
+      "region": "KR",
+      "rank": 2,
+      "keyword": "담합",
+      "gloss": "‘Thông đồng giá’ — điều tra nghi án mì gói",
+      "theme": "society",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 29/10 05:50 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-03",
+      "region": "KR",
+      "rank": 3,
+      "keyword": "매일경제",
+      "gloss": "Báo Maeil Business",
+      "theme": "society",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 29/10 05:40 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-04",
+      "region": "KR",
+      "rank": 4,
+      "keyword": "조상",
+      "gloss": "‘Tổ tiên’ — dịch vụ tìm đất của tổ tiên",
+      "theme": "home",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 29/10 05:30 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-05",
+      "region": "KR",
+      "rank": 5,
+      "keyword": "xrp",
+      "gloss": "XRP (tiền mã hóa)",
+      "theme": "money",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 29/10 05:30 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-06",
+      "region": "KR",
+      "rank": 6,
+      "keyword": "삼성전자 실적발표",
+      "gloss": "Samsung Electronics công bố kết quả quý 3",
+      "theme": "tech",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "10000+ lượt tìm · 29/10 05:30 (UTC+7)",
+      "idea_ids": [
+        "20261029-08-watchlist-sieu-chu-ky-chip-nho"
+      ]
+    },
+    {
+      "id": "kw-kr-07",
+      "region": "KR",
+      "rank": 7,
+      "keyword": "송교창",
+      "gloss": "Song Kyo-chang (bóng rổ)",
+      "theme": "sport",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 29/10 05:30 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-08",
+      "region": "KR",
+      "rank": 8,
+      "keyword": "lig 디펜스&에어로스페이스",
+      "gloss": "LIG D&A — tạm hoãn lệnh cấm đấu thầu",
+      "theme": "work",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 29/10 05:30 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-09",
+      "region": "KR",
+      "rank": 9,
+      "keyword": "주차",
+      "gloss": "‘Đỗ xe’ — robot đỗ xe ở sân bay",
+      "theme": "tech",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 05:20 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-10",
+      "region": "KR",
+      "rank": 10,
+      "keyword": "한다 감",
+      "gloss": "Diễn viên Han Da-gam",
+      "theme": "ent",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "10000+ lượt tìm · 29/10 05:10 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-01",
+      "region": "JP",
+      "rank": 1,
+      "keyword": "キヤノン",
+      "gloss": "Canon — gashapon phụ kiện ‘めじるし’ hình máy ảnh",
+      "theme": "collect",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 29/10 07:00 (UTC+7)",
+      "idea_ids": [
+        "20261029-03-xe-khac-ten-tai-cho"
+      ]
+    },
+    {
+      "id": "kw-jp-02",
+      "region": "JP",
+      "rank": 2,
+      "keyword": "ラプターズ 対 マジック",
+      "gloss": "Raptors – Magic (NBA)",
+      "theme": "sport",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 29/10 07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-03",
+      "region": "JP",
+      "rank": 3,
+      "keyword": "playstation plus",
+      "gloss": "PlayStation Plus tháng 11",
+      "theme": "ent",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 29/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-04",
+      "region": "JP",
+      "rank": 4,
+      "keyword": "ジャンボたかお",
+      "gloss": "Jumbo Takao (nghệ sĩ hài)",
+      "theme": "ent",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-05",
+      "region": "JP",
+      "rank": 5,
+      "keyword": "inter miami vs cincinnati",
+      "gloss": "Inter Miami – Cincinnati",
+      "theme": "sport",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-06",
+      "region": "JP",
+      "rank": 6,
+      "keyword": "siri ai iphone",
+      "gloss": "Siri AI hỗ trợ tiếng Nhật",
+      "theme": "tech",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 29/10 06:20 (UTC+7)",
+      "idea_ids": [
+        "20261029-02-remote-noi-la-go"
+      ]
+    },
+    {
+      "id": "kw-jp-07",
+      "region": "JP",
+      "rank": 7,
+      "keyword": "グループホーム",
+      "gloss": "Nhà tập thể cho người khuyết tật (tin pháp lý)",
+      "theme": "society",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 06:20 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-08",
+      "region": "JP",
+      "rank": 8,
+      "keyword": "ピストンズ 対 ホーネッツ",
+      "gloss": "Pistons – Hornets (NBA)",
+      "theme": "sport",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 06:20 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-09",
+      "region": "JP",
+      "rank": 9,
+      "keyword": "macbookpro",
+      "gloss": "MacBook Pro mới (tin ghi chip M6)",
+      "theme": "tech",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "2000+ lượt tìm · 29/10 06:20 (UTC+7)",
+      "note": "TechCrunch (28/10) ghi chip M5 Max cho bản tối đa; tin Nhật trong RSS ghi M6 — chưa đối chiếu được."
+    },
+    {
+      "id": "kw-jp-10",
+      "region": "JP",
+      "rank": 10,
+      "keyword": "リゾナーレ大阪",
+      "gloss": "Risonare Osaka (Hoshino Resorts) đóng cửa",
+      "theme": "travel",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 29/10 06:20 (UTC+7)"
+    },
+    {
+      "id": "kw-us-01",
+      "region": "US",
+      "rank": 1,
+      "keyword": "derek jeter",
+      "gloss": "Derek Jeter",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "5000+ lượt tìm · 29/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-us-02",
+      "region": "US",
+      "rank": 2,
+      "keyword": "alex rodriguez",
+      "gloss": "Alex Rodriguez",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 29/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-us-03",
+      "region": "US",
+      "rank": 3,
+      "keyword": "david ortiz",
+      "gloss": "David Ortiz",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 29/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-us-04",
+      "region": "US",
+      "rank": 4,
+      "keyword": "rihanna",
+      "gloss": "Rihanna (phát ngôn chính trị)",
+      "theme": "ent",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 29/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-us-05",
+      "region": "US",
+      "rank": 5,
+      "keyword": "kelly oubre",
+      "gloss": "Kelly Oubre (NBA)",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-us-06",
+      "region": "US",
+      "rank": 6,
+      "keyword": "portland vs st. louis",
+      "gloss": "Portland – St. Louis (MLS)",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-us-07",
+      "region": "US",
+      "rank": 7,
+      "keyword": "savannah river site",
+      "gloss": "Savannah River Site (sự cố)",
+      "theme": "society",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-us-08",
+      "region": "US",
+      "rank": 8,
+      "keyword": "mls schedule",
+      "gloss": "Lịch thi đấu MLS",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 29/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-us-09",
+      "region": "US",
+      "rank": 9,
+      "keyword": "philadelphia vs nashville",
+      "gloss": "Philadelphia – Nashville (MLS)",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 29/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-us-10",
+      "region": "US",
+      "rank": 10,
+      "keyword": "orlando city vs chicago",
+      "gloss": "Orlando City – Chicago (MLS)",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 29/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-cn-01",
+      "region": "CN",
+      "rank": 3,
+      "keyword": "特大暴雪暴雨！新一轮冷空气将来袭",
+      "gloss": "Bão tuyết, mưa lớn — đợt không khí lạnh mới 31/10–2/11",
+      "theme": "society",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.713.542"
+    },
+    {
+      "id": "kw-cn-02",
+      "region": "CN",
+      "rank": 8,
+      "keyword": "三丽鸥致歉",
+      "gloss": "Sanrio xin lỗi, dừng hợp tác với phim Nhật ‘VIVANT’",
+      "theme": "collect",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.236.699"
+    },
+    {
+      "id": "kw-cn-03",
+      "region": "CN",
+      "rank": 10,
+      "keyword": "中国“智造家”加速出海",
+      "gloss": "Nhà lắp ghép ‘thông minh’ của TQ đẩy mạnh xuất khẩu (Hội chợ Quảng Châu)",
+      "theme": "home",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.045.418"
+    },
+    {
+      "id": "kw-cn-04",
+      "region": "CN",
+      "rank": 11,
+      "keyword": "多所高校内出现这种“小房子”",
+      "gloss": "Nhiều trường ĐH đặt ‘buồng cách âm’ trong thư viện",
+      "theme": "work",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 6.945.488",
+      "idea_ids": [
+        "20261029-06-goc-phong-van-30-phut",
+        "20261029-07-phien-hoc-nop-dien-thoai"
+      ]
+    },
+    {
+      "id": "kw-cn-05",
+      "region": "CN",
+      "rank": 14,
+      "keyword": "美联储宣布维持利率不变",
+      "gloss": "Fed giữ nguyên lãi suất 3,75–4%",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 6.666.134"
+    },
+    {
+      "id": "kw-cn-06",
+      "region": "CN",
+      "rank": 17,
+      "keyword": "乔布斯嘲讽的触屏笔记本苹果真出了",
+      "gloss": "Apple ra laptop màn cảm ứng mà Steve Jobs từng chê — giá từ 22.999 NDT",
+      "theme": "tech",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 6.376.260"
+    },
+    {
+      "id": "kw-cn-07",
+      "region": "CN",
+      "rank": 18,
+      "keyword": "美股收盘：SK海力士涨超13%",
+      "gloss": "Chứng khoán Mỹ: SK hynix tăng hơn 13%",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 6.280.192",
+      "idea_ids": [
+        "20261029-08-watchlist-sieu-chu-ky-chip-nho"
+      ]
+    },
+    {
+      "id": "kw-cn-08",
+      "region": "CN",
+      "rank": 21,
+      "keyword": "T1击败MKOI晋级S16八强",
+      "gloss": "T1 thắng MKOI, vào tứ kết CKTG LMHT 2026",
+      "theme": "sport",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 5.986.391"
+    },
+    {
+      "id": "kw-cn-09",
+      "region": "CN",
+      "rank": 24,
+      "keyword": "苹果发布首款触控屏MacBook Pro",
+      "gloss": "Apple ra MacBook Pro màn cảm ứng đầu tiên",
+      "theme": "tech",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 5.716.590"
+    },
+    {
+      "id": "kw-cn-10",
+      "region": "CN",
+      "rank": 26,
+      "keyword": "微信新功能来了：只用动嘴",
+      "gloss": "WeChat ra tính năng ‘AI录音笔’ — chỉ cần nói",
+      "theme": "tech",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 5.518.263",
+      "idea_ids": [
+        "20261029-02-remote-noi-la-go"
+      ]
+    },
+    {
+      "id": "kw-cn-11",
+      "region": "CN",
+      "rank": 29,
+      "keyword": "多地以旧换新上新 最高补贴2000元",
+      "gloss": "Nhiều địa phương mở chương trình đổi cũ lấy mới, hỗ trợ tối đa 2.000 NDT",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 5.218.968"
+    },
+    {
+      "id": "kw-cn-12",
+      "region": "CN",
+      "rank": 39,
+      "keyword": "二维码千万别随便晒",
+      "gloss": "Đừng khoe mã QR — AI khôi phục được mã đã che",
+      "theme": "tech",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 4.278.884",
+      "idea_ids": [
+        "20261029-05-sap-tu-giac"
+      ]
+    },
+    {
+      "id": "kw-cn-13",
+      "region": "CN",
+      "rank": 41,
+      "keyword": "造景贴纸火了 有人下单百张玩到凌晨",
+      "gloss": "Sticker dựng cảnh tiếp tục hot — có người mua hơn 100 tấm",
+      "theme": "collect",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 4.087.898",
+      "note": "Đã dùng làm ý tưởng ngày 26/10 — không lặp."
+    },
+    {
+      "id": "kw-cn-14",
+      "region": "CN",
+      "rank": 43,
+      "keyword": "洗一次摇粒绒会释放70万根微塑料吗",
+      "gloss": "Giặt áo nỉ lông cừu một lần thải 70 vạn sợi vi nhựa?",
+      "theme": "fashion",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 3.885.168"
+    },
+    {
+      "id": "kw-cn-15",
+      "region": "CN",
+      "rank": 40,
+      "keyword": "今年双十一 电视遥控器爆火",
+      "gloss": "Double 11: remote TV thành ‘phần cứng AI’ hot",
+      "theme": "tech",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 4.168.590",
+      "idea_ids": [
+        "20261029-02-remote-noi-la-go"
+      ]
+    },
+    {
+      "id": "kw-cn-16",
+      "region": "CN",
+      "rank": 46,
+      "keyword": "大额存单“重出江湖” 该不该跟着抢",
+      "gloss": "Chứng chỉ tiền gửi lớn ‘trở lại’ — có nên lao vào?",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 3.621.287"
+    },
+    {
+      "id": "kw-cn-17",
+      "region": "CN",
+      "rank": 48,
+      "keyword": "路口摆无人小摊 自觉扫码什么都没丢",
+      "gloss": "Sạp không người ở ngã tư — khách tự quét mã, không mất gì",
+      "theme": "food",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 3.430.000",
+      "idea_ids": [
+        "20261029-05-sap-tu-giac"
+      ]
+    },
+    {
+      "id": "kw-cn-18",
+      "region": "CN",
+      "rank": 49,
+      "keyword": "火锅店贴告示恳请顾客对年轻员工宽容",
+      "gloss": "Quán lẩu dán thông báo xin khách bao dung với nhân viên trẻ",
+      "theme": "work",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 3.307.848"
+    },
+    {
+      "id": "kw-jp-11",
+      "region": "JP",
+      "rank": 1,
+      "keyword": "急な寒さ「寒すぎて布団が恋しい」",
+      "gloss": "Lạnh đột ngột — ‘lạnh quá, chỉ muốn nằm chăn’",
+      "theme": "society",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "4.221 bài đăng · 29/10 ~07:10 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-12",
+      "region": "JP",
+      "rank": 2,
+      "keyword": "今季最低気温が一桁",
+      "gloss": "Nhiệt độ thấp nhất mùa xuống một chữ số",
+      "theme": "society",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "524 bài đăng · 29/10 ~07:10 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-13",
+      "region": "JP",
+      "rank": 3,
+      "keyword": "ムゲンダイナ復刻",
+      "gloss": "Pokémon GO: Eternatus quay lại (sự kiện 21/11)",
+      "theme": "ent",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "129 bài đăng · 29/10 ~07:10 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-14",
+      "region": "JP",
+      "rank": 4,
+      "keyword": "小田さん ハロウィン仮装",
+      "gloss": "Nghệ sĩ hóa trang Halloween trên truyền hình",
+      "theme": "ent",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "91 bài đăng · 29/10 ~07:10 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-15",
+      "region": "JP",
+      "rank": 5,
+      "keyword": "ビクトリーナイト予約開始",
+      "gloss": "Mở đặt trước đồ chơi Victory Knight",
+      "theme": "collect",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "82 bài đăng · 29/10 ~07:10 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-16",
+      "region": "JP",
+      "rank": 6,
+      "keyword": "轟はじめ 新ガチャ",
+      "gloss": "Gacha mới của VTuber Todoroki Hajime",
+      "theme": "ent",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "69 bài đăng · 29/10 ~07:10 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-17",
+      "region": "JP",
+      "rank": 7,
+      "keyword": "Google Gemini 4 Carbon",
+      "gloss": "Google công bố Gemini 4 Carbon (theo tóm tắt AI của Yahoo — chưa xác minh)",
+      "theme": "tech",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "40 bài đăng · 29/10 ~07:10 (UTC+7)",
+      "note": "Tóm tắt do AI của Yahoo tạo; chưa kiểm tra nội dung."
+    },
+    {
+      "id": "kw-jp-18",
+      "region": "JP",
+      "rank": 8,
+      "keyword": "MGフリーダムガンダム 再販",
+      "gloss": "Bán lại mô hình MG Freedom Gundam — giá tăng",
+      "theme": "collect",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "27 bài đăng · 29/10 ~07:10 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-21",
+      "region": "JP",
+      "rank": null,
+      "keyword": "デジトックス ブロックケース",
+      "gloss": "Hộp khóa điện thoại để ‘cai’ màn hình — đứng đầu một bảng xếp hạng của HANDS",
+      "theme": "home",
+      "source_id": "nolyn-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "Báo cáo Nolyn 23/10",
+      "idea_ids": [
+        "20261029-07-phien-hoc-nop-dien-thoai"
+      ]
+    },
+    {
+      "id": "kw-jp-22",
+      "region": "JP",
+      "rank": null,
+      "keyword": "勉強垢",
+      "gloss": "‘Tài khoản học tập’ — đồ dùng học tập được lưu nhiều",
+      "theme": "work",
+      "source_id": "nolyn-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "Báo cáo Nolyn 23/10",
+      "idea_ids": [
+        "20261029-07-phien-hoc-nop-dien-thoai"
+      ]
+    },
+    {
+      "id": "kw-kr-11",
+      "region": "KR",
+      "rank": null,
+      "keyword": "공덕 키링",
+      "gloss": "Móc khóa ‘tích công đức’ (gõ mõ) — trào lưu ‘불교코어’",
+      "theme": "collect",
+      "source_id": "hankook-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "2.000 chiếc hết sau ~2,5 giờ (2/10)",
+      "note": "Ở VN đã có nhóm hàng tương tự trên sàn — không đưa thành ý tưởng."
+    },
+    {
+      "id": "kw-us-11",
+      "region": "US",
+      "rank": null,
+      "keyword": "AI gift finder",
+      "gloss": "Công cụ AI tìm quà mùa lễ (Target, Kohl’s); 80% Gen Z dùng AI khi mua sắm",
+      "theme": "tech",
+      "source_id": "rd-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "Attentive qua Retail Dive 13/10",
+      "idea_ids": [
+        "20261029-04-tro-ly-ai-chon-qua"
+      ]
+    },
+    {
+      "id": "kw-global-01",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "MacBook Pro màn cảm ứng",
+      "gloss": "Apple ra MacBook Pro cảm ứng — hot ở TQ và Nhật cùng lúc",
+      "theme": "tech",
+      "source_id": "baidu",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "TQ: Baidu #17, #24; Nhật: GT #9 2000+",
+      "derived_from": [
+        "kw-cn-06",
+        "kw-cn-09",
+        "kw-jp-09"
+      ]
+    },
+    {
+      "id": "kw-global-02",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Chip nhớ AI / SK hynix",
+      "gloss": "Lãi kỷ lục của SK hynix, kết quả Samsung — hot ở Hàn và TQ",
+      "theme": "money",
+      "source_id": "gt-kr",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "Hàn: GT #6 10000+; TQ: Baidu #18",
+      "idea_ids": [
+        "20261029-08-watchlist-sieu-chu-ky-chip-nho"
+      ],
+      "derived_from": [
+        "kw-kr-06",
+        "kw-cn-07"
+      ]
+    },
+    {
+      "id": "kw-global-03",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "AI bằng giọng nói",
+      "gloss": "Remote ‘bấm để nói’, WeChat ‘AI录音笔’, Siri AI tiếng Nhật",
+      "theme": "tech",
+      "source_id": "baidu",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "TQ: Baidu #40, #26; Nhật: GT #6 500+",
+      "idea_ids": [
+        "20261029-02-remote-noi-la-go"
+      ],
+      "derived_from": [
+        "kw-cn-15",
+        "kw-cn-10",
+        "kw-jp-06"
+      ]
+    }
+  ],
+  "keyword_sources": [
+    {
+      "id": "gt-vn",
+      "name": "Google Trends — Daily Search Trends (Việt Nam)",
+      "title": "Google Trends RSS geo=VN (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "published": null,
+      "accessed": "2026-10-29",
+      "captured_at": "2026-10-29T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "VN",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "gt-kr",
+      "name": "Google Trends — Daily Search Trends (Hàn Quốc)",
+      "title": "Google Trends RSS geo=KR (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=KR",
+      "published": null,
+      "accessed": "2026-10-29",
+      "captured_at": "2026-10-29T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "gt-jp",
+      "name": "Google Trends — Daily Search Trends (Nhật Bản)",
+      "title": "Google Trends RSS geo=JP (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "published": null,
+      "accessed": "2026-10-29",
+      "captured_at": "2026-10-29T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "gt-us",
+      "name": "Google Trends — Daily Search Trends (Mỹ)",
+      "title": "Google Trends RSS geo=US (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "published": null,
+      "accessed": "2026-10-29",
+      "captured_at": "2026-10-29T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "US",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "baidu",
+      "name": "Baidu 百度热搜",
+      "title": "百度热搜 实时榜",
+      "url": "https://top.baidu.com/board?tab=realtime",
+      "published": null,
+      "accessed": "2026-10-29",
+      "captured_at": "2026-10-29T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "CN",
+      "note": "Bảng realtime đo trực tiếp; ‘điểm nóng’ là hotScore của Baidu. Chọn các mục liên quan kinh doanh/tiêu dùng/công nghệ, bỏ bớt tin chính trị–thời sự."
+    },
+    {
+      "id": "yahoojp",
+      "name": "Yahoo! JAPAN リアルタイム検索 — SNSのバズまとめ",
+      "title": "SNSのバズまとめ",
+      "url": "https://search.yahoo.co.jp/realtime/search/matome",
+      "published": null,
+      "accessed": "2026-10-29",
+      "captured_at": "2026-10-29T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "Danh sách chủ đề đang được bàn trên X ở Nhật, Yahoo tóm tắt bằng AI; xếp theo thời gian, ‘hạng’ ở đây là thứ tự đã chọn, chỉ số là số bài đăng."
+    },
+    {
+      "id": "nolyn-kw",
+      "name": "Nolyn — báo cáo xu hướng tạp hóa Nhật",
+      "title": "雑貨トレンド",
+      "url": "https://www.nolyn.ai/ja/case-studies/ryuko-zakka",
+      "published": "2026-10-23",
+      "accessed": "2026-10-29",
+      "captured_at": "2026-10-29T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "Bên thứ ba tổng hợp."
+    },
+    {
+      "id": "hankook-kw",
+      "name": "한국일보 (Hankook Ilbo)",
+      "title": "공덕 키링 — ‘불교코어’",
+      "url": "https://www.hankookilbo.com/news/article/A2026100516190004347",
+      "published": "2026-10-13",
+      "accessed": "2026-10-29",
+      "captured_at": "2026-10-29T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "Bài báo, không phải bảng xếp hạng."
+    },
+    {
+      "id": "rd-kw",
+      "name": "Retail Dive",
+      "title": "Gen Z, Gen Alpha holiday shopping: retail trends",
+      "url": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
+      "published": "2026-10-13",
+      "accessed": "2026-10-29",
+      "captured_at": "2026-10-29T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "US",
+      "note": "Bài báo dẫn khảo sát Attentive; đọc qua WebFetch."
+    }
+  ],
+  "keyword_unreachable": [
+    {
+      "region": "CN",
+      "source": "Weibo 热搜 (s.weibo.com/top/summary)",
+      "reason": "Không thử lại 29/10 (27/10: chuyển sang trang đăng nhập khách, không lấy được danh sách)."
+    },
+    {
+      "region": "CN",
+      "source": "Douyin/Xiaohongshu hot list",
+      "reason": "Không thử lại 29/10 (cần đăng nhập/JS, không có API công khai)."
+    },
+    {
+      "region": "VN",
+      "source": "Shopee/TikTok Shop/Lazada VN trending",
+      "reason": "Không thử lại 29/10 (danh sách nằm sau JavaScript/đăng nhập)."
+    },
+    {
+      "region": "KR",
+      "source": "Naver DataLab / Daum realtime",
+      "reason": "Không thử lại 29/10 (Naver đã bỏ bảng từ khóa realtime công khai); dùng Google Trends KR."
+    },
+    {
+      "region": "US",
+      "source": "Amazon Movers & Shakers",
+      "reason": "Không thử lại 29/10 (danh sách tải bằng JavaScript)."
+    },
+    {
+      "region": "GLOBAL",
+      "source": "TikTok Creative Center",
+      "reason": "Không thử lại 29/10 (chỉ trả khung JS)."
+    },
+    {
+      "region": "GLOBAL",
+      "source": "Bảng từ khóa toàn cầu",
+      "reason": "Không có nguồn toàn cầu công khai đọc được; mục ‘Toàn cầu’ là chủ đề suy ra từ ≥ 2 vùng và ghi rõ nguồn."
+    }
+  ]
+}
