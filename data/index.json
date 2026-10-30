@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-29",
-  "latest": "2026-10-29",
+  "updated": "2026-10-30",
+  "latest": "2026-10-30",
   "days": [
+    {
+      "date": "2026-10-30",
+      "file": "2026-10-30.json",
+      "headline": "Mua mà không tiêu, nói sao cho khéo: đặt món ảo lan sang TQ, cắt tóc 10 tệ ‘không bán kèm’, Gen Z sợ nghe máy và cú sốc chi tiêu AI",
+      "idea_count": 8,
+      "trend_count": 5,
+      "keyword_count": 78,
+      "top": {
+        "title": "“Ship không tới” — web game đặt món ảo kiểu Việt: chọn bún chả, trà sữa, chốt đơn… rồi nhận thông báo ‘bạn vừa tiết kiệm được một bữa’",
+        "total_score": 7.48
+      }
+    },
     {
       "date": "2026-10-29",
       "file": "2026-10-29.json",

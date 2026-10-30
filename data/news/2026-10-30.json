@@ -1,0 +1,726 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T15:00:00+07:00",
+  "headline": "Đọc báo 30/10/2026: AI vào phần mềm BIM trả phí và công trường robot, Alphabet mất 500 tỷ USD, giá thép ép biên lãi nhà thầu còn 1–2%",
+  "digest": [
+    {
+      "title": "AI xây dựng: từ gói phần mềm ‘Max’ đến robot hình người",
+      "text": "Nemetschek gom Archicad/Allplan/Bluebeam Max thành tầng AI cao cấp, cho Claude và Copilot nối qua MCP; Dream gọi 17 triệu USD cho ‘mô hình thế giới’ ước tính chi phí; Shimizu đưa robot hình người vào mô phỏng BIM/CIM cuối năm; ga Trùng Khánh dùng drone AI rút tuần tra từ 3–4 giờ xuống dưới 30 phút.",
+      "item_ids": [
+        "n-20261030-01-nemetschek-max-tier",
+        "n-20261030-09-dream-17m-a16z",
+        "n-20261030-08-shimizu-noble-machines",
+        "n-20261030-10-trung-quoc-ga-trung-khanh"
+      ]
+    },
+    {
+      "title": "An toàn và kiểm soát: robot cần ‘nút dừng’, AI cần người duyệt",
+      "text": "NIOSH ra bản tin an toàn robot xây dựng; FORT Robotics gọi thêm khoảng 20 triệu USD cho lớp dừng khẩn; Lumber đưa AI đối chiếu bảo hiểm thầu phụ lên Procore nhưng không tự duyệt.",
+      "item_ids": [
+        "n-20261030-04-niosh-robot-safety",
+        "n-20261030-02-fort-robotics-20m",
+        "n-20261030-07-lumber-coi-agent"
+      ]
+    },
+    {
+      "title": "Thanh toán và chuỗi cung ứng: cảnh giác đổi tài khoản, cước tàu biến động",
+      "text": "Kẻ giả danh nhà thầu chiếm 14,7 triệu USD ở Mobile (Mỹ); Mỹ hoãn thuế robot/máy móc 180 ngày để đàm phán; 63% công suất Á–Âu quay lại Biển Đỏ, cước vẫn tăng; GE Vernova mua Trench 9 tỷ USD vì thiếu thiết bị lưới điện.",
+      "item_ids": [
+        "n-20261030-11-enr-147m-payment-fraud",
+        "n-20261030-12-trump-robotics-232",
+        "n-20261030-13-container-rates-red-sea",
+        "n-20261030-14-ge-vernova-trench"
+      ]
+    },
+    {
+      "title": "Cú sốc chi tiêu AI trên sàn chứng khoán",
+      "text": "Alphabet mất hơn 500 tỷ USD trong một ngày dù doanh thu tăng 25%; Meta thử app phối đồ AI ở Đông Nam Á; Mistral mở trọng số mô hình nghìn tỷ tham số.",
+      "item_ids": [
+        "n-20261030-15-bbc-google-500bn",
+        "n-20261030-16-meta-style-sketch",
+        "n-20261030-17-mistral-large-4-weights"
+      ]
+    },
+    {
+      "title": "Việt Nam: thép tăng, hạ tầng tăng tốc",
+      "text": "Thép tăng 100–300 đồng/kg, nhà thầu chỉ lãi khoảng 1–2%; Hòa Phát lãi quý III 8.265 tỷ, nợ vay vượt 100.000 tỷ; Hà Nội thúc 8 cầu qua sông Hồng, sông Đuống; TP HCM mời thầu quốc tế khu đô thị 2,7 tỷ USD; xuất nhập khẩu vượt 1.000 tỷ USD.",
+      "item_ids": [
+        "n-20261030-18-gia-thep-tang-nha-thau",
+        "n-20261030-19-hoa-phat-no-vay",
+        "n-20261030-22-ha-noi-8-cau-song-hong",
+        "n-20261030-21-tan-an-1a-moi-thau",
+        "n-20261030-20-xuat-nhap-khau-1000-ty"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "n-20261030-01-nemetschek-max-tier",
+      "title": "Nemetschek Turned 'Max' Into a Tier Across Three Brands. The MCP Servers Are the Part That Travels.",
+      "title_vi": "Nemetschek gom Archicad Max, Allplan Max, Bluebeam Max thành gói AI cao cấp; Bluebeam Max có máy chủ MCP cho Claude, Copilot",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang tin chuyên ngành contech"
+      },
+      "url": "https://www.constructionindustry.ai/product/nemetschek-max-tier-archicad-allplan-bluebeam-mcp/",
+      "published": "2026-10-29",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Ngày 28/10 tập đoàn Nemetschek (Đức) ra Allplan Max 2027 — gói AI cho kỹ sư kết cấu/hạ tầng; ngày 29/10 gom Archicad Max (kiến trúc), Allplan Max (kỹ thuật) và Bluebeam Max (thi công) thành một ‘tầng AI cao cấp’ chạy trên nền tảng dữ liệu chung của tập đoàn. Phần đáng chú ý: Bluebeam Max nêu tên Claude, GitHub Copilot CLI và AnythingLLM là các ứng dụng được hỗ trợ qua máy chủ MCP, tức AI bên ngoài có thể đọc/ghi dữ liệu bản vẽ. Các con số tiết kiệm thời gian trong thông cáo do hãng tự nêu.",
+      "why_it_matters": "Phần mềm thiết kế–thi công đang tách ‘bản có AI’ thành gói trả thêm phí — khi mua bản quyền BIM/PDF cho dự án cần so sánh gói thường và gói Max, và xem khả năng nối AI riêng của công ty qua MCP.",
+      "tags": [
+        "Nemetschek",
+        "Bluebeam",
+        "Allplan",
+        "MCP",
+        "BIM"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30",
+      "note": "Bài phân tích dựa trên thông cáo của Nemetschek."
+    },
+    {
+      "id": "n-20261030-02-fort-robotics-20m",
+      "title": "FORT Robotics Took Another $20M to Sell the Stop Button for Autonomous Machines",
+      "title_vi": "FORT Robotics gọi thêm khoảng 20 triệu USD cho ‘nút dừng khẩn’ và điều khiển an toàn của máy tự hành",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang tin chuyên ngành contech"
+      },
+      "url": "https://www.constructionindustry.ai/funding/fort-robotics-20m-tiger-global-physical-ai-safety-layer/",
+      "published": "2026-10-29",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "FORT Robotics (Philadelphia) công bố ngày 22/10 khoản khoảng 20 triệu USD: một nửa là vòng vốn khoảng 10 triệu do Tiger Global dẫn dắt, có Mark Cuban Companies; nửa còn lại là cam kết thêm 10 triệu của Tiger Global vào khoản PIPE gắn với thương vụ sáp nhập SPAC để lên Nasdaq. Công ty bán lớp điều khiển từ xa và dừng khẩn cấp có chứng nhận cho robot làm việc gần người; xây dựng là một trong 9 thị trường của họ.",
+      "why_it_matters": "Khi máy xúc, robot tự hành vào công trường, lớp an toàn (dừng khẩn, điều khiển từ xa) sẽ thành yêu cầu trong hồ sơ mời thầu thiết bị — nên hỏi nhà cung cấp về chứng nhận an toàn chức năng.",
+      "tags": [
+        "FORT Robotics",
+        "an toàn",
+        "robot",
+        "gọi vốn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "n-20261030-03-groundworks-summit",
+      "title": "A Construction Robotics Summit Hit Its 150-Seat Capacity. Its Pitch Is That Demos Don't Count.",
+      "title_vi": "Hội nghị robot xây dựng Groundworks (London, 11/11) kín 150 chỗ, tập trung vào ‘đưa robot ra công trường thật’",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang tin chuyên ngành contech"
+      },
+      "url": "https://www.constructionindustry.ai/analysis/groundworks-2026-construction-robotics-summit-deployment-gap/",
+      "published": "2026-10-29",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Groundworks — sự kiện của podcast Bricks & Bytes — diễn ra ngày 11/11 tại UCL Here East (London), dành cho khoảng 150 lãnh đạo nhà thầu, chủ đầu tư hạ tầng, công ty công nghệ và quỹ đầu tư; ngày 29/10 ban tổ chức nói đã kín chỗ. Khu trình diễn có UCL, Hilti, Mechasys, Flo Mobility, Hyperion Robotics; diễn giả từ Mace, VINCI, HS2, McKinsey. Chủ đề xoay quanh khoảng cách giữa robot chạy được trong demo và robot đưa được vào công trường.",
+      "why_it_matters": "Câu hỏi ‘đưa vào công trường được không’ cũng là câu hỏi khi đánh giá đề xuất công nghệ của nhà thầu — tiêu chí thực tế quan trọng hơn video demo.",
+      "tags": [
+        "Groundworks",
+        "robot",
+        "hội nghị",
+        "London"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30",
+      "note": "Trang tin tự công bố có quan hệ với ban tổ chức (đọc bản tin Bricks & Bytes hằng tuần); dựa trên thông cáo của ban tổ chức."
+    },
+    {
+      "id": "n-20261030-04-niosh-robot-safety",
+      "title": "The Government Has Written Down What Makes a Construction Robot Dangerous. The Factory Playbook Doesn't Transfer.",
+      "title_vi": "NIOSH (Mỹ) ra bản tin ‘An toàn robot trong xây dựng’: kinh nghiệm an toàn ở nhà máy không áp dụng thẳng cho công trường",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang tin chuyên ngành contech"
+      },
+      "url": "https://www.constructionindustry.ai/analysis/niosh-safety-construction-robotics-bulletin-factory-playbook/",
+      "published": "2026-10-27",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Viện An toàn và Sức khỏe nghề nghiệp Mỹ (NIOSH, thuộc CDC) công bố bản tin ‘Safety in Construction Robotics’ ngày 7/10/2026, do 5 tác giả viết. Luận điểm chính: kỹ thuật an toàn ở nhà máy giả định không gian làm việc cố định, còn công trường thay đổi liên tục; nhiều nguy cơ làm cảm biến kém đi chính là thời tiết thường ngày (bụi, mưa, nắng). NIOSH chỉ khuyến nghị, không ban hành quy định.",
+      "why_it_matters": "Tài liệu tham khảo tốt để viết yêu cầu an toàn khi thuê/mua robot hoặc thiết bị tự hành cho dự án.",
+      "tags": [
+        "NIOSH",
+        "an toàn lao động",
+        "robot",
+        "quy chuẩn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30",
+      "note": "Bài phân tích về một văn bản của cơ quan nhà nước Mỹ; bản tin gốc phát hành 7/10."
+    },
+    {
+      "id": "n-20261030-05-atlian-pre-seed",
+      "title": "Atlian Wants Brokers to Know About a Building Before It Exists",
+      "title_vi": "Atlian (London) gọi vốn pre-seed: tìm dự án xây dựng từ giai đoạn xin phép để môi giới bảo hiểm tiếp cận sớm",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang tin chuyên ngành contech"
+      },
+      "url": "https://www.constructionindustry.ai/funding/atlian-pre-seed-fuel-ventures-uk-construction-insurance-brokers/",
+      "published": "2026-10-26",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Atlian, công ty phần mềm ở London, gọi vòng pre-seed do Fuel Ventures dẫn dắt (tin đăng 22/10), có quỹ Access EIS của SyndicateRoom, GI Network và các nhà đầu tư thiên thần. Sản phẩm dò các dự án xây dựng ở Anh ngay từ hồ sơ xin phép quy hoạch, đưa tới môi giới bảo hiểm trước khi khởi công. Số tiền không được công bố chính thức; một bản tin tổng hợp ghi 600.000 bảng nhưng trang này chưa xác minh được.",
+      "why_it_matters": "Ví dụ ‘dữ liệu dự án sớm’ thành sản phẩm — tương tự cách nhà cung cấp vật liệu tìm dự án sắp khởi công để chào hàng.",
+      "tags": [
+        "Atlian",
+        "bảo hiểm",
+        "dữ liệu dự án",
+        "gọi vốn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "n-20261030-06-dpr-ai-healthcare",
+      "title": "A 29-Person DPR Study Says AI Hits Hospital Operations Long Before It Hits the Building",
+      "title_vi": "Nghiên cứu của DPR (29 người): AI thay đổi vận hành bệnh viện trước, thay đổi công trình sau",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang tin chuyên ngành contech"
+      },
+      "url": "https://www.constructionindustry.ai/analysis/dpr-construction-ai-healthcare-built-environment-29-participants/",
+      "published": "2026-10-26",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Nhà thầu DPR Construction công bố sách trắng ‘Planning with Intelligence’ về tác động của AI tới công trình y tế: nghiên cứu định tính với 29 người từ hệ thống bệnh viện, công nghệ, tài chính, quy hoạch, kiến trúc. Kết luận chính: AI đổi cách vận hành trước, công trình đổi sau; vì vậy khi lập kế hoạch vốn nên thiết kế ‘linh hoạt để thay đổi’ thay vì thu nhỏ diện tích. Thông cáo nói 91% người tham gia cho rằng AI đang phá vỡ các ‘ốc đảo’ trong quản lý dự án.",
+      "why_it_matters": "Với dự án bệnh viện/văn phòng, yêu cầu thiết kế linh hoạt (MEP, không gian) có thể tăng — ảnh hưởng đặc tả và chi phí mua sắm.",
+      "tags": [
+        "DPR",
+        "bệnh viện",
+        "AI",
+        "sách trắng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "khảo sát/báo cáo",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30",
+      "note": "Mẫu 29 người, nghiên cứu định tính — không phải khảo sát đại diện."
+    },
+    {
+      "id": "n-20261030-07-lumber-coi-agent",
+      "title": "Lumber's Insurance Agent Reads the Subcontract First. The Design Choice Is That It Never Approves a Sub.",
+      "title_vi": "Lumber đưa AI kiểm tra chứng nhận bảo hiểm của thầu phụ lên chợ agent của Procore",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang tin chuyên ngành contech"
+      },
+      "url": "https://www.constructionindustry.ai/product/lumber-coi-agent-procore-subcontractor-insurance-compliance/",
+      "published": "2026-10-23",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Lumber (nền tảng quản lý nhân lực xây dựng) công bố ngày 21/10 AI agent kiểm tra chứng nhận bảo hiểm (COI) đã có trên Procore Agent Marketplace. Theo hãng, một tổng thầu có thể giữ 200–300+ COI đang hiệu lực và mất 10–15+ giờ mỗi tuần để đối chiếu với điều khoản từng hợp đồng thầu phụ. Agent so từng chứng nhận với điều khoản bảo hiểm trong hợp đồng (loại, hạn mức, điều khoản bổ sung), nhưng không tự duyệt thầu phụ — người quyết định cuối cùng.",
+      "why_it_matters": "Đúng việc của bộ phận hợp đồng/mua hàng: đối chiếu bảo lãnh, bảo hiểm thầu phụ với hợp đồng. Mô hình ‘AI kiểm, người duyệt’ đáng áp dụng.",
+      "tags": [
+        "Lumber",
+        "Procore",
+        "bảo hiểm",
+        "thầu phụ",
+        "AI agent"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30",
+      "note": "Số liệu và việc có mặt trên Procore là của Lumber tự nêu."
+    },
+    {
+      "id": "n-20261030-08-shimizu-noble-machines",
+      "title": "Shimizu Took a Stake in a Sunnyvale Humanoid Maker. The Robots Start Inside BIM Before They Start On Site.",
+      "title_vi": "Shimizu đầu tư vào hãng robot hình người Noble Machines: mô phỏng trên BIM/CIM cuối năm, ra công trường từ mùa xuân",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang tin chuyên ngành contech"
+      },
+      "url": "https://www.constructionindustry.ai/funding/shimizu-noble-machines-investment-moby-humanoid-construction/",
+      "published": "2026-10-23",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "JP",
+      "summary_vi": "Tổng thầu Nhật Shimizu thông báo ngày 16/10 đã đầu tư vào Noble Machines (Sunnyvale, Mỹ) và mở chương trình cùng phát triển robot AI hình người cho xây dựng; không công bố giá trị. Lộ trình: cuối năm nay mô phỏng ảo trên dữ liệu BIM/CIM của Shimizu cho 3 việc — vận chuyển vật tư thiết bị, di chuyển trong công trường, tuần tra; từ mùa xuân tới thử robot thật ở công trường.",
+      "why_it_matters": "Lộ trình ‘mô phỏng trên BIM trước, công trường sau’ cho thấy dữ liệu BIM chuẩn là điều kiện để dùng robot — thêm lý do đầu tư vào BIM cho dự án.",
+      "tags": [
+        "Shimizu",
+        "robot hình người",
+        "BIM",
+        "Nhật Bản"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "n-20261030-09-dream-17m-a16z",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "title_vi": "Dream (cựu lãnh đạo Palantir) gọi 17 triệu USD từ a16z, làm ‘mô hình thế giới’ AI cho thiết kế và ước tính chi phí công trình",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ Mỹ"
+      },
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "published": "2026-10-29T16:21:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Hai nhà sáng lập Andy Elder và Arjun Mathur (từng làm 10 năm ở Palantir) ra mắt Dream với 17 triệu USD do a16z dẫn dắt. Khác mô hình ngôn ngữ chỉ vẽ ra hình ảnh tòa nhà, ‘world model’ của Dream được huấn luyện trên dữ liệu hơn 100 triệu feet vuông công trình, bám theo vật lý và tiêu chuẩn xây dựng. Khách hàng dùng để lên ý tưởng thiết kế và ước tính tổng chi phí; đang triển khai ở 10 dự án tại Texas và California.",
+      "why_it_matters": "AI ước tính chi phí từ giai đoạn ý tưởng — nếu chính xác sẽ ảnh hưởng cách lập dự toán sơ bộ và ngân sách mua sắm.",
+      "tags": [
+        "Dream",
+        "a16z",
+        "world model",
+        "dự toán"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "n-20261030-10-trung-quoc-ga-trung-khanh",
+      "title": "北斗、机器人齐上阵，重庆站焕新“智”在必得",
+      "title_vi": "Ga Trùng Khánh (TQ) cải tạo bằng 52 công nghệ xây dựng thông minh: drone AI tuần tra an toàn, cẩu tháp 5G điều khiển dưới đất",
+      "source": {
+        "name": "铁甲工程机械网 (cehome)",
+        "kind": "trang tin máy xây dựng TQ"
+      },
+      "url": "https://m.cehome.com/news/20261028/396619.shtml",
+      "published": "2026-10-28",
+      "time_known": false,
+      "date_basis": "Ngày trong đường dẫn bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Dự án cải tạo ga Trùng Khánh của China Railway Construction (tổng diện tích 66 vạn m², 7 đài 14 tuyến) là dự án thí điểm xây dựng thông minh, dùng 52 công nghệ như dựng mô hình đám mây điểm bằng drone LiDAR, quan trắc Beidou, cẩu tháp thông minh. Drone AI nhận diện người không đội mũ, máy lớn, khói lửa, rút thời gian tuần tra toàn công trường từ 3–4 giờ (người đi) xuống dưới 30 phút; 3 cẩu tháp 5G chống va chạm, người lái điều khiển từ mặt đất.",
+      "why_it_matters": "Các hạng mục ‘drone tuần tra AI’ và ‘cẩu tháp điều khiển mặt đất’ đã thành gói chuẩn ở TQ — có thể đưa vào tiêu chí kỹ thuật khi mời thầu thi công lớn.",
+      "tags": [
+        "Trung Quốc",
+        "ga đường sắt",
+        "drone",
+        "cẩu tháp 5G",
+        "xây dựng thông minh"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30",
+      "note": "Nội dung mang tính giới thiệu thành tích của doanh nghiệp nhà nước."
+    },
+    {
+      "id": "n-20261030-11-enr-147m-payment-fraud",
+      "title": "Fraudster Spent Months Posing as Contractor Before Diverting $14.7M Payment",
+      "title_vi": "Kẻ giả danh nhà thầu suốt nhiều tháng, chiếm 14,7 triệu USD tiền thanh toán dự án ở Mobile (Mỹ)",
+      "source": {
+        "name": "ENR",
+        "kind": "báo ngành xây dựng Mỹ"
+      },
+      "url": "https://www.enr.com/articles/64095-fraudster-spent-months-posing-as-contractor-before-diverting-147m-payment",
+      "published": "2026-10-29T15:37:00-04:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Kẻ giả danh nhà thầu B.L. Harbert (hợp đồng 237 triệu USD xây Regions Arena, chương trình khoảng 300 triệu USD) liên lạc với phòng tài chính TP Mobile (Alabama) từ cuối tháng 5, dùng tên người thật; một nhân viên còn gửi cho kẻ gian hóa đơn thật của nhà thầu. Thông tin nhà cung cấp trong hệ thống thanh toán bị đổi, khoản 14,7 triệu USD chuyển vào tài khoản giả ngày 2/10; đến 16/10 thành phố mới biết. FBI và Mật vụ Mỹ đang điều tra; thành phố dùng quỹ dự phòng khoảng 15 triệu USD để trả nhà thầu.",
+      "why_it_matters": "Rủi ro ‘đổi số tài khoản’ trong thanh toán cho nhà thầu/nhà cung cấp — cần quy trình xác minh 2 kênh (gọi lại số đã lưu) mỗi khi nhà cung cấp báo đổi tài khoản.",
+      "tags": [
+        "lừa đảo thanh toán",
+        "nhà thầu",
+        "kiểm soát nội bộ",
+        "ENR"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "n-20261030-12-trump-robotics-232",
+      "title": "Trump opts for trade talks over tariffs for robotics, industrial machinery",
+      "title_vi": "Mỹ chọn đàm phán thay vì áp thuế ngay với robot và máy móc công nghiệp nhập khẩu (Mục 232)",
+      "source": {
+        "name": "Supply Chain Dive",
+        "kind": "báo chuỗi cung ứng Mỹ"
+      },
+      "url": "https://www.supplychaindive.com/news/trump-opts-for-trade-talks-over-tariffs-for-robotics-industrial-machinery/873166/",
+      "published": "2026-10-29",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Ngày 28/10 Tổng thống Trump chấp nhận kết luận điều tra Mục 232 rằng nhập khẩu robot, máy móc công nghiệp và linh kiện đe dọa an ninh quốc gia, nhưng chọn đàm phán với các đối tác thay vì áp thuế ngay. Bộ Thương mại và USTR phải báo cáo tiến độ trong 180 ngày; thuế, hạn ngạch vẫn có thể được áp sau nếu đàm phán không đạt.",
+      "why_it_matters": "Giá máy móc, thiết bị nhập khẩu toàn cầu chưa bị đẩy lên ngay, nhưng rủi ro thuế vẫn treo trong khoảng 6 tháng — nên tính vào kế hoạch mua thiết bị dài hạn.",
+      "tags": [
+        "Mục 232",
+        "thuế quan",
+        "robot",
+        "máy móc"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "curl bị 403; đọc toàn bộ bài qua WebFetch.",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "n-20261030-13-container-rates-red-sea",
+      "title": "Why container rates are climbing despite cooling demand",
+      "title_vi": "Cước container tăng dù nhu cầu hạ nhiệt: tàu quay lại Biển Đỏ, 63% công suất Á–Âu đi qua đây",
+      "source": {
+        "name": "FreightWaves",
+        "kind": "báo vận tải Mỹ"
+      },
+      "url": "https://www.freightwaves.com/news/why-container-rates-are-climbing-despite-cooling-demand",
+      "published": "2026-10-29T18:39:34+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Cước container tuyến Á–Âu và xuyên Thái Bình Dương tăng tuần trước dù nhu cầu có dấu hiệu nguội, do tắc nghẽn và hủy chuyến. Theo Alphaliner, 24/46 dịch vụ trực tiếp Á–Âu của 10 hãng lớn nhất đã đi qua Biển Đỏ, tương đương 63% công suất (Địa Trung Hải 70%). Việc đổi lịch trình hàng loạt cùng nguy cơ đình công ở cảng Los Angeles–Long Beach làm tăng bất định.",
+      "why_it_matters": "Thời gian và chi phí nhập hàng từ châu Âu (thiết bị, vật liệu hoàn thiện) có thể biến động trong giai đoạn chuyển tuyến — nên chốt lịch tàu sớm.",
+      "tags": [
+        "cước container",
+        "Biển Đỏ",
+        "Alphaliner",
+        "Á–Âu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "n-20261030-14-ge-vernova-trench",
+      "title": "GE Vernova's $9B Planned Buy of Trench Group Targets Grid Equipment Crunch",
+      "title_vi": "GE Vernova mua Trench Group 9 tỷ USD để giải ‘cơn khát’ thiết bị lưới điện",
+      "source": {
+        "name": "ENR",
+        "kind": "báo ngành xây dựng Mỹ"
+      },
+      "url": "https://www.enr.com/articles/64094-ge-vernovas-9b-planned-buy-of-trench-group-targets-grid-equipment-crunch",
+      "published": "2026-10-28T14:00:00-04:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "GE Vernova lên kế hoạch mua Trench Group — nhà sản xuất sứ xuyên, cuộn kháng và thiết bị cao áp — với giá 9 tỷ USD, nhằm tăng năng lực cung cấp thiết bị lưới điện đang thiếu hụt. Đơn hàng tồn mảng điện khí hóa của GE Vernova đạt 46,1 tỷ USD cuối quý III (+55% so với cùng kỳ); Trench có khoảng 5 tỷ USD đơn tồn và thỏa thuận khung, nhà máy Charlotte (Mỹ) dự kiến sản xuất sứ xuyên 765 kV từ cuối 2027.",
+      "why_it_matters": "Thiết bị cao áp, máy biến áp đang khan hiếm toàn cầu — dự án có trạm biến áp/đấu nối cần đặt hàng sớm, tính thời gian giao dài.",
+      "tags": [
+        "GE Vernova",
+        "lưới điện",
+        "thiết bị cao áp",
+        "M&A"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "n-20261030-15-bbc-google-500bn",
+      "title": "Google value plunges $500bn as AI spending fears spook investors",
+      "title_vi": "Alphabet mất hơn 500 tỷ USD giá trị trong một ngày vì lo ngại chi tiêu AI",
+      "source": {
+        "name": "BBC News",
+        "kind": "báo Anh"
+      },
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
+      "published": "2026-10-29T21:29:51.580Z",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "Cổ phiếu Alphabet mất hơn 500 tỷ USD giá trị ngày 29/10 (giờ Mỹ), xuống đáy 6 tháng, sau khi công ty cho biết tóm tắt AI trên Google Search đang ảnh hưởng doanh thu quảng cáo và tiếp tục chi rất lớn cho AI. BBC ghi doanh thu quý tăng 25% lên 127,6 tỷ USD, mảng đám mây tăng 103% lên gần 31 tỷ USD, nhưng lợi nhuận giảm 25%; Microsoft và Amazon cũng giữ kế hoạch chi mạnh.",
+      "why_it_matters": "Cuộc đua hạ tầng AI (trung tâm dữ liệu) tiếp diễn — nhu cầu điện, thép, thiết bị làm mát cho data center vẫn cao dù cổ phiếu biến động.",
+      "tags": [
+        "Alphabet",
+        "AI",
+        "chi tiêu vốn",
+        "chứng khoán"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30",
+      "idea_ids": [
+        "20261030-05-watchlist-soc-chi-tieu-ai"
+      ]
+    },
+    {
+      "id": "n-20261030-16-meta-style-sketch",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "title_vi": "Meta lặng lẽ ra app thời trang AI ‘Style Sketch’ ở Indonesia, Singapore, Thái Lan",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ Mỹ"
+      },
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "published": "2026-10-29T19:14:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "SEA",
+      "summary_vi": "Meta phát hành Style Sketch — app thời trang dùng AI, tạo ‘tủ đồ số’ từ ảnh người dùng (có thể lấy từ Instagram), gợi ý cách phối và cho thử đồ ảo. App mới có ở Indonesia, Singapore và Thái Lan; Việt Nam chưa có trong danh sách.",
+      "why_it_matters": "Big Tech thử app phối đồ AI ngay tại Đông Nam Á — thị trường ‘stylist AI’ sắp đông, ý tưởng nhỏ cần dựa vào yếu tố con người và cộng đồng.",
+      "tags": [
+        "Meta",
+        "thời trang",
+        "AI",
+        "Đông Nam Á"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30",
+      "idea_ids": [
+        "20261030-07-tu-do-7-bo-khong-phai-nghi"
+      ]
+    },
+    {
+      "id": "n-20261030-17-mistral-large-4-weights",
+      "title": "Mistral releases weights for its trillion-parameter AI model targeting cybersecurity",
+      "title_vi": "Mistral công bố trọng số mô hình nghìn tỷ tham số, nhắm an ninh mạng",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ Mỹ"
+      },
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "published": "2026-10-29T17:00:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "EU",
+      "summary_vi": "Mistral (Pháp) phát hành trọng số mở của Mistral Large 4 (biệt danh ‘Le Chonk’), mô hình cỡ nghìn tỷ tham số, cho doanh nghiệp và chính phủ tự tải về chạy; nhấn mạnh ứng dụng an ninh mạng. Hãng nói hiệu năng tương đương GLM-5.3 (mô hình mở của TQ) nhưng dùng ít hơn 47% token (số liệu tự nêu).",
+      "why_it_matters": "Mô hình mở cỡ lớn cho phép doanh nghiệp tự chạy AI trên hạ tầng riêng — liên quan khi cân nhắc bảo mật dữ liệu hồ sơ thầu.",
+      "tags": [
+        "Mistral",
+        "mã mở",
+        "an ninh mạng",
+        "LLM"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "n-20261030-18-gia-thep-tang-nha-thau",
+      "title": "Giá thép liên tục tăng, nhà thầu 'căng mình' vì chỉ lời 2%",
+      "title_vi": "Giá thép liên tục tăng, nhà thầu chỉ còn lãi 1–2%",
+      "source": {
+        "name": "Tuổi Trẻ",
+        "kind": "báo VN"
+      },
+      "url": "https://tuoitre.vn/gia-thep-lien-tuc-tang-nha-thau-cang-minh-tinh-toan-vi-loi-nhuan-mong-100261029151523031.htm",
+      "published": "2026-10-29T15:36:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Từ 19/10, Thép Việt Đức và Hòa Phát Hưng Yên tăng 100–300 đồng/kg thép cây; ngày 26/10 Vinasteel và VAS Việt Mỹ tăng tiếp (thép thanh D10 CB400/CB500 của Vinasteel +250 đồng/kg). Mức tăng trung bình khoảng 200 đồng/kg dồn lên nhà thầu dân dụng vì hợp đồng trọn gói không được bù chênh lệch. Một nhà thầu ở TP HCM nói biên lợi nhuận chỉ còn khoảng 1–2%.",
+      "why_it_matters": "Trực tiếp cho mua hàng: cân nhắc điều khoản điều chỉnh giá thép, chốt khối lượng sớm hoặc mua theo đợt có giá trần.",
+      "tags": [
+        "giá thép",
+        "nhà thầu",
+        "Hòa Phát",
+        "điều chỉnh giá"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "n-20261030-19-hoa-phat-no-vay",
+      "title": "Nợ vay của Hòa Phát lần đầu vượt 100.000 tỷ đồng",
+      "title_vi": "Nợ vay Hòa Phát vượt 100.000 tỷ; quý III lãi 8.265 tỷ, gấp đôi cùng kỳ",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử VN"
+      },
+      "url": "https://vnexpress.net/no-vay-cua-hoa-phat-lan-dau-vuot-100-000-ty-dong-5138556.html",
+      "published": "2026-10-30T06:06:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Nợ vay tài chính của Hòa Phát lần đầu vượt 100.000 tỷ đồng, tăng hơn 13.000 tỷ so với cuối năm ngoái, chủ yếu là vay ngắn hạn cho vốn lưu động; chi phí lãi vay quý III 1.774 tỷ, gấp hơn 2 lần. Doanh thu quý III đạt 62.669 tỷ (gấp 2,3 lần cùng kỳ), lãi sau thuế 8.265 tỷ (+106%), sản lượng bán tăng 54%. Nhà máy thép ray hoàn thành khoảng 80%, sản phẩm đầu tiên có thể ra lò quý I năm sau.",
+      "why_it_matters": "Nhà sản xuất thép lớn nhất đang có lãi cao khi giá tăng — đàm phán giá với nhà phân phối cần dữ liệu biên lợi nhuận của nhà máy.",
+      "tags": [
+        "Hòa Phát",
+        "thép",
+        "báo cáo tài chính",
+        "thép ray"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "n-20261030-20-xuat-nhap-khau-1000-ty",
+      "title": "Lần đầu kim ngạch xuất nhập khẩu vượt 1.000 tỷ USD",
+      "title_vi": "Kim ngạch xuất nhập khẩu Việt Nam lần đầu vượt 1.000 tỷ USD, nhập siêu khoảng 14 tỷ",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử VN"
+      },
+      "url": "https://vnexpress.net/lan-dau-kim-ngach-xuat-nhap-khau-vuot-1-000-ty-usd-5138495.html",
+      "published": "2026-10-29T18:32:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Theo Cục Hải quan (29/10), từ đầu năm xuất khẩu đạt khoảng 493 tỷ USD (+27,2%), nhập khẩu gần 508 tỷ (+37,6%), tổng khoảng 1.001 tỷ USD, vượt quy mô cả năm 2025. Nhập khẩu tăng nhanh hơn nên nhập siêu khoảng 14,02 tỷ USD. Cục Hải quan dự kiến xuất khẩu cả năm tăng trên 25%.",
+      "why_it_matters": "Nhập khẩu tăng nhanh hơn xuất khẩu — áp lực tỷ giá và cước vận chuyển có thể ảnh hưởng giá vật tư, thiết bị nhập.",
+      "tags": [
+        "xuất nhập khẩu",
+        "nhập siêu",
+        "thương mại",
+        "Việt Nam"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "n-20261030-21-tan-an-1a-moi-thau",
+      "title": "TP HCM mời thầu quốc tế khu đô thị gần 2,7 tỷ USD",
+      "title_vi": "TP HCM mời thầu quốc tế khu đô thị Tân An 1A gần 2,7 tỷ USD, 274 ha",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử VN"
+      },
+      "url": "https://vnexpress.net/tp-hcm-moi-thau-quoc-te-khu-do-thi-gan-2-7-ty-usd-5138225.html",
+      "published": "2026-10-29T18:35:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "TP HCM mời thầu rộng rãi quốc tế chọn nhà đầu tư khu đô thị mới Tân An 1A (phường Phú An), vốn gần 2,7 tỷ USD, tổng diện tích khoảng 274 ha, thời hạn 50 năm. Khu đất chủ yếu là đất nông nghiệp (khoảng 167 ha); quy hoạch nhà liền kề, chung cư hỗn hợp, trường học, y tế. Giai đoạn giải phóng mặt bằng và chuẩn bị đầu tư dự kiến kéo dài 3 năm sau khi ký hợp đồng.",
+      "why_it_matters": "Đấu thầu chọn nhà đầu tư quy mô lớn — đối thủ, đối tác tiềm năng và nhu cầu tổng thầu/vật liệu trong 2027–2030.",
+      "tags": [
+        "TP HCM",
+        "đấu thầu",
+        "khu đô thị",
+        "nhà đầu tư"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "n-20261030-22-ha-noi-8-cau-song-hong",
+      "title": "Hà Nội thúc tiến độ 8 dự án cầu vượt sông Hồng, sông Đuống",
+      "title_vi": "Hà Nội thúc tiến độ 8 cây cầu qua sông Hồng, sông Đuống; cầu Tứ Liên đạt khoảng 25%",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo ngành xây dựng VN"
+      },
+      "url": "https://baoxaydung.vn/ha-noi-thuc-tien-do-8-du-an-cau-vuot-song-hong-song-duong-192261029195659762.htm",
+      "published": "2026-10-29T21:55:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Hà Nội yêu cầu đẩy nhanh 8 dự án cầu qua sông Hồng và sông Đuống; cầu Tứ Liên là dự án tiến triển nhất, đạt khoảng 25% khối lượng. Thành phố giao các sở, chủ đầu tư tháo gỡ mặt bằng, nguồn vật liệu để kịp tiến độ.",
+      "why_it_matters": "Nhu cầu thép, bê tông, cọc khoan nhồi và thiết bị thi công cầu ở Hà Nội tăng mạnh 2026–2028 — có thể đẩy giá vật liệu khu vực phía Bắc.",
+      "tags": [
+        "Hà Nội",
+        "cầu",
+        "sông Hồng",
+        "hạ tầng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "n-20261030-23-dat-phuong-muon-tai-san",
+      "title": "Nhà thầu thi công đường sắt của Vingroup và đường nối sân bay Gia Bình của Sun Group mượn bất động sản của 8 người để bảo đảm ngân hàng",
+      "title_vi": "Đạt Phương mượn bất động sản của lãnh đạo và người thân để bảo đảm khoản vay BIDV",
+      "source": {
+        "name": "CafeF",
+        "kind": "báo kinh tế VN"
+      },
+      "url": "https://cafef.vn/nha-thau-thi-cong-duong-sat-cua-vingroup-va-duong-noi-san-bay-gia-binh-cua-sun-group-muon-bat-dong-san-cua-8-nguoi-de-bao-dam-ngan-hang-188261029144052394.chn",
+      "published": "2026-10-29T14:48:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "HĐQT Đạt Phương (DPG) ra Quyết định số 76 ngày 27/10/2026 thông qua việc mượn bất động sản của 8 cá nhân để bảo đảm nghĩa vụ vay tại BIDV Thăng Long. Danh sách gồm Chủ tịch, Phó chủ tịch, Tổng giám đốc và 5 người thân của họ. Đạt Phương là nhà thầu thi công đường sắt của Vingroup và đường nối sân bay Gia Bình của Sun Group.",
+      "why_it_matters": "Nhà thầu hạ tầng lớn phải huy động tài sản cá nhân để vay — dấu hiệu căng vốn lưu động; cần lưu ý năng lực tài chính khi đánh giá thầu.",
+      "tags": [
+        "Đạt Phương",
+        "tài sản bảo đảm",
+        "BIDV",
+        "nhà thầu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-30"
+    }
+  ],
+  "unreachable": [
+    {
+      "source": "Supply Chain Dive (curl)",
+      "status": "HTTP 403 khi tải bằng curl",
+      "impact": "Đọc đầy đủ qua WebFetch."
+    },
+    {
+      "source": "AP News",
+      "status": "HTTP 403",
+      "impact": "Bỏ qua; tin Alphabet dùng BBC và CNBC."
+    },
+    {
+      "source": "시사N (sisa-n.com)",
+      "status": "curl không kết nối (mã 000)",
+      "impact": "Đọc qua WebFetch, chỉ dùng làm nguồn xu hướng trong mục ý tưởng."
+    },
+    {
+      "source": "news.cn (kế hoạch xây dựng thông minh Hồ Bắc) / ce.cn",
+      "status": "HTTP 500; bản xinhuanet chỉ có một câu",
+      "impact": "Bỏ qua."
+    },
+    {
+      "source": "Nikkei BP newsroom",
+      "status": "HTTP 404",
+      "impact": "Dùng trang xtrend.nikkei.com (chỉ đọc phần giới thiệu)."
+    },
+    {
+      "source": "RSS: VIR, Reatimes, Autodesk blog, Procore, Bentley, Trimble, Logistics Management, ArchDaily, Building Design, Reuters Tech, VN Logistics, Tạp chí Xây dựng, Saigon Times, VnEconomy BĐS",
+      "status": "404/403/500/không kết nối/lỗi định dạng/0 mục",
+      "impact": "Thay bằng nguồn khác cùng chủ đề (Construction Industry AI, ENR, Tuổi Trẻ, VnExpress, Báo Xây dựng)."
+    }
+  ]
+}

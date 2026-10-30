@@ -1,0 +1,3391 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T15:00:00+07:00",
+  "headline": "Mua mà không tiêu, nói sao cho khéo: đặt món ảo lan sang TQ, cắt tóc 10 tệ ‘không bán kèm’, Gen Z sợ nghe máy và cú sốc chi tiêu AI",
+  "summary": "Trung Quốc là trọng tâm: ‘模拟外卖’ (đặt đồ ăn giả) nối tiếp trào lưu Hàn–Ấn, quầy cắt tóc 10 tệ không gội, không bán kèm hút khách khi 21,3 vạn tiệm tóc đóng cửa, người trẻ trả tiền đặt video reaction riêng. Nhật: tô tendon 730 yên mất 10% khách, tranh cãi kính ngữ ‘了解です’, nửa nhân viên trẻ ngại điện thoại. Hàn: Gen Z hỏi AI khi gặp chuyện, phong cách ‘Hyunbaek-core’. Mỹ: Alphabet mất khoảng 500 tỷ USD một ngày. 8 ý tưởng nhỏ: web game đặt món ảo, bot giải mã tin nhắn sếp, góc tỉa tóc 10 phút, react hộ, watchlist capex AI, bản đồ quán chưa tăng giá, lịch 7 bộ đồ, web tập nghe máy.",
+  "trends": [
+    {
+      "id": "20261030-t1-tieu-dung-ao-lan-rong",
+      "title": "‘Tiêu dùng ảo’ lan từ Hàn sang Ấn Độ và Trung Quốc: đặt món không bao giờ tới, nộp đơn xin chi cho người lạ duyệt",
+      "summary": "Web ‘đặt đồ ăn không giao’ khởi phát ở Hàn (FoodNeverArrives, khoảng 30.000 người/tuần giữa tháng 6), bản Ấn Độ FoodNeverComes hơn 2,7 triệu lượt truy cập, và TQ có làn sóng ‘模拟外卖’ — một số bản cho nạp tiền thật vào ‘hũ’ bị luật sư cảnh báo. Cùng lúc, mini app ‘钱包请等等’ vẫn ở #26 Baidu sáng 30/10.",
+      "why_it_matters": "Người trẻ tìm cảm giác ‘đã mua’ mà không tiêu tiền — nền cho ý tưởng #1. Bài học: làm cho vui, không giữ tiền người dùng.",
+      "tags": [
+        "dopamine",
+        "tiết kiệm",
+        "Gen Z"
+      ],
+      "regions": [
+        "KR",
+        "IN",
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "Web đặt món ảo mô phỏng toàn bộ quy trình rồi báo tiền/calo ‘đã tiết kiệm’.",
+          "source_ids": [
+            "sedaily_fake",
+            "joongang_fake",
+            "bbc_foodnevercomes"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "TQ: một số bản ‘模拟外卖’ có ‘hũ tiết kiệm’ nạp tiền thật; luật sư cảnh báo rủi ro nếu hình thành quỹ tiền do nền tảng chi phối.",
+          "source_ids": [
+            "chinanews_moni"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Baidu 30/10 #26: ‘30万年轻人 排队求陌生人管住钱包’.",
+          "source_ids": [
+            "baidu_rt26"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "joongang_fake",
+          "name": "Korea JoongAng Daily",
+          "title": "Why Korea’s ‘dopamine sites’ let users shop and order food without spending money",
+          "url": "https://www.koreajoongangdaily.com/lifestyle/these-brainhacking-services-let-you-buy-absolutely-nothing-but-leave-you-feeling-richer/12751624",
+          "published": "2026-07-03",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bài cũ gần 4 tháng — dùng làm bối cảnh khởi phát ở Hàn."
+        },
+        {
+          "id": "sedaily_fake",
+          "name": "Seoul Economic Daily",
+          "title": "'Fake Delivery Apps' Win Over Korea's Gen Z in Era of High Prices",
+          "url": "https://en.sedaily.com/culture/2026/06/29/fake-delivery-apps-win-over-koreas-gen-z-in-era-of-high",
+          "published": "2026-06-29",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bài cũ 4 tháng — bối cảnh; dẫn lại báo The Times (Anh)."
+        },
+        {
+          "id": "bbc_foodnevercomes",
+          "name": "BBC News (phóng viên Ấn Độ)",
+          "title": "FoodNeverComes: the Indian site where you order food that never arrives",
+          "url": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo",
+          "published": "2026-09-24",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bài hơn 1 tháng; tiêu đề tiếng Việt tự dịch theo nội dung."
+        },
+        {
+          "id": "chinanews_moni",
+          "name": "中新网 (中国消费者报)",
+          "title": "“模拟外卖点餐”悄然走红，真风险须规避",
+          "url": "https://www.chinanews.com/sh/2026/10-27/10721777.shtml",
+          "published": "2026-10-27",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "baidu_rt26",
+          "name": "Baidu 百度热搜 (mục #26)",
+          "title": "30万年轻人 排队求陌生人管住钱包",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 30/10 07:10 (UTC+7); hotScore 5.504.459."
+        }
+      ]
+    },
+    {
+      "id": "20261030-t2-gia-minh-bach-khong-ban-kem",
+      "title": "Mệt vì tăng giá và bán kèm: TQ xếp hàng cắt tóc 10 tệ, Nhật quay lưng với tô tendon 730 yên",
+      "summary": "Ở TQ, quầy ‘快剪’ không gội, không bán kèm, không làm thẻ hút khách trong khi 21,3 vạn tiệm tóc đóng/chuyển nhượng quý I/2026 (Baidu #3 sáng 30/10). Ở Nhật, Tenya tăng tô tendon từ 500 lên 730 yên và mất khoảng 10% khách hai tháng liền (Yahoo realtime #1). Nikkei Trendy nhận xét năm 2026 giá cả tăng, sản phẩm ‘giải phóng khỏi việc lựa chọn’ vươn lên.",
+      "why_it_matters": "Người tiêu dùng trả tiền cho sự rõ ràng: giá niêm yết, dịch vụ nhanh, ít phải chọn — nền cho ý tưởng #3, #6, #7.",
+      "tags": [
+        "giá cả",
+        "minh bạch",
+        "dịch vụ nhanh"
+      ],
+      "regions": [
+        "CN",
+        "JP",
+        "KR"
+      ],
+      "key_facts": [
+        {
+          "text": "Mô hình ‘快剪’: không gội, không bán kèm, không làm thẻ, khoảng 10 phút.",
+          "source_ids": [
+            "eastmoney_kuaijian",
+            "shenyang_kuaijian",
+            "qq_kuaijian"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Tenya tăng giá tô tendon 500 → 730 yên; số khách giảm khoảng 10% hai tháng liền.",
+          "source_ids": [
+            "jcast_tenya",
+            "yahoojp_rt1"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Hàn: trào lưu ‘Hyunbaek-core’ — mặc đẹp mà như không cố; 20–30 tuổi chiếm 46,7% khách Hyundai Department Store 9 tháng đầu năm.",
+          "source_ids": [
+            "kh_hyunbaek"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Nikkei Trendy 2026: sản phẩm ‘giải phóng khỏi việc lựa chọn’ vươn lên trong năm giá cả tăng.",
+          "source_ids": [
+            "nikkei_hit30"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "baidu_rt3",
+          "name": "Baidu 百度热搜 (mục #3)",
+          "title": "10元快剪正暴打全国的“设计总监”",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 30/10 07:10 (UTC+7); hotScore 7.713.394."
+        },
+        {
+          "id": "eastmoney_kuaijian",
+          "name": "东方财富 财富号",
+          "title": "10元快剪，正在暴打全国的“设计总监”",
+          "url": "https://caifuhao.eastmoney.com/news/20261028182931847069390",
+          "published": "2026-10-28",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bài trên nền tảng tác giả (财富号), dẫn số liệu Hiệp hội Làm tóc & Làm đẹp TQ và 中国青年报."
+        },
+        {
+          "id": "qq_kuaijian",
+          "name": "腾讯新闻 (谷雨数据)",
+          "title": "238元总监不如街头老师傅！十元快剪爆火背后，传统理发店做错了什么",
+          "url": "https://news.qq.com/rain/a/20261015A052HH00",
+          "published": "2026-10-15",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "shenyang_kuaijian",
+          "name": "沈阳市人民政府 (trang tin)",
+          "title": "社区微业态织密“一刻钟便民服务矩阵”",
+          "url": "https://www.shenyang.gov.cn/zwgk/zwdt/bxgz/202610/t20261011_5101346.html",
+          "published": "2026-10-11",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "jcast_tenya",
+          "name": "J-CAST ニュース",
+          "title": "500円だった天丼が730円...「てんや」深刻な客離れ　2か月連続で客数約1割減",
+          "url": "https://www.j-cast.com/2026/10/29518784.html",
+          "published": "2026-10-29",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "yahoojp_rt1",
+          "name": "Yahoo! JAPAN リアルタイム検索 — バズまとめ (mục #1)",
+          "title": "天丼てんや、500円から730円へ値上げで客足約1割減　「高すぎ」という声も一部で見られる",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome/b8dc8ed2cbfa4d49bec4893d971d4a37-1793289000",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Tóm tắt do AI của Yahoo tạo từ bài đăng trên X; chụp 30/10 07:10 (UTC+7)."
+        },
+        {
+          "id": "kh_hyunbaek",
+          "name": "The Korea Herald",
+          "title": "Young Koreans want the nepo baby look. It’s called ‘Hyunbaek-core’",
+          "url": "https://www.koreaherald.com/article/10907469",
+          "published": "2026-10-19",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "nikkei_hit30",
+          "name": "日経クロストレンド (日経トレンディ)",
+          "title": "2026年ヒット商品ベスト30",
+          "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/",
+          "published": "2026-10-29",
+          "accessed": "2026-10-30",
+          "how_read": "đọc một phần",
+          "note": "Chỉ đọc được đoạn giới thiệu công khai; danh sách xếp hạng nằm sau tường phí — không dùng thứ hạng."
+        }
+      ]
+    },
+    {
+      "id": "20261030-t3-gen-z-giao-tiep-nhe",
+      "title": "Gen Z ‘giao tiếp nhẹ’: ngại điện thoại, cãi nhau về kính ngữ, tâm sự với AI và trả tiền mua người ‘react hộ’",
+      "summary": "Nhật: khoảng một nửa nhân viên trẻ ngại nghe/gọi điện (khảo sát BCC 400 người) và tranh cãi ‘了解です’ đứng #8 Yahoo realtime sáng 30/10. Hàn: 26% người tìm việc hỏi AI đầu tiên khi gặp vấn đề, 70% từng tâm sự với AI. TQ: người trẻ trả tiền đặt video reaction riêng; báo cáo xã giao 2026 của ĐH Phúc Đán nói về quan hệ ‘nhẹ’ như ‘屏享搭子’.",
+      "why_it_matters": "Nhu cầu ‘được chỉ cách nói’ và ‘được ai đó phản hồi’ mà không áp lực — nền cho ý tưởng #2, #4, #8.",
+      "tags": [
+        "Gen Z",
+        "giao tiếp",
+        "AI",
+        "công sở"
+      ],
+      "regions": [
+        "JP",
+        "KR",
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "50,8% nhân viên trẻ Nhật ngại nghe điện thoại, 48,8% ngại gọi điện (BCC, 400 người).",
+          "source_ids": [
+            "tbs_phone"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Tranh cãi về kính ngữ ‘了解です’ / ‘承知しました’ giữa người trẻ và cấp trên.",
+          "source_ids": [
+            "yahoojp_rt8",
+            "diamond_keigo"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Hàn: 31% hỏi bạn bè, 26% hỏi AI tạo sinh khi gặp vấn đề; 70% từng tâm sự với AI (1.110 người tìm việc).",
+          "source_ids": [
+            "kh_genz_ai"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "TQ: có người trả ‘một ly trà sữa’ để đặt video reaction riêng.",
+          "source_ids": [
+            "huxiu_reaction"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "tbs_phone",
+          "name": "TBS CROSS DIG with Bloomberg (qua dメニューニュース)",
+          "title": "電話に怯えるZ世代。本当に怖いのは、クライアントではなく「上司の耳」だった",
+          "url": "https://topics.smt.docomo.ne.jp/article/tbs_bb/business/tbs_bb-3027710",
+          "published": "2026-10-24",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "yahoojp_rt8",
+          "name": "Yahoo! JAPAN リアルタイム検索 — バズまとめ (mục #8)",
+          "title": "「了解です」への批判が広がる、若者と上司の敬語論争がSNSで注目",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome/fc395a7d0e784a8fb29554cf799f5a24-1793300100",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Tóm tắt do AI của Yahoo tạo từ bài đăng trên X; chụp 30/10 07:10 (UTC+7)."
+        },
+        {
+          "id": "diamond_keigo",
+          "name": "ダイヤモンド・オンライン",
+          "title": "「了解しました」は失礼じゃないのに、なぜ「承知しました」が広がった？",
+          "url": "https://diamond.jp/articles/-/401131",
+          "published": "2026-10-22",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "kh_genz_ai",
+          "name": "The Korea Herald",
+          "title": "[Graphic News] Gen Z turns to AI for personal advice",
+          "url": "https://www.koreaherald.com/article/10896135",
+          "published": "2026-10-08",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "huxiu_reaction",
+          "name": "虎嗅网",
+          "title": "孤独的年轻人，正在花钱买“嘴替”",
+          "url": "https://www.huxiu.com/article/4896677.html",
+          "published": "2026-10-12",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "163_pingxiang",
+          "name": "网易订阅",
+          "title": "淡社交时代，年轻人离不开KOOK“屏享搭子”",
+          "url": "https://www.163.com/dy/article/LADDCRM40517AHTJ.html",
+          "published": "2026-10-29",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bài mang tính giới thiệu nền tảng KOOK; dẫn ‘Báo cáo xu hướng xã giao 2026’ của ĐH Phúc Đán."
+        }
+      ]
+    },
+    {
+      "id": "20261030-t4-soc-chi-tieu-ai",
+      "title": "Cú sốc chi tiêu AI: Alphabet mất khoảng 500 tỷ USD trong một ngày dù doanh thu tăng 25%",
+      "summary": "Phiên 29/10 (giờ Mỹ), Alphabet giảm khoảng 13% (Baidu ghi 12,64%), mạnh nhất từ khi lên sàn 2004, vì lo chi phí AI và tác động của tóm tắt AI lên quảng cáo; Microsoft hạ nhẹ dự báo capex xuống 170 tỷ USD. Chủ đề lên #8, #11, #17 Baidu và Google Trends Hàn (Intel).",
+      "why_it_matters": "Chu kỳ đầu tư hạ tầng AI vẫn rất lớn nhưng nhà đầu tư bắt đầu đòi lợi nhuận — theo dõi ở ý tưởng #5; với ngành xây dựng, nhu cầu trung tâm dữ liệu và thiết bị điện vẫn cao (xem Đọc báo).",
+      "tags": [
+        "AI",
+        "capex",
+        "chứng khoán"
+      ],
+      "regions": [
+        "US",
+        "CN",
+        "KR"
+      ],
+      "key_facts": [
+        {
+          "text": "Alphabet mất khoảng 500 tỷ USD vốn hóa trong phiên 29/10.",
+          "source_ids": [
+            "cnbc_alphabet",
+            "bbc_google"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Doanh thu quý +25% lên 127,6 tỷ USD, đám mây +103%, lợi nhuận −25%.",
+          "source_ids": [
+            "bbc_google"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Microsoft hạ dự báo capex xuống 170 tỷ USD; Alphabet giữ 195–205 tỷ.",
+          "source_ids": [
+            "cnbc_capex"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Baidu: Google ra Gemini 4 Carbon, dòng tiền tự do chuyển âm khiến cổ phiếu giảm.",
+          "source_ids": [
+            "baidu_rt17"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cnbc_alphabet",
+          "name": "CNBC",
+          "title": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
+          "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+          "published": "2026-10-29",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "bbc_google",
+          "name": "BBC News",
+          "title": "Google value plunges $500bn as AI spending fears spook investors",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
+          "published": "2026-10-29",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Tiêu đề lấy từ nội dung trang (thẻ title không đọc được)."
+        },
+        {
+          "id": "cnbc_capex",
+          "name": "CNBC",
+          "title": "Microsoft, Google AI capex estimates",
+          "url": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+          "published": "2026-10-29",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Tiêu đề rút gọn theo đường dẫn; trang không trả thẻ title cho công cụ đọc."
+        },
+        {
+          "id": "baidu_rt8",
+          "name": "Baidu 百度热搜 (mục #8)",
+          "title": "美股收盘：谷歌大跌超12%",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 30/10 07:10 (UTC+7); hotScore 7.236.856."
+        },
+        {
+          "id": "baidu_rt17",
+          "name": "Baidu 百度热搜 (mục #17)",
+          "title": "谷歌重夺大模型第一 华尔街却不买账",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 30/10 07:10 (UTC+7); hotScore 6.376.220; mô tả: Google ra Gemini 4 Carbon, doanh thu đám mây gấp đôi nhưng dòng tiền tự do chuyển âm."
+        }
+      ]
+    },
+    {
+      "id": "20261030-t5-tu-do-ai-dna",
+      "title": "Tủ đồ AI vào Đông Nam Á: Meta thử Style Sketch ở Indonesia, Singapore, Thái Lan",
+      "summary": "Meta lặng lẽ ra app phối đồ AI dựng tủ đồ ảo từ ảnh Instagram, gợi ý bộ đồ và cho thử ảo; mới có ở 3 nước ĐNA. Ở VN, Wardob đã có giao diện tiếng Việt. Cùng lúc Hàn chuộng phong cách ‘đẹp mà không cố’.",
+      "why_it_matters": "Phối đồ bằng AI sắp thành tính năng miễn phí của Big Tech — ý tưởng nhỏ (#7) phải dựa vào stylist người thật và kênh Zalo.",
+      "tags": [
+        "thời trang",
+        "AI",
+        "Đông Nam Á"
+      ],
+      "regions": [
+        "SEA",
+        "KR",
+        "JP"
+      ],
+      "key_facts": [
+        {
+          "text": "Meta Style Sketch có ở Indonesia, Singapore, Thái Lan; tạo tủ đồ ảo, gợi ý phối, thử đồ ảo.",
+          "source_ids": [
+            "tc_stylesketch"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "App phối đồ AI xuất hiện ở cả Big Tech (Meta) và app độc lập có tiếng Việt (Wardob).",
+          "source_ids": [
+            "tc_stylesketch",
+            "wardob"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "id": "tc_stylesketch",
+          "name": "TechCrunch",
+          "title": "Meta quietly launches an AI fashion app called Style Sketch",
+          "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+          "published": "2026-10-29",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "wardob",
+          "name": "Wardob (wardob.com/vi)",
+          "title": "Tủ đồ số, lịch phối đồ và stylist AI | Wardob",
+          "url": "https://wardob.com/vi/",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Trang chủ app có tiếng Việt — đối thủ trực tiếp."
+        },
+        {
+          "id": "kh_hyunbaek",
+          "name": "The Korea Herald",
+          "title": "Young Koreans want the nepo baby look. It’s called ‘Hyunbaek-core’",
+          "url": "https://www.koreaherald.com/article/10907469",
+          "published": "2026-10-19",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "20261030-01-ship-khong-toi",
+      "date": "2026-10-30",
+      "title": "“Ship không tới” — web game đặt món ảo kiểu Việt: chọn bún chả, trà sữa, chốt đơn… rồi nhận thông báo ‘bạn vừa tiết kiệm được một bữa’",
+      "pitch": "Trào lưu ‘đặt đồ ăn không bao giờ tới’ đi từ Hàn sang Ấn Độ rồi Trung Quốc. Làm bản Việt hóa vui: thực đơn quán vỉa hè Hà Nội, shipper ảo gọi điện ‘em đứng dưới sảnh mà không thấy nhà’, cuối cùng hiện số tiền và calo đã ‘tiết kiệm’. Kiếm tiền bằng quảng cáo/tài trợ từ thương hiệu bữa ăn lành mạnh hoặc app tiết kiệm — KHÔNG giữ tiền người dùng.",
+      "type": "startup",
+      "category": [
+        "content",
+        "ai"
+      ],
+      "tags": [
+        "dopamine",
+        "tiết kiệm",
+        "web game",
+        "đồ ăn",
+        "Gen Z"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Chưa tìm thấy bản tiếng Việt khi tra 30/10 (một lượt tìm — chưa kết luận chắc). Độ hot có thể ngắn; mô hình kiếm tiền (tài trợ, quảng cáo) là giả thuyết. Mô hình ‘nạp tiền vào hũ’ như một số bản TQ bị luật sư cảnh báo rủi ro pháp lý — loại bỏ khỏi ý tưởng.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261030-01-ship-khong-toi.webp",
+      "image_alt": "Điện thoại hiện bản đồ giao hàng với xe máy chạy vòng quanh và tô bún cùng ly trà sữa bay lơ lửng",
+      "toolstack": {
+        "confidence": "cao",
+        "wow": "Cuộc gọi ‘shipper lạc đường’ bằng giọng tiếng Việt tự nhiên ở bước cuối — đúng chi tiết khiến bản Ấn Độ lan truyền — cộng thẻ ảnh ‘đã tiết kiệm’ để khoe.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Viết thực đơn, lời thoại shipper, code giao diện web game.",
+            "why": "Mạnh về viết tiếng Việt hài và code front-end; Free $0, Pro $17/tháng (trả năm) hoặc $20 (trả tháng) — mở lại claude.com/pricing 30/10, khớp.",
+            "alt_ids": [
+              "chatgpt",
+              "gemini"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vercel",
+            "role": "Lưu trữ web game.",
+            "why": "Hobby $0, Pro $20/tháng — mở lại trang giá 30/10, khớp.",
+            "alt_ids": [
+              "cloudflare_pages"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "supabase",
+            "role": "Đếm tổng tiền ‘đã tiết kiệm’, bảng xếp hạng ẩn danh.",
+            "why": "Free 50.000 MAU, 500 MB; Pro từ $25 — mở lại 30/10, khớp.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "nano_banana",
+            "role": "Tạo ảnh minh họa 30 món ăn cùng một phong cách.",
+            "why": "API khoảng $0,067/ảnh 1K — mở lại bảng giá Gemini API 30/10, khớp.",
+            "alt_ids": [
+              "seedream"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "elevenlabs",
+            "role": "Giọng ‘shipper’ tiếng Việt cho cuộc gọi cuối.",
+            "why": "Free 10k credit; Starter $6/tháng có giấy phép thương mại (tháng đầu $1 khuyến mãi) — mở lại 30/10, khớp.",
+            "alt_ids": [
+              "fish_audio"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip TikTok ‘đặt món đêm khuya’.",
+            "why": "Free; Pro USD 19,99/tháng — mở lại 30/10, khớp.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "cloudflare_pages",
+            "supabase",
+            "fish_audio"
+          ],
+          "monthly_cost_note": "≈ $0/tháng (gói Free; Fish Audio Free giới hạn, cần kiểm tra quyền thương mại).",
+          "tradeoff": "Ít ảnh món, giọng shipper ngắn; bản Free giọng nói có thể không cho dùng thương mại."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "vercel",
+            "supabase",
+            "nano_banana",
+            "elevenlabs",
+            "capcut"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $0–20 (Vercel) + $0–25 (Supabase) + khoảng $2 ảnh (30 ảnh × $0,067) + $6 (ElevenLabs Starter) + $19,99 (CapCut Pro) ≈ $45–95/tháng.",
+          "tradeoff": "Đẹp, có giọng thật, chịu tải khi viral; chi phí tăng theo lượt chơi."
+        },
+        "checked": "2026-10-30"
+      },
+      "regions": [
+        "KR",
+        "IN",
+        "CN",
+        "VN"
+      ],
+      "signal_text": "Hàn: web ‘FoodNeverArrives’ có khoảng 30.000 người/tuần ‘giả vờ đặt món’ vào giữa tháng 6 (JoongAng Daily); Seoul Economic Daily gọi đây là ‘tiêu dùng dopamine’ thời giá cao. Ấn Độ: FoodNeverComes hơn 2,7 triệu lượt truy cập từ tháng 6, có cuộc gọi ‘shipper’ do AI tạo (BBC 24/9). TQ: 中国消费者报 (27/10) nói ‘模拟外卖’ đang lặng lẽ nổi, có bản ‘nạp tiền vào hũ’ bị luật sư cảnh báo. VN: Báo Tin tức (21/7) đã đưa tin trào lưu.",
+      "vn_youth_fit": "49% Gen Z Việt tuân thủ nghiêm hạn mức chi ăn uống ngoài, 45% coi ‘đáng tiền’ là yếu tố quyết định (ngan-sach); Facebook, Zalo, YouTube phổ biến nhất, Gen Z coi TikTok là nền tảng video ngắn số 1 (mxh-top, genz-app) → nội dung ‘đặt món ảo’ dễ thành clip chia sẻ.",
+      "vn_fit_refs": [
+        "ngan-sach",
+        "mxh-top",
+        "genz-app"
+      ],
+      "from_keywords": [
+        "kw-cn-17",
+        "kw-cn-14",
+        "kw-global-02"
+      ],
+      "key_facts": [
+        {
+          "text": "Web ‘đặt món ảo’ mô phỏng trọn quy trình: chọn món, thanh toán giả, theo dõi shipper, cuối cùng báo số tiền và calo ‘đã tiết kiệm’.",
+          "source_ids": [
+            "sedaily_fake",
+            "joongang_fake",
+            "bbc_foodnevercomes"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "FoodNeverArrives (Hàn): khoảng 30.000 người mỗi tuần ‘giả vờ đặt món’ vào giữa tháng 6/2026.",
+          "source_ids": [
+            "joongang_fake"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "FoodNeverComes (Ấn Độ) do hai lập trình viên 26 tuổi làm: hơn 2,7 triệu lượt truy cập từ tháng 6; 22 ‘bếp’, 327 món, 319 công thức thật; có cuộc gọi ‘shipper không tìm thấy nhà’ do AI tạo.",
+          "source_ids": [
+            "bbc_foodnevercomes"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "TQ: một số bản ‘模拟外卖’ cho người dùng nạp tiền thật vào ‘hũ tiết kiệm’; luật sư Mã Truyền Lương cảnh báo nếu hình thành ‘quỹ tiền’ do nền tảng chi phối thì có rủi ro pháp lý, cùng rủi ro thu thập thông tin cá nhân.",
+          "source_ids": [
+            "chinanews_moni"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Báo Tin tức (TTXVN) 21/7 đã giới thiệu ‘ứng dụng dopamine’ — mua sắm, đặt đồ ăn nhưng không giao hàng — như trào lưu từ Hàn lan ra toàn cầu.",
+          "source_ids": [
+            "baotintuc_dopamine"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "joongang_fake",
+          "name": "Korea JoongAng Daily",
+          "title": "Why Korea’s ‘dopamine sites’ let users shop and order food without spending money",
+          "url": "https://www.koreajoongangdaily.com/lifestyle/these-brainhacking-services-let-you-buy-absolutely-nothing-but-leave-you-feeling-richer/12751624",
+          "published": "2026-07-03",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bài cũ gần 4 tháng — dùng làm bối cảnh khởi phát ở Hàn."
+        },
+        {
+          "id": "sedaily_fake",
+          "name": "Seoul Economic Daily",
+          "title": "'Fake Delivery Apps' Win Over Korea's Gen Z in Era of High Prices",
+          "url": "https://en.sedaily.com/culture/2026/06/29/fake-delivery-apps-win-over-koreas-gen-z-in-era-of-high",
+          "published": "2026-06-29",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bài cũ 4 tháng — bối cảnh; dẫn lại báo The Times (Anh)."
+        },
+        {
+          "id": "bbc_foodnevercomes",
+          "name": "BBC News (phóng viên Ấn Độ)",
+          "title": "FoodNeverComes: the Indian site where you order food that never arrives",
+          "url": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo",
+          "published": "2026-09-24",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bài hơn 1 tháng; tiêu đề tiếng Việt tự dịch theo nội dung."
+        },
+        {
+          "id": "chinanews_moni",
+          "name": "中新网 (中国消费者报)",
+          "title": "“模拟外卖点餐”悄然走红，真风险须规避",
+          "url": "https://www.chinanews.com/sh/2026/10-27/10721777.shtml",
+          "published": "2026-10-27",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "baotintuc_dopamine",
+          "name": "Báo Tin tức (TTXVN)",
+          "title": "Trào lưu mới: Mua sắm, gọi đồ ăn nhưng không bao giờ nhận hàng",
+          "url": "https://baotintuc.vn/trao-luu-moi-mua-sam-goi-do-an-nhung-khong-bao-gio-nhan-hang-post984180.html",
+          "published": "2026-07-21",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bài cũ hơn 3 tháng — cho thấy báo VN đã đưa tin trào lưu."
+        }
+      ],
+      "localize_vn": "Giả thuyết: thực đơn 30 món ‘quốc dân’ (bún chả, phở, bánh mì, trà sữa, lẩu), giá thật tham khảo; chế độ ‘đặt đêm khuya 23h’ cho người hay ăn đêm; thẻ ‘Hôm nay mình tiết kiệm X đồng’ để chia sẻ TikTok/Zalo. Không dùng logo, màu nhận diện của ShopeeFood/GrabFood.",
+      "localize_global": "Có thể làm thêm bản tiếng Anh cho khách du lịch ‘ẩm thực Việt ảo’ — chưa kiểm tra nhu cầu.",
+      "first_steps": [
+        "Ngày 1: Claude viết thực đơn 30 món, lời thoại shipper hài, luồng đặt món; dựng web trên Vercel.",
+        "Ngày 2: Nano Banana tạo ảnh món (phong cách minh họa, không giả ảnh quán thật); ElevenLabs thu giọng shipper tiếng Việt.",
+        "Ngày 3: Supabase đếm tổng tiền ‘đã tiết kiệm’ toàn cộng đồng (ẩn danh, không lưu địa chỉ thật).",
+        "Ngày 4–5: quay 3 clip CapCut ‘đặt món lúc 23h’; đăng TikTok và nhóm sinh viên.",
+        "Ngày 6–7: đo lượt chơi, tỷ lệ chia sẻ thẻ; quyết định đi tiếp/dừng."
+      ],
+      "capital": {
+        "vnd_min_m": 0,
+        "vnd_max_m": 3,
+        "usd_min": 0,
+        "usd_max": 115,
+        "note": "Tên miền, vài USD API ảnh/giọng; hạ tầng gói miễn phí."
+      },
+      "risks": [
+        "Trào lưu ngắn hạn, khó giữ người dùng quay lại.",
+        "Không được nhận tiền nạp hay giữ tiền hộ người dùng (rủi ro pháp lý như luật sư TQ cảnh báo).",
+        "Tránh vi phạm nhãn hiệu: không mô phỏng giao diện, logo app giao đồ ăn thật.",
+        "Kiếm tiền bằng tài trợ là giả thuyết, chưa có bằng chứng ở VN."
+      ],
+      "scores": {
+        "ease": 9,
+        "demand": 6,
+        "novelty": 6,
+        "lowcap": 9,
+        "signal": 8,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là game designer kiêm lập trình viên web, chuyên làm web game vui lan truyền trên TikTok. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Ship không tới” — web game đặt món ảo kiểu Việt: chọn bún chả, trà sữa, chốt đơn… rồi nhận thông báo ‘bạn vừa tiết kiệm được một bữa’\nTóm tắt: Trào lưu ‘đặt đồ ăn không bao giờ tới’ đi từ Hàn sang Ấn Độ rồi Trung Quốc. Làm bản Việt hóa vui: thực đơn quán vỉa hè Hà Nội, shipper ảo gọi điện ‘em đứng dưới sảnh mà không thấy nhà’, cuối cùng hiện số tiền và calo đã ‘tiết kiệm’. Kiếm tiền bằng quảng cáo/tài trợ từ thương hiệu bữa ăn lành mạnh hoặc app tiết kiệm — KHÔNG giữ tiền người dùng.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: KR, IN, CN, VN\nHàn: web ‘FoodNeverArrives’ có khoảng 30.000 người/tuần ‘giả vờ đặt món’ vào giữa tháng 6 (JoongAng Daily); Seoul Economic Daily gọi đây là ‘tiêu dùng dopamine’ thời giá cao. Ấn Độ: FoodNeverComes hơn 2,7 triệu lượt truy cập từ tháng 6, có cuộc gọi ‘shipper’ do AI tạo (BBC 24/9). TQ: 中国消费者报 (27/10) nói ‘模拟外卖’ đang lặng lẽ nổi, có bản ‘nạp tiền vào hũ’ bị luật sư cảnh báo. VN: Báo Tin tức (21/7) đã đưa tin trào lưu.\nDữ kiện chi tiết (kèm mức xác minh):\n- Web ‘đặt món ảo’ mô phỏng trọn quy trình: chọn món, thanh toán giả, theo dõi shipper, cuối cùng báo số tiền và calo ‘đã tiết kiệm’. [2+ nguồn độc lập]\n- FoodNeverArrives (Hàn): khoảng 30.000 người mỗi tuần ‘giả vờ đặt món’ vào giữa tháng 6/2026. [1 nguồn gốc]\n- FoodNeverComes (Ấn Độ) do hai lập trình viên 26 tuổi làm: hơn 2,7 triệu lượt truy cập từ tháng 6; 22 ‘bếp’, 327 món, 319 công thức thật; có cuộc gọi ‘shipper không tìm thấy nhà’ do AI tạo. [1 nguồn gốc]\n- TQ: một số bản ‘模拟外卖’ cho người dùng nạp tiền thật vào ‘hũ tiết kiệm’; luật sư Mã Truyền Lương cảnh báo nếu hình thành ‘quỹ tiền’ do nền tảng chi phối thì có rủi ro pháp lý, cùng rủi ro thu thập thông tin cá nhân. [1 nguồn gốc]\n- Báo Tin tức (TTXVN) 21/7 đã giới thiệu ‘ứng dụng dopamine’ — mua sắm, đặt đồ ăn nhưng không giao hàng — như trào lưu từ Hàn lan ra toàn cầu. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Chưa tìm thấy bản tiếng Việt khi tra 30/10 (một lượt tìm — chưa kết luận chắc). Độ hot có thể ngắn; mô hình kiếm tiền (tài trợ, quảng cáo) là giả thuyết. Mô hình ‘nạp tiền vào hũ’ như một số bản TQ bị luật sư cảnh báo rủi ro pháp lý — loại bỏ khỏi ý tưởng.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\n49% Gen Z Việt tuân thủ nghiêm hạn mức chi ăn uống ngoài, 45% coi ‘đáng tiền’ là yếu tố quyết định (ngan-sach); Facebook, Zalo, YouTube phổ biến nhất, Gen Z coi TikTok là nền tảng video ngắn số 1 (mxh-top, genz-app) → nội dung ‘đặt món ảo’ dễ thành clip chia sẻ.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: thực đơn 30 món ‘quốc dân’ (bún chả, phở, bánh mì, trà sữa, lẩu), giá thật tham khảo; chế độ ‘đặt đêm khuya 23h’ cho người hay ăn đêm; thẻ ‘Hôm nay mình tiết kiệm X đồng’ để chia sẻ TikTok/Zalo. Không dùng logo, màu nhận diện của ShopeeFood/GrabFood.\n\n## 4. Ràng buộc\n- Vốn: khoảng 0–3 triệu VND (Tên miền, vài USD API ảnh/giọng; hạ tầng gói miễn phí.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Không dùng logo/giao diện của app giao đồ ăn thật; không nhận nạp tiền hay giữ tiền người dùng; không thu địa chỉ, số điện thoại thật. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Trào lưu ngắn hạn, khó giữ người dùng quay lại.\n- Không được nhận tiền nạp hay giữ tiền hộ người dùng (rủi ro pháp lý như luật sư TQ cảnh báo).\n- Tránh vi phạm nhãn hiệu: không mô phỏng giao diện, logo app giao đồ ăn thật.\n- Kiếm tiền bằng tài trợ là giả thuyết, chưa có bằng chứng ở VN.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Viết thực đơn, lời thoại shipper, code giao diện web game.\n- Vercel: Lưu trữ web game.\n- Supabase: Đếm tổng tiền ‘đã tiết kiệm’, bảng xếp hạng ẩn danh.\n- Nano Banana (Gemini image, Google): Tạo ảnh minh họa 30 món ăn cùng một phong cách.\n- ElevenLabs: Giọng ‘shipper’ tiếng Việt cho cuộc gọi cuối.\n- CapCut: Clip TikTok ‘đặt món đêm khuya’.\n  Bản tiết kiệm: Claude (Anthropic), Cloudflare Pages / Workers, Supabase, Fish Audio. Bản cao cấp: Claude (Anthropic), Vercel, Supabase, Nano Banana (Gemini image, Google), ElevenLabs, CapCut.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude viết thực đơn 30 món, lời thoại shipper hài, luồng đặt món; dựng web trên Vercel.\n- Ngày 2: Nano Banana tạo ảnh món (phong cách minh họa, không giả ảnh quán thật); ElevenLabs thu giọng shipper tiếng Việt.\n- Ngày 3: Supabase đếm tổng tiền ‘đã tiết kiệm’ toàn cộng đồng (ẩn danh, không lưu địa chỉ thật).\n- Ngày 4–5: quay 3 clip CapCut ‘đặt món lúc 23h’; đăng TikTok và nhóm sinh viên.\n- Ngày 6–7: đo lượt chơi, tỷ lệ chia sẻ thẻ; quyết định đi tiếp/dừng.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Đặc tả 1 trang: luồng chọn món → thanh toán giả → shipper chạy → cuộc gọi → thẻ ‘đã tiết kiệm’\n2. Mã nguồn web (HTML/JS + Supabase) kèm hướng dẫn deploy Vercel\n3. Thực đơn 30 món Hà Nội với giá tham khảo [cần xác minh] và mô tả hài\n4. 10 kịch bản thoại shipper tiếng Việt (mỗi cái ≤ 20 giây)\n5. Kịch bản 3 clip TikTok và bảng chỉ số đi tiếp/dừng\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 7.48,
+      "rank": 1
+    },
+    {
+      "id": "20261030-06-ban-do-quan-chua-tang-gia",
+      "date": "2026-10-30",
+      "title": "“Quán chưa tăng giá” — bản đồ cộng đồng Hà Nội: món dưới 40k, giá chụp từ thực đơn có ngày, ai cũng báo được khi quán tăng giá",
+      "pitch": "Ở Nhật, Tenya tăng giá tô tendon từ 500 lên 730 yên và mất khoảng 10% khách hai tháng liền — chủ đề top 1 Yahoo realtime sáng 30/10. Ở VN, xăng vừa tăng tiếp. Làm bản đồ web: mỗi quán một ghim, giá món chủ lực, ảnh thực đơn có ngày chụp, nhãn ‘giữ giá từ tháng…’. Người dùng gửi cập nhật qua Zalo; quán ‘giữ giá’ được huy hiệu. Kiếm tiền: quán trả phí nhỏ để được ‘xác nhận giá’, hoặc tài trợ.",
+      "type": "startup",
+      "category": [
+        "content",
+        "fnb"
+      ],
+      "tags": [
+        "giá cả",
+        "bản đồ",
+        "cộng đồng",
+        "ăn rẻ",
+        "Hà Nội"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Đã có nhiều danh sách ‘quán dưới 30k’ trên Foody/TikTok — điểm mới là dữ liệu giá có ngày và lịch sử tăng giá; chưa kiểm chứng người dùng chịu đóng góp. Mô hình thu phí quán là giả thuyết.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261030-06-ban-do-quan-chua-tang-gia.webp",
+      "image_alt": "Bản đồ phố có các ghim tròn hình bát cơm và ly trà, một ghim gắn huy hiệu ngôi sao giữ giá",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Mỗi quán có ‘đồ thị giá’ nhỏ theo thời gian — thấy ngay quán nào giữ giá cả năm.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Thiết kế dữ liệu, code bản đồ, đọc ảnh thực đơn để gợi ý giá (người kiểm lại).",
+            "why": "Free $0, Pro $17/tháng (trả năm) — mở lại 30/10, khớp.",
+            "alt_ids": [
+              "gemini"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "supabase",
+            "role": "Lưu quán, giá, lịch sử, ảnh.",
+            "why": "Free 50.000 MAU, 1 GB file — mở lại 30/10, khớp.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vercel",
+            "role": "Lưu trữ web bản đồ.",
+            "why": "Hobby $0, Pro $20/tháng — mở lại 30/10, khớp.",
+            "alt_ids": [
+              "cloudflare_pages"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận ảnh thực đơn từ người dùng.",
+            "why": "Trang chủ OA đọc được 30/10; bảng giá chưa đọc được.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Video ‘bảng tăng giá tuần’.",
+            "why": "Free; Pro USD 19,99/tháng — mở lại 30/10, khớp.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "supabase",
+            "cloudflare_pages"
+          ],
+          "monthly_cost_note": "≈ $0/tháng (gói Free).",
+          "tradeoff": "Nhận cập nhật qua form web, chưa có Zalo."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "supabase",
+            "vercel",
+            "zalo_oa",
+            "capcut"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude) + $0–25 (Supabase) + $0–20 (Vercel) + phí OA [chưa xác minh] + $19,99 (CapCut) ≈ $40–85/tháng.",
+          "tradeoff": "Dễ đóng góp hơn qua Zalo; phải kiểm duyệt ảnh."
+        },
+        "checked": "2026-10-30"
+      },
+      "regions": [
+        "JP",
+        "CN",
+        "VN"
+      ],
+      "signal_text": "Nhật: Yahoo realtime 30/10 #1 ‘天丼てんや、500円から730円へ値上げで客足約1割減’; J-CAST (29/10): giá tô tendon tăng 46% từ 500 lên 730 yên, số khách giảm khoảng 1 phần 10 hai tháng liền (theo số liệu hằng tháng của Royal Holdings). TQ: người tiêu dùng chuyển sang ‘明码标价’ (giá niêm yết rõ) — chính quyền Thẩm Dương (11/10). VN: giá xăng E5 RON 92 tăng 660 đồng lên 26.020 đồng/lít ngày 29/10 (VnExpress).",
+      "vn_youth_fit": "84% người Việt đặt hạn mức chi ăn uống ngoài, 49% Gen Z tuân thủ nghiêm (ngan-sach); Zalo được 89% người dùng sử dụng (mxh-top) → kênh gửi ảnh thực đơn quen thuộc.",
+      "vn_fit_refs": [
+        "ngan-sach",
+        "mxh-top"
+      ],
+      "from_keywords": [
+        "kw-jp-11",
+        "kw-global-02"
+      ],
+      "key_facts": [
+        {
+          "text": "Tenya (Nhật) tăng giá tô tendon từ 500 lên 730 yên (+46%); số khách giảm khoảng 10% hai tháng liên tiếp.",
+          "source_ids": [
+            "jcast_tenya",
+            "yahoojp_rt1"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Chủ đề Tenya tăng giá đứng #1 bảng tóm tắt chủ đề nóng Yahoo realtime sáng 30/10.",
+          "source_ids": [
+            "yahoojp_rt1"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Thẩm Dương: nhiều người dân ưa mô hình ‘niêm yết giá rõ, giới hạn thời gian dịch vụ, không làm thẻ’.",
+          "source_ids": [
+            "shenyang_kuaijian"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "VN: ngày 29/10 xăng E10 RON 95-III tăng 520 đồng lên 25.730 đồng/lít; E5 RON 92 tăng 660 đồng lên 26.020 đồng/lít.",
+          "source_ids": [
+            "vnexpress_xang"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "yahoojp_rt1",
+          "name": "Yahoo! JAPAN リアルタイム検索 — バズまとめ (mục #1)",
+          "title": "天丼てんや、500円から730円へ値上げで客足約1割減　「高すぎ」という声も一部で見られる",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome/b8dc8ed2cbfa4d49bec4893d971d4a37-1793289000",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Tóm tắt do AI của Yahoo tạo từ bài đăng trên X; chụp 30/10 07:10 (UTC+7)."
+        },
+        {
+          "id": "jcast_tenya",
+          "name": "J-CAST ニュース",
+          "title": "500円だった天丼が730円...「てんや」深刻な客離れ　2か月連続で客数約1割減",
+          "url": "https://www.j-cast.com/2026/10/29518784.html",
+          "published": "2026-10-29",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "royal_tenya",
+          "name": "ロイヤルホールディングス (IR)",
+          "title": "てんや月次売上",
+          "url": "https://www.royal-holdings.co.jp/ir/finance/sales/tenya/",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Trang IR mở được nhưng bảng số liệu không tách được bằng công cụ — chỉ dùng để xác nhận nguồn gốc số liệu mà J-CAST dẫn."
+        },
+        {
+          "id": "shenyang_kuaijian",
+          "name": "沈阳市人民政府 (trang tin)",
+          "title": "社区微业态织密“一刻钟便民服务矩阵”",
+          "url": "https://www.shenyang.gov.cn/zwgk/zwdt/bxgz/202610/t20261011_5101346.html",
+          "published": "2026-10-11",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "vnexpress_xang",
+          "name": "VnExpress",
+          "title": "Giá xăng dầu hôm nay 29/10: cùng tăng",
+          "url": "https://vnexpress.net/gia-xang-dau-cung-tang-5138351.html",
+          "published": "2026-10-29",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Giả thuyết: bắt đầu với 100 quán quanh 3 trường đại học ở Cầu Giấy–Đống Đa; mỗi ghim có giá món chủ lực, ngày chụp, người cập nhật; ‘Bảng tăng giá tuần’ đăng TikTok mỗi chủ nhật. Không chấm điểm vệ sinh/chất lượng để tránh tranh chấp.",
+      "localize_global": "Không áp dụng.",
+      "first_steps": [
+        "Ngày 1: Claude thiết kế dữ liệu (quán, món, giá, ngày, ảnh, người gửi) và luật đóng góp.",
+        "Ngày 2–3: dựng bản đồ web trên Vercel + Supabase; nhận ảnh qua Zalo OA.",
+        "Ngày 4–5: tự đi chụp 50 thực đơn quanh trường; mời 20 sinh viên gửi thêm.",
+        "Ngày 6: video CapCut ‘5 quán chưa tăng giá’.",
+        "Ngày 7: đo lượt xem, số cập nhật gửi về; quyết định."
+      ],
+      "capital": {
+        "vnd_min_m": 0,
+        "vnd_max_m": 3,
+        "usd_min": 0,
+        "usd_max": 115,
+        "note": "Tên miền, quảng cáo nhỏ; đi khảo sát quán bằng xe máy."
+      },
+      "risks": [
+        "Dữ liệu giá cũ nhanh — cần cộng đồng cập nhật đều.",
+        "Quán phản đối khi bị ghi ‘đã tăng giá’ — chỉ đăng dữ kiện có ảnh và ngày.",
+        "Cạnh tranh với Foody, Google Maps, TikTok review.",
+        "Thu phí quán dễ làm mất tính khách quan — tách rõ ‘đã xác nhận’ và ‘quảng cáo’."
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 7,
+        "novelty": 5,
+        "lowcap": 9,
+        "signal": 6,
+        "vnfit": 8
+      },
+      "claude_prompt": "Bạn là kỹ sư dữ liệu kiêm người xây cộng đồng ẩm thực địa phương. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Quán chưa tăng giá” — bản đồ cộng đồng Hà Nội: món dưới 40k, giá chụp từ thực đơn có ngày, ai cũng báo được khi quán tăng giá\nTóm tắt: Ở Nhật, Tenya tăng giá tô tendon từ 500 lên 730 yên và mất khoảng 10% khách hai tháng liền — chủ đề top 1 Yahoo realtime sáng 30/10. Ở VN, xăng vừa tăng tiếp. Làm bản đồ web: mỗi quán một ghim, giá món chủ lực, ảnh thực đơn có ngày chụp, nhãn ‘giữ giá từ tháng…’. Người dùng gửi cập nhật qua Zalo; quán ‘giữ giá’ được huy hiệu. Kiếm tiền: quán trả phí nhỏ để được ‘xác nhận giá’, hoặc tài trợ.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: JP, CN, VN\nNhật: Yahoo realtime 30/10 #1 ‘天丼てんや、500円から730円へ値上げで客足約1割減’; J-CAST (29/10): giá tô tendon tăng 46% từ 500 lên 730 yên, số khách giảm khoảng 1 phần 10 hai tháng liền (theo số liệu hằng tháng của Royal Holdings). TQ: người tiêu dùng chuyển sang ‘明码标价’ (giá niêm yết rõ) — chính quyền Thẩm Dương (11/10). VN: giá xăng E5 RON 92 tăng 660 đồng lên 26.020 đồng/lít ngày 29/10 (VnExpress).\nDữ kiện chi tiết (kèm mức xác minh):\n- Tenya (Nhật) tăng giá tô tendon từ 500 lên 730 yên (+46%); số khách giảm khoảng 10% hai tháng liên tiếp. [2+ nguồn độc lập]\n- Chủ đề Tenya tăng giá đứng #1 bảng tóm tắt chủ đề nóng Yahoo realtime sáng 30/10. [1 nguồn gốc]\n- Thẩm Dương: nhiều người dân ưa mô hình ‘niêm yết giá rõ, giới hạn thời gian dịch vụ, không làm thẻ’. [1 nguồn gốc]\n- VN: ngày 29/10 xăng E10 RON 95-III tăng 520 đồng lên 25.730 đồng/lít; E5 RON 92 tăng 660 đồng lên 26.020 đồng/lít. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Đã có nhiều danh sách ‘quán dưới 30k’ trên Foody/TikTok — điểm mới là dữ liệu giá có ngày và lịch sử tăng giá; chưa kiểm chứng người dùng chịu đóng góp. Mô hình thu phí quán là giả thuyết.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\n84% người Việt đặt hạn mức chi ăn uống ngoài, 49% Gen Z tuân thủ nghiêm (ngan-sach); Zalo được 89% người dùng sử dụng (mxh-top) → kênh gửi ảnh thực đơn quen thuộc.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: bắt đầu với 100 quán quanh 3 trường đại học ở Cầu Giấy–Đống Đa; mỗi ghim có giá món chủ lực, ngày chụp, người cập nhật; ‘Bảng tăng giá tuần’ đăng TikTok mỗi chủ nhật. Không chấm điểm vệ sinh/chất lượng để tránh tranh chấp.\n\n## 4. Ràng buộc\n- Vốn: khoảng 0–3 triệu VND (Tên miền, quảng cáo nhỏ; đi khảo sát quán bằng xe máy.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Chỉ đăng dữ kiện có ảnh và ngày; không chấm điểm vệ sinh; cơ chế gỡ/sửa khi quán khiếu nại; không thu thập dữ liệu cá nhân thừa của người gửi. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Dữ liệu giá cũ nhanh — cần cộng đồng cập nhật đều.\n- Quán phản đối khi bị ghi ‘đã tăng giá’ — chỉ đăng dữ kiện có ảnh và ngày.\n- Cạnh tranh với Foody, Google Maps, TikTok review.\n- Thu phí quán dễ làm mất tính khách quan — tách rõ ‘đã xác nhận’ và ‘quảng cáo’.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Thiết kế dữ liệu, code bản đồ, đọc ảnh thực đơn để gợi ý giá (người kiểm lại).\n- Supabase: Lưu quán, giá, lịch sử, ảnh.\n- Vercel: Lưu trữ web bản đồ.\n- Zalo Official Account (OA): Nhận ảnh thực đơn từ người dùng.\n- CapCut: Video ‘bảng tăng giá tuần’.\n  Bản tiết kiệm: Claude (Anthropic), Supabase, Cloudflare Pages / Workers. Bản cao cấp: Claude (Anthropic), Supabase, Vercel, Zalo Official Account (OA), CapCut.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude thiết kế dữ liệu (quán, món, giá, ngày, ảnh, người gửi) và luật đóng góp.\n- Ngày 2–3: dựng bản đồ web trên Vercel + Supabase; nhận ảnh qua Zalo OA.\n- Ngày 4–5: tự đi chụp 50 thực đơn quanh trường; mời 20 sinh viên gửi thêm.\n- Ngày 6: video CapCut ‘5 quán chưa tăng giá’.\n- Ngày 7: đo lượt xem, số cập nhật gửi về; quyết định.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Lược đồ dữ liệu (bảng quán, món, giá, ảnh, người gửi)\n2. Mã nguồn web bản đồ (Leaflet/OpenStreetMap hoặc tương tự [cần xác minh điều khoản]) + Supabase\n3. Luật đóng góp và quy trình xử lý khiếu nại\n4. Mẫu tin Zalo nhận ảnh thực đơn\n5. Kịch bản video ‘5 quán chưa tăng giá’ và bảng chỉ số\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 7.12,
+      "rank": 2
+    },
+    {
+      "id": "20261030-02-giai-ma-tin-nhan-sep",
+      "date": "2026-10-30",
+      "title": "“Giải mã tin nhắn sếp” — bot Zalo đọc tin nhắn công việc khó hiểu, đoán ý và gợi 3 câu trả lời đúng mực cho người mới đi làm",
+      "pitch": "Ở Nhật đang tranh cãi ‘了解です’ có vô lễ với sếp không; ở Hàn, Gen Z coi AI là chỗ hỏi ý kiến thứ hai sau bạn bè. Làm bot Zalo/web: dán tin nhắn sếp hoặc khách (‘Ok em’, ‘Em xem lại nhé’, ‘.’), AI giải thích các cách hiểu có thể có, mức độ cần lo, và gợi 3 câu trả lời (lễ phép / vừa phải / thân). Thu phí gói tháng nhỏ hoặc bán gói cho phòng nhân sự đào tạo nhân viên mới.",
+      "type": "startup",
+      "category": [
+        "ai",
+        "service"
+      ],
+      "tags": [
+        "Gen Z",
+        "công sở",
+        "giao tiếp",
+        "Zalo bot",
+        "người mới đi làm"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Ở VN đã có Nói Khéo (viết lại câu cho chuyên nghiệp) — điểm khác là ‘giải mã’ tin nhắn nhận được; chưa kiểm chứng người dùng có trả tiền không. AI đoán ý người khác có thể sai — phải ghi rõ chỉ là gợi ý.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261030-02-giai-ma-tin-nhan-sep.webp",
+      "image_alt": "Bong bóng tin nhắn có dấu chấm bí ẩn được kính lúp soi ra ba bong bóng gợi ý màu khác nhau",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Mỗi tin nhắn được ‘giải mã’ thành thẻ 3 màu (an toàn / nên hỏi lại / cần trả lời ngay) kèm 3 câu trả lời mẫu bấm là copy.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Phân tích ngữ cảnh, giải mã tin nhắn, viết 3 câu trả lời.",
+            "why": "Tiếng Việt tự nhiên, giữ giọng lịch sự; Free $0, Pro $17/tháng (trả năm) — mở lại 30/10, khớp.",
+            "alt_ids": [
+              "chatgpt",
+              "gemini"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vercel",
+            "role": "Web app dán tin nhắn.",
+            "why": "Hobby $0, Pro $20/tháng — mở lại 30/10, khớp.",
+            "alt_ids": [
+              "cloudflare_pages"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "supabase",
+            "role": "Lưu tài khoản, lượt dùng (không lưu nội dung tin nhắn).",
+            "why": "Free 50.000 MAU — mở lại 30/10, khớp.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Kênh bot trong Zalo.",
+            "why": "Trang chủ OA đọc được 30/10; bảng giá gói nâng cao chưa đọc được — cần kiểm tra.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip TikTok tình huống công sở.",
+            "why": "Free; Pro USD 19,99/tháng — mở lại 30/10, khớp.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "cloudflare_pages",
+            "supabase"
+          ],
+          "monthly_cost_note": "≈ $0 hạ tầng + chi phí API theo lượt [cần ước tính].",
+          "tradeoff": "Chỉ có web, chưa có bot Zalo."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "vercel",
+            "supabase",
+            "zalo_oa",
+            "capcut"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude) + $0–20 (Vercel) + $0–25 (Supabase) + phí OA [chưa xác minh] + $19,99 (CapCut) ≈ $40–90/tháng.",
+          "tradeoff": "Có bot Zalo tiện hơn nhưng phụ thuộc chính sách nền tảng."
+        },
+        "checked": "2026-10-30"
+      },
+      "regions": [
+        "JP",
+        "KR",
+        "VN"
+      ],
+      "signal_text": "Nhật: Yahoo realtime 30/10 #8 là tranh cãi ‘了解です’ giữa người trẻ và cấp trên; Diamond Online (22/10) giải thích vì sao ‘承知しました’ lan rộng dù ‘了解しました’ không sai; TBS CROSS DIG (24/10) dẫn khảo sát BCC: khoảng một nửa nhân viên trẻ ngại nghe/gọi điện, nỗi sợ lớn nhất là ‘tai của sếp’. Hàn: khảo sát 1.110 người tìm việc của Jinhaksa Catch — AI tạo sinh là chỗ hỏi ý kiến thứ hai (26%) sau bạn bè (31%) (Korea Herald 8/10). VN: đã có Nói Khéo.",
+      "vn_youth_fit": "81% người dùng Việt tương tác với AI hằng ngày (ai); Zalo được 89% người dùng sử dụng, nằm top 3 nền tảng (mxh-top) — bot trong Zalo đúng chỗ tin nhắn công việc diễn ra. Thất nghiệp thanh niên 15–24 tuổi 8,64% (viec-lam-tre) → người mới vào nghề muốn giữ việc.",
+      "vn_fit_refs": [
+        "ai",
+        "mxh-top",
+        "viec-lam-tre"
+      ],
+      "from_keywords": [
+        "kw-jp-18",
+        "kw-kr-11",
+        "kw-global-03"
+      ],
+      "key_facts": [
+        {
+          "text": "Nhật: tranh cãi ‘了解です’ (vâng/đã rõ) có thất lễ với cấp trên đang được bàn trên mạng xã hội; Diamond Online phân tích vì sao ‘承知しました’ lan rộng dù ‘了解しました’ không sai.",
+          "source_ids": [
+            "yahoojp_rt8",
+            "diamond_keigo"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Khảo sát BCC với 400 nhân viên trẻ (đi làm tối đa 3 năm): 50,8% ngại nghe điện thoại, 48,8% ngại gọi điện.",
+          "source_ids": [
+            "tbs_phone"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hàn: Jinhaksa Catch khảo sát 1.110 người tìm việc — khi gặp vấn đề, 31% hỏi bạn bè trước, 26% hỏi AI tạo sinh; 70% từng tâm sự với AI, trong đó 76% đã làm theo lời khuyên.",
+          "source_ids": [
+            "kh_genz_ai"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "VN đã có Nói Khéo — công cụ AI chuyển câu chữ thành văn phong chuyên nghiệp, dùng Google Gemini.",
+          "source_ids": [
+            "noikheo"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "yahoojp_rt8",
+          "name": "Yahoo! JAPAN リアルタイム検索 — バズまとめ (mục #8)",
+          "title": "「了解です」への批判が広がる、若者と上司の敬語論争がSNSで注目",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome/fc395a7d0e784a8fb29554cf799f5a24-1793300100",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Tóm tắt do AI của Yahoo tạo từ bài đăng trên X; chụp 30/10 07:10 (UTC+7)."
+        },
+        {
+          "id": "diamond_keigo",
+          "name": "ダイヤモンド・オンライン",
+          "title": "「了解しました」は失礼じゃないのに、なぜ「承知しました」が広がった？",
+          "url": "https://diamond.jp/articles/-/401131",
+          "published": "2026-10-22",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "tbs_phone",
+          "name": "TBS CROSS DIG with Bloomberg (qua dメニューニュース)",
+          "title": "電話に怯えるZ世代。本当に怖いのは、クライアントではなく「上司の耳」だった",
+          "url": "https://topics.smt.docomo.ne.jp/article/tbs_bb/business/tbs_bb-3027710",
+          "published": "2026-10-24",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "kh_genz_ai",
+          "name": "The Korea Herald",
+          "title": "[Graphic News] Gen Z turns to AI for personal advice",
+          "url": "https://www.koreaherald.com/article/10896135",
+          "published": "2026-10-08",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "noikheo",
+          "name": "Nói Khéo (noikheo.com)",
+          "title": "Nói Khéo — Công cụ AI chuyển đổi văn phong chuyên nghiệp",
+          "url": "https://noikheo.com/",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Trang chủ sản phẩm VN — đối thủ trực tiếp, dùng Google Gemini."
+        }
+      ],
+      "localize_vn": "Giả thuyết: ‘từ điển công sở Việt’ — giải mã ‘Ok em’, ‘Em check lại giúp anh’, ‘.’, ‘Sao rồi em?’, ‘Ừ’; chọn ngữ cảnh (sếp, khách, đồng nghiệp lớn tuổi, nhóm Zalo công ty). Gói 29.000–49.000đ/tháng [giả thuyết giá]; gói B2B cho nhân sự đào tạo thực tập sinh.",
+      "localize_global": "Bản tiếng Nhật/Hàn đã có nhiều đối thủ tiềm năng — không ưu tiên.",
+      "first_steps": [
+        "Ngày 1: Claude soạn 50 tin nhắn mẫu công sở Việt và cách giải mã; viết prompt hệ thống có cảnh báo ‘chỉ là gợi ý’.",
+        "Ngày 2–3: dựng web trên Vercel, lưu lịch sử ẩn danh trên Supabase; nối Zalo OA để nhận tin.",
+        "Ngày 4: quay 3 clip CapCut ‘sếp nhắn dấu chấm thì sao’.",
+        "Ngày 5–6: thử với 30 sinh viên năm cuối/thực tập sinh; hỏi giá sẵn sàng trả.",
+        "Ngày 7: đo tỷ lệ dùng lại; quyết định."
+      ],
+      "capital": {
+        "vnd_min_m": 0,
+        "vnd_max_m": 4,
+        "usd_min": 0,
+        "usd_max": 154,
+        "note": "Chủ yếu chi phí API AI và quảng cáo thử."
+      },
+      "risks": [
+        "Cạnh tranh với Nói Khéo và chatbot miễn phí (người dùng có thể tự hỏi ChatGPT).",
+        "AI đoán sai ý người gửi — có thể gây hiểu lầm; luôn đưa nhiều cách hiểu.",
+        "Người dùng dán tin nhắn có thông tin công ty — cần chính sách không lưu, xóa sau khi trả lời.",
+        "Zalo OA có giới hạn và chính sách riêng — cần đọc kỹ trước khi làm bot."
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 6,
+        "novelty": 5,
+        "lowcap": 9,
+        "signal": 7,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là chuyên gia giao tiếp công sở Việt Nam kiêm kỹ sư xây chatbot. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Giải mã tin nhắn sếp” — bot Zalo đọc tin nhắn công việc khó hiểu, đoán ý và gợi 3 câu trả lời đúng mực cho người mới đi làm\nTóm tắt: Ở Nhật đang tranh cãi ‘了解です’ có vô lễ với sếp không; ở Hàn, Gen Z coi AI là chỗ hỏi ý kiến thứ hai sau bạn bè. Làm bot Zalo/web: dán tin nhắn sếp hoặc khách (‘Ok em’, ‘Em xem lại nhé’, ‘.’), AI giải thích các cách hiểu có thể có, mức độ cần lo, và gợi 3 câu trả lời (lễ phép / vừa phải / thân). Thu phí gói tháng nhỏ hoặc bán gói cho phòng nhân sự đào tạo nhân viên mới.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: JP, KR, VN\nNhật: Yahoo realtime 30/10 #8 là tranh cãi ‘了解です’ giữa người trẻ và cấp trên; Diamond Online (22/10) giải thích vì sao ‘承知しました’ lan rộng dù ‘了解しました’ không sai; TBS CROSS DIG (24/10) dẫn khảo sát BCC: khoảng một nửa nhân viên trẻ ngại nghe/gọi điện, nỗi sợ lớn nhất là ‘tai của sếp’. Hàn: khảo sát 1.110 người tìm việc của Jinhaksa Catch — AI tạo sinh là chỗ hỏi ý kiến thứ hai (26%) sau bạn bè (31%) (Korea Herald 8/10). VN: đã có Nói Khéo.\nDữ kiện chi tiết (kèm mức xác minh):\n- Nhật: tranh cãi ‘了解です’ (vâng/đã rõ) có thất lễ với cấp trên đang được bàn trên mạng xã hội; Diamond Online phân tích vì sao ‘承知しました’ lan rộng dù ‘了解しました’ không sai. [2+ nguồn độc lập]\n- Khảo sát BCC với 400 nhân viên trẻ (đi làm tối đa 3 năm): 50,8% ngại nghe điện thoại, 48,8% ngại gọi điện. [1 nguồn gốc]\n- Hàn: Jinhaksa Catch khảo sát 1.110 người tìm việc — khi gặp vấn đề, 31% hỏi bạn bè trước, 26% hỏi AI tạo sinh; 70% từng tâm sự với AI, trong đó 76% đã làm theo lời khuyên. [1 nguồn gốc]\n- VN đã có Nói Khéo — công cụ AI chuyển câu chữ thành văn phong chuyên nghiệp, dùng Google Gemini. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Ở VN đã có Nói Khéo (viết lại câu cho chuyên nghiệp) — điểm khác là ‘giải mã’ tin nhắn nhận được; chưa kiểm chứng người dùng có trả tiền không. AI đoán ý người khác có thể sai — phải ghi rõ chỉ là gợi ý.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\n81% người dùng Việt tương tác với AI hằng ngày (ai); Zalo được 89% người dùng sử dụng, nằm top 3 nền tảng (mxh-top) — bot trong Zalo đúng chỗ tin nhắn công việc diễn ra. Thất nghiệp thanh niên 15–24 tuổi 8,64% (viec-lam-tre) → người mới vào nghề muốn giữ việc.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: ‘từ điển công sở Việt’ — giải mã ‘Ok em’, ‘Em check lại giúp anh’, ‘.’, ‘Sao rồi em?’, ‘Ừ’; chọn ngữ cảnh (sếp, khách, đồng nghiệp lớn tuổi, nhóm Zalo công ty). Gói 29.000–49.000đ/tháng [giả thuyết giá]; gói B2B cho nhân sự đào tạo thực tập sinh.\n\n## 4. Ràng buộc\n- Vốn: khoảng 0–4 triệu VND (Chủ yếu chi phí API AI và quảng cáo thử.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Bảo vệ dữ liệu cá nhân: không lưu nội dung tin nhắn người dùng dán vào; cảnh báo không dán bí mật công ty. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Cạnh tranh với Nói Khéo và chatbot miễn phí (người dùng có thể tự hỏi ChatGPT).\n- AI đoán sai ý người gửi — có thể gây hiểu lầm; luôn đưa nhiều cách hiểu.\n- Người dùng dán tin nhắn có thông tin công ty — cần chính sách không lưu, xóa sau khi trả lời.\n- Zalo OA có giới hạn và chính sách riêng — cần đọc kỹ trước khi làm bot.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Phân tích ngữ cảnh, giải mã tin nhắn, viết 3 câu trả lời.\n- Vercel: Web app dán tin nhắn.\n- Supabase: Lưu tài khoản, lượt dùng (không lưu nội dung tin nhắn).\n- Zalo Official Account (OA): Kênh bot trong Zalo.\n- CapCut: Clip TikTok tình huống công sở.\n  Bản tiết kiệm: Claude (Anthropic), Cloudflare Pages / Workers, Supabase. Bản cao cấp: Claude (Anthropic), Vercel, Supabase, Zalo Official Account (OA), CapCut.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude soạn 50 tin nhắn mẫu công sở Việt và cách giải mã; viết prompt hệ thống có cảnh báo ‘chỉ là gợi ý’.\n- Ngày 2–3: dựng web trên Vercel, lưu lịch sử ẩn danh trên Supabase; nối Zalo OA để nhận tin.\n- Ngày 4: quay 3 clip CapCut ‘sếp nhắn dấu chấm thì sao’.\n- Ngày 5–6: thử với 30 sinh viên năm cuối/thực tập sinh; hỏi giá sẵn sàng trả.\n- Ngày 7: đo tỷ lệ dùng lại; quyết định.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Bộ 50 tin nhắn công sở Việt mẫu với 2–3 cách hiểu mỗi tin và mức ‘cần lo’\n2. Prompt hệ thống cho bot (có quy tắc an toàn, giọng lịch sự)\n3. Mã nguồn web app tối giản + hướng dẫn nối Zalo OA [cần xác minh API]\n4. Trang giới thiệu và bảng giá thử nghiệm\n5. Phiếu phỏng vấn 30 người dùng thử và bảng chỉ số\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 7.04,
+      "rank": 3
+    },
+    {
+      "id": "20261030-07-tu-do-7-bo-khong-phai-nghi",
+      "date": "2026-10-30",
+      "title": "“7 bộ không phải nghĩ” — gửi ảnh tủ đồ qua Zalo, nhận lịch phối 7 bộ cho tuần tới từ chính quần áo bạn có (stylist người thật + AI)",
+      "pitch": "Nhật: danh sách hàng hot 2026 của Nikkei Trendy nói các sản phẩm ‘giải phóng khỏi việc phải chọn’ vươn lên. Hàn: ‘Hyunbaek-core’ — mặc đẹp kiểu giàu mà như không cố. Meta vừa thử app phối đồ AI ở Đông Nam Á. Ở VN, làm dịch vụ nhỏ: khách gửi 20–30 ảnh đồ, stylist dùng AI dựng lịch 7 bộ kèm ảnh ghép, gợi ý tối đa 1 món nên mua thêm (không bắt buộc). Gói tuần hoặc tháng.",
+      "type": "startup",
+      "category": [
+        "service",
+        "ai"
+      ],
+      "tags": [
+        "thời trang",
+        "phối đồ",
+        "stylist",
+        "tủ đồ",
+        "tối giản lựa chọn"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Đã có app Wardob (có tiếng Việt) và Meta Style Sketch ở các nước lân cận — độ mới thấp; khác biệt dựa vào stylist người thật và Zalo. Giá sẵn sàng trả chưa kiểm chứng.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261030-07-tu-do-7-bo-khong-phai-nghi.webp",
+      "image_alt": "Bảy móc áo xếp hàng ngang dưới lịch tuần, mỗi móc treo một bộ đồ màu khác nhau",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "‘Lịch dán tủ’ 7 ô in được, mỗi ô là ảnh ghép bộ đồ thật của khách kèm 1 dòng ghi chú thời tiết–dịp.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Phân tích ảnh đồ (đọc ảnh), đề xuất phối, viết ghi chú.",
+            "why": "Free $0, Pro $17/tháng (trả năm) — mở lại 30/10, khớp.",
+            "alt_ids": [
+              "gemini",
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "nano_banana",
+            "role": "Ghép ảnh bộ đồ từ ảnh quần áo của khách.",
+            "why": "API khoảng $0,067/ảnh 1K — mở lại 30/10, khớp.",
+            "alt_ids": [
+              "seedream"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Mẫu ‘lịch dán tủ’.",
+            "why": "Trang giá Canva không đọc được — chưa nêu giá.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận ảnh, giao lịch.",
+            "why": "Trang chủ OA đọc được 30/10; bảng giá chưa đọc được.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Thanh toán gói.",
+            "why": "Tạo ảnh QR bằng URL img.vietqr.io (registry, 29/10).",
+            "alt_ids": [
+              "payos"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "vietqr"
+          ],
+          "monthly_cost_note": "≈ $0/tháng (gói Free).",
+          "tradeoff": "Không có ảnh ghép AI; lịch chỉ là danh sách chữ + ảnh gốc."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "nano_banana",
+            "canva",
+            "zalo_oa",
+            "payos"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude) + khoảng $0,5/khách (7 ảnh × $0,067) + phí OA [chưa xác minh] ≈ $20–40/tháng.",
+          "tradeoff": "Đẹp và ‘wow’; tốn thời gian duyệt ảnh ghép."
+        },
+        "checked": "2026-10-30"
+      },
+      "regions": [
+        "JP",
+        "KR",
+        "SEA"
+      ],
+      "signal_text": "Nhật: Nikkei Trendy ‘2026年ヒット商品ベスト30’ (29/10) — năm giá cả tăng, sản phẩm ‘giải phóng khỏi việc lựa chọn’ vươn lên (chỉ đọc phần giới thiệu). Hàn: Korea Herald (19/10) — ‘Hyunbaek-core’, phong cách đẹp không cố; người 20–30 tuổi chiếm 46,7% khách của Hyundai Department Store 9 tháng đầu năm. ĐNA: TechCrunch (29/10) — Meta ra Style Sketch, tạo tủ đồ ảo từ ảnh Instagram, gợi ý phối và thử đồ ảo, có ở Indonesia, Singapore, Thái Lan. VN: Wardob đã có.",
+      "vn_youth_fit": "Hơn một nửa Gen Z sẵn sàng trả cho trải nghiệm ‘cảm giác cao cấp’ nếu giá hợp lý (xa-xi-vua-tui); Zalo được 89% người dùng sử dụng (mxh-top) → stylist qua Zalo là ‘cao cấp vừa túi’.",
+      "vn_fit_refs": [
+        "xa-xi-vua-tui",
+        "mxh-top"
+      ],
+      "from_keywords": [
+        "kw-kr-12",
+        "kw-sea-01",
+        "kw-jp-21"
+      ],
+      "key_facts": [
+        {
+          "text": "Nikkei Trendy: năm 2026 giá cả tăng và nhiều căng thẳng, các sản phẩm ‘giải phóng khỏi việc lựa chọn’ vươn lên trong danh sách hàng hot.",
+          "source_ids": [
+            "nikkei_hit30"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Korea Herald: ‘Hyunbaek-core’ — phong cách đẹp kiểu giàu mà như không cố; người 20–30 tuổi chiếm 46,7% khách của Hyundai Department Store 9 tháng đầu 2026.",
+          "source_ids": [
+            "kh_hyunbaek"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Meta Style Sketch: tạo tủ đồ ảo từ ảnh Instagram hoặc ảnh chụp, gợi ý phối từ đồ có sẵn, thử đồ trên người mẫu ảo; có ở Indonesia, Singapore, Thái Lan.",
+          "source_ids": [
+            "tc_stylesketch"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "VN đã có app Wardob (tủ đồ số, lịch phối đồ, stylist AI) với giao diện tiếng Việt.",
+          "source_ids": [
+            "wardob"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Xu hướng ‘phối từ đồ có sẵn’ bằng AI xuất hiện ở cả app Big Tech (Meta) và app độc lập (Wardob).",
+          "source_ids": [
+            "tc_stylesketch",
+            "wardob"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "id": "nikkei_hit30",
+          "name": "日経クロストレンド (日経トレンディ)",
+          "title": "2026年ヒット商品ベスト30",
+          "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/",
+          "published": "2026-10-29",
+          "accessed": "2026-10-30",
+          "how_read": "đọc một phần",
+          "note": "Chỉ đọc được đoạn giới thiệu công khai; danh sách xếp hạng nằm sau tường phí — không dùng thứ hạng."
+        },
+        {
+          "id": "kh_hyunbaek",
+          "name": "The Korea Herald",
+          "title": "Young Koreans want the nepo baby look. It’s called ‘Hyunbaek-core’",
+          "url": "https://www.koreaherald.com/article/10907469",
+          "published": "2026-10-19",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "tc_stylesketch",
+          "name": "TechCrunch",
+          "title": "Meta quietly launches an AI fashion app called Style Sketch",
+          "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+          "published": "2026-10-29",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "wardob",
+          "name": "Wardob (wardob.com/vi)",
+          "title": "Tủ đồ số, lịch phối đồ và stylist AI | Wardob",
+          "url": "https://wardob.com/vi/",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Trang chủ app có tiếng Việt — đối thủ trực tiếp."
+        }
+      ],
+      "localize_vn": "Giả thuyết: gói ‘Tuần đầu đi làm’ 49.000đ (7 bộ), gói tháng 149.000đ (4 lịch + 1 lần sửa); khách nhóm nữ 22–28 tuổi văn phòng Hà Nội; ảnh ghép xuất dạng ‘lịch dán tủ’ để in.",
+      "localize_global": "Không ưu tiên — Meta đã có mặt ở ĐNA.",
+      "first_steps": [
+        "Ngày 1: Claude viết bộ câu hỏi phong cách, quy trình nhận ảnh, mẫu lịch 7 bộ.",
+        "Ngày 2: Nano Banana ghép ảnh phối từ ảnh đồ của khách (trên nền trơn, không tạo mặt người).",
+        "Ngày 3: Canva làm mẫu ‘lịch dán tủ’; Zalo OA nhận ảnh.",
+        "Ngày 4–6: làm miễn phí cho 10 người, thu phí 10 người tiếp theo; VietQR.",
+        "Ngày 7: đo hài lòng, tỷ lệ mua gói tháng; quyết định."
+      ],
+      "capital": {
+        "vnd_min_m": 0,
+        "vnd_max_m": 2,
+        "usd_min": 0,
+        "usd_max": 77,
+        "note": "Chủ yếu thời gian stylist; vài USD API ảnh."
+      },
+      "risks": [
+        "Cạnh tranh với app miễn phí (Wardob, có thể Meta Style Sketch nếu ra VN).",
+        "Ảnh tủ đồ là dữ liệu cá nhân — xóa sau khi giao.",
+        "Mất nhiều thời gian/khách — khó mở rộng nếu không chuẩn hóa.",
+        "Ảnh ghép AI có thể sai màu, sai dáng — cần stylist duyệt."
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 6,
+        "novelty": 3,
+        "lowcap": 9,
+        "signal": 7,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là stylist cá nhân kiêm người vận hành dịch vụ online qua Zalo. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “7 bộ không phải nghĩ” — gửi ảnh tủ đồ qua Zalo, nhận lịch phối 7 bộ cho tuần tới từ chính quần áo bạn có (stylist người thật + AI)\nTóm tắt: Nhật: danh sách hàng hot 2026 của Nikkei Trendy nói các sản phẩm ‘giải phóng khỏi việc phải chọn’ vươn lên. Hàn: ‘Hyunbaek-core’ — mặc đẹp kiểu giàu mà như không cố. Meta vừa thử app phối đồ AI ở Đông Nam Á. Ở VN, làm dịch vụ nhỏ: khách gửi 20–30 ảnh đồ, stylist dùng AI dựng lịch 7 bộ kèm ảnh ghép, gợi ý tối đa 1 món nên mua thêm (không bắt buộc). Gói tuần hoặc tháng.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: JP, KR, SEA\nNhật: Nikkei Trendy ‘2026年ヒット商品ベスト30’ (29/10) — năm giá cả tăng, sản phẩm ‘giải phóng khỏi việc lựa chọn’ vươn lên (chỉ đọc phần giới thiệu). Hàn: Korea Herald (19/10) — ‘Hyunbaek-core’, phong cách đẹp không cố; người 20–30 tuổi chiếm 46,7% khách của Hyundai Department Store 9 tháng đầu năm. ĐNA: TechCrunch (29/10) — Meta ra Style Sketch, tạo tủ đồ ảo từ ảnh Instagram, gợi ý phối và thử đồ ảo, có ở Indonesia, Singapore, Thái Lan. VN: Wardob đã có.\nDữ kiện chi tiết (kèm mức xác minh):\n- Nikkei Trendy: năm 2026 giá cả tăng và nhiều căng thẳng, các sản phẩm ‘giải phóng khỏi việc lựa chọn’ vươn lên trong danh sách hàng hot. [1 nguồn gốc]\n- Korea Herald: ‘Hyunbaek-core’ — phong cách đẹp kiểu giàu mà như không cố; người 20–30 tuổi chiếm 46,7% khách của Hyundai Department Store 9 tháng đầu 2026. [1 nguồn gốc]\n- Meta Style Sketch: tạo tủ đồ ảo từ ảnh Instagram hoặc ảnh chụp, gợi ý phối từ đồ có sẵn, thử đồ trên người mẫu ảo; có ở Indonesia, Singapore, Thái Lan. [1 nguồn gốc]\n- VN đã có app Wardob (tủ đồ số, lịch phối đồ, stylist AI) với giao diện tiếng Việt. [1 nguồn gốc]\n- Xu hướng ‘phối từ đồ có sẵn’ bằng AI xuất hiện ở cả app Big Tech (Meta) và app độc lập (Wardob). [2+ nguồn độc lập]\n\nLƯU Ý ĐỘ TIN CẬY: Đã có app Wardob (có tiếng Việt) và Meta Style Sketch ở các nước lân cận — độ mới thấp; khác biệt dựa vào stylist người thật và Zalo. Giá sẵn sàng trả chưa kiểm chứng.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nHơn một nửa Gen Z sẵn sàng trả cho trải nghiệm ‘cảm giác cao cấp’ nếu giá hợp lý (xa-xi-vua-tui); Zalo được 89% người dùng sử dụng (mxh-top) → stylist qua Zalo là ‘cao cấp vừa túi’.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: gói ‘Tuần đầu đi làm’ 49.000đ (7 bộ), gói tháng 149.000đ (4 lịch + 1 lần sửa); khách nhóm nữ 22–28 tuổi văn phòng Hà Nội; ảnh ghép xuất dạng ‘lịch dán tủ’ để in.\n\n## 4. Ràng buộc\n- Vốn: khoảng 0–2 triệu VND (Chủ yếu thời gian stylist; vài USD API ảnh.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Ảnh quần áo/cơ thể là dữ liệu cá nhân: xin đồng ý, không dùng ảnh khách để quảng cáo nếu chưa được phép, xóa sau 30 ngày. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Cạnh tranh với app miễn phí (Wardob, có thể Meta Style Sketch nếu ra VN).\n- Ảnh tủ đồ là dữ liệu cá nhân — xóa sau khi giao.\n- Mất nhiều thời gian/khách — khó mở rộng nếu không chuẩn hóa.\n- Ảnh ghép AI có thể sai màu, sai dáng — cần stylist duyệt.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Phân tích ảnh đồ (đọc ảnh), đề xuất phối, viết ghi chú.\n- Nano Banana (Gemini image, Google): Ghép ảnh bộ đồ từ ảnh quần áo của khách.\n- Canva: Mẫu ‘lịch dán tủ’.\n- Zalo Official Account (OA): Nhận ảnh, giao lịch.\n- VietQR Kit (Casso): Thanh toán gói.\n  Bản tiết kiệm: Claude (Anthropic), Canva, VietQR Kit (Casso). Bản cao cấp: Claude (Anthropic), Nano Banana (Gemini image, Google), Canva, Zalo Official Account (OA), payOS (Casso).\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude viết bộ câu hỏi phong cách, quy trình nhận ảnh, mẫu lịch 7 bộ.\n- Ngày 2: Nano Banana ghép ảnh phối từ ảnh đồ của khách (trên nền trơn, không tạo mặt người).\n- Ngày 3: Canva làm mẫu ‘lịch dán tủ’; Zalo OA nhận ảnh.\n- Ngày 4–6: làm miễn phí cho 10 người, thu phí 10 người tiếp theo; VietQR.\n- Ngày 7: đo hài lòng, tỷ lệ mua gói tháng; quyết định.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Bộ câu hỏi phong cách 10 câu\n2. Quy trình từ nhận ảnh → lịch 7 bộ (thời gian từng bước)\n3. Mẫu ‘lịch dán tủ’ (mô tả bố cục để làm trên Canva)\n4. Tin nhắn Zalo mẫu và bảng giá thử\n5. Bảng chỉ số thử nghiệm 20 khách\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.8,
+      "rank": 4
+    },
+    {
+      "id": "20261030-08-duong-day-tap-nghe-may",
+      "date": "2026-10-30",
+      "title": "“Tập nghe máy” — web luyện cuộc gọi công việc với nhân vật AI (HR gọi phỏng vấn, khách khó tính, sếp hỏi tiến độ), chấm điểm và gợi ý câu nói",
+      "pitch": "Ở Nhật, khảo sát cho thấy khoảng một nửa nhân viên trẻ ngại nghe/gọi điện, và điều họ sợ là ‘tai của sếp’ nghe mình nói. Ở Hàn, Gen Z coi AI là chỗ hỏi ý kiến thứ hai. Làm web luyện tập: chọn tình huống, nghe nhân vật AI nói bằng giọng Việt, bấm ghi âm trả lời, AI chấm và gợi câu tốt hơn. Bán gói cho trung tâm hỗ trợ việc làm của trường, câu lạc bộ sinh viên; kèm workshop 90 phút.",
+      "type": "startup",
+      "category": [
+        "ai",
+        "b2b"
+      ],
+      "tags": [
+        "kỹ năng mềm",
+        "sinh viên",
+        "giọng nói AI",
+        "phỏng vấn",
+        "người mới đi làm"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Số liệu ‘ngại điện thoại’ là của Nhật, chưa có khảo sát tương tự ở VN. MVP dùng hội thoại dựng sẵn (nhánh kịch bản) chứ chưa gọi thoại thời gian thực — chất lượng chấm điểm tiếng Việt cần thử.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261030-08-duong-day-tap-nghe-may.webp",
+      "image_alt": "Điện thoại cổ điển màu cam nối dây với tai nghe, bên cạnh thanh sóng âm và các ngôi sao chấm điểm",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Nhân vật ‘sếp’ và ‘khách khó tính’ có giọng Việt riêng; cuối buổi người học nhận ‘bảng điểm cuộc gọi’ kèm câu nói mẫu đọc lại được.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Viết kịch bản nhánh, chấm bản ghi chữ và gợi câu tốt hơn.",
+            "why": "Free $0, Pro $17/tháng (trả năm) — mở lại 30/10, khớp.",
+            "alt_ids": [
+              "chatgpt",
+              "gemini"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "elevenlabs",
+            "role": "Giọng 4 nhân vật tiếng Việt.",
+            "why": "Tiếng Việt có ở eleven_flash_v2_5 và eleven_v3 (registry); Starter $6/tháng có giấy phép thương mại — mở lại 30/10, khớp.",
+            "alt_ids": [
+              "fish_audio"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vercel",
+            "role": "Web luyện tập.",
+            "why": "Hobby $0, Pro $20/tháng — mở lại 30/10, khớp.",
+            "alt_ids": [
+              "cloudflare_pages"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "supabase",
+            "role": "Tài khoản, lịch sử điểm.",
+            "why": "Free 50.000 MAU — mở lại 30/10, khớp.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip giới thiệu workshop.",
+            "why": "Free; Pro USD 19,99/tháng — mở lại 30/10, khớp.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "fish_audio",
+            "cloudflare_pages",
+            "supabase"
+          ],
+          "monthly_cost_note": "≈ $0–11/tháng (Fish Audio Free hoặc Plus $11 trả năm — mở lại 30/10, khớp).",
+          "tradeoff": "Ít giọng, giới hạn ký tự; cần kiểm tra quyền thương mại của gói Free."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "elevenlabs",
+            "vercel",
+            "supabase",
+            "capcut"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude) + $6–22 (ElevenLabs Starter/Creator) + $0–20 (Vercel) + $0–25 (Supabase) + $19,99 (CapCut) ≈ $45–105/tháng.",
+          "tradeoff": "Giọng tự nhiên, nhiều nhân vật; chi phí theo lượt nghe."
+        },
+        "checked": "2026-10-30"
+      },
+      "regions": [
+        "JP",
+        "KR",
+        "VN"
+      ],
+      "signal_text": "Nhật: TBS CROSS DIG (24/10) dẫn khảo sát BCC với 400 nhân viên trẻ: 50,8% ngại nghe, 48,8% ngại gọi điện; bài nhấn mạnh nỗi sợ là bị sếp nghe; Yahoo realtime 30/10 #8 — tranh cãi kính ngữ ‘了解です’. Hàn: Jinhaksa Catch (Korea Herald 8/10) — 58% người tìm việc dùng AI tạo sinh nhiều lần mỗi ngày, 70% từng tâm sự với AI. VN: thất nghiệp thanh niên 8,64% (2025).",
+      "vn_youth_fit": "Thất nghiệp thanh niên 15–24 tuổi 8,64%, thành thị 11,23% (viec-lam-tre); 83% người dùng Việt tham gia học/nâng kỹ năng AI (ai) → sinh viên sắp đi làm có lý do luyện phỏng vấn và cuộc gọi công việc.",
+      "vn_fit_refs": [
+        "viec-lam-tre",
+        "ai"
+      ],
+      "from_keywords": [
+        "kw-jp-18",
+        "kw-kr-11",
+        "kw-global-03"
+      ],
+      "key_facts": [
+        {
+          "text": "Khảo sát BCC với 400 nhân viên trẻ (đi làm tối đa 3 năm): 50,8% ngại nghe điện thoại, 48,8% ngại gọi điện.",
+          "source_ids": [
+            "tbs_phone"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Người trẻ Nhật đang tranh luận về cách trả lời lễ phép với cấp trên (‘了解です’ hay ‘承知しました’).",
+          "source_ids": [
+            "yahoojp_rt8",
+            "diamond_keigo"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Hàn: 58% người tìm việc dùng AI tạo sinh nhiều lần mỗi ngày; 70% từng tâm sự với AI, trong đó 79% thấy hữu ích (Jinhaksa Catch, 1.110 người).",
+          "source_ids": [
+            "kh_genz_ai"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "tbs_phone",
+          "name": "TBS CROSS DIG with Bloomberg (qua dメニューニュース)",
+          "title": "電話に怯えるZ世代。本当に怖いのは、クライアントではなく「上司の耳」だった",
+          "url": "https://topics.smt.docomo.ne.jp/article/tbs_bb/business/tbs_bb-3027710",
+          "published": "2026-10-24",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "yahoojp_rt8",
+          "name": "Yahoo! JAPAN リアルタイム検索 — バズまとめ (mục #8)",
+          "title": "「了解です」への批判が広がる、若者と上司の敬語論争がSNSで注目",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome/fc395a7d0e784a8fb29554cf799f5a24-1793300100",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Tóm tắt do AI của Yahoo tạo từ bài đăng trên X; chụp 30/10 07:10 (UTC+7)."
+        },
+        {
+          "id": "diamond_keigo",
+          "name": "ダイヤモンド・オンライン",
+          "title": "「了解しました」は失礼じゃないのに、なぜ「承知しました」が広がった？",
+          "url": "https://diamond.jp/articles/-/401131",
+          "published": "2026-10-22",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "kh_genz_ai",
+          "name": "The Korea Herald",
+          "title": "[Graphic News] Gen Z turns to AI for personal advice",
+          "url": "https://www.koreaherald.com/article/10896135",
+          "published": "2026-10-08",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Giả thuyết: 12 tình huống — HR gọi hẹn phỏng vấn, phỏng vấn qua điện thoại, khách phàn nàn, nhà cung cấp báo trễ hàng, sếp hỏi tiến độ, gọi cho chủ nhà; chấm 4 tiêu chí (chào hỏi, rõ ý, lịch sự, chốt việc). Gói trường: 3–5 triệu đồng/học kỳ [giả thuyết giá]; cá nhân 59.000đ/tháng.",
+      "localize_global": "Không ưu tiên.",
+      "first_steps": [
+        "Ngày 1: Claude viết 12 kịch bản hội thoại có nhánh và thang chấm điểm.",
+        "Ngày 2: ElevenLabs thu giọng 4 nhân vật tiếng Việt.",
+        "Ngày 3–4: dựng web (Vercel + Supabase): nghe → ghi âm → chuyển giọng nói thành chữ → Claude chấm [cần chọn công cụ nhận giọng tiếng Việt].",
+        "Ngày 5: workshop thử 90 phút với 1 câu lạc bộ sinh viên; quay clip CapCut.",
+        "Ngày 6–7: thu phản hồi, chào 3 trung tâm việc làm của trường; quyết định."
+      ],
+      "capital": {
+        "vnd_min_m": 1,
+        "vnd_max_m": 6,
+        "usd_min": 38,
+        "usd_max": 231,
+        "note": "API giọng nói, tên miền, in tài liệu workshop."
+      },
+      "risks": [
+        "Nhận giọng tiếng Việt và chấm điểm phát âm có thể sai — người dùng mất tin.",
+        "Trường đại học mua chậm, cần quan hệ.",
+        "Ghi âm giọng người dùng là dữ liệu cá nhân — xin đồng ý, xóa sau khi chấm.",
+        "Chatbot giọng nói miễn phí của các hãng lớn có thể làm được tương tự."
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 6,
+        "novelty": 7,
+        "lowcap": 8,
+        "signal": 6,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là chuyên gia đào tạo kỹ năng giao tiếp công việc kiêm thiết kế sản phẩm EdTech. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Tập nghe máy” — web luyện cuộc gọi công việc với nhân vật AI (HR gọi phỏng vấn, khách khó tính, sếp hỏi tiến độ), chấm điểm và gợi ý câu nói\nTóm tắt: Ở Nhật, khảo sát cho thấy khoảng một nửa nhân viên trẻ ngại nghe/gọi điện, và điều họ sợ là ‘tai của sếp’ nghe mình nói. Ở Hàn, Gen Z coi AI là chỗ hỏi ý kiến thứ hai. Làm web luyện tập: chọn tình huống, nghe nhân vật AI nói bằng giọng Việt, bấm ghi âm trả lời, AI chấm và gợi câu tốt hơn. Bán gói cho trung tâm hỗ trợ việc làm của trường, câu lạc bộ sinh viên; kèm workshop 90 phút.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: JP, KR, VN\nNhật: TBS CROSS DIG (24/10) dẫn khảo sát BCC với 400 nhân viên trẻ: 50,8% ngại nghe, 48,8% ngại gọi điện; bài nhấn mạnh nỗi sợ là bị sếp nghe; Yahoo realtime 30/10 #8 — tranh cãi kính ngữ ‘了解です’. Hàn: Jinhaksa Catch (Korea Herald 8/10) — 58% người tìm việc dùng AI tạo sinh nhiều lần mỗi ngày, 70% từng tâm sự với AI. VN: thất nghiệp thanh niên 8,64% (2025).\nDữ kiện chi tiết (kèm mức xác minh):\n- Khảo sát BCC với 400 nhân viên trẻ (đi làm tối đa 3 năm): 50,8% ngại nghe điện thoại, 48,8% ngại gọi điện. [1 nguồn gốc]\n- Người trẻ Nhật đang tranh luận về cách trả lời lễ phép với cấp trên (‘了解です’ hay ‘承知しました’). [2+ nguồn độc lập]\n- Hàn: 58% người tìm việc dùng AI tạo sinh nhiều lần mỗi ngày; 70% từng tâm sự với AI, trong đó 79% thấy hữu ích (Jinhaksa Catch, 1.110 người). [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Số liệu ‘ngại điện thoại’ là của Nhật, chưa có khảo sát tương tự ở VN. MVP dùng hội thoại dựng sẵn (nhánh kịch bản) chứ chưa gọi thoại thời gian thực — chất lượng chấm điểm tiếng Việt cần thử.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nThất nghiệp thanh niên 15–24 tuổi 8,64%, thành thị 11,23% (viec-lam-tre); 83% người dùng Việt tham gia học/nâng kỹ năng AI (ai) → sinh viên sắp đi làm có lý do luyện phỏng vấn và cuộc gọi công việc.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: 12 tình huống — HR gọi hẹn phỏng vấn, phỏng vấn qua điện thoại, khách phàn nàn, nhà cung cấp báo trễ hàng, sếp hỏi tiến độ, gọi cho chủ nhà; chấm 4 tiêu chí (chào hỏi, rõ ý, lịch sự, chốt việc). Gói trường: 3–5 triệu đồng/học kỳ [giả thuyết giá]; cá nhân 59.000đ/tháng.\n\n## 4. Ràng buộc\n- Vốn: khoảng 1–6 triệu VND (API giọng nói, tên miền, in tài liệu workshop.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Ghi âm giọng người dùng là dữ liệu cá nhân: xin đồng ý rõ ràng, xóa sau khi chấm; không mô phỏng giọng người thật có danh tính. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Nhận giọng tiếng Việt và chấm điểm phát âm có thể sai — người dùng mất tin.\n- Trường đại học mua chậm, cần quan hệ.\n- Ghi âm giọng người dùng là dữ liệu cá nhân — xin đồng ý, xóa sau khi chấm.\n- Chatbot giọng nói miễn phí của các hãng lớn có thể làm được tương tự.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Viết kịch bản nhánh, chấm bản ghi chữ và gợi câu tốt hơn.\n- ElevenLabs: Giọng 4 nhân vật tiếng Việt.\n- Vercel: Web luyện tập.\n- Supabase: Tài khoản, lịch sử điểm.\n- CapCut: Clip giới thiệu workshop.\n  Bản tiết kiệm: Claude (Anthropic), Fish Audio, Cloudflare Pages / Workers, Supabase. Bản cao cấp: Claude (Anthropic), ElevenLabs, Vercel, Supabase, CapCut.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude viết 12 kịch bản hội thoại có nhánh và thang chấm điểm.\n- Ngày 2: ElevenLabs thu giọng 4 nhân vật tiếng Việt.\n- Ngày 3–4: dựng web (Vercel + Supabase): nghe → ghi âm → chuyển giọng nói thành chữ → Claude chấm [cần chọn công cụ nhận giọng tiếng Việt].\n- Ngày 5: workshop thử 90 phút với 1 câu lạc bộ sinh viên; quay clip CapCut.\n- Ngày 6–7: thu phản hồi, chào 3 trung tâm việc làm của trường; quyết định.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. 12 kịch bản hội thoại có nhánh (tiếng Việt) + thang chấm 4 tiêu chí\n2. Mã nguồn web luyện tập (nghe → ghi âm → chấm) với chỗ để cắm công cụ nhận giọng [cần xác minh]\n3. Giáo án workshop 90 phút\n4. Thư chào hàng gửi trung tâm hỗ trợ việc làm của trường\n5. Bảng chỉ số thử nghiệm\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.8,
+      "rank": 5
+    },
+    {
+      "id": "20261030-03-goc-tia-mai-10-phut",
+      "date": "2026-10-30",
+      "title": "“Góc tỉa 10 phút” — quầy tỉa mái, tỉa ngọn, cạo gáy giá niêm yết, không gội, không mời làm thẻ, đặt ở ký túc xá hoặc trung tâm thương mại",
+      "pitch": "Ở TQ, tiệm ‘快剪 10 tệ’ đang ‘đánh bại các giám đốc tạo mẫu’: không gội, không bán kèm, không làm thẻ, khoảng 10 phút. Ở VN, QB House đã mang cắt nhanh 80.000đ vào TP HCM cho tóc nam. Khoảng trống: dịch vụ ‘sửa nhanh’ cho tóc nữ và nam sinh viên — tỉa mái, tỉa ngọn, cạo gáy — 30.000–50.000đ, bảng giá to, thanh toán QR, lấy số qua Zalo.",
+      "type": "startup",
+      "category": [
+        "service"
+      ],
+      "tags": [
+        "cắt tóc nhanh",
+        "giá minh bạch",
+        "sinh viên",
+        "dịch vụ nhỏ",
+        "không bán kèm"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Giá 30.000–50.000đ, nhu cầu tỉa mái của nữ sinh và việc thuê được góc nhỏ là giả thuyết. Cần thợ có tay nghề (đối tác chia doanh thu). QB House đã có ở TP HCM (01/2025) — Hà Nội chưa kiểm tra.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261030-03-goc-tia-mai-10-phut.webp",
+      "image_alt": "Ghế cắt tóc nhỏ cạnh gương tròn, đồng hồ cát và bảng giá trống trong một góc sáng sủa",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Máy tính bảng ‘chọn mái’ — AI ghép thử 6 kiểu mái lên ảnh selfie của khách trước khi cắt, giảm rủi ro ‘cắt xong không ưng’.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Viết bảng giá, quy trình 10 phút, kịch bản chào khách, nội dung trang lấy số.",
+            "why": "Free $0, Pro $17/tháng (trả năm) — mở lại 30/10, khớp.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "nano_banana",
+            "role": "Ghép thử kiểu mái lên ảnh selfie (chỉ khi khách đồng ý).",
+            "why": "API khoảng $0,067/ảnh 1K — mở lại 30/10, khớp.",
+            "alt_ids": [
+              "seedream"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "supabase",
+            "role": "Hàng đợi lấy số và đếm khách.",
+            "why": "Free 50.000 MAU — mở lại 30/10, khớp.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vercel",
+            "role": "Trang lấy số thứ tự trên điện thoại.",
+            "why": "Hobby $0 — mở lại 30/10, khớp.",
+            "alt_ids": [
+              "cloudflare_pages"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Mã QR chuyển khoản in sẵn theo từng mức giá.",
+            "why": "Tạo ảnh QR bằng URL img.vietqr.io — đã kiểm tra hoạt động 29/10 (registry).",
+            "alt_ids": [
+              "payos"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Poster, bảng giá, thẻ ‘đã cắt’.",
+            "why": "Trang giá Canva không đọc được bằng công cụ — chưa nêu giá.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip TikTok trước/sau.",
+            "why": "Free; Pro USD 19,99/tháng — mở lại 30/10, khớp.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "vietqr",
+            "canva"
+          ],
+          "monthly_cost_note": "≈ $0/tháng phần mềm (dùng gói Free; Canva Free cần kiểm tra giới hạn).",
+          "tradeoff": "Lấy số bằng giấy, không có thử mái AI."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "nano_banana",
+            "supabase",
+            "vercel",
+            "payos",
+            "canva",
+            "capcut"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude) + vài USD ảnh + $0–25 (Supabase) + $0 (Vercel Hobby) + payOS miễn phí theo trang chủ + $19,99 (CapCut) ≈ $40–70/tháng.",
+          "tradeoff": "Trải nghiệm ‘wow’, có dữ liệu khách; tốn thời gian vận hành máy tính bảng."
+        },
+        "checked": "2026-10-30"
+      },
+      "regions": [
+        "CN",
+        "JP",
+        "VN"
+      ],
+      "signal_text": "TQ: Baidu 30/10 #3 ‘10元快剪正暴打全国的“设计总监”’; 东方财富 (28/10) dẫn Hiệp hội Làm tóc & Làm đẹp TQ: quý I/2026 có 21,3 vạn tiệm tóc đóng/chuyển nhượng, trong khi quầy 10 tệ ‘không gội, không bán kèm, không làm thẻ’ có người xếp hàng ở cả Bắc Kinh, Thượng Hải; 腾讯新闻 (15/10) dẫn 企查查: số doanh nghiệp ‘快剪’ đăng ký mới tăng từ 44 (2015) lên 1.514 (2024); trang chính quyền Thẩm Dương (11/10): quét mã 10 tệ, dưới 10 phút. Nhật/VN: QB House (Nhật) vào TP HCM 01/2025, 80.000đ/lần cắt tóc nam.",
+      "vn_youth_fit": "Thu nhập bình quân lao động 2025 khoảng 8,4 triệu đồng/tháng (thu-nhap); 49% Gen Z giữ hạn mức chi nghiêm, 45% coi ‘đáng tiền’ là yếu tố quyết định (ngan-sach) → dịch vụ rẻ, minh bạch, nhanh hợp túi tiền sinh viên.",
+      "vn_fit_refs": [
+        "thu-nhap",
+        "ngan-sach"
+      ],
+      "from_keywords": [
+        "kw-cn-02",
+        "kw-global-02"
+      ],
+      "key_facts": [
+        {
+          "text": "Mô hình ‘快剪’: không gội, không bán kèm, không làm thẻ trả trước, quét mã trả tiền, khoảng 10 phút.",
+          "source_ids": [
+            "eastmoney_kuaijian",
+            "shenyang_kuaijian",
+            "qq_kuaijian"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Hiệp hội Làm tóc & Làm đẹp TQ: quý I/2026 có 21,3 vạn tiệm tóc đóng cửa, ngừng hoặc chuyển nhượng; khảo sát 中国青年报: 77,5% đồng ý ‘không ai cười bước ra khỏi tiệm tóc’.",
+          "source_ids": [
+            "eastmoney_kuaijian"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "企查查: doanh nghiệp ‘快剪’ đăng ký mới 44 (2015) → 1.514 (2024); đến 7/2025 còn 5.190 doanh nghiệp đang hoạt động.",
+          "source_ids": [
+            "qq_kuaijian"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Thẩm Dương: quầy trong siêu thị, quét mã 10 tệ, dưới 10 phút; thị trường chia ‘hình quả tạ’ — 10–20 tệ và salon 120–180 tệ.",
+          "source_ids": [
+            "shenyang_kuaijian"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Baidu realtime 30/10 #3 là chủ đề ‘10元快剪’.",
+          "source_ids": [
+            "baidu_rt3"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "QB House mở cửa hàng đầu tiên ở Aeon Mall Tân Phú Celadon (TP HCM) ngày 21/1/2025, 4 buồng cắt, 80.000đ/lần cắt tóc nam.",
+          "source_ids": [
+            "vnbiz_qbhouse"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "baidu_rt3",
+          "name": "Baidu 百度热搜 (mục #3)",
+          "title": "10元快剪正暴打全国的“设计总监”",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 30/10 07:10 (UTC+7); hotScore 7.713.394."
+        },
+        {
+          "id": "eastmoney_kuaijian",
+          "name": "东方财富 财富号",
+          "title": "10元快剪，正在暴打全国的“设计总监”",
+          "url": "https://caifuhao.eastmoney.com/news/20261028182931847069390",
+          "published": "2026-10-28",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bài trên nền tảng tác giả (财富号), dẫn số liệu Hiệp hội Làm tóc & Làm đẹp TQ và 中国青年报."
+        },
+        {
+          "id": "qq_kuaijian",
+          "name": "腾讯新闻 (谷雨数据)",
+          "title": "238元总监不如街头老师傅！十元快剪爆火背后，传统理发店做错了什么",
+          "url": "https://news.qq.com/rain/a/20261015A052HH00",
+          "published": "2026-10-15",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "shenyang_kuaijian",
+          "name": "沈阳市人民政府 (trang tin)",
+          "title": "社区微业态织密“一刻钟便民服务矩阵”",
+          "url": "https://www.shenyang.gov.cn/zwgk/zwdt/bxgz/202610/t20261011_5101346.html",
+          "published": "2026-10-11",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "vnbiz_qbhouse",
+          "name": "VietnamBiz",
+          "title": "Chuỗi cắt tóc nhanh Nhật Bản đổ bộ Việt Nam: Cắt trong vòng 10 phút, giá 80.000 đồng/lần",
+          "url": "https://vietnambiz.vn/chuoi-cat-toc-nhanh-nhat-ban-do-bo-viet-nam-cat-trong-vong-10-phut-gia-80000-donglan-20251228340595.htm",
+          "published": "2025-01-22",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bài cũ (01/2025) — bằng chứng mô hình cắt nhanh đã có ở TP HCM."
+        }
+      ],
+      "localize_vn": "Giả thuyết: bảng 4 dịch vụ cố định (tỉa mái 30k, tỉa ngọn 40k, cạo gáy/viền 30k, cắt nam cơ bản 50k), thời gian tối đa 10 phút, khách tự chọn ảnh mẫu trên máy tính bảng; đặt thử 2 buổi/tuần tại sảnh KTX hoặc co-working gần trường; nhận số thứ tự qua Zalo.",
+      "localize_global": "Không áp dụng.",
+      "first_steps": [
+        "Ngày 1: Claude viết bảng giá, quy tắc ‘không bán kèm’, kịch bản chào khách; Canva in poster và bảng giá A2.",
+        "Ngày 2: tìm 1 thợ tự do chia doanh thu, thuê/mượn góc 4–6 m² ở sảnh KTX hoặc quán cà phê học bài.",
+        "Ngày 3: dựng trang lấy số (Supabase + Vercel) và mã VietQR.",
+        "Ngày 4–6: mở 3 buổi thử, đo số khách/giờ, thời gian trung bình, tỷ lệ quay lại.",
+        "Ngày 7: quay clip CapCut ‘tỉa mái 10 phút 30k’; quyết định."
+      ],
+      "capital": {
+        "vnd_min_m": 8,
+        "vnd_max_m": 30,
+        "usd_min": 308,
+        "usd_max": 1154,
+        "note": "Ghế, gương, dụng cụ, máy hút tóc vụn, vách ngăn, thuê góc 1 tháng; chưa gồm lương thợ (chia doanh thu)."
+      },
+      "risks": [
+        "Phụ thuộc tay nghề thợ — sai một kiểu tóc là mất uy tín.",
+        "Vệ sinh: tóc vụn, khử khuẩn dụng cụ; có thể cần giấy phép kinh doanh/cho phép của chủ mặt bằng.",
+        "Giá rẻ nên cần lượng khách lớn mỗi giờ; mưa/nghỉ hè giảm khách.",
+        "Tiệm cắt tóc vỉa hè giá rẻ đã có sẵn — lợi thế phải là sạch, nhanh, rõ giá."
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 7,
+        "novelty": 5,
+        "lowcap": 6,
+        "signal": 8,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là người vận hành chuỗi dịch vụ nhỏ (kiosk) và tư vấn trải nghiệm khách hàng. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Góc tỉa 10 phút” — quầy tỉa mái, tỉa ngọn, cạo gáy giá niêm yết, không gội, không mời làm thẻ, đặt ở ký túc xá hoặc trung tâm thương mại\nTóm tắt: Ở TQ, tiệm ‘快剪 10 tệ’ đang ‘đánh bại các giám đốc tạo mẫu’: không gội, không bán kèm, không làm thẻ, khoảng 10 phút. Ở VN, QB House đã mang cắt nhanh 80.000đ vào TP HCM cho tóc nam. Khoảng trống: dịch vụ ‘sửa nhanh’ cho tóc nữ và nam sinh viên — tỉa mái, tỉa ngọn, cạo gáy — 30.000–50.000đ, bảng giá to, thanh toán QR, lấy số qua Zalo.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN, JP, VN\nTQ: Baidu 30/10 #3 ‘10元快剪正暴打全国的“设计总监”’; 东方财富 (28/10) dẫn Hiệp hội Làm tóc & Làm đẹp TQ: quý I/2026 có 21,3 vạn tiệm tóc đóng/chuyển nhượng, trong khi quầy 10 tệ ‘không gội, không bán kèm, không làm thẻ’ có người xếp hàng ở cả Bắc Kinh, Thượng Hải; 腾讯新闻 (15/10) dẫn 企查查: số doanh nghiệp ‘快剪’ đăng ký mới tăng từ 44 (2015) lên 1.514 (2024); trang chính quyền Thẩm Dương (11/10): quét mã 10 tệ, dưới 10 phút. Nhật/VN: QB House (Nhật) vào TP HCM 01/2025, 80.000đ/lần cắt tóc nam.\nDữ kiện chi tiết (kèm mức xác minh):\n- Mô hình ‘快剪’: không gội, không bán kèm, không làm thẻ trả trước, quét mã trả tiền, khoảng 10 phút. [2+ nguồn độc lập]\n- Hiệp hội Làm tóc & Làm đẹp TQ: quý I/2026 có 21,3 vạn tiệm tóc đóng cửa, ngừng hoặc chuyển nhượng; khảo sát 中国青年报: 77,5% đồng ý ‘không ai cười bước ra khỏi tiệm tóc’. [1 nguồn gốc]\n- 企查查: doanh nghiệp ‘快剪’ đăng ký mới 44 (2015) → 1.514 (2024); đến 7/2025 còn 5.190 doanh nghiệp đang hoạt động. [1 nguồn gốc]\n- Thẩm Dương: quầy trong siêu thị, quét mã 10 tệ, dưới 10 phút; thị trường chia ‘hình quả tạ’ — 10–20 tệ và salon 120–180 tệ. [1 nguồn gốc]\n- Baidu realtime 30/10 #3 là chủ đề ‘10元快剪’. [1 nguồn gốc]\n- QB House mở cửa hàng đầu tiên ở Aeon Mall Tân Phú Celadon (TP HCM) ngày 21/1/2025, 4 buồng cắt, 80.000đ/lần cắt tóc nam. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Giá 30.000–50.000đ, nhu cầu tỉa mái của nữ sinh và việc thuê được góc nhỏ là giả thuyết. Cần thợ có tay nghề (đối tác chia doanh thu). QB House đã có ở TP HCM (01/2025) — Hà Nội chưa kiểm tra.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nThu nhập bình quân lao động 2025 khoảng 8,4 triệu đồng/tháng (thu-nhap); 49% Gen Z giữ hạn mức chi nghiêm, 45% coi ‘đáng tiền’ là yếu tố quyết định (ngan-sach) → dịch vụ rẻ, minh bạch, nhanh hợp túi tiền sinh viên.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: bảng 4 dịch vụ cố định (tỉa mái 30k, tỉa ngọn 40k, cạo gáy/viền 30k, cắt nam cơ bản 50k), thời gian tối đa 10 phút, khách tự chọn ảnh mẫu trên máy tính bảng; đặt thử 2 buổi/tuần tại sảnh KTX hoặc co-working gần trường; nhận số thứ tự qua Zalo.\n\n## 4. Ràng buộc\n- Vốn: khoảng 8–30 triệu VND (Ghế, gương, dụng cụ, máy hút tóc vụn, vách ngăn, thuê góc 1 tháng; chưa gồm lương thợ (chia doanh thu).)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Kiểm tra yêu cầu giấy phép hộ kinh doanh, vệ sinh dịch vụ làm tóc, sự cho phép của chủ mặt bằng; xin đồng ý trước khi chụp ảnh khách. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Phụ thuộc tay nghề thợ — sai một kiểu tóc là mất uy tín.\n- Vệ sinh: tóc vụn, khử khuẩn dụng cụ; có thể cần giấy phép kinh doanh/cho phép của chủ mặt bằng.\n- Giá rẻ nên cần lượng khách lớn mỗi giờ; mưa/nghỉ hè giảm khách.\n- Tiệm cắt tóc vỉa hè giá rẻ đã có sẵn — lợi thế phải là sạch, nhanh, rõ giá.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Viết bảng giá, quy trình 10 phút, kịch bản chào khách, nội dung trang lấy số.\n- Nano Banana (Gemini image, Google): Ghép thử kiểu mái lên ảnh selfie (chỉ khi khách đồng ý).\n- Supabase: Hàng đợi lấy số và đếm khách.\n- Vercel: Trang lấy số thứ tự trên điện thoại.\n- VietQR Kit (Casso): Mã QR chuyển khoản in sẵn theo từng mức giá.\n- Canva: Poster, bảng giá, thẻ ‘đã cắt’.\n- CapCut: Clip TikTok trước/sau.\n  Bản tiết kiệm: Claude (Anthropic), VietQR Kit (Casso), Canva. Bản cao cấp: Claude (Anthropic), Nano Banana (Gemini image, Google), Supabase, Vercel, payOS (Casso), Canva, CapCut.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude viết bảng giá, quy tắc ‘không bán kèm’, kịch bản chào khách; Canva in poster và bảng giá A2.\n- Ngày 2: tìm 1 thợ tự do chia doanh thu, thuê/mượn góc 4–6 m² ở sảnh KTX hoặc quán cà phê học bài.\n- Ngày 3: dựng trang lấy số (Supabase + Vercel) và mã VietQR.\n- Ngày 4–6: mở 3 buổi thử, đo số khách/giờ, thời gian trung bình, tỷ lệ quay lại.\n- Ngày 7: quay clip CapCut ‘tỉa mái 10 phút 30k’; quyết định.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Bảng giá 4 dịch vụ + nội quy ‘không bán kèm’ (in A2)\n2. Quy trình chuẩn 10 phút từng bước, checklist vệ sinh dụng cụ\n3. Mẫu hợp đồng chia doanh thu với thợ tự do [cần luật sư xem]\n4. Trang lấy số thứ tự (mã nguồn) + mã VietQR\n5. Kế hoạch 3 buổi thử và bảng đo khách/giờ\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.56,
+      "rank": 6
+    },
+    {
+      "id": "20261030-04-react-ho-clip-cua-ban",
+      "date": "2026-10-30",
+      "title": "“React hộ” — đặt người lạ quay video phản ứng chân thật với clip của bạn: bài hát cover, điệu nhảy, video cưới, bài thuyết trình",
+      "pitch": "Ở TQ, người trẻ trả ‘bằng giá một ly trà sữa’ để có bản reaction riêng cho nội dung mình chọn. Ở VN, làm sàn nhỏ: bạn gửi clip, chọn ‘kiểu người xem’ (khó tính, cổ vũ, chuyên môn), nhận video react 3–5 phút trong 24 giờ. Người react là sinh viên làm thêm. Dùng để tập biểu diễn, thử phản hồi trước khi đăng, hoặc làm quà cho bạn bè.",
+      "type": "startup",
+      "category": [
+        "content",
+        "service"
+      ],
+      "tags": [
+        "reaction",
+        "nội dung",
+        "việc làm thêm",
+        "phản hồi",
+        "Gen Z"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu chỉ có 1 bài báo gốc (Huxiu) về reaction trả phí theo yêu cầu; bài thứ hai (ce.cn 2024) không mở được. Nhu cầu ở VN chưa kiểm chứng; chất lượng ‘chân thật’ khó kiểm soát.",
+      "confidence": "thấp",
+      "image": "assets/ideas/20261030-04-react-ho-clip-cua-ban.webp",
+      "image_alt": "Màn hình chia đôi: một bên là người đang hát, bên kia là khuôn mặt hoạt hình tròn đang vỗ tay và cười",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Video react giao kèm khung đôi đẹp và phụ đề tự động, khách đăng lại được ngay như ‘phản ứng của fan’.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Kịch bản react, câu hỏi góp ý, nội quy, tin nhắn chăm sóc khách.",
+            "why": "Free $0, Pro $17/tháng (trả năm) — mở lại 30/10, khớp.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Dựng khung đôi, phụ đề tự động.",
+            "why": "Free; Pro USD 19,99/tháng — mở lại 30/10, khớp.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận đơn và gửi video cho khách.",
+            "why": "Trang chủ OA đọc được 30/10; bảng giá gói nâng cao chưa đọc được.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Mã QR thanh toán theo gói.",
+            "why": "Tạo ảnh QR bằng URL img.vietqr.io (registry, kiểm tra 29/10).",
+            "alt_ids": [
+              "payos"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Bảng gói dịch vụ, ảnh quảng cáo.",
+            "why": "Trang giá Canva không đọc được — chưa nêu giá.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "capcut",
+            "vietqr"
+          ],
+          "monthly_cost_note": "≈ $0/tháng phần mềm (gói Free).",
+          "tradeoff": "Nhận đơn qua Zalo cá nhân, video có thể có watermark ở bản Free [cần kiểm tra]."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "capcut",
+            "zalo_oa",
+            "payos",
+            "canva"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude) + $19,99 (CapCut Pro) + phí OA [chưa xác minh] + payOS miễn phí theo trang chủ ≈ $40–60/tháng.",
+          "tradeoff": "Chuyên nghiệp hơn, tự động đối soát thanh toán; tốn công thiết lập."
+        },
+        "checked": "2026-10-30"
+      },
+      "regions": [
+        "CN"
+      ],
+      "signal_text": "TQ: Huxiu (12/10) mô tả người trẻ cô đơn ‘trả tiền mua 嘴替’: ngoài reaction miễn phí, có người trả tiền đặt reaction theo yêu cầu, ‘một ly trà sữa đổi nửa giờ phản hồi riêng’; người làm reaction phần lớn là làm thêm, không cần đội ngũ. 网易 (29/10) dẫn Báo cáo xu hướng xã giao 2026 của ĐH Phúc Đán: người trẻ chuộng ‘xã giao nhẹ’ — ‘屏享搭子’ (bạn chia sẻ màn hình). Chưa có nguồn thứ hai độc lập cho reaction trả phí.",
+      "vn_youth_fit": "TikTok có 76,1 triệu người dùng 18+ ở VN (ket-noi); Gen Z coi TikTok là nền tảng video ngắn số 1 (genz-app) → nhiều người làm nội dung cần phản hồi trước khi đăng.",
+      "vn_fit_refs": [
+        "ket-noi",
+        "genz-app"
+      ],
+      "from_keywords": [
+        "kw-cn-16"
+      ],
+      "key_facts": [
+        {
+          "text": "Có người trả tiền đặt video reaction theo yêu cầu: người xem chỉ định nội dung, người làm reaction quay theo yêu cầu; ‘một ly trà sữa’ đổi nửa giờ ‘đồng hành riêng’.",
+          "source_ids": [
+            "huxiu_reaction"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Một người xem kể đã xem hơn 50 phiên bản reaction khác nhau của cùng một video ca nhạc.",
+          "source_ids": [
+            "huxiu_reaction"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Báo cáo xu hướng xã giao 2026 (ĐH Phúc Đán, qua 网易): người trẻ chuộng quan hệ ‘nhẹ’, có ranh giới — ví dụ ‘屏享搭子’ cùng xem màn hình.",
+          "source_ids": [
+            "163_pingxiang"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "huxiu_reaction",
+          "name": "虎嗅网",
+          "title": "孤独的年轻人，正在花钱买“嘴替”",
+          "url": "https://www.huxiu.com/article/4896677.html",
+          "published": "2026-10-12",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "163_pingxiang",
+          "name": "网易订阅",
+          "title": "淡社交时代，年轻人离不开KOOK“屏享搭子”",
+          "url": "https://www.163.com/dy/article/LADDCRM40517AHTJ.html",
+          "published": "2026-10-29",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bài mang tính giới thiệu nền tảng KOOK; dẫn ‘Báo cáo xu hướng xã giao 2026’ của ĐH Phúc Đán."
+        }
+      ],
+      "localize_vn": "Giả thuyết: 3 gói — ‘React vui’ 49.000đ (3 phút), ‘Góp ý thật’ 99.000đ (5 phút + 3 gợi ý sửa), ‘Quà bất ngờ’ 149.000đ (react video cưới/sinh nhật gửi cho người được tặng). Nhận đơn qua Zalo, trả bằng VietQR. Người react ký cam kết không đăng lại clip của khách.",
+      "localize_global": "Có thể mở rộng nhận clip tiếng Anh với người react là sinh viên ngôn ngữ — chưa kiểm tra.",
+      "first_steps": [
+        "Ngày 1: Claude viết 3 kịch bản react mẫu, bộ câu hỏi góp ý, nội quy bảo mật clip.",
+        "Ngày 2: tuyển 5 sinh viên react thử; quay 3 video mẫu bằng CapCut.",
+        "Ngày 3: lập Zalo OA nhận đơn, mã VietQR theo gói.",
+        "Ngày 4–6: chào 50 người làm cover/nhảy trên TikTok, nhận 10 đơn thử giá thật.",
+        "Ngày 7: đo tỷ lệ đặt lại và điểm hài lòng; quyết định."
+      ],
+      "capital": {
+        "vnd_min_m": 0,
+        "vnd_max_m": 3,
+        "usd_min": 0,
+        "usd_max": 115,
+        "note": "Chủ yếu tiền trả người react (theo đơn) và quảng cáo thử."
+      },
+      "risks": [
+        "Nhu cầu chưa chứng minh ở VN; tín hiệu nước ngoài chỉ có 1 nguồn.",
+        "Bảo mật clip cá nhân (video cưới, gia đình) — cần cam kết và xóa sau giao.",
+        "Phản hồi ‘khó tính’ có thể gây tổn thương — cần quy tắc ứng xử.",
+        "Chất lượng phụ thuộc người react; khó mở rộng."
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 5,
+        "novelty": 7,
+        "lowcap": 9,
+        "signal": 4,
+        "vnfit": 6
+      },
+      "claude_prompt": "Bạn là nhà sản xuất nội dung video ngắn kiêm người vận hành dịch vụ freelancer. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “React hộ” — đặt người lạ quay video phản ứng chân thật với clip của bạn: bài hát cover, điệu nhảy, video cưới, bài thuyết trình\nTóm tắt: Ở TQ, người trẻ trả ‘bằng giá một ly trà sữa’ để có bản reaction riêng cho nội dung mình chọn. Ở VN, làm sàn nhỏ: bạn gửi clip, chọn ‘kiểu người xem’ (khó tính, cổ vũ, chuyên môn), nhận video react 3–5 phút trong 24 giờ. Người react là sinh viên làm thêm. Dùng để tập biểu diễn, thử phản hồi trước khi đăng, hoặc làm quà cho bạn bè.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN\nTQ: Huxiu (12/10) mô tả người trẻ cô đơn ‘trả tiền mua 嘴替’: ngoài reaction miễn phí, có người trả tiền đặt reaction theo yêu cầu, ‘một ly trà sữa đổi nửa giờ phản hồi riêng’; người làm reaction phần lớn là làm thêm, không cần đội ngũ. 网易 (29/10) dẫn Báo cáo xu hướng xã giao 2026 của ĐH Phúc Đán: người trẻ chuộng ‘xã giao nhẹ’ — ‘屏享搭子’ (bạn chia sẻ màn hình). Chưa có nguồn thứ hai độc lập cho reaction trả phí.\nDữ kiện chi tiết (kèm mức xác minh):\n- Có người trả tiền đặt video reaction theo yêu cầu: người xem chỉ định nội dung, người làm reaction quay theo yêu cầu; ‘một ly trà sữa’ đổi nửa giờ ‘đồng hành riêng’. [1 nguồn gốc]\n- Một người xem kể đã xem hơn 50 phiên bản reaction khác nhau của cùng một video ca nhạc. [1 nguồn gốc]\n- Báo cáo xu hướng xã giao 2026 (ĐH Phúc Đán, qua 网易): người trẻ chuộng quan hệ ‘nhẹ’, có ranh giới — ví dụ ‘屏享搭子’ cùng xem màn hình. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Tín hiệu chỉ có 1 bài báo gốc (Huxiu) về reaction trả phí theo yêu cầu; bài thứ hai (ce.cn 2024) không mở được. Nhu cầu ở VN chưa kiểm chứng; chất lượng ‘chân thật’ khó kiểm soát.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nTikTok có 76,1 triệu người dùng 18+ ở VN (ket-noi); Gen Z coi TikTok là nền tảng video ngắn số 1 (genz-app) → nhiều người làm nội dung cần phản hồi trước khi đăng.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: 3 gói — ‘React vui’ 49.000đ (3 phút), ‘Góp ý thật’ 99.000đ (5 phút + 3 gợi ý sửa), ‘Quà bất ngờ’ 149.000đ (react video cưới/sinh nhật gửi cho người được tặng). Nhận đơn qua Zalo, trả bằng VietQR. Người react ký cam kết không đăng lại clip của khách.\n\n## 4. Ràng buộc\n- Vốn: khoảng 0–3 triệu VND (Chủ yếu tiền trả người react (theo đơn) và quảng cáo thử.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Bảo vệ dữ liệu cá nhân và quyền hình ảnh: clip của khách chỉ dùng để react, xóa sau 7 ngày; không đăng công khai nếu khách không đồng ý. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Nhu cầu chưa chứng minh ở VN; tín hiệu nước ngoài chỉ có 1 nguồn.\n- Bảo mật clip cá nhân (video cưới, gia đình) — cần cam kết và xóa sau giao.\n- Phản hồi ‘khó tính’ có thể gây tổn thương — cần quy tắc ứng xử.\n- Chất lượng phụ thuộc người react; khó mở rộng.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Kịch bản react, câu hỏi góp ý, nội quy, tin nhắn chăm sóc khách.\n- CapCut: Dựng khung đôi, phụ đề tự động.\n- Zalo Official Account (OA): Nhận đơn và gửi video cho khách.\n- VietQR Kit (Casso): Mã QR thanh toán theo gói.\n- Canva: Bảng gói dịch vụ, ảnh quảng cáo.\n  Bản tiết kiệm: Claude (Anthropic), CapCut, VietQR Kit (Casso). Bản cao cấp: Claude (Anthropic), CapCut, Zalo Official Account (OA), payOS (Casso), Canva.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude viết 3 kịch bản react mẫu, bộ câu hỏi góp ý, nội quy bảo mật clip.\n- Ngày 2: tuyển 5 sinh viên react thử; quay 3 video mẫu bằng CapCut.\n- Ngày 3: lập Zalo OA nhận đơn, mã VietQR theo gói.\n- Ngày 4–6: chào 50 người làm cover/nhảy trên TikTok, nhận 10 đơn thử giá thật.\n- Ngày 7: đo tỷ lệ đặt lại và điểm hài lòng; quyết định.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Mô tả 3 gói dịch vụ + bảng giá thử nghiệm\n2. Bộ tiêu chí và kịch bản react cho từng ‘kiểu người xem’\n3. Cam kết bảo mật cho người react (bản nháp, cần luật sư xem)\n4. Tin nhắn mẫu Zalo nhận đơn → giao video → xin đánh giá\n5. Kế hoạch chào 50 creator và bảng chỉ số\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.46,
+      "rank": 7
+    },
+    {
+      "id": "20261030-05-watchlist-soc-chi-tieu-ai",
+      "date": "2026-10-30",
+      "title": "Watchlist “cú sốc chi tiêu AI”: theo dõi capex của Big Tech, dòng tiền tự do và cổ phiếu chip sau ngày Alphabet mất 500 tỷ USD",
+      "pitch": "Ngày 29/10 (giờ Mỹ), Alphabet giảm gần 13% — mạnh nhất kể từ khi lên sàn năm 2004 — dù doanh thu tăng 25%, vì nhà đầu tư lo chi phí AI. Đây là bộ theo dõi (không phải khuyến nghị): mỗi tuần ghi capex dự kiến của Alphabet, Microsoft, Amazon, Meta; dòng tiền tự do; và phản ứng của cổ phiếu chip/hạ tầng, để hiểu chu kỳ đầu tư AI đang ở đâu.",
+      "type": "invest",
+      "category": [
+        "invest"
+      ],
+      "tags": [
+        "AI",
+        "capex",
+        "Big Tech",
+        "chip",
+        "watchlist"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Chỉ là khung theo dõi, không phải lời khuyên đầu tư. Con số giảm của Intel sau giờ giao dịch khác nhau giữa các nguồn (Baidu ‘hơn 20%’, tin trong Google Trends Hàn ‘16%’) — chưa đối chiếu nguồn gốc.",
+      "confidence": "cao",
+      "image": "assets/ideas/20261030-05-watchlist-soc-chi-tieu-ai.webp",
+      "image_alt": "Biểu đồ cột tăng dần với một mũi tên lao dốc màu đỏ cam cắt ngang, bên cạnh con chip và đám mây",
+      "toolstack": {
+        "confidence": "cao",
+        "wow": "Bảng ‘nhiệt kế capex AI’ tự cập nhật mỗi sáng: mỗi công ty một thanh màu theo mức chi so với dòng tiền.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Đọc báo cáo, tóm tắt cuộc gọi kết quả kinh doanh, dựng bảng theo dõi.",
+            "why": "Free $0, Pro $17/tháng (trả năm) — mở lại 30/10, khớp.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "gemini",
+            "role": "Đối chiếu số liệu với tài liệu gốc.",
+            "why": "App Free $0; AI Pro $19,99/tháng (giá Mỹ) — registry 29/10; trang API pricing mở lại 30/10.",
+            "alt_ids": [
+              "deepseek"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "n8n",
+            "role": "Tự động gom RSS tin capex/kết quả kinh doanh.",
+            "why": "Starter €20/tháng (trả năm) — registry 26/10, chưa mở lại hôm nay.",
+            "alt_ids": [
+              "zapier"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "github_pages",
+            "role": "Trang watchlist công khai.",
+            "why": "Miễn phí cho repo công khai (registry).",
+            "alt_ids": [
+              "cloudflare_pages"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "github_pages"
+          ],
+          "monthly_cost_note": "≈ $0/tháng.",
+          "tradeoff": "Cập nhật tay mỗi tuần."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "gemini",
+            "n8n",
+            "github_pages"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude) + $0–19,99 (Gemini) + khoảng €20 (n8n) ≈ $40–65/tháng.",
+          "tradeoff": "Tự động hơn; vẫn phải kiểm tra số tay trước khi kết luận."
+        },
+        "checked": "2026-10-30"
+      },
+      "regions": [
+        "US",
+        "CN",
+        "KR"
+      ],
+      "signal_text": "Mỹ: CNBC (29/10) — Alphabet giảm gần 13%, ngày tệ nhất kể từ khi lên sàn 2004, mất khoảng 500 tỷ USD vốn hóa; BBC (29/10) — doanh thu quý tăng 25% lên 127,6 tỷ USD, đám mây +103% lên gần 31 tỷ, lợi nhuận −25%, lo ngại tóm tắt AI ảnh hưởng doanh thu quảng cáo; CNBC — Microsoft hạ dự báo capex năm xuống 170 tỷ USD từ 175 tỷ, Alphabet giữ 195–205 tỷ. TQ: Baidu 30/10 #8 ‘谷歌大跌超12%’, #11 ‘英特尔盘后暴跌超20%’, #17 ‘谷歌重夺大模型第一 华尔街却不买账’. Hàn: Google Trends #8 ‘인텔’.",
+      "vn_youth_fit": "81% người dùng Việt tương tác với AI hằng ngày (ai) — nhưng đây là ý tưởng theo dõi đầu tư, mức phù hợp với giới trẻ Việt thấp hơn các ý tưởng kinh doanh.",
+      "vn_fit_refs": [
+        "ai"
+      ],
+      "from_keywords": [
+        "kw-cn-05",
+        "kw-cn-06",
+        "kw-cn-09",
+        "kw-kr-08",
+        "kw-global-01"
+      ],
+      "key_facts": [
+        {
+          "text": "Alphabet mất khoảng 500 tỷ USD giá trị trong phiên 29/10 (giờ Mỹ).",
+          "source_ids": [
+            "cnbc_alphabet",
+            "bbc_google"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "CNBC: cổ phiếu Alphabet giảm khoảng 13%, mức giảm mạnh nhất kể từ khi Google lên sàn năm 2004.",
+          "source_ids": [
+            "cnbc_alphabet"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "BBC: doanh thu quý tăng 25% lên 127,6 tỷ USD; đám mây tăng 103% lên gần 31 tỷ USD; lợi nhuận giảm 25%; tóm tắt AI trên Search ảnh hưởng doanh thu quảng cáo.",
+          "source_ids": [
+            "bbc_google"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Microsoft hạ dự báo capex năm xuống 170 tỷ USD từ 175 tỷ; Alphabet giữ hướng dẫn 195–205 tỷ USD.",
+          "source_ids": [
+            "cnbc_capex"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Baidu realtime 30/10: #8 ‘谷歌大跌超12%’, #11 ‘英特尔盘后暴跌超20%’, #17 ‘谷歌重夺大模型第一 华尔街却不买账’.",
+          "source_ids": [
+            "baidu_rt8",
+            "baidu_rt11"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cnbc_alphabet",
+          "name": "CNBC",
+          "title": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
+          "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+          "published": "2026-10-29",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "bbc_google",
+          "name": "BBC News",
+          "title": "Google value plunges $500bn as AI spending fears spook investors",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
+          "published": "2026-10-29",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Tiêu đề lấy từ nội dung trang (thẻ title không đọc được)."
+        },
+        {
+          "id": "cnbc_capex",
+          "name": "CNBC",
+          "title": "Microsoft, Google AI capex estimates",
+          "url": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+          "published": "2026-10-29",
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Tiêu đề rút gọn theo đường dẫn; trang không trả thẻ title cho công cụ đọc."
+        },
+        {
+          "id": "baidu_rt8",
+          "name": "Baidu 百度热搜 (mục #8)",
+          "title": "美股收盘：谷歌大跌超12%",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 30/10 07:10 (UTC+7); hotScore 7.236.856."
+        },
+        {
+          "id": "baidu_rt11",
+          "name": "Baidu 百度热搜 (mục #11)",
+          "title": "英特尔盘后暴跌超20%",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-30",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 30/10 07:10 (UTC+7); hotScore 6.949.387; Google Trends Hàn (#8 ‘인텔’) ghi tin ‘giảm 16% sau giờ’ — hai con số khác nhau, chưa đối chiếu với nguồn gốc."
+        }
+      ],
+      "localize_vn": "Giả thuyết: theo dõi thêm tác động lên VN qua nhu cầu trung tâm dữ liệu, điện và thiết bị (xem tab Đọc báo: GE Vernova mua Trench 9 tỷ USD vì thiếu thiết bị lưới điện).",
+      "localize_global": "Bảng theo dõi dùng chung cho mọi thị trường.",
+      "first_steps": [
+        "Ngày 1: Claude dựng bảng 4 cột: công ty – capex dự kiến – dòng tiền tự do – phản ứng giá; điền số có nguồn ở mục 2.",
+        "Ngày 2: Gemini đối chiếu thông cáo kết quả kinh doanh gốc (investor relations) — chỉ ghi số có trích dẫn.",
+        "Ngày 3: n8n tự gom RSS tin capex mỗi sáng.",
+        "Ngày 4–7: cập nhật trang watchlist trên GitHub Pages; ghi nhận định là ‘giả thuyết’."
+      ],
+      "capital": {
+        "vnd_min_m": 0,
+        "vnd_max_m": 1,
+        "usd_min": 0,
+        "usd_max": 38,
+        "note": "Chỉ chi phí công cụ; không bao gồm tiền đầu tư."
+      },
+      "risks": [
+        "Không phải khuyến nghị mua/bán; biến động mạnh, có thể mất vốn nếu giao dịch.",
+        "Số liệu sau giờ giao dịch dễ sai lệch giữa các nguồn — luôn dùng nguồn gốc.",
+        "Nhà đầu tư VN mua cổ phiếu Mỹ phải qua kênh hợp pháp — cần kiểm tra quy định."
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 5,
+        "novelty": 4,
+        "lowcap": 9,
+        "signal": 9,
+        "vnfit": 4
+      },
+      "claude_prompt": "Bạn là chuyên viên phân tích đầu tư công nghệ, chuyên đọc báo cáo kết quả kinh doanh. Hãy giúp tôi dựng một bộ theo dõi (watchlist) trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: Watchlist “cú sốc chi tiêu AI”: theo dõi capex của Big Tech, dòng tiền tự do và cổ phiếu chip sau ngày Alphabet mất 500 tỷ USD\nTóm tắt: Ngày 29/10 (giờ Mỹ), Alphabet giảm gần 13% — mạnh nhất kể từ khi lên sàn năm 2004 — dù doanh thu tăng 25%, vì nhà đầu tư lo chi phí AI. Đây là bộ theo dõi (không phải khuyến nghị): mỗi tuần ghi capex dự kiến của Alphabet, Microsoft, Amazon, Meta; dòng tiền tự do; và phản ứng của cổ phiếu chip/hạ tầng, để hiểu chu kỳ đầu tư AI đang ở đâu.\nMục tiêu tuần này: hiểu đúng các con số đã công bố, lập danh sách mốc cần theo dõi và tiêu chí đánh giá — KHÔNG đưa khuyến nghị mua/bán.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: US, CN, KR\nMỹ: CNBC (29/10) — Alphabet giảm gần 13%, ngày tệ nhất kể từ khi lên sàn 2004, mất khoảng 500 tỷ USD vốn hóa; BBC (29/10) — doanh thu quý tăng 25% lên 127,6 tỷ USD, đám mây +103% lên gần 31 tỷ, lợi nhuận −25%, lo ngại tóm tắt AI ảnh hưởng doanh thu quảng cáo; CNBC — Microsoft hạ dự báo capex năm xuống 170 tỷ USD từ 175 tỷ, Alphabet giữ 195–205 tỷ. TQ: Baidu 30/10 #8 ‘谷歌大跌超12%’, #11 ‘英特尔盘后暴跌超20%’, #17 ‘谷歌重夺大模型第一 华尔街却不买账’. Hàn: Google Trends #8 ‘인텔’.\nDữ kiện chi tiết (kèm mức xác minh):\n- Alphabet mất khoảng 500 tỷ USD giá trị trong phiên 29/10 (giờ Mỹ). [2+ nguồn độc lập]\n- CNBC: cổ phiếu Alphabet giảm khoảng 13%, mức giảm mạnh nhất kể từ khi Google lên sàn năm 2004. [1 nguồn gốc]\n- BBC: doanh thu quý tăng 25% lên 127,6 tỷ USD; đám mây tăng 103% lên gần 31 tỷ USD; lợi nhuận giảm 25%; tóm tắt AI trên Search ảnh hưởng doanh thu quảng cáo. [1 nguồn gốc]\n- Microsoft hạ dự báo capex năm xuống 170 tỷ USD từ 175 tỷ; Alphabet giữ hướng dẫn 195–205 tỷ USD. [1 nguồn gốc]\n- Baidu realtime 30/10: #8 ‘谷歌大跌超12%’, #11 ‘英特尔盘后暴跌超20%’, #17 ‘谷歌重夺大模型第一 华尔街却不买账’. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Chỉ là khung theo dõi, không phải lời khuyên đầu tư. Con số giảm của Intel sau giờ giao dịch khác nhau giữa các nguồn (Baidu ‘hơn 20%’, tin trong Google Trends Hàn ‘16%’) — chưa đối chiếu nguồn gốc.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\n81% người dùng Việt tương tác với AI hằng ngày (ai) — nhưng đây là ý tưởng theo dõi đầu tư, mức phù hợp với giới trẻ Việt thấp hơn các ý tưởng kinh doanh.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: theo dõi thêm tác động lên VN qua nhu cầu trung tâm dữ liệu, điện và thiết bị (xem tab Đọc báo: GE Vernova mua Trench 9 tỷ USD vì thiếu thiết bị lưới điện).\n\n## 4. Ràng buộc\n- Vốn: khoảng 0–1 triệu VND (Chỉ chi phí công cụ; không bao gồm tiền đầu tư.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Không đưa khuyến nghị mua/bán; ghi rõ rủi ro; kiểm tra quy định đầu tư chứng khoán nước ngoài với nhà đầu tư cá nhân ở VN. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Không phải khuyến nghị mua/bán; biến động mạnh, có thể mất vốn nếu giao dịch.\n- Số liệu sau giờ giao dịch dễ sai lệch giữa các nguồn — luôn dùng nguồn gốc.\n- Nhà đầu tư VN mua cổ phiếu Mỹ phải qua kênh hợp pháp — cần kiểm tra quy định.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Đọc báo cáo, tóm tắt cuộc gọi kết quả kinh doanh, dựng bảng theo dõi.\n- Gemini (Google): Đối chiếu số liệu với tài liệu gốc.\n- n8n: Tự động gom RSS tin capex/kết quả kinh doanh.\n- GitHub Pages: Trang watchlist công khai.\n  Bản tiết kiệm: Claude (Anthropic), GitHub Pages. Bản cao cấp: Claude (Anthropic), Gemini (Google), n8n, GitHub Pages.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude dựng bảng 4 cột: công ty – capex dự kiến – dòng tiền tự do – phản ứng giá; điền số có nguồn ở mục 2.\n- Ngày 2: Gemini đối chiếu thông cáo kết quả kinh doanh gốc (investor relations) — chỉ ghi số có trích dẫn.\n- Ngày 3: n8n tự gom RSS tin capex mỗi sáng.\n- Ngày 4–7: cập nhật trang watchlist trên GitHub Pages; ghi nhận định là ‘giả thuyết’.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Bảng watchlist (Markdown/CSV) với các cột và nguồn\n2. Danh sách 10 chỉ số theo dõi chu kỳ capex AI, mỗi chỉ số kèm lý do\n3. Kịch bản ‘nếu–thì’ (capex tăng/giảm, dòng tiền âm/dương) — chỉ là khung suy nghĩ\n4. Quy trình n8n gom RSS [cần xác minh nguồn RSS]\n5. Mẫu ghi chú tuần\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Chỉ phân tích, KHÔNG đưa khuyến nghị mua/bán hay dự báo giá.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.44,
+      "rank": 8
+    }
+  ],
+  "keywords": [
+    {
+      "id": "kw-vn-01",
+      "region": "VN",
+      "rank": 1,
+      "keyword": "giá vàng miếng sjc",
+      "gloss": "Giá vàng miếng SJC (giá hôm 29/10 giảm mạnh trở lại)",
+      "theme": "money",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 30/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-02",
+      "region": "VN",
+      "rank": 2,
+      "keyword": "погода",
+      "gloss": "‘Thời tiết’ bằng tiếng Nga — mưa rất to ở miền Trung",
+      "theme": "society",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 30/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-03",
+      "region": "VN",
+      "rank": 3,
+      "keyword": "날씨",
+      "gloss": "‘Thời tiết’ bằng tiếng Hàn",
+      "theme": "society",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 30/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-04",
+      "region": "VN",
+      "rank": 4,
+      "keyword": "weather",
+      "gloss": "‘Weather’ (tiếng Anh)",
+      "theme": "society",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 30/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-05",
+      "region": "VN",
+      "rank": 5,
+      "keyword": "thời tiết",
+      "gloss": "Thời tiết — cảnh báo mưa to ở 3 tỉnh thành",
+      "theme": "society",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100000+ lượt tìm · 30/10 06:20 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-06",
+      "region": "VN",
+      "rank": 6,
+      "keyword": "thời tiết đà nẵng",
+      "gloss": "Thời tiết Đà Nẵng",
+      "theme": "society",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 30/10 06:20 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-07",
+      "region": "VN",
+      "rank": 7,
+      "keyword": "vasco đấu với flamengo",
+      "gloss": "Vasco – Flamengo (bóng đá Brazil, 6h 30/10)",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 30/10 06:10 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-08",
+      "region": "VN",
+      "rank": 8,
+      "keyword": "số may mắn",
+      "gloss": "Số may mắn 12 con giáp",
+      "theme": "society",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 30/10 06:10 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-09",
+      "region": "VN",
+      "rank": 9,
+      "keyword": "câu lạc bộ bóng đá manchester city",
+      "gloss": "Man City",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 30/10 06:10 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-10",
+      "region": "VN",
+      "rank": 10,
+      "keyword": "đội tuyển bóng đá quốc gia indonesia",
+      "gloss": "Đội tuyển Indonesia thua Pháp 1-5 tại World Cup",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 30/10 05:50 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-01",
+      "region": "KR",
+      "rank": 1,
+      "keyword": "압수수색",
+      "gloss": "Khám xét (tin bệnh viện Ajou)",
+      "theme": "society",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 30/10 06:00 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-02",
+      "region": "KR",
+      "rank": 2,
+      "keyword": "메이저 리그 사커",
+      "gloss": "Giải nhà nghề Mỹ MLS",
+      "theme": "sport",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 30/10 05:50 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-03",
+      "region": "KR",
+      "rank": 3,
+      "keyword": "머스캣",
+      "gloss": "Nho Shine Muscat — từ ‘hàng quý’ thành rớt giá",
+      "theme": "food",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 30/10 05:50 (UTC+7)",
+      "note": "Nông sản cao cấp mất giá — tín hiệu tiêu dùng thắt chặt; chưa làm thành ý tưởng."
+    },
+    {
+      "id": "kw-kr-04",
+      "region": "KR",
+      "rank": 4,
+      "keyword": "구자철",
+      "gloss": "Koo Ja-cheol (bóng đá)",
+      "theme": "sport",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 30/10 05:40 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-05",
+      "region": "KR",
+      "rank": 5,
+      "keyword": "브래드 갈링하우스",
+      "gloss": "Brad Garlinghouse (CEO Ripple, XRP)",
+      "theme": "money",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 30/10 05:20 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-06",
+      "region": "KR",
+      "rank": 6,
+      "keyword": "수도권 광역급행철도 c노선",
+      "gloss": "Tuyến tàu tốc hành vùng thủ đô GTX-C",
+      "theme": "travel",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 30/10 05:20 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-07",
+      "region": "KR",
+      "rank": 7,
+      "keyword": "도경완",
+      "gloss": "Do Kyung-wan (MC truyền hình)",
+      "theme": "ent",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "5000+ lượt tìm · 30/10 05:10 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-08",
+      "region": "KR",
+      "rank": 8,
+      "keyword": "인텔",
+      "gloss": "Intel — kết quả tốt nhưng dự báo gây thất vọng, giảm 16% sau giờ",
+      "theme": "money",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 30/10 04:50 (UTC+7)",
+      "idea_ids": [
+        "20261030-05-watchlist-soc-chi-tieu-ai"
+      ],
+      "note": "Baidu #11 ghi ‘giảm hơn 20% sau giờ’ — hai con số khác nhau, chưa đối chiếu."
+    },
+    {
+      "id": "kw-kr-09",
+      "region": "KR",
+      "rank": 9,
+      "keyword": "폐기물",
+      "gloss": "Cháy cơ sở xử lý rác thải ở Cheonan",
+      "theme": "society",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 30/10 04:50 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-10",
+      "region": "KR",
+      "rank": 10,
+      "keyword": "붉은사막",
+      "gloss": "Crimson Desert ra DLC",
+      "theme": "ent",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 30/10 04:50 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-01",
+      "region": "JP",
+      "rank": 1,
+      "keyword": "花田勝彦",
+      "gloss": "Hanada Katsuhiko (HLV điền kinh)",
+      "theme": "sport",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 30/10 07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-02",
+      "region": "JP",
+      "rank": 2,
+      "keyword": "モンスターハンターアウトランダーズ リセマラ",
+      "gloss": "Monster Hunter Outlanders — ‘reroll’ đầu game (game mới ra)",
+      "theme": "ent",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "2000+ lượt tìm · 30/10 07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-03",
+      "region": "JP",
+      "rank": 3,
+      "keyword": "ジェンスン・フアン",
+      "gloss": "Jensen Huang (tin điệp viên TQ tiếp cận lãnh đạo NVIDIA)",
+      "theme": "tech",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 30/10 07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-04",
+      "region": "JP",
+      "rank": 4,
+      "keyword": "クラウドファンディング",
+      "gloss": "Gọi vốn cộng đồng (dự án chăm ngựa đua giải nghệ)",
+      "theme": "money",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 30/10 07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-05",
+      "region": "JP",
+      "rank": 5,
+      "keyword": "モーニングショー",
+      "gloss": "Chương trình Morning Show",
+      "theme": "ent",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 30/10 07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-06",
+      "region": "JP",
+      "rank": 6,
+      "keyword": "ジャイアンツ球場",
+      "gloss": "Sân Giants — danh sách trại huấn luyện mùa thu",
+      "theme": "sport",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 30/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-07",
+      "region": "JP",
+      "rank": 7,
+      "keyword": "ラヴィット 出演者",
+      "gloss": "Khách mời chương trình Lovit!",
+      "theme": "ent",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 30/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-08",
+      "region": "JP",
+      "rank": 8,
+      "keyword": "緊急地震速報 訓練",
+      "gloss": "Diễn tập cảnh báo động đất khẩn cấp/sóng thần",
+      "theme": "society",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 30/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-09",
+      "region": "JP",
+      "rank": 9,
+      "keyword": "敗訴",
+      "gloss": "Thua kiện — doanh nghiệp thua liên tiếp vụ ‘đổi ngày nghỉ thành ngày làm’",
+      "theme": "work",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 30/10 06:40 (UTC+7)",
+      "note": "Liên quan quản lý lao động (lịch làm việc linh hoạt) — chưa làm thành ý tưởng."
+    },
+    {
+      "id": "kw-jp-10",
+      "region": "JP",
+      "rank": 10,
+      "keyword": "バイナンス",
+      "gloss": "Binance — nghi bị rút trái phép tiền mã hóa khoảng 400 tỷ yên",
+      "theme": "money",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 30/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-us-01",
+      "region": "US",
+      "rank": 1,
+      "keyword": "cornell",
+      "gloss": "Cornell (vụ điều tra tại trường)",
+      "theme": "society",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 30/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-us-02",
+      "region": "US",
+      "rank": 2,
+      "keyword": "patrick kane",
+      "gloss": "Patrick Kane (NHL)",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 30/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-us-03",
+      "region": "US",
+      "rank": 3,
+      "keyword": "u. católica - ldu quito",
+      "gloss": "U. Católica – LDU Quito (bóng đá Ecuador)",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 30/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-us-04",
+      "region": "US",
+      "rank": 4,
+      "keyword": "thursday night football tonight",
+      "gloss": "Thursday Night Football tối nay (NFL tuần 8)",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "10000+ lượt tìm · 30/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-us-05",
+      "region": "US",
+      "rank": 5,
+      "keyword": "shelton",
+      "gloss": "Shelton (ca sĩ nhạc đồng quê)",
+      "theme": "ent",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 30/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-us-06",
+      "region": "US",
+      "rank": 6,
+      "keyword": "what time is traitors on tonight",
+      "gloss": "Giờ chiếu ‘The Traitors’",
+      "theme": "ent",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 30/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-us-07",
+      "region": "US",
+      "rank": 7,
+      "keyword": "jeopardy",
+      "gloss": "Jeopardy!",
+      "theme": "ent",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 30/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-us-08",
+      "region": "US",
+      "rank": 8,
+      "keyword": "ryan seacrest",
+      "gloss": "Ryan Seacrest",
+      "theme": "ent",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 30/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-us-09",
+      "region": "US",
+      "rank": 9,
+      "keyword": "jimmy movie",
+      "gloss": "Phim về Jimmy Stewart",
+      "theme": "ent",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 30/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-us-10",
+      "region": "US",
+      "rank": 10,
+      "keyword": "packers depth chart",
+      "gloss": "Sơ đồ đội hình Packers",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 30/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-cn-01",
+      "region": "CN",
+      "rank": 2,
+      "keyword": "养老金要崩盘？用三本账穿越认知迷雾",
+      "gloss": "Lương hưu ‘sắp vỡ’? — Nhân dân Nhật báo bác tin gây lo âu",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.809.514"
+    },
+    {
+      "id": "kw-cn-02",
+      "region": "CN",
+      "rank": 3,
+      "keyword": "10元快剪正暴打全国的“设计总监”",
+      "gloss": "Cắt tóc nhanh 10 tệ ‘đánh bại’ các ‘giám đốc tạo mẫu’ — không gội, không bán kèm, không làm thẻ",
+      "theme": "beauty",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.713.394",
+      "idea_ids": [
+        "20261030-03-goc-tia-mai-10-phut",
+        "20261030-06-ban-do-quan-chua-tang-gia"
+      ]
+    },
+    {
+      "id": "kw-cn-03",
+      "region": "CN",
+      "rank": 5,
+      "keyword": "存2500银行误输25000储户拒还",
+      "gloss": "Gửi 2.500 tệ, ngân hàng ghi nhầm 25.000 — khách không trả, tòa xử phải trả",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.522.056"
+    },
+    {
+      "id": "kw-cn-04",
+      "region": "CN",
+      "rank": 6,
+      "keyword": "邀全网喝喜酒小伙打工3年攒近17万",
+      "gloss": "Chàng trai sinh 2002 đi làm 3 năm để dành gần 17 vạn tệ, mời cả mạng dự cưới",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.427.178"
+    },
+    {
+      "id": "kw-cn-05",
+      "region": "CN",
+      "rank": 8,
+      "keyword": "美股收盘：谷歌大跌超12%",
+      "gloss": "Chứng khoán Mỹ: Google giảm hơn 12% (12,64%), mạnh nhất từ 2004",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.236.856",
+      "idea_ids": [
+        "20261030-05-watchlist-soc-chi-tieu-ai"
+      ]
+    },
+    {
+      "id": "kw-cn-06",
+      "region": "CN",
+      "rank": 11,
+      "keyword": "英特尔盘后暴跌超20%",
+      "gloss": "Intel giảm hơn 20% sau giờ giao dịch (theo Baidu)",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 6.949.387",
+      "idea_ids": [
+        "20261030-05-watchlist-soc-chi-tieu-ai"
+      ]
+    },
+    {
+      "id": "kw-cn-07",
+      "region": "CN",
+      "rank": 13,
+      "keyword": "11月起这些新规将影响生活",
+      "gloss": "Các quy định mới có hiệu lực từ tháng 11",
+      "theme": "society",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 6.757.423"
+    },
+    {
+      "id": "kw-cn-08",
+      "region": "CN",
+      "rank": 14,
+      "keyword": "姆巴佩曾代言的饮品单日销量为0",
+      "gloss": "Đồ uống từng do Mbappé quảng cáo bán được 0 chai một ngày",
+      "theme": "food",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 6.657.159"
+    },
+    {
+      "id": "kw-cn-09",
+      "region": "CN",
+      "rank": 17,
+      "keyword": "谷歌重夺大模型第一 华尔街却不买账",
+      "gloss": "Google giành lại ngôi số 1 mô hình AI (Gemini 4 Carbon) nhưng Phố Wall không mua",
+      "theme": "tech",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 6.376.220",
+      "idea_ids": [
+        "20261030-05-watchlist-soc-chi-tieu-ai"
+      ]
+    },
+    {
+      "id": "kw-cn-10",
+      "region": "CN",
+      "rank": 20,
+      "keyword": "中国队晋级U17女足世界杯八强",
+      "gloss": "TQ vào tứ kết World Cup nữ U17",
+      "theme": "sport",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 6.079.246"
+    },
+    {
+      "id": "kw-cn-11",
+      "region": "CN",
+      "rank": 21,
+      "keyword": "女高管隆胸死亡 7个月消费108万元",
+      "gloss": "Nữ quản lý tử vong sau nâng ngực, 7 tháng chi 108 vạn tệ (bị ‘cò’ dẫn tới cơ sở)",
+      "theme": "beauty",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 5.985.950"
+    },
+    {
+      "id": "kw-cn-12",
+      "region": "CN",
+      "rank": 22,
+      "keyword": "一条牛仔裤20万 克罗心还能撑多久",
+      "gloss": "Quần jeans Chrome Hearts 20 vạn tệ — hàng giả tràn thị trường đồ hiệu cũ",
+      "theme": "fashion",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 5.896.683"
+    },
+    {
+      "id": "kw-cn-13",
+      "region": "CN",
+      "rank": 25,
+      "keyword": "红果开始给自己踩刹车了",
+      "gloss": "App phim ngắn Hồng Quả thêm nhắc ‘nghỉ ngơi’ và ‘đi ngủ’",
+      "theme": "ent",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 5.611.222"
+    },
+    {
+      "id": "kw-cn-14",
+      "region": "CN",
+      "rank": 26,
+      "keyword": "30万年轻人 排队求陌生人管住钱包",
+      "gloss": "30 vạn người trẻ xếp hàng nhờ người lạ ‘giữ ví’ (‘钱包请等等’)",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 5.504.459",
+      "idea_ids": [
+        "20261030-01-ship-khong-toi"
+      ],
+      "note": "Chủ đề đã làm ý tưởng ngày 29/10 (‘Ví ơi chờ chút’) — hôm nay chỉ nối với ý tưởng gần (‘Ship không tới’)."
+    },
+    {
+      "id": "kw-cn-15",
+      "region": "CN",
+      "rank": 30,
+      "keyword": "长斑的鸡蛋到底能不能吃",
+      "gloss": "Trứng có đốm có ăn được không",
+      "theme": "food",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 5.132.523"
+    },
+    {
+      "id": "kw-cn-16",
+      "region": "CN",
+      "rank": null,
+      "keyword": "屏享搭子",
+      "gloss": "‘Bạn chia sẻ màn hình’ — xã giao nhẹ (báo cáo xu hướng xã giao 2026, ĐH Phúc Đán)",
+      "theme": "ent",
+      "source_id": "163-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "网易 29/10",
+      "idea_ids": [
+        "20261030-04-react-ho-clip-cua-ban"
+      ]
+    },
+    {
+      "id": "kw-cn-17",
+      "region": "CN",
+      "rank": null,
+      "keyword": "模拟外卖",
+      "gloss": "‘Đặt đồ ăn giả’ — trào lưu lặng lẽ nổi (中国消费者报)",
+      "theme": "food",
+      "source_id": "cns-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "中新网 27/10",
+      "idea_ids": [
+        "20261030-01-ship-khong-toi"
+      ]
+    },
+    {
+      "id": "kw-jp-11",
+      "region": "JP",
+      "rank": 1,
+      "keyword": "天丼てんや、500円から730円へ値上げで客足約1割減　「高すぎ」という声も一部で見られる",
+      "gloss": "Tenya tăng tô tendon 500 → 730 yên, khách giảm khoảng 10%",
+      "theme": "food",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 29/10 22:50 (UTC+7) · thứ hạng bảng ‘バズまとめ’",
+      "idea_ids": [
+        "20261030-06-ban-do-quan-chua-tang-gia"
+      ],
+      "note": "Tóm tắt do AI của Yahoo tạo; số liệu trong tiêu đề cần đối chiếu nguồn gốc."
+    },
+    {
+      "id": "kw-jp-12",
+      "region": "JP",
+      "rank": 2,
+      "keyword": "清水隆行が巨人の新打撃コーチに就任、2026シーズンへ期待の声が広がる",
+      "gloss": "Shimizu Takayuki làm HLV đánh bóng mới của Giants",
+      "theme": "sport",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 29/10 23:55 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-jp-13",
+      "region": "JP",
+      "rank": 3,
+      "keyword": "JX金属株価3,151円リバート、リスナーは「怖くて買えなかった」声上がる",
+      "gloss": "Cổ phiếu JX Metals 3.151 yên — ‘sợ quá không dám mua’",
+      "theme": "money",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 29/10 21:20 (UTC+7) · thứ hạng bảng ‘バズまとめ’",
+      "note": "Tóm tắt do AI của Yahoo tạo; số liệu trong tiêu đề cần đối chiếu nguồn gốc."
+    },
+    {
+      "id": "kw-jp-14",
+      "region": "JP",
+      "rank": 4,
+      "keyword": "SnowMan『スノーマン』札幌ドーム開催、ファン熱狂と宿泊難が話題に",
+      "gloss": "Snow Man diễn ở Sapporo Dome — khó đặt phòng khách sạn",
+      "theme": "travel",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 29/10 21:00 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-jp-15",
+      "region": "JP",
+      "rank": 5,
+      "keyword": "「ケンコバのほろ酔いビジホ泊」福岡・筑紫野で温泉宿泊、次回は柏でゲスト剛さん登場",
+      "gloss": "Show ‘Kenkoba ngủ khách sạn business’",
+      "theme": "ent",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 29/10 21:30 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-jp-16",
+      "region": "JP",
+      "rank": 6,
+      "keyword": "ミニーホーク、ジャパンカップ参戦でファン歓喜の声が上がる",
+      "gloss": "Ngựa Minnie Hawk dự Japan Cup",
+      "theme": "sport",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 29/10 21:35 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-jp-17",
+      "region": "JP",
+      "rank": 7,
+      "keyword": "U-17日本女子代表、ケニア戦でファールスロー続出にネットは「審判おかしくね？」と議論",
+      "gloss": "U-17 nữ Nhật – Kenya: tranh cãi trọng tài",
+      "theme": "sport",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 30/10 02:00 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-jp-18",
+      "region": "JP",
+      "rank": 8,
+      "keyword": "「了解です」への批判が広がる、若者と上司の敬語論争がSNSで注目",
+      "gloss": "Tranh cãi ‘了解です’ — kính ngữ giữa người trẻ và cấp trên",
+      "theme": "work",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 30/10 01:55 (UTC+7) · thứ hạng bảng ‘バズまとめ’",
+      "idea_ids": [
+        "20261030-02-giai-ma-tin-nhan-sep",
+        "20261030-08-duong-day-tap-nghe-may"
+      ]
+    },
+    {
+      "id": "kw-jp-19",
+      "region": "JP",
+      "rank": 9,
+      "keyword": "目黒蓮、入所16周年を迎えファン歓喜　“ありがとう”の声が続く",
+      "gloss": "Meguro Ren kỷ niệm 16 năm vào nghề",
+      "theme": "ent",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 30/10 02:25 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-jp-20",
+      "region": "JP",
+      "rank": 10,
+      "keyword": "「モナ王」登場で話題沸騰、パスタライ助・大胆な暮らしと“トリオ”がSNSで大盛り上がり",
+      "gloss": "Kem ‘Mona-Oh’ xuất hiện trên chương trình, gây sốt",
+      "theme": "food",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 29/10 21:20 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-jp-21",
+      "region": "JP",
+      "rank": null,
+      "keyword": "「選択」から解放してくれる商品",
+      "gloss": "Sản phẩm ‘giải phóng khỏi việc phải chọn’ — nhận xét của Nikkei Trendy về hàng hot 2026",
+      "theme": "home",
+      "source_id": "nikkei-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "Nikkei Trendy 29/10 (phần giới thiệu)",
+      "idea_ids": [
+        "20261030-07-tu-do-7-bo-khong-phai-nghi",
+        "20261030-03-goc-tia-mai-10-phut"
+      ]
+    },
+    {
+      "id": "kw-kr-11",
+      "region": "KR",
+      "rank": null,
+      "keyword": "생성형 AI 고민 상담",
+      "gloss": "Gen Z hỏi AI khi gặp vấn đề — 26% chọn AI đầu tiên (khảo sát Jinhaksa Catch)",
+      "theme": "work",
+      "source_id": "kh-ai-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "Korea Herald 8/10",
+      "idea_ids": [
+        "20261030-02-giai-ma-tin-nhan-sep",
+        "20261030-08-duong-day-tap-nghe-may"
+      ]
+    },
+    {
+      "id": "kw-kr-12",
+      "region": "KR",
+      "rank": null,
+      "keyword": "현백코어 (Hyunbaek-core)",
+      "gloss": "Phong cách ‘đẹp kiểu giàu mà như không cố’",
+      "theme": "fashion",
+      "source_id": "kh-hb-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "Korea Herald 19/10",
+      "idea_ids": [
+        "20261030-07-tu-do-7-bo-khong-phai-nghi"
+      ]
+    },
+    {
+      "id": "kw-us-11",
+      "region": "US",
+      "rank": 1,
+      "keyword": "Smooth & Clear Body Care Set (medicube)",
+      "gloss": "Bộ chăm sóc da body medicube — 4,64 triệu USD tháng 9",
+      "theme": "beauty",
+      "source_id": "zmedia-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "Top sản phẩm TikTok Shop Mỹ tháng 9/2026 (Z Media/Cruva)",
+      "note": "Dữ liệu tháng 9, công bố 21/10; ước tính GMV của bên thứ ba."
+    },
+    {
+      "id": "kw-us-12",
+      "region": "US",
+      "rank": 3,
+      "keyword": "Ribbon Cherry Glass Hair Brush (medicube)",
+      "gloss": "Lược chải tóc 21 USD bán 119.452 chiếc — sản phẩm K-beauty mở rộng sang phụ kiện",
+      "theme": "beauty",
+      "source_id": "zmedia-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "Top sản phẩm TikTok Shop Mỹ tháng 9/2026 (Z Media/Cruva)"
+    },
+    {
+      "id": "kw-us-13",
+      "region": "US",
+      "rank": 6,
+      "keyword": "Rosemary Water & Rice Water (Nature x Science)",
+      "gloss": "Nước dưỡng tóc hương thảo & nước vo gạo — 114.689 đơn vị",
+      "theme": "beauty",
+      "source_id": "zmedia-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "Top sản phẩm TikTok Shop Mỹ tháng 9/2026 (Z Media/Cruva)"
+    },
+    {
+      "id": "kw-us-14",
+      "region": "US",
+      "rank": 8,
+      "keyword": "Blemish & Dark Spot Patch Duo (Dr.Melaxin)",
+      "gloss": "Miếng dán mụn/thâm — 88.270 đơn vị",
+      "theme": "beauty",
+      "source_id": "zmedia-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "Top sản phẩm TikTok Shop Mỹ tháng 9/2026 (Z Media/Cruva)"
+    },
+    {
+      "id": "kw-sea-01",
+      "region": "SEA",
+      "rank": null,
+      "keyword": "Style Sketch (Meta)",
+      "gloss": "App phối đồ AI của Meta, mới có ở Indonesia, Singapore, Thái Lan",
+      "theme": "fashion",
+      "source_id": "tc-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "TechCrunch 29/10",
+      "idea_ids": [
+        "20261030-07-tu-do-7-bo-khong-phai-nghi"
+      ]
+    },
+    {
+      "id": "kw-global-01",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Cổ phiếu AI lao dốc / chi tiêu AI",
+      "gloss": "Alphabet, Intel giảm mạnh — hot ở TQ và Hàn cùng lúc",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "TQ: Baidu #8, #11, #17; Hàn: GT #8 1000+",
+      "idea_ids": [
+        "20261030-05-watchlist-soc-chi-tieu-ai"
+      ],
+      "derived_from": [
+        "kw-cn-05",
+        "kw-cn-06",
+        "kw-cn-09",
+        "kw-kr-08"
+      ]
+    },
+    {
+      "id": "kw-global-02",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Phản ứng với tăng giá & bán kèm",
+      "gloss": "Cắt tóc 10 tệ ở TQ, tô tendon 730 yên ở Nhật",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "TQ: Baidu #3; Nhật: Yahoo #1",
+      "idea_ids": [
+        "20261030-03-goc-tia-mai-10-phut",
+        "20261030-06-ban-do-quan-chua-tang-gia",
+        "20261030-01-ship-khong-toi"
+      ],
+      "derived_from": [
+        "kw-cn-02",
+        "kw-jp-11"
+      ]
+    },
+    {
+      "id": "kw-global-03",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Gen Z & giao tiếp công sở",
+      "gloss": "Tranh cãi kính ngữ ở Nhật, Gen Z Hàn hỏi AI",
+      "theme": "work",
+      "source_id": "yahoojp",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "Nhật: Yahoo #8; Hàn: Korea Herald",
+      "idea_ids": [
+        "20261030-02-giai-ma-tin-nhan-sep",
+        "20261030-08-duong-day-tap-nghe-may"
+      ],
+      "derived_from": [
+        "kw-jp-18",
+        "kw-kr-11"
+      ]
+    }
+  ],
+  "keyword_sources": [
+    {
+      "id": "gt-vn",
+      "name": "Google Trends — Daily Search Trends (Việt Nam)",
+      "title": "Google Trends RSS geo=VN (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "published": null,
+      "accessed": "2026-10-30",
+      "captured_at": "2026-10-30T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "VN",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "gt-kr",
+      "name": "Google Trends — Daily Search Trends (Hàn Quốc)",
+      "title": "Google Trends RSS geo=KR (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=KR",
+      "published": null,
+      "accessed": "2026-10-30",
+      "captured_at": "2026-10-30T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "gt-jp",
+      "name": "Google Trends — Daily Search Trends (Nhật Bản)",
+      "title": "Google Trends RSS geo=JP (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "published": null,
+      "accessed": "2026-10-30",
+      "captured_at": "2026-10-30T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "gt-us",
+      "name": "Google Trends — Daily Search Trends (Mỹ)",
+      "title": "Google Trends RSS geo=US (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "published": null,
+      "accessed": "2026-10-30",
+      "captured_at": "2026-10-30T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "US",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "baidu",
+      "name": "Baidu 百度热搜",
+      "title": "百度热搜 实时榜",
+      "url": "https://top.baidu.com/board?tab=realtime",
+      "published": null,
+      "accessed": "2026-10-30",
+      "captured_at": "2026-10-30T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "CN",
+      "note": "Bảng realtime đo trực tiếp; ‘điểm nóng’ là hotScore của Baidu. Chọn các mục liên quan kinh doanh/tiêu dùng/công nghệ, bỏ bớt tin chính trị–thời sự."
+    },
+    {
+      "id": "yahoojp",
+      "name": "Yahoo! JAPAN リアルタイム検索 — SNSのバズまとめ",
+      "title": "SNSのバズまとめ (bảng xếp hạng)",
+      "url": "https://search.yahoo.co.jp/realtime/search/matome",
+      "published": null,
+      "accessed": "2026-10-30",
+      "captured_at": "2026-10-30T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "Bảng xếp hạng chủ đề đang được bàn trên X ở Nhật, Yahoo tóm tắt bằng AI; hạng là thứ tự trên bảng lúc chụp."
+    },
+    {
+      "id": "163-kw",
+      "name": "网易订阅",
+      "title": "淡社交时代，年轻人离不开KOOK“屏享搭子”",
+      "url": "https://www.163.com/dy/article/LADDCRM40517AHTJ.html",
+      "published": "2026-10-29",
+      "accessed": "2026-10-30",
+      "captured_at": "2026-10-30T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "CN",
+      "note": "Bài báo (có tính giới thiệu nền tảng), không phải bảng xếp hạng."
+    },
+    {
+      "id": "cns-kw",
+      "name": "中新网 (中国消费者报)",
+      "title": "“模拟外卖点餐”悄然走红，真风险须规避",
+      "url": "https://www.chinanews.com/sh/2026/10-27/10721777.shtml",
+      "published": "2026-10-27",
+      "accessed": "2026-10-30",
+      "captured_at": "2026-10-30T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "CN",
+      "note": "Bài báo, không phải bảng xếp hạng."
+    },
+    {
+      "id": "nikkei-kw",
+      "name": "日経クロストレンド",
+      "title": "2026年ヒット商品ベスト30",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/",
+      "published": "2026-10-29",
+      "accessed": "2026-10-30",
+      "captured_at": "2026-10-30T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "Chỉ đọc phần giới thiệu công khai; danh sách xếp hạng sau tường phí."
+    },
+    {
+      "id": "kh-ai-kw",
+      "name": "The Korea Herald",
+      "title": "[Graphic News] Gen Z turns to AI for personal advice",
+      "url": "https://www.koreaherald.com/article/10896135",
+      "published": "2026-10-08",
+      "accessed": "2026-10-30",
+      "captured_at": "2026-10-30T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "Bài báo dẫn khảo sát Jinhaksa Catch."
+    },
+    {
+      "id": "kh-hb-kw",
+      "name": "The Korea Herald",
+      "title": "Young Koreans want the nepo baby look. It’s called ‘Hyunbaek-core’",
+      "url": "https://www.koreaherald.com/article/10907469",
+      "published": "2026-10-19",
+      "accessed": "2026-10-30",
+      "captured_at": "2026-10-30T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "Bài báo, không phải bảng xếp hạng."
+    },
+    {
+      "id": "zmedia-kw",
+      "name": "Z Media TikTok Shop Index",
+      "title": "Z Media TikTok Shop Index: October 2026 (Third Edition)",
+      "url": "https://www.z.media/insights/tiktok-shop-index-october-2026",
+      "published": "2026-10-21",
+      "accessed": "2026-10-30",
+      "captured_at": "2026-10-30T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "US",
+      "note": "Bên thứ ba (agency TikTok Shop) dùng dữ liệu Cruva; số liệu tháng 9/2026; đọc qua WebFetch."
+    },
+    {
+      "id": "tc-kw",
+      "name": "TechCrunch",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "published": "2026-10-29",
+      "accessed": "2026-10-30",
+      "captured_at": "2026-10-30T07:10:00+07:00",
+      "how_read": "mở trang",
+      "region": "SEA",
+      "note": "Bài báo; app chỉ có ở 3 nước ĐNA."
+    }
+  ],
+  "keyword_unreachable": [
+    {
+      "region": "CN",
+      "source": "Weibo 热搜 (s.weibo.com/top/summary)",
+      "reason": "Thử lại 30/10: HTTP 302 chuyển sang trang đăng nhập khách, không lấy được danh sách."
+    },
+    {
+      "region": "CN",
+      "source": "Douyin/Xiaohongshu hot list",
+      "reason": "Không thử lại 30/10 (cần đăng nhập/JS, không có API công khai)."
+    },
+    {
+      "region": "VN",
+      "source": "Shopee/TikTok Shop/Lazada VN trending",
+      "reason": "Không thử lại 30/10 (danh sách nằm sau JavaScript/đăng nhập)."
+    },
+    {
+      "region": "KR",
+      "source": "Naver DataLab / Daum realtime",
+      "reason": "Không thử lại 30/10 (Naver đã bỏ bảng từ khóa realtime công khai); dùng Google Trends KR."
+    },
+    {
+      "region": "US",
+      "source": "Amazon Movers & Shakers",
+      "reason": "Không thử lại 30/10 (danh sách tải bằng JavaScript); dùng Z Media TikTok Shop Index thay thế."
+    },
+    {
+      "region": "GLOBAL",
+      "source": "TikTok Creative Center",
+      "reason": "Không thử lại 30/10 (chỉ trả khung JS)."
+    },
+    {
+      "region": "JP",
+      "source": "Nikkei Trendy — danh sách 30 hàng hot 2026",
+      "reason": "Thứ hạng nằm sau tường phí; chỉ dùng câu giới thiệu."
+    },
+    {
+      "region": "GLOBAL",
+      "source": "Bảng từ khóa toàn cầu",
+      "reason": "Không có nguồn toàn cầu công khai đọc được; mục ‘Toàn cầu’ là chủ đề suy ra từ ≥ 2 vùng và ghi rõ nguồn."
+    }
+  ]
+}

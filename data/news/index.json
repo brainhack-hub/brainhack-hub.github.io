@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29",
-  "latest": "2026-10-29",
+  "updated": "2026-10-30",
+  "latest": "2026-10-30",
   "topics": [
     {
       "id": "ai_xd",
@@ -64,6 +64,18 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-10-30",
+      "file": "2026-10-30.json",
+      "headline": "Đọc báo 30/10/2026: AI vào phần mềm BIM trả phí và công trường robot, Alphabet mất 500 tỷ USD, giá thép ép biên lãi nhà thầu còn 1–2%",
+      "item_count": 23,
+      "topics": {
+        "ai_xd": 10,
+        "chuoi_cung_ung": 4,
+        "cong_nghe": 3,
+        "vn": 6
+      }
+    },
     {
       "date": "2026-10-29",
       "file": "2026-10-29.json",
