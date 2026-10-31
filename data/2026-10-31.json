@@ -1,0 +1,3428 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T08:30:00+07:00",
+  "headline": "Thuê người bên cha mẹ, may áo cho boss, sống nhỏ mà vẫn đẹp: TQ có ‘con cái dùng chung’ 199 tệ, Hàn săn đồ chứa đồ, vàng bạc lao dốc",
+  "summary": "Trung Quốc là trọng tâm: ‘共享儿女’ (con cái dùng chung) từ 199 tệ/tháng lên Baidu, xưởng may cho người trẻ có tháng 20 vạn tệ với khóa may đồ thú cưng, ‘đồ mặc một lần’ để chụp ảnh du lịch bị phê phán, cô gái 22 tuổi thuê 30 căn hộ để dạy robot làm việc nhà, và người trẻ đổ đi mua vàng khi giá giảm. Hàn: lượt nhắc đồ chứa đồ tăng 314,86%, bánh kẹo retro cháy hàng, dịch vụ ‘trò chuyện + học smartphone’ cho cha mẹ. Nhật: tự truyện của cha mẹ làm qua LINE. Mỹ: app trả tiền cho clip việc nhà; Intel giảm 28%. 8 ý tưởng nhỏ: sinh viên dạy ông bà dùng điện thoại, lớp may áo thú cưng, tủ đồ check-in ở homestay, gói sắp xếp phòng trọ 2 giờ, hồi ký Zalo cho ông bà, hộp quà vặt theo năm sinh, đội quay dữ liệu việc nhà cho robot, watchlist vàng–bạc.",
+  "trends": [
+    {
+      "id": "20261031-t1-hieu-thao-thue-ngoai",
+      "title": "‘Hiếu thảo thuê ngoài’ và lưu giữ ký ức: TQ có ‘con cái dùng chung’ 199 tệ/tháng, Hàn bán gói ‘trò chuyện + học smartphone’, Nhật biến tin nhắn LINE thành tự truyện của cha mẹ",
+      "summary": "Sáng 31/10, ‘共享儿女’ ở #43 Baidu: một phường ở Trường Sa bán 5 mức dịch vụ 199–1.000 tệ/tháng cho người già có con ở xa, gồm cả dạy dùng điện thoại. Ở Hàn, Hyodocare niêm yết 2 giờ ‘trò chuyện + học smartphone’ 39.000 won. Ở Nhật, ‘親の履歴書’ (9.800 yên) và TADOROOTS (từ 38.000 yên) hỏi chuyện cha mẹ qua LINE để làm sách.",
+      "why_it_matters": "Con cái bận và ở xa đang trả tiền cho thời gian bên cha mẹ và cho ký ức gia đình — nền cho ý tưởng #1 và #5. Ở VN đã có bTaskee, OBAcare, viethoiky nên cần điểm khác rõ.",
+      "tags": [
+        "người cao tuổi",
+        "gia đình",
+        "dịch vụ",
+        "ký ức"
+      ],
+      "regions": [
+        "CN",
+        "KR",
+        "JP"
+      ],
+      "key_facts": [
+        {
+          "text": "Dịch vụ ‘共享儿女’ ở Trường Sa: 5 mức 199–1.000 tệ/tháng, hơn 30 hạng mục, phục vụ cố định 120 cụ.",
+          "source_ids": [
+            "ycwb_gongxiang",
+            "cswb_gongxiang"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Hyodocare (Hàn): 2 giờ ‘trò chuyện + học smartphone’ 39.000 won; gói tháng 39.000–159.000 won.",
+          "source_ids": [
+            "hyodocare_price"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Nhật có ít nhất hai dịch vụ biến hội thoại LINE với cha mẹ thành sách tự truyện (9.800 yên; từ 38.000 yên).",
+          "source_ids": [
+            "oya_rirekisho",
+            "tadoroots"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "id": "baidu_rt43",
+          "name": "Baidu 百度热搜 (mục #43)",
+          "title": "街道试点“共享儿女”最低199元每月",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 31/10 07:11 (UTC+7); hotScore 3.887.911."
+        },
+        {
+          "id": "ycwb_gongxiang",
+          "name": "羊城派 (羊城晚报)",
+          "title": "最低199元每月！湖南长沙一街道试点“共享儿女”",
+          "url": "https://ycpai.ycwb.com/content/ikimvjkthk/content_54335245.html",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang không ghi ngày; cùng sự kiện với 长沙晚报 (18/10) và Baidu #43 sáng 31/10."
+        },
+        {
+          "id": "cswb_gongxiang",
+          "name": "长沙晚报网",
+          "title": "芙蓉区文艺路街道：120位老人有了“共享儿女”｜社区故事会",
+          "url": "https://cswb.icswb.com/h/100036/20261018/1000292.html",
+          "published": "2026-10-18",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "hyodocare_price",
+          "name": "효도케어 (Hyodocare, Hàn Quốc)",
+          "title": "이용요금 - 효도케어",
+          "url": "https://hyodocare.com/pricing",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bảng giá của doanh nghiệp; giá khuyến mãi áp dụng đến 31/12/2026, đã gồm VAT."
+        },
+        {
+          "id": "kyeonggi_hyodo",
+          "name": "경기일보 (Kyeonggi Ilbo)",
+          "title": "“초고령사회, 돌봄의 주체 바뀐다”…‘효도 대행’ 서비스 확산",
+          "url": "https://www.kyeonggi.com/article/20260212580722",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bài cũ (mã bài 20260212, khoảng tháng 2/2026) — bối cảnh dịch vụ ‘hiếu thảo hộ’ ở Hàn."
+        },
+        {
+          "id": "oya_rirekisho",
+          "name": "親の履歴書 (Nhật)",
+          "title": "親の履歴書 | 親の、親の顔しか、知らない。",
+          "url": "https://oyanorirekisho.com/",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang sản phẩm."
+        },
+        {
+          "id": "tadoroots",
+          "name": "TADOROOTS (Nhật)",
+          "title": "TADOROOTS STORY | 親の声が、一冊の本になる。",
+          "url": "https://www.tadoroots.jp/story",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang sản phẩm."
+        }
+      ]
+    },
+    {
+      "id": "20261031-t2-may-va-thu-cong-tro-lai",
+      "title": "Máy may thành ‘đồ chơi mới’ của người trẻ TQ: lớp may, chắp vải, may đồ thú cưng",
+      "summary": "Xưởng 玄猫 (Gia Hưng) đi từ tiệm sửa đồ 30 m² lên cửa hàng thứ 3, có tháng 20 vạn tệ, khóa đồ thú cưng chiếm khoảng 30% doanh thu (网易 20/10). Nội dung chắp vải đạt 2,4 亿 lượt xem; tiệm DIY thu 80–100 tệ/giờ (6/10). Thượng Hải có lớp may đồ chó 358 tệ/150 phút.",
+      "why_it_matters": "Người trẻ trả tiền cho ‘vài giờ làm ra một thứ bằng tay’ có thể khoe lên mạng — nền cho ý tưởng #2.",
+      "tags": [
+        "thủ công",
+        "may vá",
+        "thú cưng",
+        "trải nghiệm"
+      ],
+      "regions": [
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "Xưởng 玄猫: tháng cao nhất 20 vạn tệ; lớp trải nghiệm >40%, khóa đồ thú cưng ~30% doanh thu.",
+          "source_ids": [
+            "163_xuanmao"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Lớp may đồ thú cưng có ở nhiều thành phố TQ (Hàng Châu/Gia Hưng, Thượng Hải).",
+          "source_ids": [
+            "hangzhou_pet_sew",
+            "smartshanghai_pet"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Nội dung chắp vải 2,4 亿 lượt xem; tiệm DIY may 80–100 tệ/giờ.",
+          "source_ids": [
+            "163_pinbu"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "163_xuanmao",
+          "name": "网易订阅",
+          "title": "一间缝纫教室月入20万，98年嘉兴小伙把缝纫机变成年轻人的新玩具",
+          "url": "https://www.163.com/dy/article/L9MD7JE105118513.html",
+          "published": "2026-10-20",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bài trên nền tảng tác giả (网易号)."
+        },
+        {
+          "id": "163_pinbu",
+          "name": "网易订阅 (克劳锐)",
+          "title": "从拼豆到拼布，“慢手工”成年轻人的情绪出口",
+          "url": "https://www.163.com/dy/article/L8HT2LMB051181GK.html",
+          "published": "2026-10-06",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bài trên nền tảng tác giả (网易号)."
+        },
+        {
+          "id": "hangzhou_pet_sew",
+          "name": "杭州网 (每日商报)",
+          "title": "花费百元体验“钩针编织”这届年轻人迷上给宠物做衣服",
+          "url": "https://jrsh.hangzhou.com.cn/content/2026-05/15/content_9222961.html",
+          "published": "2026-05-15",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bài cũ (5/2026) — cùng cửa hàng 玄猫Maoer."
+        },
+        {
+          "id": "smartshanghai_pet",
+          "name": "SmartShanghai",
+          "title": "Make Clothes for Your Dog at This Shanghai Pet Fashion Workshop",
+          "url": "https://www.smartshanghai.com/articles/activities/make-clothes-for-your-dog-at-this-shanghai-pet-fashion-workshop",
+          "published": "2026-03-31",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bài cũ (3/2026) — xưởng khác (Fujiaweng) ở Thượng Hải, nguồn độc lập."
+        }
+      ]
+    },
+    {
+      "id": "20261031-t3-song-nho-tieu-it",
+      "title": "Sống nhỏ, tiêu ít mà vẫn đẹp: Hàn đổ xô mua đồ chứa đồ, TQ ‘cải tạo phòng trọ’ và mặc ‘đồ một lần’ để chụp ảnh du lịch",
+      "summary": "Hankyung (25/10): lượt nhắc ‘수납템’ tăng 314,86% trong một tháng, đồ chứa của Daiso cháy hàng; 82,6% hộ thanh niên Hàn ở thuê. TQ: #出租屋改造# hơn 21 亿 lượt xem trên Douyin; ‘次抛衣’ dưới 50 tệ/món để chụp ảnh du lịch rồi vứt, chủ đề hơn 60 triệu lượt xem — bị cảnh báo lãng phí và hại da.",
+      "why_it_matters": "Người trẻ ở thuê, thu nhập eo hẹp vẫn chi cho ‘chỗ ở gọn đẹp’ và ‘ảnh đẹp’ — nhưng muốn rẻ, ít rác: nền cho ý tưởng #3, #4.",
+      "tags": [
+        "thuê nhà",
+        "đồ chứa",
+        "du lịch",
+        "tiết kiệm"
+      ],
+      "regions": [
+        "KR",
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "Hàn: lượt nhắc đồ chứa đồ tăng 314,86% (22/9–23/10); 82,6% hộ thanh niên ở thuê.",
+          "source_ids": [
+            "hankyung_sunap"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "TQ: #出租屋改造# hơn 21 亿 lượt xem (Douyin); #租房大改造# 35 亿 lượt xem (Xiaohongshu).",
+          "source_ids": [
+            "ycwb_baogai"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "‘次抛衣’: đồ dưới 50 tệ mua để chụp ảnh du lịch rồi vứt/bán lại; chuyên gia cảnh báo về da.",
+          "source_ids": [
+            "sixthtone_cipao",
+            "qq_cipao"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "id": "hankyung_sunap",
+          "name": "한국경제 (Hankyung)",
+          "title": "이사 대신 다이소 갑니다…2030 열광하더니 품절 대란",
+          "url": "https://www.hankyung.com/article/202610231348H",
+          "published": "2026-10-25",
+          "accessed": "2026-10-31",
+          "how_read": "đọc một phần",
+          "note": "Trang công khai chỉ đọc được một phần thân bài bằng công cụ; số liệu lấy từ phần đã đọc."
+        },
+        {
+          "id": "ycwb_baogai",
+          "name": "羊城派 (羊城晚报)",
+          "title": "住不起大平层，年轻人迷上“爆改”出租屋",
+          "url": "https://ycpai.ycwb.com/content/ikinvjktki/content_53710308.html",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang không ghi ngày đăng — dùng làm bối cảnh."
+        },
+        {
+          "id": "sixthtone_cipao",
+          "name": "Sixth Tone",
+          "title": "In Stitches: Why Young Chinese Are Buying Clothes They Can Throw Away",
+          "url": "https://www.sixthtone.com/news/1019154",
+          "published": "2026-10-23",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "qq_cipao",
+          "name": "腾讯新闻 (封面新闻)",
+          "title": "“次抛衣”成国庆旅游“出片神器” 专家提醒：警惕“一次性美丽”伤了皮肤",
+          "url": "https://news.qq.com/rain/a/20261006A04XL600",
+          "published": "2026-10-06",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang"
+        }
+      ]
+    },
+    {
+      "id": "20261031-t4-vang-bac-lao-doc",
+      "title": "Vàng, bạc lao dốc cuối tháng 10: vàng có lúc 3.891 USD, bạc thủng 50 USD; TQ đổ đi mua vàng, VN bạc thấp hơn đỉnh 60%",
+      "summary": "Ngày 30/10, vàng giao ngay xuống thấp nhất từ 10/2025 (3.891 USD/ounce), bạc 49,34 USD (新浪/财联社) khi các ngân hàng trung ương giữ giọng cứng rắn và cổ phiếu công nghệ bị bán mạnh. TQ: ‘金价降了卖爆了’ #3 Baidu, trang sức vàng về khoảng 1.200 tệ/gram. VN: bạc miếng khoảng 1,7 triệu đồng/lượng (−60% từ đỉnh), SJC thấp hơn đỉnh khoảng 25%; đại biểu Quốc hội đề xuất thí điểm chứng chỉ vàng.",
+      "why_it_matters": "Biến động lớn cùng lúc ở TQ và VN — nền cho watchlist #8 (chỉ theo dõi, không khuyến nghị).",
+      "tags": [
+        "vàng",
+        "bạc",
+        "lãi suất",
+        "chính sách"
+      ],
+      "regions": [
+        "CN",
+        "VN",
+        "GLOBAL"
+      ],
+      "key_facts": [
+        {
+          "text": "Vàng giao ngay thấp nhất 3.891 USD/ounce, bạc 49,34 USD ngày 30/10.",
+          "source_ids": [
+            "sina_gold"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Giá vàng/bạc giảm mạnh được báo ở cả TQ và VN; bạc giảm mạnh hơn vàng.",
+          "source_ids": [
+            "sina_gold",
+            "vnexpress_bac",
+            "yicai_gold"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "VN: đề xuất thí điểm chứng chỉ vàng; người dân giữ khoảng 500 tấn vàng.",
+          "source_ids": [
+            "vnexpress_ccvang"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "baidu_rt3",
+          "name": "Baidu 百度热搜 (mục #3)",
+          "title": "金价降了卖爆了 银价已腰斩",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 31/10 07:11 (UTC+7); hotScore 7.712.342."
+        },
+        {
+          "id": "yicai_gold",
+          "name": "第一财经",
+          "title": "金价降了卖爆了 银价已腰斩",
+          "url": "https://www.yicai.com/news/103419136.html",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "đọc một phần",
+          "note": "Chỉ đọc được đoạn đầu (dẫn 央视财经); trang không ghi ngày đọc được."
+        },
+        {
+          "id": "sina_gold",
+          "name": "新浪财经 (财联社)",
+          "title": "贵金属遭遇抛售潮！黄金下破3900美元 白银失守50美元关口",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwzprn2192252.shtml",
+          "published": "2026-10-30",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "vnexpress_bac",
+          "name": "VnExpress",
+          "title": "Giá bạc giảm 60% từ đỉnh",
+          "url": "https://vnexpress.net/gia-bac-giam-60-tu-dinh-5138653.html",
+          "published": "2026-10-30",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "vnexpress_ccvang",
+          "name": "VnExpress",
+          "title": "Đề xuất thí điểm chứng chỉ vàng",
+          "url": "https://vnexpress.net/de-xuat-thi-diem-chung-chi-vang-5138821.html",
+          "published": "2026-10-30",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang"
+        }
+      ]
+    },
+    {
+      "id": "20261031-t5-nghe-day-robot",
+      "title": "Nghề mới ‘dạy robot làm việc nhà’: TQ thuê căn hộ có người ở cho robot tập, Mỹ trả tiền cho clip gấp quần áo",
+      "summary": "Câu chuyện cô gái 22 tuổi dẫn hơn 50 người dạy robot, đi thuê khoảng 30 căn hộ mỗi căn một tuần, lên #32 Baidu sáng 31/10 (极目新闻, 网易 30/10). Ở Mỹ, EgoCash trả 0,40–2,10 USD/clip việc nhà, Sensei cũng trả tiền cho clip tương tự. Tesla nói thiếu dữ liệu là thách thức lớn với Optimus (Supply Chain Dive 28/10).",
+      "why_it_matters": "Dữ liệu ‘tay người trong nhà thật’ đang thành hàng hóa — nền cho ý tưởng #7 (nhiều giả thuyết, rủi ro quyền riêng tư).",
+      "tags": [
+        "robot",
+        "dữ liệu",
+        "việc làm",
+        "AI"
+      ],
+      "regions": [
+        "CN",
+        "US"
+      ],
+      "key_facts": [
+        {
+          "text": "Đội hơn 50 người ở Vũ Hán thu dữ liệu robot trong khoảng 30 căn hộ có người ở thật.",
+          "source_ids": [
+            "jimu_robot",
+            "163_robot30"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Ít nhất hai app ở Mỹ trả tiền cho clip việc nhà để huấn luyện robot.",
+          "source_ids": [
+            "egocash",
+            "sensei_chores"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Tesla: thu dữ liệu là thách thức lớn; dự định ‘Optimus Academy’ 10.000–20.000 robot.",
+          "source_ids": [
+            "scd_optimus"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "baidu_rt32",
+          "name": "Baidu 百度热搜 (mục #32)",
+          "title": "00后女生租30套房每套住1周",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 31/10 07:11 (UTC+7); hotScore 4.940.310."
+        },
+        {
+          "id": "jimu_robot",
+          "name": "极目新闻 (楚天都市报)",
+          "title": "“00后”机器人训练师杨心怡：带领50多人给机器人当老师，租30套房给机器人“练手”",
+          "url": "https://www.ctdsb.net/c1734_202610/2891980.html",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Đường dẫn thuộc thư mục 202610; trang không ghi ngày giờ đọc được."
+        },
+        {
+          "id": "163_robot30",
+          "name": "网易订阅",
+          "title": "浙江22岁女生武汉一口气租30套房，每套只住一周，中介差点报警！真相来了",
+          "url": "https://www.163.com/dy/article/LAGSSLD105565VL4.html",
+          "published": "2026-10-30",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bài trên nền tảng tác giả, kể lại câu chuyện của 极目新闻."
+        },
+        {
+          "id": "egocash",
+          "name": "EgoCash",
+          "title": "EgoCash: Get paid to film everyday chores",
+          "url": "https://www.egocash.tech/",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang sản phẩm (Mỹ) — mức trả theo clip do công ty tự nêu."
+        },
+        {
+          "id": "sensei_chores",
+          "name": "Sensei",
+          "title": "Sensei — Get Paid to Do Your Chores",
+          "url": "https://senseirobotics.com/mobile",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang sản phẩm — không nêu mức trả."
+        },
+        {
+          "id": "scd_optimus",
+          "name": "Supply Chain Dive",
+          "title": "Tesla begins humanoid production in California",
+          "url": "https://www.supplychaindive.com/news/tesla-begins-optimus-humanoid-production-california-shipments-2027/872992/",
+          "published": "2026-10-28",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Đọc qua WebFetch (curl bị 403)."
+        }
+      ]
+    },
+    {
+      "id": "20261031-t6-co-phieu-ai-chip",
+      "title": "Cổ phiếu chip và AI lại rung lắc: Intel mất 28% một phiên, lo chi tiêu AI hơn 740 tỷ USD",
+      "summary": "Baidu #8 và #15 sáng 31/10: Nasdaq giảm 2,9%, Intel giảm 28% — mạnh nhất 52 năm; Yahoo Nhật #5 ‘インテル株30%急落’. TechCrunch (30/10): Alphabet, Amazon, Meta, Microsoft dự chi hơn 740 tỷ USD capex năm nay; Alphabet và Amazon có dòng tiền tự do âm, nhà đầu tư lo khả năng thu hồi vốn.",
+      "why_it_matters": "Bối cảnh vĩ mô (giá cổ phiếu, chi tiêu AI) ảnh hưởng giá chip/thiết bị — không làm ý tưởng mới vì đã có watchlist chi tiêu AI ngày 30/10.",
+      "tags": [
+        "AI",
+        "chip",
+        "chứng khoán"
+      ],
+      "regions": [
+        "US",
+        "CN",
+        "JP"
+      ],
+      "key_facts": [
+        {
+          "text": "Intel giảm 28% trong một phiên, mạnh nhất 52 năm (theo Baidu); Yahoo Nhật ghi ‘khoảng 30%’.",
+          "source_ids": [
+            "baidu_rt8",
+            "yahoojp_rt5"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "4 hãng công nghệ lớn dự chi hơn 740 tỷ USD capex năm nay; Nasdaq giảm 2,9% ngày 30/10.",
+          "source_ids": [
+            "tc_cracks"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "baidu_rt8",
+          "name": "Baidu 百度热搜 (mục #8)",
+          "title": "纳指收跌2.9% 英特尔暴跌28%",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 31/10 07:11 (UTC+7); hotScore 7.238.805."
+        },
+        {
+          "id": "yahoojp_rt5",
+          "name": "Yahoo! JAPAN リアルタイム検索 — バズまとめ (mục #5)",
+          "title": "インテル株30%急落、投資家の間で驚きと不安の声が広がる",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome/01ddf2eb4b264496bc6d852e37d21d6b-1793389500",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Tóm tắt do AI của Yahoo tạo từ bài đăng trên X; chụp 31/10 07:11 (UTC+7)."
+        },
+        {
+          "id": "tc_cracks",
+          "name": "TechCrunch",
+          "title": "Cracks are emerging in the AI spending boom",
+          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+          "published": "2026-10-30",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "20261031-08-watchlist-vang-bac-sau-cu-giam",
+      "date": "2026-10-31",
+      "title": "Watchlist “vàng–bạc sau cú giảm”: theo dõi chênh lệch giá trong nước–thế giới, đề xuất chứng chỉ vàng và nhu cầu mua vàng nhỏ của người trẻ",
+      "pitch": "Ngày 30/10, vàng thế giới có lúc xuống 3.891 USD/ounce, bạc thủng 50 USD; ở TQ, người trẻ đổ đi mua vàng gram nhỏ khi giá về khoảng 1.200 tệ/gram (Baidu #3). Ở VN, bạc miếng thấp hơn đỉnh cuối tháng 1 khoảng 60%, SJC thấp hơn đỉnh khoảng 25%, và một đại biểu Quốc hội đề xuất thí điểm chứng chỉ vàng. Đây là bộ theo dõi để hiểu thị trường — KHÔNG phải khuyến nghị mua bán.",
+      "type": "invest",
+      "category": [
+        "invest"
+      ],
+      "tags": [
+        "vàng",
+        "bạc",
+        "watchlist",
+        "chứng chỉ vàng",
+        "giá cả"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Chỉ là danh sách theo dõi, không dự báo giá, không khuyến nghị. ‘Người trẻ mua vàng nhỏ’ là số liệu TQ (第一财经 dẫn 央视), chưa có số liệu VN. Đề xuất chứng chỉ vàng mới là ý kiến tại Quốc hội, chưa phải chính sách.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261031-08-watchlist-vang-bac-sau-cu-giam.webp",
+      "image_alt": "Hai thỏi vàng và bạc trên bàn cân, biểu đồ đi xuống phía sau và kính lúp soi một tấm thẻ chứng nhận trống",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Một trang duy nhất có 5 ô màu, mỗi ô ghi số mới nhất, nguồn, ngày giờ và mũi tên so với tuần trước.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Định nghĩa chỉ số, tóm tắt tin, nhận xét tuần (không khuyến nghị).",
+            "why": "Free $0; Pro $17/tháng khi trả năm ($200 trả trước) hoặc $20 trả tháng — mở lại 31/10, khớp.",
+            "alt_ids": [
+              "gemini"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "gemini",
+            "role": "Tóm tắt tin tiếng Trung/Anh nhanh.",
+            "why": "Trang gói Gemini hiển thị cho VN (31/10): Google AI Plus 132.000đ/tháng, AI Pro 489.000đ/tháng.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "github_pages",
+            "role": "Trang watchlist tĩnh (cá nhân, phi thương mại).",
+            "why": "Giới hạn site ≤ 1 GB, không dành cho SaaS thương mại (registry 25/10; không mở lại hôm nay).",
+            "alt_ids": [
+              "cloudflare_pages"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "github_pages"
+          ],
+          "monthly_cost_note": "0đ/tháng.",
+          "tradeoff": "Cập nhật tay."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "gemini",
+            "cloudflare_pages"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + 132.000đ (Google AI Plus) ≈ 0,6 triệu đồng/tháng.",
+          "tradeoff": "Tóm tắt nhanh hơn; vẫn phải tự kiểm tra số."
+        },
+        "checked": "2026-10-31"
+      },
+      "regions": [
+        "CN",
+        "VN",
+        "GLOBAL"
+      ],
+      "signal_text": "TQ: Baidu sáng 31/10 #3 ‘金价降了卖爆了 银价已腰斩’; 第一财经 dẫn 央视财经: ngày 30/10 vàng quốc tế có lúc dưới 4.000 USD/ounce, trang sức vàng một số hãng về khoảng 1.200 tệ/gram, người mua tăng; 新浪/财联社 (30/10): vàng giao ngay thấp nhất 3.891 USD, bạc 49,34 USD, lần đầu trong năm dưới 50 USD. VN: VnExpress (30/10) — bạc miếng khoảng 1,7 triệu đồng/lượng, thấp hơn đỉnh cuối tháng 1 khoảng 60%; SJC 138,4–141,4 triệu đồng/lượng, thấp hơn đỉnh khoảng 25%; VnExpress (30/10) — đại biểu đề xuất thí điểm chứng chỉ vàng, người dân giữ khoảng 500 tấn vàng. Google Trends VN sáng 31/10: ‘giá vàng thế giới’ 1000+.",
+      "vn_youth_fit": "Thu nhập bình quân lao động 8,4 triệu đồng/tháng (thu-nhap) — một lượng SJC tương đương hơn một năm lương, nên câu hỏi với người trẻ là ‘mua nhỏ’ hay chứng chỉ. Khoảng 30–36,2 triệu ví điện tử đang hoạt động (vi-dien-tu) → nếu có chứng chỉ vàng số, kênh tiếp cận là ví/ngân hàng.",
+      "vn_fit_refs": [
+        "thu-nhap",
+        "vi-dien-tu"
+      ],
+      "from_keywords": [
+        "kw-cn-02",
+        "kw-vn-03",
+        "kw-global-01"
+      ],
+      "key_facts": [
+        {
+          "text": "Ngày 30/10, vàng giao ngay có lúc xuống 3.891 USD/ounce, thấp nhất từ 10/2025; bạc 49,34 USD, lần đầu trong năm dưới 50 USD.",
+          "source_ids": [
+            "sina_gold"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Giá vàng/bạc giảm mạnh cuối tháng 10 được báo cả ở TQ và VN; bạc giảm mạnh hơn vàng.",
+          "source_ids": [
+            "sina_gold",
+            "vnexpress_bac",
+            "yicai_gold"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "TQ: một số hãng trang sức vàng về khoảng 1.200 tệ/gram; Baidu realtime 31/10 #3 ‘金价降了卖爆了’ (hotScore 7.712.342).",
+          "source_ids": [
+            "yicai_gold",
+            "baidu_rt3"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "VN 30/10: bạc miếng khoảng 1,7 triệu đồng/lượng, thấp hơn đỉnh cuối tháng 1 khoảng 60%; SJC 138,4–141,4 triệu đồng/lượng, thấp hơn đỉnh khoảng 25%; WB hạ dự báo giá bạc 2027 từ 65 xuống 62 USD/ounce.",
+          "source_ids": [
+            "vnexpress_bac"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Đại biểu Lê Hoàng Anh đề xuất nghiên cứu thí điểm chứng chỉ vàng; người dân đang giữ khoảng 500 tấn vàng, xấp xỉ 12% GDP; NHNN chưa lập sàn giao dịch vàng.",
+          "source_ids": [
+            "vnexpress_ccvang"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "baidu_rt3",
+          "name": "Baidu 百度热搜 (mục #3)",
+          "title": "金价降了卖爆了 银价已腰斩",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 31/10 07:11 (UTC+7); hotScore 7.712.342."
+        },
+        {
+          "id": "yicai_gold",
+          "name": "第一财经",
+          "title": "金价降了卖爆了 银价已腰斩",
+          "url": "https://www.yicai.com/news/103419136.html",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "đọc một phần",
+          "note": "Chỉ đọc được đoạn đầu (dẫn 央视财经); trang không ghi ngày đọc được."
+        },
+        {
+          "id": "sina_gold",
+          "name": "新浪财经 (财联社)",
+          "title": "贵金属遭遇抛售潮！黄金下破3900美元 白银失守50美元关口",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwzprn2192252.shtml",
+          "published": "2026-10-30",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "vnexpress_bac",
+          "name": "VnExpress",
+          "title": "Giá bạc giảm 60% từ đỉnh",
+          "url": "https://vnexpress.net/gia-bac-giam-60-tu-dinh-5138653.html",
+          "published": "2026-10-30",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "vnexpress_ccvang",
+          "name": "VnExpress",
+          "title": "Đề xuất thí điểm chứng chỉ vàng",
+          "url": "https://vnexpress.net/de-xuat-thi-diem-chung-chi-vang-5138821.html",
+          "published": "2026-10-30",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Giả thuyết: theo dõi hằng tuần 5 chỉ số — giá vàng thế giới, SJC, chênh lệch SJC–thế giới, giá bạc miếng, tiến trình đề xuất chứng chỉ vàng/sàn vàng; ghi lại mỗi tuần 1 dòng nhận xét. Không mua bán theo bảng này.",
+      "localize_global": "Theo dõi thêm quyết định lãi suất của Fed tháng 12 (bài 新浪 nêu khả năng tăng lãi suất) — chỉ là bối cảnh.",
+      "first_steps": [
+        "Ngày 1: Claude dựng bảng 5 chỉ số và định nghĩa từng chỉ số (nguồn công khai).",
+        "Ngày 2: Gemini/Claude tóm tắt tin tuần; ghi nguồn và ngày.",
+        "Ngày 3: Trang 1 trang trên GitHub Pages hiển thị bảng (cập nhật tay).",
+        "Ngày 4–6: Ghi số liệu mỗi ngày, đối chiếu ≥ 2 nguồn.",
+        "Ngày 7: Viết nhận xét tuần — chỉ mô tả, không khuyến nghị."
+      ],
+      "capital": {
+        "vnd_min_m": 0,
+        "vnd_max_m": 1,
+        "usd_min": 0,
+        "usd_max": 38,
+        "note": "Không cần vốn; chỉ thời gian."
+      },
+      "risks": [
+        "Dễ bị hiểu là lời khuyên đầu tư — luôn ghi rõ ‘không khuyến nghị’.",
+        "Số liệu giá trong nước thay đổi theo giờ và theo hãng.",
+        "Đề xuất chính sách có thể không được thông qua.",
+        "Tin tức thị trường dễ bị thổi phồng trên mạng."
+      ],
+      "scores": {
+        "ease": 9,
+        "demand": 6,
+        "novelty": 4,
+        "lowcap": 10,
+        "signal": 8,
+        "vnfit": 5
+      },
+      "claude_prompt": "Bạn là nhà phân tích thị trường kim loại quý, chuyên giải thích số liệu cho người mới, tuyệt đối không đưa khuyến nghị. Hãy giúp tôi dựng một bộ theo dõi (watchlist) trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: Watchlist “vàng–bạc sau cú giảm”: theo dõi chênh lệch giá trong nước–thế giới, đề xuất chứng chỉ vàng và nhu cầu mua vàng nhỏ của người trẻ\nTóm tắt: Ngày 30/10, vàng thế giới có lúc xuống 3.891 USD/ounce, bạc thủng 50 USD; ở TQ, người trẻ đổ đi mua vàng gram nhỏ khi giá về khoảng 1.200 tệ/gram (Baidu #3). Ở VN, bạc miếng thấp hơn đỉnh cuối tháng 1 khoảng 60%, SJC thấp hơn đỉnh khoảng 25%, và một đại biểu Quốc hội đề xuất thí điểm chứng chỉ vàng. Đây là bộ theo dõi để hiểu thị trường — KHÔNG phải khuyến nghị mua bán.\nMục tiêu tuần này: hiểu đúng các con số đã công bố, lập danh sách mốc cần theo dõi và tiêu chí đánh giá — KHÔNG đưa khuyến nghị mua/bán.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN, VN, GLOBAL\nTQ: Baidu sáng 31/10 #3 ‘金价降了卖爆了 银价已腰斩’; 第一财经 dẫn 央视财经: ngày 30/10 vàng quốc tế có lúc dưới 4.000 USD/ounce, trang sức vàng một số hãng về khoảng 1.200 tệ/gram, người mua tăng; 新浪/财联社 (30/10): vàng giao ngay thấp nhất 3.891 USD, bạc 49,34 USD, lần đầu trong năm dưới 50 USD. VN: VnExpress (30/10) — bạc miếng khoảng 1,7 triệu đồng/lượng, thấp hơn đỉnh cuối tháng 1 khoảng 60%; SJC 138,4–141,4 triệu đồng/lượng, thấp hơn đỉnh khoảng 25%; VnExpress (30/10) — đại biểu đề xuất thí điểm chứng chỉ vàng, người dân giữ khoảng 500 tấn vàng. Google Trends VN sáng 31/10: ‘giá vàng thế giới’ 1000+.\nDữ kiện chi tiết (kèm mức xác minh):\n- Ngày 30/10, vàng giao ngay có lúc xuống 3.891 USD/ounce, thấp nhất từ 10/2025; bạc 49,34 USD, lần đầu trong năm dưới 50 USD. [1 nguồn gốc]\n- Giá vàng/bạc giảm mạnh cuối tháng 10 được báo cả ở TQ và VN; bạc giảm mạnh hơn vàng. [2+ nguồn độc lập]\n- TQ: một số hãng trang sức vàng về khoảng 1.200 tệ/gram; Baidu realtime 31/10 #3 ‘金价降了卖爆了’ (hotScore 7.712.342). [2+ nguồn độc lập]\n- VN 30/10: bạc miếng khoảng 1,7 triệu đồng/lượng, thấp hơn đỉnh cuối tháng 1 khoảng 60%; SJC 138,4–141,4 triệu đồng/lượng, thấp hơn đỉnh khoảng 25%; WB hạ dự báo giá bạc 2027 từ 65 xuống 62 USD/ounce. [1 nguồn gốc]\n- Đại biểu Lê Hoàng Anh đề xuất nghiên cứu thí điểm chứng chỉ vàng; người dân đang giữ khoảng 500 tấn vàng, xấp xỉ 12% GDP; NHNN chưa lập sàn giao dịch vàng. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Chỉ là danh sách theo dõi, không dự báo giá, không khuyến nghị. ‘Người trẻ mua vàng nhỏ’ là số liệu TQ (第一财经 dẫn 央视), chưa có số liệu VN. Đề xuất chứng chỉ vàng mới là ý kiến tại Quốc hội, chưa phải chính sách.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nThu nhập bình quân lao động 8,4 triệu đồng/tháng (thu-nhap) — một lượng SJC tương đương hơn một năm lương, nên câu hỏi với người trẻ là ‘mua nhỏ’ hay chứng chỉ. Khoảng 30–36,2 triệu ví điện tử đang hoạt động (vi-dien-tu) → nếu có chứng chỉ vàng số, kênh tiếp cận là ví/ngân hàng.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: theo dõi hằng tuần 5 chỉ số — giá vàng thế giới, SJC, chênh lệch SJC–thế giới, giá bạc miếng, tiến trình đề xuất chứng chỉ vàng/sàn vàng; ghi lại mỗi tuần 1 dòng nhận xét. Không mua bán theo bảng này.\n\n## 4. Ràng buộc\n- Vốn: khoảng 0–1 triệu VND (Không cần vốn; chỉ thời gian.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Không khuyến nghị mua/bán, không dự báo giá; ghi rõ nguồn và thời điểm của mọi con số. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Dễ bị hiểu là lời khuyên đầu tư — luôn ghi rõ ‘không khuyến nghị’.\n- Số liệu giá trong nước thay đổi theo giờ và theo hãng.\n- Đề xuất chính sách có thể không được thông qua.\n- Tin tức thị trường dễ bị thổi phồng trên mạng.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Định nghĩa chỉ số, tóm tắt tin, nhận xét tuần (không khuyến nghị).\n- Gemini (Google): Tóm tắt tin tiếng Trung/Anh nhanh.\n- GitHub Pages: Trang watchlist tĩnh (cá nhân, phi thương mại).\n  Bản tiết kiệm: Claude (Anthropic), GitHub Pages. Bản cao cấp: Claude (Anthropic), Gemini (Google), Cloudflare Pages / Workers.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude dựng bảng 5 chỉ số và định nghĩa từng chỉ số (nguồn công khai).\n- Ngày 2: Gemini/Claude tóm tắt tin tuần; ghi nguồn và ngày.\n- Ngày 3: Trang 1 trang trên GitHub Pages hiển thị bảng (cập nhật tay).\n- Ngày 4–6: Ghi số liệu mỗi ngày, đối chiếu ≥ 2 nguồn.\n- Ngày 7: Viết nhận xét tuần — chỉ mô tả, không khuyến nghị.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Bảng 5 chỉ số: định nghĩa, nguồn công khai để lấy số, tần suất cập nhật\n2. Mẫu ‘nhận xét tuần’ 5 dòng chỉ mô tả\n3. Mã nguồn trang watchlist 1 trang (HTML tĩnh) cập nhật bằng file JSON\n4. Danh sách 5 mốc cần theo dõi (chính sách vàng VN, quyết định lãi suất…) kèm nguồn\n5. Bảng tự kiểm tra: đã đối chiếu ≥ 2 nguồn chưa\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Chỉ phân tích, KHÔNG đưa khuyến nghị mua/bán hay dự báo giá.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 7.04,
+      "rank": 1
+    },
+    {
+      "id": "20261031-01-chau-day-dien-thoai",
+      "date": "2026-10-31",
+      "title": "“Cháu dạy điện thoại” — sinh viên đến nhà ông bà 2 giờ: gọi video Zalo, quét QR, nhận diện tin nhắn lừa đảo, rồi gửi báo cáo có ảnh cho con cháu ở xa",
+      "pitch": "Ở Trường Sa (TQ), phường thử ‘共享儿女’ (con cái dùng chung) từ 199 tệ/tháng, có mục dạy dùng điện thoại; ở Hàn, Hyodocare bán gói ‘trò chuyện + học smartphone’ 2 giờ 39.000 won. Bản Việt gọn hơn: một buổi 2 giờ do sinh viên được đào tạo đến nhà, dạy đúng 3 việc ông bà cần (gọi video, chuyển khoản QR, tránh lừa đảo), cuối buổi gửi báo cáo + ảnh cho người con đặt dịch vụ.",
+      "type": "startup",
+      "category": [
+        "service"
+      ],
+      "tags": [
+        "người cao tuổi",
+        "sinh viên",
+        "dạy công nghệ",
+        "chống lừa đảo",
+        "dịch vụ tại nhà"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Giá 150.000–250.000đ/buổi và việc con cái ở xa chịu trả tiền là giả thuyết. bTaskee (bCare) đã có mục ‘hỗ trợ dùng điện thoại’ trong gói chăm sóc người cao tuổi — điểm khác là buổi học ngắn, có giáo trình và báo cáo; chưa kiểm chứng.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261031-01-chau-day-dien-thoai.webp",
+      "image_alt": "Bàn tay lớn tuổi cầm điện thoại có biểu tượng gọi video và mã QR, bên cạnh khiên bảo vệ và chiếc cốc trà",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Sau mỗi buổi, người con nhận trên Zalo một ‘phiếu tốt nghiệp’ có ảnh ông bà tự gọi video lần đầu và danh sách việc đã làm được.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Viết giáo trình, kịch bản lừa đảo mẫu, mẫu báo cáo buổi học.",
+            "why": "Free $0; Pro $17/tháng khi trả năm ($200 trả trước) hoặc $20 trả tháng — mở lại 31/10, khớp.",
+            "alt_ids": [
+              "chatgpt",
+              "gemini"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Thẻ hướng dẫn chữ to, tờ rơi, phiếu ‘tốt nghiệp’.",
+            "why": "Trang giá Canva tải bằng JavaScript, không đọc được số ngày 31/10 — không nêu giá; gói Free đủ cho thử nghiệm.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vercel",
+            "role": "Trang giới thiệu + form đặt lịch.",
+            "why": "Hobby $0, Pro $20/tháng — mở lại 31/10, khớp.",
+            "alt_ids": [
+              "cloudflare_pages"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Nhận tiền cọc bằng mã QR.",
+            "why": "Chèn ảnh QR chuyển khoản bằng một URL img.vietqr.io, miễn phí — mở lại 31/10; trang có thông báo thay đổi API tháng 10/2026.",
+            "alt_ids": [
+              "payos"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Gửi báo cáo + ảnh cho người đặt.",
+            "why": "Trang chủ OA mở được 31/10, có mục ‘Bảng giá’ gói nâng cao nhưng chưa đọc được số — cần tự kiểm tra.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip TikTok ‘lần đầu gọi video’.",
+            "why": "Trang giá CapCut hiển thị cho VN (31/10): Free 0đ; Pro 290.000đ/tháng hoặc 1.890.000đ/năm.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "cloudflare_pages",
+            "vietqr"
+          ],
+          "monthly_cost_note": "≈ 0đ/tháng nếu dùng gói Free (Claude Free, Canva Free, Cloudflare Pages, VietQR); báo cáo gửi bằng Zalo cá nhân.",
+          "tradeoff": "Báo cáo thủ công, chưa có kênh OA chuyên nghiệp."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "vercel",
+            "payos",
+            "zalo_oa",
+            "capcut"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $0–20 (Vercel) + phí OA [chưa xác minh] + 290.000đ (CapCut Pro tháng) ≈ 0,8–1,4 triệu đồng/tháng.",
+          "tradeoff": "Đối soát thanh toán tự động, báo cáo đẹp; chi phí cố định cao hơn."
+        },
+        "checked": "2026-10-31"
+      },
+      "regions": [
+        "CN",
+        "KR",
+        "VN"
+      ],
+      "signal_text": "TQ: Baidu sáng 31/10 #43 ‘街道试点“共享儿女”最低199元每月’; 羊城派 và 长沙晚报 (18/10) cho biết dịch vụ ở phường Văn Nghệ Lộ (Trường Sa) có 5 mức 199–1.000 tệ/tháng, hơn 30 hạng mục, đặt qua mini-program trong bán kính 3 km, đang phục vụ cố định 120 cụ; bình luận nêu rõ ‘giúp người già dùng điện thoại thông minh’. Hàn: Hyodocare niêm yết ‘말벗 + 스마트폰 배우기’ 2 giờ 39.000 won (khuyến mãi 29.000 won), gói tháng từ 39.000 won, có ảnh và báo cáo mỗi lần đến. VN: bTaskee, OBAcare đã làm chăm sóc người cao tuổi.",
+      "vn_youth_fit": "Thất nghiệp thanh niên 15–24 tuổi 8,64%, thành thị 11,23% (viec-lam-tre) → nguồn sinh viên làm thêm. Khoảng 30–36,2 triệu ví điện tử đang hoạt động, giao dịch không tiền mặt tăng 30–40%/năm (vi-dien-tu); Zalo 78,3 triệu MAU (ket-noi) → ông bà buộc phải dùng QR và Zalo.",
+      "vn_fit_refs": [
+        "viec-lam-tre",
+        "vi-dien-tu",
+        "ket-noi"
+      ],
+      "from_keywords": [
+        "kw-cn-15",
+        "kw-kr-14",
+        "kw-global-04"
+      ],
+      "key_facts": [
+        {
+          "text": "Dịch vụ ‘共享儿女’ ở phường Văn Nghệ Lộ (Trường Sa): 5 mức 199–1.000 tệ/tháng, hơn 30 hạng mục, đặt trên mini-program, phục vụ trong 3 km; cố định 120 cụ.",
+          "source_ids": [
+            "ycwb_gongxiang",
+            "cswb_gongxiang"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Bình luận của 羊城派: dịch vụ có thể trò chuyện, đi mua sắm, giúp người già dùng điện thoại thông minh, đi khám bệnh cùng.",
+          "source_ids": [
+            "ycwb_gongxiang"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Baidu realtime sáng 31/10: mục #43 là ‘共享儿女’ (hotScore 3.887.911).",
+          "source_ids": [
+            "baidu_rt43"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hyodocare (Hàn): ‘trò chuyện + học smartphone’ 2 giờ 39.000 won (khuyến mãi 29.000 won đến 31/12/2026); gói Lite 39.000 won/tháng, Standard 79.000, Premium 159.000; mỗi lần đến có ảnh và báo cáo.",
+          "source_ids": [
+            "hyodocare_price"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "bTaskee (bCare) liệt kê ‘hỗ trợ dùng điện thoại và thiết bị điện tử’ trong dịch vụ chăm sóc người cao tuổi; OBAcare điều phối chăm sóc tại nhà ở 34 tỉnh thành.",
+          "source_ids": [
+            "btaskee_elder",
+            "obacare"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ycwb_gongxiang",
+          "name": "羊城派 (羊城晚报)",
+          "title": "最低199元每月！湖南长沙一街道试点“共享儿女”",
+          "url": "https://ycpai.ycwb.com/content/ikimvjkthk/content_54335245.html",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang không ghi ngày; cùng sự kiện với 长沙晚报 (18/10) và Baidu #43 sáng 31/10."
+        },
+        {
+          "id": "cswb_gongxiang",
+          "name": "长沙晚报网",
+          "title": "芙蓉区文艺路街道：120位老人有了“共享儿女”｜社区故事会",
+          "url": "https://cswb.icswb.com/h/100036/20261018/1000292.html",
+          "published": "2026-10-18",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "baidu_rt43",
+          "name": "Baidu 百度热搜 (mục #43)",
+          "title": "街道试点“共享儿女”最低199元每月",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 31/10 07:11 (UTC+7); hotScore 3.887.911."
+        },
+        {
+          "id": "hyodocare_price",
+          "name": "효도케어 (Hyodocare, Hàn Quốc)",
+          "title": "이용요금 - 효도케어",
+          "url": "https://hyodocare.com/pricing",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bảng giá của doanh nghiệp; giá khuyến mãi áp dụng đến 31/12/2026, đã gồm VAT."
+        },
+        {
+          "id": "kyeonggi_hyodo",
+          "name": "경기일보 (Kyeonggi Ilbo)",
+          "title": "“초고령사회, 돌봄의 주체 바뀐다”…‘효도 대행’ 서비스 확산",
+          "url": "https://www.kyeonggi.com/article/20260212580722",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bài cũ (mã bài 20260212, khoảng tháng 2/2026) — bối cảnh dịch vụ ‘hiếu thảo hộ’ ở Hàn."
+        },
+        {
+          "id": "btaskee_elder",
+          "name": "bTaskee (bCare)",
+          "title": "Elderly Care Service - bTaskee",
+          "url": "https://www.btaskee.com/en-VN/elderly-care/",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang dịch vụ — đối thủ VN có mục ‘hỗ trợ dùng điện thoại, thiết bị điện tử’."
+        },
+        {
+          "id": "obacare",
+          "name": "OBAcare",
+          "title": "Về OBAcare — Người đáng tin cậy ở bên ông bà",
+          "url": "https://www.obacare.vn/ve-obacare",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang giới thiệu — đối thủ VN (điều phối chăm sóc người cao tuổi)."
+        }
+      ],
+      "localize_vn": "Giả thuyết: giáo trình 3 bài (gọi video Zalo cho con cháu; quét VietQR chuyển tiền, kiểm tra tên người nhận; nhận diện 5 kiểu tin nhắn/cuộc gọi lừa đảo phổ biến) in thành thẻ to chữ dán cạnh bàn. Giá thử 150.000–250.000đ/buổi, gói 4 buổi; người đặt là con cháu ở xa (Hà Nội ↔ quê, hoặc ở nước ngoài). Sinh viên được kiểm tra lý lịch, mặc áo đồng phục.",
+      "localize_global": "Có thể bán cho người Việt ở nước ngoài đặt hộ bố mẹ ở VN — chưa kiểm tra.",
+      "first_steps": [
+        "Ngày 1: Claude soạn giáo trình 3 bài + 5 kịch bản lừa đảo mẫu + mẫu báo cáo buổi học; Canva làm thẻ hướng dẫn chữ to.",
+        "Ngày 2: Tuyển 3 sinh viên tình nguyện thử, tập huấn 2 giờ; viết quy tắc (không chạm vào tài khoản ngân hàng, không ghi mật khẩu).",
+        "Ngày 3: Trang đặt lịch trên Vercel, nhận cọc bằng VietQR; báo cáo gửi qua Zalo OA.",
+        "Ngày 4–6: Dạy thử 5 cụ (người quen), quay clip CapCut ‘ông tôi lần đầu gọi video’ (xin phép).",
+        "Ngày 7: Đếm số con cháu đặt tiếp buổi 2; quyết định."
+      ],
+      "capital": {
+        "vnd_min_m": 1,
+        "vnd_max_m": 5,
+        "usd_min": 38,
+        "usd_max": 192,
+        "note": "In thẻ hướng dẫn, áo đồng phục, quảng cáo thử, bảo hiểm/kiểm tra lý lịch sinh viên."
+      },
+      "risks": [
+        "Niềm tin: gia đình ngại người lạ vào nhà — cần kiểm tra lý lịch, ưu tiên khách giới thiệu.",
+        "Rủi ro pháp lý nếu sinh viên chạm vào tài khoản ngân hàng/mật khẩu của cụ — cấm tuyệt đối.",
+        "Đối thủ có sẵn (bTaskee, OBAcare) có thể thêm gói tương tự.",
+        "Nhu cầu có thể theo mùa (trước Tết con cháu về dạy trực tiếp)."
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 6,
+        "novelty": 5,
+        "lowcap": 9,
+        "signal": 7,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là chuyên gia thiết kế dịch vụ cho người cao tuổi kiêm giảng viên kỹ năng số. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Cháu dạy điện thoại” — sinh viên đến nhà ông bà 2 giờ: gọi video Zalo, quét QR, nhận diện tin nhắn lừa đảo, rồi gửi báo cáo có ảnh cho con cháu ở xa\nTóm tắt: Ở Trường Sa (TQ), phường thử ‘共享儿女’ (con cái dùng chung) từ 199 tệ/tháng, có mục dạy dùng điện thoại; ở Hàn, Hyodocare bán gói ‘trò chuyện + học smartphone’ 2 giờ 39.000 won. Bản Việt gọn hơn: một buổi 2 giờ do sinh viên được đào tạo đến nhà, dạy đúng 3 việc ông bà cần (gọi video, chuyển khoản QR, tránh lừa đảo), cuối buổi gửi báo cáo + ảnh cho người con đặt dịch vụ.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN, KR, VN\nTQ: Baidu sáng 31/10 #43 ‘街道试点“共享儿女”最低199元每月’; 羊城派 và 长沙晚报 (18/10) cho biết dịch vụ ở phường Văn Nghệ Lộ (Trường Sa) có 5 mức 199–1.000 tệ/tháng, hơn 30 hạng mục, đặt qua mini-program trong bán kính 3 km, đang phục vụ cố định 120 cụ; bình luận nêu rõ ‘giúp người già dùng điện thoại thông minh’. Hàn: Hyodocare niêm yết ‘말벗 + 스마트폰 배우기’ 2 giờ 39.000 won (khuyến mãi 29.000 won), gói tháng từ 39.000 won, có ảnh và báo cáo mỗi lần đến. VN: bTaskee, OBAcare đã làm chăm sóc người cao tuổi.\nDữ kiện chi tiết (kèm mức xác minh):\n- Dịch vụ ‘共享儿女’ ở phường Văn Nghệ Lộ (Trường Sa): 5 mức 199–1.000 tệ/tháng, hơn 30 hạng mục, đặt trên mini-program, phục vụ trong 3 km; cố định 120 cụ. [2+ nguồn độc lập]\n- Bình luận của 羊城派: dịch vụ có thể trò chuyện, đi mua sắm, giúp người già dùng điện thoại thông minh, đi khám bệnh cùng. [1 nguồn gốc]\n- Baidu realtime sáng 31/10: mục #43 là ‘共享儿女’ (hotScore 3.887.911). [1 nguồn gốc]\n- Hyodocare (Hàn): ‘trò chuyện + học smartphone’ 2 giờ 39.000 won (khuyến mãi 29.000 won đến 31/12/2026); gói Lite 39.000 won/tháng, Standard 79.000, Premium 159.000; mỗi lần đến có ảnh và báo cáo. [1 nguồn gốc]\n- bTaskee (bCare) liệt kê ‘hỗ trợ dùng điện thoại và thiết bị điện tử’ trong dịch vụ chăm sóc người cao tuổi; OBAcare điều phối chăm sóc tại nhà ở 34 tỉnh thành. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Giá 150.000–250.000đ/buổi và việc con cái ở xa chịu trả tiền là giả thuyết. bTaskee (bCare) đã có mục ‘hỗ trợ dùng điện thoại’ trong gói chăm sóc người cao tuổi — điểm khác là buổi học ngắn, có giáo trình và báo cáo; chưa kiểm chứng.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nThất nghiệp thanh niên 15–24 tuổi 8,64%, thành thị 11,23% (viec-lam-tre) → nguồn sinh viên làm thêm. Khoảng 30–36,2 triệu ví điện tử đang hoạt động, giao dịch không tiền mặt tăng 30–40%/năm (vi-dien-tu); Zalo 78,3 triệu MAU (ket-noi) → ông bà buộc phải dùng QR và Zalo.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: giáo trình 3 bài (gọi video Zalo cho con cháu; quét VietQR chuyển tiền, kiểm tra tên người nhận; nhận diện 5 kiểu tin nhắn/cuộc gọi lừa đảo phổ biến) in thành thẻ to chữ dán cạnh bàn. Giá thử 150.000–250.000đ/buổi, gói 4 buổi; người đặt là con cháu ở xa (Hà Nội ↔ quê, hoặc ở nước ngoài). Sinh viên được kiểm tra lý lịch, mặc áo đồng phục.\n\n## 4. Ràng buộc\n- Vốn: khoảng 1–5 triệu VND (In thẻ hướng dẫn, áo đồng phục, quảng cáo thử, bảo hiểm/kiểm tra lý lịch sinh viên.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Không để sinh viên đăng nhập, ghi lại hay giữ mật khẩu/OTP ngân hàng của người cao tuổi; xin đồng ý trước khi chụp ảnh; hợp đồng dịch vụ rõ ràng với người đặt. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Niềm tin: gia đình ngại người lạ vào nhà — cần kiểm tra lý lịch, ưu tiên khách giới thiệu.\n- Rủi ro pháp lý nếu sinh viên chạm vào tài khoản ngân hàng/mật khẩu của cụ — cấm tuyệt đối.\n- Đối thủ có sẵn (bTaskee, OBAcare) có thể thêm gói tương tự.\n- Nhu cầu có thể theo mùa (trước Tết con cháu về dạy trực tiếp).\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Viết giáo trình, kịch bản lừa đảo mẫu, mẫu báo cáo buổi học.\n- Canva: Thẻ hướng dẫn chữ to, tờ rơi, phiếu ‘tốt nghiệp’.\n- Vercel: Trang giới thiệu + form đặt lịch.\n- VietQR Kit (Casso): Nhận tiền cọc bằng mã QR.\n- Zalo Official Account (OA): Gửi báo cáo + ảnh cho người đặt.\n- CapCut: Clip TikTok ‘lần đầu gọi video’.\n  Bản tiết kiệm: Claude (Anthropic), Canva, Cloudflare Pages / Workers, VietQR Kit (Casso). Bản cao cấp: Claude (Anthropic), Canva, Vercel, payOS (Casso), Zalo Official Account (OA), CapCut.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude soạn giáo trình 3 bài + 5 kịch bản lừa đảo mẫu + mẫu báo cáo buổi học; Canva làm thẻ hướng dẫn chữ to.\n- Ngày 2: Tuyển 3 sinh viên tình nguyện thử, tập huấn 2 giờ; viết quy tắc (không chạm vào tài khoản ngân hàng, không ghi mật khẩu).\n- Ngày 3: Trang đặt lịch trên Vercel, nhận cọc bằng VietQR; báo cáo gửi qua Zalo OA.\n- Ngày 4–6: Dạy thử 5 cụ (người quen), quay clip CapCut ‘ông tôi lần đầu gọi video’ (xin phép).\n- Ngày 7: Đếm số con cháu đặt tiếp buổi 2; quyết định.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Giáo trình 3 bài (mỗi bài 30–40 phút) viết cho người lớn tuổi, có lời thoại mẫu cho sinh viên\n2. 5 kịch bản lừa đảo mẫu kèm cách nhận diện, viết thành thẻ chữ to\n3. Quy tắc ứng xử & an toàn cho sinh viên (điều cấm, xử lý sự cố)\n4. Mẫu báo cáo buổi học gửi qua Zalo (có chỗ ảnh) và trang đặt lịch 1 trang\n5. Bảng chỉ số tuần đầu và ngưỡng đi tiếp/dừng\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 7.04,
+      "rank": 2
+    },
+    {
+      "id": "20261031-06-hop-qua-vat-nam-sinh",
+      "date": "2026-10-31",
+      "title": "“Hộp năm sinh” — hộp quà vặt tuổi thơ chọn theo năm sinh người nhận (9x, 2k), kèm thẻ ‘năm ấy có gì’ và bao bì kiểu cũ",
+      "pitch": "Ở Hàn, làn sóng ‘retro’ đang bán chạy: rượu Captain Q bản hồi sinh bán hết 10.000 hộp đầu, Daiso in lại bao bì gốc cho 9 loại bánh kẹo cũ, GS25 bán 2,7 triệu kem hợp tác với tiệm bánh 80 năm. Bản Việt nhỏ gọn: hộp quà 150.000–300.000đ chọn món theo năm sinh người nhận (kẹo, bim bim, đồ chơi rẻ tiền của thời đó), kèm thẻ in ‘năm bạn 10 tuổi’ do AI soạn và người kiểm tra — quà sinh nhật, 20/11, Tết.",
+      "type": "startup",
+      "category": [
+        "ecom",
+        "product"
+      ],
+      "tags": [
+        "hoài niệm",
+        "quà tặng",
+        "đồ ăn vặt",
+        "Gen Z",
+        "9x"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "VN đã có người bán ‘quà vặt tuổi thơ 8x–9x’ (thấy qua kết quả tìm kiếm) — điểm khác là chọn theo năm sinh và thẻ ‘năm ấy’. Tín hiệu chủ yếu từ Hàn (hai báo độc lập), chưa có số liệu VN. Thông tin lịch sử trên thẻ phải kiểm tra tay để tránh sai.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261031-06-hop-qua-vat-nam-sinh.webp",
+      "image_alt": "Hộp quà mở nắp có kẹo, gói bánh và đồ chơi nhỏ, tấm thẻ trống và băng cát-sét cạnh bên",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Nhập năm sinh trên trang là hiện ngay ‘thẻ năm bạn 10 tuổi’ xem trước, bấm đặt là in đúng tên người nhận lên nắp hộp.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Danh sách món, nội dung thẻ ‘năm ấy’, mô tả sản phẩm.",
+            "why": "Free $0; Pro $17/tháng khi trả năm ($200 trả trước) hoặc $20 trả tháng — mở lại 31/10, khớp.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Thẻ, nhãn hộp kiểu cũ.",
+            "why": "Trang giá Canva tải bằng JavaScript, không đọc được số ngày 31/10 — không nêu giá; gói Free đủ cho thử nghiệm.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "nano_banana",
+            "role": "Ảnh minh họa hộp quà cho trang bán.",
+            "why": "API khoảng $0,067/ảnh 1K, $0,101/ảnh 2K — mở lại bảng giá Gemini API 31/10, khớp.",
+            "alt_ids": [
+              "seedream"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "tiktok_shop",
+            "role": "Kênh bán chính kèm clip mở hộp.",
+            "why": "Trang Seller Center VN mở được (registry 26/10); phí/hoa hồng chưa đọc được — cần kiểm tra.",
+            "alt_ids": [
+              "shopee_seller"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip mở hộp.",
+            "why": "Trang giá CapCut hiển thị cho VN (31/10): Free 0đ; Pro 290.000đ/tháng hoặc 1.890.000đ/năm.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "shopee_seller"
+          ],
+          "monthly_cost_note": "≈ 0đ/tháng phần mềm (gói Free); phí sàn [chưa xác minh].",
+          "tradeoff": "Ảnh tự chụp, ít clip."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "nano_banana",
+            "tiktok_shop",
+            "capcut"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + khoảng $1 ảnh (20 ảnh × $0,067) + 290.000đ (CapCut Pro) + phí sàn [chưa xác minh] ≈ 0,7–0,9 triệu đồng/tháng.",
+          "tradeoff": "Nội dung đẹp hơn; phụ thuộc thuật toán TikTok."
+        },
+        "checked": "2026-10-31"
+      },
+      "regions": [
+        "KR",
+        "VN"
+      ],
+      "signal_text": "Hàn: Aju Press (28/10): hộp ‘Captain Q Treasure Box’ bán hết lô đầu 10.000 bộ; ở CU, 10.000 chai lẻ và 1.200 bộ giới hạn bán hết trước 25/10; 18,4% người mua ở tuổi 20; quảng cáo phong cách thập niên 80 đạt khoảng 12,26 triệu lượt xem. Korea JoongAng Daily (26/10): Daiso in lại bao bì gốc cho 9 loại bánh kẹo cũ, GS25 bán 2,7 triệu kem hợp tác với tiệm bánh Taegeukdang; chuyên gia gọi đây là ‘khát những thứ không thay đổi’ giữa thời AI. VN: đã có người bán quà vặt tuổi thơ 8x–9x.",
+      "vn_youth_fit": "Phân khúc giá thấp chiếm phần lớn đơn trên 4 sàn TMĐT (tmdt-quy-mo); TikTok Shop chiếm 41,31% GMV, là kênh mua sắm kết hợp giải trí (san-tmdt) → clip ‘mở hộp năm sinh’ hợp TikTok Shop.",
+      "vn_fit_refs": [
+        "tmdt-quy-mo",
+        "san-tmdt"
+      ],
+      "from_keywords": [
+        "kw-kr-13"
+      ],
+      "key_facts": [
+        {
+          "text": "Hàn: các hãng thực phẩm hồi sinh sản phẩm và bao bì thập niên 70–80; Daiso in lại bao bì gốc cho 9 loại bánh kẹo cũ; GS25 bán 2,7 triệu kem hợp tác với tiệm bánh lâu năm.",
+          "source_ids": [
+            "joongang_retro",
+            "ajupress_retro"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Hộp ‘Captain Q Treasure Box’ 19.800 won bán hết lô đầu 10.000 bộ; ở CU người 20–29 tuổi chiếm 18,4% người mua; 3 quảng cáo kiểu thập niên 80 đạt khoảng 12,26 triệu lượt xem.",
+          "source_ids": [
+            "ajupress_retro"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Chuyên gia (ĐH Sungshin) nói thế hệ đã trải qua thấy hoài niệm, còn thế hệ trẻ thấy mới lạ.",
+          "source_ids": [
+            "ajupress_retro"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "VN: đã có sản phẩm ‘bánh bao sữa tuổi 8x–9x’ bán trên sàn.",
+          "source_ids": [
+            "kitbuy_8x9x"
+          ],
+          "verification": "chưa xác minh",
+          "note": "Chỉ đọc đoạn trích kết quả tìm kiếm ngày 31/10; chưa mở trang gốc — cần kiểm tra trước khi dùng."
+        }
+      ],
+      "sources": [
+        {
+          "id": "joongang_retro",
+          "name": "Korea JoongAng Daily",
+          "title": "Korean food brands revive retro snacks and drinks as nostalgia trend grows",
+          "url": "https://www.koreajoongangdaily.com/business/food-companies-go-retro-to-revive-old-tastes-as-consumers-tire-of-fleeting-fads/12926918",
+          "published": "2026-10-26",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "ajupress_retro",
+          "name": "Aju Press",
+          "title": "Retro Consumer Trends Heat Up in South Korea with Captain Q and Nostalgic Snacks",
+          "url": "https://www.ajupress.com/view/20261027182070337",
+          "published": "2026-10-28",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Đọc qua WebFetch (curl không kết nối)."
+        },
+        {
+          "id": "kitbuy_8x9x",
+          "name": "Kitbuy (sàn bán lẻ)",
+          "title": "1 Xâu 5 Gói Bánh Bao Sữa Tuổi 8x-9x",
+          "url": "https://kitbuy.vn/1-x%c3%a2u-5-g%c3%b3i-b%c3%a1nh-bao-s%e1%bb%afa-tu%e1%bb%95i-8x-9x-i.130099474.3962808434",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "chỉ đọc đoạn trích kết quả tìm kiếm",
+          "note": "Chỉ thấy qua kết quả tìm kiếm 31/10 — bằng chứng đã có người bán ‘quà vặt tuổi thơ 8x-9x’."
+        }
+      ],
+      "localize_vn": "Giả thuyết: 4 ‘hộp năm’ (1990–1994, 1995–1999, 2000–2004, 2005–2009), mỗi hộp 8–10 món mua sỉ ở chợ đầu mối; thẻ ‘năm bạn 10 tuổi’ (bài hát, phim hoạt hình, đồ chơi) — chỉ dùng tên chung, không in hình nhân vật có bản quyền. Bán qua TikTok Shop, giá 150.000–300.000đ.",
+      "localize_global": "Không ưu tiên.",
+      "first_steps": [
+        "Ngày 1: Claude soạn danh sách món + nội dung thẻ cho 4 nhóm năm (người kiểm tra lại từng ý).",
+        "Ngày 2: Mua mẫu ở chợ đầu mối; Canva thiết kế thẻ và nhãn hộp kiểu cũ.",
+        "Ngày 3: Nano Banana tạo ảnh minh họa hộp (ghi rõ ảnh minh họa); đăng trang bán.",
+        "Ngày 4–6: Quay 3 clip CapCut ‘mở hộp năm 1998’; mở đặt trước qua TikTok Shop hoặc chuyển khoản.",
+        "Ngày 7: Đếm đơn đặt trước theo từng nhóm năm; quyết định."
+      ],
+      "capital": {
+        "vnd_min_m": 3,
+        "vnd_max_m": 8,
+        "usd_min": 115,
+        "usd_max": 308,
+        "note": "Hàng mẫu, hộp, in thẻ, quảng cáo thử."
+      },
+      "risks": [
+        "Hạn sử dụng và an toàn thực phẩm của bánh kẹo rẻ — chọn hàng có nhãn mác.",
+        "Dễ bị sao chép.",
+        "Thông tin ‘năm ấy’ sai → mất uy tín; phải kiểm tra tay.",
+        "Bản quyền hình ảnh nhân vật/thương hiệu cũ."
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 6,
+        "novelty": 5,
+        "lowcap": 8,
+        "signal": 6,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là nhà thiết kế sản phẩm quà tặng hoài niệm kiêm người bán hàng TikTok Shop. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Hộp năm sinh” — hộp quà vặt tuổi thơ chọn theo năm sinh người nhận (9x, 2k), kèm thẻ ‘năm ấy có gì’ và bao bì kiểu cũ\nTóm tắt: Ở Hàn, làn sóng ‘retro’ đang bán chạy: rượu Captain Q bản hồi sinh bán hết 10.000 hộp đầu, Daiso in lại bao bì gốc cho 9 loại bánh kẹo cũ, GS25 bán 2,7 triệu kem hợp tác với tiệm bánh 80 năm. Bản Việt nhỏ gọn: hộp quà 150.000–300.000đ chọn món theo năm sinh người nhận (kẹo, bim bim, đồ chơi rẻ tiền của thời đó), kèm thẻ in ‘năm bạn 10 tuổi’ do AI soạn và người kiểm tra — quà sinh nhật, 20/11, Tết.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: KR, VN\nHàn: Aju Press (28/10): hộp ‘Captain Q Treasure Box’ bán hết lô đầu 10.000 bộ; ở CU, 10.000 chai lẻ và 1.200 bộ giới hạn bán hết trước 25/10; 18,4% người mua ở tuổi 20; quảng cáo phong cách thập niên 80 đạt khoảng 12,26 triệu lượt xem. Korea JoongAng Daily (26/10): Daiso in lại bao bì gốc cho 9 loại bánh kẹo cũ, GS25 bán 2,7 triệu kem hợp tác với tiệm bánh Taegeukdang; chuyên gia gọi đây là ‘khát những thứ không thay đổi’ giữa thời AI. VN: đã có người bán quà vặt tuổi thơ 8x–9x.\nDữ kiện chi tiết (kèm mức xác minh):\n- Hàn: các hãng thực phẩm hồi sinh sản phẩm và bao bì thập niên 70–80; Daiso in lại bao bì gốc cho 9 loại bánh kẹo cũ; GS25 bán 2,7 triệu kem hợp tác với tiệm bánh lâu năm. [2+ nguồn độc lập]\n- Hộp ‘Captain Q Treasure Box’ 19.800 won bán hết lô đầu 10.000 bộ; ở CU người 20–29 tuổi chiếm 18,4% người mua; 3 quảng cáo kiểu thập niên 80 đạt khoảng 12,26 triệu lượt xem. [1 nguồn gốc]\n- Chuyên gia (ĐH Sungshin) nói thế hệ đã trải qua thấy hoài niệm, còn thế hệ trẻ thấy mới lạ. [1 nguồn gốc]\n- VN: đã có sản phẩm ‘bánh bao sữa tuổi 8x–9x’ bán trên sàn. [chưa xác minh]\n\nLƯU Ý ĐỘ TIN CẬY: VN đã có người bán ‘quà vặt tuổi thơ 8x–9x’ (thấy qua kết quả tìm kiếm) — điểm khác là chọn theo năm sinh và thẻ ‘năm ấy’. Tín hiệu chủ yếu từ Hàn (hai báo độc lập), chưa có số liệu VN. Thông tin lịch sử trên thẻ phải kiểm tra tay để tránh sai.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nPhân khúc giá thấp chiếm phần lớn đơn trên 4 sàn TMĐT (tmdt-quy-mo); TikTok Shop chiếm 41,31% GMV, là kênh mua sắm kết hợp giải trí (san-tmdt) → clip ‘mở hộp năm sinh’ hợp TikTok Shop.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: 4 ‘hộp năm’ (1990–1994, 1995–1999, 2000–2004, 2005–2009), mỗi hộp 8–10 món mua sỉ ở chợ đầu mối; thẻ ‘năm bạn 10 tuổi’ (bài hát, phim hoạt hình, đồ chơi) — chỉ dùng tên chung, không in hình nhân vật có bản quyền. Bán qua TikTok Shop, giá 150.000–300.000đ.\n\n## 4. Ràng buộc\n- Vốn: khoảng 3–8 triệu VND (Hàng mẫu, hộp, in thẻ, quảng cáo thử.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Chỉ bán thực phẩm có nhãn mác, hạn dùng rõ; không in logo/nhân vật có bản quyền; nội dung lịch sử phải ghi ‘[cần kiểm tra]’ nếu không chắc. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Hạn sử dụng và an toàn thực phẩm của bánh kẹo rẻ — chọn hàng có nhãn mác.\n- Dễ bị sao chép.\n- Thông tin ‘năm ấy’ sai → mất uy tín; phải kiểm tra tay.\n- Bản quyền hình ảnh nhân vật/thương hiệu cũ.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Danh sách món, nội dung thẻ ‘năm ấy’, mô tả sản phẩm.\n- Canva: Thẻ, nhãn hộp kiểu cũ.\n- Nano Banana (Gemini image, Google): Ảnh minh họa hộp quà cho trang bán.\n- TikTok Shop Việt Nam (Seller Center): Kênh bán chính kèm clip mở hộp.\n- CapCut: Clip mở hộp.\n  Bản tiết kiệm: Claude (Anthropic), Canva, Shopee Việt Nam (Kênh Người Bán). Bản cao cấp: Claude (Anthropic), Canva, Nano Banana (Gemini image, Google), TikTok Shop Việt Nam (Seller Center), CapCut.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude soạn danh sách món + nội dung thẻ cho 4 nhóm năm (người kiểm tra lại từng ý).\n- Ngày 2: Mua mẫu ở chợ đầu mối; Canva thiết kế thẻ và nhãn hộp kiểu cũ.\n- Ngày 3: Nano Banana tạo ảnh minh họa hộp (ghi rõ ảnh minh họa); đăng trang bán.\n- Ngày 4–6: Quay 3 clip CapCut ‘mở hộp năm 1998’; mở đặt trước qua TikTok Shop hoặc chuyển khoản.\n- Ngày 7: Đếm đơn đặt trước theo từng nhóm năm; quyết định.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Danh sách món cho 4 nhóm năm sinh (đánh dấu món cần kiểm tra còn bán không)\n2. Nội dung thẻ ‘năm bạn 10 tuổi’ cho 4 nhóm (đánh dấu ý cần kiểm tra)\n3. Mô tả sản phẩm + bảng giá trên TikTok Shop\n4. 3 kịch bản clip mở hộp\n5. Bảng tính giá vốn/lãi mỗi hộp và chỉ số đi tiếp/dừng\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.74,
+      "rank": 3
+    },
+    {
+      "id": "20261031-04-phong-tro-gon-2-gio",
+      "date": "2026-10-31",
+      "title": "“Phòng trọ gọn trong 2 giờ” — gói sắp xếp phòng trọ dưới 25 m² giá cố định, kèm bộ đồ chứa đồ dưới 500.000đ và clip trước–sau",
+      "pitch": "Ở Hàn, người 20–30 tuổi ‘đến Daiso thay vì chuyển nhà’: lượt nhắc tới đồ chứa đồ tăng 314,86% trong một tháng, nhiều món cháy hàng; ở TQ, chủ đề ‘爆改出租屋’ (cải tạo phòng trọ) đạt hàng tỷ lượt xem. Ở VN, dịch vụ sắp xếp tủ đồ hiện bán cho nhà lớn (từ 2,5 triệu đồng/gói). Khoảng trống: gói 2 giờ giá cố định cho phòng trọ, 2 người làm, mua sẵn đồ chứa giá rẻ, quay clip trước–sau.",
+      "type": "startup",
+      "category": [
+        "service"
+      ],
+      "tags": [
+        "phòng trọ",
+        "sắp xếp",
+        "thuê nhà",
+        "đồ chứa",
+        "trước–sau"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Giá 299.000–499.000đ/2 giờ (chưa gồm đồ chứa) là giả thuyết; người thuê trọ có chịu trả tiền dịch vụ hay tự làm theo video là câu hỏi chính. Đối thủ VN (Lagoma, Mr&Mrs Clean, TUDO) chủ yếu phục vụ nhà/căn hộ.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261031-04-phong-tro-gon-2-gio.webp",
+      "image_alt": "Căn phòng nhỏ một nửa bừa bộn, một nửa gọn gàng với hộp đựng màu cam và kệ xanh, mũi tên trước–sau ở giữa",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Khách nhận clip ‘tua nhanh 2 giờ trong 20 giây’ và một sơ đồ phòng kèm nhãn đồ để tự giữ gọn sau đó.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Quy trình, checklist, danh sách đồ chứa, nội dung quảng bá.",
+            "why": "Free $0; Pro $17/tháng khi trả năm ($200 trả trước) hoặc $20 trả tháng — mở lại 31/10, khớp.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "shopee_seller",
+            "role": "Nguồn mua đồ chứa giá rẻ (mua hộ khách) — chưa mở shop.",
+            "why": "Trang người bán là ứng dụng JavaScript, không đọc được phí — chưa xác minh.",
+            "alt_ids": [
+              "tiktok_shop"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Bảng giá, thẻ trước–sau, nhãn dán.",
+            "why": "Trang giá Canva tải bằng JavaScript, không đọc được số ngày 31/10 — không nêu giá; gói Free đủ cho thử nghiệm.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vercel",
+            "role": "Trang đặt lịch.",
+            "why": "Hobby $0, Pro $20/tháng — mở lại 31/10, khớp.",
+            "alt_ids": [
+              "cloudflare_pages"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Nhận cọc.",
+            "why": "Chèn ảnh QR chuyển khoản bằng một URL img.vietqr.io, miễn phí — mở lại 31/10; trang có thông báo thay đổi API tháng 10/2026.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip trước–sau.",
+            "why": "Trang giá CapCut hiển thị cho VN (31/10): Free 0đ; Pro 290.000đ/tháng hoặc 1.890.000đ/năm.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "cloudflare_pages",
+            "vietqr"
+          ],
+          "monthly_cost_note": "≈ 0đ/tháng phần mềm (gói Free).",
+          "tradeoff": "Clip quay điện thoại, tự dựng thô."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "shopee_seller",
+            "canva",
+            "vercel",
+            "vietqr",
+            "capcut"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $0–20 (Vercel) + 290.000đ (CapCut Pro) ≈ 0,7–1,3 triệu đồng/tháng.",
+          "tradeoff": "Clip đẹp, đều; chi phí cố định cao hơn."
+        },
+        "checked": "2026-10-31"
+      },
+      "regions": [
+        "KR",
+        "CN",
+        "VN"
+      ],
+      "signal_text": "Hàn: Hankyung (25/10) dẫn Sometrend: lượt nhắc tới ‘수납템’ (đồ chứa đồ) tăng 314,86% từ 22/9 đến 23/10; đồ chứa của Daiso cháy hàng; 82,6% hộ thanh niên ở thuê; diện tích bình quân đầu người của thanh niên 31,1 m²; tiền thuê phòng đơn ở Seoul trung bình 71 vạn won/tháng. TQ: 羊城晚报: #出租屋改造# trên Douyin hơn 21 亿 lượt xem, #租房大改造# trên Xiaohongshu 35 亿 lượt xem; người trẻ chi 1.000–4.000 tệ để cải tạo. VN: Lagoma trọn gói từ 2,5 triệu; Mr&Mrs Clean 276.000đ/giờ/người, tối thiểu 2 người × 2 giờ.",
+      "vn_youth_fit": "Thu nhập bình quân lao động 8,4 triệu đồng/tháng, thành thị 10,1 triệu (thu-nhap) — gói 2,5 triệu đồng quá đắt với người thuê trọ. ‘Nhà cửa & Đời sống’ là một trong các ngành lớn nhất trên 4 sàn TMĐT (tmdt-quy-mo) → đồ chứa giá rẻ dễ mua kèm.",
+      "vn_fit_refs": [
+        "thu-nhap",
+        "tmdt-quy-mo"
+      ],
+      "from_keywords": [
+        "kw-kr-12",
+        "kw-global-05"
+      ],
+      "key_facts": [
+        {
+          "text": "Hàn: lượt nhắc tới đồ chứa đồ (수납템) tăng 314,86% từ 22/9 đến 23/10 (Sometrend); 82,6% hộ thanh niên ở thuê; diện tích bình quân đầu người 31,1 m².",
+          "source_ids": [
+            "hankyung_sunap"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "TQ: #出租屋改造# trên Douyin hơn 21 亿 lượt xem, 3,4 vạn người tham gia; #租房大改造# trên Xiaohongshu 35 亿 lượt xem; người được phỏng vấn chi 1.000–4.000 tệ.",
+          "source_ids": [
+            "ycwb_baogai"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Người trẻ ở Hàn và TQ đang chi tiền để làm gọn/cải tạo chỗ ở thuê thay vì chuyển nhà.",
+          "source_ids": [
+            "hankyung_sunap",
+            "ycwb_baogai"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "VN: Lagoma — gói sắp xếp tủ quần áo trọn gói từ 2,5 triệu đồng; Mr&Mrs Clean — 276.000đ/giờ/người, tối thiểu 2 người × 2 giờ.",
+          "source_ids": [
+            "lagoma",
+            "vietmy_xep"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "id": "hankyung_sunap",
+          "name": "한국경제 (Hankyung)",
+          "title": "이사 대신 다이소 갑니다…2030 열광하더니 품절 대란",
+          "url": "https://www.hankyung.com/article/202610231348H",
+          "published": "2026-10-25",
+          "accessed": "2026-10-31",
+          "how_read": "đọc một phần",
+          "note": "Trang công khai chỉ đọc được một phần thân bài bằng công cụ; số liệu lấy từ phần đã đọc."
+        },
+        {
+          "id": "ycwb_baogai",
+          "name": "羊城派 (羊城晚报)",
+          "title": "住不起大平层，年轻人迷上“爆改”出租屋",
+          "url": "https://ycpai.ycwb.com/content/ikinvjktki/content_53710308.html",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang không ghi ngày đăng — dùng làm bối cảnh."
+        },
+        {
+          "id": "lagoma",
+          "name": "Lagoma",
+          "title": "Dịch Vụ | Lagoma",
+          "url": "https://www.lagoma.vn/d%E1%BB%8Bch-v%E1%BB%A5",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang dịch vụ — đối thủ VN (sắp xếp tủ đồ)."
+        },
+        {
+          "id": "vietmy_xep",
+          "name": "Mr&Mrs Clean (vietmycleanhome.com)",
+          "title": "Gói Xếp quần áo tại nhà",
+          "url": "https://vietmycleanhome.com/our-services/goi-xep-quan-ao/",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang dịch vụ — đối thủ VN."
+        }
+      ],
+      "localize_vn": "Giả thuyết: gói ‘Trọ gọn’ 2 giờ, 2 sinh viên đã tập huấn, giá cố định cho phòng ≤ 25 m²; khách chọn 1 trong 3 ‘bộ đồ chứa’ 200.000/350.000/500.000đ mua trên Shopee giao trước; quà tặng là clip trước–sau 20 giây (khách đồng ý mới đăng). Bán theo nhóm cho tòa trọ/ký túc xá.",
+      "localize_global": "Không ưu tiên.",
+      "first_steps": [
+        "Ngày 1: Claude viết quy trình 2 giờ (phân loại → bỏ bớt → xếp → dán nhãn) và 3 danh sách bộ đồ chứa.",
+        "Ngày 2: Tập huấn 2 bạn; Canva làm bảng giá và thẻ ‘trước–sau’.",
+        "Ngày 3: Trang đặt lịch trên Vercel, cọc bằng VietQR.",
+        "Ngày 4–6: Làm thử 5 phòng (giảm giá), quay clip CapCut trước–sau, đăng TikTok/Facebook nhóm thuê trọ.",
+        "Ngày 7: Đếm lượt đặt, thời gian thực tế/phòng, đánh giá; quyết định."
+      ],
+      "capital": {
+        "vnd_min_m": 1,
+        "vnd_max_m": 4,
+        "usd_min": 38,
+        "usd_max": 154,
+        "note": "Dụng cụ (nhãn, kéo, túi hút chân không mẫu), đồng phục, quảng cáo thử."
+      },
+      "risks": [
+        "Khách tự làm theo video miễn phí.",
+        "Thời gian thực tế vượt 2 giờ với phòng nhiều đồ → lỗ.",
+        "Đồ cá nhân nhạy cảm, nguy cơ mất đồ/khiếu nại.",
+        "Nhu cầu theo mùa (đầu năm học, chuyển trọ)."
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 6,
+        "novelty": 5,
+        "lowcap": 8,
+        "signal": 7,
+        "vnfit": 6
+      },
+      "claude_prompt": "Bạn là chuyên gia sắp xếp nhà cửa (professional organizer) kiêm người thiết kế dịch vụ giá rẻ cho sinh viên. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Phòng trọ gọn trong 2 giờ” — gói sắp xếp phòng trọ dưới 25 m² giá cố định, kèm bộ đồ chứa đồ dưới 500.000đ và clip trước–sau\nTóm tắt: Ở Hàn, người 20–30 tuổi ‘đến Daiso thay vì chuyển nhà’: lượt nhắc tới đồ chứa đồ tăng 314,86% trong một tháng, nhiều món cháy hàng; ở TQ, chủ đề ‘爆改出租屋’ (cải tạo phòng trọ) đạt hàng tỷ lượt xem. Ở VN, dịch vụ sắp xếp tủ đồ hiện bán cho nhà lớn (từ 2,5 triệu đồng/gói). Khoảng trống: gói 2 giờ giá cố định cho phòng trọ, 2 người làm, mua sẵn đồ chứa giá rẻ, quay clip trước–sau.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: KR, CN, VN\nHàn: Hankyung (25/10) dẫn Sometrend: lượt nhắc tới ‘수납템’ (đồ chứa đồ) tăng 314,86% từ 22/9 đến 23/10; đồ chứa của Daiso cháy hàng; 82,6% hộ thanh niên ở thuê; diện tích bình quân đầu người của thanh niên 31,1 m²; tiền thuê phòng đơn ở Seoul trung bình 71 vạn won/tháng. TQ: 羊城晚报: #出租屋改造# trên Douyin hơn 21 亿 lượt xem, #租房大改造# trên Xiaohongshu 35 亿 lượt xem; người trẻ chi 1.000–4.000 tệ để cải tạo. VN: Lagoma trọn gói từ 2,5 triệu; Mr&Mrs Clean 276.000đ/giờ/người, tối thiểu 2 người × 2 giờ.\nDữ kiện chi tiết (kèm mức xác minh):\n- Hàn: lượt nhắc tới đồ chứa đồ (수납템) tăng 314,86% từ 22/9 đến 23/10 (Sometrend); 82,6% hộ thanh niên ở thuê; diện tích bình quân đầu người 31,1 m². [1 nguồn gốc]\n- TQ: #出租屋改造# trên Douyin hơn 21 亿 lượt xem, 3,4 vạn người tham gia; #租房大改造# trên Xiaohongshu 35 亿 lượt xem; người được phỏng vấn chi 1.000–4.000 tệ. [1 nguồn gốc]\n- Người trẻ ở Hàn và TQ đang chi tiền để làm gọn/cải tạo chỗ ở thuê thay vì chuyển nhà. [2+ nguồn độc lập]\n- VN: Lagoma — gói sắp xếp tủ quần áo trọn gói từ 2,5 triệu đồng; Mr&Mrs Clean — 276.000đ/giờ/người, tối thiểu 2 người × 2 giờ. [2+ nguồn độc lập]\n\nLƯU Ý ĐỘ TIN CẬY: Giá 299.000–499.000đ/2 giờ (chưa gồm đồ chứa) là giả thuyết; người thuê trọ có chịu trả tiền dịch vụ hay tự làm theo video là câu hỏi chính. Đối thủ VN (Lagoma, Mr&Mrs Clean, TUDO) chủ yếu phục vụ nhà/căn hộ.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nThu nhập bình quân lao động 8,4 triệu đồng/tháng, thành thị 10,1 triệu (thu-nhap) — gói 2,5 triệu đồng quá đắt với người thuê trọ. ‘Nhà cửa & Đời sống’ là một trong các ngành lớn nhất trên 4 sàn TMĐT (tmdt-quy-mo) → đồ chứa giá rẻ dễ mua kèm.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: gói ‘Trọ gọn’ 2 giờ, 2 sinh viên đã tập huấn, giá cố định cho phòng ≤ 25 m²; khách chọn 1 trong 3 ‘bộ đồ chứa’ 200.000/350.000/500.000đ mua trên Shopee giao trước; quà tặng là clip trước–sau 20 giây (khách đồng ý mới đăng). Bán theo nhóm cho tòa trọ/ký túc xá.\n\n## 4. Ràng buộc\n- Vốn: khoảng 1–4 triệu VND (Dụng cụ (nhãn, kéo, túi hút chân không mẫu), đồng phục, quảng cáo thử.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Xin phép trước khi chụp/quay trong phòng khách, không quay đồ cá nhân nhạy cảm; quy định trách nhiệm khi làm hỏng/mất đồ. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Khách tự làm theo video miễn phí.\n- Thời gian thực tế vượt 2 giờ với phòng nhiều đồ → lỗ.\n- Đồ cá nhân nhạy cảm, nguy cơ mất đồ/khiếu nại.\n- Nhu cầu theo mùa (đầu năm học, chuyển trọ).\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Quy trình, checklist, danh sách đồ chứa, nội dung quảng bá.\n- Shopee Việt Nam (Kênh Người Bán): Nguồn mua đồ chứa giá rẻ (mua hộ khách) — chưa mở shop.\n- Canva: Bảng giá, thẻ trước–sau, nhãn dán.\n- Vercel: Trang đặt lịch.\n- VietQR Kit (Casso): Nhận cọc.\n- CapCut: Clip trước–sau.\n  Bản tiết kiệm: Claude (Anthropic), Canva, Cloudflare Pages / Workers, VietQR Kit (Casso). Bản cao cấp: Claude (Anthropic), Shopee Việt Nam (Kênh Người Bán), Canva, Vercel, VietQR Kit (Casso), CapCut.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude viết quy trình 2 giờ (phân loại → bỏ bớt → xếp → dán nhãn) và 3 danh sách bộ đồ chứa.\n- Ngày 2: Tập huấn 2 bạn; Canva làm bảng giá và thẻ ‘trước–sau’.\n- Ngày 3: Trang đặt lịch trên Vercel, cọc bằng VietQR.\n- Ngày 4–6: Làm thử 5 phòng (giảm giá), quay clip CapCut trước–sau, đăng TikTok/Facebook nhóm thuê trọ.\n- Ngày 7: Đếm lượt đặt, thời gian thực tế/phòng, đánh giá; quyết định.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Quy trình 2 giờ chia theo 10 phút + checklist cho 2 người\n2. 3 danh sách ‘bộ đồ chứa’ theo ngân sách (món, số lượng) [giá cần xác minh trên sàn]\n3. Bảng giá, chính sách và tin nhắn chốt lịch\n4. Kịch bản clip trước–sau 20 giây\n5. Bảng tính thời gian/lãi mỗi phòng và chỉ số đi tiếp/dừng\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.7,
+      "rank": 4
+    },
+    {
+      "id": "20261031-03-tu-do-check-in-homestay",
+      "date": "2026-10-31",
+      "title": "“Tủ đồ check-in tại homestay” — đặt sẵn 30 bộ đồ chụp ảnh theo điểm đến ở homestay, khách quét QR thuê theo ngày thay vì mua đồ mặc một lần",
+      "pitch": "Ở TQ, ‘次抛衣’ — quần áo dưới 50 tệ mua để mặc chụp ảnh du lịch rồi vứt — có hơn 60 triệu lượt xem trên Douyin và bị cảnh báo lãng phí, hại da. Thay vì bán đồ rẻ, đặt một tủ 30 bộ hợp cảnh (váy maxi biển, áo dân tộc cách điệu cho Hà Giang, len cho Đà Lạt) ngay tại homestay; khách quét QR thuê 1 ngày, trả lại tủ, chủ homestay chia doanh thu.",
+      "type": "startup",
+      "category": [
+        "service",
+        "product"
+      ],
+      "tags": [
+        "du lịch",
+        "chụp ảnh",
+        "cho thuê đồ",
+        "homestay",
+        "bền vững"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Ở Hà Nội đã có cửa hàng cho thuê váy du lịch (Ngáo Maxi 100.000–250.000đ/3 ngày, ship toàn quốc) và nhiều tiệm thuê đồ ở Đà Lạt — điểm khác là đặt tủ ngay tại homestay. Chủ homestay có chịu chia doanh thu và tỷ lệ hư hỏng/mất đồ là giả thuyết.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261031-03-tu-do-check-in-homestay.webp",
+      "image_alt": "Tủ quần áo nhỏ màu xanh ngọc có váy, mũ cói và khăn, mã QR trên cửa tủ, phía sau là núi và mặt trời",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Quét QR trên tủ là thấy ngay ảnh từng bộ đồ mặc ở đúng góc chụp của homestay đó, bấm thuê và trả cọc trong 30 giây.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Danh sách đồ theo điểm đến, bản đồ góc chụp, nội dung trang thuê.",
+            "why": "Free $0; Pro $17/tháng khi trả năm ($200 trả trước) hoặc $20 trả tháng — mở lại 31/10, khớp.",
+            "alt_ids": [
+              "gemini"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "a1688",
+            "role": "Nguồn nhập đồ số lượng nhỏ.",
+            "why": "Trang 1688 không đọc được (cần tài khoản/đại lý) — chưa xác minh; có thể thay bằng chợ đầu mối.",
+            "alt_ids": [
+              "shopee_seller"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vercel",
+            "role": "Trang thuê theo tủ (mỗi homestay một đường dẫn).",
+            "why": "Hobby $0, Pro $20/tháng — mở lại 31/10, khớp.",
+            "alt_ids": [
+              "cloudflare_pages"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "supabase",
+            "role": "Ghi lượt thuê, trả, cọc.",
+            "why": "Free $0: 50.000 MAU, database 500 MB — mở lại 31/10, khớp.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Thu tiền thuê + cọc.",
+            "why": "Chèn ảnh QR chuyển khoản bằng một URL img.vietqr.io, miễn phí — mở lại 31/10; trang có thông báo thay đổi API tháng 10/2026.",
+            "alt_ids": [
+              "payos"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip quảng bá theo điểm đến.",
+            "why": "Trang giá CapCut hiển thị cho VN (31/10): Free 0đ; Pro 290.000đ/tháng hoặc 1.890.000đ/năm.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "shopee_seller",
+            "cloudflare_pages",
+            "vietqr"
+          ],
+          "monthly_cost_note": "≈ 0đ/tháng phần mềm (gói Free); ghi sổ thuê/trả bằng bảng tính.",
+          "tradeoff": "Đối soát thủ công, dễ sót cọc."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "a1688",
+            "vercel",
+            "supabase",
+            "payos",
+            "capcut"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + $0–20 (Vercel) + $0 (Supabase Free) + 290.000đ (CapCut Pro) ≈ 0,7–1,3 triệu đồng/tháng.",
+          "tradeoff": "Tự động đối soát cọc qua payOS; tốn công cài đặt."
+        },
+        "checked": "2026-10-31"
+      },
+      "regions": [
+        "CN",
+        "VN"
+      ],
+      "signal_text": "TQ: Sixth Tone (23/10): ‘次抛衣’ thường dưới 50 tệ/món, chủ đề trên Douyin hơn 60 triệu lượt xem, phổ biến với phụ nữ trẻ; người mặc xong vứt hoặc bán lại trên Xianyu. 封面新闻 qua Tencent (6/10): một shop ‘váy chụp ảnh’ bán hơn 1 vạn chiếc/tháng, giá 20–50 tệ, tỷ lệ mua lại dưới 10%, ngành trả hàng 30–50%; chuyên gia cảnh báo thuốc nhuộm, formaldehyde. VN: đã có tiệm thuê váy du lịch ở Hà Nội.",
+      "vn_youth_fit": "Gen Z Việt: 81% dự định tối đa 6 chuyến/năm, khoảng 80% đi dưới 1 tuần, 55% coi ngân sách là yếu tố quyết định (du-lich); 49% Gen Z giữ hạn mức chi nghiêm, 45% coi ‘đáng tiền’ là yếu tố quyết định (ngan-sach) → thuê 1 ngày rẻ hơn mua đồ mặc một lần.",
+      "vn_fit_refs": [
+        "du-lich",
+        "ngan-sach"
+      ],
+      "from_keywords": [
+        "kw-cn-17",
+        "kw-global-05"
+      ],
+      "key_facts": [
+        {
+          "text": "‘次抛衣’ (đồ mặc một lần) là quần áo giá rẻ mua để chụp ảnh du lịch rồi vứt hoặc bán lại; thường dưới 50 tệ/món.",
+          "source_ids": [
+            "sixthtone_cipao",
+            "qq_cipao"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Chủ đề ‘次抛衣’ trên Douyin hơn 60 triệu lượt xem; phổ biến với phụ nữ trẻ.",
+          "source_ids": [
+            "sixthtone_cipao"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Một shop ‘váy chụp ảnh’ bán ổn định hơn 1 vạn chiếc/tháng giá 20–50 tệ; tỷ lệ mua lại dưới 10%; tỷ lệ trả hàng của ngành 30–50%; khách chính 18–30 tuổi.",
+          "source_ids": [
+            "qq_cipao"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Chuyên gia cảnh báo vải rẻ có thể chứa thuốc nhuộm vượt chuẩn, formaldehyde gây viêm da tiếp xúc.",
+          "source_ids": [
+            "qq_cipao",
+            "sixthtone_cipao"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Ở Hà Nội, Ngáo Maxi cho thuê váy du lịch 100.000–250.000đ/3 ngày, giặt ủi trước khi giao, ship toàn quốc.",
+          "source_ids": [
+            "ngaomaxi"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "sixthtone_cipao",
+          "name": "Sixth Tone",
+          "title": "In Stitches: Why Young Chinese Are Buying Clothes They Can Throw Away",
+          "url": "https://www.sixthtone.com/news/1019154",
+          "published": "2026-10-23",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "qq_cipao",
+          "name": "腾讯新闻 (封面新闻)",
+          "title": "“次抛衣”成国庆旅游“出片神器” 专家提醒：警惕“一次性美丽”伤了皮肤",
+          "url": "https://news.qq.com/rain/a/20261006A04XL600",
+          "published": "2026-10-06",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "ngaomaxi",
+          "name": "Ngáo Maxi (Hà Nội)",
+          "title": "Ngáo Maxi - Thiên Đường Cho Thuê Váy Du Lịch & Chụp Ảnh Hà Nội",
+          "url": "https://www.ngaomaxi.shop/p/faq.html",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang FAQ của cửa hàng — đối thủ trực tiếp ở Hà Nội."
+        }
+      ],
+      "localize_vn": "Giả thuyết: thử với 3 homestay ở một điểm (ví dụ Tam Đảo hoặc Mộc Châu gần Hà Nội); 30 bộ theo 3 size, giá thuê 60.000–120.000đ/ngày, cọc qua QR; chủ homestay giữ 20–30%; mỗi tuần một người đi thu đồ giặt. Kèm ‘bản đồ góc chụp đẹp’ quanh homestay.",
+      "localize_global": "Không ưu tiên.",
+      "first_steps": [
+        "Ngày 1: Chọn điểm đến, Claude lập danh sách 30 bộ hợp cảnh + bản đồ góc chụp; nhập đồ từ chợ đầu mối/1688.",
+        "Ngày 2: Gặp 5 chủ homestay, chào chia doanh thu; Canva làm bảng hướng dẫn và mã QR.",
+        "Ngày 3: Trang thuê trên Vercel, cọc bằng VietQR, Supabase ghi lượt thuê/trả.",
+        "Ngày 4–6: Đặt tủ ở 1–3 homestay, quay clip CapCut ‘đi Mộc Châu không cần mang váy’.",
+        "Ngày 7: Đếm lượt thuê/phòng có khách, tỷ lệ hư hỏng; quyết định."
+      ],
+      "capital": {
+        "vnd_min_m": 10,
+        "vnd_max_m": 25,
+        "usd_min": 385,
+        "usd_max": 962,
+        "note": "30 bộ đồ, tủ/giá treo, túi giặt, in QR, đi lại."
+      },
+      "risks": [
+        "Mất đồ, hư hỏng, vệ sinh (phải giặt sau mỗi lượt).",
+        "Phụ thuộc mùa du lịch và thiện chí chủ homestay.",
+        "Đối thủ cho thuê váy ship toàn quốc đã có sẵn tệp khách.",
+        "Size không vừa → khách không thuê."
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 6,
+        "novelty": 6,
+        "lowcap": 6,
+        "signal": 7,
+        "vnfit": 8
+      },
+      "claude_prompt": "Bạn là người vận hành dịch vụ cho thuê đồ kiêm chuyên gia du lịch trải nghiệm ở miền Bắc Việt Nam. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Tủ đồ check-in tại homestay” — đặt sẵn 30 bộ đồ chụp ảnh theo điểm đến ở homestay, khách quét QR thuê theo ngày thay vì mua đồ mặc một lần\nTóm tắt: Ở TQ, ‘次抛衣’ — quần áo dưới 50 tệ mua để mặc chụp ảnh du lịch rồi vứt — có hơn 60 triệu lượt xem trên Douyin và bị cảnh báo lãng phí, hại da. Thay vì bán đồ rẻ, đặt một tủ 30 bộ hợp cảnh (váy maxi biển, áo dân tộc cách điệu cho Hà Giang, len cho Đà Lạt) ngay tại homestay; khách quét QR thuê 1 ngày, trả lại tủ, chủ homestay chia doanh thu.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN, VN\nTQ: Sixth Tone (23/10): ‘次抛衣’ thường dưới 50 tệ/món, chủ đề trên Douyin hơn 60 triệu lượt xem, phổ biến với phụ nữ trẻ; người mặc xong vứt hoặc bán lại trên Xianyu. 封面新闻 qua Tencent (6/10): một shop ‘váy chụp ảnh’ bán hơn 1 vạn chiếc/tháng, giá 20–50 tệ, tỷ lệ mua lại dưới 10%, ngành trả hàng 30–50%; chuyên gia cảnh báo thuốc nhuộm, formaldehyde. VN: đã có tiệm thuê váy du lịch ở Hà Nội.\nDữ kiện chi tiết (kèm mức xác minh):\n- ‘次抛衣’ (đồ mặc một lần) là quần áo giá rẻ mua để chụp ảnh du lịch rồi vứt hoặc bán lại; thường dưới 50 tệ/món. [2+ nguồn độc lập]\n- Chủ đề ‘次抛衣’ trên Douyin hơn 60 triệu lượt xem; phổ biến với phụ nữ trẻ. [1 nguồn gốc]\n- Một shop ‘váy chụp ảnh’ bán ổn định hơn 1 vạn chiếc/tháng giá 20–50 tệ; tỷ lệ mua lại dưới 10%; tỷ lệ trả hàng của ngành 30–50%; khách chính 18–30 tuổi. [1 nguồn gốc]\n- Chuyên gia cảnh báo vải rẻ có thể chứa thuốc nhuộm vượt chuẩn, formaldehyde gây viêm da tiếp xúc. [2+ nguồn độc lập]\n- Ở Hà Nội, Ngáo Maxi cho thuê váy du lịch 100.000–250.000đ/3 ngày, giặt ủi trước khi giao, ship toàn quốc. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Ở Hà Nội đã có cửa hàng cho thuê váy du lịch (Ngáo Maxi 100.000–250.000đ/3 ngày, ship toàn quốc) và nhiều tiệm thuê đồ ở Đà Lạt — điểm khác là đặt tủ ngay tại homestay. Chủ homestay có chịu chia doanh thu và tỷ lệ hư hỏng/mất đồ là giả thuyết.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nGen Z Việt: 81% dự định tối đa 6 chuyến/năm, khoảng 80% đi dưới 1 tuần, 55% coi ngân sách là yếu tố quyết định (du-lich); 49% Gen Z giữ hạn mức chi nghiêm, 45% coi ‘đáng tiền’ là yếu tố quyết định (ngan-sach) → thuê 1 ngày rẻ hơn mua đồ mặc một lần.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: thử với 3 homestay ở một điểm (ví dụ Tam Đảo hoặc Mộc Châu gần Hà Nội); 30 bộ theo 3 size, giá thuê 60.000–120.000đ/ngày, cọc qua QR; chủ homestay giữ 20–30%; mỗi tuần một người đi thu đồ giặt. Kèm ‘bản đồ góc chụp đẹp’ quanh homestay.\n\n## 4. Ràng buộc\n- Vốn: khoảng 10–25 triệu VND (30 bộ đồ, tủ/giá treo, túi giặt, in QR, đi lại.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Hợp đồng chia doanh thu với chủ homestay; quy trình giặt/khử khuẩn sau mỗi lượt; chính sách cọc, hư hỏng rõ ràng. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Mất đồ, hư hỏng, vệ sinh (phải giặt sau mỗi lượt).\n- Phụ thuộc mùa du lịch và thiện chí chủ homestay.\n- Đối thủ cho thuê váy ship toàn quốc đã có sẵn tệp khách.\n- Size không vừa → khách không thuê.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Danh sách đồ theo điểm đến, bản đồ góc chụp, nội dung trang thuê.\n- 1688.com: Nguồn nhập đồ số lượng nhỏ.\n- Vercel: Trang thuê theo tủ (mỗi homestay một đường dẫn).\n- Supabase: Ghi lượt thuê, trả, cọc.\n- VietQR Kit (Casso): Thu tiền thuê + cọc.\n- CapCut: Clip quảng bá theo điểm đến.\n  Bản tiết kiệm: Claude (Anthropic), Shopee Việt Nam (Kênh Người Bán), Cloudflare Pages / Workers, VietQR Kit (Casso). Bản cao cấp: Claude (Anthropic), 1688.com, Vercel, Supabase, payOS (Casso), CapCut.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Chọn điểm đến, Claude lập danh sách 30 bộ hợp cảnh + bản đồ góc chụp; nhập đồ từ chợ đầu mối/1688.\n- Ngày 2: Gặp 5 chủ homestay, chào chia doanh thu; Canva làm bảng hướng dẫn và mã QR.\n- Ngày 3: Trang thuê trên Vercel, cọc bằng VietQR, Supabase ghi lượt thuê/trả.\n- Ngày 4–6: Đặt tủ ở 1–3 homestay, quay clip CapCut ‘đi Mộc Châu không cần mang váy’.\n- Ngày 7: Đếm lượt thuê/phòng có khách, tỷ lệ hư hỏng; quyết định.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Danh sách 30 bộ đồ cho 1 điểm đến (size, màu, giá nhập ước tính [cần xác minh])\n2. Thư chào hợp tác + mẫu thỏa thuận chia doanh thu với homestay\n3. Mã nguồn trang thuê theo tủ (Vercel + Supabase) và luồng cọc/trả\n4. Quy trình giặt, kiểm đồ, xử lý hư hỏng\n5. Bảng chỉ số tuần đầu và ngưỡng đi tiếp/dừng\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.5,
+      "rank": 5
+    },
+    {
+      "id": "20261031-05-hoi-ky-zalo-ong-ba",
+      "date": "2026-10-31",
+      "title": "“Hồi ký Zalo cho ông bà” — mỗi tuần ông bà trả lời 1 câu hỏi bằng tin nhắn thoại Zalo, sau 3 tháng thành cuốn sách nhỏ làm quà Tết",
+      "pitch": "Ở Nhật, ‘親の履歴書’ dùng AI hỏi chuyện qua LINE trong 6 chủ đề rồi giao file PDF tự truyện, 9.800 yên; TADOROOTS cho bố mẹ trả lời bằng tin nhắn thoại LINE trong 6 tháng, khoảng 50 câu, từ 38.000 yên. Bản Việt trên Zalo: con cháu mua làm quà, ông bà chỉ cần bấm giữ để nói, AI chép lời và biên tập, người thật đọc lại, in cuốn sách mỏng có ảnh gia đình.",
+      "type": "startup",
+      "category": [
+        "ai",
+        "service"
+      ],
+      "tags": [
+        "hồi ký",
+        "người cao tuổi",
+        "quà Tết",
+        "Zalo",
+        "AI chép lời"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Chất lượng chép lời giọng địa phương của người lớn tuổi bằng AI chưa kiểm tra. VN đã có dịch vụ viết hồi ký thuê (viethoiky.com) — điểm khác là làm qua tin nhắn thoại, giá thấp hơn. Giá 690.000–1.290.000đ/cuốn là giả thuyết.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261031-05-hoi-ky-zalo-ong-ba.webp",
+      "image_alt": "Cuốn sách nhỏ mở ra có ảnh gia đình, bên cạnh điện thoại hiện sóng âm tin nhắn thoại và cành mai",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Mỗi tuần con cháu nhận trên Zalo một ‘trang sách’ mới, có nút nghe lại đúng giọng ông bà kể đoạn đó.",
+        "tools": [
+          {
+            "tool_id": "gemini",
+            "role": "Chép lời tin nhắn thoại (thử chất lượng giọng người lớn tuổi).",
+            "why": "Trang gói Gemini hiển thị cho VN (31/10): Google AI Plus 132.000đ/tháng, AI Pro 489.000đ/tháng.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "claude",
+            "role": "Biên tập thành văn kể chuyện, giữ giọng nói; soạn câu hỏi.",
+            "why": "Free $0; Pro $17/tháng khi trả năm ($200 trả trước) hoặc $20 trả tháng — mở lại 31/10, khớp.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Gửi câu hỏi hằng tuần, nhận tin nhắn thoại.",
+            "why": "Trang chủ OA mở được 31/10, có mục ‘Bảng giá’ gói nâng cao nhưng chưa đọc được số — cần tự kiểm tra.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Dàn trang sách A5, bìa.",
+            "why": "Trang giá Canva tải bằng JavaScript, không đọc được số ngày 31/10 — không nêu giá; gói Free đủ cho thử nghiệm.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vercel",
+            "role": "Trang bán + nghe lại đoạn ghi âm (có mật khẩu gia đình).",
+            "why": "Hobby $0, Pro $20/tháng — mở lại 31/10, khớp.",
+            "alt_ids": [
+              "cloudflare_pages"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Nhận tiền đặt trước.",
+            "why": "Chèn ảnh QR chuyển khoản bằng một URL img.vietqr.io, miễn phí — mở lại 31/10; trang có thông báo thay đổi API tháng 10/2026.",
+            "alt_ids": [
+              "payos"
+            ],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "gemini",
+            "claude",
+            "canva",
+            "cloudflare_pages",
+            "vietqr"
+          ],
+          "monthly_cost_note": "≈ 0đ/tháng nếu dùng gói Free (giới hạn lượt); gửi câu hỏi bằng Zalo cá nhân.",
+          "tradeoff": "Giới hạn lượt dùng AI miễn phí; thao tác tay nhiều."
+        },
+        "premium": {
+          "tool_ids": [
+            "gemini",
+            "claude",
+            "zalo_oa",
+            "canva",
+            "vercel",
+            "payos"
+          ],
+          "monthly_cost_note": "≈ 489.000đ (Google AI Pro) hoặc 132.000đ (AI Plus) + $17–20 (Claude Pro) + phí OA [chưa xác minh] + $0–20 (Vercel) ≈ 0,6–1,5 triệu đồng/tháng.",
+          "tradeoff": "Chép lời/biên tập nhanh hơn, kênh OA chuyên nghiệp; chi phí cố định."
+        },
+        "checked": "2026-10-31"
+      },
+      "regions": [
+        "JP",
+        "KR",
+        "VN"
+      ],
+      "signal_text": "Nhật: ‘親の履歴書’ — AI hỏi chuyện qua LINE theo 6 chủ đề (tuổi thơ, tuổi trẻ, công việc, tình yêu, gia đình, nhân sinh quan), giao PDF in được; 9.800 yên hoặc 1.980 yên × 6 kỳ. TADOROOTS — câu hỏi gửi qua LINE 2–4 lần/tháng, trả lời bằng tin nhắn thoại 1–5 phút, khoảng 50 câu trong 6 tháng, nhân viên biên tập, từ 38.000 yên, mua làm quà. Hàn: LifeLog quảng bá ‘AI 자서전’ ghi lại đời cha mẹ (chỉ đọc tiêu đề). TQ: dịch vụ ‘共享儿女’ cho thấy chi tiêu cho tình cảm với cha mẹ ở xa (Baidu #43). VN: viethoiky.com viết hồi ký thuê.",
+      "vn_youth_fit": "Zalo được 89% người dùng sử dụng, nằm top 3 nền tảng (mxh-top) — ông bà quen gửi tin nhắn thoại Zalo. 81% người dùng Việt tương tác với AI hằng ngày (ai) → con cháu dễ chấp nhận ‘AI chép lời + người biên tập’.",
+      "vn_fit_refs": [
+        "mxh-top",
+        "ai"
+      ],
+      "from_keywords": [
+        "kw-kr-14",
+        "kw-global-04"
+      ],
+      "key_facts": [
+        {
+          "text": "‘親の履歴書’ (Nhật): AI hỏi chuyện qua LINE theo 6 chủ đề, ghép thành tự truyện dạng PDF in được; giá 9.800 yên hoặc 1.980 yên × 6 kỳ; hoàn tiền trong 14 ngày nếu chưa giao.",
+          "source_ids": [
+            "oya_rirekisho"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "TADOROOTS (Nhật): câu hỏi gửi qua LINE 2–4 lần/tháng, trả lời bằng tin nhắn thoại 1–5 phút; khoảng 50 câu trong 6 tháng; nhân viên chép và biên tập; từ 38.000 yên; thiết kế cho người 60–75 tuổi không rành điện thoại; mua làm quà.",
+          "source_ids": [
+            "tadoroots"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Mô hình ‘hỏi chuyện qua ứng dụng nhắn tin → thành sách tự truyện của cha mẹ’ có ít nhất hai doanh nghiệp độc lập ở Nhật và một ở Hàn (LifeLog).",
+          "source_ids": [
+            "oya_rirekisho",
+            "tadoroots",
+            "lifelog_kr"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "VN: viethoiky.com cung cấp dịch vụ viết hồi ký thuê cho người cao tuổi, quà mừng thọ.",
+          "source_ids": [
+            "viethoiky"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "oya_rirekisho",
+          "name": "親の履歴書 (Nhật)",
+          "title": "親の履歴書 | 親の、親の顔しか、知らない。",
+          "url": "https://oyanorirekisho.com/",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang sản phẩm."
+        },
+        {
+          "id": "tadoroots",
+          "name": "TADOROOTS (Nhật)",
+          "title": "TADOROOTS STORY | 親の声が、一冊の本になる。",
+          "url": "https://www.tadoroots.jp/story",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang sản phẩm."
+        },
+        {
+          "id": "lifelog_kr",
+          "name": "LifeLog (Hàn)",
+          "title": "AI 자서전 LifeLog | 부모님의 인생을 문학적 기록으로",
+          "url": "https://www.lifelog.ai.kr/",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "chỉ đọc tiêu đề",
+          "note": "Chỉ đọc được tiêu đề trang (nội dung tải bằng JavaScript)."
+        },
+        {
+          "id": "viethoiky",
+          "name": "Viethoiky.com",
+          "title": "Dịch vụ viết Hồi ký là gì, dành cho những ai?",
+          "url": "https://viethoiky.com/dich-vu-viet-hoi-ky/",
+          "published": "2023-09-23",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang dịch vụ (đăng 2023) — đối thủ VN viết hồi ký thuê."
+        }
+      ],
+      "localize_vn": "Giả thuyết: bộ 12 câu hỏi kiểu Việt (‘Ngày xưa ông bà quen nhau thế nào?’, ‘Món Tết nhà mình ngày trước?’, ‘Bao cấp nhà mình ăn gì?’) gửi mỗi tuần qua Zalo OA; AI chép lời, người biên tập giữ giọng nói vùng miền; in 30–40 trang khổ A5 có ảnh. Chạy kịp Tết: mở bán đầu tháng 11.",
+      "localize_global": "Người Việt ở nước ngoài mua cho ông bà ở VN — chưa kiểm tra.",
+      "first_steps": [
+        "Ngày 1: Claude soạn 12 câu hỏi + giọng văn biên tập mẫu; thử Gemini chép 5 đoạn ghi âm giọng người lớn tuổi (xin phép người quen).",
+        "Ngày 2: Canva làm mẫu sách 8 trang; trang bán trên Vercel.",
+        "Ngày 3: Nhận đặt trước bằng VietQR; tạo Zalo OA gửi câu hỏi.",
+        "Ngày 4–6: Chạy thử với 3 gia đình (miễn phí), đo tỷ lệ ông bà trả lời.",
+        "Ngày 7: Hỏi giá sẵn sàng trả; quyết định mở bán trước Tết."
+      ],
+      "capital": {
+        "vnd_min_m": 2,
+        "vnd_max_m": 6,
+        "usd_min": 77,
+        "usd_max": 231,
+        "note": "In sách mẫu, quảng cáo thử, thời gian biên tập."
+      },
+      "risks": [
+        "AI chép sai giọng địa phương/người lớn tuổi — cần người đọc lại, tốn công.",
+        "Ông bà bỏ dở giữa chừng.",
+        "Dữ liệu giọng nói và chuyện gia đình là dữ liệu cá nhân nhạy cảm.",
+        "Đối thủ viết hồi ký thuê có kinh nghiệm biên tập."
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 5,
+        "novelty": 5,
+        "lowcap": 9,
+        "signal": 7,
+        "vnfit": 6
+      },
+      "claude_prompt": "Bạn là biên tập viên sách hồi ký kiêm người thiết kế sản phẩm quà tặng cho gia đình Việt. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Hồi ký Zalo cho ông bà” — mỗi tuần ông bà trả lời 1 câu hỏi bằng tin nhắn thoại Zalo, sau 3 tháng thành cuốn sách nhỏ làm quà Tết\nTóm tắt: Ở Nhật, ‘親の履歴書’ dùng AI hỏi chuyện qua LINE trong 6 chủ đề rồi giao file PDF tự truyện, 9.800 yên; TADOROOTS cho bố mẹ trả lời bằng tin nhắn thoại LINE trong 6 tháng, khoảng 50 câu, từ 38.000 yên. Bản Việt trên Zalo: con cháu mua làm quà, ông bà chỉ cần bấm giữ để nói, AI chép lời và biên tập, người thật đọc lại, in cuốn sách mỏng có ảnh gia đình.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: JP, KR, VN\nNhật: ‘親の履歴書’ — AI hỏi chuyện qua LINE theo 6 chủ đề (tuổi thơ, tuổi trẻ, công việc, tình yêu, gia đình, nhân sinh quan), giao PDF in được; 9.800 yên hoặc 1.980 yên × 6 kỳ. TADOROOTS — câu hỏi gửi qua LINE 2–4 lần/tháng, trả lời bằng tin nhắn thoại 1–5 phút, khoảng 50 câu trong 6 tháng, nhân viên biên tập, từ 38.000 yên, mua làm quà. Hàn: LifeLog quảng bá ‘AI 자서전’ ghi lại đời cha mẹ (chỉ đọc tiêu đề). TQ: dịch vụ ‘共享儿女’ cho thấy chi tiêu cho tình cảm với cha mẹ ở xa (Baidu #43). VN: viethoiky.com viết hồi ký thuê.\nDữ kiện chi tiết (kèm mức xác minh):\n- ‘親の履歴書’ (Nhật): AI hỏi chuyện qua LINE theo 6 chủ đề, ghép thành tự truyện dạng PDF in được; giá 9.800 yên hoặc 1.980 yên × 6 kỳ; hoàn tiền trong 14 ngày nếu chưa giao. [1 nguồn gốc]\n- TADOROOTS (Nhật): câu hỏi gửi qua LINE 2–4 lần/tháng, trả lời bằng tin nhắn thoại 1–5 phút; khoảng 50 câu trong 6 tháng; nhân viên chép và biên tập; từ 38.000 yên; thiết kế cho người 60–75 tuổi không rành điện thoại; mua làm quà. [1 nguồn gốc]\n- Mô hình ‘hỏi chuyện qua ứng dụng nhắn tin → thành sách tự truyện của cha mẹ’ có ít nhất hai doanh nghiệp độc lập ở Nhật và một ở Hàn (LifeLog). [2+ nguồn độc lập]\n- VN: viethoiky.com cung cấp dịch vụ viết hồi ký thuê cho người cao tuổi, quà mừng thọ. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Chất lượng chép lời giọng địa phương của người lớn tuổi bằng AI chưa kiểm tra. VN đã có dịch vụ viết hồi ký thuê (viethoiky.com) — điểm khác là làm qua tin nhắn thoại, giá thấp hơn. Giá 690.000–1.290.000đ/cuốn là giả thuyết.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nZalo được 89% người dùng sử dụng, nằm top 3 nền tảng (mxh-top) — ông bà quen gửi tin nhắn thoại Zalo. 81% người dùng Việt tương tác với AI hằng ngày (ai) → con cháu dễ chấp nhận ‘AI chép lời + người biên tập’.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: bộ 12 câu hỏi kiểu Việt (‘Ngày xưa ông bà quen nhau thế nào?’, ‘Món Tết nhà mình ngày trước?’, ‘Bao cấp nhà mình ăn gì?’) gửi mỗi tuần qua Zalo OA; AI chép lời, người biên tập giữ giọng nói vùng miền; in 30–40 trang khổ A5 có ảnh. Chạy kịp Tết: mở bán đầu tháng 11.\n\n## 4. Ràng buộc\n- Vốn: khoảng 2–6 triệu VND (In sách mẫu, quảng cáo thử, thời gian biên tập.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Xin đồng ý của ông bà trước khi ghi âm; dữ liệu giọng nói chỉ dùng để làm sách, xóa khi gia đình yêu cầu; không tạo giọng nói giả của ông bà. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- AI chép sai giọng địa phương/người lớn tuổi — cần người đọc lại, tốn công.\n- Ông bà bỏ dở giữa chừng.\n- Dữ liệu giọng nói và chuyện gia đình là dữ liệu cá nhân nhạy cảm.\n- Đối thủ viết hồi ký thuê có kinh nghiệm biên tập.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Gemini (Google): Chép lời tin nhắn thoại (thử chất lượng giọng người lớn tuổi).\n- Claude (Anthropic): Biên tập thành văn kể chuyện, giữ giọng nói; soạn câu hỏi.\n- Zalo Official Account (OA): Gửi câu hỏi hằng tuần, nhận tin nhắn thoại.\n- Canva: Dàn trang sách A5, bìa.\n- Vercel: Trang bán + nghe lại đoạn ghi âm (có mật khẩu gia đình).\n- VietQR Kit (Casso): Nhận tiền đặt trước.\n  Bản tiết kiệm: Gemini (Google), Claude (Anthropic), Canva, Cloudflare Pages / Workers, VietQR Kit (Casso). Bản cao cấp: Gemini (Google), Claude (Anthropic), Zalo Official Account (OA), Canva, Vercel, payOS (Casso).\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude soạn 12 câu hỏi + giọng văn biên tập mẫu; thử Gemini chép 5 đoạn ghi âm giọng người lớn tuổi (xin phép người quen).\n- Ngày 2: Canva làm mẫu sách 8 trang; trang bán trên Vercel.\n- Ngày 3: Nhận đặt trước bằng VietQR; tạo Zalo OA gửi câu hỏi.\n- Ngày 4–6: Chạy thử với 3 gia đình (miễn phí), đo tỷ lệ ông bà trả lời.\n- Ngày 7: Hỏi giá sẵn sàng trả; quyết định mở bán trước Tết.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Bộ 12 câu hỏi theo 4 giai đoạn đời, viết đúng cách nói với ông bà miền Bắc và miền Nam\n2. Prompt biên tập (đầu vào: bản chép lời; đầu ra: trang sách giữ giọng nói)\n3. Mẫu dàn trang 8 trang + bìa (mô tả để làm trên Canva)\n4. Trang bán hàng + chính sách bảo mật dữ liệu gia đình\n5. Kế hoạch chạy kịp Tết và bảng chỉ số đi tiếp/dừng\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.46,
+      "rank": 6
+    },
+    {
+      "id": "20261031-02-may-ao-cho-boss",
+      "date": "2026-10-31",
+      "title": "“May áo cho boss trong 3 giờ” — lớp may áo thú cưng cho người chưa từng dùng máy may, đo mèo/chó tại chỗ, mang thành phẩm về",
+      "pitch": "Ở TQ, xưởng 玄猫 của một chàng trai sinh 1998 từ tiệm sửa đồ 30 m² thành phòng may cho người trẻ, có tháng doanh thu 20 vạn tệ, trong đó khóa may đồ thú cưng chiếm khoảng 30%; ở Thượng Hải, Fujiaweng bán lớp 150 phút 358 tệ. Bản Việt: thuê góc 20–30 m², 3 máy may gia đình, rập sẵn 3 kiểu (yếm, áo hoodie, nơ cổ), học viên mang số đo hoặc mang luôn boss đến.",
+      "type": "startup",
+      "category": [
+        "service",
+        "product"
+      ],
+      "tags": [
+        "thú cưng",
+        "may vá",
+        "workshop",
+        "handmade",
+        "Gen Z"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Số liệu doanh thu xưởng 玄猫 là do chủ tiệm kể với báo. Giá 350.000–550.000đ/buổi ở Hà Nội là giả thuyết. VN đã có lớp may/workshop handmade nói chung; chưa tìm thấy lớp chuyên may đồ thú cưng (một lượt tra — chưa kết luận chắc).",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261031-02-may-ao-cho-boss.webp",
+      "image_alt": "Máy may màu cam đang may chiếc áo nhỏ, bên cạnh chú mèo ngồi chờ và cuộn chỉ, thước dây",
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Mỗi học viên nhận clip 15 giây ‘từ cuộn vải đến boss mặc áo’ dựng sẵn để đăng ngay, kèm ảnh poster Canva in tên boss.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Giáo án, mô tả rập, nội dung bài đăng.",
+            "why": "Free $0; Pro $17/tháng khi trả năm ($200 trả trước) hoặc $20 trả tháng — mở lại 31/10, khớp.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "nano_banana",
+            "role": "Ảnh mẫu thành phẩm và poster lớp học.",
+            "why": "API khoảng $0,067/ảnh 1K, $0,101/ảnh 2K — mở lại bảng giá Gemini API 31/10, khớp.",
+            "alt_ids": [
+              "seedream"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "canva",
+            "role": "Poster, thẻ tên boss, hướng dẫn in.",
+            "why": "Trang giá Canva tải bằng JavaScript, không đọc được số ngày 31/10 — không nêu giá; gói Free đủ cho thử nghiệm.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vercel",
+            "role": "Trang đặt chỗ.",
+            "why": "Hobby $0, Pro $20/tháng — mở lại 31/10, khớp.",
+            "alt_ids": [
+              "cloudflare_pages"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Nhận cọc giữ chỗ.",
+            "why": "Chèn ảnh QR chuyển khoản bằng một URL img.vietqr.io, miễn phí — mở lại 31/10; trang có thông báo thay đổi API tháng 10/2026.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Dựng clip ‘boss mặc áo’ cho học viên.",
+            "why": "Trang giá CapCut hiển thị cho VN (31/10): Free 0đ; Pro 290.000đ/tháng hoặc 1.890.000đ/năm.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "cloudflare_pages",
+            "vietqr"
+          ],
+          "monthly_cost_note": "≈ 0đ/tháng phần mềm (gói Free); chi phí thật nằm ở vải và mặt bằng.",
+          "tradeoff": "Ảnh mẫu tự chụp, clip tự quay thô."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "nano_banana",
+            "canva",
+            "vercel",
+            "vietqr",
+            "capcut"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + khoảng $2 ảnh (30 ảnh × $0,067) + $0–20 (Vercel) + 290.000đ (CapCut Pro) ≈ 0,8–1,4 triệu đồng/tháng.",
+          "tradeoff": "Nội dung đẹp, đều; chi phí cố định cao hơn."
+        },
+        "checked": "2026-10-31"
+      },
+      "regions": [
+        "CN",
+        "VN"
+      ],
+      "signal_text": "TQ: 网易 (20/10) kể xưởng 玄猫 (Gia Hưng) khởi đầu từ tiệm sửa đồ 30 m², nay có cửa hàng thứ 3 khoảng 200 m²; tháng cao nhất 20 vạn tệ, lớp trải nghiệm chiếm hơn 40% doanh thu và khóa đồ thú cưng khoảng 30%; Xiaohongshu mang về 7–8 khách mỗi tuần. Bài 克劳锐 (6/10): nội dung chắp vải đạt 2,4 亿 lượt xem, tiệm DIY may thu 80–100 tệ/giờ. 杭州网 (5/2026): video móc/may đồ thú cưng gần 2.000 vạn lượt xem trên Douyin. SmartShanghai (3/2026): lớp may đồ chó 150 phút 358 tệ, tối đa 4 người.",
+      "vn_youth_fit": "Người nuôi trẻ sẵn sàng chi combo 200–500 nghìn đồng; 72% doanh số thú cưng trên Shopee thuộc ngành mèo (thu-cung). Hơn một nửa Gen Z sẵn sàng trả cho trải nghiệm ‘cảm giác cao cấp’ nếu giá hợp lý (xa-xi-vua-tui) → buổi học 3 giờ có thành phẩm mang về.",
+      "vn_fit_refs": [
+        "thu-cung",
+        "xa-xi-vua-tui"
+      ],
+      "from_keywords": [
+        "kw-cn-18"
+      ],
+      "key_facts": [
+        {
+          "text": "Xưởng 玄猫 (TQ): bắt đầu tháng 9/2024 từ tiệm sửa đồ 30 m² vốn hơn 4 vạn tệ; tháng cao nhất 20 vạn tệ; lớp trải nghiệm >40% doanh thu, khóa đồ thú cưng ~30%; Xiaohongshu mang về 7–8 khách/tuần.",
+          "source_ids": [
+            "163_xuanmao"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Lớp may đồ thú cưng là sản phẩm có thật ở nhiều thành phố TQ: 玄猫 (Hàng Châu/Gia Hưng) khoảng 95 tệ/giờ cho lớp nhập môn; Fujiaweng (Thượng Hải) 358 tệ/150 phút, tối đa 4 người.",
+          "source_ids": [
+            "hangzhou_pet_sew",
+            "smartshanghai_pet"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Nội dung chắp vải trên mạng xã hội TQ đạt 2,4 亿 lượt xem; tiệm DIY may thu 80–100 tệ/giờ, mỗi sản phẩm thường tối đa 3 giờ; gói vải 30–150 tệ.",
+          "source_ids": [
+            "163_pinbu"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Video DIY đồ thú cưng gần 2.000 vạn lượt xem trên Douyin; gói nguyên liệu bán chạy trên mạng >1.000 bộ/tháng.",
+          "source_ids": [
+            "hangzhou_pet_sew"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "163_xuanmao",
+          "name": "网易订阅",
+          "title": "一间缝纫教室月入20万，98年嘉兴小伙把缝纫机变成年轻人的新玩具",
+          "url": "https://www.163.com/dy/article/L9MD7JE105118513.html",
+          "published": "2026-10-20",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bài trên nền tảng tác giả (网易号)."
+        },
+        {
+          "id": "163_pinbu",
+          "name": "网易订阅 (克劳锐)",
+          "title": "从拼豆到拼布，“慢手工”成年轻人的情绪出口",
+          "url": "https://www.163.com/dy/article/L8HT2LMB051181GK.html",
+          "published": "2026-10-06",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bài trên nền tảng tác giả (网易号)."
+        },
+        {
+          "id": "hangzhou_pet_sew",
+          "name": "杭州网 (每日商报)",
+          "title": "花费百元体验“钩针编织”这届年轻人迷上给宠物做衣服",
+          "url": "https://jrsh.hangzhou.com.cn/content/2026-05/15/content_9222961.html",
+          "published": "2026-05-15",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bài cũ (5/2026) — cùng cửa hàng 玄猫Maoer."
+        },
+        {
+          "id": "smartshanghai_pet",
+          "name": "SmartShanghai",
+          "title": "Make Clothes for Your Dog at This Shanghai Pet Fashion Workshop",
+          "url": "https://www.smartshanghai.com/articles/activities/make-clothes-for-your-dog-at-this-shanghai-pet-fashion-workshop",
+          "published": "2026-03-31",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bài cũ (3/2026) — xưởng khác (Fujiaweng) ở Thượng Hải, nguồn độc lập."
+        }
+      ],
+      "localize_vn": "Giả thuyết: 3 khung giờ cuối tuần, mỗi lớp 4 người; vải cotton/kẻ caro Việt, có thêm mẫu ‘áo dài cho mèo’ dịp Tết; bán kèm gói nguyên liệu mang về may tiếp 150.000–250.000đ. Hợp tác quán cà phê mèo/chó để mượn chỗ và có sẵn khách.",
+      "localize_global": "Không ưu tiên.",
+      "first_steps": [
+        "Ngày 1: Claude viết giáo án 3 giờ và rập 3 kiểu theo size S/M/L (cần thợ may kiểm tra); Canva làm poster.",
+        "Ngày 2: Mượn góc quán cà phê thú cưng, chuẩn bị 3 máy may; Nano Banana tạo ảnh mẫu thành phẩm (ghi rõ ảnh minh họa).",
+        "Ngày 3: Mở form đặt chỗ trên Vercel, cọc bằng VietQR; đăng TikTok/Instagram.",
+        "Ngày 4–6: Chạy 2 lớp thử (8 người), quay clip CapCut ‘boss mặc áo tự may’.",
+        "Ngày 7: Đo tỷ lệ lấp chỗ, đánh giá, số người mua gói mang về; quyết định."
+      ],
+      "capital": {
+        "vnd_min_m": 8,
+        "vnd_max_m": 20,
+        "usd_min": 308,
+        "usd_max": 769,
+        "note": "3 máy may gia đình, vải, rập, thuê góc cuối tuần, quảng cáo thử."
+      },
+      "risks": [
+        "Cần người dạy may có tay nghề — nếu không, thành phẩm xấu, mất khách.",
+        "Thú cưng đến lớp gây lộn xộn, dị ứng lông với khách khác.",
+        "Doanh thu phụ thuộc cuối tuần; chi phí mặt bằng.",
+        "Trào lưu thủ công có thể qua nhanh."
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 6,
+        "novelty": 7,
+        "lowcap": 6,
+        "signal": 7,
+        "vnfit": 7
+      },
+      "claude_prompt": "Bạn là chủ xưởng may thủ công có kinh nghiệm dạy người mới, hiểu cả kinh doanh dịch vụ cho người nuôi thú cưng. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “May áo cho boss trong 3 giờ” — lớp may áo thú cưng cho người chưa từng dùng máy may, đo mèo/chó tại chỗ, mang thành phẩm về\nTóm tắt: Ở TQ, xưởng 玄猫 của một chàng trai sinh 1998 từ tiệm sửa đồ 30 m² thành phòng may cho người trẻ, có tháng doanh thu 20 vạn tệ, trong đó khóa may đồ thú cưng chiếm khoảng 30%; ở Thượng Hải, Fujiaweng bán lớp 150 phút 358 tệ. Bản Việt: thuê góc 20–30 m², 3 máy may gia đình, rập sẵn 3 kiểu (yếm, áo hoodie, nơ cổ), học viên mang số đo hoặc mang luôn boss đến.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN, VN\nTQ: 网易 (20/10) kể xưởng 玄猫 (Gia Hưng) khởi đầu từ tiệm sửa đồ 30 m², nay có cửa hàng thứ 3 khoảng 200 m²; tháng cao nhất 20 vạn tệ, lớp trải nghiệm chiếm hơn 40% doanh thu và khóa đồ thú cưng khoảng 30%; Xiaohongshu mang về 7–8 khách mỗi tuần. Bài 克劳锐 (6/10): nội dung chắp vải đạt 2,4 亿 lượt xem, tiệm DIY may thu 80–100 tệ/giờ. 杭州网 (5/2026): video móc/may đồ thú cưng gần 2.000 vạn lượt xem trên Douyin. SmartShanghai (3/2026): lớp may đồ chó 150 phút 358 tệ, tối đa 4 người.\nDữ kiện chi tiết (kèm mức xác minh):\n- Xưởng 玄猫 (TQ): bắt đầu tháng 9/2024 từ tiệm sửa đồ 30 m² vốn hơn 4 vạn tệ; tháng cao nhất 20 vạn tệ; lớp trải nghiệm >40% doanh thu, khóa đồ thú cưng ~30%; Xiaohongshu mang về 7–8 khách/tuần. [1 nguồn gốc]\n- Lớp may đồ thú cưng là sản phẩm có thật ở nhiều thành phố TQ: 玄猫 (Hàng Châu/Gia Hưng) khoảng 95 tệ/giờ cho lớp nhập môn; Fujiaweng (Thượng Hải) 358 tệ/150 phút, tối đa 4 người. [2+ nguồn độc lập]\n- Nội dung chắp vải trên mạng xã hội TQ đạt 2,4 亿 lượt xem; tiệm DIY may thu 80–100 tệ/giờ, mỗi sản phẩm thường tối đa 3 giờ; gói vải 30–150 tệ. [1 nguồn gốc]\n- Video DIY đồ thú cưng gần 2.000 vạn lượt xem trên Douyin; gói nguyên liệu bán chạy trên mạng >1.000 bộ/tháng. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Số liệu doanh thu xưởng 玄猫 là do chủ tiệm kể với báo. Giá 350.000–550.000đ/buổi ở Hà Nội là giả thuyết. VN đã có lớp may/workshop handmade nói chung; chưa tìm thấy lớp chuyên may đồ thú cưng (một lượt tra — chưa kết luận chắc).\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nNgười nuôi trẻ sẵn sàng chi combo 200–500 nghìn đồng; 72% doanh số thú cưng trên Shopee thuộc ngành mèo (thu-cung). Hơn một nửa Gen Z sẵn sàng trả cho trải nghiệm ‘cảm giác cao cấp’ nếu giá hợp lý (xa-xi-vua-tui) → buổi học 3 giờ có thành phẩm mang về.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: 3 khung giờ cuối tuần, mỗi lớp 4 người; vải cotton/kẻ caro Việt, có thêm mẫu ‘áo dài cho mèo’ dịp Tết; bán kèm gói nguyên liệu mang về may tiếp 150.000–250.000đ. Hợp tác quán cà phê mèo/chó để mượn chỗ và có sẵn khách.\n\n## 4. Ràng buộc\n- Vốn: khoảng 8–20 triệu VND (3 máy may gia đình, vải, rập, thuê góc cuối tuần, quảng cáo thử.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: An toàn khi có thú cưng trong lớp (rọ mõm/lồng nếu cần, khu riêng); không dùng hình nhân vật có bản quyền trên vải in. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Cần người dạy may có tay nghề — nếu không, thành phẩm xấu, mất khách.\n- Thú cưng đến lớp gây lộn xộn, dị ứng lông với khách khác.\n- Doanh thu phụ thuộc cuối tuần; chi phí mặt bằng.\n- Trào lưu thủ công có thể qua nhanh.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Giáo án, mô tả rập, nội dung bài đăng.\n- Nano Banana (Gemini image, Google): Ảnh mẫu thành phẩm và poster lớp học.\n- Canva: Poster, thẻ tên boss, hướng dẫn in.\n- Vercel: Trang đặt chỗ.\n- VietQR Kit (Casso): Nhận cọc giữ chỗ.\n- CapCut: Dựng clip ‘boss mặc áo’ cho học viên.\n  Bản tiết kiệm: Claude (Anthropic), Canva, Cloudflare Pages / Workers, VietQR Kit (Casso). Bản cao cấp: Claude (Anthropic), Nano Banana (Gemini image, Google), Canva, Vercel, VietQR Kit (Casso), CapCut.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude viết giáo án 3 giờ và rập 3 kiểu theo size S/M/L (cần thợ may kiểm tra); Canva làm poster.\n- Ngày 2: Mượn góc quán cà phê thú cưng, chuẩn bị 3 máy may; Nano Banana tạo ảnh mẫu thành phẩm (ghi rõ ảnh minh họa).\n- Ngày 3: Mở form đặt chỗ trên Vercel, cọc bằng VietQR; đăng TikTok/Instagram.\n- Ngày 4–6: Chạy 2 lớp thử (8 người), quay clip CapCut ‘boss mặc áo tự may’.\n- Ngày 7: Đo tỷ lệ lấp chỗ, đánh giá, số người mua gói mang về; quyết định.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Giáo án 3 giờ chia theo 15 phút, kèm danh sách dụng cụ cho 4 học viên\n2. Mô tả 3 rập (yếm, hoodie, nơ cổ) theo size S/M/L và cách đo boss [cần thợ may kiểm tra]\n3. Bảng giá thử + chính sách hủy/đổi lịch\n4. 5 bài đăng TikTok/Instagram và kịch bản clip 15 giây\n5. Bảng tính hòa vốn (máy, vải, mặt bằng) và chỉ số đi tiếp/dừng\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 6.44,
+      "rank": 7
+    },
+    {
+      "id": "20261031-07-doi-quay-du-lieu-viec-nha",
+      "date": "2026-10-31",
+      "title": "“Đội quay việc nhà cho robot” — dịch vụ B2B tuyển, đào tạo và quản lý người quay clip gấp quần áo, rửa bát… tại nhà thật để bán làm dữ liệu huấn luyện robot",
+      "pitch": "Ở Vũ Hán, cô gái 22 tuổi dẫn hơn 50 người dạy robot làm việc nhà, từng tìm thuê khoảng 30 căn hộ, mỗi căn một tuần, để robot ‘tập’ trong nhà có người ở thật. Ở Mỹ, app như EgoCash trả 0,40–2,10 USD mỗi clip việc nhà quay bằng điện thoại. Tesla nói thiếu dữ liệu là thách thức lớn với robot hình người. Ý tưởng: một đội nhỏ ở Hà Nội làm ‘nhà thầu phụ thu dữ liệu’ — tuyển người, hướng dẫn góc quay, kiểm tra chất lượng, xin đồng ý — bán cho đơn vị thu dữ liệu nước ngoài.",
+      "type": "startup",
+      "category": [
+        "b2b",
+        "ai"
+      ],
+      "tags": [
+        "robot",
+        "dữ liệu",
+        "AI",
+        "việc làm thêm",
+        "B2B"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Đây là ý tưởng nhiều giả thuyết nhất hôm nay: chưa biết đơn vị nước ngoài có mua dữ liệu quay ở VN, giá bao nhiêu, yêu cầu pháp lý thế nào. Rủi ro quyền riêng tư (quay trong nhà) rất lớn. Mức trả của EgoCash do công ty tự nêu.",
+      "confidence": "thấp",
+      "image": "assets/ideas/20261031-07-doi-quay-du-lieu-viec-nha.webp",
+      "image_alt": "Cánh tay robot và bàn tay người cùng gấp chiếc áo trên bàn, điện thoại gắn giá quay phía trên, các khung hình phim bay quanh",
+      "toolstack": {
+        "confidence": "thấp",
+        "wow": "Mỗi clip giao cho khách kèm thẻ metadata tự động (căn phòng, đồ vật, thời lượng, đã làm mờ) và bảng kiểm chất lượng.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Bản chào tiếng Anh, đặc tả quay, mẫu đồng ý, checklist chất lượng.",
+            "why": "Free $0; Pro $17/tháng khi trả năm ($200 trả trước) hoặc $20 trả tháng — mở lại 31/10, khớp.",
+            "alt_ids": [
+              "chatgpt"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "gemini",
+            "role": "Xem nhanh clip để gắn nhãn đồ vật/hành động (thử).",
+            "why": "Trang gói Gemini hiển thị cho VN (31/10): Google AI Plus 132.000đ/tháng, AI Pro 489.000đ/tháng.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "supabase",
+            "role": "Lưu metadata clip, người quay, trạng thái duyệt.",
+            "why": "Free $0: 50.000 MAU, database 500 MB — mở lại 31/10, khớp.",
+            "alt_ids": [],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "vercel",
+            "role": "Trang giới thiệu B2B.",
+            "why": "Hobby $0, Pro $20/tháng — mở lại 31/10, khớp.",
+            "alt_ids": [
+              "cloudflare_pages"
+            ],
+            "alt_note": ""
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Làm mờ mặt/giấy tờ, cắt clip mẫu.",
+            "why": "Trang giá CapCut hiển thị cho VN (31/10): Free 0đ; Pro 290.000đ/tháng hoặc 1.890.000đ/năm.",
+            "alt_ids": [],
+            "alt_note": ""
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "supabase",
+            "cloudflare_pages",
+            "capcut"
+          ],
+          "monthly_cost_note": "≈ 0đ/tháng (gói Free); gắn nhãn thủ công.",
+          "tradeoff": "Chậm khi nhiều clip."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "gemini",
+            "supabase",
+            "vercel",
+            "capcut"
+          ],
+          "monthly_cost_note": "≈ $17–20 (Claude Pro) + 489.000đ (Google AI Pro) + $0 (Supabase Free) + $0–20 (Vercel) + 290.000đ (CapCut Pro) ≈ 1,2–1,8 triệu đồng/tháng.",
+          "tradeoff": "Gắn nhãn nhanh hơn; vẫn cần người kiểm tra."
+        },
+        "checked": "2026-10-31"
+      },
+      "regions": [
+        "CN",
+        "US",
+        "VN"
+      ],
+      "signal_text": "TQ: Baidu sáng 31/10 #32 ‘00后女生租30套房每套住1周’; 极目新闻 và 网易 (30/10): Dương Tâm Di (sinh 2004) phụ trách hơn 50 người ở 数聚变 (Vũ Hán), thu dữ liệu cho Trung tâm sáng tạo robot hình người Hồ Bắc; nâng thời lượng dữ liệu hữu ích mỗi ngày từ 1,5–2 giờ lên khoảng 4,5 giờ; đơn hàng cần khoảng 30 căn hộ có dấu vết sinh hoạt thật, mỗi căn một tuần. Mỹ: EgoCash trả 0,40–2,10 USD/clip, Sensei trả tiền cho clip việc nhà; Supply Chain Dive (28/10): Tesla nói thu thập dữ liệu là thách thức lớn, định lập ‘Optimus Academy’ 10.000–20.000 robot.",
+      "vn_youth_fit": "Thất nghiệp thanh niên 15–24 tuổi 8,64%; quý IV/2025 có 1,4 triệu thanh niên không đi làm cũng không đi học (viec-lam-tre) → nguồn người làm thêm linh hoạt.",
+      "vn_fit_refs": [
+        "viec-lam-tre"
+      ],
+      "from_keywords": [
+        "kw-cn-13"
+      ],
+      "key_facts": [
+        {
+          "text": "Vũ Hán: đội hơn 50 người ở 数聚变 thu dữ liệu cho robot hình người; cần khoảng 30 căn hộ có người ở thật, mỗi căn một tuần; thời lượng dữ liệu hữu ích mỗi ngày tăng từ 1,5–2 giờ lên khoảng 4,5 giờ.",
+          "source_ids": [
+            "jimu_robot",
+            "163_robot30"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Baidu realtime sáng 31/10: mục #32 là câu chuyện ‘thuê 30 căn hộ cho robot’ (hotScore 4.940.310).",
+          "source_ids": [
+            "baidu_rt32"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "EgoCash (Mỹ) trả theo clip việc nhà được duyệt: thao tác đơn giản 0,40–1,00 USD, việc hai tay 0,60–1,40 USD, chuỗi phức tạp 0,80–2,10 USD; dữ liệu cấp phép cho đội robot, người quay có thể rút clip chưa cấp phép.",
+          "source_ids": [
+            "egocash"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Có ít nhất hai app ở Mỹ trả tiền cho người quay clip việc nhà để huấn luyện robot (EgoCash, Sensei).",
+          "source_ids": [
+            "egocash",
+            "sensei_chores"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Tesla (Supply Chain Dive 28/10): thu thập dữ liệu là thách thức lớn với Optimus; định lập ‘Optimus Academy’ 10.000–20.000 robot tự luyện.",
+          "source_ids": [
+            "scd_optimus"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "baidu_rt32",
+          "name": "Baidu 百度热搜 (mục #32)",
+          "title": "00后女生租30套房每套住1周",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bảng xếp hạng chụp 31/10 07:11 (UTC+7); hotScore 4.940.310."
+        },
+        {
+          "id": "jimu_robot",
+          "name": "极目新闻 (楚天都市报)",
+          "title": "“00后”机器人训练师杨心怡：带领50多人给机器人当老师，租30套房给机器人“练手”",
+          "url": "https://www.ctdsb.net/c1734_202610/2891980.html",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Đường dẫn thuộc thư mục 202610; trang không ghi ngày giờ đọc được."
+        },
+        {
+          "id": "163_robot30",
+          "name": "网易订阅",
+          "title": "浙江22岁女生武汉一口气租30套房，每套只住一周，中介差点报警！真相来了",
+          "url": "https://www.163.com/dy/article/LAGSSLD105565VL4.html",
+          "published": "2026-10-30",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Bài trên nền tảng tác giả, kể lại câu chuyện của 极目新闻."
+        },
+        {
+          "id": "egocash",
+          "name": "EgoCash",
+          "title": "EgoCash: Get paid to film everyday chores",
+          "url": "https://www.egocash.tech/",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang sản phẩm (Mỹ) — mức trả theo clip do công ty tự nêu."
+        },
+        {
+          "id": "sensei_chores",
+          "name": "Sensei",
+          "title": "Sensei — Get Paid to Do Your Chores",
+          "url": "https://senseirobotics.com/mobile",
+          "published": null,
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Trang sản phẩm — không nêu mức trả."
+        },
+        {
+          "id": "scd_optimus",
+          "name": "Supply Chain Dive",
+          "title": "Tesla begins humanoid production in California",
+          "url": "https://www.supplychaindive.com/news/tesla-begins-optimus-humanoid-production-california-shipments-2027/872992/",
+          "published": "2026-10-28",
+          "accessed": "2026-10-31",
+          "how_read": "mở trang",
+          "note": "Đọc qua WebFetch (curl bị 403)."
+        }
+      ],
+      "localize_vn": "Giả thuyết: đội 10–20 người (sinh viên, nội trợ), mỗi người được phát giá gắn điện thoại, quay theo ‘đặc tả’ của khách (góc tay, ánh sáng, không lộ mặt/giấy tờ); đội trưởng kiểm tra chất lượng trước khi giao. Khách tiềm năng: đơn vị thu dữ liệu robot ở TQ/Mỹ cần đa dạng nhà châu Á [chưa kiểm chứng].",
+      "localize_global": "Bản chất là dịch vụ xuất khẩu dữ liệu — cần tìm 1 khách thật trước khi tuyển người.",
+      "first_steps": [
+        "Ngày 1: Claude viết bản chào dịch vụ tiếng Anh + mẫu đặc tả quay + mẫu đồng ý của người quay/chủ nhà.",
+        "Ngày 2–3: Gửi bản chào tới 10 đơn vị thu dữ liệu robot tìm được qua tìm kiếm; hỏi yêu cầu và giá.",
+        "Ngày 4: Quay thử 20 clip mẫu tại nhà người quen theo đặc tả; Supabase ghi metadata.",
+        "Ngày 5: Trang giới thiệu trên Vercel kèm clip mẫu đã làm mờ.",
+        "Ngày 6–7: Chỉ tuyển người nếu có ít nhất 1 khách trả lời; quyết định."
+      ],
+      "capital": {
+        "vnd_min_m": 2,
+        "vnd_max_m": 8,
+        "usd_min": 77,
+        "usd_max": 308,
+        "note": "Giá gắn điện thoại, trang giới thiệu, thời gian làm mẫu."
+      },
+      "risks": [
+        "Quyền riêng tư: quay trong nhà có thể lộ người, giấy tờ, địa chỉ — cần quy trình làm mờ và đồng ý bằng văn bản.",
+        "Pháp lý chuyển dữ liệu ra nước ngoài (luật bảo vệ dữ liệu cá nhân) — cần luật sư.",
+        "Không có khách → toàn bộ công sức vô ích.",
+        "Giá mỗi clip thấp, cạnh tranh với app trả trực tiếp cho người quay."
+      ],
+      "scores": {
+        "ease": 4,
+        "demand": 4,
+        "novelty": 9,
+        "lowcap": 7,
+        "signal": 7,
+        "vnfit": 5
+      },
+      "claude_prompt": "Bạn là quản lý dự án thu thập dữ liệu AI có kinh nghiệm làm nhà thầu phụ cho khách nước ngoài. Hãy giúp tôi biến ý tưởng dưới đây thành một bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Đội quay việc nhà cho robot” — dịch vụ B2B tuyển, đào tạo và quản lý người quay clip gấp quần áo, rửa bát… tại nhà thật để bán làm dữ liệu huấn luyện robot\nTóm tắt: Ở Vũ Hán, cô gái 22 tuổi dẫn hơn 50 người dạy robot làm việc nhà, từng tìm thuê khoảng 30 căn hộ, mỗi căn một tuần, để robot ‘tập’ trong nhà có người ở thật. Ở Mỹ, app như EgoCash trả 0,40–2,10 USD mỗi clip việc nhà quay bằng điện thoại. Tesla nói thiếu dữ liệu là thách thức lớn với robot hình người. Ý tưởng: một đội nhỏ ở Hà Nội làm ‘nhà thầu phụ thu dữ liệu’ — tuyển người, hướng dẫn góc quay, kiểm tra chất lượng, xin đồng ý — bán cho đơn vị thu dữ liệu nước ngoài.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam với vốn thấp, và ra quyết định ‘đi tiếp / điều chỉnh / dừng’ dựa trên số liệu, không dựa cảm tính.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nVùng tín hiệu: CN, US, VN\nTQ: Baidu sáng 31/10 #32 ‘00后女生租30套房每套住1周’; 极目新闻 và 网易 (30/10): Dương Tâm Di (sinh 2004) phụ trách hơn 50 người ở 数聚变 (Vũ Hán), thu dữ liệu cho Trung tâm sáng tạo robot hình người Hồ Bắc; nâng thời lượng dữ liệu hữu ích mỗi ngày từ 1,5–2 giờ lên khoảng 4,5 giờ; đơn hàng cần khoảng 30 căn hộ có dấu vết sinh hoạt thật, mỗi căn một tuần. Mỹ: EgoCash trả 0,40–2,10 USD/clip, Sensei trả tiền cho clip việc nhà; Supply Chain Dive (28/10): Tesla nói thu thập dữ liệu là thách thức lớn, định lập ‘Optimus Academy’ 10.000–20.000 robot.\nDữ kiện chi tiết (kèm mức xác minh):\n- Vũ Hán: đội hơn 50 người ở 数聚变 thu dữ liệu cho robot hình người; cần khoảng 30 căn hộ có người ở thật, mỗi căn một tuần; thời lượng dữ liệu hữu ích mỗi ngày tăng từ 1,5–2 giờ lên khoảng 4,5 giờ. [2+ nguồn độc lập]\n- Baidu realtime sáng 31/10: mục #32 là câu chuyện ‘thuê 30 căn hộ cho robot’ (hotScore 4.940.310). [1 nguồn gốc]\n- EgoCash (Mỹ) trả theo clip việc nhà được duyệt: thao tác đơn giản 0,40–1,00 USD, việc hai tay 0,60–1,40 USD, chuỗi phức tạp 0,80–2,10 USD; dữ liệu cấp phép cho đội robot, người quay có thể rút clip chưa cấp phép. [1 nguồn gốc]\n- Có ít nhất hai app ở Mỹ trả tiền cho người quay clip việc nhà để huấn luyện robot (EgoCash, Sensei). [2+ nguồn độc lập]\n- Tesla (Supply Chain Dive 28/10): thu thập dữ liệu là thách thức lớn với Optimus; định lập ‘Optimus Academy’ 10.000–20.000 robot tự luyện. [1 nguồn gốc]\n\nLƯU Ý ĐỘ TIN CẬY: Đây là ý tưởng nhiều giả thuyết nhất hôm nay: chưa biết đơn vị nước ngoài có mua dữ liệu quay ở VN, giá bao nhiêu, yêu cầu pháp lý thế nào. Rủi ro quyền riêng tư (quay trong nhà) rất lớn. Mức trả của EgoCash do công ty tự nêu.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nThất nghiệp thanh niên 15–24 tuổi 8,64%; quý IV/2025 có 1,4 triệu thanh niên không đi làm cũng không đi học (viec-lam-tre) → nguồn người làm thêm linh hoạt.\nHướng áp dụng (đây là GIẢ THUYẾT cần kiểm tra, không phải sự thật đã xác nhận): Giả thuyết: đội 10–20 người (sinh viên, nội trợ), mỗi người được phát giá gắn điện thoại, quay theo ‘đặc tả’ của khách (góc tay, ánh sáng, không lộ mặt/giấy tờ); đội trưởng kiểm tra chất lượng trước khi giao. Khách tiềm năng: đơn vị thu dữ liệu robot ở TQ/Mỹ cần đa dạng nhà châu Á [chưa kiểm chứng].\n\n## 4. Ràng buộc\n- Vốn: khoảng 2–8 triệu VND (Giá gắn điện thoại, trang giới thiệu, thời gian làm mẫu.)\n- Thị trường: Việt Nam (ưu tiên Hà Nội), tiếng Việt, thanh toán/chốt đơn kiểu Việt (QR, Zalo, TikTok Shop/Shopee). Tôi làm một mình, thời gian có hạn.\n- Pháp lý/tuân thủ: Bảo vệ dữ liệu cá nhân: đồng ý bằng văn bản của người quay và chủ nhà, không quay mặt/giấy tờ/địa chỉ, làm mờ trước khi giao; chuyển dữ liệu ra nước ngoài phải hỏi luật sư. Với mọi điểm pháp lý, hãy nêu ‘cần tôi xác minh với cơ quan/luật sư’ thay vì khẳng định điều luật khi không chắc.\n- Rủi ro đã biết:\n- Quyền riêng tư: quay trong nhà có thể lộ người, giấy tờ, địa chỉ — cần quy trình làm mờ và đồng ý bằng văn bản.\n- Pháp lý chuyển dữ liệu ra nước ngoài (luật bảo vệ dữ liệu cá nhân) — cần luật sư.\n- Không có khách → toàn bộ công sức vô ích.\n- Giá mỗi clip thấp, cạnh tranh với app trả trực tiếp cho người quay.\n- Bộ công cụ đề xuất (hãy ưu tiên dùng đúng các công cụ này trong kế hoạch và sản phẩm; mỗi bước nói rõ dùng công cụ nào):\n- Claude (Anthropic): Bản chào tiếng Anh, đặc tả quay, mẫu đồng ý, checklist chất lượng.\n- Gemini (Google): Xem nhanh clip để gắn nhãn đồ vật/hành động (thử).\n- Supabase: Lưu metadata clip, người quay, trạng thái duyệt.\n- Vercel: Trang giới thiệu B2B.\n- CapCut: Làm mờ mặt/giấy tờ, cắt clip mẫu.\n  Bản tiết kiệm: Claude (Anthropic), Supabase, Cloudflare Pages / Workers, CapCut. Bản cao cấp: Claude (Anthropic), Gemini (Google), Supabase, Vercel, CapCut.\n  Không tự nêu giá hay tính năng của công cụ; nếu cần, ghi ‘[cần xác minh trên trang chính thức]’. Công cụ miễn phí có thể không cho dùng thương mại — nhắc tôi kiểm tra điều khoản.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\n- Ngày 1: Claude viết bản chào dịch vụ tiếng Anh + mẫu đặc tả quay + mẫu đồng ý của người quay/chủ nhà.\n- Ngày 2–3: Gửi bản chào tới 10 đơn vị thu dữ liệu robot tìm được qua tìm kiếm; hỏi yêu cầu và giá.\n- Ngày 4: Quay thử 20 clip mẫu tại nhà người quen theo đặc tả; Supabase ghi metadata.\n- Ngày 5: Trang giới thiệu trên Vercel kèm clip mẫu đã làm mờ.\n- Ngày 6–7: Chỉ tuyển người nếu có ít nhất 1 khách trả lời; quyết định.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\n1. Bản chào dịch vụ tiếng Anh 1 trang + email gửi khách\n2. Mẫu đặc tả quay (góc, ánh sáng, độ dài, điều cấm) và checklist chất lượng\n3. Mẫu văn bản đồng ý cho người quay và chủ nhà (đánh dấu điểm cần luật sư)\n4. Cấu trúc bảng metadata trên Supabase\n5. Bảng chỉ số và điều kiện ‘chỉ tuyển người khi có khách’\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu làm rõ nếu thật sự cần; còn lại hãy nêu giả định rõ ràng rồi làm tiếp.\n- Không bịa số liệu, tên nhà cung cấp, giá thị trường hay đối thủ. Thứ gì chưa biết, ghi ‘[cần xác minh]’ và chỉ cho tôi cách kiểm tra (nguồn/cách tìm). Phân biệt rõ: dữ kiện có nguồn ở mục 2 / giả định của bạn / điều tôi cần tự kiểm tra.\n- Ưu tiên cách rẻ nhất, nhanh nhất để có số liệu thật trong 7 ngày.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt, theo thứ tự: (a) tóm tắt 5 dòng + các giả định; (b) kế hoạch 7 ngày dạng bảng (ngày – việc – kết quả đo được); (c) từng sản phẩm ở mục 6, mỗi sản phẩm một mục riêng, có nội dung/mã nguồn sẵn để sao chép; (d) chỉ số theo dõi và ngưỡng quyết định ‘đi tiếp / điều chỉnh / dừng’; (e) 5 rủi ro lớn nhất và cách giảm. Mã nguồn đặt trong khối code, kèm hướng dẫn chạy từng bước.",
+      "total_score": 5.68,
+      "rank": 8
+    }
+  ],
+  "keywords": [
+    {
+      "id": "kw-vn-01",
+      "region": "VN",
+      "rank": 1,
+      "keyword": "thép",
+      "gloss": "‘Thép’ — tin Mỹ đưa công nghệ ‘vật liệu cứng gấp 200 lần thép’ vào VN, xây nhà máy 390 tỷ đồng",
+      "theme": "home",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 31/10 06:50 (UTC+7)",
+      "note": "Tín hiệu vật liệu mới; tiêu đề tin chưa đối chiếu nguồn gốc — chưa làm thành ý tưởng."
+    },
+    {
+      "id": "kw-vn-02",
+      "region": "VN",
+      "rank": 2,
+      "keyword": "thủ tướng israel benjamin netanyahu",
+      "gloss": "Thủ tướng Israel Netanyahu",
+      "theme": "society",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 31/10 06:10 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-03",
+      "region": "VN",
+      "rank": 3,
+      "keyword": "giá vàng thế giới",
+      "gloss": "Giá vàng thế giới — nguy cơ giảm mạnh sáng 31/10",
+      "theme": "money",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 31/10 05:50 (UTC+7)",
+      "idea_ids": [
+        "20261031-08-watchlist-vang-bac-sau-cu-giam"
+      ]
+    },
+    {
+      "id": "kw-vn-04",
+      "region": "VN",
+      "rank": 4,
+      "keyword": "thứ hạng của ogc nice gặp rennes",
+      "gloss": "Nice – Rennes (bóng đá Pháp)",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 31/10 05:40 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-05",
+      "region": "VN",
+      "rank": 5,
+      "keyword": "starlink",
+      "gloss": "Starlink",
+      "theme": "tech",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 31/10 05:30 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-06",
+      "region": "VN",
+      "rank": 6,
+      "keyword": "cá",
+      "gloss": "Tàu hàng nước ngoài va tàu cá, 1 người chết",
+      "theme": "society",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 31/10 05:30 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-07",
+      "region": "VN",
+      "rank": 7,
+      "keyword": "giải bóng đá vô địch thế giới",
+      "gloss": "World Cup",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 31/10 04:50 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-08",
+      "region": "VN",
+      "rank": 8,
+      "keyword": "đội tuyển bóng đá quốc gia việt nam",
+      "gloss": "Đội tuyển Việt Nam — tìm phương án khi vắng Xuân Son, Đình Bắc",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "2000+ lượt tìm · 31/10 04:30 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-09",
+      "region": "VN",
+      "rank": 9,
+      "keyword": "casa pia đấu với sporting",
+      "gloss": "Casa Pia – Sporting (bóng đá Bồ Đào Nha)",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 31/10 04:30 (UTC+7)"
+    },
+    {
+      "id": "kw-vn-10",
+      "region": "VN",
+      "rank": 10,
+      "keyword": "villarreal cf",
+      "gloss": "Villarreal",
+      "theme": "sport",
+      "source_id": "gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 31/10 04:20 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-01",
+      "region": "KR",
+      "rank": 1,
+      "keyword": "sk 사장단 인사",
+      "gloss": "Bổ nhiệm lãnh đạo tập đoàn SK 2027",
+      "theme": "work",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 31/10 06:00 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-02",
+      "region": "KR",
+      "rank": 2,
+      "keyword": "우주선",
+      "gloss": "Tàu vũ trụ / vũ khí chống vệ tinh",
+      "theme": "tech",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 31/10 05:50 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-03",
+      "region": "KR",
+      "rank": 3,
+      "keyword": "샌디스크",
+      "gloss": "SanDisk — lợi nhuận quý tăng 49 lần",
+      "theme": "money",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 31/10 05:50 (UTC+7)",
+      "note": "Liên quan đà tăng/giảm của cổ phiếu bộ nhớ — xem xu hướng #6."
+    },
+    {
+      "id": "kw-kr-04",
+      "region": "KR",
+      "rank": 4,
+      "keyword": "lcs",
+      "gloss": "LCS (tàu chiến)",
+      "theme": "society",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 31/10 05:40 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-05",
+      "region": "KR",
+      "rank": 5,
+      "keyword": "직장폐쇄",
+      "gloss": "Đóng cửa xưởng (MLB)",
+      "theme": "sport",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 31/10 05:30 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-06",
+      "region": "KR",
+      "rank": 6,
+      "keyword": "테슬라",
+      "gloss": "Tesla — xe Tesla sản xuất ở TQ",
+      "theme": "tech",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 31/10 05:30 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-07",
+      "region": "KR",
+      "rank": 7,
+      "keyword": "증여",
+      "gloss": "Tặng cho tài sản (thuế)",
+      "theme": "money",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 31/10 05:20 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-08",
+      "region": "KR",
+      "rank": 8,
+      "keyword": "실업급여",
+      "gloss": "Trợ cấp thất nghiệp — chuyện người trẻ dùng trợ cấp đi Nhật chơi",
+      "theme": "work",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 31/10 05:20 (UTC+7)",
+      "note": "Chuyện người trẻ dùng trợ cấp thất nghiệp đi du lịch — gây tranh cãi; chưa làm thành ý tưởng."
+    },
+    {
+      "id": "kw-kr-09",
+      "region": "KR",
+      "rank": 9,
+      "keyword": "박서진",
+      "gloss": "Ca sĩ Park Seo-jin",
+      "theme": "ent",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 31/10 05:10 (UTC+7)"
+    },
+    {
+      "id": "kw-kr-10",
+      "region": "KR",
+      "rank": 10,
+      "keyword": "이수현",
+      "gloss": "Lee Su-hyun (AKMU) — công ty ‘không tuyển trùng họ’",
+      "theme": "ent",
+      "source_id": "gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "10000+ lượt tìm · 31/10 05:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-01",
+      "region": "JP",
+      "rank": 1,
+      "keyword": "ネッツ 対 ピストンズ",
+      "gloss": "Nets – Pistons (NBA Cup)",
+      "theme": "sport",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 31/10 07:00 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-02",
+      "region": "JP",
+      "rank": 2,
+      "keyword": "大仁田美咲",
+      "gloss": "Phát thanh viên Ōnita Misaki",
+      "theme": "ent",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 31/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-03",
+      "region": "JP",
+      "rank": 3,
+      "keyword": "近畿大会 高校野球",
+      "gloss": "Giải bóng chày trung học khu vực Kinki",
+      "theme": "sport",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "2000+ lượt tìm · 31/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-04",
+      "region": "JP",
+      "rank": 4,
+      "keyword": "幕張メッセ イベント",
+      "gloss": "Sự kiện ở Makuhari Messe",
+      "theme": "ent",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 31/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-05",
+      "region": "JP",
+      "rank": 5,
+      "keyword": "隕石",
+      "gloss": "Thiên thạch sao Hỏa 4,1 tỷ năm",
+      "theme": "society",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 31/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-06",
+      "region": "JP",
+      "rank": 6,
+      "keyword": "中央道 通行止め",
+      "gloss": "Đường cao tốc Chūō bị đóng",
+      "theme": "travel",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 31/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-07",
+      "region": "JP",
+      "rank": 7,
+      "keyword": "日本シニアオープンゴルフ選手権競技",
+      "gloss": "Giải golf Japan Senior Open",
+      "theme": "sport",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ lượt tìm · 31/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-08",
+      "region": "JP",
+      "rank": 8,
+      "keyword": "アイリスオーヤマ",
+      "gloss": "Iris Ohyama — truy cập trái phép web bán hàng",
+      "theme": "tech",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 31/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-09",
+      "region": "JP",
+      "rank": 9,
+      "keyword": "usj",
+      "gloss": "USJ cảnh báo quấy rối nhân viên dịp Halloween",
+      "theme": "travel",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 31/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-jp-10",
+      "region": "JP",
+      "rank": 10,
+      "keyword": "パトリオットミサイル",
+      "gloss": "Tên lửa Patriot",
+      "theme": "society",
+      "source_id": "gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 31/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-us-01",
+      "region": "US",
+      "rank": 1,
+      "keyword": "jaylen brown",
+      "gloss": "Jaylen Brown (NBA)",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "5000+ lượt tìm · 31/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-us-02",
+      "region": "US",
+      "rank": 2,
+      "keyword": "ryan seacrest",
+      "gloss": "Ryan Seacrest",
+      "theme": "ent",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 31/10 06:50 (UTC+7)"
+    },
+    {
+      "id": "kw-us-03",
+      "region": "US",
+      "rank": 3,
+      "keyword": "haití",
+      "gloss": "Haiti",
+      "theme": "society",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 31/10 06:40 (UTC+7)"
+    },
+    {
+      "id": "kw-us-04",
+      "region": "US",
+      "rank": 4,
+      "keyword": "what is the nba cup",
+      "gloss": "NBA Cup là gì",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 31/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-us-05",
+      "region": "US",
+      "rank": 5,
+      "keyword": "blake griffin",
+      "gloss": "Blake Griffin",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 31/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-us-06",
+      "region": "US",
+      "rank": 6,
+      "keyword": "steve nash",
+      "gloss": "Steve Nash",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 31/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-us-07",
+      "region": "US",
+      "rank": 7,
+      "keyword": "celtics vs bulls",
+      "gloss": "Celtics – Bulls",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ lượt tìm · 31/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-us-08",
+      "region": "US",
+      "rank": 8,
+      "keyword": "ihsaa football sectionals 2026",
+      "gloss": "Bóng bầu dục trung học Indiana",
+      "theme": "sport",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ lượt tìm · 31/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-us-09",
+      "region": "US",
+      "rank": 9,
+      "keyword": "stephanie landeweer jeopardy",
+      "gloss": "Jeopardy! — Stephanie Landeweer",
+      "theme": "ent",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ lượt tìm · 31/10 06:30 (UTC+7)"
+    },
+    {
+      "id": "kw-us-10",
+      "region": "US",
+      "rank": 10,
+      "keyword": "jordon hudson",
+      "gloss": "Jordon Hudson",
+      "theme": "ent",
+      "source_id": "gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "2000+ lượt tìm · 31/10 06:20 (UTC+7)"
+    },
+    {
+      "id": "kw-cn-01",
+      "region": "CN",
+      "rank": 2,
+      "keyword": "工资发到数币钱包",
+      "gloss": "Lương trả thẳng vào ví nhân dân tệ số",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.808.326"
+    },
+    {
+      "id": "kw-cn-02",
+      "region": "CN",
+      "rank": 3,
+      "keyword": "金价降了卖爆了 银价已腰斩",
+      "gloss": "Vàng giảm giá là bán đắt hàng, bạc đã ‘chém một nửa’",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.712.342",
+      "idea_ids": [
+        "20261031-08-watchlist-vang-bac-sau-cu-giam"
+      ]
+    },
+    {
+      "id": "kw-cn-03",
+      "region": "CN",
+      "rank": 5,
+      "keyword": "阿维塔撤掉发布会",
+      "gloss": "Avatr (xe điện) hủy họp báo ra mắt",
+      "theme": "tech",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.521.746"
+    },
+    {
+      "id": "kw-cn-04",
+      "region": "CN",
+      "rank": 8,
+      "keyword": "纳指收跌2.9% 英特尔暴跌28%",
+      "gloss": "Nasdaq giảm 2,9%, Intel giảm 28%",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.238.805"
+    },
+    {
+      "id": "kw-cn-05",
+      "region": "CN",
+      "rank": 9,
+      "keyword": "今年全国实现生娃基本不花钱",
+      "gloss": "Năm nay sinh con ‘gần như không tốn tiền’ trên cả nước",
+      "theme": "society",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.143.796"
+    },
+    {
+      "id": "kw-cn-06",
+      "region": "CN",
+      "rank": 10,
+      "keyword": "苹果反超英伟达",
+      "gloss": "Apple vượt lại Nvidia về vốn hóa",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 7.042.460"
+    },
+    {
+      "id": "kw-cn-07",
+      "region": "CN",
+      "rank": 15,
+      "keyword": "英特尔创52年来最大日跌幅",
+      "gloss": "Intel giảm mạnh nhất trong 52 năm",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 6.564.101"
+    },
+    {
+      "id": "kw-cn-08",
+      "region": "CN",
+      "rank": 16,
+      "keyword": "来不及入库直接发货",
+      "gloss": "Máy công cụ ‘không kịp nhập kho đã xuất hàng’ — đơn hàng sản xuất tăng",
+      "theme": "work",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 6.468.662"
+    },
+    {
+      "id": "kw-cn-09",
+      "region": "CN",
+      "rank": 19,
+      "keyword": "一次性内裤",
+      "gloss": "Tiêu chuẩn mới cho quần lót dùng một lần áp dụng từ 1/11",
+      "theme": "home",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 6.191.481"
+    },
+    {
+      "id": "kw-cn-10",
+      "region": "CN",
+      "rank": 20,
+      "keyword": "33岁小伙“秋冻”脑出血",
+      "gloss": "Thanh niên 33 tuổi ‘chịu lạnh mùa thu’ bị xuất huyết não — cảnh báo sức khỏe",
+      "theme": "society",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 6.091.924"
+    },
+    {
+      "id": "kw-cn-11",
+      "region": "CN",
+      "rank": 26,
+      "keyword": "中国爆款AI漫剧全球刷屏",
+      "gloss": "Phim truyện tranh AI của TQ gây sốt toàn cầu",
+      "theme": "ent",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 5.515.932",
+      "note": "Chủ đề AI truyện tranh đã làm ý tưởng ngày 25/10 — không lặp lại."
+    },
+    {
+      "id": "kw-cn-12",
+      "region": "CN",
+      "rank": 31,
+      "keyword": "高校学院大洗牌",
+      "gloss": "Các trường đại học sắp xếp lại khoa/viện",
+      "theme": "society",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 5.030.112"
+    },
+    {
+      "id": "kw-cn-13",
+      "region": "CN",
+      "rank": 32,
+      "keyword": "00后女生租30套房每套住1周",
+      "gloss": "Cô gái 9x đời cuối thuê 30 căn hộ, mỗi căn ở 1 tuần — để dạy robot làm việc nhà",
+      "theme": "work",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 4.940.310",
+      "idea_ids": [
+        "20261031-07-doi-quay-du-lieu-viec-nha"
+      ]
+    },
+    {
+      "id": "kw-cn-14",
+      "region": "CN",
+      "rank": 40,
+      "keyword": "共享单车悄悄变贵了",
+      "gloss": "Xe đạp công cộng âm thầm tăng giá",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 4.162.241"
+    },
+    {
+      "id": "kw-cn-15",
+      "region": "CN",
+      "rank": 43,
+      "keyword": "街道试点“共享儿女”最低199元每月",
+      "gloss": "Phường thí điểm ‘con cái dùng chung’ từ 199 tệ/tháng",
+      "theme": "society",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 3.887.911",
+      "idea_ids": [
+        "20261031-01-chau-day-dien-thoai",
+        "20261031-05-hoi-ky-zalo-ong-ba"
+      ]
+    },
+    {
+      "id": "kw-cn-16",
+      "region": "CN",
+      "rank": 47,
+      "keyword": "超市下架姆巴佩商品",
+      "gloss": "Siêu thị gỡ sản phẩm có hình Mbappé",
+      "theme": "ent",
+      "source_id": "baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "điểm nóng 3.522.805"
+    },
+    {
+      "id": "kw-cn-17",
+      "region": "CN",
+      "rank": null,
+      "keyword": "次抛衣",
+      "gloss": "‘Đồ mặc một lần’ để chụp ảnh du lịch — chủ đề Douyin hơn 60 triệu lượt xem",
+      "theme": "fashion",
+      "source_id": "sixthtone-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "Sixth Tone 23/10",
+      "idea_ids": [
+        "20261031-03-tu-do-check-in-homestay"
+      ]
+    },
+    {
+      "id": "kw-cn-18",
+      "region": "CN",
+      "rank": null,
+      "keyword": "缝纫教室 / 拼布",
+      "gloss": "Lớp may, chắp vải — ‘đồ chơi mới’ của người trẻ",
+      "theme": "home",
+      "source_id": "163-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "网易 20/10",
+      "idea_ids": [
+        "20261031-02-may-ao-cho-boss"
+      ]
+    },
+    {
+      "id": "kw-jp-11",
+      "region": "JP",
+      "rank": 1,
+      "keyword": "栗山千明、服盗まれケンタウロス姿で放送遅延の第5話が話題に",
+      "gloss": "Phim của Kuriyama Chiaki: tập 5 bị lùi giờ phát",
+      "theme": "ent",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 30/10 23:40 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-jp-12",
+      "region": "JP",
+      "rank": 2,
+      "keyword": "鹿島アントラーズ、サポーター12名への処分発表　「激甘処分」声が拡散",
+      "gloss": "Kashima Antlers phạt 12 cổ động viên — bị chê ‘quá nhẹ’",
+      "theme": "sport",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 30/10 22:35 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-jp-13",
+      "region": "JP",
+      "rank": 3,
+      "keyword": "伊藤匠叡王、A級順位戦第4局で4連敗　佐藤天彦九段が快勝で注目",
+      "gloss": "Kỳ thủ Itō Takumi thua 4 trận liền ở giải A",
+      "theme": "sport",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 30/10 22:55 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-jp-14",
+      "region": "JP",
+      "rank": 4,
+      "keyword": "「ドキュメント72時間」宮崎路上ピアノ再放送に「やばい！」と歓喜の声が見られる",
+      "gloss": "Phim tài liệu ‘72 giờ’ chiếu lại tập đàn piano đường phố Miyazaki",
+      "theme": "ent",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 30/10 20:40 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-jp-15",
+      "region": "JP",
+      "rank": 5,
+      "keyword": "インテル株30%急落、投資家の間で驚きと不安の声が広がる",
+      "gloss": "Cổ phiếu Intel giảm 30%",
+      "theme": "money",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 31/10 02:45 (UTC+7) · thứ hạng bảng ‘バズまとめ’",
+      "note": "Tóm tắt do AI của Yahoo tạo; con số trong tiêu đề cần đối chiếu nguồn gốc."
+    },
+    {
+      "id": "kw-jp-16",
+      "region": "JP",
+      "rank": 6,
+      "keyword": "SnowMan、札幌ALL SUITE初日ライブでパジャマ姿が話題に",
+      "gloss": "Snow Man diễn ở Sapporo mặc đồ ngủ",
+      "theme": "ent",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 30/10 19:45 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-jp-17",
+      "region": "JP",
+      "rank": 7,
+      "keyword": "比羅夫駅が廃止へ　2027年春の決定に対しSNSで寂しさや驚きの声が上がる",
+      "gloss": "Ga Hirafu sẽ bị bỏ từ mùa xuân 2027",
+      "theme": "travel",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 30/10 19:25 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-jp-18",
+      "region": "JP",
+      "rank": 8,
+      "keyword": "キオクシア決算発表、利益急増もガイダンス下方修正で株価下落で市場が揺れる",
+      "gloss": "Kioxia báo lãi tăng mạnh nhưng hạ dự báo, cổ phiếu giảm",
+      "theme": "money",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 30/10 18:00 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-jp-19",
+      "region": "JP",
+      "rank": 9,
+      "keyword": "Snow Man ALL SUITE北海道公演、オープニングにデンホリが流れファン歓喜",
+      "gloss": "Snow Man diễn Hokkaido",
+      "theme": "ent",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 30/10 19:50 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-jp-20",
+      "region": "JP",
+      "rank": 10,
+      "keyword": "「ちいかわ」発の「感情輸入」ブーム、可愛さにみんなテンション上がる",
+      "gloss": "Trào lưu ‘感情輸入’ khởi từ Chiikawa",
+      "theme": "collect",
+      "source_id": "yahoojp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "tạo lúc 31/10 00:20 (UTC+7) · thứ hạng bảng ‘バズまとめ’"
+    },
+    {
+      "id": "kw-kr-11",
+      "region": "KR",
+      "rank": null,
+      "keyword": "먼작귀 (치이카와)",
+      "gloss": "Chiikawa — xếp hàng qua đêm mua đồ, phim chiếu rạp khoảng 190 vạn khán giả",
+      "theme": "collect",
+      "source_id": "mk-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "MK Economy 23/10",
+      "note": "Ý tưởng sưu tầm/IP nhân vật đã làm nhiều ngày trước — hôm nay chỉ ghi nhận."
+    },
+    {
+      "id": "kw-kr-12",
+      "region": "KR",
+      "rank": null,
+      "keyword": "수납템 (đồ chứa đồ)",
+      "gloss": "Đồ chứa đồ — lượt nhắc tăng 314,86% trong một tháng",
+      "theme": "home",
+      "source_id": "hk-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "Hankyung 25/10 (Sometrend)",
+      "idea_ids": [
+        "20261031-04-phong-tro-gon-2-gio"
+      ]
+    },
+    {
+      "id": "kw-kr-13",
+      "region": "KR",
+      "rank": null,
+      "keyword": "레트로 과자 (bánh kẹo retro)",
+      "gloss": "Bánh kẹo, rượu, bao bì kiểu cũ trở lại",
+      "theme": "food",
+      "source_id": "jd-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "JoongAng Daily 26/10, Aju Press 28/10",
+      "idea_ids": [
+        "20261031-06-hop-qua-vat-nam-sinh"
+      ]
+    },
+    {
+      "id": "kw-kr-14",
+      "region": "KR",
+      "rank": null,
+      "keyword": "효도 대행 / 말벗 + 스마트폰",
+      "gloss": "‘Hiếu thảo hộ’ — dịch vụ trò chuyện, dạy smartphone cho cha mẹ",
+      "theme": "society",
+      "source_id": "hyodo-kw",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "Bảng giá Hyodocare (mở 31/10)",
+      "idea_ids": [
+        "20261031-01-chau-day-dien-thoai",
+        "20261031-05-hoi-ky-zalo-ong-ba"
+      ],
+      "note": "Không phải bảng xếp hạng; là bảng giá dịch vụ đang bán."
+    },
+    {
+      "id": "kw-global-01",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Vàng – bạc lao dốc",
+      "gloss": "Vàng có lúc 3.891 USD, bạc dưới 50 USD — hot ở TQ và VN cùng lúc",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "TQ: Baidu #3; VN: Google Trends #3 1000+",
+      "idea_ids": [
+        "20261031-08-watchlist-vang-bac-sau-cu-giam"
+      ],
+      "derived_from": [
+        "kw-cn-02",
+        "kw-vn-03"
+      ]
+    },
+    {
+      "id": "kw-global-02",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Intel / cổ phiếu chip",
+      "gloss": "Intel giảm 28–30% một phiên; SanDisk, Kioxia biến động",
+      "theme": "money",
+      "source_id": "baidu",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "TQ: Baidu #8, #15; Nhật: Yahoo #5, #8; Hàn: GT #3",
+      "derived_from": [
+        "kw-cn-04",
+        "kw-cn-07",
+        "kw-jp-15",
+        "kw-jp-18",
+        "kw-kr-03"
+      ]
+    },
+    {
+      "id": "kw-global-03",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Chiikawa",
+      "gloss": "Cơn sốt Chiikawa ở Nhật và Hàn",
+      "theme": "collect",
+      "source_id": "yahoojp",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "Nhật: Yahoo #10; Hàn: MK Economy",
+      "derived_from": [
+        "kw-jp-20",
+        "kw-kr-11"
+      ]
+    },
+    {
+      "id": "kw-global-04",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Dịch vụ thay con cháu bên cha mẹ",
+      "gloss": "‘Con cái dùng chung’ ở TQ, ‘hiếu thảo hộ’ ở Hàn",
+      "theme": "society",
+      "source_id": "baidu",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "TQ: Baidu #43; Hàn: Hyodocare",
+      "idea_ids": [
+        "20261031-01-chau-day-dien-thoai",
+        "20261031-05-hoi-ky-zalo-ong-ba"
+      ],
+      "derived_from": [
+        "kw-cn-15",
+        "kw-kr-14"
+      ]
+    },
+    {
+      "id": "kw-global-05",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Sống nhỏ, tiêu ít",
+      "gloss": "Đồ chứa đồ ở Hàn, ‘đồ mặc một lần’ ở TQ",
+      "theme": "home",
+      "source_id": "hk-kw",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "Hàn: Hankyung; TQ: Sixth Tone",
+      "idea_ids": [
+        "20261031-04-phong-tro-gon-2-gio",
+        "20261031-03-tu-do-check-in-homestay"
+      ],
+      "derived_from": [
+        "kw-kr-12",
+        "kw-cn-17"
+      ]
+    }
+  ],
+  "keyword_sources": [
+    {
+      "id": "gt-vn",
+      "name": "Google Trends — Daily Search Trends (Việt Nam)",
+      "title": "Google Trends RSS geo=VN (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "published": null,
+      "accessed": "2026-10-31",
+      "captured_at": "2026-10-31T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "VN",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "gt-kr",
+      "name": "Google Trends — Daily Search Trends (Hàn Quốc)",
+      "title": "Google Trends RSS geo=KR (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=KR",
+      "published": null,
+      "accessed": "2026-10-31",
+      "captured_at": "2026-10-31T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "gt-jp",
+      "name": "Google Trends — Daily Search Trends (Nhật Bản)",
+      "title": "Google Trends RSS geo=JP (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "published": null,
+      "accessed": "2026-10-31",
+      "captured_at": "2026-10-31T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "gt-us",
+      "name": "Google Trends — Daily Search Trends (Mỹ)",
+      "title": "Google Trends RSS geo=US (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "published": null,
+      "accessed": "2026-10-31",
+      "captured_at": "2026-10-31T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "US",
+      "note": "Nguồn gốc: RSS ‘Daily Search Trends’ của Google, chỉ trả 10 mục; lượt tìm là ngưỡng ước lượng (ví dụ ‘500+’); thiên về thể thao/tin nóng. Giờ trong cột chỉ số là pubDate quy đổi UTC+7."
+    },
+    {
+      "id": "baidu",
+      "name": "Baidu 百度热搜",
+      "title": "百度热搜 实时榜",
+      "url": "https://top.baidu.com/board?tab=realtime",
+      "published": null,
+      "accessed": "2026-10-31",
+      "captured_at": "2026-10-31T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "CN",
+      "note": "Bảng realtime đo trực tiếp; ‘điểm nóng’ là hotScore của Baidu. Chọn các mục liên quan kinh doanh/tiêu dùng/công nghệ/xã hội, bỏ bớt tin chính trị–thời sự."
+    },
+    {
+      "id": "yahoojp",
+      "name": "Yahoo! JAPAN リアルタイム検索 — SNSのバズまとめ",
+      "title": "SNSのバズまとめ (bảng xếp hạng)",
+      "url": "https://search.yahoo.co.jp/realtime/search/matome",
+      "published": null,
+      "accessed": "2026-10-31",
+      "captured_at": "2026-10-31T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "Bảng xếp hạng chủ đề đang được bàn trên X ở Nhật, Yahoo tóm tắt bằng AI; hạng là thứ tự trên bảng lúc chụp."
+    },
+    {
+      "id": "sixthtone-kw",
+      "name": "Sixth Tone",
+      "title": "In Stitches: Why Young Chinese Are Buying Clothes They Can Throw Away",
+      "url": "https://www.sixthtone.com/news/1019154",
+      "published": "2026-10-23",
+      "accessed": "2026-10-31",
+      "captured_at": "2026-10-31T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "CN",
+      "note": "Bài báo, không phải bảng xếp hạng."
+    },
+    {
+      "id": "163-kw",
+      "name": "网易订阅",
+      "title": "一间缝纫教室月入20万，98年嘉兴小伙把缝纫机变成年轻人的新玩具",
+      "url": "https://www.163.com/dy/article/L9MD7JE105118513.html",
+      "published": "2026-10-20",
+      "accessed": "2026-10-31",
+      "captured_at": "2026-10-31T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "CN",
+      "note": "Bài báo trên nền tảng tác giả, không phải bảng xếp hạng."
+    },
+    {
+      "id": "mk-kw",
+      "name": "매경ECONOMY (MK)",
+      "title": "밤샘 오픈런에 굿즈 품절…‘먼작귀’ 신드롬",
+      "url": "https://www.mk.co.kr/news/business/12184159",
+      "published": "2026-10-23",
+      "accessed": "2026-10-31",
+      "captured_at": "2026-10-31T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "Bài báo, không phải bảng xếp hạng."
+    },
+    {
+      "id": "hk-kw",
+      "name": "한국경제 (Hankyung)",
+      "title": "이사 대신 다이소 갑니다…2030 열광하더니 품절 대란",
+      "url": "https://www.hankyung.com/article/202610231348H",
+      "published": "2026-10-25",
+      "accessed": "2026-10-31",
+      "captured_at": "2026-10-31T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "Bài báo dẫn dữ liệu Sometrend; chỉ đọc được một phần thân bài."
+    },
+    {
+      "id": "jd-kw",
+      "name": "Korea JoongAng Daily",
+      "title": "Korean food brands revive retro snacks and drinks as nostalgia trend grows",
+      "url": "https://www.koreajoongangdaily.com/business/food-companies-go-retro-to-revive-old-tastes-as-consumers-tire-of-fleeting-fads/12926918",
+      "published": "2026-10-26",
+      "accessed": "2026-10-31",
+      "captured_at": "2026-10-31T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "Bài báo; đối chiếu với Aju Press 28/10."
+    },
+    {
+      "id": "hyodo-kw",
+      "name": "효도케어 (Hyodocare)",
+      "title": "이용요금 - 효도케어",
+      "url": "https://hyodocare.com/pricing",
+      "published": null,
+      "accessed": "2026-10-31",
+      "captured_at": "2026-10-31T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "Bảng giá dịch vụ của doanh nghiệp, không phải bảng xếp hạng."
+    }
+  ],
+  "keyword_unreachable": [
+    {
+      "region": "CN",
+      "source": "Weibo 热搜 (s.weibo.com/top/summary)",
+      "reason": "Thử lại 31/10: HTTP 302 chuyển sang trang đăng nhập khách, không lấy được danh sách."
+    },
+    {
+      "region": "CN",
+      "source": "Douyin/Xiaohongshu hot list",
+      "reason": "Không thử lại 31/10 (cần đăng nhập/JS, không có API công khai); dùng số lượt xem do báo dẫn."
+    },
+    {
+      "region": "VN",
+      "source": "Shopee/TikTok Shop/Lazada VN trending",
+      "reason": "Không thử lại 31/10 (danh sách nằm sau JavaScript/đăng nhập)."
+    },
+    {
+      "region": "KR",
+      "source": "Naver DataLab / Daum realtime",
+      "reason": "Không thử lại 31/10 (Naver đã bỏ bảng từ khóa realtime công khai); dùng Google Trends KR và báo Hàn."
+    },
+    {
+      "region": "US",
+      "source": "Amazon Movers & Shakers / TikTok Creative Center",
+      "reason": "Không thử lại 31/10 (chỉ trả khung JavaScript)."
+    },
+    {
+      "region": "GLOBAL",
+      "source": "Bảng từ khóa toàn cầu",
+      "reason": "Không có nguồn toàn cầu công khai đọc được; mục ‘Toàn cầu’ là chủ đề suy ra từ ≥ 2 vùng và ghi rõ nguồn."
+    }
+  ]
+}

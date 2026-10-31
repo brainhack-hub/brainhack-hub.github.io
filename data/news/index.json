@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30",
-  "latest": "2026-10-30",
+  "updated": "2026-10-31",
+  "latest": "2026-10-31",
   "topics": [
     {
       "id": "ai_xd",
@@ -64,6 +64,18 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-10-31",
+      "file": "2026-10-31.json",
+      "headline": "Đọc báo 31/10/2026: AI lập tiến độ và submittal, Procore mở cho mô hình bên ngoài, Caterpillar kỷ lục nhờ trung tâm dữ liệu, bạc giảm 60% từ đỉnh",
+      "item_count": 23,
+      "topics": {
+        "ai_xd": 8,
+        "chuoi_cung_ung": 4,
+        "cong_nghe": 3,
+        "vn": 8
+      }
+    },
     {
       "date": "2026-10-30",
       "file": "2026-10-30.json",

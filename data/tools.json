@@ -78,8 +78,8 @@
       "vn_availability": "đã xác minh",
       "vn_note": "Việt Nam có trong danh sách quốc gia được hỗ trợ (anthropic.com/supported-countries).",
       "vi_support": "Dùng tiếng Việt tốt trong thực tế; trang chính thức không nêu cam kết riêng — chưa xác minh.",
-      "how_read": "mở trang (claude.com/pricing, docs.claude.com pricing, supported-countries) · mở lại claude.com/pricing 29/10: Free, Pro $17 (năm)/$20 (tháng), Max từ $100 — khớp",
-      "checked": "2026-10-29"
+      "how_read": "mở trang (claude.com/pricing, docs.claude.com pricing, supported-countries) · mở lại claude.com/pricing 29/10: Free, Pro $17 (năm)/$20 (tháng), Max từ $100 — khớp · mở lại claude.com/pricing 31/10: Free $0, Pro $17 (năm, $200 trả trước)/$20 (tháng), Max từ $100 — khớp",
+      "checked": "2026-10-31"
     },
     {
       "id": "chatgpt",
@@ -115,13 +115,17 @@
         {
           "text": "Gemini API có gói Free cho một số model (“free of charge” có giới hạn); Gemini 4 Argon không có ở gói Free (ai.google.dev/gemini-api/docs/pricing).",
           "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Trang gói hiển thị cho Việt Nam (31/10): Google AI Plus 132.000đ/tháng, AI Pro 489.000đ/tháng, AI Ultra từ 2.250.000đ/tháng.",
+          "verification": "1 nguồn gốc"
         }
       ],
       "vn_availability": "có hạn chế",
       "vn_note": "Gemini API: Việt Nam nằm trong danh sách vùng khả dụng (ai.google.dev/gemini-api/docs/available-regions). Gói Google AI: “hơn 160 quốc gia” — chưa kiểm riêng Việt Nam & giá theo nước.",
       "vi_support": null,
-      "how_read": "mở trang (gemini.google/subscriptions, ai.google.dev pricing & available-regions) · mở lại gemini.google/subscriptions 29/10: AI Plus $4,99, AI Pro $19,99 (giá Mỹ) — khớp",
-      "checked": "2026-10-29"
+      "how_read": "mở trang (gemini.google/subscriptions, ai.google.dev pricing & available-regions) · mở lại gemini.google/subscriptions 29/10: AI Plus $4,99, AI Pro $19,99 (giá Mỹ) — khớp · mở lại gemini.google/subscriptions 31/10 (hiển thị cho VN): AI Plus 132.000đ/tháng, AI Pro 489.000đ/tháng, AI Ultra từ 2.250.000đ/tháng",
+      "checked": "2026-10-31"
     },
     {
       "id": "deepseek",
@@ -208,8 +212,8 @@
       "vn_availability": "có hạn chế",
       "vn_note": "API: Việt Nam có trong vùng khả dụng; app/gói AI: chưa kiểm riêng VN.",
       "vi_support": null,
-      "how_read": "mở trang (ai.google.dev pricing, gemini.google/subscriptions) · mở lại bảng giá Gemini API 29/10: có Nano Banana trong bảng giá ảnh — khớp",
-      "checked": "2026-10-29"
+      "how_read": "mở trang (ai.google.dev pricing, gemini.google/subscriptions) · mở lại bảng giá Gemini API 29/10: có Nano Banana trong bảng giá ảnh — khớp · mở lại ai.google.dev pricing 31/10: $0,067/ảnh 1K, $0,101/ảnh 2K — khớp",
+      "checked": "2026-10-31"
     },
     {
       "id": "flux",
@@ -517,8 +521,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại trang giá 29/10: Hobby miễn phí, Pro $20/tháng — khớp",
-      "checked": "2026-10-29"
+      "how_read": "mở trang · mở lại trang giá 29/10: Hobby miễn phí, Pro $20/tháng — khớp · mở lại vercel.com/pricing 31/10: Hobby, Pro $20/tháng — khớp",
+      "checked": "2026-10-31"
     },
     {
       "id": "supabase",
@@ -536,8 +540,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại trang giá 29/10: Free 50.000 MAU, 500 MB; Pro từ $25 — khớp",
-      "checked": "2026-10-29"
+      "how_read": "mở trang · mở lại trang giá 29/10: Free 50.000 MAU, 500 MB; Pro từ $25 — khớp · mở lại supabase.com/pricing 31/10: Free 50.000 MAU, 500 MB — khớp (giá Pro không đọc được hôm nay)",
+      "checked": "2026-10-31"
     },
     {
       "id": "cloudflare_pages",
@@ -626,13 +630,17 @@
         {
           "text": "Free $0 (mẫu & công cụ cơ bản); Pro $19.99/tháng (1.200 credit AI/tháng, 1 TB lưu trữ; giá hiển thị USD); Ultra $79/tháng.",
           "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Trang giá hiển thị cho Việt Nam (31/10): Free 0đ; Pro 290.000đ/tháng hoặc 1.890.000đ/năm; Ultra 2.049.000đ/tháng (có thể có ưu đãi Black Friday khi đăng nhập).",
+          "verification": "1 nguồn gốc"
         }
       ],
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh giá/tính năng theo nước (thực tế dùng được ở VN nhưng trang chính thức không nêu).",
       "vi_support": null,
-      "how_read": "mở trang · mở lại trang giá 29/10: Pro USD 19,99/tháng — khớp",
-      "checked": "2026-10-29"
+      "how_read": "mở trang · mở lại trang giá 29/10: Pro USD 19,99/tháng — khớp · mở lại capcut.com/pricing 31/10 (hiển thị cho VN): Pro 290.000đ/tháng hoặc 1.890.000đ/năm; Ultra 2.049.000đ/tháng",
+      "checked": "2026-10-31"
     },
     {
       "id": "canva",
@@ -650,8 +658,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "không mở được trang giá · thử lại canva.com/pricing 26/10: trang trả nội dung rỗng (JS) — vẫn không nêu giá",
-      "checked": "2026-10-26"
+      "how_read": "không mở được trang giá · thử lại canva.com/pricing 26/10: trang trả nội dung rỗng (JS) — vẫn không nêu giá · thử lại canva.com/pricing 31/10: trang tải bằng JavaScript, không đọc được giá",
+      "checked": "2026-10-31"
     },
     {
       "id": "tiktok_shop",
@@ -745,8 +753,8 @@
       "vn_availability": "đã xác minh",
       "vn_note": "Dịch vụ cho ngân hàng Việt Nam.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại 29/10: img.vietqr.io tạo ảnh QR hoạt động — khớp",
-      "checked": "2026-10-29"
+      "how_read": "mở trang · mở lại 29/10: img.vietqr.io tạo ảnh QR hoạt động — khớp · mở lại vietqr.io 31/10: tạo QR bằng URL img.vietqr.io; thông báo thay đổi API tháng 10/2026",
+      "checked": "2026-10-31"
     },
     {
       "id": "payos",
@@ -764,8 +772,8 @@
       "vn_availability": "đã xác minh",
       "vn_note": "Dịch vụ Việt Nam.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại trang chủ 29/10: ‘Cổng thanh toán miễn phí’ — khớp",
-      "checked": "2026-10-29"
+      "how_read": "mở trang · mở lại trang chủ 29/10: ‘Cổng thanh toán miễn phí’ — khớp · mở lại payos.vn 31/10: ‘Cổng thanh toán miễn phí payOS’",
+      "checked": "2026-10-31"
     },
     {
       "id": "momo",
@@ -802,8 +810,8 @@
       "vn_availability": "đã xác minh",
       "vn_note": "Dịch vụ Việt Nam.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại oa.zalo.me 26/10: trang chủ đọc được; bảng giá vẫn chưa đọc",
-      "checked": "2026-10-26"
+      "how_read": "mở trang · mở lại oa.zalo.me 26/10: trang chủ đọc được; bảng giá vẫn chưa đọc · mở lại oa.zalo.me 31/10: trang chủ đọc được, bảng giá gói vẫn chưa đọc số",
+      "checked": "2026-10-31"
     },
     {
       "id": "zalo_zns",

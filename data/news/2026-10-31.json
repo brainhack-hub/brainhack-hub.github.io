@@ -1,0 +1,727 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T08:30:00+07:00",
+  "headline": "Đọc báo 31/10/2026: AI lập tiến độ và submittal, Procore mở cho mô hình bên ngoài, Caterpillar kỷ lục nhờ trung tâm dữ liệu, bạc giảm 60% từ đỉnh",
+  "digest": [
+    {
+      "title": "AI xây dựng đi sâu vào tiến độ và hồ sơ thầu",
+      "text": "Deeplan (CSCEC 3) lập tiến độ trong nửa ngày, renue (Nhật) tự sắp lại bảng tiến độ khi đổi thiết kế, Bobyard nối bản vẽ → dự toán → submittal, Snaptrude ra agent thiết kế LoD 400; ở VN, Tân Phát Long thử AI rà soát hồ sơ thầu.",
+      "item_ids": [
+        "n-20261031-04-deeplan-zhongjian",
+        "n-20261031-07-renue-sekou-ai",
+        "n-20261031-02-bobyard-submittals",
+        "n-20261031-01-snaptrude-agent-aecbench",
+        "n-20261031-08-bim-ai-dau-thau-tpl"
+      ]
+    },
+    {
+      "title": "Nền tảng mở cho AI bên ngoài: cần luật chơi về dữ liệu",
+      "text": "Procore AI lên Amazon Bedrock với MCP; VN–Nhật bàn nguyên tắc ‘đánh giá trước, giám sát khi dùng’; TQ tổ chức cuộc thi AI ngành xây dựng đầu tiên, giải tập trung vào hợp đồng và nhật ký thi công.",
+      "item_ids": [
+        "n-20261031-03-procore-ai-bedrock",
+        "n-20261031-11-vn-jp-ai-governance",
+        "n-20261031-06-shaanjian-ai-contest"
+      ]
+    },
+    {
+      "title": "Chuỗi cung ứng: cước tăng lại, thiết bị bị trung tâm dữ liệu ‘hút’",
+      "text": "Caterpillar có quý kỷ lục 20,7 tỷ USD, máy phát cho trung tâm dữ liệu +30%; cước xe tải hợp đồng Mỹ có thể tăng hai chữ số năm 2027; Amazon chịu chi phí vận chuyển +11%; Tesla bắt đầu sản xuất Optimus.",
+      "item_ids": [
+        "n-20261031-15-caterpillar-record-quarter",
+        "n-20261031-13-covenant-truckload-2027",
+        "n-20261031-12-amazon-shipping-costs",
+        "n-20261031-14-tesla-optimus-production"
+      ]
+    },
+    {
+      "title": "Công nghệ: lo ngại chi tiêu AI, agent mua sắm còn sơ khai",
+      "text": "4 ông lớn dự chi hơn 740 tỷ USD capex, dòng tiền tự do âm, Nasdaq −2,9%; DoorDash mới nhận ‘vài trăm’ đơn từ AI agent; Nam Sa Số 1 dùng 11 thiết bị thông minh, giảm >60% làm lại.",
+      "item_ids": [
+        "n-20261031-09-tc-ai-spending-cracks",
+        "n-20261031-10-doordash-ai-agents",
+        "n-20261031-05-nansha-zhineng-jianzao"
+      ]
+    },
+    {
+      "title": "Việt Nam: kim loại giảm, đất KCN tăng, luật BĐS minh bạch hơn",
+      "text": "Bạc −60% từ đỉnh, đề xuất chứng chỉ vàng; thép Hòa Phát 14.210–14.920đ/kg, quặng sắt tăng; tiền thuê đất KCN có nơi +1.000%; mã định danh BĐS; 64 chung cư cũ TP HCM phải xây lại; Nhựa Bình Minh tự động hóa; đề xuất thu phí túi nilon.",
+      "item_ids": [
+        "n-20261031-16-gia-bac-giam-60",
+        "n-20261031-17-chung-chi-vang",
+        "n-20261031-21-gia-thep-3010",
+        "n-20261031-19-kcn-tien-thue-dat",
+        "n-20261031-20-ma-dinh-danh-bds",
+        "n-20261031-18-hcm-64-chung-cu-cu",
+        "n-20261031-22-scg-binh-minh-robot",
+        "n-20261031-23-thu-phi-tui-nilon"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "n-20261031-01-snaptrude-agent-aecbench",
+      "title": "Snaptrude Shipped a Design Agent and a Benchmark to Grade It — Against Claude Code and Codex",
+      "title_vi": "Snaptrude ra ‘agent’ thiết kế BIM tới mức LoD 400 kèm bộ chấm điểm AECBench, tự so với Claude Code và Codex",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang tin chuyên ngành contech"
+      },
+      "url": "https://www.constructionindustry.ai/product/snaptrude-agent-lod-400-aecbench-benchmark/",
+      "published": "2026-10-30",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Snaptrude ra mắt ngày 29/10 một ‘agent’ thiết kế trong phần mềm BIM trên trình duyệt, có thể dựng mô hình tới mức chi tiết LoD 400 theo vòng ‘đề xuất rồi người duyệt’. Cùng lúc hãng công bố bộ chấm điểm AECBench và nói agent của mình hơn Claude Code, Codex ở 4 trên 6 tiêu chí — nhưng đó là kết quả hãng tự chạy. Gói Free $0 có 75 credit/tuần, gói Pro $50/tháng (trả năm).",
+      "why_it_matters": "Phần mềm thiết kế bắt đầu bán ‘agent’ theo credit — khi mua bản quyền cần hỏi rõ cách tính credit và yêu cầu bằng chứng độc lập thay vì benchmark do hãng tự làm.",
+      "tags": [
+        "Snaptrude",
+        "BIM",
+        "agent",
+        "benchmark"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31",
+      "note": "Kết quả benchmark do chính Snaptrude chạy, chưa có kiểm chứng độc lập."
+    },
+    {
+      "id": "n-20261031-02-bobyard-submittals",
+      "title": "Bobyard Pushed Its AI Past the Takeoff Into the Submittal — the Document That Arrives After the Bid",
+      "title_vi": "Bobyard đưa AI từ bóc khối lượng sang lập hồ sơ trình duyệt vật tư (submittal) — nối bản vẽ → dự toán → báo giá → submittal",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang tin chuyên ngành contech"
+      },
+      "url": "https://www.constructionindustry.ai/product/bobyard-ai-submittals-connected-preconstruction-bid-workflow/",
+      "published": "2026-10-30",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Theo thông cáo Business Wire ngày 29/10, Bobyard nối các bước tiền thi công thành một luồng: đọc bản vẽ, bóc khối lượng, lập dự toán, làm báo giá rồi tạo hồ sơ submittal (tính năng submittal ra ngày 1/10) cho 6 nhóm thầu phụ. Hãng tự nêu tiết kiệm 65% thời gian bóc khối lượng và giúp khách nộp gấp 3–5 lần số hồ sơ thầu. Bobyard gọi vòng Series A 35 triệu USD hồi tháng 12/2025.",
+      "why_it_matters": "Submittal và báo giá là khâu đấu thầu–mua sắm tốn công nhất của thầu phụ; công cụ nối liền từ bản vẽ tới submittal có thể đổi cách đội đấu thầu làm hồ sơ.",
+      "tags": [
+        "Bobyard",
+        "bóc khối lượng",
+        "submittal",
+        "đấu thầu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31",
+      "note": "Con số 65% và 3–5 lần do hãng tự nêu."
+    },
+    {
+      "id": "n-20261031-03-procore-ai-bedrock",
+      "title": "Announcing Procore AI on Amazon Bedrock",
+      "title_vi": "Procore đưa ‘Procore AI’ lên Amazon Bedrock: chọn mô hình (Claude, Nova…), có MCP, bán qua AWS Marketplace",
+      "source": {
+        "name": "Procore (blog)",
+        "kind": "blog nhà cung cấp"
+      },
+      "url": "https://www.procore.com/blog/announcing-procore-ai-on-amazon-bedrock",
+      "published": "2026-10-29T19:19:00Z",
+      "time_known": true,
+      "date_basis": "firstPublishedAt trong dữ liệu trang blog",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Procore công bố bản chính thức Procore AI chạy trên Amazon Bedrock, cho doanh nghiệp xây dựng chọn mô hình nền (bài nêu Claude, ChatGPT, Grok, Amazon Nova) và mua qua AWS Marketplace. Hệ thống dùng công cụ ‘Magpie’ của Procore và có máy chủ MCP để AI bên ngoài đọc dữ liệu dự án. Hãng cam kết dữ liệu khách hàng không dùng để huấn luyện mô hình.",
+      "why_it_matters": "Phần mềm quản lý dự án lớn nhất ngành đang mở cho AI bên ngoài truy cập dữ liệu dự án — cần đặt quy tắc phân quyền, bảo mật trước khi bật.",
+      "tags": [
+        "Procore",
+        "AWS",
+        "Bedrock",
+        "MCP"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": "n-20261031-04-deeplan-zhongjian",
+      "title": "2026国际（武汉）智博会④|“天工智划”一键半天生成施工计划，可提前识别风险及时纠偏",
+      "title_vi": "CSCEC 3 và Xianyuan ra ‘Thiên Công Trí Hoạch’ (Deeplan): AI lập tiến độ thi công trong nửa ngày, cảnh báo trễ và gợi ý phương án đuổi tiến độ",
+      "source": {
+        "name": "凤凰网 (极目新闻)",
+        "kind": "báo điện tử"
+      },
+      "url": "https://feng.ifeng.com/c/8xbvh2ORIvG",
+      "published": "2026-10-29T08:24:00+08:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Tại Hội chợ xây dựng thông minh Vũ Hán, 衔远科技 và Cục 3 Tổng công ty Xây dựng TQ ra ‘agent’ lập kế hoạch Deeplan: tải hợp đồng, biện pháp thi công, thuyết minh bản vẽ, AI tự trích hơn 90 trường thông tin và dựng khung tiến độ — từ ít nhất 1 tuần xuống nửa ngày, người vẫn phải duyệt. Hệ thống gom dữ liệu báo cáo tuần, nhật ký, nghiệm thu, mua sắm để cảnh báo trễ và đề xuất nhiều phương án đuổi tiến độ. Dự kiến triển khai cho hơn 600 dự án nhà, mục tiêu rút 70% thời gian lập/điều chỉnh kế hoạch.",
+      "why_it_matters": "Mua sắm (招采) là một nguồn dữ liệu đầu vào của hệ thống — tiến độ AI sẽ cần dữ liệu mua sắm đúng hạn từ phòng cung ứng.",
+      "tags": [
+        "CSCEC",
+        "tiến độ",
+        "AI agent",
+        "Vũ Hán"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31",
+      "note": "Các con số mục tiêu (70%, 95%) là kỳ vọng của nhà phát triển."
+    },
+    {
+      "id": "n-20261031-05-nansha-zhineng-jianzao",
+      "title": "11项智能建造装备打造出“好房子”",
+      "title_vi": "Dự án Nam Sa Số 1 (Quảng Châu) cất nóc: 11 thiết bị xây dựng thông minh, BIM giải quyết trước >95% va chạm đường ống, giảm >60% làm lại",
+      "source": {
+        "name": "科技日报 (stdaily.com)",
+        "kind": "báo"
+      },
+      "url": "https://www.stdaily.com/web/gdxw/2026-10/30/content_605519.html",
+      "published": "2026-10-30T16:00:00+08:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Ngày 30/10, dự án Nam Sa Số 1 do Cục 5 Đường sắt TQ thi công (12,44 vạn m²) cất nóc kết cấu chính. Đội dự án dùng BIM toàn quy trình nên giải quyết trước hơn 95% va chạm đường ống, giảm hơn 60% làm lại, sai lệch lắp ghép mặt cong dưới 1 mm. Công trường dùng drone tuần tra + camera tự nhận diện lỗi chất lượng, cùng 11 thiết bị như robot đo kiểm, robot sơn sàn.",
+      "why_it_matters": "Ví dụ cụ thể về ‘xây dựng thông minh’ ở dự án nhà ở — các chỉ số va chạm/làm lại có thể dùng làm tiêu chí khi đánh giá nhà thầu áp dụng BIM.",
+      "tags": [
+        "BIM",
+        "robot",
+        "drone",
+        "Quảng Châu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": "n-20261031-06-shaanjian-ai-contest",
+      "title": "AI“建”证实力：陕建8项成果在全国首届建筑业AI大赛获奖",
+      "title_vi": "Cuộc thi AI ngành xây dựng toàn quốc đầu tiên của TQ: Shaanxi Construction đoạt 8 giải, có ‘agent’ mở rộng thị trường và nhận diện rủi ro hợp đồng",
+      "source": {
+        "name": "同花顺财经 (陕西建工官微)",
+        "kind": "trang tài chính (đăng lại)"
+      },
+      "url": "https://stock.10jqka.com.cn/20261030/c681306476.shtml",
+      "published": "2026-10-30T18:54:45+08:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Hiệp hội Xây dựng TQ và Công đoàn ngành tổ chức cuộc thi ứng dụng AI ngành xây dựng toàn quốc lần đầu; Tập đoàn Shaanxi Construction nhận 8 giải (2 nhất, 1 nhì, 5 ba). Các sản phẩm đoạt giải gồm agent hỗ trợ kinh doanh/mở rộng thị trường, quản lý cốt thép chi tiết trên Glodon PMsmart, agent chọn và phổ biến biện pháp thi công, nhật ký thi công đa phương thức và agent nhận diện rủi ro hợp đồng.",
+      "why_it_matters": "Danh sách giải cho thấy nơi các nhà thầu TQ đang đưa AI vào: hợp đồng, nhật ký, biện pháp thi công — cũng là các khâu có thể học hỏi cho đội đấu thầu.",
+      "tags": [
+        "cuộc thi AI",
+        "nhà thầu",
+        "hợp đồng",
+        "TQ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31",
+      "note": "Bài đăng lại từ tài khoản chính thức của doanh nghiệp."
+    },
+    {
+      "id": "n-20261031-07-renue-sekou-ai",
+      "title": "施工管理AI｜建設現場の状況からAIが工期への影響を判定し工程表を組み直し",
+      "title_vi": "renue (Nhật) ra ‘AI quản lý thi công’: đánh giá ảnh hưởng của thay đổi thiết kế, chậm trễ lên tiến độ và tự sắp lại bảng tiến độ",
+      "source": {
+        "name": "PR TIMES (renue)",
+        "kind": "thông cáo"
+      },
+      "url": "https://prtimes.jp/main/html/rd/p/000000084.000091210.html",
+      "published": "2026-10-30T15:00:00+09:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "ai_xd",
+      "region": "JP",
+      "summary_vi": "Công ty renue (Tokyo) bắt đầu cung cấp ‘施工管理AI’ cho chỉ huy trưởng công trường: lấy dữ liệu thực tế, thay đổi thiết kế, lịch trống của thầu phụ để đánh giá ảnh hưởng tới tiến độ và chi phí rồi sắp lại bảng tiến độ, xuất CSV về phần mềm tiến độ đang dùng. Tiêu chí ra quyết định được xây từ phỏng vấn chỉ huy trưởng và tổ trưởng tại công trường; triển khai mất 3 tháng cho mỗi công trường.",
+      "why_it_matters": "Cách làm ‘phỏng vấn người giỏi để làm luật cho AI’ áp dụng được cho quy trình đánh giá thầu/thay đổi thiết kế nội bộ.",
+      "tags": [
+        "renue",
+        "tiến độ",
+        "thay đổi thiết kế",
+        "Nhật"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": "n-20261031-08-bim-ai-dau-thau-tpl",
+      "title": "Từ BIM đến AI: Mở hướng quản trị thông minh cho doanh nghiệp xây dựng",
+      "title_vi": "Tân Phát Long: dùng BIM làm nguồn dữ liệu xuyên suốt và nghiên cứu AI hỗ trợ rà soát hồ sơ đấu thầu",
+      "source": {
+        "name": "Tin tức Việt Nam (tintucvietnam.vn)",
+        "kind": "báo điện tử"
+      },
+      "url": "https://tintucvietnam.vn/tu-bim-den-ai-mo-huong-quan-tri-thong-minh-cho-doanh-nghiep-xay-dung-d291693",
+      "published": "2026-10-12T07:03:07+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "VN",
+      "summary_vi": "Tại Diễn đàn Xây dựng Việt Nam 2026, ông Võ Thành Trung (Tân Phát Long) cho rằng BIM phải thành nguồn dữ liệu nối thiết kế, bóc khối lượng, dự toán, mua sắm, thi công và vận hành, kết nối với môi trường dữ liệu chung (CDE) và công cụ AI. Một hướng đang nghiên cứu là dùng AI rà soát hồ sơ thầu nhiều bản vẽ, bảng khối lượng, chỉ dẫn kỹ thuật và điều kiện hợp đồng.",
+      "why_it_matters": "Tín hiệu trực tiếp cho đội đấu thầu ở VN: AI rà soát hồ sơ mời thầu đang được doanh nghiệp trong nước thử.",
+      "tags": [
+        "BIM",
+        "đấu thầu",
+        "AI",
+        "VN"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31",
+      "older_than_7d": true,
+      "older_note": "Bài đăng 12/10 (19 ngày trước) — giữ vì nói trực tiếp về AI trong đấu thầu ở VN."
+    },
+    {
+      "id": "n-20261031-09-tc-ai-spending-cracks",
+      "title": "Cracks are emerging in the AI spending boom",
+      "title_vi": "Vết nứt trong cơn sốt chi tiêu AI: 4 ông lớn dự chi hơn 740 tỷ USD, dòng tiền tự do chuyển âm, Nasdaq giảm 2,9%",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "published": "2026-10-30T21:17:40Z",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "Alphabet, Amazon, Meta, Microsoft dự chi hơn 740 tỷ USD capex năm nay cho trung tâm dữ liệu và chip; nhà đầu tư chuyển sang lo dòng tiền tự do âm và nợ tăng. Ngày 30/10 Nasdaq giảm 2,9%, Qualcomm giảm 11%; Alphabet báo dòng tiền tự do âm 9,1 tỷ USD quý III, Amazon âm 42,4 tỷ USD trong 12 tháng. Theo S&P Global, 5 hãng lớn đã vay 326 tỷ USD trong năm 2026, gấp ba năm trước.",
+      "why_it_matters": "Chi tiêu trung tâm dữ liệu vẫn là động lực của thiết bị điện, máy phát, xây dựng; nếu dòng vốn chậm lại, đơn hàng thiết bị có thể chậm theo.",
+      "tags": [
+        "AI capex",
+        "Alphabet",
+        "Amazon",
+        "chứng khoán"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": "n-20261031-10-doordash-ai-agents",
+      "title": "DoorDash said it's only received 'several hundred' orders from AI agents",
+      "title_vi": "DoorDash: đơn đặt qua ‘AI agent’ bên ngoài mới chỉ ‘vài trăm’ — thương mại bằng agent còn rất sớm",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "published": "2026-10-30T13:54:25Z",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "Trong cuộc gọi kết quả quý III, CEO DoorDash Tony Xu nói công ty mới nhận ‘vài trăm’ đơn tổng cộng từ các agent bên thứ ba; người dùng vẫn chủ yếu đặt qua app. DoorDash có agent riêng (đặt món bằng tin nhắn, CLI, chatbot) và một máy chủ MCP cho đặt hàng doanh nghiệp; Amazon chặn agent cá nhân còn Walmart mở cửa.",
+      "why_it_matters": "Mua sắm qua AI agent còn ở mức thử nghiệm — chưa cần vội đổi quy trình đặt hàng, nhưng nên theo dõi chuẩn MCP của nhà cung cấp.",
+      "tags": [
+        "AI agent",
+        "DoorDash",
+        "MCP",
+        "thương mại"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": "n-20261031-11-vn-jp-ai-governance",
+      "title": "Việt Nam, Nhật Bản bàn cách giám sát AI",
+      "title_vi": "Việt Nam – Nhật Bản bàn cách giám sát, đánh giá AI đáng tin cậy trong khuôn khổ Tiến trình Hiroshima",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử"
+      },
+      "url": "https://vnexpress.net/viet-nam-nhat-ban-ban-cach-giam-sat-ai-5138750.html",
+      "published": "2026-10-30T14:22:18+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "VN",
+      "summary_vi": "Hội thảo ngày 29/10 tại Quảng Ninh thuộc ‘Nhóm Bạn bè’ của Tiến trình Hiroshima AI (70 quốc gia) bàn về kiểm soát rủi ro, đánh giá an toàn AI. Đại diện Bộ KH&CN nêu nguyên tắc ‘đánh giá trước khi triển khai, theo dõi khi dùng, can thiệp được khi cần’; FPT giới thiệu hệ thống CASANOS với AI Gateway lọc câu lệnh, chống rò rỉ dữ liệu.",
+      "why_it_matters": "Doanh nghiệp dùng AI nội bộ (kể cả cho hồ sơ thầu) nên chuẩn bị quy trình kiểm soát dữ liệu và nhật ký sử dụng — xu hướng quản lý đang đi theo hướng này.",
+      "tags": [
+        "quản trị AI",
+        "Nhật Bản",
+        "FPT",
+        "chính sách"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": "n-20261031-12-amazon-shipping-costs",
+      "title": "Amazon battles freight inflation as shipping costs jump 11% in Q3",
+      "title_vi": "Amazon: chi phí vận chuyển quý III tăng 11% do giá nhiên liệu và cước tuyến trục, nhưng vẫn giảm chi phí mỗi đơn vị",
+      "source": {
+        "name": "FreightWaves",
+        "kind": "báo logistics"
+      },
+      "url": "https://www.freightwaves.com/news/amazon-battles-freight-inflation-as-shipping-costs-jump-11-in-q3",
+      "published": "2026-10-29T23:26:52Z",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Amazon báo doanh thu quý III 201,9 tỷ USD (+12%), lãi hoạt động 28,1 tỷ USD (+61%), biên lãi cao kỷ lục 13,9%. Chi phí vận chuyển tăng 11% so với cùng kỳ trong khi số đơn vị giao tăng 12%; bỏ yếu tố nhiên liệu và cước tuyến trục thì chỉ tăng 8%. Công ty nói nhờ đặt hàng tồn kho gần khách hơn, gộp kiện và tự động hóa nên chi phí phục vụ mỗi đơn vị giảm năm thứ tư liên tiếp.",
+      "why_it_matters": "Lạm phát cước (nhiên liệu, tuyến trục) đang quay lại — nên rà các hợp đồng vận chuyển có điều khoản phụ phí nhiên liệu.",
+      "tags": [
+        "Amazon",
+        "cước vận chuyển",
+        "nhiên liệu",
+        "logistics"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": "n-20261031-13-covenant-truckload-2027",
+      "title": "Covenant Logistics CEO expects double-digit truckload rate hikes in 2027",
+      "title_vi": "CEO Covenant: giá cước xe tải hợp đồng ở Mỹ có thể tăng hai chữ số năm 2027; hàng thiết bị trung tâm dữ liệu ‘bùng nổ’",
+      "source": {
+        "name": "FreightWaves",
+        "kind": "báo logistics"
+      },
+      "url": "https://www.freightwaves.com/news/covenant-logistics-ceo-expects-double-digit-truckload-rate-hikes-in-2027",
+      "published": "2026-10-30T17:32:06Z",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "CEO David Parker nói nhà xe phải tăng giá để bù lương tài xế, thiết bị, bảo hiểm; ông kỳ vọng năm 2027 tiếp tục tăng hai chữ số. Theo chỉ số SONAR, chủ hàng ký lại hợp đồng gần đây trả cao hơn khoảng 12,8% (cùng kỳ 2025 là 4,1%). Covenant chuyển sang hợp đồng năng lực cam kết nhiều năm, một phần vì hàng công nghệ và thiết bị trung tâm dữ liệu tăng mạnh.",
+      "why_it_matters": "Thiết bị cho trung tâm dữ liệu đang chiếm năng lực vận tải đặc biệt — dự án cần hàng siêu trường siêu trọng nên chốt vận chuyển sớm hơn.",
+      "tags": [
+        "cước xe tải",
+        "Mỹ",
+        "trung tâm dữ liệu",
+        "hợp đồng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": "n-20261031-14-tesla-optimus-production",
+      "title": "Tesla begins humanoid production in California",
+      "title_vi": "Tesla bắt đầu sản xuất sớm robot hình người Optimus ở Fremont, dự kiến giao khách từ năm sau; thiếu dữ liệu là thách thức lớn",
+      "source": {
+        "name": "Supply Chain Dive",
+        "kind": "báo chuỗi cung ứng"
+      },
+      "url": "https://www.supplychaindive.com/news/tesla-begins-optimus-humanoid-production-california-shipments-2027/872992/",
+      "published": "2026-10-28",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Elon Musk nói Tesla đã lắp phần lớn dây chuyền 1 triệu robot/năm ở Fremont nhưng cần ‘một năm hoặc lâu hơn’ để đạt công suất; khách đầu tiên dùng cho việc công nghiệp nguy hiểm, lặp lại. Toyota định triển khai 400.000 robot, Boston Dynamics mở trung tâm huấn luyện Atlas ở Georgia. Thu thập dữ liệu là thách thức lớn; Tesla định lập ‘Optimus Academy’ 10.000–20.000 robot; năm ngoái thế giới mua gần 7.000 robot hình người.",
+      "why_it_matters": "Robot hình người còn nhỏ về số lượng (khoảng 7.000/603.000 robot), nhưng cuộc đua dữ liệu huấn luyện đã mở ra — xem ý tưởng #7.",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "robot",
+        "sản xuất"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Đọc toàn bộ qua WebFetch (curl bị 403).",
+      "accessed": "2026-10-31",
+      "idea_ids": [
+        "20261031-07-doi-quay-du-lieu-viec-nha"
+      ]
+    },
+    {
+      "id": "n-20261031-15-caterpillar-record-quarter",
+      "title": "Caterpillar posts ‘highest sales quarter ever,’ fueled by data centers",
+      "title_vi": "Caterpillar có quý doanh thu cao nhất lịch sử (20,7 tỷ USD) nhờ trung tâm dữ liệu; đơn hàng tồn 78 tỷ USD, thuế quan tốn 600 triệu USD",
+      "source": {
+        "name": "Construction Dive",
+        "kind": "báo xây dựng"
+      },
+      "url": "https://www.constructiondive.com/news/caterpillar-posts-highest-sales-quarter-ever-data-centers-q3-2026/873294/",
+      "published": "2026-10-30",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Quý III Caterpillar đạt 20,7 tỷ USD doanh thu (+17%), lãi 3,3 tỷ USD (+43%), đơn hàng tồn 78 tỷ USD — gần gấp đôi năm trước; máy phát điện cho trung tâm dữ liệu tăng 30%. Mảng máy xây dựng đạt gần 8 tỷ USD (+18%), giá và sản lượng bù được chi phí sản xuất, cước vận chuyển. Chi phí thuế quan quý III là 600 triệu USD, dự kiến cả năm khoảng 2,2 tỷ USD.",
+      "why_it_matters": "Máy phát và động cơ lớn đang bị trung tâm dữ liệu ‘hút’ — thời gian chờ thiết bị điện dự phòng cho dự án có thể kéo dài; chốt đơn sớm.",
+      "tags": [
+        "Caterpillar",
+        "máy xây dựng",
+        "máy phát",
+        "thuế quan"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Đọc toàn bộ qua WebFetch (curl bị 403).",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": "n-20261031-16-gia-bac-giam-60",
+      "title": "Giá bạc giảm 60% từ đỉnh",
+      "title_vi": "Giá bạc giảm 60% từ đỉnh, SJC thấp hơn đỉnh khoảng 25%; WB hạ dự báo giá bạc 2027",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử"
+      },
+      "url": "https://vnexpress.net/gia-bac-giam-60-tu-dinh-5138653.html",
+      "published": "2026-10-30T11:04:05+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Sáng 30/10, bạc miếng, bạc thỏi các hãng lớn quanh 1,7 triệu đồng/lượng, thấp hơn khoảng 60% so với đỉnh trên 4,6 triệu cuối tháng 1; bạc thế giới 51,5 USD/ounce. SJC 138,4–141,4 triệu đồng/lượng, thấp hơn đỉnh khoảng 25%. Ngân hàng Thế giới hạ dự báo giá bạc trung bình 2027 từ 65 xuống 62 USD/ounce vì nhu cầu điện mặt trời chuyển sang dùng đồng.",
+      "why_it_matters": "Bạc là vật liệu trong pin mặt trời và linh kiện điện — giá giảm mạnh có thể ảnh hưởng giá thiết bị điện mặt trời áp mái trong các gói thầu.",
+      "tags": [
+        "giá bạc",
+        "vàng SJC",
+        "WB",
+        "kim loại"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31",
+      "idea_ids": [
+        "20261031-08-watchlist-vang-bac-sau-cu-giam"
+      ]
+    },
+    {
+      "id": "n-20261031-17-chung-chi-vang",
+      "title": "Đề xuất thí điểm chứng chỉ vàng",
+      "title_vi": "Đại biểu Quốc hội đề xuất thí điểm chứng chỉ vàng, nêu người dân giữ khoảng 500 tấn vàng; tín dụng đã khoảng 155% GDP",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử"
+      },
+      "url": "https://vnexpress.net/de-xuat-thi-diem-chung-chi-vang-5138821.html",
+      "published": "2026-10-30T18:17:17+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Ông Lê Hoàng Anh (Ủy ban Kinh tế và Tài chính) cho rằng nền kinh tế dựa quá nhiều vào tín dụng ngân hàng (khoảng 155% GDP) trong khi người dân giữ khoảng 500 tấn vàng, xấp xỉ 12% GDP. Ông đề xuất thí điểm chứng chỉ vàng, kết nối tiết kiệm với doanh nghiệp qua quỹ hưu trí, quỹ mở và cho vay dựa trên dữ liệu thay cho tài sản đảm bảo là đất. NHNN cho biết chưa lập sàn giao dịch vàng trong giai đoạn này.",
+      "why_it_matters": "Cho vay theo dữ liệu (hóa đơn điện tử, thuế) nếu được cụ thể hóa sẽ giúp nhà thầu, nhà cung cấp nhỏ vay vốn lưu động không cần thế chấp đất.",
+      "tags": [
+        "chứng chỉ vàng",
+        "tín dụng",
+        "Quốc hội",
+        "vốn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31",
+      "idea_ids": [
+        "20261031-08-watchlist-vang-bac-sau-cu-giam"
+      ]
+    },
+    {
+      "id": "n-20261031-18-hcm-64-chung-cu-cu",
+      "title": "TP HCM có 64 chung cư cũ phải tháo dỡ trước năm 2030",
+      "title_vi": "TP HCM: 64 chung cư cũ (8.577 căn) phải tháo dỡ, xây lại trước 2030; đề xuất hệ số bồi thường 1,1–1,3 lần",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử"
+      },
+      "url": "https://vnexpress.net/tp-hcm-co-64-chung-cu-cu-phai-thao-do-truoc-nam-2030-5138650.html",
+      "published": "2026-10-30T12:07:41+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Sở Xây dựng TP HCM hoàn tất kiểm định tháng 10: 64 chung cư (106 lô, 8.577 căn) thuộc diện phải di dời, tháo dỡ, chưa có trường hợp khẩn cấp. Các chung cư này sẽ được cải tạo, xây lại đến 2030; dự thảo nghị quyết đề xuất hệ số bồi thường 1,1 lần với căn từ tầng 2 trở lên và 1,3 lần với tầng trệt khi Nhà nước chỉ định nhà đầu tư.",
+      "why_it_matters": "Một nguồn dự án tái thiết lớn ở TP HCM giai đoạn 2027–2030 — cơ hội cho nhà thầu, nhà cung cấp vật liệu phá dỡ/xây mới.",
+      "tags": [
+        "chung cư cũ",
+        "TP HCM",
+        "tái thiết",
+        "bồi thường"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": "n-20261031-19-kcn-tien-thue-dat",
+      "title": "Tiền thuê đất khu công nghiệp có nơi tăng hơn 1.000%",
+      "title_vi": "Tiền thuê đất khu công nghiệp có nơi tăng hơn 1.000% khi sang chu kỳ mới; có doanh nghiệp phải giảm khoảng 30% quy mô dự án",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử"
+      },
+      "url": "https://vnexpress.net/tien-thue-dat-khu-cong-nghiep-co-noi-tang-hon-1-000-5138804.html",
+      "published": "2026-10-30T16:22:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Tại tọa đàm bất động sản công nghiệp ngày 29/10, đại diện KCN Cát Lái nói có trường hợp tiền thuê đất chu kỳ mới tăng hơn 1.000%, gây áp lực cho cả chủ đầu tư hạ tầng và doanh nghiệp thuê lại. Phó chủ tịch Hiệp hội BĐS cho biết có doanh nghiệp phải giảm khoảng 30% quy mô dự án vì tiền sử dụng đất quá cao; doanh nghiệp còn chịu thêm chi phí hạ tầng xanh (xử lý, tái sử dụng nước).",
+      "why_it_matters": "Chi phí đất tăng đẩy giá thuê nhà xưởng — ảnh hưởng chi phí kho bãi và lựa chọn địa điểm kho vật tư.",
+      "tags": [
+        "khu công nghiệp",
+        "tiền thuê đất",
+        "hạ tầng xanh",
+        "chi phí"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Đọc toàn bộ qua WebFetch (curl hết thời gian chờ).",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": "n-20261031-20-ma-dinh-danh-bds",
+      "title": "Xây dựng mã định danh điện tử bất động sản nhằm hạn chế gian lận, đầu cơ, trục lợi",
+      "title_vi": "Bộ trưởng Xây dựng: sẽ có mã định danh điện tử cho từng bất động sản; hệ thống dữ liệu đã ghi 66.302 giao dịch, 816 dự án",
+      "source": {
+        "name": "CafeF",
+        "kind": "báo điện tử"
+      },
+      "url": "https://cafef.vn/xay-dung-ma-dinh-danh-dien-tu-bat-dong-san-nham-han-che-gian-lan-dau-co-truc-loi-188261030144833014.chn",
+      "published": "2026-10-30T15:48:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Giải trình về dự án Luật Kinh doanh BĐS (sửa đổi) sáng 30/10, Bộ trưởng Trần Hồng Minh nói dự thảo quy định mã định danh điện tử cho các loại BĐS, kết nối dữ liệu đất đai, thuế, dân cư để hạn chế gian lận, đầu cơ. Hệ thống dữ liệu nhà ở đã có 12.200 tài khoản, ghi 66.302 giao dịch, 816 dự án và 18.106 chứng chỉ môi giới; dự thảo yêu cầu chủ đầu tư có 15% vốn và khoản cọc 5% được ngân hàng bảo lãnh.",
+      "why_it_matters": "Minh bạch dữ liệu dự án giúp kiểm tra tư cách pháp lý của chủ đầu tư/dự án đối tác dễ hơn.",
+      "tags": [
+        "luật kinh doanh BĐS",
+        "mã định danh",
+        "dữ liệu",
+        "Bộ Xây dựng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": "n-20261031-21-gia-thep-3010",
+      "title": "Giá thép hôm nay 30/10/2026: Quặng sắt lập đỉnh gần hai tuần",
+      "title_vi": "Giá thép 30/10: Hòa Phát CB240 14.920đ/kg, D10 CB300 14.210đ/kg (miền Bắc); quặng sắt Đại Liên tăng lên 682 NDT/tấn",
+      "source": {
+        "name": "Doanh nghiệp Hội nhập",
+        "kind": "báo điện tử"
+      },
+      "url": "https://doanhnghiephoinhap.vn/gia-thep-hom-nay-30102026-quang-sat-lap-dinh-gan-hai-tuan-152849.html",
+      "published": "2026-10-30T09:00:03+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Bảng giá ngày 30/10: miền Bắc Hòa Phát CB240 14.920đ/kg, D10 CB300 14.210đ/kg; Việt Đức 14.650/13.950đ; miền Nam Hòa Phát D10 CB300 14.720đ/kg. Trên sàn Đại Liên, quặng sắt kỳ hạn tháng 1/2027 tăng 2,4% lên 682 NDT/tấn do lò cao TQ chạy lại sau bảo dưỡng; Hà Bắc siết sản xuất vì môi trường là lực cản.",
+      "why_it_matters": "Quặng sắt đi lên sau đợt tăng giá thép 19/10 — nên chốt giá thép cho các gói đang đàm phán, theo dõi đợt điều chỉnh tiếp theo.",
+      "tags": [
+        "giá thép",
+        "Hòa Phát",
+        "quặng sắt",
+        "vật liệu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "bảng giá tổng hợp",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31",
+      "note": "Bảng giá tổng hợp của báo, chưa gồm VAT theo thông lệ — kiểm tra với đại lý trước khi dùng."
+    },
+    {
+      "id": "n-20261031-22-scg-binh-minh-robot",
+      "title": "Ông lớn Thái Lan hé lộ nhà máy đặc biệt tại Việt Nam: 1 người dùng iPad quản lý 5 dây chuyền, hơn 100 robot hoạt động",
+      "title_vi": "SCG hé lộ nhà máy Nhựa Bình Minh: hơn 100 robot, 1 người dùng iPad quản lý 5 dây chuyền, tiết kiệm khoảng 10 tỷ đồng/năm",
+      "source": {
+        "name": "CafeF",
+        "kind": "báo điện tử"
+      },
+      "url": "https://cafef.vn/ong-lon-thai-lan-he-lo-nha-may-dac-biet-tai-viet-nam-1-nguoi-dung-ipad-quan-ly-5-day-chuyen-hon-100-robot-hoat-dong-doanh-thu-9-thang-4240-ty-dong-188261030230115146.chn",
+      "published": "2026-10-31T00:03:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "SCG giới thiệu nhà máy của Nhựa Bình Minh (ống nhựa xây dựng) với hơn 100 robot 3 trục; một nhân viên dùng iPad giám sát 5 dây chuyền. Tự động hóa giúp tiết kiệm khoảng 10 tỷ đồng mỗi năm; doanh thu 9 tháng khoảng 4.240 tỷ đồng.",
+      "why_it_matters": "Nhà sản xuất ống nhựa – vật tư MEP lớn đang tự động hóa mạnh — có thể ổn định giá/chất lượng; nên cập nhật năng lực khi chọn nhà cung cấp ống.",
+      "tags": [
+        "Nhựa Bình Minh",
+        "SCG",
+        "tự động hóa",
+        "vật tư MEP"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": "n-20261031-23-thu-phi-tui-nilon",
+      "title": "Đề xuất thu phí túi nilon, cốc nhựa thay vì cấm ngay năm nay",
+      "title_vi": "Bộ NN&MT đề xuất không cấm ngay nhựa dùng một lần mà thu phí; lùi mốc dừng sản xuất túi nilon mỏng tới 2031",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử"
+      },
+      "url": "https://vnexpress.net/de-xuat-thu-phi-tui-nilon-coc-nhua-thay-vi-cam-ngay-nam-nay-5138860.html",
+      "published": "2026-10-31",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Dự thảo nghị định hướng dẫn Luật Bảo vệ môi trường đề xuất trung tâm thương mại, siêu thị, khách sạn, khu du lịch không cung cấp miễn phí túi nilon, đồ nhựa một lần thay vì cấm ngay. Mốc dừng sản xuất, nhập khẩu ống hút, dao, thìa, hộp xốp và túi nilon mỏng đề xuất lùi tới 2031; bao bì nhựa cần chứa 10% vật liệu tái chế, bao bì giấy 20%.",
+      "why_it_matters": "Yêu cầu tỷ lệ tái chế trong bao bì sẽ ảnh hưởng đặc tả bao bì vật tư và chi phí đóng gói của nhà cung cấp.",
+      "tags": [
+        "nhựa một lần",
+        "bao bì",
+        "môi trường",
+        "dự thảo"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-10-31",
+      "note": "Trang ghi ngày 31/10, giờ đăng không rõ (meta có 00:00 và 07:05)."
+    }
+  ],
+  "unreachable": [
+    {
+      "source": "Supply Chain Dive / Construction Dive (curl)",
+      "status": "HTTP 403 khi tải bằng curl",
+      "impact": "Đọc đầy đủ qua WebFetch."
+    },
+    {
+      "source": "VnExpress (một số bài qua curl)",
+      "status": "Hết thời gian chờ (mã 000) hoặc thân bài lẫn mã JavaScript",
+      "impact": "Đọc lại bằng cách khác/WebFetch; bỏ các bài TOD và ‘cấm lướt sóng hợp đồng’ vì chưa đọc xong."
+    },
+    {
+      "source": "ENR (RSS)",
+      "status": "HTTP 403",
+      "impact": "Bỏ qua hôm nay."
+    },
+    {
+      "source": "Trang Sở Xây dựng Vũ Hán (kế hoạch chuỗi ngành xây dựng thông minh 2026–2028)",
+      "status": "Đã đọc nhưng không lưu được đường dẫn gốc chính xác",
+      "impact": "Không đưa vào để tránh dẫn sai đường dẫn."
+    },
+    {
+      "source": "Supply Chain Dive (Kroger direct sourcing)",
+      "status": "HTTP 403 khi tải bằng curl; chưa đọc lại",
+      "impact": "Bỏ qua."
+    }
+  ]
+}
