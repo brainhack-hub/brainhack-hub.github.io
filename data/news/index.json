@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31",
-  "latest": "2026-10-31",
+  "updated": "2026-11-01",
+  "latest": "2026-11-01",
   "topics": [
     {
       "id": "ai_xd",
@@ -64,6 +64,18 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-11-01",
+      "file": "2026-11-01.json",
+      "headline": "Đọc báo 1/11/2026: AI ở công trường Hàn và hồ sơ thầu, Hồ Bắc ký 73 tỷ tệ ở hội chợ xây dựng thông minh, cao tốc miền Tây thiếu đá, chung cư giảm giá",
+      "item_count": 21,
+      "topics": {
+        "ai_xd": 9,
+        "chuoi_cung_ung": 5,
+        "cong_nghe": 3,
+        "vn": 4
+      }
+    },
     {
       "date": "2026-10-31",
       "file": "2026-10-31.json",

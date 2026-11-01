@@ -1,0 +1,658 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T07:32:00+07:00",
+  "headline": "Đọc báo 1/11/2026: AI ở công trường Hàn và hồ sơ thầu, Hồ Bắc ký 73 tỷ tệ ở hội chợ xây dựng thông minh, cao tốc miền Tây thiếu đá, chung cư giảm giá",
+  "digest": [
+    {
+      "title": "AI xây dựng: từ camera an toàn sang hồ sơ, hợp đồng, dữ liệu BIM",
+      "text": "Daewoo E&C phiên dịch 16 ngôn ngữ và cắt hơn 90% thời gian hồ sơ chất lượng; IPARK dùng drone + BIM; Chaos mua Vyssuals để theo dõi khối lượng–chi phí ngay trong mô hình; reebuild gọi 3 triệu euro cho AI xử lý hóa đơn. Aju Press nhận xét Hàn vẫn chủ yếu dùng AI cho camera an toàn.",
+      "item_ids": [
+        "n-20261101-01-daewoo-ai-cong-truong",
+        "n-20261101-02-ipark-ai-dx",
+        "n-20261101-04-chaos-vyssuals",
+        "n-20261101-05-reebuild-seed",
+        "n-20261101-09-ajupress-ai-han-vs-quoc-te"
+      ]
+    },
+    {
+      "title": "TQ biến xây dựng thông minh thành chuỗi ngành có đơn hàng",
+      "text": "Hội chợ Vũ Hán bế mạc với khoảng 73 tỷ tệ ký kết; Hồ Bắc ra bộ chỉ số 52 tiêu chí và có 68 doanh nghiệp thí điểm; bếp–vệ sinh lắp ghép xong trong 48 giờ.",
+      "item_ids": [
+        "n-20261101-06-wuhan-zhibohui-be-mac",
+        "n-20261101-07-hubei-ke-hoach-3-nam",
+        "n-20261101-08-yipin-haofang"
+      ]
+    },
+    {
+      "title": "Chuỗi cung ứng: mua trực tiếp, RFID và chip nhớ đắt",
+      "text": "Kroger nâng tỷ trọng mua trực tiếp lên hơn 10%; UPS nhắm 4 tỷ kiện RFID; chip nhớ bị AI hút làm giá máy chơi game tăng mạnh.",
+      "item_ids": [
+        "n-20261101-10-ups-rfid",
+        "n-20261101-11-kroger-direct-sourcing",
+        "n-20261101-12-chip-console"
+      ]
+    },
+    {
+      "title": "Vật liệu VN: miền Tây thiếu đá, TP HCM quy hoạch 10 đầu mối logistics",
+      "text": "Cao tốc qua Cần Thơ thiếu khoảng 2,6 triệu m³ đá, nhà thầu nói giá vật liệu–vận chuyển vượt dự toán; chi phí logistics vẫn khoảng 16–17% GDP.",
+      "item_ids": [
+        "n-20261101-14-cao-toc-thieu-da",
+        "n-20261101-13-tphcm-10-dau-moi-logistics"
+      ]
+    },
+    {
+      "title": "BĐS VN: giá chung cư giảm, chi phí đất có thể tăng",
+      "text": "Chung cư thứ cấp Hà Nội giảm 5% so với quý trước; VARS cảnh báo hệ số K làm tiền đất tăng 2–2,6 lần; NOXH từ 880 triệu; giá điện giảm 2% từ 1/11.",
+      "item_ids": [
+        "n-20261101-20-chung-cu-giam-gia",
+        "n-20261101-18-vars-he-so-k",
+        "n-20261101-19-ha-noi-noxh-880-trieu",
+        "n-20261101-21-gia-dien-giam-2"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "n-20261101-01-daewoo-ai-cong-truong",
+      "title": "From translation to hazard detection, Daewoo E&C puts AI to work",
+      "title_vi": "Daewoo E&C đưa AI vào công trường: phiên dịch 16 ngôn ngữ cho thợ nước ngoài, ‘Q-Box’ giảm hơn 90% thời gian lập hồ sơ chất lượng",
+      "source": {
+        "name": "The Korea Herald",
+        "kind": "báo"
+      },
+      "url": "https://www.koreaherald.com/article/10914731",
+      "published": "2026-10-26T11:32:10+09:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "KR",
+      "summary_vi": "Daewoo E&C kể các ứng dụng AI đang chạy ở công trường: ứng dụng phiên dịch 16 ngôn ngữ cho công nhân nước ngoài với độ chính xác nhận dạng giọng nói 94,6%; hệ thống ‘Q-Box’ tự lập hồ sơ quản lý chất lượng, cắt hơn 90% thời gian giấy tờ; ‘Barodap AI’ rà soát hợp đồng. Chương trình đổi mới mở của hãng nhận 164 đề xuất, chọn 9 đội vào vòng cuối.",
+      "why_it_matters": "AI rà soát hợp đồng và tự động hóa hồ sơ chất lượng là hai việc gần nhất với phòng đấu thầu–hợp đồng; con số 90% là của doanh nghiệp tự nêu.",
+      "tags": [
+        "Daewoo E&C",
+        "phiên dịch",
+        "hồ sơ chất lượng",
+        "hợp đồng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01",
+      "note": "Các con số hiệu quả do doanh nghiệp tự nêu."
+    },
+    {
+      "id": "n-20261101-02-ipark-ai-dx",
+      "title": "\"AI는 통역, 드론은 점검\"…IPARK현대산업개발, 건설현장 AI·DX 전환",
+      "title_vi": "IPARK HDC: AI phiên dịch qua QR trong buổi họp an toàn, định vị công nhân bằng điện thoại, drone + mô hình BIM số hóa để kiểm tra",
+      "source": {
+        "name": "뉴시스 (Newsis)",
+        "kind": "hãng tin"
+      },
+      "url": "https://www.newsis.com/view/NISX20261030_0003848685",
+      "published": "2026-10-30T16:23:47+09:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "KR",
+      "summary_vi": "IPARK Hyundai Development giới thiệu loạt công cụ số ở công trường. Buổi họp an toàn đầu ca (TBM) dùng mã QR để công nhân nước ngoài nghe dịch đa ngôn ngữ, còn vị trí người lao động được định vị bằng Bluetooth/GPS trên điện thoại. Drone của Meissa kết hợp mô hình BIM tạo ‘bản sao số’ để đối chiếu tiến độ và phát hiện người không đội mũ bảo hộ; hãng cũng đo tiếng ồn sàn cho toàn bộ căn hộ.",
+      "why_it_matters": "Mô hình ‘drone + BIM’ để đối chiếu tiến độ có thể áp dụng cho kiểm tra khối lượng nghiệm thu thanh toán với nhà thầu.",
+      "tags": [
+        "IPARK",
+        "drone",
+        "BIM",
+        "an toàn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01"
+    },
+    {
+      "id": "n-20261101-03-autodesk-idc-forma",
+      "title": "Autodesk named Leader by IDC MarketScape",
+      "title_vi": "Autodesk được IDC xếp nhóm dẫn đầu phần mềm quản lý xây dựng; nhắc các tính năng AI như ‘Forma Bid’ và agent nhật ký công trường",
+      "source": {
+        "name": "Autodesk News",
+        "kind": "blog nhà cung cấp"
+      },
+      "url": "https://adsknews.autodesk.com/en/news/autodesk-named-as-a-leader-in-construction-management-software-idc/",
+      "published": "2026-10-28T14:57:39Z",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Autodesk thông báo được IDC MarketScape xếp vào nhóm ‘Leader’ của phần mềm quản lý xây dựng toàn cầu. Bài nhấn mạnh nền tảng dữ liệu chung từ thiết kế đến thi công và các tính năng AI mới, trong đó có công cụ hỗ trợ đấu thầu (Forma Bid) và agent tự lập nhật ký công trường.",
+      "why_it_matters": "Đây là thông cáo của chính hãng — tham khảo khi so sánh phần mềm quản lý dự án/đấu thầu, nhưng cần đọc báo cáo IDC đầy đủ và thử nghiệm thực tế.",
+      "tags": [
+        "Autodesk",
+        "IDC",
+        "đấu thầu",
+        "quản lý dự án"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01"
+    },
+    {
+      "id": "n-20261101-04-chaos-vyssuals",
+      "title": "Chaos continues to expand Enscape beyond arch viz",
+      "title_vi": "Chaos mua Vyssuals: đưa bảng điều khiển dữ liệu BIM trực tiếp (khối lượng, chi phí, carbon) vào Enscape",
+      "source": {
+        "name": "AEC Magazine",
+        "kind": "tạp chí chuyên ngành"
+      },
+      "url": "https://aecmag.com/visualisation/chaos-continues-to-expand-enscape-beyond-arch-viz/",
+      "published": "2026-10-28T11:02:39Z",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Chaos (hãng phần mềm diễn họa) mua Vyssuals, nền tảng trực quan hóa dữ liệu BIM kết nối thẳng với Revit và IFC. Vyssuals cập nhật theo mô hình khi thiết kế đổi, cho theo dõi khối lượng, chi phí, số phòng và carbon hàm chứa, so sánh phương án và báo thiếu tham số BIM trước khi thành RFI. AEC Magazine nhận xét AI render đang làm giảm giá trị của diễn họa truyền thống nên các hãng phải thêm phần dữ liệu.",
+      "why_it_matters": "Theo dõi khối lượng–chi phí ngay từ mô hình khi thiết kế còn thay đổi giúp đội dự toán/đấu thầu thấy sớm tác động của mỗi phương án.",
+      "tags": [
+        "Chaos",
+        "Enscape",
+        "BIM",
+        "dữ liệu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01"
+    },
+    {
+      "id": "n-20261101-05-reebuild-seed",
+      "title": "reebuild raises capital for AI operating system build-out",
+      "title_vi": "Startup Áo reebuild gọi vốn hạt giống 3 triệu euro cho ‘hệ điều hành AI’ quản lý giấy tờ thi công; tự nêu xử lý hóa đơn từ 20 xuống 3 phút",
+      "source": {
+        "name": "AI PropTech News",
+        "kind": "trang tin chuyên ngành"
+      },
+      "url": "https://aiproptechnews.com/article/reebuild-raises-capital-for-ai-operating-system-build-out/",
+      "published": "2026-10-29T05:00:00Z",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "reebuild (Vienna) gọi vốn hạt giống 3 triệu euro, do Fortino dẫn. Nền tảng dùng AI đọc và phân loại tài liệu công trình (hóa đơn, phiếu giao hàng, biên bản); hãng nói đã xử lý khoảng 345.000 tài liệu cho 2.350 người dùng, rút thời gian xử lý một hóa đơn từ 20 xuống 3 phút, và có thể giúp giảm chi phí mua sắm tới 20%. Công ty có khoảng 25 nhân sự.",
+      "why_it_matters": "Đối chiếu hóa đơn – phiếu giao hàng – đơn đặt hàng là việc tốn công của bộ phận mua sắm; nhưng mức ‘giảm 20% chi phí mua sắm’ là hãng tự nêu.",
+      "tags": [
+        "reebuild",
+        "hóa đơn",
+        "mua sắm",
+        "gọi vốn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01",
+      "note": "Số liệu hiệu quả do công ty tự nêu."
+    },
+    {
+      "id": "n-20261101-06-wuhan-zhibohui-be-mac",
+      "title": "“智”启新程 “链”接未来——2026国际（武汉）智能建造产业博览会在汉落幕",
+      "title_vi": "Hội chợ xây dựng thông minh Vũ Hán 2026 bế mạc: hơn 230 đơn vị, 1.400 thành quả, ký kết 73 tỷ tệ",
+      "source": {
+        "name": "中国日报网 (China Daily – Hồ Bắc)",
+        "kind": "báo"
+      },
+      "url": "https://hb.chinadaily.com.cn/a/202610/31/WS6ae57425e4b09a165c792bad.html",
+      "published": "2026-10-31T12:52:53+08:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Hội chợ quốc tế công nghiệp xây dựng thông minh Vũ Hán 2026 bế mạc với hơn 230 đơn vị tham gia, trưng bày hơn 1.400 thành quả, đón khoảng 5,2 vạn lượt khách. Ban tổ chức công bố ký kết khoảng 73 tỷ tệ; công bố nhu cầu dự án khoảng 2,18 nghìn tỷ tệ và nhu cầu mua sắm của doanh nghiệp nhà nước khoảng 3.000 tỷ tệ.",
+      "why_it_matters": "Hồ Bắc đang biến ‘xây dựng thông minh’ thành chuỗi ngành có đơn hàng thật — nguồn tìm nhà cung cấp thiết bị/robot xây dựng TQ.",
+      "tags": [
+        "Vũ Hán",
+        "xây dựng thông minh",
+        "hội chợ",
+        "TQ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01",
+      "note": "Số liệu ký kết là của ban tổ chức."
+    },
+    {
+      "id": "n-20261101-07-hubei-ke-hoach-3-nam",
+      "title": "湖北发布智能建造产业发展三年行动计划",
+      "title_vi": "Hồ Bắc công bố kế hoạch 3 năm phát triển ngành xây dựng thông minh và bộ chỉ số 4 khâu (có chuỗi cung ứng), 16 chiều, 52 chỉ tiêu",
+      "source": {
+        "name": "Sở Nhà ở & Xây dựng Hồ Bắc (đăng lại bài Tân Hoa xã)",
+        "kind": "trang cơ quan nhà nước"
+      },
+      "url": "https://zjt.hubei.gov.cn/bmdt/dtyw/mtjj/202610/t20261028_6042077.shtml",
+      "published": "2026-10-27T21:51:21+08:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên bài gốc của Tân Hoa xã (hb.news.cn); trang Sở đăng lại ngày 28/10",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Tại lễ khai mạc hội chợ xây dựng thông minh Vũ Hán (27/10), Hồ Bắc công bố kế hoạch hành động 3 năm phát triển ngành xây dựng thông minh, đẩy BIM, robot xây dựng, bản sao số vào toàn bộ quy trình. Kèm theo là ‘chỉ số phát triển xây dựng thông minh’ gồm 4 khâu (thiết kế, thi công, vận hành, chuỗi cung ứng), 16 chiều, 52 chỉ tiêu. Tỉnh đã có 68 doanh nghiệp và hơn 250 dự án thí điểm; hội chợ có hơn 200 doanh nghiệp tham gia.",
+      "why_it_matters": "Bộ chỉ số đánh giá mức độ ‘thông minh’ của dự án là mẫu tham khảo nếu muốn đo chuyển đổi số trong doanh nghiệp xây dựng.",
+      "tags": [
+        "Hồ Bắc",
+        "chính sách",
+        "chỉ số",
+        "xây dựng thông minh"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Đọc toàn văn bài gốc Tân Hoa xã qua WebFetch (curl bị lỗi 500) và bản đăng lại trên trang Sở; hai bản trùng nội dung.",
+      "accessed": "2026-11-01",
+      "note": "Bài gốc: http://hb.news.cn/20261027/1783af3effb3464e94abdeefe4116c12/c.html (chỉ có http)."
+    },
+    {
+      "id": "n-20261101-08-yipin-haofang",
+      "title": "中建壹品在汉发布“壹品好房”产品体系，以“高优雅智”回应居住新需求",
+      "title_vi": "CSCEC 3 ra dòng sản phẩm nhà ‘壹品好房’: hơn 6.000 lượt phỏng vấn người dùng, hơn 30 dây chuyền sản xuất thông minh, mức tích hợp lắp ghép 80%",
+      "source": {
+        "name": "凤凰网 (大风号)",
+        "kind": "báo điện tử"
+      },
+      "url": "https://feng.ifeng.com/c/8xZK2HXyLJh",
+      "published": "2026-10-27T18:27:51+08:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "中建壹品 (nền tảng đầu tư BĐS của Cục 3 Tổng công ty Xây dựng TQ) công bố hệ sản phẩm nhà ‘壹品好房’ tại hội chợ Vũ Hán, xây trên hơn 6.000 lượt phỏng vấn người dùng về lỗi thấm, nứt, cách âm. Phần thi công dùng hệ ‘xây dựng thông minh 3.0’ với hơn 30 dây chuyền sản xuất, đưa đổ kết cấu, đi ống và lắp nội thất vào nhà máy; mức tích hợp lắp ghép 80%. Bài Tân Hoa xã ngày 30/10 bổ sung: bếp và nhà vệ sinh lắp ghép có thể thay mới nhanh nhất trong 48 giờ.",
+      "why_it_matters": "Khi nhà phát triển đưa phần lớn hạng mục vào nhà máy, gói mua sắm chuyển từ vật liệu rời sang module trọn gói — cần năng lực đánh giá nhà cung cấp module.",
+      "tags": [
+        "lắp ghép",
+        "nhà ở",
+        "Vũ Hán",
+        "module"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01",
+      "note": "Thông tin chủ yếu do doanh nghiệp giới thiệu; chi tiết 48 giờ lấy từ Tân Hoa xã 30/10 (http://hb.news.cn/20261030/ecf00830464f4e4a8bab455448386c8a/c.html, đọc qua WebFetch)."
+    },
+    {
+      "id": "n-20261101-09-ajupress-ai-han-vs-quoc-te",
+      "title": "Domestic Construction AI Focuses on Site Observation, While Overseas Expands to Process Management",
+      "title_vi": "Aju Press: AI xây dựng ở Hàn chủ yếu dừng ở camera an toàn, trong khi Mỹ–Nhật dùng AI cho cả tiến độ và quy trình",
+      "source": {
+        "name": "Aju Press",
+        "kind": "báo"
+      },
+      "url": "https://www.ajupress.com/view/20261024134870279",
+      "published": "2026-10-24T13:48:00+09:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "KR",
+      "summary_vi": "Bài tổng hợp: GS E&C dùng ứng dụng phiên dịch, robot bốn chân và phân tích video; Samsung C&T dùng robot thi công sàn, robot bắn neo, xe nâng tự hành; Hyundai E&C dùng drone và cảnh báo quá tải cho máy xúc. Viện nghiên cứu ngành xây dựng Hàn nhận định AI ở Hàn còn ở mức từng công nghệ riêng lẻ, chủ yếu camera an toàn; trong khi Mỹ (Bechtel, Turner) dùng AI tối ưu tiến độ trên môi trường dữ liệu chung (CDE).",
+      "why_it_matters": "Bài học cho doanh nghiệp VN: chọn AI theo quy trình (tiến độ, mua sắm) và dữ liệu chung, không chỉ mua thiết bị riêng lẻ.",
+      "tags": [
+        "Hàn Quốc",
+        "CDE",
+        "robot",
+        "an toàn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01"
+    },
+    {
+      "id": "n-20261101-10-ups-rfid",
+      "title": "UPS aims to double RFID-labeled volume from customer locations",
+      "title_vi": "UPS muốn gấp đôi lượng kiện gắn RFID lấy từ kho khách hàng; mục tiêu 4 tỷ kiện RFID đến cuối 2026",
+      "source": {
+        "name": "Supply Chain Dive",
+        "kind": "trang tin chuyên ngành"
+      },
+      "url": "https://www.supplychaindive.com/news/ups-aims-to-double-rfid-labeled-volume-from-customer-locations/872946/",
+      "published": "2026-10-30",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "UPS cho biết đã gắn nhãn RFID tại 315 địa điểm của khách hàng, nâng lượng kiện RFID lấy từ khách lên khoảng 3 triệu kiện/ngày (từ 2,2 triệu) và nhắm 6 triệu vào năm 2027. Hãng đặt mục tiêu 4 tỷ kiện có RFID đến cuối 2026 và khoảng 70% khối lượng được xử lý tự động trong quý IV.",
+      "why_it_matters": "RFID từ đầu nguồn giúp theo dõi vật tư theo thời gian thực — mô hình đáng tham khảo cho kho vật tư dự án.",
+      "tags": [
+        "UPS",
+        "RFID",
+        "logistics"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Curl bị chặn (HTTP 403/500); đọc toàn bộ chính văn qua WebFetch.",
+      "accessed": "2026-11-01"
+    },
+    {
+      "id": "n-20261101-11-kroger-direct-sourcing",
+      "title": "Kroger accelerates direct sourcing efforts for better cost control, visibility",
+      "title_vi": "Kroger tăng mua trực tiếp từ nhà sản xuất: từ dưới 1% lên hơn 10%, mở trung tâm thu mua châu Á năm 2027",
+      "source": {
+        "name": "Supply Chain Dive",
+        "kind": "trang tin chuyên ngành"
+      },
+      "url": "https://www.supplychaindive.com/news/kroger-accelerates-direct-sourcing-efforts-for-better-cost-control-visibil/872931/",
+      "published": "2026-10-29",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Chuỗi siêu thị Kroger cho biết tỷ trọng hàng mua trực tiếp từ nhà sản xuất (không qua trung gian) đã tăng từ dưới 1% lên hơn 10%; ví dụ khoảng 40% nho nhập từ Peru được mua trực tiếp. Hãng dự kiến mở trung tâm thu mua ở châu Á vào năm 2027 để kiểm soát chi phí và nhìn rõ chuỗi cung ứng.",
+      "why_it_matters": "Mua trực tiếp nhà máy (bỏ đại lý) là hướng mà phòng mua sắm vật liệu có thể áp dụng cho hạng mục khối lượng lớn — cần năng lực QA/logistics riêng.",
+      "tags": [
+        "Kroger",
+        "mua trực tiếp",
+        "sourcing"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Curl bị chặn (HTTP 403/500); đọc toàn bộ chính văn qua WebFetch.",
+      "accessed": "2026-11-01"
+    },
+    {
+      "id": "n-20261101-12-chip-console",
+      "title": "Chip Crisis Puts Next Generation of Gaming Consoles to the Test",
+      "title_vi": "Khủng hoảng chip nhớ đẩy giá máy chơi game: dự phóng nội bộ Project Helix 1.200–1.800 USD, Xbox Series X lên 800 USD",
+      "source": {
+        "name": "SupplyChainBrain",
+        "kind": "trang tin chuyên ngành"
+      },
+      "url": "https://www.supplychainbrain.com/articles/45117-chip-crisis-puts-next-generation-of-gaming-consoles-to-the-test",
+      "published": "2026-10-30",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "SupplyChainBrain viết giá chip nhớ tăng mạnh vì nhu cầu AI đang thử thách thế hệ máy chơi game mới. Một dự phóng nội bộ cho máy ‘Project Helix’ ở mức 1.200–1.800 USD. Xbox Series X đã tăng giá từ 500 lên 800 USD.",
+      "why_it_matters": "Chip nhớ bị AI ‘hút’ làm tăng giá thiết bị điện tử — ảnh hưởng ngân sách thiết bị BMS, camera, máy tính cho dự án.",
+      "tags": [
+        "chip nhớ",
+        "giá thiết bị",
+        "AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01",
+      "note": "Con số dự phóng là thông tin nội bộ được báo dẫn lại."
+    },
+    {
+      "id": "n-20261101-13-tphcm-10-dau-moi-logistics",
+      "title": "TP HCM định hình mạng lưới trung tâm logistics tại 10 đầu mối lớn",
+      "title_vi": "TP HCM định hình mạng lưới trung tâm logistics tại 10 đầu mối lớn",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo"
+      },
+      "url": "https://vnexpress.net/tp-hcm-dinh-hinh-mang-luoi-trung-tam-logistics-tai-10-dau-moi-lon-5139061.html",
+      "published": "2026-10-31T11:11:14+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "TP HCM định hướng mạng lưới trung tâm logistics tại 10 đầu mối lớn. Thành phố có khoảng 15.300 doanh nghiệp logistics, chiếm 60–70% cả nước; chi phí logistics vẫn ở mức khoảng 16–17% GDP.",
+      "why_it_matters": "Vị trí các trung tâm logistics sẽ ảnh hưởng chi phí vận chuyển vật liệu và lựa chọn kho trung chuyển cho dự án phía Nam.",
+      "tags": [
+        "TP HCM",
+        "logistics",
+        "hạ tầng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01"
+    },
+    {
+      "id": "n-20261101-14-cao-toc-thieu-da",
+      "title": "Cao tốc Châu Đốc - Cần Thơ - Sóc Trăng qua Cần Thơ thiếu nguồn hơn 2,6 triệu m³ đá",
+      "title_vi": "Cao tốc Châu Đốc – Cần Thơ – Sóc Trăng đoạn qua Cần Thơ thiếu hơn 2,6 triệu m³ đá; nhà thầu nói giá vật liệu, vận chuyển vượt dự toán",
+      "source": {
+        "name": "CafeF",
+        "kind": "báo điện tử"
+      },
+      "url": "https://cafef.vn/cao-toc-chau-doc-can-tho-soc-trang-qua-can-tho-thieu-nguon-hon-26-trieu-m-da-188261031200627831.chn",
+      "published": "2026-10-31T20:06:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "Dự án thành phần qua Cần Thơ còn thiếu khoảng 2,617 triệu m³ đá. Đã giải ngân 16.952/19.203 tỷ đồng (88,28%), nhưng sản lượng năm 2026 mới đạt 46,36% kế hoạch. Nhu cầu cát khoảng 16,64 triệu m³, đã cấp 11,89 triệu m³. Nhà thầu phản ánh giá vật liệu và chi phí vận chuyển cao hơn dự toán.",
+      "why_it_matters": "Thiếu đá, cát ở miền Tây đẩy giá vật liệu và rủi ro trượt giá — cần điều khoản điều chỉnh giá trong hợp đồng và chủ động nguồn cung.",
+      "tags": [
+        "vật liệu",
+        "đá",
+        "cát",
+        "cao tốc",
+        "miền Tây"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01"
+    },
+    {
+      "id": "n-20261101-15-tiktok-super-app",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "title_vi": "TikTok tiến tới ‘siêu ứng dụng’: ra cẩm nang nhà hàng ‘Must Eat’, đang phát triển chuyển tiền qua tin nhắn",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "published": "2026-10-31T15:41:57Z",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "TikTok ra tính năng ‘Must Eat’ — cẩm nang nhà hàng tổng hợp từ hơn 40 triệu bài đăng và bình luận, lọc theo thành phố, món, giá, đánh giá. Theo Bloomberg, TikTok còn đang phát triển chuyển tiền qua tin nhắn bằng TikTok Pay (đã có ở Đông Nam Á cho TikTok Shop). TechCrunch nhận định TikTok đang đi theo mô hình siêu ứng dụng kiểu WeChat.",
+      "why_it_matters": "Với các ý tưởng bán hàng nhỏ ở VN, TikTok ngày càng là kênh khám phá + thanh toán trong một — nên tính kênh này ngay từ đầu.",
+      "tags": [
+        "TikTok",
+        "super app",
+        "thanh toán"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01"
+    },
+    {
+      "id": "n-20261101-16-openai-ha-muc-goi-von",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "title_vi": "Theo FT, OpenAI hạ mục tiêu vòng gọi vốn xuống 20 tỷ USD; WSJ nói mới chốt được 11 tỷ",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "published": "2026-10-31T16:12:55Z",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "TechCrunch dẫn Financial Times: OpenAI hạ mục tiêu vòng gọi vốn mới từ 30 tỷ xuống 20 tỷ USD, do nhóm nhà đầu tư UAE dẫn; WSJ cho biết đã chốt khoảng 11 tỷ và một số nhà đầu tư lớn phản ứng ‘nhạt’. Bối cảnh là nhà đầu tư lo ngại chi tiêu hạ tầng AI và cổ phiếu công nghệ bị bán mạnh.",
+      "why_it_matters": "Tín hiệu dòng vốn vào AI chậm lại — giá dịch vụ AI có thể biến động; nên tránh phụ thuộc một nhà cung cấp.",
+      "tags": [
+        "OpenAI",
+        "gọi vốn",
+        "AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01",
+      "note": "Thông tin từ báo khác (FT, WSJ), OpenAI chưa bình luận."
+    },
+    {
+      "id": "n-20261101-17-apple-ternus-ai",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "title_vi": "CEO Apple John Ternus: ‘không làm AI chỉ vì AI’",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "published": "2026-10-31T21:41:00Z",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "Trả lời Wired, John Ternus — CEO Apple từ đầu tháng 9 — nói Apple chắc chắn dùng AI trong sản phẩm mới nhưng không muốn ‘làm AI chỉ vì AI’; điều quan trọng là người dùng có yêu sản phẩm không. Khi được hỏi AI agent có làm ứng dụng trở nên thừa, ông nói tạo sản phẩm là việc rất con người.",
+      "why_it_matters": "Cách nhìn ‘AI ẩn sau trải nghiệm’ là nguyên tắc tốt khi chọn ứng dụng AI cho đội: đo bằng việc được giải quyết, không bằng số tính năng AI.",
+      "tags": [
+        "Apple",
+        "AI",
+        "sản phẩm"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "ý kiến",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01"
+    },
+    {
+      "id": "n-20261101-18-vars-he-so-k",
+      "title": "VARS cảnh báo hệ số K có thể khiến chi phí đất tăng 2,6 lần",
+      "title_vi": "VARS cảnh báo hệ số K có thể khiến chi phí đất tăng 2,6 lần",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo"
+      },
+      "url": "https://vnexpress.net/vars-canh-bao-he-so-k-co-the-khien-chi-phi-dat-tang-2-6-lan-5138839.html",
+      "published": "2026-10-31T08:00:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Hội Môi giới BĐS VN (VARS) khảo sát 22 địa phương: khoảng 1/3 dùng hệ số K = 1, Hà Nội 1,45, TP HCM 1,7. VARS cảnh báo cách tính mới có thể làm tiền sử dụng đất tăng 2–2,6 lần, đẩy giá nhà.",
+      "why_it_matters": "Tiền sử dụng đất là chi phí đầu vào lớn của dự án — ảnh hưởng tổng mức đầu tư và giá bán.",
+      "tags": [
+        "hệ số K",
+        "tiền sử dụng đất",
+        "VARS"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "khảo sát/báo cáo",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01"
+    },
+    {
+      "id": "n-20261101-19-ha-noi-noxh-880-trieu",
+      "title": "Hà Nội chuẩn bị mở bán loạt nhà xã hội từ 880 triệu đồng một căn",
+      "title_vi": "Hà Nội chuẩn bị mở bán loạt nhà xã hội từ 880 triệu đồng một căn",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo"
+      },
+      "url": "https://vnexpress.net/ha-noi-chuan-bi-mo-ban-loat-nha-xa-hoi-tu-880-trieu-dong-mot-can-5139101.html",
+      "published": "2026-10-31T12:45:12+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Dự án NOXH Tiến Đạt (Thạch Thất) giá khoảng 23,5 triệu đồng/m², căn từ 880 triệu; nhận hồ sơ 2/12–31/12. Hà Nội đã khởi công 33 dự án với khoảng 30.000 căn; năm 2027 dự kiến 27 dự án, 28.696 căn.",
+      "why_it_matters": "Nguồn cung NOXH tăng tạo nhu cầu vật liệu phân khúc giá thấp và cạnh tranh với căn hộ thương mại bình dân.",
+      "tags": [
+        "nhà ở xã hội",
+        "Hà Nội",
+        "giá nhà"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01"
+    },
+    {
+      "id": "n-20261101-20-chung-cu-giam-gia",
+      "title": "Chung cư giảm giá, người mua vẫn dè dặt",
+      "title_vi": "Chung cư giảm giá, người mua vẫn dè dặt",
+      "source": {
+        "name": "CafeF",
+        "kind": "báo điện tử"
+      },
+      "url": "https://cafef.vn/chung-cu-giam-gia-nguoi-mua-van-de-dat-188261031202149232.chn",
+      "published": "2026-10-31T20:21:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Theo CBRE, giá chung cư thứ cấp ở Hà Nội khoảng 60 triệu đồng/m², giảm 5% so với quý trước và 8% so với cùng kỳ. Batdongsan ghi nhận giá thứ cấp giảm khoảng 15% từ đầu năm, sơ cấp giảm 9%; người mua vẫn chờ giá giảm thêm.",
+      "why_it_matters": "Giá bán đi xuống trong khi chi phí đất có thể tăng (hệ số K) — áp lực tối ưu chi phí xây dựng và mua sắm.",
+      "tags": [
+        "chung cư",
+        "giá nhà",
+        "CBRE",
+        "Hà Nội"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "khảo sát/báo cáo",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01"
+    },
+    {
+      "id": "n-20261101-21-gia-dien-giam-2",
+      "title": "Giá điện giảm 2% từ 1/11",
+      "title_vi": "Giá điện giảm 2% từ 1/11",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo"
+      },
+      "url": "https://baoxaydung.vn/gia-dien-giam-2-tu-1-11-192261031110958491.htm",
+      "published": "2026-10-31T21:16:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Giá bán lẻ điện bình quân giảm 2% từ 1/11, từ 2.204,07 xuống khoảng 2.159,9 đồng/kWh. Biểu giá sinh hoạt rút từ 6 bậc xuống 5 bậc; giờ cao điểm là 17h30–22h30.",
+      "why_it_matters": "Giá điện giảm nhẹ tác động chi phí vận hành công trường và sản xuất vật liệu (thép, xi măng).",
+      "tags": [
+        "giá điện",
+        "EVN",
+        "chi phí"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-01"
+    }
+  ],
+  "unreachable": [
+    {
+      "source": "Supply Chain Dive / Construction Dive (curl)",
+      "status": "HTTP 403 khi tải bằng curl",
+      "impact": "Đọc đầy đủ 2 bài qua WebFetch."
+    },
+    {
+      "source": "Tân Hoa xã Hồ Bắc (hb.news.cn, curl)",
+      "status": "HTTP 500",
+      "impact": "Đọc qua WebFetch."
+    },
+    {
+      "source": "ENR (RSS)",
+      "status": "HTTP 403",
+      "impact": "Bỏ qua hôm nay."
+    },
+    {
+      "source": "BBB (bbb.org)",
+      "status": "HTTP 403",
+      "impact": "Không dùng làm tin; chỉ trích đoạn cho ý tưởng."
+    },
+    {
+      "source": "VnEconomy (RSS)",
+      "status": "Trả về rỗng",
+      "impact": "Bỏ qua."
+    },
+    {
+      "source": "The Investor (RSS)",
+      "status": "HTTP 404",
+      "impact": "Bỏ qua."
+    },
+    {
+      "source": "BIMplus",
+      "status": "HTTP 404",
+      "impact": "Bỏ qua."
+    }
+  ]
+}

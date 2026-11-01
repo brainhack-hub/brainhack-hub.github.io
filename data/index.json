@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-31",
-  "latest": "2026-10-31",
+  "updated": "2026-11-01",
+  "latest": "2026-11-01",
   "days": [
+    {
+      "date": "2026-11-01",
+      "file": "2026-11-01.json",
+      "headline": "Xem CKTG lúc bình minh, kiểm tra boss hộ trước khi chuyển cọc, lịch 24 ngày vị Việt: TQ có ‘lợn mini’ 200 cân và lãi hãng thức ăn thú cưng giảm hơn 60%",
+      "idea_count": 8,
+      "trend_count": 7,
+      "keyword_count": 77,
+      "top": {
+        "title": "“Đi xem boss hộ” — trước khi chuyển cọc mua chó mèo online, gọi người đến tận nơi (hoặc gọi video có kịch bản) kiểm tra con vật, giấy tờ và người bán",
+        "total_score": 6.96
+      }
+    },
     {
       "date": "2026-10-31",
       "file": "2026-10-31.json",
