@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-01",
-  "latest": "2026-11-01",
+  "updated": "2026-11-02",
+  "latest": "2026-11-02",
   "days": [
+    {
+      "date": "2026-11-02",
+      "file": "2026-11-02.json",
+      "headline": "Kèo nhỏ tối nay, tour bảo tàng ‘có nghề’, bác sĩ gói AI cho văn phòng: TQ bán Token AI như thẻ nạp dịp 11/11, người trẻ chuyển sang ‘xem có nghề’ ở bảo tàng",
+      "idea_count": 8,
+      "trend_count": 6,
+      "keyword_count": 65,
+      "top": {
+        "title": "“11 giây vơ đồ” — bộ kit trò chơi mùa sale cho shop nhỏ: khách thắng mini game được vơ hàng trong 11 giây, quay video đăng TikTok",
+        "total_score": 7.04
+      }
+    },
     {
       "date": "2026-11-01",
       "file": "2026-11-01.json",

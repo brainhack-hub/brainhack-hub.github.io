@@ -1,0 +1,656 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T07:27:00+07:00",
+  "headline": "Đọc báo 2/11/2026: Bedrock gọi 600 triệu USD cho máy đào tự hành, Quảng Đông bắt nộp BIM + thẩm tra AI từ 1/11, Token AI lên kệ 11/11, TP.HCM thiếu cát, cầu Cần Thơ 2 được duyệt",
+  "digest": [
+    {
+      "title": "Vốn dồn vào robot và agent AI cho xây dựng – BĐS",
+      "text": "Bedrock Robotics gọi 600 triệu USD (định giá 4,1 tỷ USD) cho máy đào tự hành; Origin 20 triệu USD cho robot hoàn thiện nội thất (thông cáo hãng, đang thí điểm); CarbonAI 12 triệu USD cho agent AI thẩm định khoản vay BĐS thương mại.",
+      "item_ids": [
+        "n-20261102-01-bedrock-600m",
+        "n-20261102-02-origin-20m",
+        "n-20261102-07-carbonai-12m"
+      ]
+    },
+    {
+      "title": "TQ: BIM bắt buộc khi thẩm tra, AI hỗ trợ thẩm tra",
+      "text": "Quảng Đông từ 1/11 yêu cầu công trình công cộng ≥ 2 vạn m² nộp mô hình BIM khớp bản vẽ, thẩm tra kết hợp AI và người; Trùng Khánh ra quy hoạch 2026–2030 đẩy AI hỗ trợ thẩm tra bản vẽ và kho BIM; công trường điện hạt nhân Tam Áo đưa đào tạo–sát hạch an toàn lên điện thoại.",
+      "item_ids": [
+        "n-20261102-03-quang-dong-bim-tham-tra",
+        "n-20261102-04-trung-khanh-quy-hoach-xd",
+        "n-20261102-08-cgn-tham-ao-cong-truong-so"
+      ]
+    },
+    {
+      "title": "Dữ liệu công trường mới là nút thắt",
+      "text": "Khảo sát hơn 200 người lập tiến độ ở Anh (mẫu webinar, không đại diện): 30% nói khó nhất là thu thập tiến độ và chất lượng dữ liệu; bài ý kiến khuyên nhà thầu nhỏ cập nhật hồ sơ trên danh sách nhà cung cấp thay vì mua AI.",
+      "item_ids": [
+        "n-20261102-05-pbc-khao-sat-tien-do",
+        "n-20261102-06-pbc-nha-thau-nho-ai"
+      ]
+    },
+    {
+      "title": "Vật liệu VN: cát, đất đắp, đá dăm và diesel",
+      "text": "TP.HCM cần 1,85 triệu m³ cát san lấp và 3,7 triệu m³ đất đắp cho 20 dự án cuối năm; Vành đai 4 qua Bắc Ninh chậm vì giá công bố vật liệu không theo kịp thị trường; xăng giảm nhưng diesel tăng 696 đồng nên cước vận tải khó giảm.",
+      "item_ids": [
+        "n-20261102-11-tphcm-thieu-cat-dat-dap",
+        "n-20261102-12-vanh-dai-4-vat-lieu",
+        "n-20261102-13-xang-giam-cuoc-chua-giam"
+      ]
+    },
+    {
+      "title": "Hạ tầng – BĐS VN: Cần Thơ 2, Vành đai 3,5, Bắc Thăng Long",
+      "text": "Cầu Cần Thơ 2 (27.050 tỷ đồng, cầu 2 tầng đường bộ + đường sắt) được duyệt chủ trương; Hà Nội thông qua Vành đai 3,5 đoạn QL2 – Thượng Cát (13.367 tỷ đồng) và chấp thuận khu đô thị Bắc Thăng Long gần 99.800 tỷ đồng.",
+      "item_ids": [
+        "n-20261102-17-cau-can-tho-2",
+        "n-20261102-18-vanh-dai-3-5-ha-noi",
+        "n-20261102-19-bac-thang-long-urban-city"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "n-20261102-01-bedrock-600m",
+      "title": "Bedrock Robotics digs up $600M in new funding",
+      "title_vi": "Bedrock Robotics gọi 600 triệu USD vòng C, định giá 4,1 tỷ USD: biến máy đào thành máy tự hành, sắp mở rộng sang đội máy hỗn hợp",
+      "source": {
+        "name": "Construction Dive",
+        "kind": "trang tin chuyên ngành"
+      },
+      "url": "https://www.constructiondive.com/news/bedrock-robotics-digs-up-new-funding/873065/",
+      "published": "2026-10-28",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Bedrock Robotics, startup gắn công nghệ tự hành vào máy công trình, gọi được 600 triệu USD vòng C do CapitalG và Emergence Capital đồng dẫn; tổng vốn gần 1 tỷ USD, định giá sau vòng 4,1 tỷ USD. Hãng nói số khách hàng tăng hơn gấp đôi từ 2025, máy đang làm việc có trả tiền ở công trường thật (khách gồm Sundt, Zachry, Haydon — cả dự án trung tâm dữ liệu). Construction Dive so sánh: phần lớn startup contech chỉ gọi dưới 50 triệu USD/vòng.",
+      "why_it_matters": "Vốn đang dồn vào ‘AI vật lý’ (robot, máy tự hành) hơn là phần mềm; với chủ đầu tư, câu hỏi gần nhất là điều khoản hợp đồng khi nhà thầu dùng máy tự hành.",
+      "tags": [
+        "Bedrock Robotics",
+        "máy tự hành",
+        "gọi vốn",
+        "AI vật lý"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Curl bị chặn (HTTP 403); đọc toàn bộ chính văn qua WebFetch.",
+      "accessed": "2026-11-02",
+      "note": "Thông tin khách hàng và tăng trưởng do công ty tự nêu trong thông cáo."
+    },
+    {
+      "id": "n-20261102-02-origin-20m",
+      "title": "US startup Origin raises $20M to build robots for construction",
+      "title_vi": "Origin (Mỹ) ra mắt với 20 triệu USD: robot OG-1 làm nhiều việc hoàn thiện nội thất (phun, bả, xử lý góc, trần) trên một nền tảng",
+      "source": {
+        "name": "Evertiq",
+        "kind": "trang tin công nghiệp"
+      },
+      "url": "https://evertiq.com/news/2026-10-30-us-startup-origin-raises-20m-to-build-robots-for-construction",
+      "published": "2026-10-30T07:00:00+01:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Origin (San Francisco) công bố tổng vốn 20 triệu USD, đồng dẫn bởi Accel và Zacua Ventures, để triển khai robot OG-1 làm nhiều công tác hoàn thiện nội thất trên cùng một nền tảng. Tiền dùng để mở rộng đội robot và chạy thử quy mô lớn ở Mỹ, châu Âu, trong đó có hai nhà thầu hoàn thiện vách thạch cao lớn ở Mỹ; dự kiến thử thêm ở Đức, Thụy Điển, Pháp, Ả Rập Xê-út.",
+      "why_it_matters": "Robot hoàn thiện nội thất nhắm đúng khâu thiếu thợ lành nghề; đáng theo dõi cho gói thầu hoàn thiện căn hộ quy mô lớn, nhưng hiện mới ở giai đoạn thí điểm.",
+      "tags": [
+        "Origin",
+        "robot hoàn thiện",
+        "thạch cao",
+        "gọi vốn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02",
+      "note": "Bài dựa trên thông cáo báo chí của công ty."
+    },
+    {
+      "id": "n-20261102-03-quang-dong-bim-tham-tra",
+      "title": "开工前先盖好“虚拟大楼”送审查，广东11月起施行",
+      "title_vi": "Quảng Đông từ 1/11: công trình công cộng ≥ 2 vạn m² phải nộp mô hình BIM khi thẩm tra bản vẽ thi công, kết hợp thẩm tra bằng AI và con người",
+      "source": {
+        "name": "21经济网 (21st Century Business Herald)",
+        "kind": "báo kinh tế"
+      },
+      "url": "https://www.21jingji.com/article/20261031/herald/1fa605df7ac0760a61e5edd6f523c01c.html",
+      "published": "2026-10-31T18:17:33+08:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Từ 1/11/2026, công trình mới lập dự án thuộc diện quy định ở Quảng Đông (công sở nhà nước, công trình công cộng có vốn nhà nước, đơn thể ≥ 2 vạn m²) phải nộp thêm mô hình BIM 3D khớp với bản vẽ 2D khi thẩm tra thiết kế thi công; khâu thẩm tra kết hợp ‘thẩm tra hỗ trợ thông minh’ và con người. Ở dự án cải tạo 鱼珠 (Quảng Châu), nhà thầu nói kiểm tra va chạm phát hiện trước 376 xung đột đường ống, AI nhận diện hơn 4.300 lượt nguy cơ an toàn, rút ngắn 45 ngày và tiết kiệm khoảng 200 vạn tệ.",
+      "why_it_matters": "Giống hướng Nghị định về BIM ở VN: khi cơ quan thẩm tra đòi mô hình ‘khớp bản vẽ’, chủ đầu tư phải đưa yêu cầu BIM vào hồ sơ mời thầu tư vấn thiết kế ngay từ đầu.",
+      "tags": [
+        "BIM",
+        "thẩm tra bằng AI",
+        "Quảng Đông",
+        "chính sách"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02",
+      "note": "Số liệu hiệu quả ở dự án mẫu do nhà thầu tự nêu."
+    },
+    {
+      "id": "n-20261102-04-trung-khanh-quy-hoach-xd",
+      "title": "重庆发布“十五五”建筑业发展规划 加力升级“重庆建造”",
+      "title_vi": "Trùng Khánh ra quy hoạch ngành xây dựng 2026–2030: phổ cập thẩm tra thiết kế số, đẩy AI hỗ trợ thẩm tra bản vẽ, kho mô hình BIM và ‘bản sao số’",
+      "source": {
+        "name": "央广网 (dẫn 中国建设新闻网)",
+        "kind": "báo"
+      },
+      "url": "https://house.cnr.cn/kcb/20261101/t20261101_527859202.shtml",
+      "published": "2026-11-01T09:46:10+08:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Sở Xây dựng Trùng Khánh ban hành quy hoạch phát triển ngành xây dựng giai đoạn 15 (2026–2030) gồm 10 chương và 17 chỉ tiêu (16 định hướng, 1 bắt buộc). Phần chuyển đổi số yêu cầu thẩm tra hồ sơ khảo sát–thiết kế dạng số toàn quy trình, mở rộng AI hỗ trợ thẩm tra bản vẽ, hoàn thiện nền tảng quản lý và kho mô hình BIM, xây hệ thống cảm biến thời gian thực ‘người, máy, vật liệu, biện pháp, môi trường’, và xét duyệt năng lực–chứng chỉ bằng hệ thống thông minh.",
+      "why_it_matters": "Cùng ngày Quảng Đông bắt đầu thẩm tra BIM + AI, Trùng Khánh đặt mục tiêu tương tự cho 5 năm — tín hiệu rằng nhà thầu/tư vấn TQ sẽ quen làm hồ sơ số; đáng tham khảo khi VN triển khai thẩm định số.",
+      "tags": [
+        "Trùng Khánh",
+        "quy hoạch",
+        "AI thẩm tra bản vẽ",
+        "BIM"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc (mã GBK), đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "n-20261102-05-pbc-khao-sat-tien-do",
+      "title": "30% of construction professionals identify progress capture, reporting and data quality as their primary challenge",
+      "title_vi": "Khảo sát hơn 200 người lập tiến độ ở Anh: 30% nói khó nhất là thu thập tiến độ, báo cáo và chất lượng dữ liệu công trường",
+      "source": {
+        "name": "PBC Today",
+        "kind": "tạp chí chuyên ngành"
+      },
+      "url": "https://www.pbctoday.co.uk/news/digital-construction-news/construction-software-news/construction-professionals-progress-capture-reporting-data-quality-challenge/167116/",
+      "published": "2026-10-29T11:58:11+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "PBC Today và SymTerra hỏi hơn 200 người lập tiến độ và lãnh đạo xây dựng về khó khăn lớn nhất khi giữ tiến độ khớp thực tế. 30% chọn thu thập tiến độ, báo cáo và chất lượng dữ liệu — câu trả lời phổ biến nhất; khoảng 40–50% câu trả lời của tổng thầu xoay quanh việc nhận cập nhật đáng tin từ công trường. Lãnh đạo nhắc nhiều hơn tới thay đổi và chậm trễ; người lập tiến độ nhắc nhiều hơn tới khối lượng việc và ràng buộc chuỗi cung ứng.",
+      "why_it_matters": "Trước khi mua AI dự báo tiến độ, nút thắt thật là dữ liệu đầu vào từ công trường; đây là khảo sát qua webinar, mẫu nhỏ.",
+      "tags": [
+        "tiến độ",
+        "dữ liệu công trường",
+        "khảo sát",
+        "Anh"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "khảo sát/báo cáo",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02",
+      "note": "Khảo sát hơn 200 người tham gia webinar của hai đơn vị; không phải mẫu đại diện."
+    },
+    {
+      "id": "n-20261102-06-pbc-nha-thau-nho-ai",
+      "title": "How small contractors can win work without investing in AI",
+      "title_vi": "Ý kiến: nhà thầu nhỏ không cần đầu tư AI để thắng việc — bên mua dùng AI tìm nhà cung cấp, nhưng kết quả vẫn lấy từ nền tảng và danh sách nhà cung cấp đã duyệt",
+      "source": {
+        "name": "PBC Today",
+        "kind": "tạp chí chuyên ngành"
+      },
+      "url": "https://www.pbctoday.co.uk/news/digital-construction-news/how-small-contractors-can-win-work-without-investing-in-ai/167060/",
+      "published": "2026-10-28T10:26:11+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Tác giả (giám đốc một nền tảng chợ nhà thầu) cho rằng bên mua ngày càng dùng AI để lập danh sách nhà cung cấp, nhưng với thợ độc lập và công ty nhỏ, đầu tư AI riêng thường tốn hơn lợi. Khi tổng thầu hay cơ quan công tìm nhà thầu, kết quả thường đến từ nền tảng, cơ sở dữ liệu hoặc danh sách nhà cung cấp đã duyệt — nên cập nhật hồ sơ ở đó quan trọng hơn. Bài dẫn RICS: ngành xây dựng Anh có 870.000 doanh nghiệp, nhiều SME nhất.",
+      "why_it_matters": "Với bên mua như phòng đấu thầu, điều này gợi ý chuẩn hóa dữ liệu hồ sơ năng lực nhà cung cấp để AI tìm kiếm có cái mà đọc; đây là bài ý kiến của bên có lợi ích (nền tảng chợ).",
+      "tags": [
+        "đấu thầu",
+        "nhà thầu nhỏ",
+        "danh sách nhà cung cấp",
+        "AI tìm kiếm"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "ý kiến",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02",
+      "note": "Tác giả làm cho một nền tảng chợ nhà thầu — có xung đột lợi ích."
+    },
+    {
+      "id": "n-20261102-07-carbonai-12m",
+      "title": "CarbonAI raises funds to bring AI agents to CRE lending",
+      "title_vi": "CarbonAI gọi 12 triệu USD cho ‘agent’ AI làm thẩm định, due diligence và giám sát khoản vay BĐS thương mại",
+      "source": {
+        "name": "AI PropTech News",
+        "kind": "trang tin chuyên ngành"
+      },
+      "url": "https://aiproptechnews.com/article/carbonai-raises-funds-to-bring-ai-agents-to-cre-lending/",
+      "published": "2026-10-28T05:00:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "CarbonAI công bố 12 triệu USD do Cowboy Ventures dẫn. Agent của hãng trích xuất dữ liệu từ bảng thuê, hợp đồng thuê, báo cáo tài chính, hồ sơ pháp lý; tự dựng phần thẩm định, viết bản ghi nhớ đầu tư và đánh dấu rủi ro để con người xem; mỗi kết quả liên kết lại tài liệu gốc. Bài dẫn Hiệp hội Ngân hàng Thế chấp Mỹ: 875 tỷ USD khoản vay BĐS thương mại đáo hạn trong năm 2026.",
+      "why_it_matters": "Agent đọc hợp đồng thuê và báo cáo tài chính có thể dùng tương tự cho thẩm định đối tác/nhà thầu; tính năng ‘dẫn về tài liệu gốc’ là điểm cần đòi hỏi ở mọi công cụ AI soát hồ sơ.",
+      "tags": [
+        "CarbonAI",
+        "agent",
+        "BĐS thương mại",
+        "thẩm định"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02",
+      "note": "Tính năng do công ty tự mô tả."
+    },
+    {
+      "id": "n-20261102-08-cgn-tham-ao-cong-truong-so",
+      "title": "智慧工地数字化转型已逐步渗透到一线核电工人",
+      "title_vi": "Công trường thông minh ở dự án điện hạt nhân Tam Áo (Chiết Giang): đào tạo, sát hạch, theo dõi sức khỏe công nhân trên điện thoại, giảm khoảng 70 vạn giờ công/năm",
+      "source": {
+        "name": "中新网 (Chinanews, video)",
+        "kind": "hãng tin"
+      },
+      "url": "https://www.chinanews.com.cn/cj/shipin/2026/10-31/news1073468.shtml",
+      "published": "2026-10-31",
+      "time_known": false,
+      "date_basis": "Ngày trong đường dẫn trang (trang video không có meta ngày đăng)",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Theo đại diện 中广核苍南核电, hệ thống công trường thông minh ở dự án điện hạt nhân 三澳 (công nghệ Hoa Long Một) giúp giảm khoảng 70 vạn giờ công mỗi năm, chuyển quản lý an toàn–chất lượng–môi trường từ ‘người canh’ sang công nghệ. Việc đào tạo, sát hạch, theo dõi sức khỏe của công nhân đều làm trên điện thoại.",
+      "why_it_matters": "Đưa đào tạo – sát hạch an toàn lên điện thoại là bước số hóa rẻ, làm được trước cả AI camera; con số giờ công do doanh nghiệp nêu.",
+      "tags": [
+        "công trường thông minh",
+        "an toàn",
+        "điện hạt nhân",
+        "TQ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang video; đọc toàn bộ phần chú thích văn bản (không xem video).",
+      "accessed": "2026-11-02",
+      "note": "Trang chỉ có đoạn chú thích ngắn; số giờ công do doanh nghiệp nêu."
+    },
+    {
+      "id": "n-20261102-09-cang-la-lb-dinh-cong",
+      "title": "Ports of LA & Long Beach Face Loading Delays, Looming Strike",
+      "title_vi": "Cảng LA và Long Beach: 35.000 container chờ xếp lên tàu hỏa, khoảng 250 nhân viên bảo vệ biểu quyết cho phép đình công từ chiều 1/11 (giờ Mỹ)",
+      "source": {
+        "name": "SupplyChainBrain",
+        "kind": "trang tin chuyên ngành"
+      },
+      "url": "https://www.supplychainbrain.com/articles/45119-ports-of-la-and-long-beach-face-loading-delays-looming-strike",
+      "published": "2026-10-29T14:11:13-04:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Khoảng 250 nhân viên bảo vệ cảng thuộc ILWU Local 26 biểu quyết cho phép đình công ở hai cảng Los Angeles và Long Beach, có thể bắt đầu 17h ngày 1/11 (giờ PST). Tính đến 28/10, hơn 13.000 container đã chờ hơn 9 ngày để lên tàu hỏa tại cảng, tổng cộng 35.000 container chờ xếp. Tám bến có thể bị ảnh hưởng, gồm APM Pier 400, Long Beach Container Terminal, TTI.",
+      "why_it_matters": "Hàng nhập từ Mỹ (thiết bị, vật tư MEP) qua bờ Tây có thể chậm thêm; cần kiểm tra diễn biến sau ngày 1/11 vì bài viết trước thời điểm đó.",
+      "tags": [
+        "cảng biển",
+        "đình công",
+        "Mỹ",
+        "container"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02",
+      "note": "Bài đăng 29/10, trước thời hạn đình công; chưa rõ kết quả."
+    },
+    {
+      "id": "n-20261102-10-doordash-instacart-17ty",
+      "title": "DoorDash’s $17 Billion Instacart Deal Aimed at Walmart, Amazon",
+      "title_vi": "DoorDash mua Instacart với giá khoảng 17 tỷ USD để cạnh tranh Walmart, Amazon trong giao hàng tạp hóa",
+      "source": {
+        "name": "SupplyChainBrain (Bloomberg)",
+        "kind": "trang tin chuyên ngành"
+      },
+      "url": "https://www.supplychainbrain.com/articles/45114-doordashs-17-billion-instacart-deal-aimed-at-walmart-amazon",
+      "published": "2026-10-29T10:42:57-04:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "DoorDash đồng ý mua Instacart với giá 65 USD/cổ phiếu (tiền mặt và cổ phiếu), định giá khoảng 17 tỷ USD, cao hơn 26% so với giá đóng cửa 22/10. Thương vụ dự kiến hoàn tất cuối 2027 hoặc nửa đầu 2028; DoorDash giữ thương hiệu và ứng dụng Instacart. Bài nhắc DoorDash đã mua Deliveroo, SevenRooms và mảng ăn uống học đường của Grubhub.",
+      "why_it_matters": "Hợp nhất giao hàng chặng cuối ở Mỹ; với VN, đáng theo dõi nếu các nền tảng giao hàng cũng gom nhau, làm thay đổi phí giao cho nhà bán lẻ.",
+      "tags": [
+        "DoorDash",
+        "Instacart",
+        "giao hàng chặng cuối",
+        "M&A"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02",
+      "note": "Bài của Bloomberg đăng lại trên SupplyChainBrain."
+    },
+    {
+      "id": "n-20261102-11-tphcm-thieu-cat-dat-dap",
+      "title": "Thiếu cát, đất đắp gây áp lực cho tiến độ các dự án giao thông TP.HCM",
+      "title_vi": "Thiếu cát, đất đắp gây áp lực cho tiến độ các dự án giao thông TP.HCM",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo"
+      },
+      "url": "https://baoxaydung.vn/thieu-cat-dat-dap-gay-ap-luc-cho-tien-do-cac-du-an-giao-thong-tphcm-192261101174050065.htm",
+      "published": "2026-11-01T18:27:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "20 dự án trọng điểm của Ban Giao thông TP.HCM cần khoảng 1,91 triệu m³ đá, 0,55 triệu m³ cát xây dựng, 1,85 triệu m³ cát san lấp và 3,7 triệu m³ đất đắp trong những tháng cuối 2026; riêng cao tốc TP.HCM – Mộc Bài cần 2,67 triệu m³ đất đắp. Đá cơ bản được cân đối, nhưng cát vẫn chịu áp lực lớn (nhu cầu của Ban chiếm 38% nhu cầu cát san lấp toàn thành phố). Sở NN&MT nói đã rút thủ tục cấp phép mỏ từ khoảng 67 xuống 20 ngày và nghiên cứu cát biển thay thế.",
+      "why_it_matters": "Cát san lấp và đất đắp là rủi ro tiến độ – giá rõ nhất cuối năm ở phía Nam; gói thầu có hạng mục đắp nền nên tính dự phòng giá và nguồn.",
+      "tags": [
+        "cát",
+        "đất đắp",
+        "TP.HCM",
+        "vật liệu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "n-20261102-12-vanh-dai-4-vat-lieu",
+      "title": "Thứ trưởng Lê Anh Tuấn yêu cầu rà soát nguồn vật liệu cho dự án Vành đai 4",
+      "title_vi": "Thứ trưởng Lê Anh Tuấn yêu cầu rà soát nguồn vật liệu cho dự án Vành đai 4",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo"
+      },
+      "url": "https://baoxaydung.vn/thu-truong-le-anh-tuan-yeu-cau-ra-soat-nguon-vat-lieu-cho-du-an-vanh-dai-4-192261101143710116.htm",
+      "published": "2026-11-01T15:42:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "Đường song hành Vành đai 4 qua Bắc Ninh mới đạt gần 55% và đang chậm. Ban QLDA nói giá công bố vật liệu (đá dăm, đất, cát) của địa phương chưa theo kịp giá thị trường, giá nhiên liệu–vật liệu tăng khiến nhà thầu thi công cầm chừng; Bắc Ninh không có mỏ đá làm base và thiếu nhân công vì nhiều dự án trọng điểm cùng chạy. Ban đề nghị điều phối nguồn đá dăm và điều chỉnh công bố giá sát thực tế.",
+      "why_it_matters": "Độ vênh giữa giá công bố và giá thị trường là rủi ro điều chỉnh giá hợp đồng; nên đối chiếu giá thị trường độc lập khi lập dự toán gói thầu phía Bắc.",
+      "tags": [
+        "Vành đai 4",
+        "đá dăm",
+        "giá công bố",
+        "Bắc Ninh"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "n-20261102-13-xang-giam-cuoc-chua-giam",
+      "title": "Giá xăng giảm mạnh, vì sao giá cước vận tải chưa thể hạ ngay?",
+      "title_vi": "Giá xăng giảm mạnh, vì sao giá cước vận tải chưa thể hạ ngay?",
+      "source": {
+        "name": "Tuổi Trẻ",
+        "kind": "báo"
+      },
+      "url": "https://tuoitre.vn/gia-xang-giam-manh-vi-sao-gia-cuoc-van-tai-chua-the-ha-ngay-100261101122759463.htm",
+      "published": "2026-11-01T13:36:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "Từ 1/11, xăng E5 RON92 giảm còn 24.223 đồng/lít (−1.804 đồng), E10 RON95-III còn 24.159 đồng/lít; nhưng dầu diesel tăng 696 đồng lên 30.246 đồng/lít. Doanh nghiệp vận tải nói hợp đồng trọn gói theo năm không đổi giá theo từng biến động, vận tải tuyến cố định phải nộp hồ sơ lên Sở Xây dựng mới được chỉnh giá; chi phí nhiên liệu từng chiếm khoảng 30% nay lên 40–45% chi phí vận hành.",
+      "why_it_matters": "Xe tải chạy diesel — loại nhiên liệu vừa tăng — nên cước vận chuyển vật liệu khó giảm; đừng kỳ vọng nhà cung cấp hạ giá giao hàng theo giá xăng.",
+      "tags": [
+        "giá xăng",
+        "diesel",
+        "cước vận tải",
+        "chi phí"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "n-20261102-14-token-len-ke-11-11",
+      "title": "财经聚焦丨首次摆上“双十一”货架 Token走进大众消费",
+      "title_vi": "Tân Hoa xã: Token AI lần đầu lên kệ Song Thập Nhất — ngày đầu bán, doanh số mảng Token trên Tmall tăng 450% so với tháng trước; người mua kêu khó so sánh giữa các hãng",
+      "source": {
+        "name": "新华网 (Xinhua)",
+        "kind": "hãng tin"
+      },
+      "url": "https://www.xinhuanet.com/fortune/20261101/bb39f666e6044c8b9174182447231008/c.html",
+      "published": "2026-11-01",
+      "time_known": false,
+      "date_basis": "Ngày trong đường dẫn trang (trang không có meta ngày đăng)",
+      "topic": "cong_nghe",
+      "region": "CN",
+      "summary_vi": "Từ khi Tmall mở trung tâm nạp Token ngày 3/9, DeepSeek, Alibaba Cloud, Zhipu, Kimi đã lên kệ, MiniMax mở cửa hàng chính hãng. Ví dụ thẻ tháng Qwen AI Lite: giá web 60 tệ, giá khuyến mãi 39 tệ. Tmall nói ngày đầu Song Thập Nhất (20/10) doanh số mảng Token tăng 450% so với tháng trước, người mua chủ yếu là cá nhân và doanh nghiệp nhỏ có nhu cầu AI rõ. Người trong ngành nói cùng một đoạn văn có thể tốn lượng Token chênh 20–50% giữa các mô hình, cách tính phí khác nhau nên khó quy đổi.",
+      "why_it_matters": "AI đang được bán như ‘thẻ nạp’; ở VN chưa có kênh so sánh gói AI cho văn phòng nhỏ — xem ý tưởng #3 và watchlist #8.",
+      "tags": [
+        "Token",
+        "Song Thập Nhất",
+        "AI tiêu dùng",
+        "Tmall"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02",
+      "idea_ids": [
+        "20261102-08-watchlist-token-len-ke",
+        "20261102-03-chon-goi-ai-van-phong-nho"
+      ]
+    },
+    {
+      "id": "n-20261102-15-openai-ai-compute-campus",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "title_vi": "OpenAI có thể đổi tên trung tâm dữ liệu thành ‘khu tính toán AI’ trong chiến dịch truyền thông sau bầu cử giữa kỳ Mỹ",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "published": "2026-11-01T21:55:23+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "Dẫn Axios, TechCrunch viết OpenAI chuẩn bị chiến dịch truyền thông sau bầu cử giữa kỳ (3/11), với các đề xuất như ‘giới hạn tốc độ’ cho AI, giúp người dân thấy AI có ích, và đổi tên trung tâm dữ liệu thành ‘AI compute campuses’. Bài nhắc Amazon và Microsoft đã nói sẽ không dùng thỏa thuận bảo mật (NDA) khi đàm phán với chính quyền địa phương về trung tâm dữ liệu.",
+      "why_it_matters": "Phản ứng xã hội với trung tâm dữ liệu đang thành rủi ro chính trị; dự án data center ở VN cũng nên tính sớm yếu tố cộng đồng (điện, nước, đất).",
+      "tags": [
+        "OpenAI",
+        "trung tâm dữ liệu",
+        "truyền thông",
+        "Mỹ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02",
+      "note": "Tin thứ cấp, dẫn Axios."
+    },
+    {
+      "id": "n-20261102-16-data-center-bau-cu",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "title_vi": "Trung tâm dữ liệu thành vấn đề bầu cử ở Mỹ: gần 200 tỷ USD dự án bị hoãn, đình trệ hoặc chặn trong nửa đầu 2026 vì phản đối",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "published": "2026-11-01T02:22:10+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "Phóng viên TechCrunch kể một sự kiện bầu cử ở Brooklyn, nơi khán giả la ó khi được hỏi ai ủng hộ trung tâm dữ liệu AI. Bài dẫn Data Center Watch: gần 200 tỷ USD dự án trung tâm dữ liệu bị hoãn, đình trệ hoặc bị chặn trong nửa đầu 2026 do phản đối chính trị và cộng đồng; Pennsylvania, Georgia, Texas, New York, Virginia đang cân nhắc thêm quy định minh bạch.",
+      "why_it_matters": "Nhu cầu xây trung tâm dữ liệu vẫn lớn nhưng rủi ro cấp phép tăng — liên quan trực tiếp tới nhà thầu và nhà cung cấp vật liệu cho mảng này.",
+      "tags": [
+        "trung tâm dữ liệu",
+        "bầu cử",
+        "phản đối",
+        "Mỹ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "ý kiến",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02",
+      "note": "Bài dạng tường thuật/ý kiến của phóng viên; số liệu dẫn từ Data Center Watch."
+    },
+    {
+      "id": "n-20261102-17-cau-can-tho-2",
+      "title": "Người dân 2 tỉnh miền Tây này đón tin vui: Chính thức phê duyệt xây dựng cầu dây văng 2 tầng hơn 27.000 tỷ đồng…",
+      "title_vi": "Cầu Cần Thơ 2 được duyệt chủ trương: 27.050 tỷ đồng, cầu dây văng 2 tầng (6 làn cao tốc trên, đường sắt đôi dưới), dự kiến khởi công 2027",
+      "source": {
+        "name": "CafeF (dẫn Báo Vĩnh Long)",
+        "kind": "báo điện tử"
+      },
+      "url": "https://cafef.vn/nguoi-dan-2-tinh-mien-tay-nay-don-tin-vui-chinh-thuc-phe-duyet-xay-dung-cau-day-vang-2-tang-hon-27000-ty-dong-co-6-lan-cao-toc-o-tang-tren-duong-sat-chay-ben-duoi-du-kien-khoi-cong-nam-2027-188261101225943032.chn",
+      "published": "2026-11-02T00:02:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Ngày 30/10, Bộ Xây dựng ban hành Quyết định 1872/QĐ-BXD phê duyệt chủ trương đầu tư cầu Cần Thơ 2 và đường dẫn, tổng mức sơ bộ 27.050,18 tỷ đồng vốn ngân sách trung ương, tuyến dài khoảng 17,6 km. Cầu chính dài khoảng 870 m, dây văng dầm giàn thép: tầng trên 6 làn cao tốc 100 km/h, tầng dưới đường sắt đôi khổ 1.435 mm. Dự án nhóm A, khởi công 2027, thi công khoảng 5 năm; Ban QLDA Mỹ Thuận tổ chức thi tuyển kiến trúc.",
+      "why_it_matters": "Cầu thép kết hợp đường sắt là gói thầu lớn về kết cấu thép và cáp — cơ hội cho nhà cung cấp thép kết cấu trong giai đoạn 2027–2032.",
+      "tags": [
+        "cầu Cần Thơ 2",
+        "đường sắt",
+        "dây văng",
+        "đầu tư công"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02",
+      "note": "Bài trên CafeF ghi nguồn Báo Vĩnh Long; trang không ghi múi giờ, hiểu là giờ VN."
+    },
+    {
+      "id": "n-20261102-18-vanh-dai-3-5-ha-noi",
+      "title": "Hà Nội đầu tư hơn 13.300 tỷ đồng khép kín Vành đai 3,5, nối Quốc lộ 2 với cầu Thượng Cát",
+      "title_vi": "Hà Nội đầu tư hơn 13.300 tỷ đồng khép kín Vành đai 3,5, nối Quốc lộ 2 với cầu Thượng Cát",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo"
+      },
+      "url": "https://baoxaydung.vn/ha-noi-dau-tu-hon-13300-ty-dong-khep-kin-vanh-dai-35-noi-quoc-lo-2-voi-cau-thuong-cat-192261101083551728.htm",
+      "published": "2026-11-01T12:56:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "HĐND Hà Nội thông qua báo cáo tiền khả thi đoạn Vành đai 3,5 từ Quốc lộ 2 (xã Nội Bài) đến đầu cầu Thượng Cát (xã Thiên Lộc): dài 12,36 km, mặt cắt 80–100 m, 6 làn chính và 4 làn song hành, tổng mức sơ bộ 13.367,5 tỷ đồng vốn thành phố, nhóm A. Dự án chia 5 dự án thành phần, khoảng 2.730 tỷ đồng cho bồi thường–tái định cư ở 4 xã; phần xây tuyến khoảng 10.637 tỷ đồng.",
+      "why_it_matters": "Thêm một trục lớn phía Bắc Hà Nội cùng lúc với khu đô thị Bắc Thăng Long (tin dưới) — nhu cầu vật liệu đắp nền khu vực Mê Linh – Đông Anh sẽ tăng.",
+      "tags": [
+        "Vành đai 3,5",
+        "Hà Nội",
+        "hạ tầng",
+        "đầu tư công"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "n-20261102-19-bac-thang-long-urban-city",
+      "title": "Khu đô thị đa mục tiêu Đông Anh dành gần 50 ha xây nhà tái định cư",
+      "title_vi": "Khu đô thị Bắc Thăng Long Urban City (gần 99.800 tỷ đồng) được duyệt chủ trương: gần 50 ha nhà tái định cư, hơn 15 ha nhà xã hội",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử"
+      },
+      "url": "https://vnexpress.net/khu-do-thi-da-muc-tieu-dong-anh-danh-gan-50-ha-xay-nha-tai-dinh-cu-5139343.html",
+      "published": "2026-11-01T15:11:24+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Ngày 30/10, Chủ tịch UBND Hà Nội chấp thuận chủ trương đầu tư khu đô thị đa mục tiêu Bắc Thăng Long Urban City (xã Thiên Lộc, Phúc Thịnh), quy mô hơn 465 ha, khu nghiên cứu khoảng 375 ha. Khoảng 43 ha nhà liền kề tái định cư, hơn 4,3 ha chung cư tái định cư/công vụ, hơn 15 ha nhà xã hội; tổng sàn nhà ở hơn 5,5 triệu m², khoảng 97.500 dân, vốn gần 99.800 tỷ đồng, tiến độ đến 2032. Liên danh 5 nhà đầu tư gồm Handico, Sunshine, Big Gain, Thái Nam Land, Potamos.",
+      "why_it_matters": "Dự án TOD lớn kèm tái định cư — khối lượng xây dựng nhà thấp tầng lớn trong 6 năm tới ở phía Bắc sông Hồng.",
+      "tags": [
+        "Bắc Thăng Long",
+        "tái định cư",
+        "nhà xã hội",
+        "Hà Nội"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "n-20261102-20-nha-hinh-thanh-tuong-lai",
+      "title": "Nhà ở hình thành trong tương lai: Luật quản chặt, vẫn còn rủi ro",
+      "title_vi": "Nhà ở hình thành trong tương lai: Luật quản chặt, vẫn còn rủi ro",
+      "source": {
+        "name": "Tuổi Trẻ",
+        "kind": "báo"
+      },
+      "url": "https://tuoitre.vn/nha-o-hinh-thanh-trong-tuong-lai-luat-quan-chat-van-con-rui-ro-10026103115304767.htm",
+      "published": "2026-11-01T09:23:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Trước đề xuất của một đại biểu Quốc hội về cấm chuyển nhượng hợp đồng mua bán nhà ở hình thành trong tương lai, Tuổi Trẻ nhắc lại các điều kiện bán hiện hành: có giấy tờ quyền sử dụng đất, hồ sơ dự án, thiết kế được duyệt, giấy phép xây dựng, biên bản nghiệm thu móng; có văn bản Sở Xây dựng xác nhận đủ điều kiện bán và bảo lãnh ngân hàng. Bài cho rằng nên tìm giải pháp quản lý khác thay vì cấm hẳn để bảo vệ người mua.",
+      "why_it_matters": "Nếu siết chuyển nhượng hợp đồng, dòng tiền bán hàng giai đoạn đầu của chủ đầu tư có thể chậm — ảnh hưởng kế hoạch thanh toán cho nhà thầu, nhà cung cấp.",
+      "tags": [
+        "nhà hình thành trong tương lai",
+        "Luật Nhà ở",
+        "chuyển nhượng",
+        "chính sách"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "ý kiến",
+      "how_read": "Mở trang bài gốc, đọc phần đầu và các điều kiện pháp lý (phần cuối bài bị cắt khi tải).",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "unreachable": [
+    {
+      "source": "Construction Dive (curl)",
+      "status": "HTTP 403 khi tải bằng curl",
+      "impact": "Đọc đầy đủ bài Bedrock qua WebFetch."
+    },
+    {
+      "source": "Supply Chain Dive (curl)",
+      "status": "HTTP 403",
+      "impact": "Không dùng bài Walmart hôm nay."
+    },
+    {
+      "source": "ForConstructionPros (Trackunit–DEWALT)",
+      "status": "HTTP 403 (trang chặn bot ‘Just a moment…’)",
+      "impact": "Bỏ qua."
+    },
+    {
+      "source": "파이낸셜투데이 (ftoday.co.kr, bài Hoban E&C)",
+      "status": "HTTP 500",
+      "impact": "Bỏ qua."
+    },
+    {
+      "source": "ENR (RSS)",
+      "status": "HTTP 403",
+      "impact": "Bỏ qua hôm nay."
+    },
+    {
+      "source": "AEC Magazine (RSS)",
+      "status": "RSS lỗi định dạng XML",
+      "impact": "Không quét được hôm nay."
+    },
+    {
+      "source": "VnExpress Kinh doanh (RSS)",
+      "status": "Trả về rỗng",
+      "impact": "Dùng RSS Bất động sản của VnExpress."
+    },
+    {
+      "source": "VnEconomy (RSS)",
+      "status": "Trả về rỗng",
+      "impact": "Bỏ qua."
+    },
+    {
+      "source": "VIR, Logistics Management, Constructech (RSS)",
+      "status": "HTTP 404 / rỗng",
+      "impact": "Bỏ qua."
+    }
+  ]
+}

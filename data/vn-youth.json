@@ -1,7 +1,7 @@
 {
   "title": "Chân dung giới trẻ Việt Nam (Gen Z & Millennials)",
-  "verified_at": "2026-10-25",
-  "next_review": "2026-11-01",
+  "verified_at": "2026-11-02",
+  "next_review": "2026-11-09",
   "definition": "Gen Z ≈ dưới 28 tuổi, Gen Y ≈ 28–43 tuổi (cách chia của Decision Lab, qua VTV). Các nguồn khác chia khác nhau (ví dụ Gen Z sinh 1997–2012).",
   "summary_points": [
     "Đông và rất ‘số’: ~24 triệu người 18–34 tuổi; 84% dùng internet, 79 triệu danh tính MXH; TikTok 76 triệu người 18+; Zalo và Facebook gần như phủ kín.",
@@ -32,7 +32,7 @@
           "title": "Thông cáo báo chí về tình hình dân số, lao động, việc làm quý IV và năm 2025",
           "url": "https://www.nso.gov.vn/tin-tuc-thong-ke/2026/01/thong-cao-bao-chi-ve-tinh-hinh-dan-so-lao-dong-viec-lam-quy-iv-va-nam-2025/",
           "published": "2026-01",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Trang chỉ ghi tháng 01/2026."
         },
@@ -42,7 +42,7 @@
           "title": "Digital 2026: Vietnam",
           "url": "https://datareportal.com/reports/digital-2026-vietnam",
           "published": "2025-11-08",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Dữ liệu tới 10/2025; lượng người dùng MXH là số liệu quảng cáo, không phải người thật duy nhất."
         }
@@ -101,7 +101,7 @@
           "title": "Digital 2026: Vietnam",
           "url": "https://datareportal.com/reports/digital-2026-vietnam",
           "published": "2025-11-08",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Dữ liệu tới 10/2025; lượng người dùng MXH là số liệu quảng cáo, không phải người thật duy nhất."
         },
@@ -111,7 +111,7 @@
           "title": "3 ứng dụng được coi \"không thể thiếu\" đối với Gen Z",
           "url": "https://vtv.vn/3-ung-dung-duoc-coi-khong-the-thieu-doi-voi-gen-z-100260212170546189.htm",
           "published": "2026-02-13",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang"
         },
         {
@@ -120,9 +120,29 @@
           "title": "Nền kinh tế số Việt Nam dự kiến đạt 39 tỷ USD năm 2025",
           "url": "https://www.vietnamplus.vn/nen-kinh-te-so-viet-nam-du-kien-dat-39-ty-usd-nam-2025-post1079139.vnp",
           "published": "2025-11-25",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Báo cáo gốc không đọc trực tiếp; đọc qua báo. Các chỉ số AI là người dùng tự khai."
+        },
+        {
+          "id": "vnn-econ26",
+          "name": "VietNamNet (bản tiếng Anh)",
+          "title": "Southeast Asia's digital economy to hit $368 billion as Vietnam leads in AI use",
+          "url": "https://vietnamnet.vn/en/southeast-asia-s-digital-economy-to-hit-368-billion-as-vietnam-leads-in-ai-use-2567330.html",
+          "published": "2026-10-23",
+          "accessed": "2026-11-02",
+          "how_read": "mở trang",
+          "note": "Đưa tin báo cáo e-Conomy SEA 2026 (Google, Temasek, Bain) công bố 21/10/2026."
+        },
+        {
+          "id": "gblog-econ26",
+          "name": "Google Blog",
+          "title": "Southeast Asia digital economy to hit $1 trillion by 2035",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+          "published": "2026-10-21",
+          "accessed": "2026-11-02",
+          "how_read": "mở trang",
+          "note": "Trang chính thức của Google; số liệu cấp khu vực (243 triệu người, 58% lực lượng lao động); số liệu riêng VN lấy từ VietNamNet."
         }
       ],
       "facts": [
@@ -165,7 +185,18 @@
             "vplus"
           ],
           "verification": "1 nguồn gốc",
-          "note": "Người dùng tự khai (khảo sát), không phải đo hành vi; đọc qua báo."
+          "note": "Người dùng tự khai (khảo sát), không phải đo hành vi; đọc qua báo. · 2/11: đã có e-Conomy SEA 2026 (xem fact ai-2026); số 2025 giữ nguyên để tham chiếu."
+        },
+        {
+          "id": "ai-2026",
+          "label": "AI tạo sinh 2026",
+          "text": "e-Conomy SEA 2026 (công bố 21/10/2026): ở Việt Nam, 57% lực lượng lao động đã tiếp cận AI tạo sinh (hạng 3 khu vực); 65% người dùng GenAI dùng hằng tuần (hạng 2, sau Singapore) và 26% dùng hằng ngày (hạng 1); câu hỏi học tập chiếm 17% prompt Gemini ở VN; 80–85% lưu lượng dùng AI đến từ cá nhân (sinh viên, nhân viên văn phòng, freelancer).",
+          "source_ids": [
+            "vnn-econ26",
+            "gblog-econ26"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu riêng VN chỉ đọc qua VietNamNet (chưa mở được bản PDF báo cáo); Google Blog chỉ xác nhận số liệu khu vực. Cách đo khác báo cáo 2025 (fact 'ai') — không so sánh trực tiếp hai năm."
         }
       ]
     },
@@ -180,7 +211,7 @@
           "title": "Thị trường TMĐT Việt Nam năm 2025: những chuyển dịch đáng chú ý",
           "url": "https://metric.vn/insights/thi-truong-tmdt-viet-nam-nam-2025-nhung-chuyen-dich-dang-chu-y/",
           "published": "2026-01-14",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Chỉ tính 4 sàn: Shopee, TikTok Shop, Lazada, Tiki."
         },
@@ -190,7 +221,7 @@
           "title": "3 ứng dụng được coi \"không thể thiếu\" đối với Gen Z",
           "url": "https://vtv.vn/3-ung-dung-duoc-coi-khong-the-thieu-doi-voi-gen-z-100260212170546189.htm",
           "published": "2026-02-13",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang"
         },
         {
@@ -199,7 +230,7 @@
           "title": "Nền kinh tế số Việt Nam dự kiến đạt 39 tỷ USD năm 2025",
           "url": "https://www.vietnamplus.vn/nen-kinh-te-so-viet-nam-du-kien-dat-39-ty-usd-nam-2025-post1079139.vnp",
           "published": "2025-11-25",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Báo cáo gốc không đọc trực tiếp; đọc qua báo. Các chỉ số AI là người dùng tự khai."
         }
@@ -249,7 +280,7 @@
           "title": "Gen Z dẫn dắt thanh toán không tiền mặt",
           "url": "https://tuoitre.vn/gen-z-dan-dat-thanh-toan-khong-tien-mat-20260605075811876.htm",
           "published": "2026-06-05",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Trích khảo sát của Mastercard/Visa/JCB và khảo sát nhỏ của báo; không công bố cỡ mẫu."
         },
@@ -259,7 +290,7 @@
           "title": "Nền kinh tế số Việt Nam dự kiến đạt 39 tỷ USD năm 2025",
           "url": "https://www.vietnamplus.vn/nen-kinh-te-so-viet-nam-du-kien-dat-39-ty-usd-nam-2025-post1079139.vnp",
           "published": "2025-11-25",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Báo cáo gốc không đọc trực tiếp; đọc qua báo. Các chỉ số AI là người dùng tự khai."
         }
@@ -299,7 +330,7 @@
           "title": "Vietnamese consumers prioritise savings while dining out remains essential (F&B Trends 2024)",
           "url": "https://www.decisionlab.co/blog/vietnamese-consumers-prioritise-savings-while-dining-out-remains-essential",
           "published": null,
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Trang không ghi ngày đăng; báo cáo F&B Trends 2024."
         },
@@ -309,7 +340,7 @@
           "title": "Nghịch lý tiêu dùng đang định hình phân khúc “xa xỉ vừa túi tiền”",
           "url": "https://vneconomy.vn/nghich-ly-tieu-dung-dang-dinh-hinh-phan-khuc-xa-xi-vua-tui-tien.htm",
           "published": "2026-04-16",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Trích NielsenIQ 2024 (cả Đông Nam Á) và Decision Lab; không có số liệu gốc."
         },
@@ -319,7 +350,7 @@
           "title": "Thị trường TMĐT Việt Nam năm 2025: những chuyển dịch đáng chú ý",
           "url": "https://metric.vn/insights/thi-truong-tmdt-viet-nam-nam-2025-nhung-chuyen-dich-dang-chu-y/",
           "published": "2026-01-14",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Chỉ tính 4 sàn: Shopee, TikTok Shop, Lazada, Tiki."
         }
@@ -359,7 +390,7 @@
           "title": "Thị trường thú cưng Việt Nam, Gen Z tham gia đông đảo…",
           "url": "https://danviet.vn/thi-truong-thu-cung-viet-nam-gen-z-tham-gia-dong-dao-san-sang-chi-tra-hang-trieu-cham-soc-va-lam-dep-cho-meo-d1452578.html",
           "published": "2026-08-19",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Số liệu bán hàng là khảo sát riêng của nhà sáng lập Pety (người bán); Mordor Intelligence là nguồn thứ cấp."
         },
@@ -370,7 +401,8 @@
           "url": "https://vov.vn/du-lich/tu-van/nhom-khach-gen-z-viet-nam-co-xu-huong-du-lich-khac-biet-post1285915.vov",
           "published": "2026-04-22",
           "accessed": "2026-10-25",
-          "how_read": "mở trang"
+          "how_read": "mở trang",
+          "note": "Thử lại 2/11: VOV trả HTTP 403 cho curl — giữ ngày truy cập cũ."
         },
         {
           "id": "tt",
@@ -378,7 +410,7 @@
           "title": "Gen Z dẫn dắt thanh toán không tiền mặt",
           "url": "https://tuoitre.vn/gen-z-dan-dat-thanh-toan-khong-tien-mat-20260605075811876.htm",
           "published": "2026-06-05",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Trích khảo sát của Mastercard/Visa/JCB và khảo sát nhỏ của báo; không công bố cỡ mẫu."
         },
@@ -388,7 +420,7 @@
           "title": "The Growing Popularity and Diversification of Hallyu (Overseas Hallyu Survey 2025)",
           "url": "https://www.mcst.go.kr/english/policy/pressView.jsp?pSeq=511",
           "published": "2025-04-08",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Khảo sát 28 vùng, 26.400 người đã từng dùng nội dung Hàn; số theo riêng Việt Nam chỉ có ở một chỉ số."
         },
@@ -418,7 +450,7 @@
           "title": "Thị trường TMĐT Việt Nam năm 2025: những chuyển dịch đáng chú ý",
           "url": "https://metric.vn/insights/thi-truong-tmdt-viet-nam-nam-2025-nhung-chuyen-dich-dang-chu-y/",
           "published": "2026-01-14",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Chỉ tính 4 sàn: Shopee, TikTok Shop, Lazada, Tiki."
         },
@@ -428,7 +460,7 @@
           "title": "Nền kinh tế số Việt Nam dự kiến đạt 39 tỷ USD năm 2025",
           "url": "https://www.vietnamplus.vn/nen-kinh-te-so-viet-nam-du-kien-dat-39-ty-usd-nam-2025-post1079139.vnp",
           "published": "2025-11-25",
-          "accessed": "2026-10-25",
+          "accessed": "2026-11-02",
           "how_read": "mở trang",
           "note": "Báo cáo gốc không đọc trực tiếp; đọc qua báo. Các chỉ số AI là người dùng tự khai."
         }
