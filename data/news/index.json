@@ -15,6 +15,10 @@
       "label": "Công nghệ"
     },
     {
+      "id": "ai_toan_cau",
+      "label": "Công nghệ & AI toàn cầu"
+    },
+    {
       "id": "vn",
       "label": "VN – thị trường"
     }
@@ -68,11 +72,12 @@
       "date": "2026-11-02",
       "file": "2026-11-02.json",
       "headline": "Đọc báo 2/11/2026: Bedrock gọi 600 triệu USD cho máy đào tự hành, Quảng Đông bắt nộp BIM + thẩm tra AI từ 1/11, Token AI lên kệ 11/11, TP.HCM thiếu cát, cầu Cần Thơ 2 được duyệt",
-      "item_count": 20,
+      "item_count": 27,
       "topics": {
         "ai_xd": 8,
         "chuoi_cung_ung": 5,
         "cong_nghe": 3,
+        "ai_toan_cau": 7,
         "vn": 4
       }
     },
@@ -85,6 +90,7 @@
         "ai_xd": 9,
         "chuoi_cung_ung": 5,
         "cong_nghe": 3,
+        "ai_toan_cau": 0,
         "vn": 4
       }
     },
@@ -97,6 +103,7 @@
         "ai_xd": 8,
         "chuoi_cung_ung": 4,
         "cong_nghe": 3,
+        "ai_toan_cau": 0,
         "vn": 8
       }
     },
@@ -109,6 +116,7 @@
         "ai_xd": 10,
         "chuoi_cung_ung": 4,
         "cong_nghe": 3,
+        "ai_toan_cau": 0,
         "vn": 6
       }
     },
@@ -121,6 +129,7 @@
         "ai_xd": 9,
         "chuoi_cung_ung": 5,
         "cong_nghe": 3,
+        "ai_toan_cau": 0,
         "vn": 5
       }
     },
@@ -133,6 +142,7 @@
         "ai_xd": 10,
         "chuoi_cung_ung": 4,
         "cong_nghe": 2,
+        "ai_toan_cau": 0,
         "vn": 6
       }
     },
@@ -145,6 +155,7 @@
         "ai_xd": 11,
         "chuoi_cung_ung": 5,
         "cong_nghe": 3,
+        "ai_toan_cau": 0,
         "vn": 6
       }
     }

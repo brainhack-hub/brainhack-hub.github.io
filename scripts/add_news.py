@@ -17,7 +17,7 @@ DATA = os.path.join(ROOT, "data")
 NEWS = os.path.join(DATA, "news")
 VN = timezone(timedelta(hours=7))
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
-TOPICS = [("ai_xd", "AI trong xây dựng"), ("chuoi_cung_ung", "Chuỗi cung ứng"), ("cong_nghe", "Công nghệ"), ("vn", "VN – thị trường")]
+TOPICS = [("ai_xd", "AI trong xây dựng"), ("chuoi_cung_ung", "Chuỗi cung ứng"), ("cong_nghe", "Công nghệ"), ("ai_toan_cau", "Công nghệ & AI toàn cầu"), ("vn", "VN – thị trường")]
 REGIONS = [("VN", "Việt Nam"), ("US", "Mỹ"), ("EU", "Châu Âu"), ("AU", "Úc"), ("CN", "Trung Quốc"), ("KR", "Hàn Quốc"), ("JP", "Nhật Bản"), ("SEA", "Đông Nam Á"), ("Global", "Toàn cầu")]
 VERIFICATION = ["đọc đầy đủ", "đọc một phần", "chỉ đọc đoạn trích", "chỉ đọc tiêu đề"]
 SOURCE_TYPES = ["tin độc lập", "thông cáo/blog nhà cung cấp", "ý kiến", "khảo sát/báo cáo", "bảng giá tổng hợp", "văn bản/sự kiện cơ quan nhà nước"]
@@ -123,6 +123,8 @@ def validate(day, path, other_urls):
     if len(items) < 15: W(f"chỉ {len(items)} tin (mục tiêu 15–25)")
     if len(items) > 30: W(f"{len(items)} tin — nhiều hơn 30, cân nhắc cắt bớt")
     if cnt["ai_xd"] < 8: W(f"chỉ {cnt['ai_xd']} tin AI trong xây dựng (mục tiêu ≥ 8)")
+    if day.get("date", "") >= "2026-11-02" and not 5 <= cnt["ai_toan_cau"] <= 8:
+        W(f"{cnt['ai_toan_cau']} tin Công nghệ & AI toàn cầu (mục tiêu 5–8 tin lớn nhất trong ~48h)")
     dg = day.get("digest") or []
     if len(dg) != 5: E(f"digest phải đúng 5 điểm (đang {len(dg)})")
     for i, p in enumerate(dg, 1):
@@ -131,6 +133,9 @@ def validate(day, path, other_urls):
         if not p.get("item_ids"): E(f"digest#{i}: cần item_ids")
         for x in p.get("item_ids", []):
             if x not in ids: E(f"digest#{i}: item_id '{x}' không có trong items")
+    glob_ids = {it.get("id") for it in items if it.get("topic") == "ai_toan_cau"}
+    if glob_ids and not any(set(p.get("item_ids", [])) & glob_ids for p in dg):
+        W("digest chưa có điểm nào về Công nghệ & AI toàn cầu — cân nhắc đưa tin lớn nhất vào top-5")
     ur = day.get("unreachable")
     if ur is None: E("thiếu unreachable (danh sách nguồn không mở được/paywall; có thể là [])")
     else:

@@ -409,7 +409,7 @@
     return { ms: ms, label: label };
   }
   function topicLabel(id) { var t = (S.news.index.topics || []).filter(function (x) { return x.id === id; })[0]; return t ? t.label : id; }
-  var TOPIC_ICON = { ai_xd: '🏗', chuoi_cung_ung: '🚚', cong_nghe: '💻', vn: '🇻🇳' };
+  var TOPIC_ICON = { ai_xd: '🏗', chuoi_cung_ung: '🚚', cong_nghe: '💻', ai_toan_cau: '🌐', vn: '🇻🇳' };
   function regionLabel(id) { var t = (S.news.index.regions || []).filter(function (x) { return x.id === id; })[0]; return t ? t.label : id; }
   function verClass(v) { return v === 'đọc đầy đủ' ? 'v2' : v === 'đọc một phần' ? 'v1' : 'vu'; }
   function newsMatch(it) {

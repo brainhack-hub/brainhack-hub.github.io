@@ -22,11 +22,12 @@
       ]
     },
     {
-      "title": "Dữ liệu công trường mới là nút thắt",
-      "text": "Khảo sát hơn 200 người lập tiến độ ở Anh (mẫu webinar, không đại diện): 30% nói khó nhất là thu thập tiến độ và chất lượng dữ liệu; bài ý kiến khuyên nhà thầu nhỏ cập nhật hồ sơ trên danh sách nhà cung cấp thay vì mua AI.",
+      "title": "AI toàn cầu: Apple chọn Qwen ở TQ, Big Tech chung chuẩn chặn huấn luyện",
+      "text": "Apple Intelligence vào Trung Quốc với Qwen của Alibaba (thử nghiệm 4/11, ra mắt tháng 12); OpenAI, Google, Microsoft, Anthropic ủng hộ một dòng robots.txt chung để từ chối huấn luyện AI (bản nháp IETF, lộ trình mỗi hãng khác nhau); Nvidia cân nhắc bảo lãnh nợ xây trung tâm dữ liệu cho Nscale (đang đàm phán).",
       "item_ids": [
-        "n-20261102-05-pbc-khao-sat-tien-do",
-        "n-20261102-06-pbc-nha-thau-nho-ai"
+        "n-20261102-21-apple-qwen-trung-quoc",
+        "n-20261102-22-chuan-robots-ai-training",
+        "n-20261102-24-nvidia-bao-lanh-nscale"
       ]
     },
     {
@@ -604,6 +605,202 @@
       "source_type": "ý kiến",
       "how_read": "Mở trang bài gốc, đọc phần đầu và các điều kiện pháp lý (phần cuối bài bị cắt khi tải).",
       "accessed": "2026-11-02"
+    },
+    {
+      "id": "n-20261102-21-apple-qwen-trung-quoc",
+      "title": "Alibaba's Qwen AI model to integrate into Apple Intelligence in landmark partnership",
+      "title_vi": "Apple Intelligence chính thức vào Trung Quốc, tích hợp mô hình Qwen của Alibaba; thử nghiệm từ 4/11, phát hành tháng 12 cùng iOS 27.3",
+      "source": {
+        "name": "Xinhua",
+        "kind": "hãng thông tấn nhà nước TQ"
+      },
+      "url": "https://english.news.cn/20261031/0642ddf499b643b1b8babd0b43adee85/c.html",
+      "published": "2026-10-31T22:04:30+08:00",
+      "time_known": true,
+      "date_basis": "Meta article:published_time/JSON-LD datePublished trên trang bài",
+      "topic": "ai_toan_cau",
+      "region": "CN",
+      "summary_vi": "Alibaba công bố hợp tác với Apple để tích hợp mô hình Qwen vào Apple Intelligence tại Trung Quốc; người dùng gọi Qwen qua Siri, Writing Tools và Visual Intelligence để hiểu văn bản, hình ảnh và tạo nội dung. Tính năng thử nghiệm từ 4/11 trên bản iOS developer beta và phát hành cho người dùng TQ cùng iOS 27.3 vào tháng 12. Người dùng tự chọn bật Qwen và thông tin chia sẻ; Alibaba nói không dùng yêu cầu/phản hồi để huấn luyện mô hình.",
+      "why_it_matters": "Lần đầu một hãng phần cứng tiêu dùng hàng đầu thế giới dùng mô hình Trung Quốc làm lớp AI hệ thống tại TQ — mô hình 'AI bản địa theo thị trường' có thể lặp lại ở nơi khác.",
+      "tags": [
+        "Apple",
+        "Alibaba",
+        "Qwen",
+        "Apple Intelligence"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Đọc toàn bài bằng curl; đối chiếu thông cáo Apple (apple.com.cn, 31/10) — khớp ngày 4/11 và iOS 27.3.",
+      "accessed": "2026-11-02",
+      "note": "Xinhua là truyền thông nhà nước TQ; nhận định 'lần đầu tiên' là của chuyên gia được trích."
+    },
+    {
+      "id": "n-20261102-22-chuan-robots-ai-training",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "title_vi": "OpenAI, Google, Microsoft, Anthropic cùng ủng hộ một dòng robots.txt chung để website từ chối cho AI dùng nội dung huấn luyện",
+      "source": {
+        "name": "The Verge",
+        "kind": "trang tin công nghệ"
+      },
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "published": "2026-10-30T20:26:10+00:00",
+      "time_known": true,
+      "date_basis": "Meta article:published_time/JSON-LD datePublished trên trang bài",
+      "topic": "ai_toan_cau",
+      "region": "Global",
+      "summary_vi": "OpenAI, Google, Microsoft và Anthropic cho biết sẽ áp dụng một 'policy token' chung trong robots.txt, do kỹ sư tiêu chuẩn của Anthropic đề xuất tại IETF, để nhà xuất bản từ chối huấn luyện AI cho mọi hãng tham gia cùng lúc. Hiện nay mỗi website phải khai báo riêng cho từng hãng. Theo bài, Anthropic đã áp dụng, Google và Microsoft dự kiến hỗ trợ năm sau, OpenAI nói 'trong vài tháng tới'.",
+      "why_it_matters": "Gần với một chuẩn ngành về quyền dữ liệu huấn luyện; chủ website/báo chí VN nên theo dõi để cập nhật robots.txt khi chuẩn chính thức.",
+      "tags": [
+        "robots.txt",
+        "IETF",
+        "bản quyền dữ liệu",
+        "AI training"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Đọc toàn bài bằng curl.",
+      "accessed": "2026-11-02",
+      "note": "Đây vẫn là bản nháp IETF; robots.txt là tín hiệu tự nguyện, không phải cơ chế chặn."
+    },
+    {
+      "id": "n-20261102-23-kling-gop-von-198-ty-nhan-dan-te",
+      "title": "Kuaishou's Kling AI unit completes a near $3 billion funding round",
+      "title_vi": "Kling AI (Kuaishou) hoàn tất vòng gọi vốn ~19,8 tỷ NDT (~2,98 tỷ USD), chuẩn bị IPO năm sau",
+      "source": {
+        "name": "CNA (Reuters)",
+        "kind": "trang tin quốc tế"
+      },
+      "url": "https://www.channelnewsasia.com/business/kuaishous-kling-ai-unit-completes-near-3-billion-funding-round-6507461",
+      "published": "2026-10-30T22:10:31+08:00",
+      "time_known": true,
+      "date_basis": "Meta article:published_time/JSON-LD datePublished trên trang bài",
+      "topic": "ai_toan_cau",
+      "region": "CN",
+      "summary_vi": "Kuaishou cho biết đơn vị Beijing Kling, nhà phát triển mô hình tạo video Kling AI, đã hoàn tất vòng gọi vốn khoảng 19,8 tỷ NDT (2,98 tỷ USD); Kuaishou giữ hai phần ba cổ phần và 52,45% quyền biểu quyết. Vòng này đến sau đợt huy động 2,8 tỷ USD hồi tháng 7 với định giá 15 tỷ USD trước vốn. Nhà đầu tư mới gồm một đơn vị của Kingdee, Gongqingcheng Junke và một đơn vị của MetaX; Bloomberg từng đưa tin Kling dự kiến IPO năm sau.",
+      "why_it_matters": "Video AI là mảng cạnh tranh trực diện với OpenAI, Google, ByteDance; vốn lớn đổ vào Kling cho thấy TQ đặt cược mạnh vào AI tạo video thương mại.",
+      "tags": [
+        "Kling AI",
+        "Kuaishou",
+        "gọi vốn",
+        "AI video"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Đọc toàn bài (bản tin Reuters đăng lại trên CNA) qua WebFetch; curl không lấy được thân bài do trang render JS.",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "n-20261102-24-nvidia-bao-lanh-nscale",
+      "title": "Nvidia weighs playing the cosigner for Nscale's AI data center in West Virginia",
+      "title_vi": "Nvidia cân nhắc bảo lãnh hàng tỷ USD nợ xây trung tâm dữ liệu của Nscale phục vụ Anthropic",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "trang tin công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "published": "2026-10-31T01:20:05+00:00",
+      "time_known": true,
+      "date_basis": "Meta article:published_time/JSON-LD datePublished trên trang bài",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Theo The Information (Bloomberg xác nhận sau đó), Nvidia đang đàm phán bảo lãnh hàng tỷ USD nợ cho Nscale để xây khu trung tâm dữ liệu ở West Virginia dành cho Anthropic; nếu Nscale vỡ nợ, Nvidia sẽ tạm tiếp quản cơ sở và tìm người mua, khách thuê mới. Hồ sơ IPO của Nscale cho thấy Anthropic đã ký hợp đồng 44,6 tỷ USD chỉ cho tòa nhà 460 MW đầu tiên, dự kiến dùng chip Vera Rubin. TechCrunch nhận định đây là dấu hiệu ngành AI phải xoay xở để giữ kế hoạch hạ tầng khi nhà đầu tư lo ngại.",
+      "why_it_matters": "Khi nhà sản xuất chip phải bảo lãnh cả tiền xây dựng cho khách hàng, rủi ro tài chính của làn sóng xây trung tâm dữ liệu AI đang tăng — đáng theo dõi cùng việc OpenAI giảm mục tiêu gọi vốn.",
+      "tags": [
+        "Nvidia",
+        "Nscale",
+        "Anthropic",
+        "trung tâm dữ liệu",
+        "chip"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Đọc toàn bài bằng curl.",
+      "accessed": "2026-11-02",
+      "note": "Thương vụ đang đàm phán, chưa chốt; nguồn gốc là The Information."
+    },
+    {
+      "id": "n-20261102-25-deepseek-super-agent",
+      "title": "DeepSeek drops enhanced coding agent with aim to rival Anthropic",
+      "title_vi": "DeepSeek mở mã nguồn 'Super-agent' — nguyên mẫu agent lập trình tự chủ, cạnh tranh Claude Code",
+      "source": {
+        "name": "Business Standard (Bloomberg)",
+        "kind": "trang tin kinh tế"
+      },
+      "url": "https://www.business-standard.com/technology/tech-news/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic-126110100865_1.html",
+      "published": "2026-11-01T22:44:00+05:30",
+      "time_known": true,
+      "date_basis": "Meta article:published_time/JSON-LD datePublished trên trang bài",
+      "topic": "ai_toan_cau",
+      "region": "CN",
+      "summary_vi": "Nhóm Harness của DeepSeek công bố nguyên mẫu mã nguồn mở 'Super-agent', có thể chủ động theo dõi các nhóm chat của lập trình viên và đề xuất giải pháp mà không cần được gọi. DeepSeek mô tả mục tiêu là tốn ít sự chú ý của con người nhất mà mang lại nhiều giá trị nhất. Bài cũng nhắc DeepSeek đã huy động khoảng 100 tỷ NDT (15 tỷ USD) trước IPO.",
+      "why_it_matters": "Cuộc đua agent lập trình (Claude Code, Codex) có thêm đối thủ mã nguồn mở từ TQ — đội dev VN có thêm lựa chọn tự host, nhưng đây mới là nguyên mẫu nghiên cứu.",
+      "tags": [
+        "DeepSeek",
+        "agent lập trình",
+        "mã nguồn mở",
+        "Claude Code"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Đọc toàn bài qua WebFetch; README GitHub deepseek-ai/dsh-superagent-prototype ghi rõ là nguyên mẫu nghiên cứu.",
+      "accessed": "2026-11-02",
+      "note": "Business Standard đăng lại bản tin Bloomberg."
+    },
+    {
+      "id": "n-20261102-26-lg-cns-dc-ai-jakarta",
+      "title": "LG CNS completes 30-MW AI data center in Indonesia",
+      "title_vi": "LG CNS hoàn thành trung tâm dữ liệu AI 30 MW ở Jakarta, nhắm mở rộng sang Việt Nam và châu Á – Thái Bình Dương",
+      "source": {
+        "name": "The Korea Times",
+        "kind": "báo Hàn Quốc"
+      },
+      "url": "https://www.koreatimes.co.kr/business/companies/20261102/lg-cns-completes-30-mw-ai-data-center-in-indonesia",
+      "published": "2026-11-02T01:26:03+00:00",
+      "time_known": true,
+      "date_basis": "Meta article:published_time/JSON-LD datePublished trên trang bài",
+      "topic": "ai_toan_cau",
+      "region": "SEA",
+      "summary_vi": "LG CNS hoàn thành trung tâm dữ liệu AI hyperscale 30 MW tại Jakarta cho KMG (liên doanh của Sinar Mas và Korea Investment Real Asset Management), lần đầu một công ty Hàn xây trung tâm dữ liệu AI ở nước ngoài cho khách địa phương; toàn bộ công suất đã có khách trước khi hoàn thành. Hệ thống điện chịu được hơn 300 kW mỗi rack, giai đoạn đầu làm mát bằng không khí, sau đó thêm làm mát chất lỏng. Hãng đang thiết kế giai đoạn tiếp theo nâng tổng công suất lên 400 MW và muốn mở rộng sang Malaysia, Thái Lan, Việt Nam, Philippines, Nhật Bản.",
+      "why_it_matters": "Hạ tầng AI đang dịch về Đông Nam Á; Việt Nam được LG CNS nêu tên là thị trường mở rộng — liên quan trực tiếp tới nhà thầu xây dựng, cơ điện và BĐS công nghiệp.",
+      "tags": [
+        "LG CNS",
+        "trung tâm dữ liệu AI",
+        "Indonesia",
+        "Đông Nam Á"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Đọc toàn bài qua WebFetch.",
+      "accessed": "2026-11-02",
+      "note": "Thông tin chính đến từ công bố của LG CNS."
+    },
+    {
+      "id": "n-20261102-27-wiz-black-october",
+      "title": "“Black October” for AI Developer Platforms",
+      "title_vi": "Wiz: 'Tháng Mười đen' — ít nhất 9 nền tảng phát triển AI bị xâm nhập, khóa API AI bị đánh cắp để bán lại",
+      "source": {
+        "name": "Wiz Blog",
+        "kind": "blog hãng bảo mật"
+      },
+      "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+      "published": "2026-10-30T18:51:44-04:00",
+      "time_known": true,
+      "date_basis": "Meta article:published_time/JSON-LD datePublished trên trang bài",
+      "topic": "ai_toan_cau",
+      "region": "Global",
+      "summary_vi": "Hãng bảo mật Wiz tổng hợp ít nhất 9 nền tảng phát triển AI (gồm Fireworks, OpenCode, Warp, Railway, Lightning AI, Zeabur, Northflank…) công bố sự cố trong tháng 10, với điểm chung là kẻ tấn công săn biến môi trường chứa khóa truy cập AI. Wiz liên hệ làn sóng này với tấn công dùng agent và thị trường 'LLMJacking' — bán lại quyền gọi mô hình bằng khóa bị đánh cắp. Zeabur cho biết sẽ đóng cửa sau sự cố.",
+      "why_it_matters": "Ai lưu khóa API OpenAI/Anthropic/Bedrock trên nền tảng triển khai bên thứ ba nên xoay vòng khóa và đặt hạn mức chi tiêu ngay.",
+      "tags": [
+        "bảo mật",
+        "LLMJacking",
+        "API key",
+        "Wiz"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Đọc phần đầu bài blog bằng curl (danh sách sự cố, nhận định nguyên nhân); chưa đọc hết phụ lục IOC.",
+      "accessed": "2026-11-02",
+      "note": "Wiz là hãng bán giải pháp bảo mật; mỗi sự cố vẫn đang được điều tra, Wiz không khẳng định cùng một tác nhân."
     }
   ],
   "unreachable": [
