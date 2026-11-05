@@ -1,0 +1,921 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T07:23:00+07:00",
+  "headline": "Đọc báo 5/11/2026: Gemini 4 Carbon dẫn benchmark, Marvell mua Lumentum 115 tỷ USD; Archiboost, Shackleton gọi vốn AI xây dựng; CSCEC cẩu tháp thông minh; Hà Nội khống chế 120 triệu USD/km metro; điện 5 bậc",
+  "digest": [
+    {
+      "title": "Cuộc đua AI: mô hình, chip và kiểm soát",
+      "text": "Gemini 4 Carbon đạt 59 điểm Artificial Analysis, nhỉnh hơn Claude Opus 5.5; Marvell mua Lumentum (giá trị ngầm định 115 tỷ USD) cho kết nối quang trung tâm dữ liệu; Oracle được cho là hủy hợp đồng cho Tencent thuê ~10 vạn chip ở Đông Nam Á (Reuters chưa xác minh).",
+      "item_ids": [
+        "n-20261105-01-gemini-4-carbon",
+        "n-20261105-02-marvell-lumentum",
+        "n-20261105-03-oracle-tencent"
+      ]
+    },
+    {
+      "title": "Ngành phần mềm bị AI định hình lại",
+      "text": "Hồ sơ IPO sửa đổi của Anthropic cảnh báo về AI tự cải tiến; Meta mua Conductor (dịch vụ đóng 20/11); Canva cắt 22% nhân sự và hạ dự báo tăng trưởng xuống 20%.",
+      "item_ids": [
+        "n-20261105-04-anthropic-rsi",
+        "n-20261105-05-meta-conductor",
+        "n-20261105-06-canva-cat-giam"
+      ]
+    },
+    {
+      "title": "Vốn và công cụ AI cho hồ sơ xây dựng",
+      "text": "Archiboost gọi 6,2 triệu USD cho AI soát lỗi bản vẽ (hơn 55 vạn tờ đã soát); Shackleton 5 triệu USD cho agent gom việc giấy tờ; DeepCAD biến bản vẽ 2D thành IFC; bài PBC Today nhắc phải kiểm thử trợ lý AI bằng bộ câu hỏi thật.",
+      "item_ids": [
+        "n-20261105-08-archiboost-6m",
+        "n-20261105-09-shackleton-5m",
+        "n-20261105-18-deepcad",
+        "n-20261105-10-pbc-kiem-thu-tro-ly-ai"
+      ]
+    },
+    {
+      "title": "TQ: công trường thông minh ra quy mô",
+      "text": "CSCEC nêu hệ thống điều khiển cẩu tháp tăng hiệu suất 15–30% ở hơn 180 dự án; robot hoàn thiện Fangshi đã dùng ở hơn 500 dự án; Hongrun ra ‘Skill Box’ hơn 60 thuật toán thị giác (số liệu doanh nghiệp tự nêu).",
+      "item_ids": [
+        "n-20261105-15-cscec-can-truc-thong-minh",
+        "n-20261105-16-fangshi-robot-vu-han",
+        "n-20261105-17-hongrun-skill-box"
+      ]
+    },
+    {
+      "title": "VN: metro khoán trần chi phí, điện 5 bậc, siết nhà ở xã hội",
+      "text": "Hà Nội khống chế 5 tuyến metro tối đa 120 triệu USD/km, nhà thầu chịu phần vượt; biểu giá điện 5 bậc áp từ 1/11; dự thảo Luật Nhà ở hạn chế chuyển nhượng nhà ở xã hội 5 năm; TP.HCM đấu giá 3.790 căn Thủ Thiêm.",
+      "item_ids": [
+        "n-20261105-25-ha-noi-5-tuyen-metro",
+        "n-20261105-26-gia-dien-5-bac",
+        "n-20261105-27-noxh-han-che-chuyen-nhuong",
+        "n-20261105-29-thu-thiem-3790-can"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "n-20261105-01-gemini-4-carbon",
+      "title": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5",
+      "title_vi": "Google ra Gemini 4 Carbon: 59 điểm trên Artificial Analysis Intelligence Index, nhỉnh hơn Claude Opus 5.5 một điểm, ít ‘bịa’ nhất theo đánh giá AA-Omniscience",
+      "source": {
+        "name": "Tom's Hardware",
+        "kind": "trang tin công nghệ"
+      },
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim",
+      "published": "2026-11-03T13:00:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Tom's Hardware cho biết Google đã ra mẫu Gemini 4 Carbon (bài viết nói ra mắt tuần trước). Theo Artificial Analysis, mẫu này đạt 59 điểm Intelligence Index V5, hơn Claude Opus 5.5 một điểm và GPT-6 Astra hai điểm, đồng thời đứng đầu bài đo AA-Omniscience về mức độ trả lời sai/bịa. Google mở trước cho các nhóm phòng thủ an ninh mạng qua chương trình Fairwind.",
+      "why_it_matters": "Ba nhà cung cấp lớn đang sát điểm nhau; với doanh nghiệp dùng AI soát hồ sơ, chỉ số ‘ít bịa’ quan trọng hơn điểm tổng — nhưng đây vẫn là benchmark bên thứ ba, cần thử trên tài liệu thật.",
+      "tags": [
+        "Gemini 4 Carbon",
+        "benchmark",
+        "Google",
+        "ảo giác"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05",
+      "note": "Điểm số do Artificial Analysis công bố, Tom's Hardware dẫn lại."
+    },
+    {
+      "id": "n-20261105-02-marvell-lumentum",
+      "title": "Marvell to buy Lumentum in $115 billion deal in AI data center bet",
+      "title_vi": "Marvell mua Lumentum bằng cổ phiếu, giá trị doanh nghiệp ngầm định 115 tỷ USD, đặt cược vào kết nối quang cho trung tâm dữ liệu AI",
+      "source": {
+        "name": "CNBC",
+        "kind": "báo tài chính"
+      },
+      "url": "https://www.cnbc.com/2026/11/02/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-.html",
+      "published": "2026-11-02T14:10:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Marvell sẽ đổi 4,5 cổ phiếu lấy mỗi cổ phiếu Lumentum, tương đương khoảng 1.132 USD/cổ phiếu, cao hơn 23,9%; cổ đông Marvell giữ khoảng 67% công ty sau sáp nhập, dự kiến hoàn tất nửa đầu 2028. Hai bên nêu thị trường mục tiêu 550 tỷ USD và cộng hưởng hơn 1 tỷ USD. Phiên công bố, cổ phiếu Marvell giảm khoảng 13%, Lumentum khoảng 19%.",
+      "why_it_matters": "Hạ tầng AI đang dồn sang khâu kết nối quang trong trung tâm dữ liệu; nhà đầu tư phản ứng tiêu cực cho thấy lo ngại định giá chuỗi cung ứng AI.",
+      "tags": [
+        "Marvell",
+        "Lumentum",
+        "M&A",
+        "trung tâm dữ liệu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang CNBC đọc toàn bài; đối chiếu số liệu với thông cáo của Marvell (investor.marvell.com).",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-03-oracle-tencent",
+      "title": "Oracle abandons $7 billion Tencent AI deal under Trump's pressure",
+      "title_vi": "Oracle được cho là hủy hợp đồng cho Tencent thuê khoảng 10 vạn chip AI trị giá ~7 tỷ USD tại trung tâm dữ liệu Đông Nam Á",
+      "source": {
+        "name": "Business Standard (dẫn Reuters)",
+        "kind": "báo tài chính"
+      },
+      "url": "https://www.business-standard.com/world-news/oracle-abandons-7-billion-tencent-ai-deal-under-trump-s-pressure-126110400697_1.html",
+      "published": "2026-11-04T12:39:00+05:30",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "ai_toan_cau",
+      "region": "Global",
+      "summary_vi": "Theo Financial Times được Reuters dẫn lại, Oracle từ bỏ thỏa thuận cho Tencent thuê khoảng 10 vạn chip AI trong 5 năm, trị giá khoảng 7 tỷ USD, đặt tại các trung tâm dữ liệu ở Đông Nam Á, sau sức ép từ chính quyền Trump. Reuters nói chưa tự xác minh được thông tin.",
+      "why_it_matters": "Kiểm soát chip AI giờ ảnh hưởng cả trung tâm dữ liệu ở Đông Nam Á — liên quan trực tiếp tới các dự án data center đang được mời gọi ở VN.",
+      "tags": [
+        "Oracle",
+        "Tencent",
+        "kiểm soát xuất khẩu",
+        "data center"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05",
+      "note": "Tin chưa được Reuters xác minh độc lập."
+    },
+    {
+      "id": "n-20261105-04-anthropic-rsi",
+      "title": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+      "title_vi": "Hồ sơ IPO sửa đổi của Anthropic cảnh báo công ty đang ‘rất gần’ năng lực AI tự cải tiến đệ quy",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "trang tin công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "published": "2026-11-02T22:14:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "TechCrunch đọc bản S-1/A (hồ sơ IPO sửa đổi) của Anthropic và cho biết phần rủi ro có cảnh báo về khả năng AI tự xây dựng, tự cải tiến các thế hệ mô hình tiếp theo (recursive self-improvement). Bài đặt cảnh báo này trong bối cảnh Anthropic chuẩn bị niêm yết.",
+      "why_it_matters": "Đây là ngôn ngữ trong hồ sơ pháp lý, không phải quảng cáo; người dùng doanh nghiệp nên theo dõi các cam kết an toàn và quản trị khi chọn nhà cung cấp AI dài hạn.",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "S-1/A",
+        "an toàn AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-05-meta-conductor",
+      "title": "Meta acquires AI coding startup Conductor",
+      "title_vi": "Meta mua startup lập trình AI Conductor; dịch vụ đám mây của Conductor đóng ngày 20/11",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "trang tin công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "published": "2026-11-04T21:10:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Meta mua Conductor, công ty làm công cụ điều phối nhiều agent lập trình AI. Dịch vụ đám mây của Conductor sẽ ngừng ngày 20/11; đội ngũ về Meta. TechCrunch nhắc các agent Muse của Meta đã có hơn 10 triệu người dùng.",
+      "why_it_matters": "Công cụ agent lập trình đang bị các hãng lớn gom lại; dùng sản phẩm của startup nhỏ thì cần kế hoạch xuất dữ liệu phòng khi dịch vụ đóng đột ngột.",
+      "tags": [
+        "Meta",
+        "Conductor",
+        "agent lập trình",
+        "M&A"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-06-canva-cat-giam",
+      "title": "Canva lays off over 1,200 people amid slowing growth",
+      "title_vi": "Canva cắt 22% nhân sự (1.271 người), hạ dự báo tăng trưởng từ 30% xuống 20%",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "trang tin công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+      "published": "2026-11-04T11:59:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_toan_cau",
+      "region": "Global",
+      "summary_vi": "Canva cắt 1.271 người, khoảng 22% nhân sự, khi tăng trưởng chậm lại; công ty hạ kỳ vọng tăng trưởng từ khoảng 30% xuống 20%. TechCrunch nhắc định giá gần nhất của Canva khoảng 35 tỷ USD.",
+      "why_it_matters": "Công cụ thiết kế phổ thông đang chịu sức ép từ AI tạo ảnh; người dùng doanh nghiệp nên để ý thay đổi gói, giá trong thời gian tới.",
+      "tags": [
+        "Canva",
+        "cắt giảm nhân sự",
+        "thiết kế",
+        "AI tạo sinh"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-07-xinhua-wuzhen-agent",
+      "title": "乌镇峰会发布蓝皮书：中国企业级智能体市场规模达212亿元",
+      "title_vi": "Sách xanh Ô Trấn: thị trường agent AI cho doanh nghiệp TQ đạt 212 亿 tệ năm 2025; AI hiện thân khoảng 9.150 亿 tệ",
+      "source": {
+        "name": "新华网 (Xinhua)",
+        "kind": "hãng tin nhà nước"
+      },
+      "url": "https://www.news.cn/20261104/0240867747544b32bd65ecb03d55d472/c.html",
+      "published": "2026-11-04",
+      "time_known": false,
+      "date_basis": "Ngày trong đường dẫn bài (không có giờ)",
+      "topic": "ai_toan_cau",
+      "region": "CN",
+      "summary_vi": "Tân Hoa xã đưa tin sách xanh công bố tại Hội nghị Internet Thế giới Ô Trấn: quy mô thị trường agent AI cấp doanh nghiệp của Trung Quốc năm 2025 khoảng 212 亿 tệ; mảng trí tuệ nhân tạo hiện thân (robot) ước khoảng 9.150 亿 tệ, tăng 20,4%. Đây là số ước tính của đơn vị biên soạn sách xanh.",
+      "why_it_matters": "Agent AI cho doanh nghiệp đã thành thị trường có số đo ở TQ — các nhà cung cấp TQ sẽ đem sản phẩm sang ĐNÁ, kể cả cho ngành xây dựng.",
+      "tags": [
+        "agent AI",
+        "Trung Quốc",
+        "Ô Trấn",
+        "sách xanh"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "khảo sát/báo cáo",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05",
+      "note": "Số liệu do đơn vị biên soạn sách xanh công bố."
+    },
+    {
+      "id": "n-20261105-08-archiboost-6m",
+      "title": "Archiboost Raises $6.2 Million to Catch Construction Document Errors Before They Reach the Field",
+      "title_vi": "Archiboost gọi 6,2 triệu USD cho AI soát lỗi bản vẽ: đã soát hơn 55 vạn tờ bản vẽ, gắn cờ hơn 12 vạn lỗi tiềm ẩn",
+      "source": {
+        "name": "Archiboost (blog công ty)",
+        "kind": "blog nhà cung cấp"
+      },
+      "url": "https://archiboost.ai/blogs/archiboost-raises-6-2-million",
+      "published": "2026-11-03",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Archiboost (San Francisco) công bố 6,2 triệu USD vòng pre-seed và seed do Hanabi Capital và Marathon Venture Capital dẫn. Hãng nói đã soát hơn 550.000 tờ bản vẽ của các dự án tổng giá trị trên 3,5 tỷ USD, gắn cờ hơn 120.000 lỗi tiềm ẩn và trả lời hơn 15.000 câu hỏi quy chuẩn; mỗi phát hiện dẫn về bản vẽ, thuyết minh, quy chuẩn liên quan. Khách hàng gồm WRNS Studio, OTJ Architects và chủ đầu tư RXR.",
+      "why_it_matters": "Soát xung đột hồ sơ thiết kế trước khi đấu thầu giúp giảm RFI và phát sinh; tiêu chí ‘mỗi lỗi dẫn về tài liệu gốc’ nên đưa vào yêu cầu khi mua công cụ tương tự.",
+      "tags": [
+        "Archiboost",
+        "QA/QC bản vẽ",
+        "gọi vốn",
+        "RFI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05",
+      "note": "Số liệu hiệu quả (ví dụ phát hiện gấp 6 lần soát thủ công) do công ty tự nêu."
+    },
+    {
+      "id": "n-20261105-09-shackleton-5m",
+      "title": "Shackleton AI Unveils Agentic Operating System for Construction, Raises $5 Million Led by Battery Ventures",
+      "title_vi": "Shackleton AI gọi 5 triệu USD (Battery Ventures dẫn) cho ‘hệ điều hành agent’ gom việc giấy tờ của nhà thầu từ nhiều phần mềm",
+      "source": {
+        "name": "PR Newswire",
+        "kind": "thông cáo báo chí"
+      },
+      "url": "https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html",
+      "published": "2026-11-04T13:00:00+00:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Shackleton AI ra mắt nền tảng agent AI cho nhà thầu, gọi được 5 triệu USD vòng seed do Battery Ventures dẫn. Thông cáo nói khách hàng đã quản lý hơn 1 tỷ USD giá trị dự án ở hơn 15 bang; đội dự án thường dùng 7–10 hệ thống và tốn 10–15 giờ/tuần cho việc hành chính.",
+      "why_it_matters": "Bài toán ‘quá nhiều phần mềm rời rạc’ cũng có ở ban dự án VN; agent đọc chéo nhiều hệ thống là hướng đáng theo dõi, nhưng số liệu là của chính công ty.",
+      "tags": [
+        "Shackleton AI",
+        "agent",
+        "nhà thầu",
+        "gọi vốn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-10-pbc-kiem-thu-tro-ly-ai",
+      "title": "AI construction assistants: from plausible answers to dependable decisions",
+      "title_vi": "Ý kiến: trợ lý AI trong xây dựng phải được kiểm thử bằng bộ câu hỏi thật — câu trả lời trôi chảy chưa phải quyết định đáng tin",
+      "source": {
+        "name": "PBC Today",
+        "kind": "tạp chí chuyên ngành"
+      },
+      "url": "https://www.pbctoday.co.uk/news/digital-construction-news/ai-construction-assistants-validation-decisions/167282/",
+      "published": "2026-11-04T10:03:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Tác giả lấy ví dụ trợ lý AI trả lời ngay việc thay thế vật tư có được phép theo thuyết minh hay không, nhưng chưa chắc đã tìm đúng bản mới nhất và đúng quy trình phê duyệt. Bài dẫn hồ sơ rủi ro AI tạo sinh của NIST về nội dung sai được trình bày tự tin, và khuyên nhà thầu lập bộ câu hỏi đại diện có đáp án do chuyên gia kiểm, gồm cả bản sửa đổi mâu thuẫn và tài liệu thiếu.",
+      "why_it_matters": "Phòng đấu thầu/kỹ thuật muốn dùng AI tra hồ sơ nên tự làm bộ câu hỏi kiểm thử trước khi tin; trợ lý tốt phải nói ‘thiếu tài liệu’ thay vì đoán.",
+      "tags": [
+        "trợ lý AI",
+        "kiểm thử",
+        "hồ sơ dự án",
+        "NIST"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "ý kiến",
+      "how_read": "Mở trang bài gốc bằng curl, đọc phần lớn chính văn (đoạn cuối bị cắt khi trích).",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-11-pbc-bim-carbon",
+      "title": "From averages to answers: why BIM still needs product-level carbon data",
+      "title_vi": "BIM cần dữ liệu carbon theo từng sản phẩm thay vì số trung bình — kết quả tính carbon hàm chứa có thể lệch tới 70%",
+      "source": {
+        "name": "PBC Today",
+        "kind": "tạp chí chuyên ngành"
+      },
+      "url": "https://www.pbctoday.co.uk/news/digital-construction-news/from-averages-to-answers-why-bim-still-needs-product-level-carbon-data/167317/",
+      "published": "2026-11-04T15:18:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Bài của 2050 Materials cho rằng mô hình BIM thường gắn hệ số carbon trung bình nên khó so sánh vật liệu cụ thể. Bài dẫn NBS: 3 trong 5 đơn vị đã đo carbon hàm chứa bằng công cụ số; và một nghiên cứu AECOM thấy kết quả có thể chênh tới 70% tùy nguồn dữ liệu.",
+      "why_it_matters": "Khi chủ đầu tư bắt đầu hỏi carbon vật liệu trong hồ sơ thầu, cần yêu cầu nhà cung cấp đưa EPD theo sản phẩm, không chỉ số trung bình.",
+      "tags": [
+        "BIM",
+        "carbon hàm chứa",
+        "EPD",
+        "vật liệu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "ý kiến",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05",
+      "note": "Tác giả thuộc công ty cung cấp dữ liệu carbon (có lợi ích liên quan)."
+    },
+    {
+      "id": "n-20261105-12-veco-4-tinh-nang-ai",
+      "title": "Veco adds new AI features for property agents",
+      "title_vi": "Veco thêm 4 tính năng AI cho môi giới/quản lý cho thuê ở Anh: đọc chứng chỉ an toàn, hóa đơn nhà cung cấp, báo sửa chữa, ghép khách thuê",
+      "source": {
+        "name": "AI PropTech News",
+        "kind": "trang tin chuyên ngành"
+      },
+      "url": "https://aiproptechnews.com/article/veco-adds-new-ai-features-for-property-agents/",
+      "published": "2026-11-03T13:28:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Trợ lý Ask Veco thêm bốn công cụ: đọc chứng chỉ an toàn gas, EPC, EICR để lấy ngày hết hạn và lên lịch; đọc hóa đơn nhà cung cấp, kiểm trùng và trích VAT; nhận báo sửa chữa 24/7 từ người thuê; và chấm điểm mức hợp giữa khách thuê với căn hộ. CEO nhấn mạnh AI làm phần đọc, gõ, còn người duyệt quyết định cuối.",
+      "why_it_matters": "Mô hình ‘AI đọc – người duyệt’ áp dụng được cho vận hành tòa nhà sau bàn giao (hóa đơn nhà thầu bảo trì, chứng chỉ PCCC).",
+      "tags": [
+        "Veco",
+        "quản lý BĐS",
+        "hóa đơn",
+        "vận hành"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Đọc toàn bài qua WebFetch.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-13-dxbinteract-chatgpt-claude",
+      "title": "Property data platform now connected to ChatGPT and Claude",
+      "title_vi": "Nền tảng dữ liệu BĐS Dubai DXBinteract kết nối vào ChatGPT và Claude: hỏi giá, lợi suất cho thuê, tiến độ bàn giao của chủ đầu tư bằng ngôn ngữ thường",
+      "source": {
+        "name": "AI PropTech News",
+        "kind": "trang tin chuyên ngành"
+      },
+      "url": "https://aiproptechnews.com/article/property-data-platform-now-connected-to-chatgpt-and-claude/",
+      "published": "2026-11-02T11:13:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "Global",
+      "summary_vi": "fäm Properties đưa DXBinteract (miễn phí, dựa trên dữ liệu giao dịch của Cục Đất đai Dubai) thành connector cho ChatGPT và Claude. Người dùng hỏi được căn hộ có đắt không (giá tham khảo và khoảng giá), khu nào lợi suất cao, chủ đầu tư bàn giao đúng hạn bao nhiêu dự án và trễ trung vị bao nhiêu ngày.",
+      "why_it_matters": "Chỉ số ‘chủ đầu tư bàn giao đúng hạn’ hiển thị công khai qua AI là sức ép minh bạch mới — các thị trường khác có thể theo.",
+      "tags": [
+        "DXBinteract",
+        "connector",
+        "ChatGPT",
+        "Claude",
+        "Dubai"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Đọc toàn bài qua WebFetch.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-14-suffolk-100mag",
+      "title": "Suffolk deepens tech push with new innovation center",
+      "title_vi": "Tổng thầu Suffolk mở trung tâm đổi mới 100MAG ở Boston: tập trung AI, robot, dữ liệu và lượng tử",
+      "source": {
+        "name": "Construction Dive",
+        "kind": "trang tin chuyên ngành"
+      },
+      "url": "https://www.constructiondive.com/news/suffolk-new-innovation-center-tech-ai-push/873767/",
+      "published": "2026-11-04",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Suffolk Construction cắt băng 100MAG, khu đổi mới tại trụ sở Boston (thông báo 29/10), gom nhóm lập kế hoạch dự án, thiết kế, tự thi công và đầu tư công nghệ về một chỗ. Hãng nêu AI, robot, dữ liệu và lượng tử là trọng tâm; nối tiếp chương trình ‘Jobsite of the Future’ đưa kỹ sư AI ra công trường và quỹ BOOST.",
+      "why_it_matters": "Tổng thầu lớn đang tự nuôi năng lực công nghệ trong nhà thay vì chỉ mua phần mềm — mô hình đáng tham khảo cho tổng thầu/chủ đầu tư lớn ở VN.",
+      "tags": [
+        "Suffolk",
+        "trung tâm đổi mới",
+        "tổng thầu",
+        "AI công trường"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Curl bị chặn (HTTP 403); đọc toàn bộ chính văn qua WebFetch.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-15-cscec-can-truc-thong-minh",
+      "title": "中建集团塔吊智能中控系统",
+      "title_vi": "CSCEC: hệ thống điều khiển trung tâm thông minh cho cẩu tháp — tăng hiệu suất cẩu 15–30%, giảm 30% chi phí nhân công, đã dùng ở hơn 180 dự án",
+      "source": {
+        "name": "中国建筑 (CSCEC, trang tin doanh nghiệp)",
+        "kind": "trang doanh nghiệp"
+      },
+      "url": "https://www.cscec.com.cn/zgjz_new/xwzx_new/zqydt_new/202611/3965746.html",
+      "published": "2026-11-03",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Trang tin của Tổng công ty Xây dựng Trung Quốc giới thiệu hệ thống điều khiển trung tâm cho cẩu tháp: mô hình hiện trường sai số dưới 0,1 m, nhận diện hơn 10 loại vật liệu với độ chính xác từ 80%. Doanh nghiệp nêu hiệu suất cẩu tăng 15–30%, chi phí nhân công giảm 30%, áp dụng ở hơn 180 dự án tại hơn 50 thành phố, hơn 300 cẩu không xảy ra sự cố an toàn.",
+      "why_it_matters": "Cẩu tháp là điểm nghẽn tiến độ và an toàn của nhà cao tầng; số liệu hiệu quả do doanh nghiệp tự công bố, cần kiểm chứng khi chào hàng ở VN.",
+      "tags": [
+        "cẩu tháp",
+        "CSCEC",
+        "điều khiển thông minh",
+        "an toàn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05",
+      "note": "Số liệu do doanh nghiệp tự nêu."
+    },
+    {
+      "id": "n-20261105-16-fangshi-robot-vu-han",
+      "title": "方石机器人携手中建三局亮相武汉智博会",
+      "title_vi": "Robot xây dựng 方石 cùng CSCEC Cục 3 tại hội chợ Vũ Hán: robot san nền, sơn, ốp lát, đã dùng ở hơn 500 dự án",
+      "source": {
+        "name": "方石科技 (Fangshi, trang công ty)",
+        "kind": "trang doanh nghiệp"
+      },
+      "url": "https://www.fangshitech.com/page/90/221.html",
+      "published": "2026-11-02",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Fangshi giới thiệu robot làm phẳng sàn, sơn tường, ốp lát cùng CSCEC Cục 3 tại hội chợ thông minh Vũ Hán (27–29/10), quy mô 2 vạn m², hơn 200 doanh nghiệp, khoảng 3,5 vạn lượt khách. Công ty nói robot đã dùng ở hơn 500 dự án, tổng hơn 1.500 vạn m².",
+      "why_it_matters": "Robot hoàn thiện của TQ đã có quy mô dự án lớn và có thể sớm chào bán sang VN; cần so sánh với chi phí nhân công thực tế.",
+      "tags": [
+        "robot xây dựng",
+        "Fangshi",
+        "hoàn thiện",
+        "Vũ Hán"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05",
+      "note": "Số liệu do công ty tự nêu."
+    },
+    {
+      "id": "n-20261105-17-hongrun-skill-box",
+      "title": "宏润建设推出Skill Box",
+      "title_vi": "Hongrun Construction ra ‘Skill Box’ cho công trường: hơn 60 thuật toán thị giác, phủ hơn 90% tình huống thường gặp",
+      "source": {
+        "name": "同花顺 (10jqka)",
+        "kind": "trang tin tài chính"
+      },
+      "url": "https://stock.10jqka.com.cn/20261102/c681367594.shtml",
+      "published": "2026-11-02T18:21:00+08:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Bài cho biết 宏润建设 ra thiết bị/nền tảng Skill Box với hơn 60 thuật toán thị giác máy tính, công ty nói phủ hơn 90% tình huống thường gặp ở công trường. Doanh thu 9 tháng đầu năm của công ty đạt 37,17 亿 tệ, lãi ròng 1,83 亿 tệ.",
+      "why_it_matters": "AI camera công trường đang được đóng gói thành ‘hộp’ cắm là chạy — mô hình mua sắm đơn giản hơn cho nhà thầu vừa.",
+      "tags": [
+        "Hongrun",
+        "AI thị giác",
+        "công trường",
+        "Trung Quốc"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-18-deepcad",
+      "title": "Introducing DeepCAD: Turning floorplans into intelligent 3D models",
+      "title_vi": "DeepCloud (Thụy Sĩ) giới thiệu DeepCAD: AI biến bản vẽ mặt bằng PDF/scan và quét LiDAR thành mô hình 3D, xuất IFC",
+      "source": {
+        "name": "DeepCloud (newsroom)",
+        "kind": "blog nhà cung cấp"
+      },
+      "url": "https://www.deepcloud.swiss/en/newsroom/news/introducing-deepcad-turning-floorplans-into-intelligent-3d-models/",
+      "published": "2026-11-04",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "DeepCAD dùng AI nhận diện tường, phòng, cửa từ bản vẽ mặt bằng (PDF, ảnh, bản quét) để dựng mô hình có cấu trúc trong vài phút; quét bằng LiDAR trên iPhone/iPad để ra mô hình đúng tỷ lệ; có trợ lý hỏi đáp bằng ngôn ngữ tự nhiên và nhập/xuất IFC. Sản phẩm sắp mở bản beta; dữ liệu lưu ở Thụy Sĩ và không dùng để huấn luyện AI.",
+      "why_it_matters": "Số hóa bản vẽ cũ của tòa nhà hiện hữu là việc tốn công khi cải tạo/vận hành; công cụ 2D→IFC đáng thử khi ra beta.",
+      "tags": [
+        "DeepCAD",
+        "2D sang BIM",
+        "IFC",
+        "LiDAR"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Đọc toàn bài qua WebFetch.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-19-procurious-ky-nang-2030",
+      "title": "Procurement leaders say AI and digital fluency will be most needed skill in 2030",
+      "title_vi": "Khảo sát lãnh đạo mua hàng (chủ yếu châu Á–TBD): hơn 90% nói thiếu kỹ năng đã ảnh hưởng mục tiêu; AI và năng lực số là kỹ năng cần nhất năm 2030",
+      "source": {
+        "name": "SupplyChainBrain",
+        "kind": "trang tin chuyên ngành"
+      },
+      "url": "https://www.supplychainbrain.com/home/top-stories/article/16424190/procurement-leaders-say-ai-and-digital-fluency-will-be-most-needed-skill-in-2030",
+      "published": "2026-11-04",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Khảo sát của Procurious với 67 lãnh đạo mua hàng, phần lớn ở châu Á–Thái Bình Dương: hơn 90% nói khoảng trống kỹ năng đã ảnh hưởng mục tiêu; khoảng 60% không có khung năng lực; 60% nói ngân sách đào tạo không đủ. Sau AI và năng lực số, ưu tiên tiếp theo là ảnh hưởng tới các bên liên quan (42%) và tư duy thương mại (39%).",
+      "why_it_matters": "Gợi ý trực tiếp cho đội đấu thầu: xây khung năng lực có AI/số và kỹ năng thương lượng nội bộ; mẫu khảo sát nhỏ (67 người).",
+      "tags": [
+        "mua hàng",
+        "kỹ năng",
+        "AI",
+        "khảo sát"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "khảo sát/báo cáo",
+      "how_read": "Curl bị chặn (HTTP 403); đọc toàn bộ chính văn qua WebFetch.",
+      "accessed": "2026-11-05",
+      "note": "Mẫu 67 người, không đại diện."
+    },
+    {
+      "id": "n-20261105-20-walmart-symbotic",
+      "title": "Walmart in $6B Symbiotic deal to automate warehouses",
+      "title_vi": "Walmart ký thỏa thuận khoảng 6 tỷ USD với Symbotic để tự động hóa 25 trung tâm phân phối vùng",
+      "source": {
+        "name": "FreightWaves",
+        "kind": "trang tin chuyên ngành"
+      },
+      "url": "https://www.freightwaves.com/news/walmart-in-6b-symbiotic-deal-to-automate-warehouses",
+      "published": "2026-11-03T21:42:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Walmart mở rộng hợp tác với Symbotic trong thỏa thuận khoảng 6 tỷ USD để đưa hệ thống kho robot vào 25 trung tâm phân phối vùng. Bài viết của FreightWaves ghi tên công ty là ‘Symbiotic’.",
+      "why_it_matters": "Tự động hóa kho đang thành khoản đầu tư hàng tỷ USD; với chủ đầu tư BĐS công nghiệp, yêu cầu kỹ thuật kho (tải sàn, chiều cao) sẽ thay đổi theo.",
+      "tags": [
+        "Walmart",
+        "Symbotic",
+        "tự động hóa kho",
+        "logistics"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-21-amazon-kinh-thong-minh",
+      "title": "Amazon deploys thousands of smart glasses to delivery drivers",
+      "title_vi": "Amazon phát hàng nghìn kính thông minh cho tài xế giao hàng: 5.000 chiếc năm nay, hơn 2 vạn chiếc tới cuối 2027",
+      "source": {
+        "name": "Supply Chain Dive",
+        "kind": "trang tin chuyên ngành"
+      },
+      "url": "https://www.supplychaindive.com/news/amazon-deploys-thousands-of-smart-glasses-to-delivery-drivers/873620/",
+      "published": "2026-11-04",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài (không có giờ)",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Amazon triển khai kính thông minh cho tài xế của hơn 300 đối tác giao hàng: khoảng 5.000 chiếc trong năm nay. Mục tiêu là hơn 20.000 chiếc tới cuối 2027.",
+      "why_it_matters": "Thiết bị đeo rảnh tay đang vào vận hành thật — ý tưởng tương tự áp dụng được cho kiểm đếm vật tư, nghiệm thu tại công trường.",
+      "tags": [
+        "Amazon",
+        "kính thông minh",
+        "giao hàng chặng cuối"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Curl bị chặn (HTTP 403); đọc toàn bộ chính văn qua WebFetch.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-22-cuoc-container-thang-11",
+      "title": "Asia-US container rates hold as carriers seek $3,000 November rate hikes",
+      "title_vi": "Cước container châu Á – Mỹ đi ngang: bờ Đông khoảng 9.900 USD/FEU, hãng tàu đòi tăng 2.000–3.000 USD từ tháng 11",
+      "source": {
+        "name": "FreightWaves",
+        "kind": "trang tin chuyên ngành"
+      },
+      "url": "https://www.freightwaves.com/news/asia-us-container-rates-hold-as-carriers-seek-3000-november-rate-hikes",
+      "published": "2026-11-04T17:39:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Cước châu Á – bờ Đông Mỹ khoảng 9.900 USD/FEU (giảm khoảng 6%), bờ Tây khoảng 8.300 USD; các hãng tàu áp phụ phí tăng giá chung 2.000–3.000 USD. Ở cảng Los Angeles/Long Beach, khoảng 250 nhân viên bảo vệ vẫn là rủi ro đình công.",
+      "why_it_matters": "Cước cao kéo dài làm tăng giá vật tư, thiết bị nhập từ châu Á; khi chốt giá thầu cần tách điều khoản cước/phụ phí.",
+      "tags": [
+        "cước container",
+        "GRI",
+        "cảng LA/LB",
+        "logistics"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-23-insee-saca-thuy-si",
+      "title": "INSEE và SACA tiếp cận kinh nghiệm tái chế chất thải rắn từ vật liệu xây dựng tại Thụy Sĩ",
+      "title_vi": "INSEE và Hiệp hội Bê tông Việt Nam (SACA) ký hợp tác ba bên với hiệp hội vật liệu xây dựng tuần hoàn Thụy Sĩ về tái chế chất thải xây dựng",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo ngành"
+      },
+      "url": "https://baoxaydung.vn/insee-va-saca-tiep-can-kinh-nghiem-tai-che-chat-thai-ran-tu-vat-lieu-xay-dung-tai-thuy-si-192261104191156241.htm",
+      "published": "2026-11-04T19:58:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "INSEE Việt Nam, SACA và hiệp hội vật liệu xây dựng tuần hoàn của Thụy Sĩ ký thỏa thuận ba bên để chia sẻ kinh nghiệm tái chế chất thải rắn xây dựng thành vật liệu, hướng tới kinh tế tuần hoàn trong ngành xây dựng Việt Nam. Bài là tin sự kiện ký kết, chưa nêu khối lượng hay lộ trình cụ thể.",
+      "why_it_matters": "Vật liệu tái chế từ phá dỡ có thể vào danh mục vật tư được chấp nhận trong hồ sơ thầu nếu tiêu chuẩn kịp ban hành — cần theo dõi.",
+      "tags": [
+        "INSEE",
+        "SACA",
+        "tái chế",
+        "vật liệu tuần hoàn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05",
+      "note": "Tin sự kiện ký kết; chưa có số liệu khối lượng."
+    },
+    {
+      "id": "n-20261105-24-tphcm-da-can-tho",
+      "title": "TP.HCM hỗ trợ Cần Thơ 2,5 triệu m³ đá thi công cao tốc Châu Đốc – Cần Thơ – Sóc Trăng",
+      "title_vi": "TP.HCM hỗ trợ Cần Thơ 2,5 triệu m³ đá cho cao tốc Châu Đốc – Cần Thơ – Sóc Trăng; tổng nhu cầu khoảng 4,1 triệu m³",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo ngành"
+      },
+      "url": "https://baoxaydung.vn/tphcm-ho-tro-can-tho-25-trieu-m-da-thi-cong-cao-toc-chau-doc-can-tho-soc-trang-192261104175932606.htm",
+      "published": "2026-11-04T18:56:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "Cao tốc Châu Đốc – Cần Thơ – Sóc Trăng dài 132,71 km, vốn khoảng 31.000 tỷ đồng, đạt khoảng 62% khối lượng. Dự án cần khoảng 4,1 triệu m³ đá; TP.HCM hỗ trợ 2,5 triệu m³ từ các mỏ đang cấp phép (thành phố có 40 mỏ).",
+      "why_it_matters": "Đá xây dựng ở phía Nam đang được điều phối liên tỉnh cho dự án trọng điểm — giá và nguồn đá cho dự án tư nhân có thể bị ảnh hưởng.",
+      "tags": [
+        "đá xây dựng",
+        "cao tốc",
+        "Cần Thơ",
+        "vật liệu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-25-ha-noi-5-tuyen-metro",
+      "title": "Hà Nội chốt giá 5 tuyến metro dài 253km, chi phí tối đa 120 triệu USD/km",
+      "title_vi": "Hà Nội chốt trần chi phí 5 tuyến metro dài 253,5 km: tối đa 120 triệu USD/km, nhà thầu chịu phần vượt, mục tiêu 2030",
+      "source": {
+        "name": "CafeF",
+        "kind": "báo tài chính"
+      },
+      "url": "https://cafef.vn/ha-noi-chot-gia-5-tuyen-metro-dai-253km-chi-phi-toi-da-120-trieu-usd-km-188261104152537991.chn",
+      "published": "2026-11-04T16:25:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài (trang không ghi múi giờ, coi là giờ Việt Nam UTC+7)",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "HĐND TP Hà Nội thông qua chủ trương 5 tuyến đường sắt đô thị dài khoảng 253,5 km, tổng vốn hơn 1 triệu tỷ đồng. Chi phí được khống chế tối đa 120 triệu USD/km; nếu vượt, nhà thầu phải tự chịu; mục tiêu hoàn thành 2030.",
+      "why_it_matters": "Trần chi phí + nhà thầu chịu vượt là cơ chế khoán rủi ro hiếm thấy với metro — ảnh hưởng cách định giá thầu và yêu cầu năng lực nhà thầu.",
+      "tags": [
+        "metro Hà Nội",
+        "đường sắt đô thị",
+        "trần chi phí",
+        "đấu thầu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-26-gia-dien-5-bac",
+      "title": "Chính thức áp biểu giá điện sinh hoạt 5 bậc thang, cao nhất 3.844 đồng/kWh",
+      "title_vi": "Chính thức áp biểu giá điện sinh hoạt 5 bậc từ 1/11/2026: 1.901 đến 3.844 đồng/kWh",
+      "source": {
+        "name": "Tuổi Trẻ",
+        "kind": "báo"
+      },
+      "url": "https://tuoitre.vn/chinh-thuc-ap-bieu-gia-dien-sinh-hoat-5-bac-thang-cao-nhat-3844-dong-kwh-100261104103205238.htm",
+      "published": "2026-11-04T11:19:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Bộ Công Thương chính thức áp biểu giá điện sinh hoạt 5 bậc thay 6 bậc từ 1/11/2026: 0–100 kWh 1.901 đồng; 101–200 kWh 2.289 đồng; 201–400 kWh 2.894 đồng; 401–700 kWh 3.456 đồng; từ 701 kWh 3.844 đồng/kWh. Giá bình quân giảm 2%.",
+      "why_it_matters": "Bước tiếp theo của tin ‘giá điện giảm 2%’ (1/11): nay đã có biểu bậc cụ thể; hộ dùng nhiều điện chịu giá bậc cao hơn — ảnh hưởng chi phí vận hành căn hộ.",
+      "tags": [
+        "giá điện",
+        "5 bậc",
+        "Bộ Công Thương",
+        "chi phí sống"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05",
+      "idea_ids": [
+        "20261105-06-dien-tro-dung-gia"
+      ],
+      "note": "Diễn biến mới của tin 1/11 về giá điện bình quân giảm 2%."
+    },
+    {
+      "id": "n-20261105-27-noxh-han-che-chuyen-nhuong",
+      "title": "Bộ Xây dựng hạn chế chuyển nhượng nhà ở xã hội trong 5 năm để ngăn đầu cơ",
+      "title_vi": "Dự thảo Luật Nhà ở (sửa đổi): hạn chế chuyển nhượng nhà ở xã hội trong 5 năm, mỗi người chỉ mua một căn",
+      "source": {
+        "name": "CafeF",
+        "kind": "báo tài chính"
+      },
+      "url": "https://cafef.vn/bo-xay-dung-han-che-chuyen-nhuong-nha-o-xa-hoi-trong-5-nam-de-ngan-dau-co-188261104135106757.chn",
+      "published": "2026-11-04T14:51:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài (trang không ghi múi giờ, coi là giờ Việt Nam UTC+7)",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Bộ Xây dựng đề xuất trong dự thảo Luật Nhà ở sửa đổi: người mua nhà ở xã hội bị hạn chế chuyển nhượng trong 5 năm, mỗi người chỉ được mua một căn. Mục tiêu nêu ra là ngăn đầu cơ, đưa nhà ở xã hội đến đúng đối tượng.",
+      "why_it_matters": "Siết đầu cơ giúp nhà ở xã hội đến đúng người, nhưng có thể làm thanh khoản thứ cấp thấp — ảnh hưởng tính toán của chủ đầu tư khi tham gia phân khúc này.",
+      "tags": [
+        "nhà ở xã hội",
+        "Luật Nhà ở",
+        "đầu cơ",
+        "dự thảo"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-28-dau-gia-dat-thanh-oai",
+      "title": "Từng là 'chảo lửa', đấu giá đất Hà Nội ở Thanh Oai nay chỉ còn 47 người tham gia",
+      "title_vi": "Đấu giá đất Thanh Oai hạ nhiệt: 47 người dự cho 20 lô, giá trúng 44–56 triệu đồng/m², gần một nửa đỉnh 3/2025",
+      "source": {
+        "name": "CafeF",
+        "kind": "báo tài chính"
+      },
+      "url": "https://cafef.vn/tung-la-chao-lua-dau-gia-dat-ha-noi-thanh-oai-nay-chi-con-47-nguoi-tham-gia-gia-trung-giam-gan-mot-nua-188261104133746566.chn",
+      "published": "2026-11-04T13:37:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài (trang không ghi múi giờ, coi là giờ Việt Nam UTC+7)",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Phiên đấu giá 20 lô đất ở Thanh Oai chỉ có 47 người tham gia; giá khởi điểm 14 triệu đồng/m², giá trúng 44–56 triệu đồng/m². Tháng 3/2025, giá trúng cao nhất ở khu vực từng lên 79,9 triệu đồng/m².",
+      "why_it_matters": "Đất đấu giá ven Hà Nội hạ nhiệt rõ — tín hiệu về nhu cầu đầu tư đất nền, ảnh hưởng giá thứ cấp quanh các dự án ngoại thành.",
+      "tags": [
+        "đấu giá đất",
+        "Thanh Oai",
+        "Hà Nội",
+        "BĐS"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-29-thu-thiem-3790-can",
+      "title": "Chốt giá 3.790 căn hộ Thủ Thiêm TP.HCM, quy định sức khỏe doanh nghiệp đấu giá",
+      "title_vi": "TP.HCM chốt giá khởi điểm 18.253,8 tỷ đồng để đấu giá 3.790 căn hộ ở Thủ Thiêm; doanh nghiệp tham gia phải có vốn chủ sở hữu 20%",
+      "source": {
+        "name": "CafeF",
+        "kind": "báo tài chính"
+      },
+      "url": "https://cafef.vn/chot-gia-3790-can-ho-thu-thiem-tphcm-quy-dinh-suc-khoe-doanh-nghiep-dau-gia-188261104185950187.chn",
+      "published": "2026-11-04T19:19:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài (trang không ghi múi giờ, coi là giờ Việt Nam UTC+7)",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "TP.HCM chốt giá khởi điểm 18.253,8 tỷ đồng cho 3.790 căn hộ tái định cư ở Thủ Thiêm đưa ra đấu giá; tổng mức đầu tư 39.843,7 tỷ đồng. Doanh nghiệp tham gia phải chứng minh vốn chủ sở hữu tối thiểu 20%.",
+      "why_it_matters": "Lô hàng lớn căn hộ có sẵn ở trung tâm TP.HCM có thể tác động nguồn cung khu Đông; điều kiện tài chính nghiêm loại bớt nhà đầu tư nhỏ.",
+      "tags": [
+        "Thủ Thiêm",
+        "đấu giá",
+        "căn hộ",
+        "TP.HCM"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "n-20261105-30-tu-dien-du-lieu-do-thi",
+      "title": "Bộ Xây dựng ban hành Từ điển dữ liệu về phát triển đô thị",
+      "title_vi": "Bộ Xây dựng ban hành Từ điển dữ liệu phát triển đô thị (QĐ 1887/QĐ-BXD) với 286 mã từ vựng",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo ngành"
+      },
+      "url": "https://baoxaydung.vn/bo-xay-dung-ban-hanh-tu-dien-du-lieu-ve-phat-trien-do-thi-192261104180550128.htm",
+      "published": "2026-11-04T18:45:00+07:00",
+      "time_known": true,
+      "date_basis": "Ngày giờ ghi trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Bộ Xây dựng ban hành Quyết định 1887/QĐ-BXD về Từ điển dữ liệu phát triển đô thị, gồm 286 mã từ vựng. Bộ mã này dùng làm chuẩn chung cho việc thu thập, chia sẻ dữ liệu đô thị giữa các cơ quan.",
+      "why_it_matters": "Chuẩn hóa dữ liệu là nền cho AI và bản sao số đô thị; doanh nghiệp làm hồ sơ, báo cáo cho cơ quan nhà nước cần theo dõi bộ mã này.",
+      "tags": [
+        "dữ liệu đô thị",
+        "Bộ Xây dựng",
+        "chuẩn hóa",
+        "chuyển đổi số"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-05"
+    }
+  ],
+  "unreachable": [
+    {
+      "source": "Construction Dive, Supply Chain Dive, SupplyChainBrain (curl)",
+      "status": "HTTP 403 khi tải bằng curl",
+      "impact": "Đọc đầy đủ các bài dùng hôm nay qua WebFetch."
+    },
+    {
+      "source": "investing.com (Marvell–Lumentum)",
+      "status": "HTTP 403",
+      "impact": "Dùng CNBC và thông cáo của Marvell thay thế."
+    },
+    {
+      "source": "ForConstructionPros, Gizmodo, vtcnews, engtechnica",
+      "status": "HTTP 403",
+      "impact": "Bỏ qua."
+    },
+    {
+      "source": "ENR, Logistics Management (RSS)",
+      "status": "HTTP 403",
+      "impact": "Bỏ qua hôm nay."
+    },
+    {
+      "source": "AEC Magazine (RSS)",
+      "status": "RSS lỗi định dạng XML",
+      "impact": "Không quét được hôm nay."
+    },
+    {
+      "source": "VIR, Constructech (RSS)",
+      "status": "HTTP 404",
+      "impact": "Bỏ qua."
+    },
+    {
+      "source": "VnExpress, VnEconomy (RSS)",
+      "status": "Trả về rỗng / 0 mục",
+      "impact": "Dùng CafeF, Tuổi Trẻ, Báo Xây dựng."
+    },
+    {
+      "source": "EVN (evn.com.vn), Dân trí (curl)",
+      "status": "Hết thời gian chờ / trả rỗng",
+      "impact": "Giá điện đọc từ Tuổi Trẻ và VTV; bài Dân trí đọc qua WebFetch."
+    }
+  ]
+}

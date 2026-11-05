@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-02",
-  "latest": "2026-11-02",
+  "updated": "2026-11-05",
+  "latest": "2026-11-05",
   "days": [
+    {
+      "date": "2026-11-05",
+      "file": "2026-11-05.json",
+      "headline": "Tự tay làm lên ngôi: TQ mê đôn từ phế liệu và hái rau miễn phí, Hàn in nhãn Pepero tại chỗ; phim ngắn vượt trợ lý AI ở TQ",
+      "idea_count": 8,
+      "trend_count": 6,
+      "keyword_count": 66,
+      "top": {
+        "title": "“Quầy in nhãn que 11/11” — quầy in nhãn tên/lời nhắn tại chỗ cho hộp bánh que, kẹo tặng nhau dịp 11/11 ở cổng trường và quán cà phê",
+        "total_score": 7.02
+      }
+    },
     {
       "date": "2026-11-02",
       "file": "2026-11-02.json",

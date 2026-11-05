@@ -79,8 +79,8 @@
       "vn_availability": "đã xác minh",
       "vn_note": "Việt Nam có trong danh sách quốc gia được hỗ trợ (anthropic.com/supported-countries).",
       "vi_support": "Dùng tiếng Việt tốt trong thực tế; trang chính thức không nêu cam kết riêng — chưa xác minh.",
-      "how_read": "mở trang (claude.com/pricing, docs.claude.com pricing, supported-countries) · mở lại claude.com/pricing 29/10: Free, Pro $17 (năm)/$20 (tháng), Max từ $100 — khớp · mở lại claude.com/pricing 31/10: Free $0, Pro $17 (năm, $200 trả trước)/$20 (tháng), Max từ $100 — khớp · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
-      "checked": "2026-11-02"
+      "how_read": "mở trang (claude.com/pricing, docs.claude.com pricing, supported-countries) · mở lại claude.com/pricing 29/10: Free, Pro $17 (năm)/$20 (tháng), Max từ $100 — khớp · mở lại claude.com/pricing 31/10: Free $0, Pro $17 (năm, $200 trả trước)/$20 (tháng), Max từ $100 — khớp · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl): mọi mức giá trong facts vẫn hiển thị trên trang chính thức — khớp",
+      "checked": "2026-11-05"
     },
     {
       "id": "chatgpt",
@@ -125,7 +125,7 @@
       "vn_availability": "có hạn chế",
       "vn_note": "Gemini API: Việt Nam nằm trong danh sách vùng khả dụng (ai.google.dev/gemini-api/docs/available-regions). Gói Google AI: “hơn 160 quốc gia” — chưa kiểm riêng Việt Nam & giá theo nước.",
       "vi_support": null,
-      "how_read": "mở trang (gemini.google/subscriptions, ai.google.dev pricing & available-regions) · mở lại gemini.google/subscriptions 29/10: AI Plus $4,99, AI Pro $19,99 (giá Mỹ) — khớp · mở lại gemini.google/subscriptions 31/10 (hiển thị cho VN): AI Plus 132.000đ/tháng, AI Pro 489.000đ/tháng, AI Ultra từ 2.250.000đ/tháng · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
+      "how_read": "mở trang (gemini.google/subscriptions, ai.google.dev pricing & available-regions) · mở lại gemini.google/subscriptions 29/10: AI Plus $4,99, AI Pro $19,99 (giá Mỹ) — khớp · mở lại gemini.google/subscriptions 31/10 (hiển thị cho VN): AI Plus 132.000đ/tháng, AI Pro 489.000đ/tháng, AI Ultra từ 2.250.000đ/tháng · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     },
     {
@@ -144,8 +144,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Trang tài liệu mở được; chưa tìm thấy danh sách quốc gia/điều khoản vùng — chưa xác minh dùng/thanh toán tại VN.",
       "vi_support": null,
-      "how_read": "mở trang (api-docs.deepseek.com pricing) · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
-      "checked": "2026-11-02"
+      "how_read": "mở trang (api-docs.deepseek.com pricing) · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl): mọi mức giá trong facts vẫn hiển thị trên trang chính thức — khớp",
+      "checked": "2026-11-05"
     },
     {
       "id": "qwen",
@@ -167,8 +167,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh khả dụng/thanh toán tại VN (Model Studio có nhiều vùng; kiểm tra vùng Quốc tế khi đăng ký).",
       "vi_support": null,
-      "how_read": "mở trang (Model Studio pricing + free quota) · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
-      "checked": "2026-11-02"
+      "how_read": "mở trang (Model Studio pricing + free quota) · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl): mọi mức giá trong facts vẫn hiển thị trên trang chính thức — khớp",
+      "checked": "2026-11-05"
     },
     {
       "id": "huggingface",
@@ -190,8 +190,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Trang mở được; chưa kiểm tra giới hạn theo vùng/thanh toán tại VN.",
       "vi_support": null,
-      "how_read": "mở trang (huggingface.co/pricing) · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
-      "checked": "2026-11-02"
+      "how_read": "mở trang (huggingface.co/pricing) · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl): mọi mức giá trong facts vẫn hiển thị trên trang chính thức — khớp",
+      "checked": "2026-11-05"
     },
     {
       "id": "nano_banana",
@@ -213,8 +213,8 @@
       "vn_availability": "có hạn chế",
       "vn_note": "API: Việt Nam có trong vùng khả dụng; app/gói AI: chưa kiểm riêng VN.",
       "vi_support": null,
-      "how_read": "mở trang (ai.google.dev pricing, gemini.google/subscriptions) · mở lại bảng giá Gemini API 29/10: có Nano Banana trong bảng giá ảnh — khớp · mở lại ai.google.dev pricing 31/10: $0,067/ảnh 1K, $0,101/ảnh 2K — khớp · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
-      "checked": "2026-11-02"
+      "how_read": "mở trang (ai.google.dev pricing, gemini.google/subscriptions) · mở lại bảng giá Gemini API 29/10: có Nano Banana trong bảng giá ảnh — khớp · mở lại ai.google.dev pricing 31/10: $0,067/ảnh 1K, $0,101/ảnh 2K — khớp · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl): mọi mức giá trong facts vẫn hiển thị trên trang chính thức — khớp",
+      "checked": "2026-11-05"
     },
     {
       "id": "flux",
@@ -236,8 +236,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Trang mở được; chưa kiểm tra giới hạn vùng/thanh toán tại VN.",
       "vi_support": null,
-      "how_read": "mở trang (bfl.ai/pricing, docs.bfl.ai pricing) · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
-      "checked": "2026-11-02"
+      "how_read": "mở trang (bfl.ai/pricing, docs.bfl.ai pricing) · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl): mọi mức giá trong facts vẫn hiển thị trên trang chính thức — khớp",
+      "checked": "2026-11-05"
     },
     {
       "id": "seedream",
@@ -255,7 +255,7 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh khả dụng tại VN (BytePlus có trang “Region availability” — chưa đọc).",
       "vi_support": null,
-      "how_read": "mở trang (docs BytePlus ModelArk) · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi",
+      "how_read": "mở trang (docs BytePlus ModelArk) · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     },
     {
@@ -293,7 +293,7 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang tính năng; trang giá không mở được · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi",
+      "how_read": "mở trang tính năng; trang giá không mở được · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     },
     {
@@ -320,7 +320,7 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh khả dụng/ưu đãi theo nước (một trang bên thứ ba nói ưu đãi Dreamina chỉ cho 12 nước — chưa kiểm chứng).",
       "vi_support": null,
-      "how_read": "mở trang (ai.byteplus.com, capcut.com/pricing) + trích đoạn docs qua tìm kiếm · mở lại 29/10 (trang CapCut): Seedance 2.5 từ $0,12/giây trong tháng đầu — khớp · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
+      "how_read": "mở trang (ai.byteplus.com, capcut.com/pricing) + trích đoạn docs qua tìm kiếm · mở lại 29/10 (trang CapCut): Seedance 2.5 từ $0,12/giây trong tháng đầu — khớp · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     },
     {
@@ -339,7 +339,7 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang chủ; trang giá không đọc được · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi",
+      "how_read": "mở trang chủ; trang giá không đọc được · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     },
     {
@@ -377,8 +377,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
-      "checked": "2026-11-02"
+      "how_read": "mở trang · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl): mọi mức giá trong facts vẫn hiển thị trên trang chính thức — khớp",
+      "checked": "2026-11-05"
     },
     {
       "id": "hailuo",
@@ -396,7 +396,7 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang chủ · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi",
+      "how_read": "mở trang chủ · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     },
     {
@@ -419,8 +419,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh khả dụng/thanh toán tại VN.",
       "vi_support": null,
-      "how_read": "mở trang (Model Studio pricing + video-generation, HF Wan-AI) · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
-      "checked": "2026-11-02"
+      "how_read": "mở trang (Model Studio pricing + video-generation, HF Wan-AI) · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl): mọi mức giá trong facts vẫn hiển thị trên trang chính thức — khớp",
+      "checked": "2026-11-05"
     },
     {
       "id": "elevenlabs",
@@ -442,8 +442,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh khả dụng/thanh toán tại VN.",
       "vi_support": "Có (flash_v2_5, v3)",
-      "how_read": "mở trang giá + đọc docs chính thức qua tìm kiếm · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
-      "checked": "2026-11-02"
+      "how_read": "mở trang giá + đọc docs chính thức qua tìm kiếm · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl): mọi mức giá trong facts vẫn hiển thị trên trang chính thức — khớp",
+      "checked": "2026-11-05"
     },
     {
       "id": "fish_audio",
@@ -465,8 +465,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": "Có (S2.1 Pro)",
-      "how_read": "mở trang giá + docs qua tìm kiếm · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
-      "checked": "2026-11-02"
+      "how_read": "mở trang giá + docs qua tìm kiếm · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl): mọi mức giá trong facts vẫn hiển thị trên trang chính thức — khớp",
+      "checked": "2026-11-05"
     },
     {
       "id": "suno",
@@ -484,8 +484,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh khả dụng tại VN; hát tiếng Việt: chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
-      "checked": "2026-11-02"
+      "how_read": "mở trang · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl): mọi mức giá trong facts vẫn hiển thị trên trang chính thức — khớp",
+      "checked": "2026-11-05"
     },
     {
       "id": "meshy",
@@ -507,7 +507,7 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi",
+      "how_read": "mở trang · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     },
     {
@@ -526,8 +526,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại trang giá 29/10: Hobby miễn phí, Pro $20/tháng — khớp · mở lại vercel.com/pricing 31/10: Hobby, Pro $20/tháng — khớp · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
-      "checked": "2026-11-02"
+      "how_read": "mở trang · mở lại trang giá 29/10: Hobby miễn phí, Pro $20/tháng — khớp · mở lại vercel.com/pricing 31/10: Hobby, Pro $20/tháng — khớp · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl): mọi mức giá trong facts vẫn hiển thị trên trang chính thức — khớp",
+      "checked": "2026-11-05"
     },
     {
       "id": "supabase",
@@ -545,8 +545,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại trang giá 29/10: Free 50.000 MAU, 500 MB; Pro từ $25 — khớp · mở lại supabase.com/pricing 31/10: Free 50.000 MAU, 500 MB — khớp (giá Pro không đọc được hôm nay) · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
-      "checked": "2026-11-02"
+      "how_read": "mở trang · mở lại trang giá 29/10: Free 50.000 MAU, 500 MB; Pro từ $25 — khớp · mở lại supabase.com/pricing 31/10: Free 50.000 MAU, 500 MB — khớp (giá Pro không đọc được hôm nay) · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl): mọi mức giá trong facts vẫn hiển thị trên trang chính thức — khớp",
+      "checked": "2026-11-05"
     },
     {
       "id": "cloudflare_pages",
@@ -564,7 +564,7 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang (pages.cloudflare.com, developers.cloudflare.com/workers pricing) · mở lại pages.cloudflare.com 29/10: không giới hạn site và băng thông — khớp · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
+      "how_read": "mở trang (pages.cloudflare.com, developers.cloudflare.com/workers pricing) · mở lại pages.cloudflare.com 29/10: không giới hạn site và băng thông — khớp · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     },
     {
@@ -583,7 +583,7 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh (GitHub truy cập được từ VN trên thực tế nhưng chưa có trang chính thức nêu).",
       "vi_support": null,
-      "how_read": "mở trang (docs.github.com) · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi",
+      "how_read": "mở trang (docs.github.com) · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     },
     {
@@ -602,7 +602,7 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại n8n.io/pricing 26/10: Starter 20€/tháng (trả năm), 2.5K lượt chạy — khớp · thử lại 2/11: chưa đọc được số trên trang bằng curl — giữ ngày kiểm cũ",
+      "how_read": "mở trang · mở lại n8n.io/pricing 26/10: Starter 20€/tháng (trả năm), 2.5K lượt chạy — khớp · thử lại 2/11: chưa đọc được số trên trang bằng curl — giữ ngày kiểm cũ · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-10-26"
     },
     {
@@ -621,8 +621,8 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
-      "checked": "2026-11-02"
+      "how_read": "mở trang · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl): mọi mức giá trong facts vẫn hiển thị trên trang chính thức — khớp",
+      "checked": "2026-11-05"
     },
     {
       "id": "capcut",
@@ -648,7 +648,7 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh giá/tính năng theo nước (thực tế dùng được ở VN nhưng trang chính thức không nêu).",
       "vi_support": null,
-      "how_read": "mở trang · mở lại trang giá 29/10: Pro USD 19,99/tháng — khớp · mở lại capcut.com/pricing 31/10 (hiển thị cho VN): Pro 290.000đ/tháng hoặc 1.890.000đ/năm; Ultra 2.049.000đ/tháng · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp",
+      "how_read": "mở trang · mở lại trang giá 29/10: Pro USD 19,99/tháng — khớp · mở lại capcut.com/pricing 31/10 (hiển thị cho VN): Pro 290.000đ/tháng hoặc 1.890.000đ/năm; Ultra 2.049.000đ/tháng · mở lại 2/11 (curl): các mức giá trong facts vẫn hiển thị — khớp · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     },
     {
@@ -667,7 +667,7 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "không mở được trang giá · thử lại canva.com/pricing 26/10: trang trả nội dung rỗng (JS) — vẫn không nêu giá · thử lại canva.com/pricing 31/10: trang tải bằng JavaScript, không đọc được giá · thử lại 2/11: chưa đọc được số trên trang bằng curl — giữ ngày kiểm cũ",
+      "how_read": "không mở được trang giá · thử lại canva.com/pricing 26/10: trang trả nội dung rỗng (JS) — vẫn không nêu giá · thử lại canva.com/pricing 31/10: trang tải bằng JavaScript, không đọc được giá · thử lại 2/11: chưa đọc được số trên trang bằng curl — giữ ngày kiểm cũ · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-10-31"
     },
     {
@@ -686,7 +686,7 @@
       "vn_availability": "đã xác minh",
       "vn_note": "Sàn hoạt động tại Việt Nam (trang seller-vn.tiktok.com).",
       "vi_support": null,
-      "how_read": "mở trang (đăng nhập; chỉ đọc tiêu đề) · mở lại seller-vn.tiktok.com 26/10: tiêu đề “Sell More on TikTok Shop Vietnam”; phí vẫn không đọc được · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi",
+      "how_read": "mở trang (đăng nhập; chỉ đọc tiêu đề) · mở lại seller-vn.tiktok.com 26/10: tiêu đề “Sell More on TikTok Shop Vietnam”; phí vẫn không đọc được · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     },
     {
@@ -705,7 +705,7 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Sàn Việt Nam; chi tiết phí chưa xác minh.",
       "vi_support": null,
-      "how_read": "không đọc được nội dung · thử lại banhang.shopee.vn 26/10: ứng dụng JS, không đọc được nội dung · thử lại 2/11: chưa đọc được số trên trang bằng curl — giữ ngày kiểm cũ",
+      "how_read": "không đọc được nội dung · thử lại banhang.shopee.vn 26/10: ứng dụng JS, không đọc được nội dung · thử lại 2/11: chưa đọc được số trên trang bằng curl — giữ ngày kiểm cũ · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-10-26"
     },
     {
@@ -724,7 +724,7 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Mở được từ ngoài VN; chưa xác minh giao hàng/thanh toán về VN — kiểm tra từng nhà cung cấp.",
       "vi_support": null,
-      "how_read": "mở trang chủ · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi",
+      "how_read": "mở trang chủ · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     },
     {
@@ -743,7 +743,7 @@
       "vn_availability": "chưa xác minh",
       "vn_note": "Chưa xác minh.",
       "vi_support": null,
-      "how_read": "không đọc được · thử lại 2/11: chưa đọc được số trên trang bằng curl — giữ ngày kiểm cũ",
+      "how_read": "không đọc được · thử lại 2/11: chưa đọc được số trên trang bằng curl — giữ ngày kiểm cũ · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-10-25"
     },
     {
@@ -762,7 +762,7 @@
       "vn_availability": "đã xác minh",
       "vn_note": "Dịch vụ cho ngân hàng Việt Nam.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại 29/10: img.vietqr.io tạo ảnh QR hoạt động — khớp · mở lại vietqr.io 31/10: tạo QR bằng URL img.vietqr.io; thông báo thay đổi API tháng 10/2026 · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi",
+      "how_read": "mở trang · mở lại 29/10: img.vietqr.io tạo ảnh QR hoạt động — khớp · mở lại vietqr.io 31/10: tạo QR bằng URL img.vietqr.io; thông báo thay đổi API tháng 10/2026 · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     },
     {
@@ -781,7 +781,7 @@
       "vn_availability": "đã xác minh",
       "vn_note": "Dịch vụ Việt Nam.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại trang chủ 29/10: ‘Cổng thanh toán miễn phí’ — khớp · mở lại payos.vn 31/10: ‘Cổng thanh toán miễn phí payOS’ · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi",
+      "how_read": "mở trang · mở lại trang chủ 29/10: ‘Cổng thanh toán miễn phí’ — khớp · mở lại payos.vn 31/10: ‘Cổng thanh toán miễn phí payOS’ · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     },
     {
@@ -800,7 +800,7 @@
       "vn_availability": "đã xác minh",
       "vn_note": "Dịch vụ Việt Nam; phí & điều kiện chưa xác minh.",
       "vi_support": null,
-      "how_read": "không đọc được · thử lại 2/11: chưa đọc được số trên trang bằng curl — giữ ngày kiểm cũ",
+      "how_read": "không đọc được · thử lại 2/11: chưa đọc được số trên trang bằng curl — giữ ngày kiểm cũ · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-10-25"
     },
     {
@@ -819,7 +819,7 @@
       "vn_availability": "đã xác minh",
       "vn_note": "Dịch vụ Việt Nam.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại oa.zalo.me 26/10: trang chủ đọc được; bảng giá vẫn chưa đọc · mở lại oa.zalo.me 31/10: trang chủ đọc được, bảng giá gói vẫn chưa đọc số · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi",
+      "how_read": "mở trang · mở lại oa.zalo.me 26/10: trang chủ đọc được; bảng giá vẫn chưa đọc · mở lại oa.zalo.me 31/10: trang chủ đọc được, bảng giá gói vẫn chưa đọc số · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     },
     {
@@ -838,7 +838,7 @@
       "vn_availability": "đã xác minh",
       "vn_note": "Dịch vụ Việt Nam.",
       "vi_support": null,
-      "how_read": "mở trang · mở lại zalo.cloud/zns 26/10: tiêu đề “Giải pháp tin nhắn Doanh nghiệp trên Zalo”; giá chưa đọc · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi",
+      "how_read": "mở trang · mở lại zalo.cloud/zns 26/10: tiêu đề “Giải pháp tin nhắn Doanh nghiệp trên Zalo”; giá chưa đọc · mở lại 2/11 (curl): trang mở được (HTTP 200), nội dung facts không đổi · mở lại 5/11 (curl, HTTP 200): trang chính thức tải được; giá trong facts không đọc được bằng curl (JS/theo vùng) nên giữ nguyên mức xác minh cũ",
       "checked": "2026-11-02"
     }
   ]

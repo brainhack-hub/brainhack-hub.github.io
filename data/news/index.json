@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02",
-  "latest": "2026-11-02",
+  "updated": "2026-11-05",
+  "latest": "2026-11-05",
   "topics": [
     {
       "id": "ai_xd",
@@ -68,6 +68,19 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-11-05",
+      "file": "2026-11-05.json",
+      "headline": "Đọc báo 5/11/2026: Gemini 4 Carbon dẫn benchmark, Marvell mua Lumentum 115 tỷ USD; Archiboost, Shackleton gọi vốn AI xây dựng; CSCEC cẩu tháp thông minh; Hà Nội khống chế 120 triệu USD/km metro; điện 5 bậc",
+      "item_count": 30,
+      "topics": {
+        "ai_xd": 11,
+        "chuoi_cung_ung": 6,
+        "cong_nghe": 0,
+        "ai_toan_cau": 7,
+        "vn": 6
+      }
+    },
     {
       "date": "2026-11-02",
       "file": "2026-11-02.json",
