@@ -1,0 +1,2471 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T07:30:00+07:00",
+  "headline": "Personal Agent & AI bỏ túi TQ; bán tháo cổ phiếu AI Mỹ; Pepero–CSAT Hàn; ý tưởng gửi trà sữa hộ và hộp đếm ngược kỳ thi",
+  "summary": "36Kr (1/11) mô tả cơn sốt ‘Personal Agent’ kiểu Muse tại TQ (Muse tải 10,4 triệu trong chưa đầy 2 tháng) kèm rào cản siêu ứng dụng; Tiiny AI (4/11) gọi vốn Pre-A ‘hàng chục triệu USD’ cho máy Pocket 300 g chạy mô hình 120B tại chỗ; Dealroom (3/11) ghi Sequoia China dẫn vòng seed MaocoLand (thú bông AI). Ngày 5/11 Phố Wall: S&P 500 −4,4% (~2,8 nghìn tỷ USD), Nasdaq Composite −5,5% (BBC/NBC/CNBC thống nhất hướng). Hàn: mùa Pepero Day + CSAT nóng hơn Halloween (Financial News 27/10). Tám ý tưởng nhỏ hôm nay gắn trà sữa gửi hộ, hộp 100 ngày trước thi, phiên vẽ IP thú, gói chữa lành dạng túi, túi xếp đồ Tết, sổ Personal Agent giấy, quầy photocard theo mood nhạc, và watchlist phần cứng AI bỏ túi.",
+  "trends": [
+    {
+      "id": "20261106-t1-personal-agent-tq",
+      "title": "TQ: cơn sốt Personal Agent kiểu Muse — Today AI, Cue, OS3; siêu ứng dụng vẫn chặn agent",
+      "summary": "36Kr (1/11/2026): Muse của Meta đạt 10,4 triệu lượt tải trong chưa đầy 2 tháng, kích hoạt làn sóng ‘Personal Agent’ tại TQ. Các đội Today AI (ký ức liên tục), Manus Cue (email/máy tính cho agent), Rabbit OS3 đang thử đường phần mềm và phần cứng. Rào cản: Doubao SAEP — danh sách từ chối gồm WeChat, Taobao, Alipay, Meituan; WishSeen ước chi phí agent chủ động ≥ 1000 tệ/user/tháng.",
+      "why_it_matters": "Agent cá nhân là tín hiệu sản phẩm lớn nhưng chi phí và tường thành siêu ứng dụng khiến MVP ở VN nên bắt đầu từ một việc nhỏ (nhớ việc / gửi quà / nhắc lịch) chứ không ‘làm hộ cả đời’.",
+      "tags": [
+        "Personal Agent",
+        "Muse",
+        "Today AI",
+        "Doubao",
+        "WeChat"
+      ],
+      "regions": [
+        "CN",
+        "US"
+      ],
+      "key_facts": [
+        {
+          "text": "Muse (Meta) đạt 10,4 triệu lượt tải tích lũy trong chưa đầy 2 tháng sau ra mắt — theo 36Kr 1/11/2026.",
+          "source_ids": [
+            "kr36_muse"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Sau thông báo SAEP của Doubao (đến 14/10), danh sách từ chối gồm WeChat, Taobao, Alipay, Meituan — theo 36Kr.",
+          "source_ids": [
+            "kr36_muse"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "WishSeen ước chi phí vận hành agent chủ động đủ mạnh ≥ 1000 tệ/user/tháng — theo 36Kr.",
+          "source_ids": [
+            "kr36_muse"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "kr36_muse",
+          "name": "36Kr (bản Anh)",
+          "title": "Beneath New Entrances & Ancient City Walls: How Far Is the Chinese Version of Muse?",
+          "url": "https://eu.36kr.com/en/p/4051143495603336",
+          "published": "2026-11-01",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang",
+          "note": "Bài tiếng Anh của 李炤锋; số liệu Muse/SAEP/chi phí WishSeen lấy từ bài này."
+        }
+      ]
+    },
+    {
+      "id": "20261106-t2-ai-pocket-hardware",
+      "title": "Phần cứng AI bỏ túi & thú bông AI: Tiiny Pocket Pre-A; MaocoLand (ex-Pop Mart) seed Sequoia China",
+      "summary": "Tiiny AI (Thượng Hải, 4/11) hoàn tất Pre-A ‘hàng chục triệu USD’ (敦鸿 dẫn đầu; 顺为/经纬/锦秋…); sản phẩm Pocket ~300 g, cỡ sạc dự phòng, tuyên bố chạy mô hình 120B tại chỗ, đã xong xác nhận tiền sản xuất. Dealroom (3/11): MaocoLand (猫草乐园, Thâm Quyến) đóng seed do Sequoia China dẫn — đội từ Pop Mart/DJI, thú bông AI-native (báo thức, loa, camera…), nhắm người 20–35 bị stress.",
+      "why_it_matters": "Hai hướng phần cứng cảm xúc + AI cục bộ đang hút vốn; góc VN là phụ kiện/IP mềm và dịch vụ trải nghiệm, không phải tự làm chip.",
+      "tags": [
+        "Tiiny",
+        "MaocoLand",
+        "AI hardware",
+        "plush",
+        "Sequoia China"
+      ],
+      "regions": [
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "Tiiny AI hoàn tất Pre-A hàng chục triệu USD ngày 4/11/2026; Pocket ~300 g, tuyên bố chạy mô hình 120B local — theo bài 创营社 5/11 (meta published 2026-11-05).",
+          "source_ids": [
+            "tiiny_cy"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "MaocoLand đóng vòng seed do Sequoia China dẫn; founder Wang Lili từng thiết kế IP Pop Mart (Crybaby/Molly/Labubu) — Dealroom 3/11/2026.",
+          "source_ids": [
+            "dealroom_maoco"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "tiiny_cy",
+          "name": "创营社",
+          "title": "Tiiny AI完成数千万美元Pre-A轮，300克口袋AI超算将量产",
+          "url": "https://ai.hfbcw.cn/index.php/2026/11/05/tiiny-ai-pre-a-pocket-supercomputer/",
+          "published": "2026-11-05",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang",
+          "note": "Số vòng/đồng đầu tư theo bài; chưa có thông cáo tiếng Anh độc lập mở được lúc viết."
+        },
+        {
+          "id": "dealroom_maoco",
+          "name": "Dealroom",
+          "title": "Sequoia China backs Pop Mart designer's AI toy startup MaocoLand in seed round",
+          "url": "https://dealroom.co/news/169396-sequoia-china-backs-pop-mart-designers-ai-toy-startup-maocoland-in-seed/",
+          "published": "2026-11-03",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang (WebSearch/snippet + thử mở); xác nhận lại bằng tìm kiếm",
+          "note": "WebFetch timeout; nội dung khớp snippet Dealroom 3/11. verification 1 nguồn."
+        }
+      ]
+    },
+    {
+      "id": "20261106-t3-ban-thao-ai-my",
+      "title": "5/11: bán tháo cổ phiếu AI Mỹ — S&P −4,4% (~2,8 nghìn tỷ), Nasdaq −5,5%; Nvidia ~−9%, SanDisk ~−22%",
+      "summary": "BBC, NBC News và CNBC (5/11/2026) mô tả phiên lao dốc gắn lo ngại trung tâm dữ liệu AI sau kết quả midterm. S&P 500 −4,4% (xóa ~2,8 nghìn tỷ USD theo NBC); Nasdaq Composite −5,5% vào vùng điều chỉnh; Nvidia khoảng −9% (BBC: >9%, >400 tỷ USD vốn hóa); SanDisk khoảng −22%.",
+      "why_it_matters": "Tín hiệu vĩ mô cho watchlist chip/AI infra; không phải lời khuyên mua bán. Ở VN, Google Trends có ‘chứng khoán mỹ’ trong top ngày.",
+      "tags": [
+        "Nasdaq",
+        "Nvidia",
+        "SanDisk",
+        "midterm",
+        "AI bubble"
+      ],
+      "regions": [
+        "US",
+        "CN",
+        "JP",
+        "VN"
+      ],
+      "key_facts": [
+        {
+          "text": "S&P 500 giảm 4,4%, xóa khoảng 2,8 nghìn tỷ USD giá trị — NBC News 5/11/2026.",
+          "source_ids": [
+            "nbc_sell",
+            "bbc_sell"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Nasdaq Composite giảm hơn 5,5% và vào vùng correction (≥10% dưới đỉnh gần) — BBC và NBC 5/11.",
+          "source_ids": [
+            "bbc_sell",
+            "nbc_sell"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Nvidia giảm hơn 9% (BBC); SanDisk giảm hơn 22% (BBC/NBC).",
+          "source_ids": [
+            "bbc_sell",
+            "nbc_sell"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bbc_sell",
+          "name": "BBC News",
+          "title": "Major tech stocks plunge as US midterms sparks fears of AI slowdown",
+          "url": "https://www.bbc.com/news/articles/cmn04705rd8jo",
+          "published": "2026-11-05",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "nbc_sell",
+          "name": "NBC News",
+          "title": "Stocks plunge as AI worries crush tech shares",
+          "url": "https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650",
+          "published": "2026-11-05",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "cnbc_sell",
+          "name": "CNBC",
+          "title": "Magnificent 7 loses $1 trillion — stats from Thursday tech plunge",
+          "url": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+          "published": "2026-11-05",
+          "accessed": "2026-11-06",
+          "how_read": "tìm kiếm (snippet)",
+          "note": "curl trang CNBC trả nội dung rất ngắn/403; số liệu Mag7 −1 nghìn tỷ lấy từ snippet CNBC, đối chiếu hướng với BBC/NBC."
+        }
+      ]
+    },
+    {
+      "id": "20261106-t4-pepero-csat-han",
+      "title": "Hàn: Halloween tắt, Pepero Day + CSAT thành tâm điểm marketing tháng 11",
+      "summary": "Financial News (27/10/2026): ngành F&B Hàn gần như bỏ marketing Halloween sau thay đổi dư luận hậu Itaewon 2022; ngược lại, chiến dịch Pepero Day và CSAT (kỳ thi đại học) đang nóng. Lotte Wellfood đẩy Pepero Day 2026 toàn cầu (Stray Kids, video, limited); Haitai có 10 sản phẩm Pocky kế hoạch cho 11/11; Nongshim làm sự kiện cổ vũ CSAT. Google Trends KR sáng 6/11 có ‘수능일’ và ‘대학수학능력시험’.",
+      "why_it_matters": "Mẫu ‘ngày đặc biệt + quà khích lệ học tập’ có thể địa phương hóa thành hộp đếm ngược kỳ thi / quầy quà mood cho Gen Z VN.",
+      "tags": [
+        "Pepero",
+        "CSAT",
+        "수능",
+        "Lotte",
+        "Haitai"
+      ],
+      "regions": [
+        "KR"
+      ],
+      "key_facts": [
+        {
+          "text": "Halloween marketing gần như biến mất; Pepero Day và CSAT là hai mốc bán hàng lớn nửa cuối năm — Financial News 27/10/2026.",
+          "source_ids": [
+            "fn_pep"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Haitai Confectionery sẽ ra 10 sản phẩm Pocky đặc biệt cho 11/11 — Financial News.",
+          "source_ids": [
+            "fn_pep"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Google Trends KR 6/11 có ‘수능일’ (rank 4) và ‘대학수학능력시험’ (rank 6).",
+          "source_ids": [
+            "gt-kr"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "fn_pep",
+          "name": "Financial News (EN)",
+          "title": "Autumn special-day marketing shows a split: Halloween promotions disappear as Pepero Day and CSAT campaigns heat up",
+          "url": "https://en.fnnews.com/news/202610271246279144",
+          "published": "2026-10-27",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "gt-kr",
+          "name": "Google Trends KR",
+          "title": "Daily Search Trends geo=KR",
+          "url": "https://trends.google.com/trending/rss?geo=KR",
+          "published": null,
+          "accessed": "2026-11-06",
+          "how_read": "mở trang",
+          "note": "RSS/bảng realtime; không có ngày đăng bài báo."
+        }
+      ]
+    },
+    {
+      "id": "20261106-t5-ai-dau-thau-ban-ve",
+      "title": "Autodesk Bid Proposal Agent + Trimble CrunchAI đọc bản vẽ: AI preconstruction nối hồ sơ–giá–rủi ro",
+      "summary": "Autodesk Digital Builder (cập nhật 4/11/2026): tại AU 2026, CEO nhắc Bid Proposal Agent (beta) trong Forma Bid — đọc PDF đề xuất thầu phụ, tách giá/bao gồm/loại trừ, truy xuất về nguồn. Trimble/Document Crunch (21/10): CrunchAI index chữ trên drawing sets, chat chung với hợp đồng & specs để tìm lệch phạm vi.",
+      "why_it_matters": "Với người làm đấu thầu/mua sắm xây dựng ở VN: tín hiệu rõ là AI đang đi vào so khớp hồ sơ trước khi phá giá — vẫn cần người duyệt.",
+      "tags": [
+        "Autodesk",
+        "Forma Bid",
+        "Trimble",
+        "CrunchAI",
+        "preconstruction"
+      ],
+      "regions": [
+        "US"
+      ],
+      "key_facts": [
+        {
+          "text": "Bid Proposal Agent (beta) trích xuất breakdown giá, inclusions/exclusions từ PDF thầu phụ trong Forma Bid — Autodesk blog cập nhật 4/11/2026.",
+          "source_ids": [
+            "adsk_bid"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Document Crunch (Trimble) mở review drawings kèm contracts/specs bằng CrunchAI từ 21/10/2026 — thông cáo Trimble.",
+          "source_ids": [
+            "trimble_crunch"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "adsk_bid",
+          "name": "Autodesk Digital Builder",
+          "title": "What I Heard at AU: Why Connected Bid Management Became a Bigger Conversation",
+          "url": "https://www.autodesk.com/blogs/construction/what-i-heard-at-au-why-connected-bid-management-became-a-bigger-conversation/",
+          "published": "2026-11-04",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang",
+          "note": " Curl/bot nhận HTTP 403; đã đọc đầy đủ bằng WebFetch 6/11."
+        },
+        {
+          "id": "trimble_crunch",
+          "name": "Trimble (PR Newswire)",
+          "title": "Trimble Expands Risk Intelligence Capabilities to Include Construction Drawings",
+          "url": "https://news.trimble.com/2026-10-21-Trimble-Expands-Risk-Intelligence-Capabilities-to-Include-Construction-Drawings",
+          "published": "2026-10-21",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang"
+        }
+      ]
+    },
+    {
+      "id": "20261106-t6-cuoc-phi-ai-cong-suez",
+      "title": "Maersk nâng dự báo EBITDA 2026 lên 14–14,5 tỷ USD nhờ tắc cảng + nhu cầu hàng AI; cổ phiếu vẫn −11%",
+      "summary": "CNBC Africa (5/11, nguồn Reuters): Maersk nâng guidance EBITDA 2026 lần ba lên 14–14,5 tỷ USD (trước 10,5–12,5); EBIT 8–8,5 tỷ. CEO Vincent Clerc nói nhu cầu đến từ điện khí hóa, năng lượng và hạ tầng AI. Cước biển quý tăng 46% so quý trước; Q3 EBITDA 4,7 tỷ (dưới kỳ vọng 5,04 tỷ); cổ phiếu −11% vì nâng dự báo đã được kỳ vọng.",
+      "why_it_matters": "Chuỗi cung ứng vật tư/thiết bị AI vẫn đẩy cước; nhà thầu và importer VN cần theo dõi tắc cảng và lịch Suez.",
+      "tags": [
+        "Maersk",
+        "freight",
+        "AI infrastructure",
+        "port congestion"
+      ],
+      "regions": [
+        "EU",
+        "US",
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "Maersk nâng EBITDA 2026 lên 14–14,5 tỷ USD (từ 10,5–12,5) — CNBC Africa 5/11/2026 dẫn công bố hãng.",
+          "source_ids": [
+            "maersk_cnbc"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Cước Ocean tăng 46% so quý trước và hơn gấp đôi so cùng kỳ năm trước — cùng bài.",
+          "source_ids": [
+            "maersk_cnbc"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "maersk_cnbc",
+          "name": "CNBC Africa",
+          "title": "Maersk raises outlook again as AI buildout, port congestion keep freight rates high",
+          "url": "https://www.cnbcafrica.com/2026/maersk-raises-outlook-again-as-ai-buildout-port-congestion-keep-freight-rates-high",
+          "published": "2026-11-05",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang",
+          "note": "Bài Jacob Gronholt-Pedersen; số liệu theo thông cáo/Maersk được bài thuật lại."
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "20261106-01-tra-sua-gui-ho-ai",
+      "title": "“Trà sữa gửi hộ có thẻ AI” — dịch vụ Zalo: mô tả bạn, AI soạn thẻ, đặt trà sữa giao kèm lời nhắn",
+      "pitch": "Khách nhắn Zalo 5 câu về người nhận; nhận bản thẻ + link đặt trà sữa giao kèm thẻ in/ảnh thẻ. Lấy cảm hứng từ AI companion gửi trà sữa ngoài đời ở TQ, làm bản thủ công–bán tự động ở VN.",
+      "type": "startup",
+      "category": [
+        "service",
+        "fnb",
+        "ai"
+      ],
+      "tags": [
+        "trà sữa",
+        "Zalo",
+        "Personal Agent",
+        "quà"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu TQ về companion/Personal Agent có nguồn; mô hình ‘AI soạn thẻ + ship trà sữa’ tại VN là giả thuyết chưa khảo sát đối thủ đầy đủ.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261106-01-tra-sua-gui-ho-ai.webp",
+      "image_alt": "Minh họa phẳng ly trà sữa màu teal và thẻ cam kèm lời nhắn",
+      "regions": [
+        "CN",
+        "VN"
+      ],
+      "signal_text": "36Kr 1/11: Muse 10,4 triệu tải kích hoạt Personal Agent TQ; góc sản phẩm ‘AI chạm đời thật’ (gửi đồ uống) được nhắc trong hệ companion TQ — địa phương hóa thành dịch vụ Zalo thủ công có AI soạn thẻ.",
+      "vn_youth_fit": "Hợp nhóm dùng AI hằng ngày và thanh toán số (fact ai, vi-dien-tu); thích gửi quà nhỏ có ‘khoảnh khắc’ chia sẻ.",
+      "vn_fit_refs": [
+        "ai",
+        "vi-dien-tu",
+        "genz-app"
+      ],
+      "from_keywords": [
+        "kw-global-01"
+      ],
+      "key_facts": [
+        {
+          "text": "36Kr 1/11/2026: Muse đạt 10,4 triệu lượt tải trong chưa đầy 2 tháng, kích hoạt thảo luận Personal Agent TQ.",
+          "source_ids": [
+            "kr36_muse"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "kr36_muse",
+          "name": "36Kr",
+          "title": "Chinese Version of Muse / Personal Agent",
+          "url": "https://eu.36kr.com/en/p/4051143495603336",
+          "published": "2026-11-01",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Giả thuyết: bán qua Zalo + app giao đồ uống sẵn có; không tự xây app. Cần hỏi 20 người đã từng gửi trà sữa hộ xem họ có trả 15–30 nghìn cho thẻ hay không.",
+      "localize_global": "EVE/Personal Agent TQ là cảm hứng trải nghiệm, không copy nhãn hiệu.",
+      "first_steps": [
+        "Ngày 1–2: Claude viết form 5 câu và 20 thẻ mẫu.",
+        "Ngày 3: Canva thiết kế 3 mẫu thẻ; in thử 30 tờ.",
+        "Ngày 4: Mở kênh Zalo + VietQR; đăng mẫu.",
+        "Ngày 5: CapCut video demo; đăng TikTok.",
+        "Ngày 6–7: Chạy 10 đơn thật; hỏi phản hồi; quyết định."
+      ],
+      "capital": {
+        "vnd_min_m": 1,
+        "vnd_max_m": 4,
+        "usd_min": 38,
+        "usd_max": 154,
+        "note": "In thẻ, sim/Zalo, ship mẫu, ads nhỏ. Tỷ giá ~26.000."
+      },
+      "risks": [
+        "Ship muộn phá moment",
+        "Thẻ generic",
+        "Quán từ chối kẹp thẻ",
+        "Lộ dữ liệu người nhận",
+        "Phụ thuộc app giao hàng"
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 7,
+        "novelty": 7,
+        "lowcap": 9,
+        "signal": 6,
+        "vnfit": 7
+      },
+      "toolstack": {
+        "checked": "2026-11-06",
+        "confidence": "trung bình",
+        "wow": "Khách chỉ trả lời 5 câu trên Zalo — 2 phút sau đã có thẻ AI + bill trà sữa sẵn để bấm đặt.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Soạn form hỏi và bộ thẻ theo tone.",
+            "why": "Giỏi tiếng Việt dài; Free/Pro linh hoạt.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Thiết kế thẻ in.",
+            "why": "Mẫu nhanh, xuất PDF in.",
+            "alt_ids": [
+              "nano_banana"
+            ]
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Kênh nhận đơn.",
+            "why": "Người VN sẵn Zalo.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Thu tiền thử.",
+            "why": "Quét mã phổ biến.",
+            "alt_ids": [
+              "momo",
+              "payos"
+            ]
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Video demo ngắn.",
+            "why": "Xuất TikTok nhanh.",
+            "alt_ids": []
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "vietqr",
+            "capcut"
+          ],
+          "monthly_cost_note": "Claude Free + Canva Free + VietQR + CapCut Free nếu đủ; OA Zalo có thể chưa cần trả phí tháng đầu.",
+          "tradeoff": "Thiếu OA chuyên nghiệp, dùng Zalo cá nhân — khó scale."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "zalo_oa",
+            "momo",
+            "capcut"
+          ],
+          "monthly_cost_note": "Claude Pro + Canva Pro + Zalo OA + MoMo Business (giá theo trang chính thức, kiểm lại khi đăng ký).",
+          "tradeoff": "Tốn hơn nhưng tin nhắn và thanh toán sạch hơn."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi biến ý tưởng dưới đây thành bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay. Chỉ dùng dữ kiện đã nêu; đánh dấu [cần xác minh] khi thiếu thông tin.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Trà sữa gửi hộ có thẻ AI” — dịch vụ Zalo: mô tả bạn, AI soạn thẻ, đặt trà sữa giao kèm lời nhắn\nTóm tắt: Khách nhắn Zalo 5 câu về người nhận; nhận bản thẻ + link đặt trà sữa giao kèm thẻ in/ảnh thẻ. Lấy cảm hứng từ AI companion gửi trà sữa ngoài đời ở TQ, làm bản thủ công–bán tự động ở VN.\nMục tiêu tuần: xác minh có ≥ 10 đơn trả tiền thử trong 7 ngày ở Hà Nội hoặc TP.HCM; đo tỷ lệ khách gửi lại lần 2; quyết định đi tiếp / chỉnh form / dừng.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nTín hiệu (chỉ dùng các mục này):\n- 36Kr 1/11/2026: cơn sốt Personal Agent TQ sau Muse (10,4 triệu lượt tải < 2 tháng); EVE (cùng hệ sinh thái companion) từng gây chú ý khi AI gửi trà sữa tới địa chỉ thật (bài LatePost 4/11 về 自然选择/EVE–Elys nhắc tính năng này — dùng như gợi ý sản phẩm, không lấy số liệu doanh thu từ đó nếu chưa mở đủ).\n- Giả thuyết địa phương hóa: giới trẻ VN hay gửi trà sữa/đồ uống qua app giao hàng kèm lời nhắn ngắn.\nMức xác minh: tín hiệu TQ 1 nguồn gốc cho Personal Agent (36Kr); góc EVE trà sữa là gợi ý sản phẩm từ báo cáo ngành — ghi [cần xác minh] nếu dùng số liệu cụ thể. Không thêm thương hiệu trà sữa VN vào phần ‘đã có nguồn’.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nKhách: Gen Z / Gen Y văn phòng hoặc sinh viên muốn gửi đồ uống + lời nhắn chỉn chu cho crush/bạn/đồng nghiệp mà không muốn tự viết.\nvn_youth_fit: 81% dùng công cụ AI hằng ngày (fact ai); thanh toán số phổ biến (vi-dien-tu); thích trải nghiệm vui, chia sẻ được lên story.\nlocalize_vn là giả thuyết: chưa khảo sát đối thủ VN làm đúng mô hình ‘AI soạn thẻ + điều phối ship trà sữa’.\n\n## 4. Ràng buộc\nVốn dự kiến: 1–4 triệu VND (~38–153 USD) cho in thẻ thử, sim/Zalo OA thử, chạy ads nhỏ, ship mẫu.\nThị trường: Hà Nội/TP.HCM, thanh toán VietQR / MoMo / chuyển khoản.\nPháp lý: ghi rõ không phải dịch vụ trung gian thanh toán có giấy phép; chỉ hỗ trợ soạn thẻ + hướng dẫn đặt; [cần xác minh] quy định quảng cáo và bảo vệ dữ liệu cá nhân người nhận.\nRủi ro: ship muộn làm mất ‘moment’; thẻ sáo rỗng; cửa hàng từ chối kẹp thẻ; khách dán nhãn AI lộ liễu.\nBộ công cụ (chỉ tên + vai trò, không nêu giá): Claude (Anthropic) soạn bộ thẻ & kịch bản hỏi; Canva thiết kế mẫu thẻ; Zalo Official Account (OA) nhận đơn; MoMo (Business) hoặc VietQR Kit (Casso) thu tiền thử; CapCut làm video demo 15–20 giây.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\nNgày 1–2: Claude soạn form 5 câu + 20 mẫu thẻ theo tone (vui, nghiêm túc, xin lỗi, cảm ơn).\nNgày 3: Canva xong 3 mẫu thẻ in được; in 30 tờ thử.\nNgày 4: Mở Zalo OA / Zalo cá nhân chuyên dụng; gắn VietQR; đăng mẫu.\nNgày 5: Quay video CapCut ‘gửi hộ trong 3 phút’; đăng TikTok/Reels.\nNgày 6–7: Nhận 10 đơn thử, giao thật, hỏi 3 câu phản hồi; quyết định.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\nBạn phải tạo:\n1) Form hỏi 5 câu + bảng map câu trả lời → tone thẻ.\n2) 20 thẻ mẫu tiếng Việt (≤ 40 từ/thẻ) chia 4 tone.\n3) File Canva brief (kích thước thẻ, lề, chỗ để QR ảnh).\n4) Tin nhắn Zalo tự động: chào / nhận đơn / gửi preview / xác nhận ship.\n5) Checklist ship: dán thẻ, chụp ảnh, báo khách.\n6) Bảng giá vốn–giá bán thử (để trống số cửa hàng — tôi tự điền).\n7) Ngưỡng quyết định: đơn, % gửi lại, NPS tự hỏi.\n\n## 7. Cách làm việc\nChỉ hỏi tối đa 3 câu nếu thật sự thiếu thông tin để ra sản phẩm. Không bịa số liệu, thương hiệu hay nguồn. Đánh dấu [cần xác minh] cho mọi giả định pháp lý/giá/đối thủ. Phân biệt rõ: (a) dữ kiện có nguồn ở mục 2, (b) giả định địa phương hóa, (c) việc tôi phải tự kiểm tra ngoài đời.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt theo thứ tự: (1) tóm tắt 5–7 câu + danh sách giả định; (2) bảng kế hoạch 7 ngày (cột: ngày | việc | sản phẩm hoàn thành | chỉ số); (3) từng sản phẩm ở mục 6 (đầy đủ, copy được); (4) chỉ số & ngưỡng quyết định đi tiếp/chỉnh/dừng sau 7 ngày; (5) đúng 5 rủi ro kèm cách giảm nhẹ.\n",
+      "date": "2026-11-06",
+      "total_score": 7.36,
+      "rank": 1
+    },
+    {
+      "id": "20261106-08-watchlist-ai-pocket",
+      "title": "Watchlist “AI bỏ túi & chip sau phiên 5/11” — theo dõi Tiiny/MaocoLand và cổ phiếu chip sau bán tháo",
+      "pitch": "Watchlist công khai phần cứng AI bỏ túi TQ + chip sau bán tháo 5/11 — không khuyến nghị đầu tư.",
+      "type": "invest",
+      "category": [
+        "invest",
+        "ai"
+      ],
+      "tags": [
+        "watchlist",
+        "chip",
+        "Tiiny",
+        "selloff"
+      ],
+      "hypothesis": false,
+      "hypothesis_note": "",
+      "confidence": "cao",
+      "image": "assets/ideas/20261106-08-watchlist-ai-pocket.webp",
+      "image_alt": "Thiết bị bỏ túi navy với màn hình teal và sparkline cam",
+      "regions": [
+        "CN",
+        "US",
+        "JP",
+        "VN"
+      ],
+      "signal_text": "BBC/NBC 5/11 bán tháo AI; Tiiny Pre-A; MaocoLand seed.",
+      "vn_youth_fit": "Khớp tìm kiếm chứng khoán Mỹ và tò mò AI (ai, ket-noi).",
+      "vn_fit_refs": [
+        "ai",
+        "ket-noi"
+      ],
+      "from_keywords": [
+        "kw-global-01",
+        "kw-vn-08",
+        "kw-cn-02"
+      ],
+      "key_facts": [
+        {
+          "text": "S&P −4,4% (~2,8 nghìn tỷ), Nasdaq Composite −5,5% ngày 5/11 — NBC/BBC.",
+          "source_ids": [
+            "bbc_sell",
+            "nbc_sell"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Tiiny AI Pre-A hàng chục triệu USD; Pocket ~300 g — 创营社 5/11.",
+          "source_ids": [
+            "tiiny_cy"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bbc_sell",
+          "name": "BBC",
+          "title": "Tech stocks plunge",
+          "url": "https://www.bbc.com/news/articles/cmn04705rd8jo",
+          "published": "2026-11-05",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "nbc_sell",
+          "name": "NBC News",
+          "title": "Stocks plunge AI worries",
+          "url": "https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650",
+          "published": "2026-11-05",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "tiiny_cy",
+          "name": "创营社",
+          "title": "Tiiny AI Pre-A",
+          "url": "https://ai.hfbcw.cn/index.php/2026/11/05/tiiny-ai-pre-a-pocket-supercomputer/",
+          "published": "2026-11-05",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Theo dõi tiếng Việt; nhắc rủi ro; không tư vấn có phí.",
+      "localize_global": "Nêu quan điểm trái chiều: bán tháo có thể là cơ hội hoặc đầu điều chỉnh dài.",
+      "first_steps": [
+        "Ngày 1: Danh mục+nguồn.",
+        "Ngày 2–3: Trang + disclaimer.",
+        "Ngày 4–7: Nhật ký tối."
+      ],
+      "capital": {
+        "vnd_min_m": 0,
+        "vnd_max_m": 1,
+        "usd_min": 0,
+        "usd_max": 38,
+        "note": "Chủ yếu thời gian."
+      },
+      "risks": [
+        "Hiểu nhầm khuyến nghị",
+        "Giá đổi nhanh",
+        "Nguồn TQ một chiều",
+        "Thiên kiến xác nhận"
+      ],
+      "scores": {
+        "ease": 9,
+        "demand": 6,
+        "novelty": 5,
+        "lowcap": 10,
+        "signal": 9,
+        "vnfit": 5
+      },
+      "toolstack": {
+        "checked": "2026-11-06",
+        "confidence": "cao",
+        "wow": "Mỗi dòng nhật ký gắn link BBC/NBC/创营社 — không có nút mua.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Khung nhật ký & disclaimer.",
+            "why": "Rõ.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "chatgpt",
+            "role": "Đối chiếu bản Anh.",
+            "why": "Đọc chéo.",
+            "alt_ids": [
+              "deepseek"
+            ]
+          },
+          {
+            "tool_id": "deepseek",
+            "role": "Đọc nguồn Trung.",
+            "why": "Khi cần.",
+            "alt_ids": [
+              "qwen"
+            ]
+          },
+          {
+            "tool_id": "github_pages",
+            "role": "Xuất bản.",
+            "why": "Miễn phí.",
+            "alt_ids": [
+              "cloudflare_pages"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Infographic rủi ro.",
+            "why": "Dễ hiểu.",
+            "alt_ids": []
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "deepseek",
+            "github_pages",
+            "canva"
+          ],
+          "monthly_cost_note": "Free tiers.",
+          "tradeoff": "Cập nhật giá thủ công."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "chatgpt",
+            "github_pages",
+            "canva"
+          ],
+          "monthly_cost_note": "ChatGPT/Claude trả phí nếu đọc nhiều PDF.",
+          "tradeoff": "Vẫn không realtime."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi biến ý tưởng dưới đây thành bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay. Chỉ dùng dữ kiện đã nêu; đánh dấu [cần xác minh] khi thiếu thông tin.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: Watchlist “AI bỏ túi & chip sau phiên 5/11” — theo dõi Tiiny/MaocoLand và cổ phiếu chip sau bán tháo\nTóm tắt: Trang theo dõi công khai, không khuyến nghị mua bán. Mục tiêu: 1 trang + nhật ký 7 ngày; ≥ 100 lượt xem.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nTín hiệu: BBC/NBC 5/11 — S&P −4,4% (~2,8 nghìn tỷ), Nasdaq Composite −5,5%, Nvidia ~−9%, SanDisk ~−22%. Tiiny Pre-A (创营社 5/11). MaocoLand seed (Dealroom 3/11). Baidu/Yahoo phản ánh bán tháo. KHÔNG phải khuyến nghị đầu tư.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nKhách: bạn trẻ VN mới tìm hiểu chứng khoán/tech (Trends VN có ‘chứng khoán mỹ’); cần khung rủi ro.\n\n## 4. Ràng buộc\nVốn 0–1 triệu VND (~0–38 USD).\nCông cụ: Claude (Anthropic); ChatGPT / OpenAI; DeepSeek API; GitHub Pages; Canva.\nBắt buộc disclaimer.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\nNgày 1: chốt danh mục có nguồn. Ngày 2–3: trang + disclaimer. Ngày 4–7: nhật ký tối; không khuyên mua/bán.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\nTạo: trang watchlist; bảng nguồn; mẫu nhật ký; 5 câu hỏi thiên kiến; disclaimer [cần xác minh].\n\n## 7. Cách làm việc\nChỉ hỏi tối đa 3 câu nếu thật sự thiếu thông tin để ra sản phẩm. Không bịa số liệu, thương hiệu hay nguồn. Đánh dấu [cần xác minh] cho mọi giả định pháp lý/giá/đối thủ. Phân biệt rõ: (a) dữ kiện có nguồn ở mục 2, (b) giả định địa phương hóa, (c) việc tôi phải tự kiểm tra ngoài đời.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt theo thứ tự: (1) tóm tắt 5–7 câu + danh sách giả định; (2) bảng kế hoạch 7 ngày (cột: ngày | việc | sản phẩm hoàn thành | chỉ số); (3) từng sản phẩm ở mục 6 (đầy đủ, copy được); (4) chỉ số & ngưỡng quyết định đi tiếp/chỉnh/dừng sau 7 ngày; (5) đúng 5 rủi ro kèm cách giảm nhẹ.\n",
+      "date": "2026-11-06",
+      "total_score": 7.3,
+      "rank": 2
+    },
+    {
+      "id": "20261106-02-hop-100-ngay-truoc-thi",
+      "title": "“Hộp 100 ngày trước thi” — hộp đếm ngược + quà nhỏ khích lệ cho mùa thi VN",
+      "pitch": "Bộ hộp 4–8 ngăn (hoặc lịch gói nhỏ) gửi trước kỳ thi; mỗi mốc mở một món nhỏ + thẻ động viên. Lấy nhịp Pepero Day/CSAT marketing Hàn.",
+      "type": "startup",
+      "category": [
+        "product",
+        "ecom"
+      ],
+      "tags": [
+        "CSAT",
+        "Pepero",
+        "đếm ngược",
+        "mùa thi"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu Hàn có nguồn; nhu cầu hộp đếm ngược kỳ thi tại VN chưa khảo sát — giả thuyết.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261106-02-hop-100-ngay-truoc-thi.webp",
+      "image_alt": "Hộp đếm ngược màu teal với các ngăn cam và kem",
+      "regions": [
+        "KR",
+        "VN"
+      ],
+      "signal_text": "Financial News 27/10: Pepero Day + CSAT marketing nóng hơn Halloween; Trends KR 6/11 có 수능.",
+      "vn_youth_fit": "Hợp nhóm chịu ảnh hưởng K-culture và có ngân sách chọn lọc (han-quoc, ngan-sach).",
+      "vn_fit_refs": [
+        "han-quoc",
+        "ngan-sach"
+      ],
+      "from_keywords": [
+        "kw-kr-04",
+        "kw-kr-06",
+        "kw-kr-11",
+        "kw-global-02"
+      ],
+      "key_facts": [
+        {
+          "text": "FNNews 27/10: Pepero Day và CSAT là mốc bán lớn; Halloween marketing gần biến mất.",
+          "source_ids": [
+            "fn_pep"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "fn_pep",
+          "name": "Financial News",
+          "title": "Pepero Day and CSAT campaigns heat up",
+          "url": "https://en.fnnews.com/news/202610271246279144",
+          "published": "2026-10-27",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Giả thuyết: đóng gói 8 mốc thay vì 100 ngăn để giữ vốn thấp; bán pre-order trước kỳ thi ĐH hoặc IELTS.",
+      "first_steps": [
+        "Ngày 1: Chốt 8 mốc.",
+        "Ngày 2–3: Thẻ + SKU.",
+        "Ngày 4: Lắp 5 hộp mẫu.",
+        "Ngày 5: Pre-order.",
+        "Ngày 6–7: Giao thử + feedback."
+      ],
+      "capital": {
+        "vnd_min_m": 3,
+        "vnd_max_m": 8,
+        "usd_min": 115,
+        "usd_max": 308,
+        "note": "Hộp, hàng mẫu, in, ship thử."
+      },
+      "risks": [
+        "Hàng dễ hỏng",
+        "Trùng lịch thi từng khối",
+        "Đối thủ tự làm hộp DIY",
+        "Tồn SKU"
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 7,
+        "novelty": 6,
+        "lowcap": 7,
+        "signal": 7,
+        "vnfit": 7
+      },
+      "toolstack": {
+        "checked": "2026-11-06",
+        "confidence": "trung bình",
+        "wow": "Mở đúng mốc trước thi — mỗi ngăn một thẻ AI + món nhỏ, quay story được ngay.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Viết thẻ động viên theo mốc.",
+            "why": "Giọng tiếng Việt tự nhiên.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Thiết kế hộp/thẻ.",
+            "why": "In nhanh.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "a1688",
+            "role": "Tìm hộp/gói sỉ.",
+            "why": "Giá vốn thấp.",
+            "alt_ids": [
+              "alibaba"
+            ]
+          },
+          {
+            "tool_id": "shopee_seller",
+            "role": "Pre-order.",
+            "why": "Kênh Gen Z quen.",
+            "alt_ids": [
+              "tiktok_shop"
+            ]
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Chăm group ôn thi.",
+            "why": "Nhóm học hay dùng Zalo.",
+            "alt_ids": []
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "a1688",
+            "shopee_seller"
+          ],
+          "monthly_cost_note": "Ưu tiên Free tiers + phí sàn Shopee theo đơn.",
+          "tradeoff": "Ít tự động hóa chăm sóc."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "a1688",
+            "shopee_seller",
+            "zalo_oa"
+          ],
+          "monthly_cost_note": "Thêm OA/ZNS khi đơn ổn; Canva Pro nếu cần brand kit.",
+          "tradeoff": "Chi phí cố định tăng."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi biến ý tưởng dưới đây thành bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay. Chỉ dùng dữ kiện đã nêu; đánh dấu [cần xác minh] khi thiếu thông tin.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Hộp 100 ngày trước thi” — hộp đếm ngược + quà nhỏ khích lệ cho mùa thi VN\nTóm tắt: Bộ hộp 4–8 ngăn (hoặc lịch gói nhỏ) gửi trước kỳ thi; mỗi mốc mở một món nhỏ + thẻ động viên. Lấy nhịp Pepero Day/CSAT marketing Hàn.\nMục tiêu tuần: bán thử 15 hộp pre-order (đặt cọc) cho phụ huynh/sinh viên quanh một trường hoặc group ôn thi; đo tỷ lệ hoàn tất thanh toán và điểm hài lòng.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nTín hiệu:\n- Financial News 27/10/2026: Halloween marketing gần biến mất ở Hàn; Pepero Day + CSAT là tâm điểm bán hàng tháng 11; Lotte/Haitai/Nongshim chạy chiến dịch quà và cổ vũ thi.\n- Google Trends KR 6/11: ‘수능일’, ‘대학수학능력시험’ vào top.\nÁp VN: giả thuyết mùa thi đại học/IELTS/chứng chỉ — chưa có số liệu nhu cầu hộp đếm ngược tại VN → hypothesis.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nKhách: phụ huynh Gen Y mua cho con; sinh viên tự thưởng; bạn gửi cho bạn đang ôn.\nvn_youth_fit: Gen Z có ngân sách và siết chi (ngan-sach); vẫn chi cho trải nghiệm ý nghĩa; K-culture kéo mua (han-quoc).\nCần khảo sát giá chấp nhận 150–350 nghìn/hộp.\n\n## 4. Ràng buộc\nVốn: 3–8 triệu VND (~115–307 USD) cho hàng mẫu, hộp, in thẻ, gửi thử.\nThanh toán: Shopee / chuyển khoản / VietQR.\nPháp lý: ghi rõ không phải thực phẩm chức năng chữa bệnh; nếu có bánh kẹo — hạn dùng và bảo quản [cần xác minh].\nCông cụ: Claude (Anthropic) lịch nội dung thẻ 100 ngày rút gọn thành 8 mốc; Canva thiết kế hộp/thẻ; 1688.com hoặc Alibaba.com tìm hộp/gói; Shopee Việt Nam (Kênh Người Bán) mở pre-order; Zalo Official Account (OA) chăm group ôn thi.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\nNgày 1: Chọn 8 mốc (T-100,T-60,T-30,T-14,T-7,T-3,T-1,ngày thi) — không cần đủ 100 món.\nNgày 2–3: Claude + Canva bộ thẻ; chốt SKU bánh/bút/sticker.\nNgày 4: Nhập/gom hàng; lắp 5 hộp mẫu.\nNgày 5: Ảnh + form pre-order Shopee/Zalo.\nNgày 6–7: Chốt 15 cọc; giao 5 hộp đầu; hỏi feedback.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\nTạo: (1) lịch 8 mốc + nội dung thẻ; (2) BOM giá vốn từng món; (3) mockup hộp; (4) trang pre-order (copy Shopee); (5) kịch bản video 20 giây; (6) phiếu hỏi 5 câu sau nhận hàng.\n\n## 7. Cách làm việc\nChỉ hỏi tối đa 3 câu nếu thật sự thiếu thông tin để ra sản phẩm. Không bịa số liệu, thương hiệu hay nguồn. Đánh dấu [cần xác minh] cho mọi giả định pháp lý/giá/đối thủ. Phân biệt rõ: (a) dữ kiện có nguồn ở mục 2, (b) giả định địa phương hóa, (c) việc tôi phải tự kiểm tra ngoài đời.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt theo thứ tự: (1) tóm tắt 5–7 câu + danh sách giả định; (2) bảng kế hoạch 7 ngày (cột: ngày | việc | sản phẩm hoàn thành | chỉ số); (3) từng sản phẩm ở mục 6 (đầy đủ, copy được); (4) chỉ số & ngưỡng quyết định đi tiếp/chỉnh/dừng sau 7 ngày; (5) đúng 5 rủi ro kèm cách giảm nhẹ.\n",
+      "date": "2026-11-06",
+      "total_score": 6.88,
+      "rank": 3
+    },
+    {
+      "id": "20261106-03-phien-ve-ip-thu",
+      "title": "“Phiên vẽ IP thú 1 ngày” — workshop 3 giờ: nghĩ nhân vật, vẽ, in lên tote/sticker",
+      "pitch": "Pop-up cuối tuần: mỗi người tạo một nhân vật thú gốc (không copy thương hiệu), AI hỗ trợ làm sạch nét vẽ, in ngay lên tote hoặc set sticker.",
+      "type": "startup",
+      "category": [
+        "service",
+        "product",
+        "ai"
+      ],
+      "tags": [
+        "IP",
+        "workshop",
+        "tote",
+        "MaocoLand"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu MaocoLand có nguồn Dealroom; workshop IP 1 ngày ở VN là giả thuyết — cần kiểm đối thủ lớp vẽ/sticker có sẵn.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261106-03-phien-ve-ip-thu.webp",
+      "image_alt": "Nhân vật thú trừu tượng teal trên nền kem cạnh túi tote cam",
+      "regions": [
+        "CN",
+        "VN"
+      ],
+      "signal_text": "Dealroom 3/11: Sequoia China dẫn seed MaocoLand — AI plush IP cho 20–35 tuổi.",
+      "vn_youth_fit": "Hợp nhóm thích collect/IP và workshop trải nghiệm (collect, thu-cung như cảm xúc đồng hành).",
+      "vn_fit_refs": [
+        "thu-cung",
+        "ngan-sach"
+      ],
+      "from_keywords": [],
+      "key_facts": [
+        {
+          "text": "MaocoLand seed do Sequoia China dẫn; founder từng làm IP Pop Mart — Dealroom 3/11/2026.",
+          "source_ids": [
+            "dealroom_maoco"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "dealroom_maoco",
+          "name": "Dealroom",
+          "title": "Sequoia China backs MaocoLand",
+          "url": "https://dealroom.co/news/169396-sequoia-china-backs-pop-mart-designers-ai-toy-startup-maocoland-in-seed/",
+          "published": "2026-11-03",
+          "accessed": "2026-11-06",
+          "how_read": "tìm kiếm (snippet) + đối chiếu",
+          "note": "WebFetch timeout; dùng mô tả Dealroom từ kết quả tìm kiếm đã mở."
+        }
+      ],
+      "localize_vn": "Giả thuyết: thuê góc quán cà phê; in tức thì bằng xưởng local; cấm copy Labubu/Molly.",
+      "first_steps": [
+        "Ngày 1–2: Giáo án + chống IP.",
+        "Ngày 3: Test in.",
+        "Ngày 4–5: Bán vé.",
+        "Ngày 6: Chạy phiên.",
+        "Ngày 7: Tính lãi."
+      ],
+      "capital": {
+        "vnd_min_m": 2,
+        "vnd_max_m": 6,
+        "usd_min": 77,
+        "usd_max": 231,
+        "note": "Thuê chỗ, tote, mực, ads."
+      },
+      "risks": [
+        "Vi phạm IP vô ý",
+        "Máy in chậm",
+        "Ít khách cuối tuần",
+        "Ảnh AI lệch nét tay"
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 6,
+        "novelty": 7,
+        "lowcap": 8,
+        "signal": 6,
+        "vnfit": 6
+      },
+      "toolstack": {
+        "checked": "2026-11-06",
+        "confidence": "trung bình",
+        "wow": "Từ giấy nháp đến tote in nhân vật của bạn trong một buổi — AI chỉ làm sạch nét, không thay bạn sáng tạo.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Story bible nhân vật & giáo án.",
+            "why": "Khung rõ.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "ideogram",
+            "role": "Làm sạch nét/chữ trên sticker.",
+            "why": "Giữ chữ tốt.",
+            "alt_ids": [
+              "flux",
+              "nano_banana"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Layout in.",
+            "why": "Nhanh.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Bán vé.",
+            "why": "Quen VN.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Thu vé.",
+            "why": "Tức thì.",
+            "alt_ids": [
+              "momo"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "nano_banana",
+            "canva",
+            "vietqr"
+          ],
+          "monthly_cost_note": "Dùng Nano Banana/Gemini image trong hạn Free nếu đủ; Ideogram khi cần chữ.",
+          "tradeoff": "Chất lượng ảnh không đều."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "ideogram",
+            "canva",
+            "zalo_oa",
+            "vietqr"
+          ],
+          "monthly_cost_note": "Ideogram/Canva trả phí theo trang chính thức khi volume tăng.",
+          "tradeoff": "Chi phí/khách tăng."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi biến ý tưởng dưới đây thành bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay. Chỉ dùng dữ kiện đã nêu; đánh dấu [cần xác minh] khi thiếu thông tin.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Phiên vẽ IP thú 1 ngày” — workshop 3 giờ: nghĩ nhân vật, vẽ, in lên tote/sticker\nTóm tắt: Pop-up cuối tuần: mỗi người tạo một nhân vật thú gốc (không copy thương hiệu), AI hỗ trợ làm sạch nét vẽ, in ngay lên tote hoặc set sticker.\nMục tiêu tuần: tổ chức 1 phiên 8–12 người, thu đủ chi phí + lãi nhỏ; đo % khách đặt thêm sản phẩm in.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nTín hiệu: Dealroom 3/11/2026 — MaocoLand (đội ex-Pop Mart/DJI) seed do Sequoia China dẫn, làm thú bông AI-native cho người 20–35 cần an ủi cảm xúc. Góc VN: không làm phần cứng; bán trải nghiệm ‘tự có IP một ngày’.\nXác minh: 1 nguồn Dealroom; số vốn seed không công bố.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nKhách: Gen Z thích sưu tầm/IP (collect), hay đi workshop cuối tuần; fan Pop Mart/Labubu nhưng muốn nhân vật của riêng mình.\nvn_fit_refs: liên hệ sở thích thú cưng/đồ chơi cảm xúc và chi tiêu trải nghiệm.\n\n## 4. Ràng buộc\nVốn: 2–6 triệu VND (~76–230 USD) thuê góc quán, in tote/sticker, vật tư vẽ.\nCông cụ: Claude (Anthropic) hướng dẫn xây story nhân vật; Ideogram hoặc FLUX (Black Forest Labs) hoặc Nano Banana (Gemini image, Google) làm sạch nét vẽ; Canva layout print; Zalo Official Account (OA) bán vé; VietQR Kit (Casso) thu vé.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\nNgày 1–2: Khung workshop 3 giờ; checklist pháp lý không dùng IP có bản quyền.\nNgày 3: Test pipeline ảnh→in trên 3 tote.\nNgày 4–5: Mở bán vé Zalo; đăng mẫu.\nNgày 6: Chạy phiên.\nNgày 7: Hỏi feedback; tính lãi.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\nTạo: giáo án 3 giờ; phiếu nhân vật; prompt library làm sạch nét (không biến thành nhân vật thương hiệu); bảng giá in; form vé; checklist chống vi phạm IP.\n\n## 7. Cách làm việc\nChỉ hỏi tối đa 3 câu nếu thật sự thiếu thông tin để ra sản phẩm. Không bịa số liệu, thương hiệu hay nguồn. Đánh dấu [cần xác minh] cho mọi giả định pháp lý/giá/đối thủ. Phân biệt rõ: (a) dữ kiện có nguồn ở mục 2, (b) giả định địa phương hóa, (c) việc tôi phải tự kiểm tra ngoài đời.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt theo thứ tự: (1) tóm tắt 5–7 câu + danh sách giả định; (2) bảng kế hoạch 7 ngày (cột: ngày | việc | sản phẩm hoàn thành | chỉ số); (3) từng sản phẩm ở mục 6 (đầy đủ, copy được); (4) chỉ số & ngưỡng quyết định đi tiếp/chỉnh/dừng sau 7 ngày; (5) đúng 5 rủi ro kèm cách giảm nhẹ.\n",
+      "date": "2026-11-06",
+      "total_score": 6.62,
+      "rank": 4
+    },
+    {
+      "id": "20261106-06-so-personal-agent-giay",
+      "title": "“Sổ Personal Agent giấy” — planner 30 ngày bắt chước thói quen agent (nhớ–nhắc–giao) nhưng offline",
+      "pitch": "Planner giấy bắt chước nhịp Personal Agent nhưng offline cho người ngại đám mây.",
+      "type": "startup",
+      "category": [
+        "product",
+        "content"
+      ],
+      "tags": [
+        "planner",
+        "Personal Agent",
+        "offline"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Phản ứng ngược cơn sốt agent đám mây — giả thuyết có nhóm offline tại VN.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261106-06-so-personal-agent-giay.webp",
+      "image_alt": "Sổ planner teal mở với dòng kẻ và dấu kiểm cam",
+      "regions": [
+        "CN",
+        "VN"
+      ],
+      "signal_text": "36Kr: agent đắt và bị chặn — khoảng trống công cụ một việc kể cả giấy.",
+      "vn_youth_fit": "Hợp nhóm dùng AI nhưng kiểm soát chi tiêu/dữ liệu (ai, ngan-sach).",
+      "vn_fit_refs": [
+        "ai",
+        "ngan-sach"
+      ],
+      "from_keywords": [],
+      "key_facts": [
+        {
+          "text": "WishSeen ước ≥ 1000 tệ/user/tháng cho agent chủ động — 36Kr 1/11.",
+          "source_ids": [
+            "kr36_muse"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "kr36_muse",
+          "name": "36Kr",
+          "title": "Chinese Version of Muse",
+          "url": "https://eu.36kr.com/en/p/4051143495603336",
+          "published": "2026-11-01",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "In local; không hứa thay thế ChatGPT.",
+      "first_steps": [
+        "Ngày 1–2: Prototype.",
+        "Ngày 3: In 40.",
+        "Ngày 4: Landing.",
+        "Ngày 5–7: Bán thử."
+      ],
+      "capital": {
+        "vnd_min_m": 2,
+        "vnd_max_m": 5,
+        "usd_min": 77,
+        "usd_max": 192,
+        "note": "In sổ + landing."
+      },
+      "risks": [
+        "Planner bão hòa",
+        "Thiết kế xấu mất wow",
+        "Tồn giấy"
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 5,
+        "novelty": 7,
+        "lowcap": 8,
+        "signal": 6,
+        "vnfit": 6
+      },
+      "toolstack": {
+        "checked": "2026-11-06",
+        "confidence": "trung bình",
+        "wow": "Cùng ngôn ngữ agent (Nhớ–Nhắc–Giao) nhưng không cần đăng nhập.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Khung trang & copy.",
+            "why": "Nhanh.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Layout in.",
+            "why": "PDF.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "github_pages",
+            "role": "Landing.",
+            "why": "Miễn phí.",
+            "alt_ids": [
+              "cloudflare_pages",
+              "vercel"
+            ]
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Thu tiền.",
+            "why": "Đơn giản.",
+            "alt_ids": [
+              "momo"
+            ]
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Chăm đơn.",
+            "why": "VN.",
+            "alt_ids": []
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "github_pages",
+            "vietqr"
+          ],
+          "monthly_cost_note": "Gần như Free.",
+          "tradeoff": "Landing đơn giản."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "vercel",
+            "zalo_oa",
+            "vietqr"
+          ],
+          "monthly_cost_note": "Vercel + domain nếu cần form đẹp.",
+          "tradeoff": "Phức tạp hơn nhu cầu."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi biến ý tưởng dưới đây thành bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay. Chỉ dùng dữ kiện đã nêu; đánh dấu [cần xác minh] khi thiếu thông tin.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Sổ Personal Agent giấy” — planner 30 ngày bắt chước thói quen agent (nhớ–nhắc–giao) nhưng offline\nTóm tắt: Sổ giấy 30 ngày với ô Nhớ/Nhắc/Giao; AI chỉ khi cần. Mục tiêu: bán 40 sổ thử; đo % dùng đủ 7 ngày.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nTín hiệu: 36Kr 1/11 — Personal Agent TQ đắt (WishSeen ≥ 1000 tệ/user/tháng) và bị siêu ứng dụng chặn. Góc giấy ‘một việc’ là phản ứng sản phẩm, không phủ nhận AI.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nKhách: Gen Z journaling; freelance; dùng AI nhưng ngại đưa đời tư lên mây (ai, ngan-sach).\n\n## 4. Ràng buộc\nVốn 2–5 triệu VND (~76–192 USD).\nCông cụ: Claude (Anthropic); Canva; GitHub Pages; VietQR Kit (Casso); Zalo Official Account (OA).\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\nNgày 1–2: prototype 8 trang. Ngày 3: in 40. Ngày 4: landing. Ngày 5–7: bán thử.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\nTạo: PDF in; hướng dẫn 1 trang; landing copy; script reel ‘agent trên giấy’.\n\n## 7. Cách làm việc\nChỉ hỏi tối đa 3 câu nếu thật sự thiếu thông tin để ra sản phẩm. Không bịa số liệu, thương hiệu hay nguồn. Đánh dấu [cần xác minh] cho mọi giả định pháp lý/giá/đối thủ. Phân biệt rõ: (a) dữ kiện có nguồn ở mục 2, (b) giả định địa phương hóa, (c) việc tôi phải tự kiểm tra ngoài đời.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt theo thứ tự: (1) tóm tắt 5–7 câu + danh sách giả định; (2) bảng kế hoạch 7 ngày (cột: ngày | việc | sản phẩm hoàn thành | chỉ số); (3) từng sản phẩm ở mục 6 (đầy đủ, copy được); (4) chỉ số & ngưỡng quyết định đi tiếp/chỉnh/dừng sau 7 ngày; (5) đúng 5 rủi ro kèm cách giảm nhẹ.\n",
+      "date": "2026-11-06",
+      "total_score": 6.58,
+      "rank": 5
+    },
+    {
+      "id": "20261106-07-quay-photocard-mood",
+      "title": "“Quầy photocard theo mood nhạc” — quét playlist, in set 4 photocard cảm xúc trong 5 phút",
+      "pitch": "Quầy pop-up: playlist → 4 photocard mood in trong 5 phút, không dùng ảnh idol.",
+      "type": "startup",
+      "category": [
+        "service",
+        "content",
+        "ai"
+      ],
+      "tags": [
+        "photocard",
+        "playlist",
+        "pop-up"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Giả thuyết quầy theo playlist; phải tránh ảnh idol bản quyền.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261106-07-quay-photocard-mood.webp",
+      "image_alt": "Ba photocard đứng cạnh khối nhạc cam trên nền kem",
+      "regions": [
+        "KR",
+        "JP",
+        "VN"
+      ],
+      "signal_text": "Mùa quà Pepero/CSAT Hàn + tín hiệu sự kiện nhạc/amusement JP.",
+      "vn_youth_fit": "Hợp fan K-culture và app video (han-quoc, genz-app).",
+      "vn_fit_refs": [
+        "han-quoc",
+        "genz-app"
+      ],
+      "from_keywords": [
+        "kw-kr-11",
+        "kw-jp-06"
+      ],
+      "key_facts": [
+        {
+          "text": "FNNews: Pepero Day là mốc quà lớn tháng 11 Hàn.",
+          "source_ids": [
+            "fn_pep"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "fn_pep",
+          "name": "Financial News",
+          "title": "Pepero Day and CSAT",
+          "url": "https://en.fnnews.com/news/202610271246279144",
+          "published": "2026-10-27",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Chỉ nền trừu tượng + caption/playlist name khách cung cấp.",
+      "first_steps": [
+        "Ngày 1–2: Pipeline.",
+        "Ngày 3: In thử.",
+        "Ngày 4–5: Xin chỗ.",
+        "Ngày 6: Bán.",
+        "Ngày 7: Đo."
+      ],
+      "capital": {
+        "vnd_min_m": 3,
+        "vnd_max_m": 7,
+        "usd_min": 115,
+        "usd_max": 269,
+        "note": "Máy in ảnh/giấy/thuê chỗ."
+      },
+      "risks": [
+        "Bản quyền ảnh",
+        "Hết mực",
+        "Hàng chờ",
+        "Mưa pop-up"
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 6,
+        "novelty": 7,
+        "lowcap": 7,
+        "signal": 5,
+        "vnfit": 7
+      },
+      "toolstack": {
+        "checked": "2026-11-06",
+        "confidence": "trung bình",
+        "wow": "Mở playlist — 5 phút sau cầm 4 photocard đúng mood.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Caption & map mood.",
+            "why": "Giọng Gen Z.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "nano_banana",
+            "role": "Nền trừu tượng.",
+            "why": "Nhanh.",
+            "alt_ids": [
+              "ideogram",
+              "flux"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Khung card.",
+            "why": "In đều.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Teaser.",
+            "why": "TikTok.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Thu tiền quầy.",
+            "why": "Nhanh.",
+            "alt_ids": [
+              "momo"
+            ]
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Hẹn lịch/quầy.",
+            "why": "Nhắc khách.",
+            "alt_ids": []
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "nano_banana",
+            "canva",
+            "vietqr",
+            "capcut"
+          ],
+          "monthly_cost_note": "Free tiers nếu đủ hạn mức ảnh.",
+          "tradeoff": "Hạn mức ảnh AI."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "ideogram",
+            "canva",
+            "zalo_oa",
+            "vietqr"
+          ],
+          "monthly_cost_note": "Ideogram/Canva Pro khi volume cao.",
+          "tradeoff": "Chi phí/set tăng."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi biến ý tưởng dưới đây thành bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay. Chỉ dùng dữ kiện đã nêu; đánh dấu [cần xác minh] khi thiếu thông tin.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Quầy photocard theo mood nhạc” — quét playlist, in set 4 photocard cảm xúc trong 5 phút\nTóm tắt: Pop-up in 4 photocard theo mood playlist; không dùng ảnh idol bản quyền. Mục tiêu: ≥ 30 set/ngày quầy.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nTín hiệu: FNNews Pepero/CSAT gift season; JP Trends Amusement Expo; Yahoo matome Best Hit Kayosai — góc quà cảm xúc + nhạc.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nKhách: fan nhạc/K-culture; Gen Z collect (han-quoc, genz-app).\n\n## 4. Ràng buộc\nVốn 3–7 triệu VND (~115–269 USD).\nCông cụ: Claude (Anthropic); Nano Banana (Gemini image, Google); Ideogram (alt); Canva; CapCut; VietQR Kit (Casso); Zalo Official Account (OA).\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\nNgày 1–2: pipeline. Ngày 3: in thử. Ngày 4–5: xin chỗ. Ngày 6: bán. Ngày 7: sổ số liệu.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\nTạo: map genre→palette; 40 caption; template Canva; checklist chống bản quyền; script bán.\n\n## 7. Cách làm việc\nChỉ hỏi tối đa 3 câu nếu thật sự thiếu thông tin để ra sản phẩm. Không bịa số liệu, thương hiệu hay nguồn. Đánh dấu [cần xác minh] cho mọi giả định pháp lý/giá/đối thủ. Phân biệt rõ: (a) dữ kiện có nguồn ở mục 2, (b) giả định địa phương hóa, (c) việc tôi phải tự kiểm tra ngoài đời.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt theo thứ tự: (1) tóm tắt 5–7 câu + danh sách giả định; (2) bảng kế hoạch 7 ngày (cột: ngày | việc | sản phẩm hoàn thành | chỉ số); (3) từng sản phẩm ở mục 6 (đầy đủ, copy được); (4) chỉ số & ngưỡng quyết định đi tiếp/chỉnh/dừng sau 7 ngày; (5) đúng 5 rủi ro kèm cách giảm nhẹ.\n",
+      "date": "2026-11-06",
+      "total_score": 6.5,
+      "rank": 6
+    },
+    {
+      "id": "20261106-05-tui-xep-do-tet",
+      "title": "“Túi xếp đồ Tết gọn 9 ngày” — bộ packing cube + checklist AI cho chuyến về quê dài",
+      "pitch": "Bộ packing cube + checklist AI theo số ngày về quê; gợi ý từ hot ‘Tết 9 ngày’ trên Baidu.",
+      "type": "startup",
+      "category": [
+        "product",
+        "ecom"
+      ],
+      "tags": [
+        "Tết",
+        "packing",
+        "Baidu"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Baidu hot có hạng thật; lịch 2027 cần văn bản gốc; nhu cầu cube Tết VN là giả thuyết.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261106-05-tui-xep-do-tet.webp",
+      "image_alt": "Ba túi xếp đồ chồng lệch màu teal cam và xanh nhạt",
+      "regions": [
+        "CN",
+        "VN"
+      ],
+      "signal_text": "Baidu 6/11: lịch nghỉ 2027 / Tết 9 ngày vào hotList.",
+      "vn_youth_fit": "Hợp chi tiêu có ngân sách và mua online trước sự kiện (ngan-sach, san-tmdt).",
+      "vn_fit_refs": [
+        "ngan-sach",
+        "san-tmdt"
+      ],
+      "from_keywords": [
+        "kw-cn-15"
+      ],
+      "key_facts": [
+        {
+          "text": "Baidu hotList 6/11: lịch nghỉ 2027 — Tết liền 9 ngày (hotScore ~6558828).",
+          "source_ids": [
+            "baidu-hot"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Chưa mở văn bản gốc cơ quan TQ."
+        }
+      ],
+      "sources": [
+        {
+          "id": "baidu-hot",
+          "name": "Baidu 热搜",
+          "title": "Realtime board",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": null,
+          "accessed": "2026-11-06",
+          "how_read": "mở trang",
+          "note": "Nguồn bảng xếp hạng realtime; không có ngày đăng bài."
+        }
+      ],
+      "localize_vn": "Giả thuyết: cube trung tính + checklist tiếng Việt theo số ngày về quê.",
+      "first_steps": [
+        "Ngày 1: SKU.",
+        "Ngày 2–3: Nhập+checklist.",
+        "Ngày 4: Content.",
+        "Ngày 5–7: Pre-order."
+      ],
+      "capital": {
+        "vnd_min_m": 3,
+        "vnd_max_m": 9,
+        "usd_min": 115,
+        "usd_max": 346,
+        "note": "Nhập cube + in card + ads."
+      },
+      "risks": [
+        "Đối thủ cube tràn Shopee",
+        "Chậm tàu Tết",
+        "Checklist generic",
+        "Tồn hàng"
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 7,
+        "novelty": 5,
+        "lowcap": 7,
+        "signal": 5,
+        "vnfit": 7
+      },
+      "toolstack": {
+        "checked": "2026-11-06",
+        "confidence": "trung bình",
+        "wow": "Quét QR — checklist đúng số ngày về quê, xếp theo túi màu.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Checklist cá nhân hóa.",
+            "why": "Tiếng Việt tốt.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Card/QR.",
+            "why": "In nhanh.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "a1688",
+            "role": "Cube sỉ.",
+            "why": "Giá vốn.",
+            "alt_ids": [
+              "alibaba"
+            ]
+          },
+          {
+            "tool_id": "shopee_seller",
+            "role": "Bán.",
+            "why": "Mùa Tết online.",
+            "alt_ids": [
+              "tiktok_shop"
+            ]
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Demo xếp.",
+            "why": "Video ngắn.",
+            "alt_ids": []
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "a1688",
+            "shopee_seller",
+            "capcut"
+          ],
+          "monthly_cost_note": "Free + phí sàn.",
+          "tradeoff": "Ít khác biệt hình ảnh."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "a1688",
+            "tiktok_shop",
+            "capcut"
+          ],
+          "monthly_cost_note": "Thêm ads TikTok khi creative thắng.",
+          "tradeoff": "Chi phí thu hút."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi biến ý tưởng dưới đây thành bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay. Chỉ dùng dữ kiện đã nêu; đánh dấu [cần xác minh] khi thiếu thông tin.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Túi xếp đồ Tết gọn 9 ngày” — bộ packing cube + checklist AI cho chuyến về quê dài\nTóm tắt: Bộ 3–4 túi xếp đồ + checklist AI theo số ngày về quê. Mục tiêu tuần: 25 bộ pre-order.\nMục tiêu: kiểm chứng nhu cầu trước Tết bằng số đặt cọc.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nTín hiệu: Baidu hot 6/11 có mục lịch nghỉ 2027 / Tết liền 9 ngày (hotScore ~6558828). Chi tiết ngày cần văn bản gốc [cần xác minh]. Góc VN là giả thuyết nhu cầu xếp đồ kỳ nghỉ dài.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nKhách: sinh viên/người trẻ về quê 5–9 ngày; ngân sách chọn lọc (ngan-sach); mua Shopee trước Tết (san-tmdt).\n\n## 4. Ràng buộc\nVốn 3–9 triệu VND (~115–346 USD).\nCông cụ: Claude (Anthropic) checklist; Canva card QR; 1688.com cube; Shopee Việt Nam (Kênh Người Bán); CapCut demo; VietQR Kit (Casso) nếu bán ngoài sàn.\nRủi ro: đối thủ cube tràn sàn; chậm vận chuyển Tết.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\nNgày 1: 3 SKU. Ngày 2–3: nhập mẫu + checklist. Ngày 4: ảnh/video. Ngày 5–7: pre-order 25 bộ.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\nTạo: checklist 5/7/9 ngày; card QR; listing Shopee; script video 60 giây; bảng giá vốn–giá bán (để tôi điền giá nhập).\n\n## 7. Cách làm việc\nChỉ hỏi tối đa 3 câu nếu thật sự thiếu thông tin để ra sản phẩm. Không bịa số liệu, thương hiệu hay nguồn. Đánh dấu [cần xác minh] cho mọi giả định pháp lý/giá/đối thủ. Phân biệt rõ: (a) dữ kiện có nguồn ở mục 2, (b) giả định địa phương hóa, (c) việc tôi phải tự kiểm tra ngoài đời.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt theo thứ tự: (1) tóm tắt 5–7 câu + danh sách giả định; (2) bảng kế hoạch 7 ngày (cột: ngày | việc | sản phẩm hoàn thành | chỉ số); (3) từng sản phẩm ở mục 6 (đầy đủ, copy được); (4) chỉ số & ngưỡng quyết định đi tiếp/chỉnh/dừng sau 7 ngày; (5) đúng 5 rủi ro kèm cách giảm nhẹ.\n",
+      "date": "2026-11-06",
+      "total_score": 6.48,
+      "rank": 7
+    },
+    {
+      "id": "20261106-04-goi-chua-lanh-tui",
+      "title": "“Gói chữa lành dạng túi” — set pouch nhỏ (ngủ–da–uống) bán theo mood 7 ngày",
+      "pitch": "Túi zip trong suốt chứa 4–6 món mini (mặt nạ, kẹo ngậm, trà túi, sticker) theo mood ‘thiếu ngủ / deadline / chia tay nhẹ’. Gợi ý từ túi pouch bắt mắt trên kệ beauty Hàn.",
+      "type": "startup",
+      "category": [
+        "product",
+        "ecom"
+      ],
+      "tags": [
+        "pouch",
+        "self-care",
+        "Olive Young"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu pouch/beauty Gen Z Hàn là tổng hợp báo chí; set mood tại VN giả thuyết — đối thủ set skincare đã có, cần khác ở storytelling mood.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261106-04-goi-chua-lanh-tui.webp",
+      "image_alt": "Túi pouch teal với các ngăn sản phẩm nhỏ màu cam và kem",
+      "regions": [
+        "KR",
+        "VN"
+      ],
+      "signal_text": "Báo Hàn mô tả Gen Z gắn bó kệ Olive Young/pouch tiện lợi; kết hợp mùa self-care quanh CSAT/Pepero.",
+      "vn_youth_fit": "Khớp làm đẹp–sức khỏe tăng trên sàn và ‘xa xỉ vừa túi’ (lam-dep-suc-khoe, xa-xi-vua-tui).",
+      "vn_fit_refs": [
+        "lam-dep-suc-khoe",
+        "xa-xi-vua-tui"
+      ],
+      "from_keywords": [
+        "kw-kr-11"
+      ],
+      "key_facts": [
+        {
+          "text": "Financial News 27/10 mô tả mùa quà/khuyến mãi tháng 11 quanh Pepero/CSAT — góc self-care/gift.",
+          "source_ids": [
+            "fn_pep"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "fn_pep",
+          "name": "Financial News",
+          "title": "Pepero Day and CSAT campaigns",
+          "url": "https://en.fnnews.com/news/202610271246279144",
+          "published": "2026-10-27",
+          "accessed": "2026-11-06",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Giả thuyết: dùng mỹ phẩm/thực phẩm đã có sẵn trên Shopee (không tự sản xuất); tập trung curate + card.",
+      "first_steps": [
+        "Ngày 1–2: Mood+BOM.",
+        "Ngày 3–4: Nhập hàng.",
+        "Ngày 5: Listing.",
+        "Ngày 6–7: Bán 20 túi."
+      ],
+      "capital": {
+        "vnd_min_m": 4,
+        "vnd_max_m": 10,
+        "usd_min": 154,
+        "usd_max": 385,
+        "note": "Hàng mẫu + pouch + ads."
+      },
+      "risks": [
+        "Đối thủ set skincare",
+        "Hạn dùng",
+        "Khiếu nại da",
+        "Biên lợi thấp"
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 7,
+        "novelty": 5,
+        "lowcap": 6,
+        "signal": 5,
+        "vnfit": 7
+      },
+      "toolstack": {
+        "checked": "2026-11-06",
+        "confidence": "trung bình",
+        "wow": "Mỗi mood một túi trong suốt — mở ra là cảnh quay UGC sẵn.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Mood bible & card.",
+            "why": "Copy nhanh.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Nhãn/bao bì.",
+            "why": "In sticker.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "a1688",
+            "role": "Pouch sỉ.",
+            "why": "Rẻ.",
+            "alt_ids": [
+              "alibaba"
+            ]
+          },
+          {
+            "tool_id": "shopee_seller",
+            "role": "Bán chính.",
+            "why": "GMV lớn VN.",
+            "alt_ids": [
+              "tiktok_shop"
+            ]
+          },
+          {
+            "tool_id": "capcut",
+            "role": "UGC.",
+            "why": "Trend video.",
+            "alt_ids": []
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "a1688",
+            "shopee_seller",
+            "capcut"
+          ],
+          "monthly_cost_note": "Free tools + phí sàn.",
+          "tradeoff": "Ít brand asset."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "canva",
+            "a1688",
+            "tiktok_shop",
+            "capcut"
+          ],
+          "monthly_cost_note": "Thêm TikTok Shop ads khi có creative thắng.",
+          "tradeoff": "Ads có thể lỗ nếu chưa product-market fit."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi biến ý tưởng dưới đây thành bản thử nghiệm MVP trong 1 tuần và tạo sẵn các sản phẩm tôi có thể dùng ngay. Chỉ dùng dữ kiện đã nêu; đánh dấu [cần xác minh] khi thiếu thông tin.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Gói chữa lành dạng túi” — set pouch nhỏ (ngủ–da–uống) bán theo mood 7 ngày\nTóm tắt: Túi zip trong suốt chứa 4–6 món mini (mặt nạ, kẹo ngậm, trà túi, sticker) theo mood ‘thiếu ngủ / deadline / chia tay nhẹ’. Gợi ý từ túi pouch bắt mắt trên kệ beauty Hàn.\nMục tiêu tuần: bán 20 túi qua Shopee/TikTok hoặc pop-up; đo % mở hộp quay video.\n\n## 2. Tín hiệu đã có nguồn (chỉ được dùng các dữ kiện này; KHÔNG tự thêm số liệu, tên thương hiệu hay nguồn khác)\nTín hiệu: báo Hàn/Olive Young nhấn mạnh Gen Z mua pouch/skincare-wellness tiện mang (Asia Business Daily/Seoul Economic — tổng hợp bên thứ ba; chi tiết SKU cụ thể [cần xác minh] khi nhập). Kết hợp nhịp self-care sau mùa thi/Pepero.\nKhông bịa doanh số Olive Young.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nKhách: nữ/nam Gen Z văn phòng–sinh viên; ngân sách ‘xa xỉ vừa túi’ (xa-xi-vua-tui); làm đẹp #1 trên sàn (lam-dep-suc-khoe).\n\n## 4. Ràng buộc\nVốn: 4–10 triệu VND (~153–384 USD).\nCông cụ: Claude (Anthropic) đặt tên mood & card; Canva bao bì; 1688.com pouch; Shopee Việt Nam (Kênh Người Bán) + TikTok Shop Việt Nam (Seller Center); CapCut UGC.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp của tôi — hãy rà soát, chỉnh cho thực tế hơn và gán việc theo ngày)\nNgày 1–2: 3 mood, BOM.\nNgày 3–4: Nhập pouch + món mini.\nNgày 5: Ảnh + listing.\nNgày 6–7: Live/UGC; giao 20 túi.\n\n## 6. Sản phẩm bạn PHẢI tạo (viết đầy đủ, dùng được ngay, không nói chung chung)\nTạo: 3 mood bible; BOM; nhãn thành phần; listing copy; 5 hook video; checklist pháp lý mỹ phẩm [cần xác minh].\n\n## 7. Cách làm việc\nChỉ hỏi tối đa 3 câu nếu thật sự thiếu thông tin để ra sản phẩm. Không bịa số liệu, thương hiệu hay nguồn. Đánh dấu [cần xác minh] cho mọi giả định pháp lý/giá/đối thủ. Phân biệt rõ: (a) dữ kiện có nguồn ở mục 2, (b) giả định địa phương hóa, (c) việc tôi phải tự kiểm tra ngoài đời.\n\n## 8. Định dạng đầu ra\nTrả lời bằng tiếng Việt theo thứ tự: (1) tóm tắt 5–7 câu + danh sách giả định; (2) bảng kế hoạch 7 ngày (cột: ngày | việc | sản phẩm hoàn thành | chỉ số); (3) từng sản phẩm ở mục 6 (đầy đủ, copy được); (4) chỉ số & ngưỡng quyết định đi tiếp/chỉnh/dừng sau 7 ngày; (5) đúng 5 rủi ro kèm cách giảm nhẹ.\n",
+      "date": "2026-11-06",
+      "total_score": 6.14,
+      "rank": 8
+    }
+  ],
+  "keywords": [
+    {
+      "id": "kw-vn-01",
+      "region": "VN",
+      "rank": 1,
+      "keyword": "lịch âm",
+      "gloss": "Lịch âm — tìm ngày âm 6/11",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+ · 06:40 UTC+7",
+      "source_id": "gt-vn",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-02",
+      "region": "VN",
+      "rank": 2,
+      "keyword": "jürgen klopp",
+      "gloss": "Jürgen Klopp — tin bóng đá/HLV",
+      "theme": "sport",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+",
+      "source_id": "gt-vn",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-03",
+      "region": "VN",
+      "rank": 3,
+      "keyword": "weather",
+      "gloss": "Weather (tiếng Anh) — thời tiết",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+",
+      "source_id": "gt-vn",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-04",
+      "region": "VN",
+      "rank": 4,
+      "keyword": "mười hai con giáp",
+      "gloss": "Mười hai con giáp",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+",
+      "source_id": "gt-vn",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-05",
+      "region": "VN",
+      "rank": 5,
+      "keyword": "điện",
+      "gloss": "Điện — có thể gắn giá điện/tiêu dùng",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+",
+      "source_id": "gt-vn",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-06",
+      "region": "VN",
+      "rank": 6,
+      "keyword": "mai xuân hợp",
+      "gloss": "Mai Xuân Hợp — tên riêng/tin người",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+",
+      "source_id": "gt-vn",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-07",
+      "region": "VN",
+      "rank": 7,
+      "keyword": "thời tiết",
+      "gloss": "Thời tiết Việt Nam",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "50000+",
+      "source_id": "gt-vn",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-08",
+      "region": "VN",
+      "rank": 8,
+      "keyword": "chứng khoán mỹ",
+      "gloss": "Chứng khoán Mỹ — phản ứng bán tháo AI",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+",
+      "source_id": "gt-vn",
+      "note": "",
+      "idea_ids": [
+        "20261106-08-watchlist-ai-pocket"
+      ]
+    },
+    {
+      "id": "kw-vn-09",
+      "region": "VN",
+      "rank": 9,
+      "keyword": "cựu sinh viên",
+      "gloss": "Cựu sinh viên",
+      "theme": "work",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+",
+      "source_id": "gt-vn",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-10",
+      "region": "VN",
+      "rank": 10,
+      "keyword": "gia vang the gioi",
+      "gloss": "Giá vàng thế giới",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+",
+      "source_id": "gt-vn",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-01",
+      "region": "CN",
+      "rank": 1,
+      "keyword": "相约“四叶草” 共享中国机遇",
+      "gloss": "Hẹn gặp ‘cỏ bốn lá’ — chia sẻ cơ hội Trung Quốc (sự kiện/hội chợ)",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "hotScore 7904510",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-02",
+      "region": "CN",
+      "rank": 2,
+      "keyword": "美股暴跌 遭遇历史性抛售",
+      "gloss": "Chứng khoán Mỹ lao dốc — đợt bán tháo lịch sử",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "7808195",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": [
+        "20261106-08-watchlist-ai-pocket"
+      ]
+    },
+    {
+      "id": "kw-cn-03",
+      "region": "CN",
+      "rank": 3,
+      "keyword": "美股创纪录“血洗”2.8万亿美元",
+      "gloss": "Mỹ: ‘tắm máu’ kỷ lục ~2,8 nghìn tỷ USD vốn hóa",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "7712390",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": [
+        "20261106-08-watchlist-ai-pocket"
+      ]
+    },
+    {
+      "id": "kw-cn-04",
+      "region": "CN",
+      "rank": 4,
+      "keyword": "6G有啥不一样",
+      "gloss": "6G khác gì — chủ đề công nghệ",
+      "theme": "tech",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "7616693",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-06",
+      "region": "CN",
+      "rank": 6,
+      "keyword": "200万买14套房年收租21万 当事人回应",
+      "gloss": "2 triệu mua 14 căn, thuê năm 210 nghìn — phản hồi",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "7424536",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-07",
+      "region": "CN",
+      "rank": 7,
+      "keyword": "北京中小学将全部取消外送餐",
+      "gloss": "Bắc Kinh: trường phổ thông sẽ bỏ hết suất ăn giao",
+      "theme": "food",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "7329803",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-08",
+      "region": "CN",
+      "rank": 8,
+      "keyword": "闪迪跌逾22% 英伟达跌9.26%",
+      "gloss": "SanDisk −22%+, Nvidia −9,26%",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "7233655",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": [
+        "20261106-08-watchlist-ai-pocket"
+      ]
+    },
+    {
+      "id": "kw-cn-11",
+      "region": "CN",
+      "rank": 11,
+      "keyword": "S16淘汰赛：BLG对决DK",
+      "gloss": "S16 playoff: BLG vs DK",
+      "theme": "sport",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "6947110",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-12",
+      "region": "CN",
+      "rank": 12,
+      "keyword": "多地禁用电动车挡风被系误读",
+      "gloss": "Cấm chắn gió xe điện bị hiểu nhầm",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "6850448",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-15",
+      "region": "CN",
+      "rank": 15,
+      "keyword": "2027年假期安排出炉 春节连休9天",
+      "gloss": "Lịch nghỉ 2027: Tết Nguyên đán nghỉ liền 9 ngày",
+      "theme": "travel",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "6558828",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": [
+        "20261106-05-tui-xep-do-tet"
+      ]
+    },
+    {
+      "id": "kw-cn-05",
+      "region": "CN",
+      "rank": 5,
+      "keyword": "王楚钦0比3不敌温瑞博 无缘8强",
+      "gloss": "Bóng bàn: Wang Chuqin thua 0–3",
+      "theme": "sport",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "7521059",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-09",
+      "region": "CN",
+      "rank": 9,
+      "keyword": "参保人数减少8300万？医保局回应",
+      "gloss": "Số người tham bảo hiểm giảm 83 triệu? BHXH đáp",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "7141235",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-10",
+      "region": "CN",
+      "rank": 10,
+      "keyword": "普京签令：俄方临时接管日本4座工厂",
+      "gloss": "Putin ký lệnh tạm tiếp quản 4 nhà máy Nhật",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "7047944",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-13",
+      "region": "CN",
+      "rank": 13,
+      "keyword": "东风-61已列装火箭军",
+      "gloss": "Dongfeng-61 biên chế — tin quân sự",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "6757728",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-14",
+      "region": "CN",
+      "rank": 14,
+      "keyword": "只因“懒得下楼” 一对父女双双被抓",
+      "gloss": "Cha con bị bắt vì ‘lười xuống lầu’",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "6656061",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-01",
+      "region": "KR",
+      "rank": 1,
+      "keyword": "탁구",
+      "gloss": "Bóng bàn",
+      "theme": "sport",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+",
+      "source_id": "gt-kr",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-02",
+      "region": "KR",
+      "rank": 2,
+      "keyword": "치매",
+      "gloss": "Sa sút trí tuệ",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "2000+",
+      "source_id": "gt-kr",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-03",
+      "region": "KR",
+      "rank": 3,
+      "keyword": "게이머",
+      "gloss": "Gamer",
+      "theme": "ent",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+",
+      "source_id": "gt-kr",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-04",
+      "region": "KR",
+      "rank": 4,
+      "keyword": "수능일",
+      "gloss": "Ngày thi CSAT (수능)",
+      "theme": "work",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+",
+      "source_id": "gt-kr",
+      "note": "",
+      "idea_ids": [
+        "20261106-02-hop-100-ngay-truoc-thi"
+      ]
+    },
+    {
+      "id": "kw-kr-05",
+      "region": "KR",
+      "rank": 5,
+      "keyword": "도깨비의 세계",
+      "gloss": "Thế giới dokkaebi — giải trí",
+      "theme": "ent",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+",
+      "source_id": "gt-kr",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-06",
+      "region": "KR",
+      "rank": 6,
+      "keyword": "대학수학능력시험",
+      "gloss": "Kỳ thi năng lực đại học (CSAT)",
+      "theme": "work",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+",
+      "source_id": "gt-kr",
+      "note": "",
+      "idea_ids": [
+        "20261106-02-hop-100-ngay-truoc-thi"
+      ]
+    },
+    {
+      "id": "kw-kr-07",
+      "region": "KR",
+      "rank": 7,
+      "keyword": "blg",
+      "gloss": "BLG — esports",
+      "theme": "sport",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+",
+      "source_id": "gt-kr",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-08",
+      "region": "KR",
+      "rank": 8,
+      "keyword": "강아지",
+      "gloss": "Chó con / thú cưng",
+      "theme": "home",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+",
+      "source_id": "gt-kr",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-09",
+      "region": "KR",
+      "rank": 9,
+      "keyword": "jtbc",
+      "gloss": "JTBC — đài truyền hình",
+      "theme": "ent",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+",
+      "source_id": "gt-kr",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-10",
+      "region": "KR",
+      "rank": 10,
+      "keyword": "추성훈",
+      "gloss": "Chu Sung-hoon — người nổi tiếng",
+      "theme": "sport",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "5000+",
+      "source_id": "gt-kr",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-11",
+      "region": "KR",
+      "rank": null,
+      "keyword": "Pepero Day / CSAT marketing",
+      "gloss": "Mùa Pepero Day + tiếp thị CSAT nóng hơn Halloween",
+      "theme": "food",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "Financial News 27/10/2026",
+      "source_id": "fnnews-pep",
+      "note": "",
+      "idea_ids": [
+        "20261106-02-hop-100-ngay-truoc-thi",
+        "20261106-07-quay-photocard-mood"
+      ]
+    },
+    {
+      "id": "kw-jp-01",
+      "region": "JP",
+      "rank": 1,
+      "keyword": "jr",
+      "gloss": "JR — đường sắt",
+      "theme": "travel",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+",
+      "source_id": "gt-jp",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-02",
+      "region": "JP",
+      "rank": 2,
+      "keyword": "運転見合わせ",
+      "gloss": "Tạm dừng vận hành tàu",
+      "theme": "travel",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "1000+",
+      "source_id": "gt-jp",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-03",
+      "region": "JP",
+      "rank": 3,
+      "keyword": "遅延",
+      "gloss": "Tàu chậm",
+      "theme": "travel",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+",
+      "source_id": "gt-jp",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-06",
+      "region": "JP",
+      "rank": 6,
+      "keyword": "アミューズメントエキスポ",
+      "gloss": "Amusement Expo — hội chợ giải trí",
+      "theme": "ent",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+",
+      "source_id": "gt-jp",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-10",
+      "region": "JP",
+      "rank": 10,
+      "keyword": "レディクレ 2026",
+      "gloss": "Lady Cri 2026 — sự kiện",
+      "theme": "ent",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+",
+      "source_id": "gt-jp",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-y01",
+      "region": "JP",
+      "rank": 1,
+      "keyword": "東京で明日電車停止の噂",
+      "gloss": "Tin đồn tàu Tokyo dừng ngày mai — cân nhắc làm việc tại nhà",
+      "theme": "travel",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Yahoo matome rank 1",
+      "source_id": "yahoo-jp-rt",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-y02",
+      "region": "JP",
+      "rank": 2,
+      "keyword": "サーキットブレーカー、株価急落",
+      "gloss": "Tin đồn cầu dao mạch chứng khoán khi giá lao dốc",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Yahoo matome rank 2",
+      "source_id": "yahoo-jp-rt",
+      "note": "",
+      "idea_ids": [
+        "20261106-08-watchlist-ai-pocket"
+      ]
+    },
+    {
+      "id": "kw-jp-y05",
+      "region": "JP",
+      "rank": 5,
+      "keyword": "ビットコイン急落 75000ドル",
+      "gloss": "Bitcoin lao dốc khỏi vùng 75.000 USD",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Yahoo matome rank 5",
+      "source_id": "yahoo-jp-rt",
+      "note": "",
+      "idea_ids": [
+        "20261106-08-watchlist-ai-pocket"
+      ]
+    },
+    {
+      "id": "kw-jp-y06",
+      "region": "JP",
+      "rank": 6,
+      "keyword": "ベストヒット歌謡祭2026",
+      "gloss": "Best Hit Kayosai 2026 — đặc biệt âm nhạc",
+      "theme": "ent",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Yahoo matome rank 6",
+      "source_id": "yahoo-jp-rt",
+      "note": "",
+      "idea_ids": [
+        "20261106-07-quay-photocard-mood"
+      ]
+    },
+    {
+      "id": "kw-jp-y07",
+      "region": "JP",
+      "rank": 7,
+      "keyword": "キオクシア株急落",
+      "gloss": "Cổ phiếu Kioxia lao dốc",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Yahoo matome rank 7",
+      "source_id": "yahoo-jp-rt",
+      "note": "",
+      "idea_ids": [
+        "20261106-08-watchlist-ai-pocket"
+      ]
+    },
+    {
+      "id": "kw-jp-y10",
+      "region": "JP",
+      "rank": 10,
+      "keyword": "日経平均先物が6万円を下回り",
+      "gloss": "Hợp đồng tương lai Nikkei dưới 60.000",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Yahoo matome rank 10",
+      "source_id": "yahoo-jp-rt",
+      "note": "",
+      "idea_ids": [
+        "20261106-08-watchlist-ai-pocket"
+      ]
+    },
+    {
+      "id": "kw-us-01",
+      "region": "US",
+      "rank": 1,
+      "keyword": "susan saint james",
+      "gloss": "Susan Saint James — tin người",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "20000+",
+      "source_id": "gt-us",
+      "note": "RSS US sáng 6/11 thiên về thể thao/tin nóng; tín hiệu thương mại AI lấy từ báo chí (BBC/NBC) không từ bảng Trends.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-us-02",
+      "region": "US",
+      "rank": 2,
+      "keyword": "george stephanopoulos",
+      "gloss": "George Stephanopoulos",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+",
+      "source_id": "gt-us",
+      "note": "RSS US sáng 6/11 thiên về thể thao/tin nóng; tín hiệu thương mại AI lấy từ báo chí (BBC/NBC) không từ bảng Trends.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-us-03",
+      "region": "US",
+      "rank": 3,
+      "keyword": "the neighborhood",
+      "gloss": "The Neighborhood — show",
+      "theme": "ent",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+",
+      "source_id": "gt-us",
+      "note": "RSS US sáng 6/11 thiên về thể thao/tin nóng; tín hiệu thương mại AI lấy từ báo chí (BBC/NBC) không từ bảng Trends.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-us-09",
+      "region": "US",
+      "rank": 9,
+      "keyword": "justice hill",
+      "gloss": "Justice Hill — thể thao",
+      "theme": "sport",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+",
+      "source_id": "gt-us",
+      "note": "RSS US sáng 6/11 thiên về thể thao/tin nóng; tín hiệu thương mại AI lấy từ báo chí (BBC/NBC) không từ bảng Trends.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-global-01",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Bán tháo cổ phiếu AI / chip",
+      "gloss": "Mỹ: S&P −4,4% & Nasdaq −5,5% (5/11); TQ Baidu hot ‘美股暴跌’; JP Yahoo: circuit breaker/Kioxia/Nikkei futures",
+      "theme": "money",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "CN Baidu #2–3+#8; JP Yahoo #2+#7+#10; VN GT ‘chứng khoán mỹ’",
+      "note": "",
+      "idea_ids": [
+        "20261106-08-watchlist-ai-pocket"
+      ],
+      "derived_from": [
+        "kw-cn-02",
+        "kw-jp-y02",
+        "kw-vn-08"
+      ]
+    },
+    {
+      "id": "kw-global-02",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Mùa thi & quà khích lệ",
+      "gloss": "Hàn: 수능/CSAT trên Trends + Pepero Day marketing; góc quà/đếm ngược",
+      "theme": "work",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "KR GT #4+#6; FNNews Pepero/CSAT",
+      "note": "",
+      "idea_ids": [
+        "20261106-02-hop-100-ngay-truoc-thi"
+      ],
+      "derived_from": [
+        "kw-kr-04",
+        "kw-kr-06",
+        "kw-kr-11"
+      ]
+    },
+    {
+      "id": "kw-global-03",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Tàu chậm / làm việc linh hoạt",
+      "gloss": "JP Trends JR/遅延 + Yahoo tin đồn dừng tàu Tokyo",
+      "theme": "travel",
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "JP GT #1–3; Yahoo #1",
+      "note": "",
+      "idea_ids": [],
+      "derived_from": [
+        "kw-jp-01",
+        "kw-jp-y01"
+      ]
+    }
+  ],
+  "keyword_sources": [
+    {
+      "id": "gt-vn",
+      "name": "Google Trends — Daily Search Trends (Việt Nam)",
+      "title": "Google Trends RSS geo=VN (10 chủ đề đang tăng)",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "published": null,
+      "accessed": "2026-11-06",
+      "captured_at": "2026-11-06T07:03:00+07:00",
+      "how_read": "mở trang",
+      "region": "VN",
+      "note": "RSS Daily Search Trends; pubDate −0800 quy đổi UTC+7."
+    },
+    {
+      "id": "gt-kr",
+      "name": "Google Trends — Daily Search Trends (Hàn Quốc)",
+      "title": "Google Trends RSS geo=KR",
+      "url": "https://trends.google.com/trending/rss?geo=KR",
+      "published": null,
+      "accessed": "2026-11-06",
+      "captured_at": "2026-11-06T07:03:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": ""
+    },
+    {
+      "id": "gt-jp",
+      "name": "Google Trends — Daily Search Trends (Nhật Bản)",
+      "title": "Google Trends RSS geo=JP",
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "published": null,
+      "accessed": "2026-11-06",
+      "captured_at": "2026-11-06T07:03:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": ""
+    },
+    {
+      "id": "gt-us",
+      "name": "Google Trends — Daily Search Trends (Mỹ)",
+      "title": "Google Trends RSS geo=US",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "published": null,
+      "accessed": "2026-11-06",
+      "captured_at": "2026-11-06T07:03:00+07:00",
+      "how_read": "mở trang",
+      "region": "US",
+      "note": "Thiên về thể thao/tin nóng; chọn mục có góc thương mại khi có."
+    },
+    {
+      "id": "baidu-hot",
+      "name": "Baidu 热搜",
+      "title": "Baidu realtime board (hotList)",
+      "url": "https://top.baidu.com/board?tab=realtime",
+      "published": null,
+      "accessed": "2026-11-06",
+      "captured_at": "2026-11-06T07:03:00+07:00",
+      "how_read": "mở trang",
+      "region": "CN",
+      "note": "Đọc khối <!--s-data--> hotList (word, hotScore)."
+    },
+    {
+      "id": "yahoo-jp-rt",
+      "name": "Yahoo! JAPAN リアルタイム検索 (まとめ)",
+      "title": "Yahoo Japan realtime matome ranking",
+      "url": "https://search.yahoo.co.jp/realtime/search/matome",
+      "published": null,
+      "accessed": "2026-11-06",
+      "captured_at": "2026-11-06T07:03:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "JSON __NEXT_DATA__ → matomeRanking.items"
+    },
+    {
+      "id": "fnnews-pep",
+      "name": "Financial News (Hàn, bản Anh)",
+      "title": "Autumn special-day marketing: Pepero Day and CSAT heat up",
+      "url": "https://en.fnnews.com/news/202610271246279144",
+      "published": "2026-10-27",
+      "accessed": "2026-11-06",
+      "captured_at": "2026-11-06T07:15:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "Bổ sung chủ đề thương mại mùa 11 cho Hàn."
+    }
+  ],
+  "keyword_unreachable": [
+    {
+      "region": "CN",
+      "source": "Weibo 热搜 (s.weibo.com/top/summary; weibo.com/ajax/side/hotSearch)",
+      "reason": "Thử lại 6/11: cần đăng nhập khách / API 403."
+    },
+    {
+      "region": "CN",
+      "source": "Douyin hot list (douyin.com/hot)",
+      "reason": "Thử lại 6/11: HTTP 200 nhưng chỉ khung JavaScript."
+    },
+    {
+      "region": "CN",
+      "source": "Xiaohongshu (xiaohongshu.com/explore)",
+      "reason": "Thử lại 6/11: chuyển hướng đăng nhập."
+    },
+    {
+      "region": "KR",
+      "source": "Naver DataLab realtime",
+      "reason": "Thử lại 6/11: không còn bảng realtime công khai ổn định; dùng Google Trends KR + Financial News."
+    },
+    {
+      "region": "VN",
+      "source": "Shopee/TikTok Shop/Lazada VN trending",
+      "reason": "Danh sách nằm sau JavaScript/đăng nhập; không lấy được bảng gốc 6/11."
+    },
+    {
+      "region": "US",
+      "source": "Amazon Movers & Shakers / TikTok Creative Center",
+      "reason": "Chỉ trả khung JavaScript 6/11."
+    },
+    {
+      "region": "GLOBAL",
+      "source": "Bảng từ khóa toàn cầu",
+      "reason": "Không có nguồn toàn cầu công khai đọc được; mục GLOBAL suy ra từ ≥ 2 vùng."
+    }
+  ]
+}

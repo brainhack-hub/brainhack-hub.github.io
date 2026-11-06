@@ -1,0 +1,712 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T07:45:00+07:00",
+  "headline": "GPT-6 Cyber & Omni 1.2 Flash; bán tháo AI 5/11; CrunchAI/Forma Bid; cảng AI chưa ra lãi; thép–BĐS VN",
+  "digest": [
+    {
+      "title": "AI toàn cầu ~48h: bảo mật, video, và bán tháo",
+      "text": "OpenAI GPT-6 Cyber nâng ExploitGym lên 48,5%; Google Omni 1.2 Flash video 15 giây giảm giá 30%; phiên 5/11 S&P −4,4% / Nasdaq Composite −5,5% (BBC+NBC).",
+      "item_ids": [
+        "n-20261106-01-gpt6-cyber",
+        "n-20261106-02-gemini-omni-12",
+        "n-20261106-03-selloff-ai-stocks",
+        "n-20261106-06-nbc-selloff-confirm"
+      ]
+    },
+    {
+      "title": "Preconstruction AI: bản vẽ và thầu phụ",
+      "text": "Document Crunch/CrunchAI đọc drawings+contracts; Forma Bid có Bid Proposal Agent (beta) trích PDF thầu phụ có citation.",
+      "item_ids": [
+        "n-20261106-07-trimble-crunchai-drawings",
+        "n-20261106-08-autodesk-bid-proposal-agent"
+      ]
+    },
+    {
+      "title": "Offsite robot và thư viện mô phỏng",
+      "text": "D.R. Horton thuê Promise Robotics cho 1.250+ nhà Phoenix; Maximo Robotics vượt 300.000 task solar; NVIDIA SimReady Central 2.000+ asset OpenUSD (theo AEC Field Notes).",
+      "item_ids": [
+        "n-20261106-11-promise-dr-horton",
+        "n-20261106-12-nvidia-simready",
+        "n-20261106-23-maximo-robotics-300k"
+      ]
+    },
+    {
+      "title": "Chuỗi cung ứng: cảng AI chưa ra lãi, cước Maersk cao",
+      "text": "BCG/TIC4.0: chỉ 4% báo lãi AI đo được tại cảng; Maersk nâng EBITDA 2026 lên 14–14,5 tỷ USD nhờ tắc cảng + hàng AI.",
+      "item_ids": [
+        "n-20261106-16-freightwaves-ports-ai",
+        "n-20261106-17-maersk-outlook"
+      ]
+    },
+    {
+      "title": "VN: BĐS chọn lọc, thép tăng sản lượng nhưng nặng chi phí",
+      "text": "GDP quý III +9,95%; ~92.000 giao dịch BĐS; bán thép 9 tháng ~27,7 triệu tấn (+19,2%) nhưng lãi vay Hòa Phát 9 tháng >4.620 tỷ.",
+      "item_ids": [
+        "n-20261106-20-bds-gdp",
+        "n-20261106-21-thep-dn-chiphi",
+        "n-20261106-19-thep-vs-suc-mua"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "n-20261106-01-gpt6-cyber",
+      "title": "GPT-6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "title_vi": "OpenAI ra GPT-6 Cyber: điểm ExploitGym 48,5% (từ 32,1% của GPT-5.6 Cyber); tìm 81 lỗ hổng high-severity mới trên Firefox",
+      "source": {
+        "name": "OpenAI",
+        "kind": "blog nhà cung cấp"
+      },
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "published": "2026-11-05",
+      "time_known": false,
+      "date_basis": "dòng ngày trên trang OpenAI (November 5, 2026)",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "OpenAI công bố GPT-6 Cyber ngày 5/11: mô hình hướng nghiên cứu bảo mật, điểm ExploitGym 48,5% so với 32,1% của GPT-5.6 Cyber; trong đánh giá alignment, tránh tấn ngoài phạm vi 99,93% (không prompt triển khai) và 100% (có prompt). Bài nêu dùng mô hình phát hiện 81 lỗ hổng high-severity mới trên Firefox và phát triển 948 privilege-escalation exploit trên Linux trong chiến dịch nghiên cứu; truy cập ban đầu qua Daybreak Red cho khách được duyệt.",
+      "why_it_matters": "Tin lớn ~48h: năng lực tấn tăng nhanh kèm kiểm soát phạm vi — quan trọng với đội an ninh phần mềm, nhưng đây là thông cáo hãng, cần đọc system card và giới hạn truy cập.",
+      "tags": [
+        "OpenAI",
+        "GPT-6 Cyber",
+        "bảo mật",
+        "Firefox",
+        "Daybreak"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang OpenAI",
+      "accessed": "2026-11-06",
+      "note": "Số liệu benchmark và số lỗ hổng theo OpenAI; Mozilla được dẫn là đã bắt đầu vá. Check-link bot: HTTP 403; đã mở bằng WebFetch 6/11."
+    },
+    {
+      "id": "n-20261106-02-gemini-omni-12",
+      "title": "Gemini Omni 1.2 Flash: 15-second video and lower pricing",
+      "title_vi": "Google DeepMind ra Gemini Omni 1.2 Flash: video gốc tới 15 giây, chỉnh sửa đa lượt, giảm giá 30% còn 0,07 USD/giây (720p)",
+      "source": {
+        "name": "Google Blog / DeepMind",
+        "kind": "blog nhà cung cấp"
+      },
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "published": "2026-11-05",
+      "time_known": false,
+      "date_basis": "dòng ngày trên blog Google (Nov 05, 2026)",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Google công bố Gemini Omni 1.2 Flash (5/11): tạo/chỉnh video gốc tới 15 giây (trước 10 giây ở 1.1), chỉnh sửa hội thoại đa lượt, bám tham chiếu nhân vật/sản phẩm tốt hơn, và giảm giá 30% còn 0,07 USD/giây ở 720p. Mô hình GA trên Gemini API và Google Cloud; đầu ra có watermark SynthID.",
+      "why_it_matters": "Hạ giá + clip dài hơn kéo chi phí video marketing/AI shop — vẫn là thông cáo Google, cần thử chất lượng thật.",
+      "tags": [
+        "Gemini Omni",
+        "Google DeepMind",
+        "video AI",
+        "giá"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang",
+      "accessed": "2026-11-06"
+    },
+    {
+      "id": "n-20261106-03-selloff-ai-stocks",
+      "title": "Major tech stocks plunge as US midterms sparks fears of AI slowdown",
+      "title_vi": "5/11: bán tháo cổ phiếu AI — S&P 500 −4,4% (~2,8 nghìn tỷ USD), Nasdaq Composite −5,5%; Nvidia ~−9%, SanDisk ~−22%",
+      "source": {
+        "name": "BBC News",
+        "kind": "trang tin"
+      },
+      "url": "https://www.bbc.com/news/articles/cmn04705rd8jo",
+      "published": "2026-11-05",
+      "time_known": false,
+      "date_basis": "ngày bài BBC / sự kiện phiên 5/11",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "BBC tường thuật phiên 5/11: lo ngại chậm xây trung tâm dữ liệu AI sau midterm khiến cổ phiếu tech lao dốc; Nasdaq Composite giảm hơn 5,5%, S&P 500 giảm 4,4%. Nvidia giảm hơn 9% (BBC: mất hơn 400 tỷ USD vốn hóa); SanDisk giảm hơn 22%; AMD và Micron giảm hơn 17%. Magnificent 7 mất khoảng 1 nghìn tỷ USD trong một ngày theo BBC. NBC News cùng ngày xác nhận S&P −4,4% xóa ~2,8 nghìn tỷ USD và Nasdaq 100 −6,3%.",
+      "why_it_matters": "Tín hiệu vĩ mô lớn nhất ~48h cho chip/AI infra; đối chiếu ≥2 tờ báo độc lập. Không phải lời khuyên đầu tư.",
+      "tags": [
+        "Nasdaq",
+        "S&P 500",
+        "Nvidia",
+        "SanDisk",
+        "midterm"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang BBC; đối chiếu NBC News",
+      "accessed": "2026-11-06",
+      "note": "Đối chiếu NBC: https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650"
+    },
+    {
+      "id": "n-20261106-04-tiiny-pre-a",
+      "title": "Tiiny AI完成数千万美元Pre-A轮，300克口袋AI超算将量产",
+      "title_vi": "Tiiny AI (Thượng Hải) hoàn tất Pre-A hàng chục triệu USD: máy Pocket ~300 g tuyên bố chạy mô hình 120B tại chỗ",
+      "source": {
+        "name": "创营社",
+        "kind": "trang tin công nghệ"
+      },
+      "url": "https://ai.hfbcw.cn/index.php/2026/11/05/tiiny-ai-pre-a-pocket-supercomputer/",
+      "published": "2026-11-05T10:14:07+08:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time",
+      "topic": "ai_toan_cau",
+      "region": "CN",
+      "summary_vi": "Bài 创营社 (5/11) cho biết Tiiny AI công bố Pre-A ngày 4/11: số tiền ‘hàng chục triệu USD’, 敦鸿资产 dẫn đầu, có 顺为/经纬/锦秋… Sản phẩm Tiiny AI Pocket nặng ~300 g, cỡ sạc dự phòng, tuyên bố chạy mô hình 120B tham số local; đã hoàn tất xác nhận tiền sản xuất. Định vị ‘hệ điều hành agent cá nhân’ trên thiết bị, không làm mô hình đám mây.",
+      "why_it_matters": "Tín hiệu phần cứng AI cục bộ hút vốn ngay sát phiên bán tháo cloud/chip — cần đối chiếu thông cáo chính thức khi có.",
+      "tags": [
+        "Tiiny",
+        "pocket AI",
+        "Pre-A",
+        "edge AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang",
+      "accessed": "2026-11-06",
+      "note": "1 nguồn tiếng Trung; số vòng theo bài thuật lại tuyên bố công ty."
+    },
+    {
+      "id": "n-20261106-05-personal-agent-36kr",
+      "title": "Beneath New Entrances & Ancient City Walls: How Far Is the Chinese Version of Muse?",
+      "title_vi": "36Kr: Muse tải 10,4 triệu trong <2 tháng kích hoạt Personal Agent TQ; SAEP Doubao bị WeChat/Taobao/Alipay/Meituan từ chối",
+      "source": {
+        "name": "36Kr",
+        "kind": "trang tin công nghệ"
+      },
+      "url": "https://eu.36kr.com/en/p/4051143495603336",
+      "published": "2026-11-01",
+      "time_known": false,
+      "date_basis": "dòng ngày bài 36Kr (2026-11-01)",
+      "topic": "ai_toan_cau",
+      "region": "CN",
+      "summary_vi": "36Kr (1/11) mô tả cơn sốt Personal Agent sau khi Muse (Meta) đạt 10,4 triệu lượt tải tích lũy trong chưa đầy 2 tháng. Các đội Today AI, Manus Cue, Rabbit OS3… thử đường phần mềm/phần cứng. Rào cản: sau SAEP của Doubao, danh sách từ chối gồm WeChat, Taobao, Alipay, Meituan. WishSeen ước chi phí agent chủ động đủ mạnh ≥ 1000 tệ/user/tháng.",
+      "why_it_matters": "Bức tranh sản phẩm agent TQ: tăng trưởng tải ≠ vượt tường siêu ứng dụng; chi phí là ẩn số thương mại.",
+      "tags": [
+        "Personal Agent",
+        "Muse",
+        "Doubao",
+        "SAEP"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang",
+      "accessed": "2026-11-06"
+    },
+    {
+      "id": "n-20261106-06-nbc-selloff-confirm",
+      "title": "Stocks plunge as AI worries crush tech shares",
+      "title_vi": "NBC News xác nhận: Nasdaq 100 −6,3% (xóa ~2,3 nghìn tỷ), S&P −4,4% (~2,8 nghìn tỷ); SanDisk −22%, Micron/AMD −17%",
+      "source": {
+        "name": "NBC News",
+        "kind": "trang tin"
+      },
+      "url": "https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650",
+      "published": "2026-11-05T22:00:00+00:00",
+      "time_known": true,
+      "date_basis": "dòng Updated Nov. 5, 2026, 6:00 PM EST trên trang",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "NBC News (cập nhật 5/11) mô tả bán tháo gắn lo ngại AI/data center sau midterm: Nasdaq 100 −6,3% (xóa ~2,3 nghìn tỷ USD); S&P 500 −4,4% (~2,8 nghìn tỷ); Nasdaq Composite −5,5% vào correction. SanDisk −22%; Micron, Western Digital, AMD khoảng −17%; Philadelphia semiconductor index −12,3%.",
+      "why_it_matters": "Nguồn độc lập thứ hai xác nhận quy mô phiên 5/11 — dùng cùng digest với BBC.",
+      "tags": [
+        "NBC",
+        "Nasdaq 100",
+        "semiconductor"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang",
+      "accessed": "2026-11-06"
+    },
+    {
+      "id": "n-20261106-07-trimble-crunchai-drawings",
+      "title": "Document Crunch adds AI review for construction drawings",
+      "title_vi": "Document Crunch (Trimble): CrunchAI đọc bản vẽ kèm hợp đồng/specs để tìm lệch phạm vi — đã mở cho mọi user",
+      "source": {
+        "name": "Engineering.com",
+        "kind": "trang tin kỹ thuật"
+      },
+      "url": "https://www.engineering.com/document-crunch-adds-ai-review-for-construction-drawings/",
+      "published": "2026-10-26",
+      "time_known": false,
+      "date_basis": "dòng ngày Oct 26, 2026 trên Engineering.com",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Engineering.com (26/10) thuật lại: Document Crunch (Trimble) thêm khả năng rà rủi ro cấp dự án — CrunchAI index chữ trên drawing sets (ghi chú, allowance…) và cho chat chung với contracts/specs để tìm scope gap, xung đột yêu cầu, có citation về nguồn. Tính năng review drawings đã available cho mọi user. Thông cáo Trimble gốc đề ngày 21/10.",
+      "why_it_matters": "AI preconstruction đang nối bản vẽ–hồ sơ pháp lý trước khi thi công; vẫn cần người duyệt.",
+      "tags": [
+        "Trimble",
+        "Document Crunch",
+        "CrunchAI",
+        "bản vẽ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang Engineering.com; đối chiếu thông cáo Trimble 21/10",
+      "accessed": "2026-11-06",
+      "note": "Trimble PR: https://news.trimble.com/2026-10-21-Trimble-Expands-Risk-Intelligence-Capabilities-to-Include-Construction-Drawings",
+      "older_than_7d": true,
+      "older_note": "Bài Engineering.com 26/10 và PR Trimble 21/10 — giữ vì mô tả tính năng drawings review vừa mở rộng, liên quan trực tiếp AI preconstruction tuần này."
+    },
+    {
+      "id": "n-20261106-08-autodesk-bid-proposal-agent",
+      "title": "What I Heard at AU: Why Connected Bid Management Became a Bigger Conversation",
+      "title_vi": "Autodesk: Bid Proposal Agent (beta) trong Forma Bid đọc PDF thầu phụ, tách giá/bao gồm/loại trừ có truy xuất nguồn",
+      "source": {
+        "name": "Autodesk Digital Builder",
+        "kind": "blog nhà cung cấp"
+      },
+      "url": "https://www.autodesk.com/blogs/construction/what-i-heard-at-au-why-connected-bid-management-became-a-bigger-conversation/",
+      "published": "2026-11-04",
+      "time_known": false,
+      "date_basis": "Updated: November 4, 2026 trên trang",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Bài Autodesk (cập nhật 4/11) kể từ AU 2026: Bid Proposal Agent (beta) dùng Autodesk AI đọc PDF đề xuất thầu phụ, đưa breakdown giá, inclusions/exclusions vào Forma Bid, giữ liên kết về tài liệu gốc để estimator duyệt. Forma Bid (beta) nối BuildingConnected với estimating/qualification; bid trúng có thể tạo hợp đồng trong Cost Management.",
+      "why_it_matters": "Góc đấu thầu/mua sắm: AI giảm thời gian chuyển PDF sang bảng so sánh — con người vẫn quyết định scope.",
+      "tags": [
+        "Autodesk",
+        "Forma Bid",
+        "Bid Proposal Agent",
+        "đấu thầu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang",
+      "accessed": "2026-11-06",
+      "note": " Check-link bot: HTTP 403; đã mở bằng WebFetch 6/11."
+    },
+    {
+      "id": "n-20261106-09-autodesk-assistant-craft",
+      "title": "Better Prompts, Better Project Outcomes: Using Autodesk Assistant in Forma",
+      "title_vi": "Autodesk Assistant trong Forma: khung CRAFT giúp hỏi specs/RFI/issues theo dự án — chỉ Enterprise/Account Unlimited",
+      "source": {
+        "name": "Autodesk Digital Builder",
+        "kind": "blog nhà cung cấp"
+      },
+      "url": "https://www.autodesk.com/blogs/construction/better-prompts-better-project-outcomes-using-autodesk-assistant-in-forma/",
+      "published": "2026-10-26",
+      "time_known": false,
+      "date_basis": "Updated: October 26, 2026",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Bài Autodesk (26/10) giới thiệu cách prompt Autodesk Assistant trong Forma theo khung CRAFT (Context–Role–Action–Filters–Tasks) để phân tích specs, RFI, submittals, issues… theo từng dự án. Assistant index dữ liệu trong môi trường dự án; hiện chỉ có với Enterprise Business Agreements / Account Unlimited; read-only, không tự sửa dự án.",
+      "why_it_matters": "Nhắc giới hạn giấy phép và prompt — tránh kỳ vọng ‘AI làm hộ mọi thứ’ trên gói thường.",
+      "tags": [
+        "Autodesk Assistant",
+        "Forma",
+        "CRAFT",
+        "prompt"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang",
+      "accessed": "2026-11-06",
+      "older_than_7d": true,
+      "older_note": "Bài 26/10 về Autodesk Assistant/CRAFT — giữ vì là hướng dẫn prompt mới trong Forma, bổ trợ Bid Proposal Agent 4/11.",
+      "note": " Check-link bot: HTTP 403; đã mở bằng WebFetch 6/11."
+    },
+    {
+      "id": "n-20261106-10-forma-street-design",
+      "title": "What Autodesk Forma Announced at AU 2026",
+      "title_vi": "AU 2026: Forma Street Design (closed beta waitlist); Civil 3D thành Forma Connected Client (tech preview); AI visualization trên Board",
+      "source": {
+        "name": "Autodesk Forma Blog",
+        "kind": "blog nhà cung cấp"
+      },
+      "url": "https://blogs.autodesk.com/forma/2026/10/14/what-autodesk-forma-announced-au-2026/",
+      "published": "2026-10-14",
+      "time_known": false,
+      "date_basis": "ngày URL/bài AU 2026 recap 14/10/2026",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Blog Forma tóm tắt AU 2026: công bố Forma Street Design (thiết kế đường/giao lộ sớm trên mây, handoff Civil 3D, đang waitlist closed beta). Civil 3D trở thành Forma Connected Client (tech preview, cùng Revit) để dùng chung dữ liệu mây. Forma Board gắn Data Management với AI visualization từ sketch; Autodesk Assistant hỏi ngôn ngữ tự nhiên về site; Building Layout Explorer còn ở giai đoạn nghiên cứu sớm.",
+      "why_it_matters": "Hạ tầng–kiến trúc đang được kéo vào một đám mây dữ liệu; Street Design còn sớm (beta).",
+      "tags": [
+        "Forma",
+        "Street Design",
+        "Civil 3D",
+        "AU 2026"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang",
+      "accessed": "2026-11-06",
+      "older_than_7d": true,
+      "older_note": "Recap AU 14/10 — giữ có chọn lọc vì Street Design/Civil 3D Connected Client chưa đưa vào các ngày tin gần đây."
+    },
+    {
+      "id": "n-20261106-11-promise-dr-horton",
+      "title": "AI start-up Dream becomes Architect of record — PLUS Promise Robotics / D.R. Horton",
+      "title_vi": "AEC Field Notes (2/11): D.R. Horton thuê năng lực nhà máy robot Promise Robotics cho 1.250+ nhà tại Phoenix",
+      "source": {
+        "name": "AEC Field Notes",
+        "kind": "bản tin ngành"
+      },
+      "url": "https://aecfieldnotes.beehiiv.com/p/ai-start-up-dream-becomes-architect-of-record",
+      "published": "2026-11-02",
+      "time_known": false,
+      "date_basis": "dòng Nov 2, 2026 trên beehiiv",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Bản tin AEC Field Notes (2/11) nêu D.R. Horton ký hợp đồng nhiều năm với Promise Robotics theo mô hình Factory-as-a-Service cho công suất 1.250+ nhà tại Phoenix — hơn nửa năm closings gần đây của Horton ở thị trường đó. Promise sở hữu/vận hành nhà máy; AI đọc plan sẵn có và sinh lệnh máy; mặt bằng ~16.000 sq ft ở Gilbert, Arizona, nhắm sản xuất đầu 2027. 1.250 nhà ≈ 1,5% tổng 84.863 nhà Horton năm 2025 (theo bài).",
+      "why_it_matters": "Tín hiệu offsite+AI từ nhà xây lớn nhất Mỹ — điều khoản tài chính chưa công bố.",
+      "tags": [
+        "Promise Robotics",
+        "D.R. Horton",
+        "offsite",
+        "robot"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang",
+      "accessed": "2026-11-06",
+      "note": "Bài cũng nêu Dream $17M seed và Snaptrude Agent — Dream/Snaptrude đã xuất hiện ngày trước; chỉ lấy góc Promise–Horton mới."
+    },
+    {
+      "id": "n-20261106-12-nvidia-simready",
+      "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+      "title_vi": "NVIDIA blog (công nghiệp châu Âu) + AEC Field Notes: SimReady Central 2.000+ asset OpenUSD trên Hugging Face cho mô phỏng robot/digital twin",
+      "source": {
+        "name": "AEC Field Notes",
+        "kind": "bản tin ngành"
+      },
+      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+      "published": "2026-11-02",
+      "time_known": false,
+      "date_basis": "AEC Field Notes Nov 2, 2026 (SimReady); URL NVIDIA blog là nguồn nền tảng hệ sinh thái",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "AEC Field Notes (2/11) mô tả NVIDIA mở SimReady Central trên Hugging Face: hơn 2.000 asset OpenUSD có dữ liệu vật lý (khối lượng, ma sát, khớp), thư viện alpha ~490 GB và khoảng 839.384 lượt tải trong tháng qua (theo bản tin). Có rack/cooling từ Vertiv và tay robot từ nhiều OEM; giấy phép do từng OEM đặt. Bài NVIDIA blog về lãnh đạo công nghiệp châu Âu (cùng hệ sinh thái Omniverse/Isaac) được dùng làm nguồn nền tảng bổ sung; chi tiết số tải lấy từ AEC Field Notes.",
+      "why_it_matters": "Thư viện vật lý sẵn giúp huấn luyện robot công trường/nhà máy nhanh hơn — số liệu tải theo bản tin, nên đối chiếu trang Hugging Face khi dùng.",
+      "tags": [
+        "NVIDIA",
+        "SimReady",
+        "OpenUSD",
+        "digital twin"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "tin độc lập",
+      "how_read": "đọc đầy đủ mục SimReady trong AEC Field Notes 2/11; đối chiếu tiêu đề NVIDIA blog công nghiệp qua WebSearch",
+      "accessed": "2026-11-06",
+      "note": "Số 2.000+/490GB/839.384 theo AEC Field Notes 2/11; chưa scrape trực tiếp collection Hugging Face."
+    },
+    {
+      "id": "n-20261106-13-bim-capital-180m",
+      "title": "BIM Capital, Axelerated Solutions launch $180M fund for AI data centres",
+      "title_vi": "Dealroom: BIM Capital và Axelerated Solutions ra quỹ ~180 triệu USD (675 triệu) cho trung tâm dữ liệu AI",
+      "source": {
+        "name": "Dealroom",
+        "kind": "cơ sở dữ liệu gọi vốn"
+      },
+      "url": "https://dealroom.co/news/170141-bim-capital-axelerated-solutions-launch-180m-fund-for-ai-data-centres/",
+      "published": "2026-11-05",
+      "time_known": false,
+      "date_basis": "Dealroom ‘Launch Nov 5, 2026’ trong kết quả tìm kiếm; trang mở được một phần",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Dealroom ghi nhận 5/11: BIM Capital và Axelerated Solutions ra mắt quỹ khoảng 180 triệu USD (bài nêu 675 triệu — đơn vị tiền tệ theo trang, cần đọc kỹ) để phát triển/sở hữu/vận hành hai trung tâm dữ liệu cho workload AI. Chi tiết địa điểm và LP chưa lấy đủ từ trang (WebFetch/HTML nặng).",
+      "why_it_matters": "Vốn xây DC AI vẫn chảy dù cổ phiếu chip lao dốc cùng ngày — kiểm lại số liệu tiền tệ trên Dealroom trước khi trích dẫn tiếp.",
+      "tags": [
+        "BIM Capital",
+        "data centre",
+        "quỹ"
+      ],
+      "verification": "chỉ đọc đoạn trích",
+      "source_type": "tin độc lập",
+      "how_read": "đọc snippet Dealroom từ tìm kiếm; trang đầy đủ timeout/HTML dày — chỉ dùng các số trong snippet",
+      "accessed": "2026-11-06",
+      "note": "Trang Dealroom trả HTML/CSS dày; số 675 triệu vs 180 triệu USD cần xác minh đơn vị khi mở lại."
+    },
+    {
+      "id": "n-20261106-14-maocoland-seed",
+      "title": "Sequoia China backs Pop Mart designer's AI toy startup MaocoLand in seed round",
+      "title_vi": "Dealroom: Sequoia China dẫn seed MaocoLand — thú bông AI-native của cựu designer Pop Mart",
+      "source": {
+        "name": "Dealroom",
+        "kind": "cơ sở dữ liệu gọi vốn"
+      },
+      "url": "https://dealroom.co/news/169396-sequoia-china-backs-pop-mart-designers-ai-toy-startup-maocoland-in-seed/",
+      "published": "2026-11-03",
+      "time_known": false,
+      "date_basis": "Dealroom Fundraise Nov 3, 2026",
+      "topic": "cong_nghe",
+      "region": "CN",
+      "summary_vi": "Dealroom (3/11): MaocoLand (猫草乐园, Thâm Quyến) đóng seed do Sequoia China dẫn; đội từ Pop Mart/DJI; sản phẩm thú bông AI-native (báo thức, loa, camera…). Founder Wang Lili từng làm Crybaby/Molly/Labubu. Số tiền seed và doanh số chưa công bố. (Góc ‘built world’ cảm xúc/phần cứng — xếp gần contech phần cứng tiêu dùng; cũng hỗ trợ xu hướng ý tưởng IP.)",
+      "why_it_matters": "Vốn IP+AI hardware cảm xúc — liên quan trải nghiệm hơn là BIM, nhưng là tín hiệu phần cứng AI gần người dùng.",
+      "tags": [
+        "MaocoLand",
+        "Sequoia China",
+        "AI plush"
+      ],
+      "verification": "chỉ đọc đoạn trích",
+      "source_type": "tin độc lập",
+      "how_read": "đọc snippet Dealroom từ tìm kiếm; trang đầy đủ timeout/HTML dày — chỉ dùng các số trong snippet",
+      "accessed": "2026-11-06",
+      "note": "Xếp topic ai_xd vì phần cứng AI gắn không gian sống; có thể xem như tín hiệu sản phẩm tiêu dùng."
+    },
+    {
+      "id": "n-20261106-15-onestop-clearai",
+      "title": "OneStop and Clear.ai partner to bring real-time container and vessel visibility to Australian freight forwarders",
+      "title_vi": "OneStop và Clear.ai hợp tác: hiển thị container/tàu realtime cho forwarder Úc (thông cáo 4/11/2026)",
+      "source": {
+        "name": "OneStop",
+        "kind": "thông cáo"
+      },
+      "url": "https://www.1-stop.biz/wednesday-4-november-2026-onestop-and-clear-ai-partner-to-bring-real-time-container-and-vessel-visibility-to-australian-freight-forwarders/",
+      "published": "2026-11-04",
+      "time_known": false,
+      "date_basis": "ngày trong URL/tiêu đề Wednesday 4 November 2026",
+      "topic": "chuoi_cung_ung",
+      "region": "AU",
+      "summary_vi": "Thông cáo OneStop (4/11) công bố hợp tác với Clear.ai nhằm mang hiển thị realtime về container và tàu cho các freight forwarder tại Úc. Trang thông cáo xác nhận quan hệ đối tác và mục tiêu visibility; chi tiết kỹ thuật sâu nằm sau phần marketing trên site.",
+      "why_it_matters": "Tín hiệu AI visibility cho forwarder khu vực châu Á–Thái Bình Dương — theo hãng, cần thử POC trước khi tin ROI.",
+      "tags": [
+        "OneStop",
+        "Clear.ai",
+        "container",
+        "visibility"
+      ],
+      "verification": "chỉ đọc tiêu đề",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang nhưng nội dung chính bị CSS/JS shell; lấy ngày và tuyên bố đối tác từ tiêu đề/URL",
+      "accessed": "2026-11-06",
+      "note": "HTML gần như khung CSS; không tóm tắt vượt tiêu đề."
+    },
+    {
+      "id": "n-20261106-16-freightwaves-ports-ai",
+      "title": "New survey finds AI rush isn't boosting ports earnings",
+      "title_vi": "FreightWaves/BCG: 44% cảng–terminal đã scale AI nhưng chỉ 4% báo lãi đo được; 62% dùng AI trích chứng từ",
+      "source": {
+        "name": "FreightWaves",
+        "kind": "trang tin logistics"
+      },
+      "url": "https://www.freightwaves.com/news/new-survey-finds-ai-rush-isnt-boosting-ports-earnings",
+      "published": "2026-11-03",
+      "time_known": false,
+      "date_basis": "dòng Tuesday, November 03, 2026",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "FreightWaves (3/11) tường thuật khảo sát BCG + TIC4.0 trên 103 chuyên gia (tháng 8/2026, công bố tháng 10): 44% tổ chức ở giai đoạn scale AI trở lên nhưng chỉ 4% báo cáo lãi đo được; 11% theo dõi có hệ thống đóng góp AI vào hiệu quả/biên. 62% đang thử/triển khai trích dữ liệu chứng từ; 48% dự báo hỏng thiết bị. Rào cản lớn nhất: ROI không rõ (41%).",
+      "why_it_matters": "Bài học cho chủ đầu tư logistics VN: triển khai AI ≠ có lãi nếu không đo baseline.",
+      "tags": [
+        "BCG",
+        "port",
+        "AI ROI",
+        "TIC4.0"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "khảo sát/báo cáo",
+      "how_read": "mở trang",
+      "accessed": "2026-11-06"
+    },
+    {
+      "id": "n-20261106-17-maersk-outlook",
+      "title": "Maersk raises outlook again as AI buildout, port congestion keep freight rates high",
+      "title_vi": "Maersk nâng EBITDA 2026 lên 14–14,5 tỷ USD nhờ tắc cảng + nhu cầu hàng AI; cổ phiếu vẫn −11%",
+      "source": {
+        "name": "CNBC Africa",
+        "kind": "trang tin"
+      },
+      "url": "https://www.cnbcafrica.com/2026/maersk-raises-outlook-again-as-ai-buildout-port-congestion-keep-freight-rates-high",
+      "published": "2026-11-05T10:41:04+00:00",
+      "time_known": true,
+      "date_basis": "meta/published trên trang CNBC Africa",
+      "topic": "chuoi_cung_ung",
+      "region": "EU",
+      "summary_vi": "CNBC Africa (5/11, nguồn Reuters): Maersk nâng guidance EBITDA 2026 lần ba lên 14–14,5 tỷ USD (trước 10,5–12,5); EBIT 8–8,5 tỷ. CEO Vincent Clerc nói nhu cầu từ điện khí hóa, năng lượng và hạ tầng AI. Cước Ocean tăng 46% so quý trước; Q3 EBITDA 4,7 tỷ (dưới kỳ vọng 5,04 tỷ); cổ phiếu −11% vì nâng dự báo đã được kỳ vọng.",
+      "why_it_matters": "Cước biển neo cao ảnh hưởng nhập thiết bị/vật tư — theo dõi lịch Suez.",
+      "tags": [
+        "Maersk",
+        "freight",
+        "AI infrastructure"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang",
+      "accessed": "2026-11-06"
+    },
+    {
+      "id": "n-20261106-18-vlxd-cuoi-nam",
+      "title": "Vật liệu xây dựng trước sức ép cao điểm cuối năm",
+      "title_vi": "Thời báo Ngân hàng: cao điểm cuối năm — 65% DN bị giá NVL tăng; đá thực tế tới 300.000đ/m³ trong khi HĐ 200.000đ/m³ (ví dụ Thanh Hóa)",
+      "source": {
+        "name": "Thời báo Ngân hàng",
+        "kind": "báo"
+      },
+      "url": "https://thoibaonganhang.vn/vat-lieu-xay-dung-truoc-suc-ep-cao-diem-cuoi-nam-189537.html",
+      "published": "2026-11-01T08:00:53+07:00",
+      "time_known": true,
+      "date_basis": "meta published / dòng 01/11/2026",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "Bài (1/11) nêu nhu cầu thi công cuối năm tăng trong khi cát/đá vướng cung tại một số địa bàn. Khảo sát Cục Thống kê quý III/2026: 65% DN nói giá NVL tăng gây khó; 24,1% thiếu cung; 56,7% chi phí NVL trực tiếp tăng so quý trước. Ví dụ tại hội nghị Thanh Hóa: giá đá thực tế tới 300.000 đồng/m³ trong khi giá ký HĐ 200.000 đồng/m³. TS Thái Duy Sâm (Hội VLXD VN) nhận định giá quý IV có thể neo cao nhưng khó tăng đột biến như đầu năm.",
+      "why_it_matters": "Đầu vào công trình VN đang phân hóa địa bàn — nhà thầu cần điều phối liên vùng và cập nhật giá sát thực tế.",
+      "tags": [
+        "vật liệu",
+        "cát đá",
+        "chi phí"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang",
+      "accessed": "2026-11-06"
+    },
+    {
+      "id": "n-20261106-19-thep-vs-suc-mua",
+      "title": "Sức mua thép xây dựng tăng gần 20%, thị trường ráo riết chuẩn bị cho cao điểm quý IV",
+      "title_vi": "VietnamBiz/VSA: 9 tháng bán thép các loại gần 27,7 triệu tấn (+19,2% theo CafeF cùng kỳ số VSA); HRC 9 tháng SX 8,54 triệu tấn (+46,2%)",
+      "source": {
+        "name": "VietnamBiz",
+        "kind": "trang tin"
+      },
+      "url": "https://vietnambiz.vn/suc-mua-thep-xay-dung-tang-gan-20-thi-truong-rao-riet-chuan-bi-cho-cao-diem-quy-iv-2026114153616114.htm",
+      "published": "2026-11-04",
+      "time_known": false,
+      "date_basis": "dòng 16:15 | 04/11/2026 trên trang",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "VietnamBiz (4/11) dẫn báo cáo VSA tháng 10/2026: HRC 9 tháng sản xuất 8,54 triệu tấn (+46,2%), bán 8,45 triệu tấn (+42,9%), xuất khẩu HRC +98,5% lên 1,36 triệu tấn. Thép xây dựng tháng 9: SX 1.254.760 tấn (−4,49% MoM, +16,18% YoY); bán 1.351.389 tấn (+5,9% MoM, +25,5% YoY). CafeF (3/11) dẫn VSA: 9 tháng bán thép các loại gần 27,7 triệu tấn (+19,2%).",
+      "why_it_matters": "Cung–cầu thép nội địa đang nóng trước cao điểm quý IV — theo dõi giá và biên lãi DN.",
+      "tags": [
+        "VSA",
+        "HRC",
+        "thép xây dựng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang VietnamBiz; đối chiếu CafeF thép",
+      "accessed": "2026-11-06"
+    },
+    {
+      "id": "n-20261106-20-bds-gdp",
+      "title": "Thị trường bất động sản dưới tác động của tăng trưởng kinh tế vĩ mô",
+      "title_vi": "CafeF: GDP quý III/2026 +9,95%; BĐS quý III ~92.000 giao dịch; tồn kho ~51.950 căn/lô tại 27/34 địa phương",
+      "source": {
+        "name": "CafeF",
+        "kind": "trang tin"
+      },
+      "url": "https://cafef.vn/thi-truong-bat-dong-san-duoi-tac-dong-cua-tang-truong-kinh-te-vi-mo-188261103133036146.chn",
+      "published": "2026-11-03",
+      "time_known": false,
+      "date_basis": "dòng 03-11-2026 - 13:30 PM trên CafeF",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "CafeF (3/11) dẫn Cục Thống kê: GDP quý III/2026 tăng 9,95% YoY; 9 tháng +9,01%. FDI đăng ký 9 tháng 50,4 tỷ USD (+76,4%), thực hiện 21,1 tỷ (+12,1%). Bộ Xây dựng: quý III ~92.000 giao dịch BĐS (bằng 92% quý trước); tồn kho tại 27/34 địa phương ~51.950 căn và lô đất nền. Chuyên gia nhấn mạnh phục hồi chọn lọc theo pháp lý–tiến độ–giá phù hợp thu nhập.",
+      "why_it_matters": "Nền vĩ mô thuận nhưng hấp thụ BĐS chưa bứt phá — liên quan kế hoạch mua sắm vật tư/dự án.",
+      "tags": [
+        "BĐS",
+        "GDP",
+        "FDI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang",
+      "accessed": "2026-11-06"
+    },
+    {
+      "id": "n-20261106-21-thep-dn-chiphi",
+      "title": "Thị trường hồi phục, doanh nghiệp thép vẫn nặng gánh chi phí",
+      "title_vi": "CafeF: Hòa Phát quý III LNST >8.260 tỷ; 9 tháng lãi vay >4.620 tỷ (gấp ~3 lần); Nam Kim LNST 9 tháng >250 tỷ (+124%)",
+      "source": {
+        "name": "CafeF",
+        "kind": "trang tin"
+      },
+      "url": "https://cafef.vn/thi-truong-hoi-phuc-doanh-nghiep-thep-van-nang-ganh-chi-phi-188261103175044438.chn",
+      "published": "2026-11-03",
+      "time_known": false,
+      "date_basis": "dòng 03-11-2026 - 18:23 PM",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "CafeF (3/11): sức mua thép phục hồi (VSA: 9 tháng bán ~27,7 triệu tấn, +19,2%) nhưng DN phân hóa vì lãi vay và chi phí bán hàng. Hòa Phát quý III doanh thu thuần >62.200 tỷ, LNST >8.260 tỷ; 9 tháng lãi vay >4.620 tỷ (gấp gần 3 lần). Nam Kim 9 tháng LNST >250 tỷ (+124%) nhưng chi phí bán hàng quý III tăng mạnh. Tôn Đông Á 9 tháng LNST >216 tỷ (−8,1%).",
+      "why_it_matters": "Doanh thu tăng chưa đủ nếu chi phí tài chính và bán hàng phình — theo dõi khi đàm phán giá thép công trình.",
+      "tags": [
+        "Hòa Phát",
+        "Nam Kim",
+        "lãi vay",
+        "thép"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang",
+      "accessed": "2026-11-06"
+    },
+    {
+      "id": "n-20261106-22-gia-thep-2-11",
+      "title": "Giá thép hôm nay ngày 2/11/2026: Ba miền ổn định, thép xây dựng dao động 13.840-15.150 đồng/kg",
+      "title_vi": "Index.vn: 2/11 giá thép xây dựng ba miền dao động khoảng 13.840–15.150 đồng/kg, ngắn hạn ổn định",
+      "source": {
+        "name": "Index.vn",
+        "kind": "trang giá"
+      },
+      "url": "https://index.vn/tin-tuc/gia-thep-hom-nay-ngay-2-11-2026-ba-mien-on-dinh-thep-xay-dung-dao-dong-13-840-15-150-dong-kg",
+      "published": "2026-11-02T01:41:03.517Z",
+      "time_known": true,
+      "date_basis": "meta datePublished",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Index.vn (2/11) đưa tiêu đề và khung giá thép xây dựng ba miền khoảng 13.840–15.150 đồng/kg, mô tả ngắn hạn ổn định. (Trang có nhiều widget; số liệu chi tiết từng thương hiệu nên đối chiếu bảng giá nhà máy khi dùng cho dự toán.)",
+      "why_it_matters": "Mốc giá tham khảo đầu tháng 11 cho dự toán — không thay bảng giá HĐ.",
+      "tags": [
+        "giá thép",
+        "Index.vn"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "bảng giá tổng hợp",
+      "how_read": "mở trang (tiêu đề + phần đầu; trang rất nặng widget)",
+      "accessed": "2026-11-06"
+    },
+    {
+      "id": "n-20261106-23-maximo-robotics-300k",
+      "title": "Maximo Robotics surpasses 300,000 construction tasks with Physical-AI in utility-scale solar",
+      "title_vi": "Maximo Robotics: hơn 300.000 nhiệm vụ thi công pin mặt trời quy mô tiện ích; năng suất kíp 2,5 lần khi làm cùng Max 4.0 (theo hãng)",
+      "source": {
+        "name": "Intelligent Build.tech",
+        "kind": "trang tin contech"
+      },
+      "url": "https://www.intelligentbuild.tech/2026/11/04/maximo-robotics-surpasses-300000-construction-tasks-with-physical-ai-in-utility-scale-solar/",
+      "published": "2026-11-04",
+      "time_known": false,
+      "date_basis": "dòng 4 November, 2026 trên trang",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Intelligent Build.tech (4/11) thuật lại tuyên bố Maximo Robotics: hệ robot sản xuất tại Mỹ đã hoàn thành hơn 300.000 nhiệm vụ thi công dưới hợp đồng Robotics-as-a-Service tính theo nhiệm vụ. Kíp làm cùng hệ Max 4.0 đạt năng suất lắp đặt 2,5 lần so làm thủ công trên mỗi người mỗi giờ ca (theo hãng). Dự án trải California, Illinois, Kansas, Louisiana, New York, Texas, Washington; Primoris Renewables được nêu là EPC đồng hành.",
+      "why_it_matters": "Tín hiệu robot thi công năng lượng tái tạo đo bằng nhiệm vụ hoàn thành — số liệu năng suất là của hãng, cần đối chứng thực địa.",
+      "tags": [
+        "Maximo Robotics",
+        "solar",
+        "RaaS",
+        "Physical-AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang Intelligent Build.tech",
+      "accessed": "2026-11-06",
+      "note": "Bài thuật lại thông tin công ty; 2,5× và 300.000 tasks theo tuyên bố được báo đăng."
+    }
+  ],
+  "unreachable": [
+    {
+      "source": "CNBC.com (stock-market-selloff-ai-fears)",
+      "status": "curl trả nội dung rất ngắn/blocked",
+      "impact": "Dùng BBC + NBC làm nguồn chính cho phiên 5/11."
+    },
+    {
+      "source": "Dealroom MaocoLand / BIM Capital (WebFetch)",
+      "status": "timeout hoặc HTML dày",
+      "impact": "Một phần tin chỉ đọc snippet; ghi verification tương ứng."
+    },
+    {
+      "source": "Construction Dive / Supply Chain Dive (curl)",
+      "status": "HTTP 403",
+      "impact": "Dùng FreightWaves, Autodesk, Trimble, Engineering.com."
+    },
+    {
+      "source": "parallel-cli / firecrawl authenticated search",
+      "status": "CLI chưa cài / keyless rate limit",
+      "impact": "Dùng WebSearch + WebFetch + curl."
+    },
+    {
+      "source": "Weibo/Douyin/Xiaohongshu hot",
+      "status": "đăng nhập / JS shell",
+      "impact": "Ghi keyword_unreachable; dùng Baidu hotList."
+    }
+  ]
+}

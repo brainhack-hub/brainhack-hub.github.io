@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-05",
-  "latest": "2026-11-05",
+  "updated": "2026-11-06",
+  "latest": "2026-11-06",
   "days": [
+    {
+      "date": "2026-11-06",
+      "file": "2026-11-06.json",
+      "headline": "Personal Agent & AI bỏ túi TQ; bán tháo cổ phiếu AI Mỹ; Pepero–CSAT Hàn; ý tưởng gửi trà sữa hộ và hộp đếm ngược kỳ thi",
+      "idea_count": 8,
+      "trend_count": 6,
+      "keyword_count": 54,
+      "top": {
+        "title": "“Trà sữa gửi hộ có thẻ AI” — dịch vụ Zalo: mô tả bạn, AI soạn thẻ, đặt trà sữa giao kèm lời nhắn",
+        "total_score": 7.36
+      }
+    },
     {
       "date": "2026-11-05",
       "file": "2026-11-05.json",
