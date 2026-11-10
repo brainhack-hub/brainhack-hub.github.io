@@ -1,0 +1,640 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T09:30:00+07:00",
+  "headline": "Meta ra mô hình agent giá rẻ, Anthropic mua máy phát 3,4 tỷ USD; Trimble đưa AI vào khớp hóa đơn công trường",
+  "digest": [
+    {
+      "title": "AI toàn cầu: mô hình rẻ hơn, điện đắt hơn",
+      "text": "Meta ra Muse Ember (10 cent/triệu token đầu vào, đa phương thức) cho tác vụ agent khối lượng lớn; Anthropic mua 3,4 tỷ USD máy phát khí tới 1,7 GW (TechCrunch/DCD dẫn FT — một nguồn gốc).",
+      "item_ids": [
+        "n-20261110-01-meta-muse-ember",
+        "n-20261110-03-anthropic-turbines"
+      ]
+    },
+    {
+      "title": "Nvidia: rủi ro quản trị lên bàn HĐQT",
+      "text": "HĐQT Nvidia mở điều tra độc lập về tin CEO Jensen Huang là mục tiêu tình báo nước ngoài; HĐQT nói chưa thấy bí mật bị lộ và vẫn tin ông Huang (thông cáo hãng). Cùng lúc, nhạc AI chịu thêm hai vụ kiện Elvis/Eminem nhắm vào Suno.",
+      "item_ids": [
+        "n-20261110-02-nvidia-board-probe",
+        "n-20261110-04-suno-elvis-eminem"
+      ]
+    },
+    {
+      "title": "Mua sắm xây dựng: AI vào khâu khớp hóa đơn và bóc khối lượng",
+      "text": "Trimble Connect thêm AI khớp hóa đơn–PO–phiếu giao và soạn lệnh thay đổi (thông cáo hãng, vài tính năng còn hạn chế); Bangtu Mind (TQ) bóc khối lượng/thẩm tra từ DWG; bài tài trợ trên Construction Dive nhắc: lợi thế còn lại là giá nhà cung cấp và soát phạm vi.",
+      "item_ids": [
+        "n-20261110-06-trimble-connect-ai",
+        "n-20261110-07-bangtu-mind",
+        "n-20261110-14-attentive-same-ai"
+      ]
+    },
+    {
+      "title": "Công trường châu Á: Hàn số hóa an toàn–chất lượng, Nhật đưa robot đi tuần",
+      "text": "Hanwha báo nguy cơ bằng ảnh + AI, Hyundai số hóa chất lượng bê tông nối dự báo thời tiết; Kajima chạy robot FieldAI hơn 2.000 lượt tuần tra ở hơn 10 công trường.",
+      "item_ids": [
+        "n-20261110-09-hanwha-ai-safety",
+        "n-20261110-10-hyundai-qpocket",
+        "n-20261110-12-kajima-fieldai"
+      ]
+    },
+    {
+      "title": "VN: vật liệu phía Nam căng, vốn phía nam Hà Nội phình",
+      "text": "TP.HCM cần điều phối ~1,91 triệu m³ đá và 3,7 triệu m³ đất đắp cho 20 dự án cuối năm; KĐT thể thao quốc tế (Vinhomes) dự kiến nâng vốn lên hơn 1,225 triệu tỷ đồng; Mỹ–Trung gia hạn đình chiến thuế tới 10/1/2027.",
+      "item_ids": [
+        "n-20261110-16-vlxd-tphcm-ha-tang",
+        "n-20261110-17-vinhomes-kdt-the-thao",
+        "n-20261110-15-us-china-truce"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "n-20261110-01-meta-muse-ember",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "title_vi": "Meta ra Muse Ember — mô hình nhỏ, rẻ nhất dòng Muse, chuyên cho tác vụ lặp lại của agent (10 cent/triệu token đầu vào)",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "published": "2026-11-09T18:00:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time trên trang bài",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Meta Superintelligence Lab phát hành Muse Ember ngày 9/11, mô hình nhẹ và tiết kiệm chi phí nhất của lab, nhắm vào việc agent làm lặp lại cả ngày: gọi công cụ, tác vụ lập trình con, định tuyến, trích xuất, đọc tài liệu dài. Giá 10 cent cho mỗi triệu token đầu vào; Meta dùng điểm tổng hợp của Artificial Analysis để nói Ember rẻ và giỏi hơn Haiku (Anthropic) và Luna (OpenAI). Ember nhận cả văn bản, ảnh, âm thanh và được thiết kế để chạy cùng mô hình lớn Muse Wonder (Wonder lập kế hoạch, Ember xử lý khối lượng). Đây là mô hình thứ tư mang thương hiệu Muse.",
+      "why_it_matters": "Giá mô hình đa phương thức nhỏ tiếp tục rơi — dịch vụ nhỏ kiểu 'đọc ảnh hóa đơn/ảnh chụp màn hình hàng loạt' ngày càng rẻ để vận hành; so sánh benchmark là do Meta tự chọn.",
+      "tags": [
+        "Meta",
+        "Muse Ember",
+        "mô hình nhỏ",
+        "agent",
+        "giá token"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang TechCrunch (curl), đối chiếu The Verge cùng ngày",
+      "accessed": "2026-11-10",
+      "note": "The Verge (9/11) xác nhận tên mô hình và tuyên bố 'more intelligence per dollar' so với Claude Haiku 5.5 và GPT-6 Luna — theo Meta.",
+      "idea_ids": [
+        "20261110-03-so-cho-ai-quan-nho"
+      ]
+    },
+    {
+      "id": "n-20261110-02-nvidia-board-probe",
+      "title": "Statement from NVIDIA Board of Directors",
+      "title_vi": "HĐQT Nvidia mở điều tra độc lập sau tin CEO Jensen Huang là mục tiêu của một chiến dịch tình báo nước ngoài",
+      "source": {
+        "name": "NVIDIA Investor Relations",
+        "kind": "thông cáo doanh nghiệp"
+      },
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx",
+      "published": "2026-11-08",
+      "time_known": false,
+      "date_basis": "dòng ngày trên trang thông cáo (November 08, 2026)",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Ngày 8/11, HĐQT Nvidia thông báo mở điều tra độc lập sau các bài báo cho rằng nhà sáng lập kiêm CEO Jensen Huang là mục tiêu của một chiến dịch tình báo nước ngoài; một ủy ban gồm các thành viên độc lập, có luật sư độc lập hỗ trợ, sẽ giám sát. HĐQT nói chưa có lý do để tin an ninh quốc gia hay bí mật của Nvidia bị xâm phạm, và vẫn tin tưởng ông Huang. Cùng ngày, ông Huang gửi thư cho nhân viên xin lỗi vì không chung thủy và cam kết hợp tác với cuộc điều tra (theo bản thư CNBC đăng).",
+      "why_it_matters": "Rủi ro quản trị ở nhà cung cấp chip AI lớn nhất chuyển từ tin đồn sang hội đồng quản trị — nhà đầu tư theo dõi cổ phiếu chip nên tính thêm biến số này.",
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "quản trị",
+        "điều tra"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang thông cáo Nvidia (curl) + bài CNBC đăng nguyên văn thư và thông cáo",
+      "accessed": "2026-11-10",
+      "note": "CNBC (8/11) dẫn Nvidia: ông Huang tiếp tục điều hành 'without interruption'. AP News trả 403 với curl — không dùng.",
+      "idea_ids": [
+        "20261110-08-watchlist-dien-cho-ai"
+      ]
+    },
+    {
+      "id": "n-20261110-03-anthropic-turbines",
+      "title": "Anthropic joins AI's natural gas frenzy, buys $3.4B worth of turbines",
+      "title_vi": "Anthropic chi 3,4 tỷ USD mua máy phát chạy khí (tới 1,7 GW) cho trung tâm dữ liệu AI",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "published": "2026-11-09T16:56:54+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time trên trang bài",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Theo TechCrunch dẫn Financial Times, Anthropic mua các máy phát Caterpillar mà nhà cung cấp OnePWR đặt từ trước, trị giá 3,4 tỷ USD, công suất tới 1,7 GW. Bài nêu Anthropic trước nay ưu tiên thuê hạ tầng; hồ sơ S-1 tháng 5 cho thấy họ trả xAI 1,25 tỷ USD/tháng để thuê năng lực tính toán. Hàng chờ tua-bin khí kéo dài tới đầu thập niên 2030. DCD (9/11) bổ sung: OnePWR sẽ hỗ trợ lắp đặt, máy dự kiến có trong hai năm tới.",
+      "why_it_matters": "Điện đang thành nút cổ chai thật của AI: khi các lab mua cả máy phát, nhu cầu thiết bị điện, xây dựng trung tâm dữ liệu và vật tư liên quan tiếp tục nóng.",
+      "tags": [
+        "Anthropic",
+        "điện",
+        "tua-bin khí",
+        "Caterpillar",
+        "trung tâm dữ liệu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang TechCrunch (curl) + đối chiếu DatacenterDynamics 9/11",
+      "accessed": "2026-11-10",
+      "note": "Nguồn gốc là FT (paywall, không mở). TechCrunch và DCD đều dẫn FT nên không tính là 2 nguồn độc lập về con số 3,4 tỷ USD.",
+      "idea_ids": [
+        "20261110-08-watchlist-dien-cho-ai"
+      ]
+    },
+    {
+      "id": "n-20261110-04-suno-elvis-eminem",
+      "title": "Elvis rights holders and Eminem's publisher sue Suno, testing the ELVIS Act",
+      "title_vi": "Chủ quyền Elvis và nhà xuất bản của Eminem kiện Suno — phép thử đầu tiên lớn cho luật ELVIS Act",
+      "source": {
+        "name": "Los Angeles Times",
+        "kind": "báo"
+      },
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-11-09/elvis-presley-eminem-publisher-sue-suno-elvis-act",
+      "published": "2026-11-09T20:47:44+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time trên trang bài",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Hai vụ kiện liên bang riêng biệt được nộp tại Bắc California hôm thứ Sáu (6/11): nhóm chủ quyền Elvis Presley cáo buộc Suno vi phạm bản quyền và luật ELVIS Act của bang Tennessee khi cho người dùng tạo bài hát bắt chước giọng Elvis; Eight Mile Style (nhà xuất bản nhiều ca khúc của Eminem) cáo buộc Suno sao chép trái phép các tác phẩm. Theo đơn kiện, bồi thường vụ Elvis có thể vượt 50 triệu USD. Cùng một nhóm luật sư đại diện hai bên nguyên đơn.",
+      "why_it_matters": "Rủi ro pháp lý của nhạc AI đang chuyển từ dữ liệu huấn luyện sang 'đầu ra giống nghệ sĩ' — ai dùng nhạc AI cho mục đích thương mại cần tránh mô phỏng giọng/phong cách nghệ sĩ có tên.",
+      "tags": [
+        "Suno",
+        "nhạc AI",
+        "bản quyền",
+        "ELVIS Act"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang LA Times (curl) + đối chiếu Variety 7/11",
+      "accessed": "2026-11-10",
+      "note": "Variety (7/11) xác nhận hai vụ kiện và đơn 51 trang của nhóm Presley.",
+      "idea_ids": [
+        "20261110-06-jingle-quan-sach-phong-cach"
+      ]
+    },
+    {
+      "id": "n-20261110-05-deepseek-harness",
+      "title": "DeepSeek's AI agent platform hits 1.54 million daily users",
+      "title_vi": "DeepSeek Harness (agent mã nguồn mở) đạt 1,54 triệu người dùng/ngày sau chưa đầy 3 tháng",
+      "source": {
+        "name": "The Business Times (Bloomberg)",
+        "kind": "báo kinh tế"
+      },
+      "url": "https://www.businesstimes.com.sg/companies-markets/deepseeks-ai-agent-platform-hits-1-54-million-daily-users",
+      "published": "2026-11-09T16:30:26+08:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time trên trang bài",
+      "topic": "ai_toan_cau",
+      "region": "CN",
+      "summary_vi": "DeepSeek công bố trên X (8/11) rằng Harness — ứng dụng agent mã nguồn mở ra mắt 13/8 — đạt 1,54 triệu người dùng hoạt động hằng ngày tính đến 4/11, so với khoảng 271.000 cuối tháng 9 sau khi có bản desktop. Hãng dự định mở chợ plug-in chính thức và chương trình hỗ trợ người tạo plug-in (tặng token, hỗ trợ kỹ thuật). SCMP (9/11) thêm: người dùng Harness qua API chính thức tiêu thụ khoảng 92 nghìn tỷ token/ngày.",
+      "why_it_matters": "Cuộc đua AI Trung Quốc–Mỹ chuyển sang hạ tầng agent và hệ sinh thái plug-in; số liệu do DeepSeek tự công bố.",
+      "tags": [
+        "DeepSeek",
+        "Harness",
+        "agent",
+        "Trung Quốc"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang Business Times (curl, đọc phần đầu bài) + SCMP (đọc phần đầu)",
+      "accessed": "2026-11-10",
+      "note": "Số DAU là số liệu tự công bố của DeepSeek; Business Times và SCMP cùng dẫn bài đăng X của hãng."
+    },
+    {
+      "id": "n-20261110-06-trimble-connect-ai",
+      "title": "Trimble Launches New Trimble Connect Platform AI Capabilities Aimed at De-Risking Construction",
+      "title_vi": "Trimble bổ sung loạt AI cho Trimble Connect: dựng mô hình thép từ câu lệnh, Punch Walk bằng giọng nói, khớp hóa đơn–PO, lập tiến độ agentic",
+      "source": {
+        "name": "Trimble Newsroom",
+        "kind": "thông cáo doanh nghiệp"
+      },
+      "url": "https://news.trimble.com/2026-11-09-Trimble-Launches-New-Trimble-Connect-Platform-AI-Capabilities-Aimed-at-De-Risking-Construction",
+      "published": "2026-11-09",
+      "time_known": false,
+      "date_basis": "dòng đăng trong thông cáo (LAS VEGAS, Nov. 9, 2026 /PRNewswire/)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Tại hội nghị Trimble Dimensions (9/11), Trimble công bố AI mới trên nền Trimble Connect cho cả ba pha thiết kế–thi công–vận hành: thiết kế tạo sinh tham chiếu đám mây điểm hiện trạng, chuyển câu lệnh ngôn ngữ tự nhiên thành mô hình kết cấu thép và file gia công, phân loại đám mây điểm trong nhà một chạm, Punch Walk ghi lỗi bằng giọng nói, khớp hóa đơn nhà cung cấp với đơn đặt hàng và phiếu giao, phân tích rủi ro hợp đồng và tự soạn lệnh thay đổi để người duyệt. Theo hãng, nền tảng có hơn 55 triệu người dùng tích lũy và hơn 400 tích hợp.",
+      "why_it_matters": "Tính năng 'khớp hóa đơn–PO–phiếu giao' chạm thẳng vào việc của phòng mua sắm/đấu thầu; nhưng đây là thông cáo hãng — Unite.AI ghi nhận vài tính năng còn giới hạn hoặc đang phát triển.",
+      "tags": [
+        "Trimble",
+        "Connect",
+        "mua sắm",
+        "khớp hóa đơn",
+        "lập tiến độ",
+        "Punch"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang newsroom Trimble (curl)",
+      "accessed": "2026-11-10",
+      "note": "Unite.AI (9/11) cho biết generative design chỉ có trong Trimble Labs, change order automation còn đang phát triển — cần kiểm khi đánh giá.",
+      "idea_ids": [
+        "20261110-03-so-cho-ai-quan-nho"
+      ]
+    },
+    {
+      "id": "n-20261110-07-bangtu-mind",
+      "title": "帮图科技上线桌面智能体帮图Mind：AI读CAD图纸，17项技能做审查和算量",
+      "title_vi": "Bangtu (Thượng Hải) ra 'Bangtu Mind' — agent desktop đọc bản vẽ DWG, 17 kỹ năng thẩm tra & bóc khối lượng",
+      "source": {
+        "name": "AI4ELAB",
+        "kind": "trang chuyên ngành"
+      },
+      "url": "https://ai4elab.com/12044.html",
+      "published": "2026-11-03T12:12:39+08:00",
+      "time_known": true,
+      "date_basis": "JSON-LD datePublished trên trang bài",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Bangtu Technology (Thượng Hải) ra mắt Bangtu Mind 1.0 ngày 2/11: người dùng mô tả nhiệm vụ bằng ngôn ngữ tự nhiên, agent gọi mô hình nhận dạng bản vẽ tự phát triển cùng LLM để xử lý file DWG cục bộ. 17 kỹ năng đầu tiên gồm lập danh mục/so sánh bản vẽ, chuyển CAD kiến trúc và kết cấu sang BIM, thẩm tra thuyết minh và PCCC, bóc khối lượng cửa, thiết bị vệ sinh, HVAC, kiểm tra va chạm; có API và MCP. AI4ELAB lưu ý độ chính xác trên bản vẽ thật cần kiểm khi dùng.",
+      "why_it_matters": "Mô hình 'agent desktop + kỹ năng' cho thẩm tra và bóc khối lượng là hướng đội QS/dự toán ở VN có thể thử trên bản vẽ DWG sẵn có — cần kiểm tra quy chuẩn TQ khác VN.",
+      "tags": [
+        "Bangtu",
+        "CAD",
+        "BIM",
+        "bóc khối lượng",
+        "thẩm tra",
+        "MCP"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang AI4ELAB (curl)",
+      "accessed": "2026-11-10",
+      "note": "AI4ELAB dẫn bài WeChat của Bangtu; tính năng theo hãng."
+    },
+    {
+      "id": "n-20261110-08-qonic-ai-agents",
+      "title": "Qonic November 2026 Release: Qonic AI and Wall Tool",
+      "title_vi": "Qonic (BIM trên trình duyệt, IFC mở) ra agent AI tìm–kiểm–sửa mô hình qua chat",
+      "source": {
+        "name": "Qonic",
+        "kind": "blog nhà cung cấp"
+      },
+      "url": "https://www.qonic.com/posts/qonic-november-2026-release",
+      "published": "2026-11-04T12:00:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time trên trang bài",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Bản phát hành tháng 11 của Qonic thêm Qonic AI: agent làm việc trực tiếp trong mô hình IFC — lọc/tô màu cấu kiện, kiểm tra thiếu thuộc tính (ví dụ cửa sổ thiếu cấp chống cháy) rồi điền giá trị, dựng báo cáo, sửa hình học theo câu lệnh. Người dùng chọn mô hình Sonnet, Opus hoặc Astra tùy mức suy luận; AI tính theo token, gói trả phí có hạn mức tháng, gói miễn phí mua gói token từ 50 euro. Bản này còn có Wall Tool dựa trên component và giao diện 9 ngôn ngữ.",
+      "why_it_matters": "Kiểm tra dữ liệu BIM bằng câu hỏi tự nhiên giúp PM/QS không biết dựng filter vẫn soát được mô hình — đáng thử với file IFC của dự án.",
+      "tags": [
+        "Qonic",
+        "BIM",
+        "IFC",
+        "agent",
+        "kiểm tra dữ liệu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang blog Qonic (curl)",
+      "accessed": "2026-11-10"
+    },
+    {
+      "id": "n-20261110-09-hanwha-ai-safety",
+      "title": "[EZ 기획] 한화건설, AI로 현장 안전부터 건물 운영까지···스마트 건설 확장",
+      "title_vi": "Hanwha E&C áp AI cho an toàn công trường: chụp ảnh báo nguy cơ, AI chẩn đoán cáp cẩu tháp, vận hành năng lượng",
+      "source": {
+        "name": "이지경제 (EZ Economy)",
+        "kind": "báo"
+      },
+      "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=241595",
+      "published": "2026-11-05T15:52:14+09:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time trên trang bài",
+      "topic": "ai_xd",
+      "region": "KR",
+      "summary_vi": "Hanwha E&C áp dụng từ quý II cho mọi công trường hệ thống báo an toàn kết hợp phân tích ảnh AI và nhận dạng giọng nói: công nhân chụp ảnh nguy cơ, AI đối chiếu với đánh giá rủi ro và gợi ý biện pháp, hỗ trợ cả lao động nước ngoài và lớn tuổi. Hãng dùng giải pháp WSS (của Enkia) đo từ trường để AI phát hiện đứt sợi trong cáp cẩu tháp, phân ba mức cảnh báo. Số báo cáo an toàn/tháng tăng từ 143 lên 237 sau cải tiến chế độ năm 2024, nhưng bài nói rõ hiệu quả riêng của hệ thống AI chưa được tách.",
+      "why_it_matters": "Mẫu 'chụp ảnh – AI gợi ý biện pháp' dễ nhân rộng cho công trường VN; bài trung thực ở điểm không gán toàn bộ mức tăng cho AI.",
+      "tags": [
+        "Hanwha",
+        "an toàn",
+        "cẩu tháp",
+        "AI ảnh",
+        "Hàn Quốc"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang EZ Economy (curl), đọc một phần: phần an toàn công trường và cáp cẩu; chưa đọc phần năng lượng/digital twin",
+      "accessed": "2026-11-10",
+      "note": "Check-link bot 10/11: URLError (trang chậm); đã mở được bằng curl lúc nghiên cứu."
+    },
+    {
+      "id": "n-20261110-10-hyundai-qpocket",
+      "title": "현대건설, AI로 콘크리트 품질 관리…'큐포켓·큐콘' 기능 확대",
+      "title_vi": "Hyundai E&C mở rộng Q-Pocket/QCON v3: AI đọc chữ viết tay, nối dự báo thời tiết để quản lý chất lượng bê tông",
+      "source": {
+        "name": "머니투데이 (Money Today)",
+        "kind": "báo"
+      },
+      "url": "https://www.mt.co.kr/estate/2026/11/05/2026110510052536005",
+      "published": "2026-11-05T10:30:05+09:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time trên trang bài",
+      "topic": "ai_xd",
+      "region": "KR",
+      "summary_vi": "Hyundai E&C mở rộng hệ thống kiểm tra chất lượng Q-Pocket (phát triển từ 2021) ra toàn bộ công tác quản lý chất lượng và tích hợp QCON v3 cho bê tông. Công nghệ ICR dựa trên AI tự nhập nội dung viết tay qua ảnh chụp; QCON v3 nối dữ liệu dự báo của cơ quan khí tượng để lập kế hoạch đổ bê tông và quản lý bê tông mùa lạnh. Hãng muốn biến Q-Pocket thành hệ thống chia sẻ thời gian thực giữa chủ đầu tư, tư vấn giám sát, nhà thầu và thầu phụ.",
+      "why_it_matters": "Số hóa sổ nhật ký/chất lượng bê tông bằng ảnh chụp là bài toán sát với công trường VN mùa mưa — chi tiết hiệu quả chưa được công bố.",
+      "tags": [
+        "Hyundai E&C",
+        "bê tông",
+        "chất lượng",
+        "ICR",
+        "thời tiết"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang Money Today (curl)",
+      "accessed": "2026-11-10"
+    },
+    {
+      "id": "n-20261110-11-plant-epc-ai",
+      "title": "AI·디지털 기술로 바뀌는 플랜트 건설, 설계부터 품질검사까지 혁신 경쟁",
+      "title_vi": "Nhà thầu EPC Hàn đua AI: Samsung E&A tự động hóa thiết kế, GS dùng AR kiểm thiết bị, Daewoo dùng RAG phân tích hồ sơ",
+      "source": {
+        "name": "비욘드포스트 (Beyond Post)",
+        "kind": "báo"
+      },
+      "url": "https://www.beyondpost.co.kr/view.php?ud=202611061225261742205868f676_30",
+      "published": "2026-11-06T12:30:04+09:00",
+      "time_known": true,
+      "date_basis": "JSON-LD datePublished trên trang bài",
+      "topic": "ai_xd",
+      "region": "KR",
+      "summary_vi": "Bài tổng hợp cách các nhà thầu Hàn áp AI vào xây dựng nhà máy: Samsung E&A xây nền tảng dữ liệu kỹ thuật (EDP) để tự động hóa thiết kế và dùng nền tảng digital twin SWP3D cho phối hợp EPC; GS E&C từ tháng 9 dùng giải pháp AR 'Twyn' (Visometry, Đức) chồng mô hình 3D lên thiết bị thật ở 4 công trường; Daewoo E&C phát triển hệ thống RAG hỗ trợ phân tích tài liệu dự án. Nguồn tin trong ngành nói hiệu quả thực tế trên dự án sẽ là thước đo.",
+      "why_it_matters": "RAG cho hồ sơ dự án là công cụ đội đấu thầu/mua sắm có thể thử sớm nhất (tra điều khoản, spec) — không cần đầu tư nặng như digital twin.",
+      "tags": [
+        "Samsung E&A",
+        "GS E&C",
+        "Daewoo",
+        "EPC",
+        "RAG",
+        "AR"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang Beyond Post (curl)",
+      "accessed": "2026-11-10"
+    },
+    {
+      "id": "n-20261110-12-kajima-fieldai",
+      "title": "鹿島、自律巡回ロボットを建設現場に本格導入　写真・点群の取得を自動化",
+      "title_vi": "Kajima triển khai đại trà robot tự hành (FieldAI) đi tuần, chụp ảnh 360° và quét đám mây điểm công trường",
+      "source": {
+        "name": "建設技術.com",
+        "kind": "trang chuyên ngành"
+      },
+      "url": "https://kensetsu-gijutsu.com/articles/news-kajima-fieldai-autonomous-site-pointcloud-20261108",
+      "published": "2026-11-08",
+      "time_known": false,
+      "date_basis": "meta article:published_time (chỉ ngày)",
+      "topic": "ai_xd",
+      "region": "JP",
+      "summary_vi": "Kajima công bố ngày 5/11 đưa vào dùng chính thức robot gắn camera, LiDAR và AI biên dùng phần mềm tự hành của FieldAI (Mỹ): robot tự lập bản đồ 3D, né vật cản, đi tuần chụp ảnh 360° và đám mây điểm màu rồi về trạm sạc tải dữ liệu lên web. Robot tự quyết hướng đi nên chạy được trong nhà, tầng hầm không có GNSS. Theo Kajima, trong khoảng một năm đã triển khai ở hơn 10 công trường trong nước với hơn 2.000 lượt tuần tra tự hành.",
+      "why_it_matters": "Ghi nhận tiến độ bằng robot đã ra khỏi giai đoạn thử ở nhà thầu lớn Nhật — mốc tham chiếu cho giám sát tiến độ tự động.",
+      "tags": [
+        "Kajima",
+        "FieldAI",
+        "robot",
+        "đám mây điểm",
+        "tiến độ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang 建設技術.com (curl); FieldAI newsroom chỉ hiện tiêu đề và ngày 5/11",
+      "accessed": "2026-11-10",
+      "note": "Thông cáo FieldAI (5/11) xác nhận tiêu đề và ngày; nội dung chi tiết lấy từ 建設技術.com dẫn thông cáo Kajima."
+    },
+    {
+      "id": "n-20261110-13-bouygues-walter",
+      "title": "Walter bricklaying robot: 60 m² of wall a day in Bouygues tests",
+      "title_vi": "Bouygues thử robot xây gạch Walter: tới ~60 m² tường/ngày, dùng keo bọt thay vữa",
+      "source": {
+        "name": "RealTech Media",
+        "kind": "trang chuyên ngành"
+      },
+      "url": "https://realtech.media/news/rt-a920ccfb6db2c93ecfa3ac45_bouygues_construction_tests/",
+      "published": "2026-11-08T17:24:10+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time trên trang bài",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Bouygues Construction thử robot xây gạch Walter (Wienerberger và KM Robotics) một tuần tại bãi thử Scale One phía nam Paris: tay máy xây tường dày 19–30 cm, cao tới 3,5 m không cần giàn giáo, tốc độ 5–6 m²/giờ, khoảng 60 m²/ngày. Máy nhận mô hình số của tường, tự tính vị trí từng viên, dùng laser và cảm biến dẫn hướng, phết keo bọt khô lên gạch 'robot-ready'. Dưới 1,5 m thợ vẫn nhanh hơn; máy chỉ hiệu quả trên mặt tường lớn, thẳng. Bouygues dự định đưa ra công trường thật đầu 2027.",
+      "why_it_matters": "Robot xây hợp với nhà xưởng/chung cư mặt tường lớn — cũng là loại công trình phổ biến ở VN, nhưng phụ thuộc gạch chuyên dụng.",
+      "tags": [
+        "Bouygues",
+        "robot xây gạch",
+        "Walter",
+        "Pháp"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang RealTech Media (curl)",
+      "accessed": "2026-11-10",
+      "note": "RealTech dẫn Infobae/science-et-vie; chưa mở thông cáo gốc của Bouygues."
+    },
+    {
+      "id": "n-20261110-14-attentive-same-ai",
+      "title": "If every contractor has the same AI, what are they actually competing on?",
+      "title_vi": "Khi nhà thầu nào cũng có AI bóc khối lượng, lợi thế nằm ở đâu? (bài tài trợ của Attentive.ai)",
+      "source": {
+        "name": "Construction Dive (nội dung tài trợ)",
+        "kind": "bài tài trợ"
+      },
+      "url": "https://www.constructiondive.com/spons/if-every-contractor-has-the-same-ai-what-are-they-actually-competing-on/873547/",
+      "published": "2026-11-09",
+      "time_known": false,
+      "date_basis": "dòng 'Published Nov. 9, 2026' trên trang",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "CEO Attentive.ai lập luận: AI bóc khối lượng khiến con số đếm chính xác trở nên dễ mua, nên lợi thế chuyển sang đọc phần bản vẽ không nói, định giá rủi ro và quan hệ nhà cung cấp. Bài dẫn nghiên cứu Dodge–CMiC 2026: 84% nhà thầu gặp cạnh tranh giá gay gắt, 80% thấy giá vật liệu tăng sau ngày nộp thầu, 64% chuyển sang chọn thầu kỹ hơn. Cuối bài quảng bá sản phẩm Beam AI của hãng.",
+      "why_it_matters": "Bài học cho đội đấu thầu: dùng giờ tiết kiệm từ AI để chốt giá nhà cung cấp và soát phạm vi, không phải để nộp nhiều thầu hơn. Đây là bài tài trợ, có lợi ích thương mại.",
+      "tags": [
+        "bóc khối lượng",
+        "đấu thầu",
+        "Attentive.ai",
+        "Beam AI",
+        "rủi ro giá"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "ý kiến",
+      "how_read": "mở bằng WebFetch (curl bị 403)",
+      "accessed": "2026-11-10",
+      "note": "Nội dung tài trợ (By Attentive.ai). Số liệu khảo sát Dodge–CMiC do hãng trích, chưa mở báo cáo gốc."
+    },
+    {
+      "id": "n-20261110-15-us-china-truce",
+      "title": "US, China officially extend trade war truce by 2 months",
+      "title_vi": "Mỹ – Trung chính thức gia hạn đình chiến thương mại thêm 2 tháng, tới 10/1/2027",
+      "source": {
+        "name": "Supply Chain Dive",
+        "kind": "báo chuyên ngành"
+      },
+      "url": "https://www.supplychaindive.com/news/us-china-officially-extend-trade-war-truce-by-2-months/874107/",
+      "published": "2026-11-09",
+      "time_known": false,
+      "date_basis": "dòng 'Published Nov. 9, 2026' trên trang",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Mỹ duy trì thuế liên quan fentanyl ở mức 10% (từ 20%) và tạm hoãn các biện pháp từ cuộc điều tra Section 301 về hàng hải–logistics Trung Quốc (như phí với tàu liên quan TQ cập cảng Mỹ) tới 10/1/2027, đồng thời gia hạn 178 trường hợp miễn thuế Section 301. Bộ Tài chính TQ tiếp tục treo mức thuế 24% với hàng Mỹ thêm hai tháng nhưng vẫn thu 10% bổ sung; Bộ Thương mại TQ tiếp tục tạm dừng một số kiểm soát xuất khẩu.",
+      "why_it_matters": "Hai tháng ổn định chi phí nhập/xuất liên quan Trung Quốc — đủ để chốt các đơn hàng vật tư quý I, nhưng hợp đồng dài hạn nên có điều khoản thuế.",
+      "tags": [
+        "thương mại Mỹ-Trung",
+        "thuế quan",
+        "Section 301",
+        "logistics"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở bằng WebFetch (curl bị 403)",
+      "accessed": "2026-11-10",
+      "note": "Check-link bot: HTTP 403 (chặn bot); đã mở bằng WebFetch 10/11."
+    },
+    {
+      "id": "n-20261110-16-vlxd-tphcm-ha-tang",
+      "title": "Bảo đảm nguồn cung vật liệu xây dựng cho các dự án hạ tầng trọng điểm",
+      "title_vi": "TP.HCM cần điều phối ~1,91 triệu m³ đá, 3,7 triệu m³ đất đắp cho 20 dự án trọng điểm cuối 2026",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo"
+      },
+      "url": "https://baoxaydung.vn/bao-dam-nguon-cung-vat-lieu-xay-dung-cho-cac-du-an-ha-tang-trong-diem-192261107150652345.htm",
+      "published": "2026-11-08T16:27:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time trên trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "Theo Ban Giao thông TP.HCM, những tháng cuối 2026 đơn vị có 20 dự án trọng điểm cần hỗ trợ điều phối khoảng 1,91 triệu m³ đá xây dựng, 550.000 m³ cát xây dựng, 1,85 triệu m³ cát san lấp và 3,7 triệu m³ đất đắp. Riêng Vành đai 3 cần khoảng 870.000 m³ đá; cao tốc TP.HCM – Mộc Bài cần khoảng 380.000 m³ đá, 1,53 triệu m³ cát san lấp và 2,67 triệu m³ đất đắp. Đề án VLXD của TP nhận định cát và vật liệu san lấp tại chỗ hạn chế, phải liên kết địa phương lân cận.",
+      "why_it_matters": "Cát/đất đắp tiếp tục là nút thắt phía Nam — đội mua sắm nên khóa nguồn và năng lực vận chuyển sớm cho dự án cùng khu vực.",
+      "tags": [
+        "vật liệu xây dựng",
+        "cát",
+        "đá",
+        "TP.HCM",
+        "Vành đai 3"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang Báo Xây dựng (curl), đọc một phần: phần số liệu nhu cầu và đánh giá đề án",
+      "accessed": "2026-11-10"
+    },
+    {
+      "id": "n-20261110-17-vinhomes-kdt-the-thao",
+      "title": "Khu đô thị lớn nhất Việt Nam dự kiến tăng vốn lên hơn 1,2 triệu tỷ đồng",
+      "title_vi": "Khu đô thị thể thao quốc tế Hà Nội (Vinhomes) dự kiến nâng vốn lên hơn 1,225 triệu tỷ đồng, tăng hơn 32%",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo"
+      },
+      "url": "https://vnexpress.net/khu-do-thi-lon-nhat-viet-nam-du-kien-tang-von-len-hon-1-2-trieu-ty-dong-5142478.html",
+      "published": "2026-11-09T15:09:00+07:00",
+      "time_known": true,
+      "date_basis": "dòng ngày giờ trên trang bài (Thứ hai, 9/11/2026, 15:09 GMT+7)",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Ngày 6/11, Vinhomes công bố thông tin bất thường: tổng vốn dự kiến của Khu đô thị thể thao quốc tế Hà Nội điều chỉnh từ khoảng 925.651 tỷ đồng lên hơn 1,225 triệu tỷ đồng; tổng vốn thực tế do cơ quan có thẩm quyền quyết định. Cơ cấu không đổi: vốn chủ sở hữu tối thiểu 15%, còn lại 85% huy động. Dự án gần 9.000 ha, 4 phân khu tại 11 xã phía nam Hà Nội; liên danh đã đủ điều kiện huy động 237.000 tỷ đồng cho công trình nhà ở.",
+      "why_it_matters": "Quy mô vốn này kéo theo nhu cầu vật liệu và thầu phụ rất lớn ở phía nam Hà Nội nhiều năm — tín hiệu cho cả nhà cung cấp lẫn đối thủ cạnh tranh nguồn lực.",
+      "tags": [
+        "Vinhomes",
+        "Hà Nội",
+        "khu đô thị",
+        "vốn đầu tư"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở bằng WebFetch (curl hết thời gian chờ)",
+      "accessed": "2026-11-10",
+      "note": "Check-link bot: URLError/timeout từ máy chủ; đã mở bằng WebFetch 10/11."
+    },
+    {
+      "id": "n-20261110-18-san-nha-giam-gia",
+      "title": "Nhà đầu tư sẵn tiền 'săn' nhà đất giảm giá sâu",
+      "title_vi": "Hà Nội: nhà đầu tư sẵn tiền mặt săn nhà đất, chung cư cắt lỗ giảm sâu",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo"
+      },
+      "url": "https://vnexpress.net/nha-dau-tu-san-tien-san-nha-dat-giam-gia-sau-5142530.html",
+      "published": "2026-11-10T06:00:00+07:00",
+      "time_known": true,
+      "date_basis": "meta pubdate trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "VnExpress ghi nhận một số nhà đầu tư có sẵn tiền mặt tranh thủ nhịp giảm để mua nhà đất, chung cư có khả năng cho thuê. Ví dụ trong bài: một căn nhà ngõ 45 m² ở Long Biên rao hơn 8 tỷ năm ngoái, chốt 6,8 tỷ; một căn chung cư đã bàn giao 4 năm ở đại đô thị phía tây giảm 1 tỷ so với đỉnh, còn 3,7 tỷ. Người mua chuyển sang tìm chủ bán thật sự cần tiền thay vì cạnh tranh đặt cọc dự án mới.",
+      "why_it_matters": "Thị trường thứ cấp Hà Nội đang về phía người mua có tiền — ảnh hưởng tốc độ bán hàng và chính sách giá của chủ đầu tư dự án mới.",
+      "tags": [
+        "bất động sản",
+        "Hà Nội",
+        "giảm giá",
+        "chung cư"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang VnExpress (curl), đọc phần đầu bài với các ví dụ giao dịch",
+      "accessed": "2026-11-10",
+      "note": "Ví dụ là trường hợp cá nhân do báo phỏng vấn, không phải số liệu thống kê thị trường. Check-link bot 10/11: URLError; đã mở được bằng curl lúc nghiên cứu."
+    },
+    {
+      "id": "n-20261110-19-bxd-cuc-chuyen-doi-so",
+      "title": "Bộ Xây dựng đề xuất sửa đổi cơ cấu tổ chức",
+      "title_vi": "Bộ Xây dựng đề xuất chuyển Trung tâm CNTT thành Cục Chuyển đổi số",
+      "source": {
+        "name": "Dân trí",
+        "kind": "báo"
+      },
+      "url": "https://dantri.com.vn/thoi-su/bo-xay-dung-de-xuat-sua-doi-co-cau-to-chuc-20261104152315049.htm",
+      "published": "2026-11-04T15:55:32+07:00",
+      "time_known": true,
+      "date_basis": "JSON-LD datePublished trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Bộ Tư pháp công bố (4/11) dự thảo nghị định sửa Nghị định 33/2025 về cơ cấu Bộ Xây dựng. Bộ đề xuất chuyển Trung tâm Công nghệ thông tin thành Cục Chuyển đổi số vì mô hình đơn vị sự nghiệp chưa đủ vị trí pháp lý để tham mưu thể chế, chính sách chuyển đổi số; việc này không tăng đầu mối và biên chế hành chính. Theo Bộ, chủ trương đã được Bộ Chính trị đồng ý.",
+      "why_it_matters": "Một cơ quan cấp Cục về chuyển đổi số có thể đẩy nhanh yêu cầu dữ liệu/BIM trong thẩm định — doanh nghiệp nên theo dõi các văn bản hướng dẫn tiếp theo.",
+      "tags": [
+        "Bộ Xây dựng",
+        "chuyển đổi số",
+        "BIM",
+        "chính sách"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "mở trang Dân trí (curl), đọc một phần: phần đề xuất Cục Chuyển đổi số; chưa đọc phần Vụ Kế hoạch – Tài chính",
+      "accessed": "2026-11-10"
+    }
+  ],
+  "unreachable": [
+    {
+      "source": "AP News (Nvidia investigation)",
+      "status": "curl HTTP 403 (Cloudflare)",
+      "impact": "Dùng thông cáo Nvidia + CNBC."
+    },
+    {
+      "source": "Financial Times (Anthropic generators)",
+      "status": "paywall — không mở",
+      "impact": "Dùng TechCrunch + DCD (cùng dẫn FT)."
+    },
+    {
+      "source": "Construction Dive / Supply Chain Dive",
+      "status": "curl HTTP 403",
+      "impact": "Mở bằng WebFetch thành công."
+    },
+    {
+      "source": "FieldAI newsroom (Kajima)",
+      "status": "trang chỉ hiện tiêu đề/ngày qua curl",
+      "impact": "Nội dung lấy từ 建設技術.com."
+    },
+    {
+      "source": "robot24.com (Monumental)",
+      "status": "curl chỉ trả khung trang, không có thân bài",
+      "impact": "Bỏ tin Monumental."
+    },
+    {
+      "source": "EBN (수능 마케팅)",
+      "status": "curl hết thời gian chờ",
+      "impact": "Không dùng."
+    }
+  ]
+}

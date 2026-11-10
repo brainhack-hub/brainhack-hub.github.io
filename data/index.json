@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-06",
-  "latest": "2026-11-06",
+  "updated": "2026-11-10",
+  "latest": "2026-11-10",
   "days": [
+    {
+      "date": "2026-11-10",
+      "file": "2026-11-10.json",
+      "headline": "Mệt vì phải chọn: TQ chán ‘toán voucher’, Nhật ‘tiêu dùng bỏ túi’, Hàn bán đồ thiết thực sáng ngày thi — 8 ý tưởng nhỏ ‘chọn hộ, tính hộ’",
+      "idea_count": 8,
+      "trend_count": 5,
+      "keyword_count": 43,
+      "top": {
+        "title": "“Rẻ mà chuẩn” — kênh video 60 giây soi hoạt chất kem dưỡng dưới 100 nghìn, mỗi video kèm ‘dùng cho chỗ nào, ai nên tránh’",
+        "total_score": 7.2
+      }
+    },
     {
       "date": "2026-11-06",
       "file": "2026-11-06.json",

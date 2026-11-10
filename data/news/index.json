@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06",
-  "latest": "2026-11-06",
+  "updated": "2026-11-10",
+  "latest": "2026-11-10",
   "topics": [
     {
       "id": "ai_xd",
@@ -68,6 +68,19 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-11-10",
+      "file": "2026-11-10.json",
+      "headline": "Meta ra mô hình agent giá rẻ, Anthropic mua máy phát 3,4 tỷ USD; Trimble đưa AI vào khớp hóa đơn công trường",
+      "item_count": 19,
+      "topics": {
+        "ai_xd": 9,
+        "chuoi_cung_ung": 2,
+        "cong_nghe": 0,
+        "ai_toan_cau": 5,
+        "vn": 3
+      }
+    },
     {
       "date": "2026-11-06",
       "file": "2026-11-06.json",
