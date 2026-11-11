@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10",
-  "latest": "2026-11-10",
+  "updated": "2026-11-11",
+  "latest": "2026-11-11",
   "topics": [
     {
       "id": "ai_xd",
@@ -68,6 +68,19 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-11-11",
+      "file": "2026-11-11.json",
+      "headline": "Anthropic hạ giá Fable 5.2 và mở roadshow IPO; Nvidia, SoftBank lao dốc; AI lập tiến độ, mua vật tư chạy thật ở công trường Nhật–Hàn–Trung",
+      "item_count": 19,
+      "topics": {
+        "ai_xd": 8,
+        "chuoi_cung_ung": 3,
+        "cong_nghe": 0,
+        "ai_toan_cau": 5,
+        "vn": 3
+      }
+    },
     {
       "date": "2026-11-10",
       "file": "2026-11-10.json",

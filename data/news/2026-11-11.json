@@ -1,0 +1,637 @@
+{
+ "date": "2026-11-11",
+ "generated_at": "2026-11-11T07:22:00+07:00",
+ "headline": "Anthropic hạ giá Fable 5.2 và mở roadshow IPO; Nvidia, SoftBank lao dốc; AI lập tiến độ, mua vật tư chạy thật ở công trường Nhật–Hàn–Trung",
+ "digest": [
+  {
+   "title": "Anthropic: mô hình rẻ hơn ngay trước IPO",
+   "text": "Claude Fable 5.2 giảm giá 20%, nhanh hơn 30%; một ngày sau Anthropic mở roadshow IPO 825 triệu cổ phiếu giá 70–78 USD, 7 hãng lớn mua thêm 26 tỷ USD.",
+   "item_ids": [
+    "n-20261111-01-claude-fable-5-2",
+    "n-20261111-02-anthropic-ipo-roadshow"
+   ]
+  },
+  {
+   "title": "Tiền AI chao đảo: Nvidia bị bán, SoftBank lỗ vì mua sắm thiết bị",
+   "text": "Nvidia giảm 5,47% phiên thứ hai; SoftBank lỗ 1,12 nghìn tỷ yên, gồm 597 tỷ yên do đổi kế hoạch mua máy phát điện cho trung tâm dữ liệu AI ở Mỹ.",
+   "item_ids": [
+    "n-20261111-03-nvidia-ban-phien-2",
+    "n-20261111-04-softbank-lo-quy-2"
+   ]
+  },
+  {
+   "title": "Chip AI TQ ra sàn riêng",
+   "text": "Alibaba tách T-Head lên sàn Hồng Kông; TQ đổ hơn 7 nghìn tỷ tệ vào ‘sáu mạng lưới’ hạ tầng khi đầu tư chung giảm 7,2%.",
+   "item_ids": [
+    "n-20261111-05-t-head-tach-niem-yet",
+    "n-20261111-14-sau-mang-luoi-7-nghin-ty"
+   ]
+  },
+  {
+   "title": "AI chạy thật ở công trường châu Á",
+   "text": "Zenitaka cho AI soạn tiến độ ở 25 công trường; Woomi rút nhật ký từ 2 giờ còn 30 phút; Chiết Giang kiểm tra mặt dựng bằng drone trong 2 giờ; BALLAS gọi 3,4 tỷ yên cho AI agent mua vật tư gia công.",
+   "item_ids": [
+    "n-20261111-06-zenitaka-ai-tien-do",
+    "n-20261111-07-woomi-ai-hien-truong",
+    "n-20261111-08-zhejiang-drone-ai-mat-dung",
+    "n-20261111-10-ballas-series-b"
+   ]
+  },
+  {
+   "title": "VN: BĐS điều chỉnh, thép đi ngang",
+   "text": "CBRE: căn hộ Hà Nội quý 3 giao dịch thấp nhất từ 2024, giá sơ cấp −9%; nhà phố/biệt thự phía Nam bị bán cắt lỗ; thép xây dựng giữ 13.840–15.150 đồng/kg.",
+   "item_ids": [
+    "n-20261111-17-cbre-can-ho-ha-noi-q3",
+    "n-20261111-18-nha-pho-phia-nam-cat-lo",
+    "n-20261111-19-gia-thep-10-11"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "n-20261111-01-claude-fable-5-2",
+   "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
+   "title_vi": "Anthropic ra Claude Fable 5.2 rẻ hơn 20%, nhanh hơn 30%; Mythos 5.2 chỉ cho tổ chức được xác minh",
+   "source": {
+    "name": "CNBC",
+    "kind": "báo kinh tế"
+   },
+   "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+   "published": "2026-11-09T19:00:01+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Anthropic phát hành Claude Fable 5.2 và Claude Mythos 5.2 ngày 9/11, lần ra mắt mô hình tuyến đầu đầu tiên kể từ khi CEO Dario Amodei kêu gọi giảm tốc phát triển AI hồi tháng 9. Theo trang của Anthropic, Fable 5.2 có giá 8 USD/40 USD cho mỗi triệu token vào/ra, rẻ hơn 20% và nhanh hơn khoảng 30% so với bản trước; chế độ nhanh giá 16/80 USD. Mythos 5.2 chỉ mở cho tổ chức đã được xác minh. CNBC lưu ý việc ra mắt diễn ra khi Anthropic chuẩn bị IPO.",
+   "why_it_matters": "Giá mô hình tuyến đầu tiếp tục giảm — chi phí chạy trợ lý AI cho đội nhỏ (soạn hồ sơ thầu, đọc hợp đồng) rẻ hơn; nhưng giá và điểm benchmark là do hãng công bố.",
+   "tags": [
+    "Anthropic",
+    "Claude Fable 5.2",
+    "Mythos",
+    "giá token"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang CNBC (curl) và đối chiếu trang chính thức Anthropic (claude-fable-and-mythos-5-2)",
+   "accessed": "2026-11-11",
+   "note": "TechCrunch cùng ngày cũng ghi giá giảm từ 10 xuống 8 USD/triệu token đầu vào.",
+   "idea_ids": [
+    "20261111-08-watchlist-ipo-ai-chip"
+   ]
+  },
+  {
+   "id": "n-20261111-02-anthropic-ipo-roadshow",
+   "title": "Anthropic launches roadshow for proposed initial public offering",
+   "title_vi": "Anthropic mở roadshow IPO: 825 triệu cổ phiếu, giá dự kiến 70–78 USD, mã ANT trên Nasdaq; 7 hãng lớn mua thêm 26 tỷ USD",
+   "source": {
+    "name": "Anthropic",
+    "kind": "thông cáo doanh nghiệp"
+   },
+   "url": "https://www.anthropic.com/news/roadshow-launch",
+   "published": "2026-11-10",
+   "time_known": false,
+   "date_basis": "ngày trên trang thông cáo (không có giờ)",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Anthropic mở roadshow cho đợt IPO 825 triệu cổ phiếu loại A, trong đó 801,35 triệu do công ty bán, giá dự kiến 70–78 USD/cổ phiếu, xin niêm yết trên Nasdaq với mã ANT; Goldman Sachs và Morgan Stanley dẫn đầu nhóm bảo lãnh, có quyền chọn mua thêm 123,75 triệu cổ phiếu. Theo Yahoo Finance dẫn hồ sơ SEC, Google, Nvidia, AMD, Broadcom, Micron, Microsoft và TSMC Partners mua 26 tỷ USD cổ phiếu qua phát hành riêng lẻ ở giá IPO. Bản đăng ký chưa có hiệu lực.",
+   "why_it_matters": "Một trong những đợt IPO công nghệ lớn nhất; giá chào và nhu cầu sẽ là phép thử định giá AI. Đây là thông cáo của công ty — chưa phải kết quả chào bán.",
+   "tags": [
+    "Anthropic",
+    "IPO",
+    "Nasdaq",
+    "ANT",
+    "Goldman Sachs"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang thông cáo Anthropic (curl); đối chiếu Yahoo Finance (Stocktwits) về khoản 26 tỷ USD",
+   "accessed": "2026-11-11",
+   "note": "Yahoo Finance ghi tâm lý nhà đầu tư cá nhân trên Stocktwits là ‘bearish’; tổng IPO + phát hành riêng lẻ có thể khoảng 90,4 tỷ USD (ước tính của Yahoo).",
+   "idea_ids": [
+    "20261111-08-watchlist-ipo-ai-chip"
+   ]
+  },
+  {
+   "id": "n-20261111-03-nvidia-ban-phien-2",
+   "title": "Nvidia sells off for second day in fallout from Jensen Huang's affair with alleged spy",
+   "title_vi": "Nvidia giảm thêm 5,47% phiên thứ hai, có lúc mất mốc vốn hóa 4 nghìn tỷ USD; xuất hiện vụ kiện tập thể cổ đông",
+   "source": {
+    "name": "CNBC",
+    "kind": "báo kinh tế"
+   },
+   "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+   "published": "2026-11-10T09:14:00+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Cổ phiếu Nvidia giảm 5,47% ngày 10/11 sau khi đã giảm hơn 4% phiên trước, có lúc khiến vốn hóa xuống dưới 4 nghìn tỷ USD, trong bối cảnh tin CEO Jensen Huang có quan hệ với một người bị cho là gián điệp. Hãng luật Rosen nộp đơn kiện tập thể thay mặt cổ đông. CNBC dẫn lời Tổng thống Trump nói FBI đang xem xét vụ việc.",
+   "why_it_matters": "Biến động của cổ phiếu chip lớn nhất ảnh hưởng tâm lý toàn thị trường AI, kể cả các đợt IPO đang chào bán; đây là diễn biến mới sau tin HĐQT mở điều tra (đã đưa ngày 10/11).",
+   "tags": [
+    "Nvidia",
+    "cổ phiếu chip",
+    "quản trị",
+    "kiện tập thể"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang CNBC (curl)",
+   "accessed": "2026-11-11",
+   "idea_ids": [
+    "20261111-08-watchlist-ipo-ai-chip"
+   ]
+  },
+  {
+   "id": "n-20261111-04-softbank-lo-quy-2",
+   "title": "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share decline",
+   "title_vi": "SoftBank lỗ ròng 1,12 nghìn tỷ yên quý 7–9, gồm 597 tỷ yên lỗ do đổi kế hoạch mua thiết bị phát điện cho trung tâm dữ liệu AI ở Mỹ",
+   "source": {
+    "name": "CNBC",
+    "kind": "báo kinh tế"
+   },
+   "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+   "published": "2026-11-10T06:54:00+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "JP",
+   "summary_vi": "SoftBank Group báo lỗ ròng 1,12 nghìn tỷ yên trong quý tài chính 2 (7–9/2026), so với lãi 2,5 nghìn tỷ yên cùng kỳ; doanh thu 2,22 nghìn tỷ yên. Khoản lỗ gồm 597,2 tỷ yên (khoảng 3,7 tỷ USD) do thay đổi kế hoạch mua sắm thiết bị phát điện cho các trung tâm dữ liệu AI ở Mỹ, cùng việc cổ phiếu Intel giảm; Vision Fund lỗ 81,58 tỷ yên. Giá trị hợp lý khoản đầu tư vào OpenAI được ghi 99,6 tỷ USD trên tổng vốn đã rót 54,6 tỷ USD.",
+   "why_it_matters": "Ví dụ hiếm thấy về rủi ro mua sắm thiết bị cho hạ tầng AI: đổi kế hoạch mua máy phát gây khoản lỗ hàng tỷ USD — bài học về cam kết mua hàng dài hạn khi nhu cầu thay đổi nhanh.",
+   "tags": [
+    "SoftBank",
+    "Vision Fund",
+    "trung tâm dữ liệu",
+    "mua sắm thiết bị",
+    "OpenAI"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang CNBC (curl)",
+   "accessed": "2026-11-11",
+   "note": "Bảng Yahoo! JAPAN realtime cùng sáng ghi cổ phiếu SoftBank tăng 13,9% sau công bố — chưa đối chiếu nguồn giá chính thức.",
+   "idea_ids": [
+    "20261111-08-watchlist-ipo-ai-chip"
+   ]
+  },
+  {
+   "id": "n-20261111-05-t-head-tach-niem-yet",
+   "title": "Alibaba chip unit T-Head files for Hong Kong IPO amid China's AI push",
+   "title_vi": "Alibaba công bố tách T-Head (mảng chip AI) niêm yết riêng ở Hồng Kông; HKEX đã cho phép tiến hành",
+   "source": {
+    "name": "South China Morning Post",
+    "kind": "báo"
+   },
+   "url": "https://www.scmp.com/business/companies/article/3373974/alibaba-chip-unit-t-head-files-hong-kong-ipo-plan-amid-chinas-ai-self-sufficiency-drive",
+   "published": "2026-11-10T21:20:00+08:00",
+   "time_known": true,
+   "date_basis": "thời gian đăng trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "CN",
+   "summary_vi": "Alibaba công bố trên HKEX ngày 10/11 kế hoạch tách T-Head (Pingtouge), đơn vị thiết kế chip AI, để niêm yết riêng trên sàn chính Hồng Kông. T-Head đã nộp hồ sơ niêm yết dạng bảo mật ngày 11/9/2026 và HKEX xác nhận Alibaba có thể tiến hành tách; quy mô, cấu trúc và thời điểm chưa chốt. Sau niêm yết, T-Head vẫn là công ty con của Alibaba. SCMP đặt sự kiện trong bối cảnh TQ đẩy mạnh tự chủ chip AI.",
+   "why_it_matters": "Chip AI nội địa TQ có thêm kênh huy động vốn — ảnh hưởng giá và nguồn cung máy chủ AI ở châu Á trong vài năm tới; chi tiết định giá chưa có.",
+   "tags": [
+    "Alibaba",
+    "T-Head",
+    "chip AI",
+    "HKEX",
+    "tự chủ bán dẫn"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang SCMP (curl) và văn bản công bố PDF của Alibaba trên data.alibabagroup.com",
+   "accessed": "2026-11-11",
+   "idea_ids": [
+    "20261111-08-watchlist-ipo-ai-chip"
+   ]
+  },
+  {
+   "id": "n-20261111-06-zenitaka-ai-tien-do",
+   "title": "銭高組、AIで工程表を自動生成するシステムを全社導入",
+   "title_vi": "Tổng thầu Zenitaka (Nhật) đưa AI tự tạo bản nháp tiến độ thi công từ bản vẽ, chỉ dẫn kỹ thuật và dự toán vào 25 công trường",
+   "source": {
+    "name": "Conshift",
+    "kind": "trang chuyên ngành"
+   },
+   "url": "https://conshift.net/2026/11/09/post-1689/",
+   "published": "2026-11-09T14:05:00+09:00",
+   "time_known": true,
+   "date_basis": "thời gian đăng trên trang bài",
+   "topic": "ai_xd",
+   "region": "JP",
+   "summary_vi": "Zenitaka (銭高組) triển khai hệ thống AI ‘Kencopa’ tạo bản nháp tiến độ thi công từ bản vẽ, chỉ dẫn kỹ thuật và dự toán, dùng định mức nội bộ của công ty, tại 6 chi nhánh và 25 công trường. Hệ thống đưa ra nhiều phương án, cho sửa bằng chat và xuất PDF; trước đây lập tiến độ ban đầu mất khoảng 2 tuần. Bài nêu bối cảnh: lao động xây dựng Nhật còn khoảng 4,77 triệu người, giảm 30% so với đỉnh 6,85 triệu; 36,6% từ 55 tuổi trở lên, chỉ 11,9% từ 29 tuổi trở xuống.",
+   "why_it_matters": "Lập tiến độ từ hồ sơ thiết kế là việc tốn công ở giai đoạn đấu thầu; mô hình ‘AI soạn nháp + định mức nội bộ’ có thể áp dụng cho đội dự toán ở VN.",
+   "tags": [
+    "Zenitaka",
+    "lập tiến độ",
+    "Kencopa",
+    "định mức",
+    "thiếu lao động"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang Conshift (curl)",
+   "accessed": "2026-11-11"
+  },
+  {
+   "id": "n-20261111-07-woomi-ai-hien-truong",
+   "title": "우미건설, AI로 현장 업무 혁신…일보 작성 2시간→30분",
+   "title_vi": "Woomi (Hàn) dùng AI cho công việc công trường: nhật ký từ 2 giờ còn 30 phút, tổng hợp lựa chọn hoàn thiện từ 7 ngày còn 10 phút",
+   "source": {
+    "name": "Financial News (Newsis)",
+    "kind": "báo kinh tế"
+   },
+   "url": "https://www.fnnews.com/news/202611110502265408",
+   "published": "2026-11-11T05:02:00+09:00",
+   "time_known": true,
+   "date_basis": "thời gian đăng trên trang bài",
+   "topic": "ai_xd",
+   "region": "KR",
+   "summary_vi": "Tại hội nghị Proptech AI Vision 2026 ngày 10/11, Woomi Construction trình bày kết quả nhóm AI thành lập từ tháng 6 năm ngoái: giải quyết 16 bài toán, 9 trong số đó do nhân viên công trường đề xuất. Bộ ‘Smart Works’ rút thời gian viết nhật ký công trường từ 2 giờ xuống 30 phút, tổng hợp lựa chọn nội thất/hoàn thiện của khách từ 7 ngày xuống 10 phút, giảm 80–90% công lập tiến độ, và tài liệu checklist an toàn/TBM từ 60 xuống 10 phút. Công ty cũng có web quản lý khiếu nại dùng AI phân tích.",
+   "why_it_matters": "Ví dụ thực tế từ chủ đầu tư–nhà thầu nhà ở: AI ăn điểm ở việc giấy tờ lặp lại (nhật ký, tổng hợp lựa chọn, checklist) — sát với nhu cầu của dự án căn hộ ở VN.",
+   "tags": [
+    "Woomi",
+    "nhật ký công trường",
+    "an toàn",
+    "Smart Works",
+    "proptech"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang FN News (curl)",
+   "accessed": "2026-11-11"
+  },
+  {
+   "id": "n-20261111-08-zhejiang-drone-ai-mat-dung",
+   "title": "浙江建工无人机+AI巡检 外立面检测效率大幅提升",
+   "title_vi": "Tập đoàn Xây dựng Chiết Giang dùng drone + AI kiểm tra mặt dựng: phủ toàn bộ từ 3 ngày còn 2 giờ, người làm việc trên cao giảm 80%",
+   "source": {
+    "name": "同花顺 10jqka (nguồn: Tập đoàn Xây dựng Chiết Giang)",
+    "kind": "thông cáo doanh nghiệp"
+   },
+   "url": "https://news.10jqka.com.cn/20261110/c681668716.shtml",
+   "published": "2026-11-10T17:57:00+08:00",
+   "time_known": true,
+   "date_basis": "thời gian đăng trên trang bài",
+   "topic": "ai_xd",
+   "region": "CN",
+   "summary_vi": "Zhejiang Construction (浙江建工) dùng drone kết hợp AI kiểm tra mặt dựng theo danh mục 8 nhóm, 42 hạng mục. Trước đây một mặt dựng 5 vạn m² cần 3 người kiểm tra trong 3 ngày; nay 1 người bay drone và 1 người phân tích, số người phải làm việc trên cao giảm 80%, thời gian phủ toàn bộ từ 3 ngày xuống 2 giờ, tần suất kiểm tra từ hằng tháng lên hằng tuần. Hệ thống đã dùng ở 16 dự án; đo vẽ ảnh mất 1 ngày thay vì 1 tuần.",
+   "why_it_matters": "Kiểm tra mặt dựng nhà cao tầng bằng drone + AI giảm rủi ro làm việc trên cao — hợp với dự án căn hộ cao tầng ở Hà Nội, TP.HCM; số liệu do doanh nghiệp tự công bố.",
+   "tags": [
+    "drone",
+    "mặt dựng",
+    "kiểm tra chất lượng",
+    "an toàn",
+    "Chiết Giang"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang 10jqka (curl)",
+   "accessed": "2026-11-11"
+  },
+  {
+   "id": "n-20261111-09-glodon-bau-china",
+   "title": "广联达亮相BAU China：AI设计平台、AI塔吊等新品",
+   "title_vi": "Glodon trình diễn nền tảng thiết kế AI CONCETTO, GlodonGPT và cần trục tháp AI điều khiển từ xa tại BAU China Bắc Kinh",
+   "source": {
+    "name": "Tân Hoa xã (xinhuanet.com)",
+    "kind": "báo"
+   },
+   "url": "https://www.xinhuanet.com/info/20261103/b1e26f3e6bc2485c97441c7c5f979398/c.html",
+   "published": "2026-11-03T10:28:00+08:00",
+   "time_known": true,
+   "date_basis": "thời gian đăng trên trang bài",
+   "topic": "ai_xd",
+   "region": "CN",
+   "summary_vi": "Tại triển lãm BAU China ở Bắc Kinh (28–30/10), Glodon (广联达) giới thiệu nền tảng thiết kế AI CONCETTO, mô hình ngôn ngữ ngành GlodonGPT và cần trục tháp AI dùng lidar và định vị RTK để vận hành từ xa. Bài đăng ở mục thông tin của Tân Hoa xã, giới thiệu sản phẩm của doanh nghiệp.",
+   "why_it_matters": "Glodon là nhà cung cấp phần mềm dự toán/BIM lớn của TQ; hướng ‘AI từ thiết kế đến cần trục’ cho thấy chuỗi công cụ mà nhà thầu TQ đang mang sang các thị trường khác.",
+   "tags": [
+    "Glodon",
+    "BIM",
+    "cần trục tháp",
+    "GlodonGPT",
+    "BAU China"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang Xinhuanet (curl)",
+   "accessed": "2026-11-11",
+   "note": "Bài ở mục ‘info’ (thông tin doanh nghiệp) — coi như nội dung do công ty cung cấp."
+  },
+  {
+   "id": "n-20261111-10-ballas-series-b",
+   "title": "BALLAS、シリーズBで総額34億円の資金調達",
+   "title_vi": "BALLAS (Nhật) gọi vốn Series B 3,4 tỷ yên cho nền tảng mua sắm vật tư gia công xây dựng dùng AI agent",
+   "source": {
+    "name": "PR TIMES (thông cáo BALLAS)",
+    "kind": "thông cáo doanh nghiệp"
+   },
+   "url": "https://prtimes.jp/main/html/rd/p/000000022.000100360.html",
+   "published": "2026-11-10T09:50:00+09:00",
+   "time_known": true,
+   "date_basis": "thời gian đăng trên trang thông cáo",
+   "topic": "ai_xd",
+   "region": "JP",
+   "summary_vi": "BALLAS huy động tổng 3,4 tỷ yên ở vòng Series B (2,5 tỷ vốn cổ phần, 0,9 tỷ vay), nâng tổng vốn đã huy động lên khoảng 5,3 tỷ yên; dẫn đầu là SMBC Edge và Z Venture Capital, cùng JIC VGI, JFC, MUFG. Công ty dùng AI agent tự động hóa quy trình từ hỏi giá nhà gia công đến giao hàng vật tư gia công cho công trình, GMV tăng bình quân 130%/năm. Thông cáo nêu đầu tư xây dựng Nhật tăng từ 68 nghìn tỷ yên (2022) lên khoảng 79 nghìn tỷ (2025, ước tính) trong khi số xưởng gia công giảm từ 14.902 xuống 13.081.",
+   "why_it_matters": "Mua sắm vật tư gia công (thép, kim loại tấm) bằng AI agent — sát với công việc đấu thầu–mua sắm: hỏi giá nhiều nhà cung cấp, so sánh, theo dõi giao hàng.",
+   "tags": [
+    "BALLAS",
+    "mua sắm",
+    "AI agent",
+    "gia công",
+    "gọi vốn"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang PR TIMES (curl)",
+   "accessed": "2026-11-11"
+  },
+  {
+   "id": "n-20261111-11-structo-soat-thanh-toan",
+   "title": "Bulgaria's MFG Invest backs US construction AI startup Structo with $150K",
+   "title_vi": "Structo (Mỹ) nhận 150.000 USD cho AI agent soát từng dòng hồ sơ đề nghị thanh toán xây dựng với hợp đồng, phát hiện đề nghị vượt",
+   "source": {
+    "name": "Dealroom",
+    "kind": "trang chuyên ngành"
+   },
+   "url": "https://dealroom.co/news/171325-bulgaria-s-mfg-invest-backs-us-construction-ai-startup-structo-with-150k/",
+   "published": "2026-11-10T16:03:00+00:00",
+   "time_known": true,
+   "date_basis": "thời gian đăng trên trang bài",
+   "topic": "ai_xd",
+   "region": "US",
+   "summary_vi": "Quỹ MFG Invest (Bulgaria) đầu tư 150.000 USD dạng SAFE vào Structo, startup Mỹ, công bố ngày 9/11. Structo dùng AI agent kiểm tra từng dòng hồ sơ đề nghị thanh toán (payment application) của nhà thầu so với hợp đồng và đánh dấu khoản đề nghị vượt khối lượng/giá.",
+   "why_it_matters": "Soát hồ sơ thanh toán so với hợp đồng là việc lặp lại, dễ sai của ban QLDA và phòng mua sắm; đây là khoản vốn rất nhỏ, sản phẩm giai đoạn sớm.",
+   "tags": [
+    "Structo",
+    "thanh toán",
+    "hợp đồng",
+    "AI agent",
+    "gọi vốn"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang Dealroom (curl)",
+   "accessed": "2026-11-11"
+  },
+  {
+   "id": "n-20261111-12-nomic-ai-built-world-11",
+   "title": "AI in the Built World — November 2026",
+   "title_vi": "Bản tin Nomic: Procore mở chợ AI agent với 15 đối tác; nghiên cứu cho thấy ‘LLM làm giám khảo’ thay mô phỏng vật lý bỏ lọt 58% thiết kế không đạt",
+   "source": {
+    "name": "Nomic",
+    "kind": "blog nhà cung cấp"
+   },
+   "url": "https://www.nomic.ai/newsletter/ai-in-the-built-world/november-2026",
+   "published": "2026-11-08",
+   "time_known": false,
+   "date_basis": "suy ra từ khoảng thời gian bản tin (25/9–8/11); trang không ghi ngày đăng",
+   "topic": "ai_xd",
+   "region": "US",
+   "summary_vi": "Bản tin tổng hợp giai đoạn 25/9–8/11 của Nomic ghi: Procore ra Agent Marketplace với 15 agent đối tác; Magpie 3.0 đạt 81% trên bộ đánh giá do Procore tự xây. Một bài tiền ấn phẩm cho thấy khi thay bộ mô phỏng vật lý bằng ‘LLM làm giám khảo’, 58,43% thiết kế được chấp nhận thực tế không đạt yêu cầu; một bộ đánh giá trên Revit thấy 60% điểm bị mất do nhận diện sai tên đối tượng. ASCE và NCARB nhấn mạnh phải có người có chứng chỉ chịu trách nhiệm; 3 thành phố Mỹ dùng AI kiểm tra hồ sơ xin phép xây dựng có đủ hay chưa.",
+   "why_it_matters": "Cảnh báo thực tế khi dùng AI để duyệt thiết kế/hồ sơ: AI kiểm ‘đủ giấy tờ’ thì ổn, nhưng thay kiểm tra kỹ thuật thì sai nhiều — cần người chịu trách nhiệm.",
+   "tags": [
+    "Procore",
+    "agent",
+    "kiểm tra thiết kế",
+    "cấp phép",
+    "Revit"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang Nomic (curl)",
+   "accessed": "2026-11-11",
+   "note": "Trang không ghi ngày đăng; dùng ngày cuối kỳ bản tin (8/11). Nomic là nhà cung cấp phần mềm AI cho kiến trúc–xây dựng."
+  },
+  {
+   "id": "n-20261111-13-vnpt-it-yukokeiso",
+   "title": "VNPT-IT và YukoKeiso ký kết thỏa thuận hợp tác ứng dụng AI trong lĩnh vực xây dựng",
+   "title_vi": "VNPT-IT ký thỏa thuận với YukoKeiso (Nhật) ứng dụng AI quản lý tiến độ thi công và lắp đặt thiết bị",
+   "source": {
+    "name": "VNPT-IT",
+    "kind": "thông cáo doanh nghiệp"
+   },
+   "url": "https://vnptit.vn/news/vnpt-it-va-yukokeiso-ky-ket-thoa-thuan-hop-tac-ung-dung-ai-trong-linh-vuc-xay-dung",
+   "published": "2026-11-10T04:23:00+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang",
+   "topic": "ai_xd",
+   "region": "VN",
+   "summary_vi": "Ngày 10/11 tại Tokyo, VNPT-IT và YukoKeiso ký biên bản ghi nhớ hợp tác ứng dụng AI trong xây dựng, tập trung vào quản lý tiến độ thi công và lắp đặt thiết bị. Hai bên hướng tới cả thị trường Việt Nam và Nhật Bản. Thông cáo chưa nêu sản phẩm cụ thể hay mốc thời gian triển khai.",
+   "why_it_matters": "Một doanh nghiệp công nghệ lớn của VN bắt tay đối tác Nhật về AI quản lý tiến độ — đáng theo dõi xem có thành sản phẩm cho nhà thầu VN hay không; mới ở mức ghi nhớ.",
+   "tags": [
+    "VNPT-IT",
+    "YukoKeiso",
+    "MoU",
+    "tiến độ",
+    "Nhật Bản"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang VNPT-IT (curl)",
+   "accessed": "2026-11-11"
+  },
+  {
+   "id": "n-20261111-14-sau-mang-luoi-7-nghin-ty",
+   "title": "发改委：今年“六张网”投资将超7万亿元",
+   "title_vi": "TQ: đầu tư ‘sáu mạng lưới’ hạ tầng năm nay vượt 7 nghìn tỷ tệ khi đầu tư tài sản cố định giảm 7,2%",
+   "source": {
+    "name": "The Paper 澎湃",
+    "kind": "báo"
+   },
+   "url": "https://www.thepaper.cn/newsDetail_forward_34405299",
+   "published": "2026-11-04T08:40:00+00:00",
+   "time_known": true,
+   "date_basis": "thời gian đăng trên trang bài",
+   "topic": "chuoi_cung_ung",
+   "region": "CN",
+   "summary_vi": "Ủy ban Cải cách và Phát triển Quốc gia TQ cho biết đầu tư vào ‘sáu mạng lưới’ hạ tầng năm nay sẽ vượt 7 nghìn tỷ tệ. Trong 3 quý đầu, đầu tư tài sản cố định toàn quốc giảm 7,2%, riêng dịch vụ internet tăng 46,7%, đầu tư tư nhân giảm 10,4%. Trái phiếu đặc biệt mới đã phát hành 3.560,8 tỷ tệ (81% hạn mức); 800 tỷ tệ công cụ tài chính chính sách đã giải ngân hết (CDB 365, EXIM 120, ADBC 315 tỷ) cho các dự án tổng vốn hơn 11 nghìn tỷ.",
+   "why_it_matters": "Kích cầu hạ tầng TQ quyết định nhu cầu thép, xi măng, thiết bị — và giá nguyên liệu xuất sang VN; trong khi đầu tư chung đang giảm, phần hạ tầng mạng lưới vẫn tăng.",
+   "tags": [
+    "六张网",
+    "hạ tầng",
+    "đầu tư công",
+    "trái phiếu đặc biệt",
+    "TQ"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "văn bản/sự kiện cơ quan nhà nước",
+   "how_read": "mở trang The Paper (curl)",
+   "accessed": "2026-11-11",
+   "note": "Chủ đề lên #34 Baidu sáng 11/11."
+  },
+  {
+   "id": "n-20261111-15-tong-thau-nhat-ky-luc",
+   "title": "スーパーゼネコン最高益の裏で再開発が止まる",
+   "title_vi": "Nhật: 4 ‘siêu tổng thầu’ lãi kỷ lục nhưng 9/17 dự án tái phát triển lớn ở Tokyo dừng, hoãn hoặc phải điều chỉnh vì thiếu nhà thầu và chi phí tăng",
+   "source": {
+    "name": "Diamond Online",
+    "kind": "báo kinh tế"
+   },
+   "url": "https://diamond.jp/articles/-/403076",
+   "published": "2026-11-11T04:55:00+09:00",
+   "time_known": true,
+   "date_basis": "thời gian đăng trên trang bài",
+   "topic": "chuoi_cung_ung",
+   "region": "JP",
+   "summary_vi": "Diamond cho biết 4 tổng thầu lớn nhất Nhật đạt lợi nhuận kỷ lục; Kajima doanh thu vượt 3 nghìn tỷ yên, lãi hoạt động tăng 58,5% lên 240,8 tỷ yên. Đơn hàng trong nước của 50 nhà thầu lớn vượt 20 nghìn tỷ yên, tăng 13,2%, năm thứ 5 liên tiếp. Tuy vậy 9 trong 17 dự án tái phát triển lớn ở Tokyo bị dừng, hoãn hoặc điều chỉnh, nhiều dự án chưa có nhà thầu; dự án Nakano Sunplaza tăng chi phí từ 181 tỷ lên hơn 350 tỷ yên và bị hủy thỏa thuận tháng 6/2025.",
+   "why_it_matters": "Khi thiếu năng lực thi công, nhà thầu (cả thầu phụ) được ‘chọn việc’ và đẩy giá — kinh nghiệm cho chủ đầu tư VN khi lập kế hoạch đấu thầu trong chu kỳ chi phí tăng.",
+   "tags": [
+    "tổng thầu",
+    "Nhật Bản",
+    "tái phát triển",
+    "chi phí xây dựng",
+    "đấu thầu"
+   ],
+   "verification": "đọc một phần",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang Diamond (curl), chỉ đọc được phần đầu bài; phần sau cần trả phí",
+   "accessed": "2026-11-11",
+   "note": "Bài có tường phí; số liệu lấy từ phần mở đầu công khai."
+  },
+  {
+   "id": "n-20261111-16-hai-quan-18800-vu",
+   "title": "Hải quan xử lý hơn 18.800 vụ vi phạm",
+   "title_vi": "Hải quan xử lý 18.825 vụ vi phạm, trị giá hàng hóa hơn 20.463 tỷ đồng trong 10 tháng; thu ngân sách tháng 10 đạt 46.449 tỷ",
+   "source": {
+    "name": "VOV2",
+    "kind": "báo"
+   },
+   "url": "https://vov2.vov.vn/phap-luat/hai-quan-xu-ly-hon-18800-vu-vi-pham-61580.vov2",
+   "published": "2026-11-10T16:27:00+07:00",
+   "time_known": true,
+   "date_basis": "thời gian đăng trên trang bài",
+   "topic": "chuoi_cung_ung",
+   "region": "VN",
+   "summary_vi": "Từ 15/12/2025 đến 14/10/2026, lực lượng hải quan phát hiện, bắt giữ, xử lý 18.825 vụ vi phạm, trị giá hàng hóa vi phạm 20.463,6 tỷ đồng; riêng 15/9–14/10 có 1.757 vụ, trị giá 2.466,8 tỷ đồng. Thu ngân sách từ hoạt động xuất nhập khẩu tháng 10 đạt 46.449 tỷ đồng; lũy kế đạt 99,2% kế hoạch.",
+   "why_it_matters": "Siết kiểm soát hàng nhập khẩu (xuất xứ, gian lận thương mại) ảnh hưởng thời gian thông quan vật tư, thiết bị nhập — nên tính dư thời gian trong kế hoạch mua sắm.",
+   "tags": [
+    "hải quan",
+    "nhập khẩu",
+    "gian lận thương mại",
+    "thông quan"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "văn bản/sự kiện cơ quan nhà nước",
+   "how_read": "mở trang VOV2 (curl)",
+   "accessed": "2026-11-11",
+   "note": "Từ khóa ‘nhập khẩu’ ở top Google Trends VN sáng 11/11."
+  },
+  {
+   "id": "n-20261111-17-cbre-can-ho-ha-noi-q3",
+   "title": "Thị trường căn hộ Hà Nội bước vào pha điều chỉnh",
+   "title_vi": "CBRE: căn hộ Hà Nội quý 3 điều chỉnh — mở bán mới giảm 28%, giá sơ cấp 86 triệu/m² (−9% so với quý trước), giao dịch thấp nhất từ quý 1/2024",
+   "source": {
+    "name": "Tinnhanhchungkhoan",
+    "kind": "báo kinh tế"
+   },
+   "url": "https://www.tinnhanhchungkhoan.vn/thi-truong-can-ho-ha-noi-buoc-vao-pha-dieu-chinh-post400637.html",
+   "published": "2026-11-07T06:40:00+07:00",
+   "time_known": true,
+   "date_basis": "thời gian đăng trên trang bài",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "Theo CBRE, quý 3 Hà Nội có khoảng 6.200 căn hộ mở bán mới, giảm 28% so với quý trước và 40% so với cùng kỳ; lũy kế 9 tháng 22.820 căn (+8%), hơn một nửa nguồn cung mới đến từ các đại đô thị ở Văn Giang. Giá sơ cấp bình quân 86 triệu đồng/m² (−9% theo quý, −6% theo năm); nội thành 102 triệu. Số căn bán được hơn 3.900 (−33% theo quý, −66% theo năm), thấp nhất từ quý 1/2024; giá thứ cấp khoảng 60 triệu/m² (−5% theo quý).",
+   "why_it_matters": "Thị trường căn hộ Hà Nội chậm lại — chủ đầu tư có thể giãn tiến độ, ảnh hưởng kế hoạch đấu thầu, mua sắm vật tư và đàm phán giá với nhà thầu cuối năm.",
+   "tags": [
+    "CBRE",
+    "căn hộ",
+    "Hà Nội",
+    "giá sơ cấp",
+    "nguồn cung"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "khảo sát/báo cáo",
+   "how_read": "mở trang Tinnhanhchungkhoan (curl --compressed)",
+   "accessed": "2026-11-11"
+  },
+  {
+   "id": "n-20261111-18-nha-pho-phia-nam-cat-lo",
+   "title": "Chủ nhà phố, biệt thự phía Nam bán cắt lỗ khi lãi vay tăng cao",
+   "title_vi": "Nhà phố, biệt thự phía Nam bị bán cắt lỗ khi lãi vay thả nổi vượt 13%; tồn kho nhà riêng lẻ tăng 11,6%",
+   "source": {
+    "name": "VnExpress",
+    "kind": "báo"
+   },
+   "url": "https://vnexpress.net/chu-nha-pho-biet-thu-phia-nam-ban-cat-lo-khi-lai-vay-tang-cao-5140298.html",
+   "published": "2026-11-09T09:42:00+07:00",
+   "time_known": true,
+   "date_basis": "thời gian đăng trên trang bài",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "Nhiều nhà đầu tư dùng đòn bẩy phải bán cắt lỗ nhà phố, biệt thự ở phía Nam khi lãi vay thả nổi vượt 13%; lượng ký gửi bán cắt lỗ tăng khoảng 30% so với quý trước. DKRA ghi giá thứ cấp nhà phố/biệt thự giảm 13% theo quý; CBRE ghi giá nhà đất thứ cấp TP.HCM 159 triệu đồng/m² (−6% theo quý, −4% theo năm). Bộ Xây dựng ghi tồn kho nhà riêng lẻ 17.089 căn, tăng 11,6% theo quý.",
+   "why_it_matters": "Lãi vay cao đang đè lên phân khúc thấp tầng — tín hiệu để theo dõi khả năng thanh toán của chủ đầu tư và nhịp khởi công dự án mới.",
+   "tags": [
+    "biệt thự",
+    "nhà phố",
+    "lãi vay",
+    "cắt lỗ",
+    "tồn kho"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang VnExpress (curl)",
+   "accessed": "2026-11-11",
+   "note": "Từ khóa ‘biệt thự’ ở top Google Trends VN sáng 11/11."
+  },
+  {
+   "id": "n-20261111-19-gia-thep-10-11",
+   "title": "Giá thép hôm nay 10/11/2026: Quặng sắt và thép quốc tế đồng loạt hạ nhiệt",
+   "title_vi": "Giá thép xây dựng trong nước 10/11 đi ngang 13.840–15.150 đồng/kg; giá quốc tế hạ nhiệt khi TQ kiểm soát sản lượng",
+   "source": {
+    "name": "Doanh nghiệp & Hội nhập",
+    "kind": "báo"
+   },
+   "url": "https://doanhnghiephoinhap.vn/gia-thep-hom-nay-10112026-quang-sat-va-thep-quoc-te-dong-loat-ha-nhiet-153824.html",
+   "published": "2026-11-10T09:00:00+07:00",
+   "time_known": true,
+   "date_basis": "thời gian đăng trên trang bài",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "Ngày 10/11, giá thép xây dựng trong nước tiếp tục ổn định trong khoảng 13.840–15.150 đồng/kg. Hòa Phát CB240 14.920 đồng/kg, D10 CB300 14.210; VAS D10 13.840; Việt Đức miền Trung CB240 15.150. Quặng sắt và thép quốc tế giảm khi TQ kiểm soát sản lượng.",
+   "why_it_matters": "Giá thép trong nước đi ngang hơn một tuần (cùng khoảng giá đã ghi ngày 2/11) — thời điểm thuận lợi để chốt giá hợp đồng ngắn hạn; theo dõi xu hướng quặng sắt.",
+   "tags": [
+    "giá thép",
+    "Hòa Phát",
+    "VAS",
+    "quặng sắt"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "bảng giá tổng hợp",
+   "how_read": "mở trang Doanh nghiệp & Hội nhập (curl)",
+   "accessed": "2026-11-11",
+   "note": "Thitruongthep.net (nguồn giá gốc) chỉ tải bằng JS — không đối chiếu được hôm nay."
+  }
+ ],
+ "unreachable": [
+  {
+   "source": "The Contech Guy",
+   "status": "curl HTTP 403 (Cloudflare)",
+   "impact": "Bỏ qua; đã có tin AI xây dựng từ nguồn khác."
+  },
+  {
+   "source": "engineering.com (Bentley)",
+   "status": "curl HTTP 403",
+   "impact": "Không đưa tin Bentley hôm nay."
+  },
+  {
+   "source": "Construction Dive / Supply Chain Dive",
+   "status": "curl HTTP 403",
+   "impact": "Thiếu tin chuỗi cung ứng Mỹ; dùng nguồn châu Á."
+  },
+  {
+   "source": "thitruongthep.net",
+   "status": "Chỉ khung JavaScript",
+   "impact": "Giá thép lấy từ Doanh nghiệp & Hội nhập, chưa đối chiếu nguồn gốc."
+  },
+  {
+   "source": "Diamond Online",
+   "status": "Tường phí — chỉ đọc phần đầu",
+   "impact": "Tin tổng thầu Nhật ghi ‘đọc một phần’."
+  },
+  {
+   "source": "Yahoo! JAPAN News / Netorabo (bài カリッじゅワッサン)",
+   "status": "HTTP 404",
+   "impact": "Dùng Togetter + bảng Yahoo realtime cho ý tưởng 05."
+  }
+ ]
+}

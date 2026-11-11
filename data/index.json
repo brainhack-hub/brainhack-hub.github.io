@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-10",
-  "latest": "2026-11-10",
+  "updated": "2026-11-11",
+  "latest": "2026-11-11",
   "days": [
+    {
+      "date": "2026-11-11",
+      "file": "2026-11-11.json",
+      "headline": "‘Món nhỏ chiều mình’ và web chữa lành tự làm bằng AI: Nhật mê kem trái cây 3D, Hàn đổ xô vào ‘chùa online’, TQ uống ly đá — 8 ý tưởng nhỏ cho người trẻ Việt",
+      "idea_count": 8,
+      "trend_count": 6,
+      "keyword_count": 46,
+      "top": {
+        "title": "“Vỉa hè online” — trang web ngồi quán trà đá Hà Nội 5 phút: tiếng phố, ghế nhựa, không chat, ai thích thì ‘mời một cốc trà đá’",
+        "total_score": 7.3
+      }
+    },
     {
       "date": "2026-11-10",
       "file": "2026-11-10.json",
