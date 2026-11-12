@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-11",
-  "latest": "2026-11-11",
+  "updated": "2026-11-12",
+  "latest": "2026-11-12",
   "days": [
+    {
+      "date": "2026-11-12",
+      "file": "2026-11-12.json",
+      "headline": "Tự tay làm mới món quen: heo đất Daiso vẽ lại bán tăng 400%, kẹo hồ lô 9 tầng, ốc sên gỗ dắt đi dạo — 8 ý tưởng nhỏ cho người trẻ Việt",
+      "idea_count": 8,
+      "trend_count": 6,
+      "keyword_count": 44,
+      "top": {
+        "title": "“Hồ lô chín tầng vị Việt” — xiên kẹo hồ lô xếp tầng xôi lá dứa, bánh da lợn, mứt dừa, quất, dâu Đà Lạt; bán theo mẻ giới hạn ở chợ đêm",
+        "total_score": 7.16
+      }
+    },
     {
       "date": "2026-11-11",
       "file": "2026-11-11.json",

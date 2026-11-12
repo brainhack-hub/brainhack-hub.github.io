@@ -1,0 +1,744 @@
+{
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T07:21:00+07:00",
+ "headline": "Gemini 4 Carbon mở rộng giá rẻ, Claude và ChatGPT tiến vào hệ thống bán hàng; Hitachi ra AI mua hàng; nhựa đường tăng 16,7%",
+ "digest": [
+  {
+   "title": "Mô hình AI rẻ hơn, nối thẳng vào hệ thống doanh nghiệp",
+   "text": "Gemini 4 Carbon mở rộng rãi giá 2/10 USD mỗi triệu token; Claude thêm connector với Salesforce, NetSuite, Workday; ChatGPT thử trang doanh nghiệp và tác tử bán hàng.",
+   "item_ids": [
+    "n-20261112-01-gemini-4-carbon-ga",
+    "n-20261112-02-claude-sheets-connectors",
+    "n-20261112-03-chatgpt-businesses"
+   ]
+  },
+  {
+   "title": "AI vào khâu mua hàng",
+   "text": "Hitachi ra AI so báo giá – đặt hàng – đôn đốc giao (thử nội bộ giảm tới 65% thời gian); Sakumiru cho AI đọc hóa đơn và phân bổ chi phí theo công trình.",
+   "item_ids": [
+    "n-20261112-13-sakumiru-shiire-ai",
+    "n-20261112-16-hitachi-procurement-ai",
+    "n-20261112-20-grubmarket-po-agent"
+   ]
+  },
+  {
+   "title": "AI soát hồ sơ dự thầu và biện pháp thi công",
+   "text": "Asite ra tác tử đánh giá hồ sơ dự thầu; Pinming có tác tử thẩm định 200 loại biện pháp; Ageiro cảnh báo chênh lệch giá thầu phụ; FECON đào tạo AI cho kỹ sư ở Hà Nội.",
+   "item_ids": [
+    "n-20261112-08-asite-5-ai-agents",
+    "n-20261112-10-ageiro-ark-watcher",
+    "n-20261112-14-pinming-agent-tham-dinh",
+    "n-20261112-15-redpola-fecon-ai"
+   ]
+  },
+  {
+   "title": "Vật liệu: nhựa đường tăng mạnh, thép đi ngang",
+   "text": "Nhựa đường tháng 10 tăng 16,7%, cát tiếp tục tăng, thép giữ 13.840–15.150 đồng/kg; cước container giảm nhẹ, Mỹ hoãn phí cảng với tàu TQ đến 9/1/2027.",
+   "item_ids": [
+    "n-20261112-17-my-hoan-phi-tau-tq",
+    "n-20261112-18-cuoc-container-tuan-45",
+    "n-20261112-19-vlxd-gia-tang-thang-10",
+    "n-20261112-24-gia-thep-11-11"
+   ]
+  },
+  {
+   "title": "BĐS: giá chững, hấp thụ thấp",
+   "text": "Bộ Xây dựng thấy giá căn hộ có xu hướng giảm cuối năm; VARS ghi hấp thụ quý 3 chỉ 39,3%, lãi thả nổi 13–15%; Cần Thơ kỷ luật vì dự án đội vốn.",
+   "item_ids": [
+    "n-20261112-21-bxd-gia-can-ho-giam",
+    "n-20261112-22-vars-3-kich-ban",
+    "n-20261112-23-can-tho-vanh-dai-doi-von"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "n-20261112-01-gemini-4-carbon-ga",
+   "title": "Gemini 4 Carbon is now available",
+   "title_vi": "Google mở rộng Gemini 4 Carbon cho mọi nhà phát triển: giá 2 USD/10 USD mỗi triệu token, dẫn đầu nhiều bảng đo về lập trình và tác vụ tự động",
+   "source": {
+    "name": "Google (The Keyword)",
+    "kind": "blog nhà cung cấp"
+   },
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "published": "2026-11-10",
+   "time_known": false,
+   "date_basis": "ngày trong meta article:published_time (không có giờ)",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Google thông báo Gemini 4 Carbon đã mở rộng rãi (trước đó chỉ phát hành giới hạn), giá 2 USD cho mỗi triệu token đầu vào và 10 USD cho đầu ra. Theo Google, mô hình đứng đầu các bảng đo CursorBench 4.0, WANDR và AutomationBench. Google cũng cho thử nghiệm tính năng /swarm chạy nhiều tác tử song song.",
+   "why_it_matters": "Một mô hình tuyến đầu với giá thấp giúp đội nhỏ chạy tác tử AI (đọc hồ sơ, soạn bảng so sánh báo giá) rẻ hơn; điểm benchmark là do hãng tự công bố.",
+   "tags": [
+    "Google",
+    "Gemini 4 Carbon",
+    "giá token",
+    "agent"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang blog.google (curl)",
+   "accessed": "2026-11-12",
+   "note": "Bản phát hành giới hạn đã được đưa tin ngày 05/11; tin hôm nay là việc mở rộng rãi kèm giá chính thức."
+  },
+  {
+   "id": "n-20261112-02-claude-sheets-connectors",
+   "title": "More ways to work with Claude: Sheets, Whiteboards, and interactive connectors",
+   "title_vi": "Claude thêm bảng tính, bảng trắng và connector tương tác với Adobe, Atlassian, Salesforce, NetSuite, Workday",
+   "source": {
+    "name": "Anthropic (claude.com)",
+    "kind": "blog nhà cung cấp"
+   },
+   "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+   "published": "2026-11-10",
+   "time_known": false,
+   "date_basis": "ngày trong meta article:published_time",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Anthropic giới thiệu Claude Sheets, Whiteboards, Data và các connector tương tác, cho phép thao tác trực tiếp trên ứng dụng của Adobe, Atlassian, NetSuite; Salesforce và Workday ở bản beta. Hãng nói hệ sinh thái đã có hơn 9.000 connector và sắp ra Claude Meetings.",
+   "why_it_matters": "Trợ lý AI đang nối thẳng vào hệ thống doanh nghiệp (ERP, CRM) — phòng mua hàng có thể truy vấn đơn hàng, nhà cung cấp ngay trong khung chat; cần chính sách dữ liệu trước khi bật.",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "connector",
+    "ERP",
+    "Salesforce"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang claude.com (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-03-chatgpt-businesses",
+   "title": "Introducing businesses in ChatGPT",
+   "title_vi": "OpenAI thử nghiệm trang doanh nghiệp trong ChatGPT và ‘Business Agents’ bán hàng cho thương mại điện tử Mỹ",
+   "source": {
+    "name": "OpenAI",
+    "kind": "blog nhà cung cấp"
+   },
+   "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+   "published": "2026-11-10",
+   "time_known": false,
+   "date_basis": "ngày hiển thị trên trang",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "OpenAI ra bản beta cho phép doanh nghiệp có hiện diện riêng trong ChatGPT, kèm ‘Business Agents’ trả lời và hỗ trợ mua hàng cho các shop thương mại điện tử ở Mỹ. OpenAI nêu ChatGPT có 1,2 tỷ người dùng hằng tuần.",
+   "why_it_matters": "Kênh bán hàng mới qua trợ lý AI đang hình thành; doanh nghiệp VN nên chuẩn bị dữ liệu sản phẩm/dịch vụ rõ ràng để được AI ‘đọc’ đúng.",
+   "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "thương mại",
+    "agent"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang qua WebFetch (curl bị 403)",
+   "accessed": "2026-11-12",
+   "idea_ids": [
+    "20261112-06-dien-mot-cau"
+   ]
+  },
+  {
+   "id": "n-20261112-04-fractile-720m",
+   "title": "With $720M round, Britain's Fractile gets a leg up in the race for AI chips",
+   "title_vi": "Startup chip AI Fractile (Anh) gọi 720 triệu USD vòng C, có Quỹ AI chủ quyền của Anh tham gia",
+   "source": {
+    "name": "TechCrunch",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+   "published": "2026-11-11T19:34:55+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "EU",
+   "summary_vi": "Fractile, startup Anh làm chip suy luận AI, huy động 720 triệu USD vòng Series C do Thrive, Founders Fund, Lightspeed và Redpoint dẫn đầu, có Quỹ AI chủ quyền của Anh tham gia. TechCrunch dẫn FT và Reuters ước định giá hơn 5 tỷ bảng (khoảng 7 tỷ USD); chip đầu tiên dự kiến ra năm sau.",
+   "why_it_matters": "Cuộc đua chip suy luận rẻ hơn có thể kéo giảm chi phí chạy AI trong vài năm tới; hiện mới là vốn đầu tư, chưa có sản phẩm.",
+   "tags": [
+    "Fractile",
+    "chip AI",
+    "Series C",
+    "Anh"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang TechCrunch (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-05-qwen4-max-preview",
+   "title": "Alibaba opens Qwen4-Max-Preview with a million-token context window",
+   "title_vi": "Alibaba mở Qwen4-Max-Preview: ngữ cảnh 1 triệu token, chỉ dùng qua Token Plan đến 25/11",
+   "source": {
+    "name": "TechNode",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://technode.com/2026/11/11/alibaba-opens-qwen4-max-preview-with-a-million-token-context-window/",
+   "published": "2026-11-11T06:54:42+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "CN",
+   "summary_vi": "Alibaba mở bản xem trước Qwen4-Max-Preview với cửa sổ ngữ cảnh 1 triệu token. Theo tài liệu Alibaba Cloud Model Studio, đầu ra tối đa 393.216 token, chỉ dùng được qua gói Token Plan, thời gian thử từ 10:00 ngày 11/11 đến hết 25/11 (giờ UTC+8).",
+   "why_it_matters": "Mô hình TQ ngữ cảnh dài có thể đọc cả bộ hồ sơ thầu một lần; cần cân nhắc quy định dữ liệu khi dùng dịch vụ đặt ở nước ngoài.",
+   "tags": [
+    "Alibaba",
+    "Qwen4",
+    "ngữ cảnh dài",
+    "Model Studio"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang TechNode (curl); đối chiếu tài liệu alibabacloud.com/help/en/model-studio/qwen4-max-preview",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-06-databricks-genie-agent",
+   "title": "Databricks' new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+   "title_vi": "Databricks ra tác tử Genie tự chạy nhiều bước phân tích dữ liệu mà không cần người giám sát",
+   "source": {
+    "name": "TechCrunch",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+   "published": "2026-11-11T15:00:00+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Databricks giới thiệu phiên bản Genie có thể tự thực hiện chuỗi phân tích nhiều bước trên dữ liệu doanh nghiệp mà không cần người giám sát từng bước. CEO Ali Ghodsi kể với TechCrunch ông dùng nó để hỏi những câu ‘khó nghe’ về tình hình kinh doanh.",
+   "why_it_matters": "Tác tử phân tích dữ liệu tự động là hướng mà bộ phận mua hàng có thể dùng để soi chi phí, nhà cung cấp — miễn là dữ liệu đã sạch.",
+   "tags": [
+    "Databricks",
+    "Genie",
+    "agent",
+    "phân tích dữ liệu"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang TechCrunch (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-07-openai-mua-odessia",
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "title_vi": "OpenAI mua startup du lịch Odessia theo kiểu ‘mua người’; sản phẩm sẽ đóng cửa",
+   "source": {
+    "name": "TechCrunch",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "published": "2026-11-10T21:08:52+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "OpenAI mua Odessia, startup lập kế hoạch du lịch do nhà sáng lập Sonder lập ra; đội ngũ gia nhập OpenAI và công cụ của Odessia sẽ ngừng hoạt động. Odessia từng gọi 6 triệu USD vòng tiền hạt giống do Sequoia dẫn đầu.",
+   "why_it_matters": "OpenAI tiếp tục gom nhân sự để làm tác tử đặt chỗ, mua hàng — cùng hướng với tính năng doanh nghiệp trong ChatGPT.",
+   "tags": [
+    "OpenAI",
+    "M&A",
+    "du lịch",
+    "agent"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang TechCrunch (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-08-asite-5-ai-agents",
+   "title": "Asite: five AI agents for construction information",
+   "title_vi": "Asite ra 5 tác tử AI cho môi trường dữ liệu chung (CDE): kiểm metadata, tạo biểu mẫu, quy trình, kiểm yêu cầu nghiệm thu và đánh giá hồ sơ dự thầu",
+   "source": {
+    "name": "Construction Industry AI",
+    "kind": "báo chuyên ngành"
+   },
+   "url": "https://www.constructionindustry.ai/product/asite-five-ai-agents-cde-information-created/",
+   "published": "2026-11-11",
+   "time_known": false,
+   "date_basis": "ngày trong meta (giờ 00:00 mặc định)",
+   "topic": "ai_xd",
+   "region": "EU",
+   "summary_vi": "Ngày 10/11, Asite công bố 5 tác tử AI có sẵn cho người dùng CDE: kiểm mã/trạng thái/phiên bản tài liệu khi tải lên, tạo biểu mẫu từ mô tả hoặc ảnh PDF, dựng quy trình từ mô tả tiếng Anh, kiểm yêu cầu nghiệm thu công việc trước khi gửi, và ‘AI Bid Evaluator’ đọc hồ sơ dự thầu so với yêu cầu để chỉ ra thiếu phạm vi, thiếu thông tin, không tuân thủ. Bài nhận xét điểm mới là AI kiểm ngay lúc thông tin đến, thay vì khi tìm lại sau này.",
+   "why_it_matters": "Tác tử đánh giá hồ sơ dự thầu chạm thẳng vào việc của tổ đấu thầu: soát thiếu sót, ghi lại lý do chọn thầu — đáng thử nghiệm song song với đánh giá thủ công.",
+   "tags": [
+    "Asite",
+    "CDE",
+    "đánh giá thầu",
+    "AI agent"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang constructionindustry.ai (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-09-buildxact-blu",
+   "title": "Blu is taking on more of the work",
+   "title_vi": "Buildxact mở rộng trợ lý AI Blu: sửa dự toán theo yêu cầu, rà soát thiếu sót, hướng tới bóc khối lượng tự động",
+   "source": {
+    "name": "Buildxact",
+    "kind": "blog nhà cung cấp"
+   },
+   "url": "https://news.buildxact.com/162941-blu-is-taking-on-more-of-the-work",
+   "published": "2026-11-10T03:03:08+00:00",
+   "time_known": true,
+   "date_basis": "datePublished trong JSON-LD",
+   "topic": "ai_xd",
+   "region": "AU",
+   "summary_vi": "Giám đốc sản phẩm Buildxact cho biết trợ lý AI Blu nay làm việc trong một luồng liên tục: nhận thông tin công việc hoặc dự toán có sẵn, đọc bản vẽ, đổi phạm vi/khối lượng/giá theo yêu cầu và rà soát chỗ thiếu. Lộ trình tiếp theo là biến bộ bản vẽ và báo giá thầu phụ thành dự toán, rồi thành tiến độ, và bóc khối lượng tự động.",
+   "why_it_matters": "Dự toán do AI hỗ trợ cho nhà thầu nhỏ đang thành sản phẩm thương mại; người dùng vẫn duyệt kết quả. Đây là bài của chính hãng.",
+   "tags": [
+    "Buildxact",
+    "dự toán",
+    "bóc khối lượng",
+    "AI"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang news.buildxact.com (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-10-ageiro-ark-watcher",
+   "title": "Ageiro launches Ark Watcher",
+   "title_vi": "Ageiro ra Ark Watcher: AI theo dõi liên tục Procore, Aconex, SharePoint… để cảnh báo chênh lệch giá thầu phụ và nguy cơ khiếu nại",
+   "source": {
+    "name": "AEC Magazine",
+    "kind": "báo chuyên ngành"
+   },
+   "url": "https://aecmag.com/project-management/ageiro-launches-ark-watcher/",
+   "published": "2026-11-10T13:48:30+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_xd",
+   "region": "EU",
+   "summary_vi": "Ark Watcher theo dõi thông tin dự án trên Autodesk Forma, Oracle Aconex, Procore, SharePoint, Dropbox; so sánh thay đổi chỉ dẫn kỹ thuật, phát hiện mâu thuẫn trong dự toán, chênh lệch giữa giá thầu và giá thầu phụ, rà RFI và hồ sơ trình duyệt, kiểm theo ISO 19650, cảnh báo sớm sự kiện có thể dẫn tới khiếu nại. Khi phát hiện vấn đề, hệ thống gửi cảnh báo kèm liên kết nguồn và gợi ý xử lý.",
+   "why_it_matters": "Cảnh báo chênh lệch giá thầu – thầu phụ là phần việc kiểm soát chi phí mà tổ đấu thầu thường làm tay; công cụ kiểu này giảm sót lỗi nhưng cần dữ liệu tập trung.",
+   "tags": [
+    "Ageiro",
+    "giám sát dự án",
+    "ISO 19650",
+    "claims"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang aecmag.com (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-11-lotte-ec-open-innovation",
+   "title": "롯데건설, 스타트업 10곳과 기술검증…건설현장 적용 추진",
+   "title_vi": "Lotte E&C kiểm chứng công nghệ cùng 10 startup (robot vận chuyển vật tư, AI ghi chép, định vị AI) để đưa vào công trường",
+   "source": {
+    "name": "Money Today (머니투데이)",
+    "kind": "báo kinh tế"
+   },
+   "url": "https://www.mt.co.kr/estate/2026/11/11/2026111114435713451",
+   "published": "2026-11-11T17:18:41+09:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_xd",
+   "region": "KR",
+   "summary_vi": "Lotte E&C tổ chức buổi chia sẻ kết quả đổi mới mở ngày 10/11 với 10 startup đã làm PoC: 9 công ty chọn qua chương trình với SBA và Viện Xúc tiến khởi nghiệp (robot vận chuyển vật tư, cốt liệu tái chế, quản lý thiết bị, robot tuần tra, AI ghi chép, AI định vị…) và 1 công ty AI agent do Lotte tự tìm. Hãng sẽ trả tiền thưởng kết quả PoC và bàn hướng thương mại hóa.",
+   "why_it_matters": "Mô hình ‘PoC có thưởng’ với startup là cách tổng thầu thử công nghệ ít rủi ro — đáng tham khảo cho chủ đầu tư VN.",
+   "tags": [
+    "Lotte E&C",
+    "PoC",
+    "startup",
+    "robot",
+    "AI"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang mt.co.kr (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-12-spacedata-spacebrain-duong",
+   "title": "スペースデータ、道路工事の施工管理シミュレーションを搭載",
+   "title_vi": "SpaceData thêm mô phỏng quản lý thi công đường: chọn cách theo dõi người – máy và số tổ đội, AI tính tiến độ và nhân lực",
+   "source": {
+    "name": "PR TIMES (SpaceData)",
+    "kind": "thông cáo doanh nghiệp"
+   },
+   "url": "https://prtimes.jp/main/html/rd/p/000000268.000080352.html",
+   "published": "2026-11-11T10:00:02+09:00",
+   "time_known": true,
+   "date_basis": "datePublished trên trang PR TIMES (giờ Nhật)",
+   "topic": "ai_xd",
+   "region": "JP",
+   "summary_vi": "SpaceData thêm vào nền tảng SpaceBrain chức năng mô phỏng thi công đường: dựng lại tuyến mẫu dài khoảng 14 km trên địa hình và ảnh hàng không thật; chọn phương tiện theo dõi (camera, ghi ra vào cổng, thiết bị trên máy) và số tổ đội để tính số người/máy nắm được hằng ngày, tiến độ và nhu cầu nhân lực. Ví dụ trong thông cáo (giá trị giả định): 464 ngày, cao điểm 258 công nhân.",
+   "why_it_matters": "Mô phỏng ‘nếu thêm tổ đội thì xong sớm bao nhiêu’ giúp lập kế hoạch và so sánh phương án nhà thầu; số liệu là giả định của hãng.",
+   "tags": [
+    "SpaceData",
+    "mô phỏng thi công",
+    "đường bộ",
+    "digital twin"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang PR TIMES (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-13-sakumiru-shiire-ai",
+   "title": "「サクミル」が仕入AIをリリース",
+   "title_vi": "Phần mềm xây dựng Sakumiru ra ‘AI nhập mua’: chụp hóa đơn, AI tự tách từng dòng vào đúng công trình",
+   "source": {
+    "name": "PR TIMES (Plex)",
+    "kind": "thông cáo doanh nghiệp"
+   },
+   "url": "https://prtimes.jp/main/html/rd/p/000000054.000048655.html",
+   "published": "2026-11-10T10:00:03+09:00",
+   "time_known": true,
+   "date_basis": "datePublished trên trang PR TIMES (giờ Nhật)",
+   "topic": "ai_xd",
+   "region": "JP",
+   "summary_vi": "Plex thêm vào phần mềm quản lý cho doanh nghiệp xây dựng Sakumiru chức năng ‘仕入AI’: tải PDF hoặc ảnh hóa đơn, AI đọc tên nhà cung cấp, ngày mua, hạn thanh toán, số tiền và tự chia hóa đơn gộp nhiều công trình về đúng từng công trình. Tính năng không thu thêm phí trên gói hiện có; theo thông cáo, Sakumiru có khoảng 4.000 khách hàng, giá từ 9.800 yên/tháng.",
+   "why_it_matters": "Nhập hóa đơn thầu phụ, vật tư cuối tháng là nút thắt quen thuộc; AI đọc hóa đơn và phân bổ chi phí theo công trình là việc làm được ngay cả ở VN.",
+   "tags": [
+    "Sakumiru",
+    "hóa đơn",
+    "giá vốn",
+    "OCR AI"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang PR TIMES (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-14-pinming-agent-tham-dinh",
+   "title": "AI在建筑业如何从“能用”走向“好用”？品茗科技分享落地路径",
+   "title_vi": "Pinming (TQ) giới thiệu tác tử AI thẩm định biện pháp thi công: 37 hạng mục, 200 loại biện pháp, gần 800 công nghệ thi công",
+   "source": {
+    "name": "Pinming Technology (品茗科技)",
+    "kind": "blog nhà cung cấp"
+   },
+   "url": "https://www.pinming.cn/news_cont_7203.html",
+   "published": "2026-11-10",
+   "time_known": false,
+   "date_basis": "ngày trên trang tin",
+   "topic": "ai_xd",
+   "region": "CN",
+   "summary_vi": "Tại hội nghị đổi mới ngành xây dựng Chiết Giang ngày 9/11, Pinming giới thiệu mô hình doanh nghiệp ‘茗智’ với 5 nhóm tác tử: hỏi đáp, soạn biện pháp, thẩm định biện pháp, giao ban kỹ thuật, soạn/duyệt hồ sơ kỹ thuật dự thầu. Tác tử thẩm định phủ 37 hạng mục chuyên ngành, 200 loại biện pháp và gần 800 công nghệ thi công, kiểm cả tính toán (tham số, độ chính xác, tính đầy đủ, tính kinh tế). Hãng thừa nhận dữ liệu ngành phi cấu trúc và ‘chặng cuối’ đọc bản vẽ, kiểm quy chuẩn vẫn khó.",
+   "why_it_matters": "Tác tử soạn và duyệt hồ sơ kỹ thuật dự thầu là ứng dụng sát nhất với đấu thầu; bài là của chính hãng nên hiệu quả cần kiểm chứng.",
+   "tags": [
+    "Pinming",
+    "thẩm định biện pháp",
+    "hồ sơ dự thầu",
+    "AI agent"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang pinming.cn (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-15-redpola-fecon-ai",
+   "title": "Đào tạo AI cho doanh nghiệp xây dựng FECON",
+   "title_vi": "RedPola và FECON đào tạo ‘Master AI for Construction’ ngày 11–12/11 tại Hà Nội, lấy Claude làm công cụ trung tâm",
+   "source": {
+    "name": "RedPola",
+    "kind": "blog nhà cung cấp"
+   },
+   "url": "https://redpola.com/dao-tao-ai-cho-doanh-nghiep-xay-dung-fecon/",
+   "published": "2026-11-11T05:38:04+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_xd",
+   "region": "VN",
+   "summary_vi": "Viện AI RedPola phối hợp FECON tổ chức khóa đào tạo thực chiến ngày 11–12/11/2026 tại FECON Tower (Hà Nội), tập trung vào quản lý dự án, thiết kế, bóc khối lượng, dự toán, thi công và quản lý công trường. Theo trang của RedPola, Claude là công cụ trung tâm (khoảng 70% thời lượng), NotebookLM khoảng 20%; nguyên tắc là học trên tình huống thật và làm ra sản phẩm dùng ngay.",
+   "why_it_matters": "Một nhà thầu lớn ở Hà Nội đào tạo AI theo nghiệp vụ xây dựng — dấu hiệu AI đã vào quy trình hồ sơ thầu, dự toán ở VN; nội dung do đơn vị đào tạo tự viết.",
+   "tags": [
+    "FECON",
+    "RedPola",
+    "đào tạo AI",
+    "Claude",
+    "VN"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang redpola.com (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-16-hitachi-procurement-ai",
+   "title": "Hitachi launches procurement AI, citing work-time savings of up to 65%",
+   "title_vi": "Hitachi ra dịch vụ AI mua hàng TWX-21: so sánh báo giá, đặt hàng, theo dõi giao hàng; thử nội bộ giảm tới 65% thời gian",
+   "source": {
+    "name": "IBTimes Japan",
+    "kind": "báo kinh tế"
+   },
+   "url": "https://jp.ibtimes.com/hitachi-launches-procurement-ai-citing-work-time-savings-65-105162",
+   "published": "2026-11-09T21:10:35+09:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "chuoi_cung_ung",
+   "region": "JP",
+   "summary_vi": "Hitachi ra TWX-21 Procurement AI Service: nhiều tác tử AI làm so sánh báo giá, đặt hàng, quản lý tiến độ giao, phát hiện sớm nguy cơ trễ hàng và hỗ trợ đàm phán ngày giao; doanh nghiệp cấu hình theo chính sách mua hàng riêng, người mua vẫn quyết định cuối. Áp dụng nội bộ giảm tới 65% thời gian ở một số việc quản lý giao hàng (ước tính của Hitachi). Nền tảng TWX-21 phục vụ khoảng 87.000 doanh nghiệp.",
+   "why_it_matters": "Đúng việc của phòng mua hàng: so báo giá, đôn đốc giao hàng — mức 65% là ước tính nội bộ, nhưng cho thấy hướng ‘AI làm, người duyệt’.",
+   "tags": [
+    "Hitachi",
+    "procurement AI",
+    "so sánh báo giá",
+    "giao hàng"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang jp.ibtimes.com (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-17-my-hoan-phi-tau-tq",
+   "title": "US postpones million-dollar China ship tax until January",
+   "title_vi": "Mỹ hoãn tiếp phí cảng với tàu liên quan TQ đến 9/1/2027; một tàu 50.000 tấn có thể phải nộp 2,5 triệu USD",
+   "source": {
+    "name": "FreightWaves",
+    "kind": "báo chuyên ngành"
+   },
+   "url": "https://www.freightwaves.com/news/us-postpones-million-dollar-china-ship-tax-until-january",
+   "published": "2026-11-11T16:02:32+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "chuoi_cung_ung",
+   "region": "US",
+   "summary_vi": "Mỹ gia hạn việc tạm dừng thu phí cảng với tàu do TQ đóng hoặc vận hành đến ngày 9/1/2027. FreightWaves tính một tàu 50.000 tấn tịnh sẽ phải trả khoảng 2,5 triệu USD mỗi lần cập cảng nếu phí được áp.",
+   "why_it_matters": "Rủi ro phí cảng vẫn treo sau tháng 1/2027 — ảnh hưởng giá cước và lịch tàu với hàng nhập khẩu (thiết bị, vật tư) đi qua tuyến Mỹ–Á.",
+   "tags": [
+    "phí cảng",
+    "Mỹ–Trung",
+    "vận tải biển",
+    "USTR"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang FreightWaves (curl)",
+   "accessed": "2026-11-12",
+   "note": "Diễn biến tiếp theo của tin thỏa thuận đình chiến thương mại đã đưa ngày 10/11."
+  },
+  {
+   "id": "n-20261112-18-cuoc-container-tuan-45",
+   "title": "Container freight rates weaken as WCI and FBX extend declines",
+   "title_vi": "Cước container tiếp tục giảm nhẹ: WCI −1% còn 4.389 USD/FEU, SCFI −1,46%",
+   "source": {
+    "name": "Container News",
+    "kind": "báo chuyên ngành"
+   },
+   "url": "https://container-news.com/container-freight-rates-weaken-as-wci-and-fbx-extend-declines/",
+   "published": "2026-11-10T06:00:02+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "chuoi_cung_ung",
+   "region": "Global",
+   "summary_vi": "Chỉ số Drewry WCI giảm 1% xuống 4.389 USD/FEU; Freightos FBX giảm 2% còn 3.452 USD. Chỉ số SCFI của Thượng Hải giảm 1,46% còn 3.633,45 điểm, trong khi CCFI tăng 2,28%.",
+   "why_it_matters": "Cước đi ngang – giảm nhẹ là thời điểm hợp để chốt giá vận chuyển cho thiết bị nhập khẩu quý 1; các chỉ số lệch nhau nên đối chiếu nhiều nguồn.",
+   "tags": [
+    "cước container",
+    "WCI",
+    "SCFI",
+    "FBX"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang container-news.com (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-19-vlxd-gia-tang-thang-10",
+   "title": "Tăng cường kiểm soát thị trường vật liệu xây dựng",
+   "title_vi": "Bộ Xây dựng: nhựa đường tháng 10 tăng 16,7%, đá tăng nhẹ; giá vật liệu dự báo còn tăng",
+   "source": {
+    "name": "VTV",
+    "kind": "báo trong nước"
+   },
+   "url": "https://vtv.vn/the-thao/tang-cuong-kiem-soat-thi-truong-vat-lieu-xay-dung-100261110204410844.htm",
+   "published": "2026-11-11T06:58:00+07:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "chuoi_cung_ung",
+   "region": "VN",
+   "summary_vi": "Theo số liệu Bộ Xây dựng dẫn trên VTV, giá nhựa đường tháng 10 bình quân 26.689 đồng/kg, tăng 16,7%; đá xây dựng 618.324 đồng/m³, tăng 1,04%; xi măng 2.222 đồng/kg, tăng 0,1%; cát tiếp tục tăng. Bộ dự báo giá vật liệu còn tăng và yêu cầu các địa phương tăng kiểm soát thị trường.",
+   "why_it_matters": "Ảnh hưởng trực tiếp dự toán và điều chỉnh giá hợp đồng — nên cập nhật đơn giá nhựa đường, cát, đá trong hồ sơ mời thầu sắp phát hành.",
+   "tags": [
+    "vật liệu xây dựng",
+    "nhựa đường",
+    "cát",
+    "Bộ Xây dựng"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang vtv.vn (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-20-grubmarket-po-agent",
+   "title": "GrubMarket launches AI agent that transforms purchase order processing for food distributors",
+   "title_vi": "GrubMarket ra tác tử AI chuyển hóa đơn nhà cung cấp thành đơn mua (PO) cho nhà phân phối thực phẩm",
+   "source": {
+    "name": "PR Newswire (GrubMarket)",
+    "kind": "thông cáo doanh nghiệp"
+   },
+   "url": "https://www.prnewswire.com/news-releases/grubmarket-launches-ai-agent-that-transforms-purchase-order-processing-for-food-distributors-302934681.html",
+   "published": "2026-11-10T13:08:00+00:00",
+   "time_known": true,
+   "date_basis": "datePublished trong JSON-LD",
+   "topic": "chuoi_cung_ung",
+   "region": "US",
+   "summary_vi": "GrubMarket ra ‘AI Orders – Purchase Order Agent’ giúp bộ phận mua hàng của nhà phân phối thực phẩm tự chuyển hóa đơn, phiếu nhận hàng của nhà cung cấp thành đơn mua có cấu trúc trong ERP. Hãng nói việc này thay cho nhập tay sản phẩm, số lượng, đơn vị, giá vốn mỗi ngày. Đây là thông cáo doanh nghiệp, không có số liệu hiệu quả độc lập.",
+   "why_it_matters": "Tự động hóa khâu đơn hàng – một bước của chuỗi mua bán – đang lan sang mọi ngành; cùng hướng với Hitachi và Sakumiru hôm nay.",
+   "tags": [
+    "GrubMarket",
+    "purchase order",
+    "AI agent",
+    "phân phối"
+   ],
+   "verification": "đọc một phần",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang PR Newswire (curl); đọc 3 đoạn đầu (giới thiệu sản phẩm và bối cảnh), chưa đọc phần trích dẫn lãnh đạo và giới thiệu công ty",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-21-bxd-gia-can-ho-giam",
+   "title": "Bộ Xây dựng: Giá căn hộ chung cư, đất nền có xu hướng giảm vào cuối năm",
+   "title_vi": "Bộ Xây dựng: giá căn hộ, đất nền có xu hướng giảm cuối năm; có dự án cao cấp ở mức 70–80 triệu/m²",
+   "source": {
+    "name": "VTV",
+    "kind": "báo trong nước"
+   },
+   "url": "https://vtv.vn/the-thao/bo-xay-dung-gia-can-ho-chung-cu-dat-nen-co-xu-huong-giam-vao-cuoi-nam-100261111151059364.htm",
+   "published": "2026-11-11T16:33:00+07:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "Báo cáo quý 3 của Bộ Xây dựng (qua VTV) cho thấy giá căn hộ chung cư và đất nền có xu hướng giảm vào cuối năm sau giai đoạn tăng nóng. Bài nêu ví dụ một số dự án cao cấp chào giá 70–80 triệu đồng/m², trong đó có Masteri Era Landmark.",
+   "why_it_matters": "Liên quan trực tiếp đến thị trường của Masterise; giá bán chững lại thường kéo theo áp lực tối ưu chi phí xây dựng và mua sắm.",
+   "tags": [
+    "bất động sản",
+    "giá căn hộ",
+    "Bộ Xây dựng",
+    "Masteri"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang vtv.vn (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-22-vars-3-kich-ban",
+   "title": "3 kịch bản cho thị trường bất động sản",
+   "title_vi": "VARS đưa 3 kịch bản cho BĐS: 9 tháng có 104.400 căn mới (+21,5%), hấp thụ quý 3 chỉ 39,3%",
+   "source": {
+    "name": "Thanh Niên",
+    "kind": "báo trong nước"
+   },
+   "url": "https://thanhnien.vn/3-kich-ban-cho-thi-truong-bat-dong-san-185261111183922301.htm",
+   "published": "2026-11-11T20:21:00+07:00",
+   "time_known": true,
+   "date_basis": "datePublished trong JSON-LD",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "Theo VARS (qua Thanh Niên), 9 tháng đầu năm thị trường có khoảng 104.400 sản phẩm mới, tăng 21,5%, và khoảng 55.000 giao dịch; riêng quý 3 có 12.520 giao dịch, tỷ lệ hấp thụ 39,3%. Lãi suất thả nổi đã lên 13–15%. Giá căn hộ bình quân quý 3: Hà Nội 79,3 triệu, TP.HCM 88,3 triệu, Đà Nẵng 68,9 triệu đồng/m². VARS đưa ra 3 kịch bản cho giai đoạn tới.",
+   "why_it_matters": "Hấp thụ dưới 40% và lãi vay cao báo hiệu chủ đầu tư sẽ giãn tiến độ, siết chi phí — ảnh hưởng kế hoạch đấu thầu năm sau.",
+   "tags": [
+    "VARS",
+    "bất động sản",
+    "lãi suất",
+    "hấp thụ"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang thanhnien.vn (curl)",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-23-can-tho-vanh-dai-doi-von",
+   "title": "Hai phó giám đốc Sở Xây dựng Cần Thơ bị cảnh cáo vì dự án đội vốn",
+   "title_vi": "Cần Thơ: đường vành đai phía Tây đội vốn từ 3.800 lên 6.400 tỷ đồng, hai phó giám đốc Sở Xây dựng bị cảnh cáo",
+   "source": {
+    "name": "VnExpress",
+    "kind": "báo trong nước"
+   },
+   "url": "https://vnexpress.net/hai-pho-giam-doc-so-xay-dung-can-tho-bi-canh-cao-vi-du-an-doi-von-5143333.html",
+   "published": "2026-11-11T14:21:43+07:00",
+   "time_known": true,
+   "date_basis": "datePublished trong JSON-LD",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "Dự án đường vành đai phía Tây TP Cần Thơ dài 19,3 km có tổng mức đầu tư tăng từ 3.800 tỷ lên 6.400 tỷ đồng, chi phí bồi thường tăng từ khoảng 1.000 tỷ lên khoảng 2.500 tỷ; tiến độ mới đạt 31%. Hai phó giám đốc Sở Xây dựng bị kỷ luật cảnh cáo. Từ khóa ‘cần thơ’ vào Google Trends VN sáng 12/11.",
+   "why_it_matters": "Bài học về dự toán bồi thường và kiểm soát tổng mức đầu tư — chi phí đất tăng gấp 2,5 lần là rủi ro dễ bị đánh giá thấp khi lập dự án.",
+   "tags": [
+    "Cần Thơ",
+    "đội vốn",
+    "đầu tư công",
+    "bồi thường"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang vnexpress.net (curl, sáng 12/11 UTC+7); lần kiểm link sau đó lỗi TLS từ máy chủ kiểm tra",
+   "accessed": "2026-11-12"
+  },
+  {
+   "id": "n-20261112-24-gia-thep-11-11",
+   "title": "Giá thép hôm nay 11/11/2026: giằng co nhẹ, quặng sắt nhập khẩu chạm đáy",
+   "title_vi": "Giá thép xây dựng 11/11 giữ 13.840–15.150 đồng/kg; Hòa Phát CB240 14.920 đồng/kg",
+   "source": {
+    "name": "Doanh nghiệp & Hội nhập",
+    "kind": "báo trong nước"
+   },
+   "url": "https://doanhnghiephoinhap.vn/gia-thep-hom-nay-11112026-giang-co-nhe-quang-sat-nhap-khau-cham-day-153904.html",
+   "published": "2026-11-11T09:00:27+07:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "Bảng giá ngày 11/11 cho thấy thép xây dựng trong nước dao động 13.840–15.150 đồng/kg, không đổi nhiều; thép cuộn CB240 của Hòa Phát 14.920 đồng/kg. Bài ghi nhận quặng sắt nhập khẩu giằng co quanh vùng đáy.",
+   "why_it_matters": "Giá thép ổn định trong khi nhựa đường, cát tăng — có thể ưu tiên chốt khối lượng thép sớm cho gói thầu kết cấu.",
+   "tags": [
+    "giá thép",
+    "Hòa Phát",
+    "quặng sắt"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "bảng giá tổng hợp",
+   "how_read": "mở trang Doanh nghiệp & Hội nhập (curl)",
+   "accessed": "2026-11-12",
+   "note": "Nguồn giá gốc (thitruongthep.net) chỉ tải bằng JS — chưa đối chiếu được."
+  }
+ ],
+ "unreachable": [
+  {
+   "source": "Supply Chain Dive / Construction Dive",
+   "status": "curl HTTP 403",
+   "impact": "Thiếu tin chuỗi cung ứng Mỹ từ nguồn này; dùng FreightWaves, Container News."
+  },
+  {
+   "source": "ENR (Trimble)",
+   "status": "curl HTTP 403",
+   "impact": "Không đưa tin ENR hôm nay."
+  },
+  {
+   "source": "Axios (tin AI tuần)",
+   "status": "curl HTTP 403",
+   "impact": "Dùng TechCrunch, blog hãng."
+  },
+  {
+   "source": "people.com.cn (bài thuê thay mua)",
+   "status": "HTTP 500",
+   "impact": "Dùng Thâm Quyến Thương báo (10jqka) cho xu hướng thuê."
+  },
+  {
+   "source": "Weibo 热搜",
+   "status": "HTTP 403",
+   "impact": "Từ khóa TQ chỉ lấy từ Baidu."
+  },
+  {
+   "source": "thitruongthep.net",
+   "status": "Chỉ khung JavaScript",
+   "impact": "Giá thép lấy từ Doanh nghiệp & Hội nhập, chưa đối chiếu nguồn gốc."
+  }
+ ]
+}
