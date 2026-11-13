@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-12",
-  "latest": "2026-11-12",
+  "updated": "2026-11-13",
+  "latest": "2026-11-13",
   "days": [
+    {
+      "date": "2026-11-13",
+      "file": "2026-11-13.json",
+      "headline": "Nói thật cũng bán được hàng: ông chú khăn quàng Seoul ‘cháy hàng’, tiệm xếp hạt 9,9 tệ/giờ, nhãn AI thành bắt buộc — 8 ý tưởng nhỏ cho người trẻ Việt",
+      "idea_count": 8,
+      "trend_count": 6,
+      "keyword_count": 46,
+      "top": {
+        "title": "“Sạp chọn hộ” — chủ sạp nói thật, khách đưa tiền, chủ sạp tự chọn túi đồ ngẫu nhiên",
+        "total_score": 6.82
+      }
+    },
     {
       "date": "2026-11-12",
       "file": "2026-11-12.json",

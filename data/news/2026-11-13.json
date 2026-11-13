@@ -1,0 +1,906 @@
+{
+ "date": "2026-11-13",
+ "generated_at": "2026-11-13T07:22:00+07:00",
+ "headline": "Jensen Huang rời Nvidia; Gemini 4 Hydrogen giá rẻ; AI soát hồ sơ thầu và tạo BIM từ phác thảo; Tôn Đông Á lên sàn, TP HCM thiếu thợ",
+ "digest": [
+  {
+   "title": "Nvidia đổi CEO giữa sóng gió",
+   "text": "Jensen Huang từ chức, CFO Colette Kress làm CEO tạm thời; cổ phiếu mất tới 19% trong một tuần. Fed cảnh báo nguy cơ điều chỉnh lớn trước IPO Anthropic.",
+   "item_ids": [
+    "n-20261113-01-nvidia-ceo-transition",
+    "n-20261113-02-techcrunch-huang-resigns",
+    "n-20261113-08-semafor-anthropic-ipo-fed"
+   ]
+  },
+  {
+   "title": "Mô hình AI rẻ hơn, nhưng hạ tầng đắt lên",
+   "text": "Gemini 4 Hydrogen giá 1,5/7,5 USD mỗi triệu token, Decisions API chỉ 0,1 USD; trong khi CoreWeave tăng giá thuê GPU và United chặn tác tử AI tự đặt vé.",
+   "item_ids": [
+    "n-20261113-03-gemini-4-hydrogen",
+    "n-20261113-04-gemini-decisions-api",
+    "n-20261113-06-coreweave-prepayments",
+    "n-20261113-07-united-blocks-ai-agents"
+   ]
+  },
+  {
+   "title": "AI soát hồ sơ thầu và bản vẽ",
+   "text": "Provision tìm hơn 100 mâu thuẫn bản vẽ–chỉ dẫn trong 1 giờ; KIWARI tạo BIM từ phác thảo; AimeCADCAM khôi phục CAD từ PDF; Claude Opus 5.5 đứng đầu bảng AI xây dựng.",
+   "item_ids": [
+    "n-20261113-09-provision-rfi-agent",
+    "n-20261113-14-acimus-kiwari-bim",
+    "n-20261113-15-aimecadcam",
+    "n-20261113-17-onestruction-ai-leaderboard"
+   ]
+  },
+  {
+   "title": "AI ra công trường ở Hàn, TQ, Nhật",
+   "text": "Hàn dành 58,5 tỷ won cho AI vật lý trong xây dựng, GS E&C thử robot vận chuyển; CSCEC kiểm tra chất lượng bằng drone + AI ở 500 dự án; SpaceData mô phỏng robot cùng cần cẩu.",
+   "item_ids": [
+    "n-20261113-11-molit-physical-ai-coax",
+    "n-20261113-12-daedong-rt100-gs",
+    "n-20261113-16-spacedata-crane-sim",
+    "n-20261113-18-cscec-zhongyou-yunjian"
+   ]
+  },
+  {
+   "title": "Vật liệu, nhân công và nhà thầu TQ",
+   "text": "Cước WCI giảm 2% còn 4.305 USD/FEU; Tôn Đông Á lên sàn với kế hoạch nhà máy 1,2 triệu tấn/năm; TP HCM thiếu thợ dù lương tới 20 triệu; PowerChina, CCCC muốn mở rộng tại VN.",
+   "item_ids": [
+    "n-20261113-20-drewry-wci-1211",
+    "n-20261113-23-ton-dong-a-hose",
+    "n-20261113-25-chinca-vacc",
+    "n-20261113-26-tphcm-thieu-cong-nhan"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "n-20261113-01-nvidia-ceo-transition",
+   "title": "NVIDIA Announces CEO Transition",
+   "title_vi": "Jensen Huang từ chức CEO Nvidia; giám đốc tài chính Colette Kress làm CEO tạm thời",
+   "source": {
+    "name": "NVIDIA Newsroom",
+    "kind": "thông cáo hãng"
+   },
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+   "published": "2026-11-12",
+   "time_known": false,
+   "date_basis": "ngày trên trang thông cáo (không có giờ)",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Nvidia thông báo Jensen Huang từ chức, hội đồng quản trị chấp thuận ngày 11/11; CFO Colette Kress làm CEO tạm thời và Harvey C. Jones lần đầu giữ ghế chủ tịch HĐQT. Theo TechCrunch, cổ phiếu giảm khoảng 12% đầu phiên thứ Năm và tới 19% kể từ thứ Sáu trước, mất hơn 855 tỷ USD vốn hóa; bối cảnh là vụ việc liên quan quan hệ của ông với một người bị cáo buộc là điệp viên TQ.",
+   "why_it_matters": "Nhà cung cấp chip AI lớn nhất thay lãnh đạo đột ngột — có thể ảnh hưởng tâm lý thị trường AI, giá GPU và kế hoạch đầu tư hạ tầng AI.",
+   "tags": [
+    "Nvidia",
+    "Jensen Huang",
+    "Colette Kress",
+    "CEO"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang nvidianews.nvidia.com (curl) và đối chiếu TechCrunch 12/11",
+   "accessed": "2026-11-13",
+   "note": "Diễn biến điều tra và giá cổ phiếu ngày 10–11/11 đã đưa ở các ngày trước; tin hôm nay là việc từ chức chính thức."
+  },
+  {
+   "id": "n-20261113-02-techcrunch-huang-resigns",
+   "title": "Nvidia's Jensen Huang resigns; chipmaker names CFO Colette Kress as interim CEO",
+   "title_vi": "TechCrunch: Huang từ chức, cổ phiếu Nvidia mất tới 19% trong một tuần",
+   "source": {
+    "name": "TechCrunch",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+   "published": "2026-11-12T14:10:00Z",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "TechCrunch đưa tin Huang từ chức và Kress làm CEO tạm thời, tách vai trò chủ tịch HĐQT. Bài ghi cổ phiếu giảm khoảng 12% đầu phiên thứ Năm, giảm tới 19% từ thứ Sáu tuần trước, tương đương mất hơn 855 tỷ USD vốn hóa.",
+   "why_it_matters": "Nguồn độc lập xác nhận thông cáo của Nvidia và cho thấy quy mô phản ứng của thị trường.",
+   "tags": [
+    "Nvidia",
+    "cổ phiếu",
+    "AI"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang techcrunch.com (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-03-gemini-4-hydrogen",
+   "title": "Introducing Gemini 4 Hydrogen",
+   "title_vi": "Google ra Gemini 4 Hydrogen: 1,5/7,5 USD mỗi triệu token, ngữ cảnh 1 triệu token",
+   "source": {
+    "name": "Google (The Keyword)",
+    "kind": "blog nhà cung cấp"
+   },
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "published": "2026-11-12T18:00:00Z",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Google giới thiệu Gemini 4 Hydrogen với giá 1,5 USD/7,5 USD mỗi triệu token đầu vào/đầu ra và ngữ cảnh 1 triệu token. Theo Google, mô hình đạt 51 điểm trên chỉ số Artificial Analysis, nhanh hơn 2,5 lần Gemini 3.8 Flash và làm bộ điều phối trong Antigravity; Terminal-Bench 4.1 đạt 57% so với 18,2% của bản trước.",
+   "why_it_matters": "Mô hình mạnh giá thấp giúp doanh nghiệp nhỏ chạy tác tử AI rẻ hơn — số liệu do Google tự công bố.",
+   "tags": [
+    "Gemini",
+    "Google",
+    "mô hình AI",
+    "giá token"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang blog.google (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-04-gemini-decisions-api",
+   "title": "Gemini Decisions API",
+   "title_vi": "Google ra Gemini Decisions API: trả lời tới 1.000 câu hỏi có/không mỗi yêu cầu, 0,1 USD mỗi triệu token đầu vào",
+   "source": {
+    "name": "Google (The Keyword)",
+    "kind": "blog nhà cung cấp"
+   },
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "published": "2026-11-11T18:00:00Z",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Mô hình gemini-decision-1 xử lý tới 1.000 câu hỏi trong một yêu cầu với ngữ cảnh 256K token, độ trễ 150–250 ms. Giá 0,10 USD mỗi triệu token đầu vào và không tính token đầu ra; Google nói rẻ hơn gần 5 lần so với Gemini 3.5 Flash-Lite.",
+   "why_it_matters": "Phù hợp cho phân loại hàng loạt (ví dụ duyệt hồ sơ, gắn nhãn sản phẩm) với chi phí rất thấp.",
+   "tags": [
+    "Gemini",
+    "API",
+    "phân loại",
+    "giá rẻ"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang blog.google (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-05-openai-india-inference",
+   "title": "OpenAI now allows enterprises to process AI requests within India",
+   "title_vi": "OpenAI cho doanh nghiệp xử lý yêu cầu AI ngay trong lãnh thổ Ấn Độ",
+   "source": {
+    "name": "The Hindu",
+    "kind": "báo quốc tế"
+   },
+   "url": "https://www.thehindu.com/business/openai-now-allows-enterprises-to-process-ai-requests-within-india/article71692799.ece",
+   "published": "2026-11-12T14:59:00+05:30",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "Global",
+   "summary_vi": "OpenAI mở xử lý suy luận API tại Ấn Độ cho khách doanh nghiệp, bắt đầu với GPT-6 Luna. Bài cho biết Úc và Nhật cũng nằm trong các thị trường mới nhất có tùy chọn này.",
+   "why_it_matters": "Xu hướng ‘dữ liệu ở trong nước’ cho AI — doanh nghiệp VN có thể dùng làm tham chiếu khi yêu cầu nhà cung cấp về nơi xử lý dữ liệu.",
+   "tags": [
+    "OpenAI",
+    "chủ quyền dữ liệu",
+    "Ấn Độ"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang thehindu.com (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-06-coreweave-prepayments",
+   "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+   "title_vi": "CoreWeave dựa vào tiền khách trả trước để tài trợ tăng trưởng; lỗ ròng 709 triệu USD",
+   "source": {
+    "name": "TechCrunch",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "published": "2026-11-11T19:54:00Z",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "CoreWeave báo doanh thu quý 3,66 tỷ USD (tăng 168%) nhưng lỗ ròng 709 triệu USD, chi phí lãi vay 846 triệu USD. Công ty nhận khoảng 9 tỷ USD tiền trả trước trong 3 tháng, lượng hợp đồng chờ thực hiện 132,5 tỷ USD và đã tăng giá khoảng 25% hồi tháng 7, sau đó thêm 10%.",
+   "why_it_matters": "Giá thuê GPU đang tăng — chi phí AI cho doanh nghiệp có thể không giảm đều như kỳ vọng.",
+   "tags": [
+    "CoreWeave",
+    "GPU",
+    "hạ tầng AI",
+    "tài chính"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang techcrunch.com (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-07-united-blocks-ai-agents",
+   "title": "United blocks unauthorized AI agents",
+   "title_vi": "United Airlines chặn tác tử AI tự đặt vé; eBay và ngân hàng cũng hạn chế",
+   "source": {
+    "name": "The Verge",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+   "published": "2026-11-11T21:54:00Z",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "United Airlines không cho trợ lý AI cá nhân hoàn tất đặt vé thay khách, viện dẫn lo ngại về quyền riêng tư và quy định; tác tử vẫn có thể hiển thị chuyến bay. Bài cho biết eBay và một số ngân hàng cũng đang giới hạn tác tử AI thao tác thay người dùng.",
+   "why_it_matters": "Các nền tảng bắt đầu dựng ‘rào’ với tác tử AI — ý tưởng dùng AI tự đặt hàng/mua sắm cần tính tới điều khoản nền tảng.",
+   "tags": [
+    "tác tử AI",
+    "United",
+    "eBay",
+    "chính sách nền tảng"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang theverge.com (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-08-semafor-anthropic-ipo-fed",
+   "title": "Anthropic IPO could lead to large correction in markets, Fed official says",
+   "title_vi": "Thống đốc Fed Bowman cảnh báo nguy cơ ‘điều chỉnh lớn’ quanh IPO Anthropic",
+   "source": {
+    "name": "Semafor",
+    "kind": "báo quốc tế"
+   },
+   "url": "https://www.semafor.com/article/11/11/2026/anthropic-ipo-could-lead-to-large-correction-in-markets-fed-official-says",
+   "published": "2026-11-11T12:52:00Z",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Thống đốc Fed Michelle Bowman cảnh báo thị trường có thể ‘điều chỉnh lớn’, nêu khoảng 800 tỷ USD nợ liên quan AI. Theo Semafor, IPO của Anthropic định giá ngày 18/11 và giao dịch ngày hôm sau.",
+   "why_it_matters": "Rủi ro bong bóng AI được cơ quan tiền tệ Mỹ nhắc công khai — đáng theo dõi với nhà đầu tư cá nhân.",
+   "tags": [
+    "Anthropic",
+    "IPO",
+    "Fed",
+    "bong bóng AI"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang semafor.com (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-09-provision-rfi-agent",
+   "title": "RFI Agent Is Now Available",
+   "title_vi": "Provision ra ‘RFI Agent’: AI đối chiếu bản vẽ với chỉ dẫn kỹ thuật, tìm hơn 100 điểm mâu thuẫn trong 1 giờ trước khi chào giá",
+   "source": {
+    "name": "Provision",
+    "kind": "blog nhà cung cấp"
+   },
+   "url": "https://provision.com/announcements/provision-launches-rfi-agent",
+   "published": "2026-11-09",
+   "time_known": false,
+   "date_basis": "datePublished (JSON-LD, chỉ ngày)",
+   "topic": "ai_xd",
+   "region": "US",
+   "summary_vi": "RFI Agent đọc chéo bản vẽ và chỉ dẫn kỹ thuật trong bộ hồ sơ thầu, nêu chỗ mâu thuẫn, thiếu hoặc mơ hồ và gắn từng phát hiện với trang/chi tiết gốc. Hãng nói công cụ nêu hơn 100 vấn đề tiềm ẩn trong một giờ; ví dụ bản vẽ ghi cách nhiệt 1200 mm trong khi chỉ dẫn ghi 600 mm.",
+   "why_it_matters": "Đúng việc của tổ đấu thầu: soát hồ sơ mời thầu để đặt câu hỏi làm rõ (RFI) trước khi chốt giá — giảm rủi ro phát sinh.",
+   "tags": [
+    "RFI",
+    "hồ sơ thầu",
+    "dự toán",
+    "đối chiếu bản vẽ"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang provision.com (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-10-pathways-epd-ai",
+   "title": "How AI Helps Construction Suppliers Sell More with EPD Automation: Meet Pathways",
+   "title_vi": "Pathways gọi vốn 6 triệu USD cho tác tử AI lập tuyên bố môi trường sản phẩm (EPD) cho nhà cung cấp vật liệu",
+   "source": {
+    "name": "Sorenson Capital",
+    "kind": "blog nhà đầu tư"
+   },
+   "url": "https://www.sorensoncapital.com/how-ai-helps-construction-suppliers-sell-more-with-epd-automation-meet-pathways/",
+   "published": "2026-11-10T20:23:00Z",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_xd",
+   "region": "US",
+   "summary_vi": "Quỹ Sorenson Capital giới thiệu Pathways, startup dùng tác tử AI tạo EPD cho nhà cung cấp vật liệu xây dựng, vòng hạt giống 6 triệu USD có Heidelberg Materials tham gia. Bài nêu EPD làm thủ công tốn 15.000–75.000 USD và 6–12 tháng.",
+   "why_it_matters": "EPD ngày càng là điều kiện trong hồ sơ thầu xanh; AI có thể giúp nhà cung cấp VN đáp ứng nhanh hơn.",
+   "tags": [
+    "EPD",
+    "vật liệu",
+    "phát thải",
+    "startup"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang sorensoncapital.com (curl)",
+   "accessed": "2026-11-13",
+   "note": "Bài của chính nhà đầu tư — có lợi ích liên quan."
+  },
+  {
+   "id": "n-20261113-11-molit-physical-ai-coax",
+   "title": "국토부 피지컬 AI 사업 (CO.AX) 2027 예산",
+   "title_vi": "Bộ Đất đai Hàn dành 58,5 tỷ won ngân sách 2027 cho dự án AI vật lý trong xây dựng (CO.AX)",
+   "source": {
+    "name": "대한경제 (Dnews)",
+    "kind": "báo ngành xây dựng"
+   },
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111035057430543",
+   "published": "2026-11-12T06:00:00+09:00",
+   "time_known": true,
+   "date_basis": "giờ đăng trên trang bài",
+   "topic": "ai_xd",
+   "region": "KR",
+   "summary_vi": "Theo 대한경제, Bộ Đất đai, Hạ tầng và Giao thông Hàn Quốc dành 58,5 tỷ won trong ngân sách 2027 (21 tỷ + 37,5 tỷ) cho dự án AI vật lý trong xây dựng mang tên CO.AX. Khảo sát nhu cầu với doanh nghiệp đóng vào ngày 16.",
+   "why_it_matters": "Hàn Quốc dùng ngân sách nhà nước kéo robot/AI vào công trường — mô hình chính sách để tham khảo.",
+   "tags": [
+    "Hàn Quốc",
+    "AI vật lý",
+    "robot",
+    "ngân sách"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "văn bản/sự kiện cơ quan nhà nước",
+   "how_read": "mở trang dnews.co.kr (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-12-daedong-rt100-gs",
+   "title": "대동로보틱스 RT100 GS건설 현장 실증",
+   "title_vi": "Daedong Robotics thử robot vận chuyển RT100 tại công trường chung cư của GS E&C",
+   "source": {
+    "name": "전자신문 (etnews)",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://www.etnews.com/20261112000147",
+   "published": "2026-11-12T10:45:00+09:00",
+   "time_known": true,
+   "date_basis": "giờ đăng trên trang bài",
+   "topic": "ai_xd",
+   "region": "KR",
+   "summary_vi": "Daedong Robotics thử nghiệm (PoC) robot RT100 tại một công trường chung cư của GS E&C từ 7 đến 30/10. RT100 vốn là robot tự hành chở hàng nặng cho nông nghiệp, được dùng chở vật tư cho các tổ xây, trát, cơ điện và hoàn thiện; kết quả cho thấy chạy ổn định trên nền gồ ghề.",
+   "why_it_matters": "Robot vận chuyển vật tư là bước đầu tự động hóa hậu cần công trường — đáng theo dõi cho nhà thầu VN.",
+   "tags": [
+    "robot",
+    "GS E&C",
+    "công trường",
+    "hậu cần"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang etnews.com (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-13-bs-hanyang-b-on",
+   "title": "BS한양 AI 에이전트 'B-ON'",
+   "title_vi": "BS Hanyang dựng trợ lý AI ‘B-ON’ trên Microsoft Copilot cho nhân viên xây dựng",
+   "source": {
+    "name": "아주경제 (Ajunews)",
+    "kind": "báo kinh tế"
+   },
+   "url": "https://www.ajunews.com/view/20261108094911153",
+   "published": "2026-11-10T07:50:00+09:00",
+   "time_known": true,
+   "date_basis": "giờ đăng trên trang bài",
+   "topic": "ai_xd",
+   "region": "KR",
+   "summary_vi": "Nhà thầu BS Hanyang triển khai tác tử AI ‘B-ON’ dựa trên Microsoft Copilot cho công việc nội bộ. Bài nêu doanh thu nửa đầu năm của công ty 758,9 tỷ won, tăng 52,5%.",
+   "why_it_matters": "Nhà thầu tầm trung cũng xây trợ lý AI nội bộ trên nền tảng có sẵn — chi phí thấp, triển khai nhanh.",
+   "tags": [
+    "Copilot",
+    "tác tử AI",
+    "nhà thầu"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang ajunews.com (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-14-acimus-kiwari-bim",
+   "title": "【BIM自動生成AI「KIWARI」】…ChatBIM「ACIMUS」の新機能としてリリース",
+   "title_vi": "ACIMUS ra ‘KIWARI’: tạo mô hình BIM từ bản vẽ 2D, phác thảo tay hoặc ảnh, đề xuất cả tuyến ống",
+   "source": {
+    "name": "PR TIMES (ACIMUS)",
+    "kind": "thông cáo báo chí"
+   },
+   "url": "https://prtimes.jp/main/html/rd/p/000000023.000152114.html",
+   "published": "2026-11-12T10:10:00+09:00",
+   "time_known": true,
+   "date_basis": "datePublished (JSON-LD) trên trang bài",
+   "topic": "ai_xd",
+   "region": "JP",
+   "summary_vi": "KIWARI đọc bản vẽ 2D, phác thảo tay, mặt bằng thô hoặc ảnh công trình và tạo mô hình BIM chỉnh sửa được với cột, dầm, tường, cửa, thiết bị. Công cụ đề xuất tuyến ống cấp, nước nóng và thoát nước, xuất IFC và DXF; quyết định cuối cùng vẫn do kiến trúc sư có chứng chỉ.",
+   "why_it_matters": "Rút ngắn bước dựng mô hình BIM ban đầu — giúp bóc khối lượng sớm ở giai đoạn ý tưởng.",
+   "tags": [
+    "BIM",
+    "AI tạo sinh",
+    "Nhật Bản",
+    "bản vẽ"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang prtimes.jp (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-15-aimecadcam",
+   "title": "建築図面の解析・CADデータ復元・見積もり業務をAIで支援「AimeCADCAM」",
+   "title_vi": "AimeCADCAM: AI đọc bản vẽ, khôi phục dữ liệu CAD từ PDF/ảnh quét và hỗ trợ lập dự toán",
+   "source": {
+    "name": "PR TIMES (Aimesoft Japan)",
+    "kind": "thông cáo báo chí"
+   },
+   "url": "https://prtimes.jp/main/html/rd/p/000000020.000060211.html",
+   "published": "2026-11-12T11:00:00+09:00",
+   "time_known": true,
+   "date_basis": "datePublished (JSON-LD) trên trang bài",
+   "topic": "ai_xd",
+   "region": "JP",
+   "summary_vi": "Aimesoft Japan giới thiệu AimeCADCAM dùng AI đa phương thức phân tích bản vẽ và tệp CAD, trích thông tin, khôi phục dữ liệu CAD từ PDF hoặc ảnh quét. Công cụ hỗ trợ lập dự toán và đã có một số khách hàng sử dụng.",
+   "why_it_matters": "Số hóa kho bản vẽ cũ dạng PDF để tái sử dụng và bóc khối lượng — nhu cầu phổ biến ở chủ đầu tư VN.",
+   "tags": [
+    "CAD",
+    "dự toán",
+    "số hóa bản vẽ"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang prtimes.jp (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-16-spacedata-crane-sim",
+   "title": "スペースデータ 八王子JCT クレーン作業シミュレーション",
+   "title_vi": "SpaceData mô phỏng công trường nút giao Hachioji: 10 công nhân, 14 robot và 4 cần cẩu cùng làm việc",
+   "source": {
+    "name": "PR TIMES (SpaceData)",
+    "kind": "thông cáo báo chí"
+   },
+   "url": "https://prtimes.jp/main/html/rd/p/000000275.000080352.html",
+   "published": "2026-11-12T14:59:00+09:00",
+   "time_known": true,
+   "date_basis": "datePublished (JSON-LD) trên trang bài",
+   "topic": "ai_xd",
+   "region": "JP",
+   "summary_vi": "SpaceData công bố mô phỏng thi công dùng cần cẩu tại nút giao Hachioji với 10 công nhân, 14 robot (10 robot hai chân, 4 robot vận chuyển), 4 cần cẩu và 6 xe. Trong mô phỏng, robot dự đoán chuyển động của xe trước 2,5 giây để tránh va chạm.",
+   "why_it_matters": "Bản sao số công trường giúp thử phương án an toàn trước khi thi công thật.",
+   "tags": [
+    "mô phỏng",
+    "robot",
+    "an toàn",
+    "bản sao số"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang prtimes.jp (curl)",
+   "accessed": "2026-11-13",
+   "note": "Khác sự kiện mô phỏng đường bộ của SpaceData đã đưa ngày 12/11."
+  },
+  {
+   "id": "n-20261113-17-onestruction-ai-leaderboard",
+   "title": "建設AIリーダーボード (ONESTRUCTION)",
+   "title_vi": "Bảng xếp hạng AI xây dựng của ONESTRUCTION: Claude Opus 5.5 đứng đầu với 73,7 điểm",
+   "source": {
+    "name": "BIMedia",
+    "kind": "báo ngành"
+   },
+   "url": "https://bi-media.jp/6140/",
+   "published": "2026-11-12",
+   "time_known": false,
+   "date_basis": "ngày trên trang bài",
+   "topic": "ai_xd",
+   "region": "JP",
+   "summary_vi": "Theo BIMedia, bảng xếp hạng AI cho tác vụ xây dựng của ONESTRUCTION xếp Claude Opus 5.5 hạng 1 với 73,7 điểm. So với Opus 5, chi phí mỗi tác vụ giảm từ 1,8 xuống 0,33 USD và thời gian từ 5,0 xuống 1,7 phút.",
+   "why_it_matters": "Có bảng đo riêng cho tác vụ xây dựng giúp chọn mô hình AI dựa trên số liệu thay vì quảng cáo.",
+   "tags": [
+    "benchmark",
+    "Claude",
+    "BIM",
+    "xây dựng"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "khảo sát/báo cáo",
+   "how_read": "mở trang bi-media.jp (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-18-cscec-zhongyou-yunjian",
+   "title": "中建 中优云检 无人机+AI 质量检测",
+   "title_vi": "CSCEC dùng drone + mô hình 3D + AI phát hiện khuyết tật, áp dụng ở 500 dự án",
+   "source": {
+    "name": "同花顺 (10jqka)",
+    "kind": "báo tài chính"
+   },
+   "url": "https://field.10jqka.com.cn/20261110/c681672379.shtml",
+   "published": "2026-11-10T20:10:00+08:00",
+   "time_known": true,
+   "date_basis": "giờ đăng trên trang bài",
+   "topic": "ai_xd",
+   "region": "CN",
+   "summary_vi": "Nền tảng ‘中优云检’ của CSCEC kết hợp drone, mô hình 3D và AI để phát hiện khuyết tật chất lượng công trình. Bài cho biết nền tảng đã dùng ở 500 dự án, độ chính xác 95% và hiệu suất kiểm tra tăng 7 lần.",
+   "why_it_matters": "Kiểm tra chất lượng bằng drone + AI là ứng dụng thực tế, quy mô lớn — có thể yêu cầu nhà thầu áp dụng.",
+   "tags": [
+    "CSCEC",
+    "drone",
+    "kiểm tra chất lượng",
+    "Trung Quốc"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang 10jqka.com.cn (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-19-cscec-ai-contest",
+   "title": "中建 AI 创新大赛",
+   "title_vi": "Cuộc thi AI của CSCEC: 154 bài dự thi; nền tảng thẩm định biện pháp thi công của Cục 8 dùng ở hơn 200 dự án",
+   "source": {
+    "name": "金谷讯",
+    "kind": "báo kinh tế"
+   },
+   "url": "https://www.jinguxun.com/article/news/11054772",
+   "published": "2026-11-09T19:09:00+08:00",
+   "time_known": true,
+   "date_basis": "giờ đăng trên trang bài",
+   "topic": "ai_xd",
+   "region": "CN",
+   "summary_vi": "Cuộc thi ứng dụng AI của CSCEC nhận 154 bài dự thi. Nền tảng thẩm định biện pháp thi công của 中建八局 đã dùng cho hơn 200 dự án, hơn 4.000 phương án, phát hiện hơn 30.000 vấn đề, tăng hiệu suất 50%; AI soát hóa đơn xử lý 1,38 triệu hóa đơn với tỉ lệ chặn lỗi 98%.",
+   "why_it_matters": "AI soát hóa đơn và biện pháp thi công — gần với nghiệp vụ mua hàng và kiểm soát hồ sơ của nhà thầu.",
+   "tags": [
+    "CSCEC",
+    "biện pháp thi công",
+    "hóa đơn",
+    "AI"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang jinguxun.com (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-20-drewry-wci-1211",
+   "title": "World Container Index — 12 Nov",
+   "title_vi": "Drewry WCI 12/11: cước container giảm 2% còn 4.305 USD/FEU",
+   "source": {
+    "name": "Drewry",
+    "kind": "báo cáo ngành"
+   },
+   "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+   "published": "2026-11-12T14:40:00Z",
+   "time_known": true,
+   "date_basis": "giờ cập nhật trên trang chỉ số",
+   "topic": "chuoi_cung_ung",
+   "region": "Global",
+   "summary_vi": "Chỉ số WCI giảm 2% xuống 4.305 USD/container 40 feet. Thượng Hải–New York giảm 3% còn 9.020 USD, Thượng Hải–Los Angeles giảm 2% còn 7.416 USD, Thượng Hải–Rotterdam giảm 3% còn 3.504 USD, Thượng Hải–Genoa giữ 4.168 USD; tuần tới có 8 chuyến bị hủy và cảng Thượng Hải ùn khoảng 49 giờ.",
+   "why_it_matters": "Cước tuyến Á–Âu thấp hơn nhiều tuyến Mỹ — tham chiếu khi tính chi phí nhập vật tư từ TQ.",
+   "tags": [
+    "cước container",
+    "Drewry",
+    "WCI"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "bảng giá tổng hợp",
+   "how_read": "mở trang drewry.co.uk (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-21-hapag-lloyd-q3",
+   "title": "Hapag-Lloyd profit jumps as stronger freight rates drive guidance upgrade",
+   "title_vi": "Hapag-Lloyd lãi quý 3 đạt 999 triệu USD, nâng dự báo EBITDA 2026",
+   "source": {
+    "name": "FreightWaves",
+    "kind": "báo ngành"
+   },
+   "url": "https://www.freightwaves.com/news/hapag-lloyd-profit-jumps-as-stronger-freight-rates-drive-guidance-upgrade",
+   "published": "2026-11-12T18:47:00Z",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "chuoi_cung_ung",
+   "region": "EU",
+   "summary_vi": "Hapag-Lloyd báo lợi nhuận quý 3 là 999 triệu USD so với 172 triệu USD cùng kỳ. Hãng nâng dự báo EBITDA 2026 lên 4,6–5,0 tỷ USD; cước bình quân 1.808 USD/TEU.",
+   "why_it_matters": "Hãng tàu lãi lớn nhờ cước cao — ít khả năng cước giảm sâu trong ngắn hạn.",
+   "tags": [
+    "Hapag-Lloyd",
+    "hãng tàu",
+    "cước"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang freightwaves.com (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-22-fura-ai-booking",
+   "title": "Fura Freight: Next year our AI agent will book 90% of loads",
+   "title_vi": "Fura Freight: tác tử AI ‘Donna’ đang đặt hơn 40% chuyến hàng, mục tiêu 90%",
+   "source": {
+    "name": "FreightWaves",
+    "kind": "báo ngành"
+   },
+   "url": "https://www.freightwaves.com/news/fura-freight-next-year-our-ai-agent-will-book-90-of-loads",
+   "published": "2026-11-11T19:37:00Z",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "chuoi_cung_ung",
+   "region": "US",
+   "summary_vi": "Công ty môi giới vận tải Fura Freight cho biết tác tử AI ‘Donna’ đang xử lý hơn 40% lượt đặt chuyến. Mục tiêu năm tới là để AI đặt 90% chuyến hàng.",
+   "why_it_matters": "Tác tử AI bắt đầu thay khâu đặt xe/điều phối — mô hình có thể áp dụng cho logistics vật tư.",
+   "tags": [
+    "tác tử AI",
+    "vận tải",
+    "điều phối"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang freightwaves.com (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-23-ton-dong-a-hose",
+   "title": "Tôn Đông Á chính thức lên HOSE, hé lộ kế hoạch đầu tư 3.500 tỷ đồng xây nhà máy 1,2 triệu tấn/năm",
+   "title_vi": "Tôn Đông Á lên sàn HOSE, kế hoạch nhà máy 1,2 triệu tấn/năm",
+   "source": {
+    "name": "CafeF",
+    "kind": "báo trong nước"
+   },
+   "url": "https://cafef.vn/ton-dong-a-chinh-thuc-len-hose-he-lo-ke-hoach-dau-tu-3500-ty-dong-xay-nha-may-12-trieu-tan-nam-188261112110848402.chn",
+   "published": "2026-11-12T11:34:00+07:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "chuoi_cung_ung",
+   "region": "VN",
+   "summary_vi": "Hơn 149 triệu cổ phiếu GDA của Tôn Đông Á lên HOSE, phiên đầu mở cửa 12.600 đồng so với giá tham chiếu 12.000 đồng. Công suất hiện khoảng 800.000 tấn/năm; nhà máy số 4 thiết kế 1,2 triệu tấn/năm với vốn 3.000–3.500 tỷ đồng giai đoạn 2026–2030.",
+   "why_it_matters": "Nguồn cung tôn mạ trong nước tăng — thêm lựa chọn và sức ép giá cho gói thầu mái/vách.",
+   "tags": [
+    "Tôn Đông Á",
+    "tôn mạ",
+    "HOSE",
+    "vật liệu"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang cafef.vn (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-24-vkaiss-8-mou",
+   "title": "8 thỏa thuận mở rộng hợp tác công nghệ, chuỗi cung ứng AI và bán dẫn Việt Nam – Hàn Quốc",
+   "title_vi": "Việt–Hàn ký 8 thỏa thuận về AI và bán dẫn tại VKAISS 2026",
+   "source": {
+    "name": "VnEconomy",
+    "kind": "báo trong nước"
+   },
+   "url": "https://vneconomy.vn/8-thoa-thuan-mo-rong-hop-tac-cong-nghe-chuoi-cung-ung-ai-va-ban-dan-viet-nam-han-quoc.htm",
+   "published": "2026-11-12T21:27:00+07:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "chuoi_cung_ung",
+   "region": "VN",
+   "summary_vi": "Tại sự kiện VKAISS 2026, doanh nghiệp hai nước ký 8 biên bản ghi nhớ về AI và bán dẫn. Trong đó có hợp tác giữa FPT và HANA Micron.",
+   "why_it_matters": "Chuỗi cung ứng bán dẫn Hàn dịch chuyển sang VN — kéo theo nhu cầu nhà xưởng, khu công nghiệp.",
+   "tags": [
+    "Việt–Hàn",
+    "bán dẫn",
+    "AI",
+    "FPT"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang vneconomy.vn (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-25-chinca-vacc",
+   "title": "Loạt 'ông lớn' xây dựng Trung Quốc muốn tăng đầu tư tại Việt Nam",
+   "title_vi": "PowerChina, CCCC muốn tăng đầu tư hạ tầng tại VN",
+   "source": {
+    "name": "VnExpress",
+    "kind": "báo trong nước"
+   },
+   "url": "https://vnexpress.net/loat-ong-lon-xay-dung-trung-quoc-muon-tang-dau-tu-tai-viet-nam-5144057.html",
+   "published": "2026-11-13T03:49:00+07:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "Chiều 12/11, Hiệp hội các nhà thầu xây dựng VN (VACC) làm việc với Hiệp hội nhà thầu quốc tế TQ (CHINCA). PowerChina, đã tham gia hơn 70 dự án tại VN với tổng giá trị hợp đồng khoảng 9 tỷ USD, muốn mở rộng hợp tác năng lượng và hạ tầng; CCCC đề xuất tham gia đường sắt Lào Cai – Hà Nội – Hải Phòng và cảng biển.",
+   "why_it_matters": "Nhà thầu TQ quay lại mạnh các gói hạ tầng — cạnh tranh và cơ hội liên danh cho nhà thầu VN.",
+   "tags": [
+    "nhà thầu Trung Quốc",
+    "PowerChina",
+    "CCCC",
+    "hạ tầng"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang vnexpress.net (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-26-tphcm-thieu-cong-nhan",
+   "title": "TP.HCM thiếu công nhân xây dựng dù thu nhập lên tới 20 triệu đồng/tháng",
+   "title_vi": "TP HCM cần 45.000–50.000 lao động cuối năm, ngành xây dựng thiếu thợ dù lương tới 20 triệu",
+   "source": {
+    "name": "CafeF",
+    "kind": "báo trong nước"
+   },
+   "url": "https://cafef.vn/tphcm-thieu-cong-nhan-xay-dung-du-thu-nhap-len-toi-20-trieu-dong-thang-188261112193910212.chn",
+   "published": "2026-11-12T20:16:00+07:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "TP HCM cần khoảng 45.000–50.000 lao động dịp cuối năm, trong đó ngành xây dựng thiếu thợ. Thu nhập lao động phổ thông 8–10 triệu đồng/tháng, thợ có tay nghề 12–20 triệu đồng/tháng.",
+   "why_it_matters": "Chi phí nhân công tăng và thiếu thợ — ảnh hưởng tiến độ và đơn giá nhân công trong dự toán.",
+   "tags": [
+    "lao động",
+    "TP HCM",
+    "nhân công",
+    "xây dựng"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang cafef.vn (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-27-nha-vua-tui",
+   "title": "Doanh nghiệp xoay xở giữ giá nhà vừa túi tiền",
+   "title_vi": "Chủ đầu tư giữ giá nhà vừa túi tiền: Phú Đông Group bán 30–42 triệu đồng/m², Bcons làm căn 40–60 m²",
+   "source": {
+    "name": "VnExpress",
+    "kind": "báo trong nước"
+   },
+   "url": "https://vnexpress.net/doanh-nghiep-xoay-xo-giu-gia-nha-vua-tui-tien-5142466.html",
+   "published": "2026-11-12T15:21:00+07:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "Phú Đông Group bán các dự án ở TP HCM và Bình Dương cũ với giá sơ cấp khoảng 30–40 triệu đồng/m², riêng Phú Đông SkyOne khoảng 42 triệu đồng/m², nhờ chọn quỹ đất phù hợp và kiểm soát thiết kế, thi công. Bcons hạ giá thành từ thiết kế, phát triển căn 40–60 m² và đã cung cấp hơn 20.000 căn.",
+   "why_it_matters": "Phân khúc vừa túi tiền buộc tối ưu chi phí vật tư và thiết kế — áp lực lên giá thầu.",
+   "tags": [
+    "nhà vừa túi tiền",
+    "Bcons",
+    "giá nhà"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang vnexpress.net (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-28-lai-vay-mua-nha",
+   "title": "Lãi vay mua nhà thả nổi lên 15%, bất động sản tìm hướng đa dạng nguồn vốn",
+   "title_vi": "Lãi vay mua nhà thả nổi lên 13–15%; VARS: xây dựng tăng 12,3%",
+   "source": {
+    "name": "CafeF",
+    "kind": "báo trong nước"
+   },
+   "url": "https://cafef.vn/lai-vay-mua-nha-tha-noi-len-15-nam-bat-dong-san-tim-huong-da-dang-nguon-von-18826111208451577.chn",
+   "published": "2026-11-12T09:39:00+07:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "Lãi suất thả nổi vay mua nhà lên 13–15%, mức ưu đãi phổ biến 8,5–11%. VARS dẫn số liệu GDP tăng 9,01% và ngành xây dựng tăng 12,3%.",
+   "why_it_matters": "Lãi vay cao làm chậm hấp thụ — chủ đầu tư siết chi phí, có thể giãn tiến độ gói thầu.",
+   "tags": [
+    "lãi vay",
+    "bất động sản",
+    "VARS"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang cafef.vn (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-29-tu-dien-du-lieu-bds",
+   "title": "Bộ Xây dựng ban hành từ điển dữ liệu nhà ở và bất động sản phiên bản 1.0",
+   "title_vi": "Bộ Xây dựng ban hành từ điển dữ liệu nhà ở và BĐS 1.0: mã định danh 12 ký tự cho mỗi bất động sản",
+   "source": {
+    "name": "Báo Xây dựng",
+    "kind": "báo ngành"
+   },
+   "url": "https://batdongsan.baoxaydung.vn/bo-xay-dung-ban-hanh-tu-dien-du-lieu-nha-o-va-bat-dong-san-phien-ban-10-192261112140613668.htm",
+   "published": "2026-11-12T15:14:00+07:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "Quyết định 1829/QĐ-BXD ngày 24/10 ban hành từ điển dữ liệu nhà ở và bất động sản phiên bản 1.0. Văn bản quy định 141 nghiệp vụ chia 8 nhóm và mã định danh bất động sản 12 ký tự.",
+   "why_it_matters": "Chuẩn dữ liệu chung giúp số hóa hồ sơ dự án và giao dịch — cần chuẩn bị khi kết nối hệ thống với cơ quan quản lý.",
+   "tags": [
+    "Bộ Xây dựng",
+    "dữ liệu",
+    "bất động sản",
+    "chuyển đổi số"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "văn bản/sự kiện cơ quan nhà nước",
+   "how_read": "mở trang baoxaydung.vn (curl)",
+   "accessed": "2026-11-13"
+  },
+  {
+   "id": "n-20261113-30-dan-nhan-ai-bat-buoc",
+   "title": "Bắt buộc dán nhãn nội dung do AI tạo ra, ngăn chặn lợi dụng AI để lừa đảo",
+   "title_vi": "Bộ trưởng KH&CN: bắt buộc dán nhãn nội dung do AI tạo ra",
+   "source": {
+    "name": "VnEconomy",
+    "kind": "báo trong nước"
+   },
+   "url": "https://vneconomy.vn/bat-buoc-dan-nhan-noi-dung-do-ai-tao-ra-ngan-chan-loi-dung-ai-de-lua-dao.htm",
+   "published": "2026-11-12T21:27:00+07:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "cong_nghe",
+   "region": "VN",
+   "summary_vi": "Bộ trưởng KH&CN Vũ Hải Quân nêu yêu cầu bắt buộc dán nhãn với nội dung do AI tạo ra. Mục tiêu là ngăn việc lợi dụng AI để lừa đảo.",
+   "why_it_matters": "Doanh nghiệp dùng ảnh/video AI trong marketing và hồ sơ cần quy trình gắn nhãn.",
+   "tags": [
+    "nhãn AI",
+    "Bộ KH&CN",
+    "lừa đảo"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "văn bản/sự kiện cơ quan nhà nước",
+   "how_read": "mở trang vneconomy.vn (curl)",
+   "accessed": "2026-11-13",
+   "idea_ids": [
+    "20261113-03-tem-ai-dung-luat"
+   ]
+  }
+ ],
+ "unreachable": [
+  {
+   "source": "Supply Chain Dive / Construction Dive (bài)",
+   "status": "curl HTTP 403",
+   "impact": "Thiếu tin Mỹ từ nguồn này; dùng FreightWaves."
+  },
+  {
+   "source": "ENR (Trimble)",
+   "status": "curl HTTP 403",
+   "impact": "Không đưa tin ENR hôm nay."
+  },
+  {
+   "source": "AP News, GeekWire, SupplyChainBrain",
+   "status": "curl HTTP 403",
+   "impact": "Dùng TechCrunch, The Verge, Semafor."
+  },
+  {
+   "source": "VOV (bài vật liệu)",
+   "status": "curl HTTP 403",
+   "impact": "Không dùng."
+  },
+  {
+   "source": "chinanews (bài lõi lọc nước)",
+   "status": "curl HTTP 500; WebFetch mở được",
+   "impact": "Dùng cho ý tưởng, không đưa vào Đọc báo."
+  },
+  {
+   "source": "thitruongthep.com",
+   "status": "Chỉ khung JavaScript",
+   "impact": "Không có bảng giá thép mới hôm nay."
+  },
+  {
+   "source": "RSS VIR, Reatimes, Procore, Bentley",
+   "status": "HTTP 404 hoặc lỗi phân tích RSS",
+   "impact": "Không lấy được tin từ các nguồn này."
+  },
+  {
+   "source": "Weibo 热搜",
+   "status": "HTTP 403",
+   "impact": "Từ khóa TQ chỉ lấy từ Baidu."
+  }
+ ]
+}

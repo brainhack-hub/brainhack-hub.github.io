@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12",
-  "latest": "2026-11-12",
+  "updated": "2026-11-13",
+  "latest": "2026-11-13",
   "topics": [
     {
       "id": "ai_xd",
@@ -68,6 +68,19 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-11-13",
+      "file": "2026-11-13.json",
+      "headline": "Jensen Huang rời Nvidia; Gemini 4 Hydrogen giá rẻ; AI soát hồ sơ thầu và tạo BIM từ phác thảo; Tôn Đông Á lên sàn, TP HCM thiếu thợ",
+      "item_count": 30,
+      "topics": {
+        "ai_xd": 11,
+        "chuoi_cung_ung": 5,
+        "cong_nghe": 1,
+        "ai_toan_cau": 8,
+        "vn": 5
+      }
+    },
     {
       "date": "2026-11-12",
       "file": "2026-11-12.json",
