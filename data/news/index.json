@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13",
-  "latest": "2026-11-13",
+  "updated": "2026-11-19",
+  "latest": "2026-11-19",
   "topics": [
     {
       "id": "ai_xd",
@@ -68,6 +68,19 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-11-19",
+      "file": "2026-11-19.json",
+      "headline": "Anthropic IPO kỷ lục; GPT-6.2, Gemini 4 Neon, MAI; LIXIL cho AI bóc khối lượng; prefab robot gọi vốn; chung cư Hà Nội vượt 100 triệu/m²",
+      "item_count": 19,
+      "topics": {
+        "ai_xd": 10,
+        "chuoi_cung_ung": 2,
+        "cong_nghe": 0,
+        "ai_toan_cau": 5,
+        "vn": 2
+      }
+    },
     {
       "date": "2026-11-13",
       "file": "2026-11-13.json",

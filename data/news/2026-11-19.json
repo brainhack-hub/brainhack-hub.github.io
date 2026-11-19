@@ -1,0 +1,603 @@
+{
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T07:25:26+07:00",
+ "headline": "Anthropic IPO kỷ lục; GPT-6.2, Gemini 4 Neon, MAI; LIXIL cho AI bóc khối lượng; prefab robot gọi vốn; chung cư Hà Nội vượt 100 triệu/m²",
+ "digest": [
+  {
+   "title": "Anthropic chốt IPO kỷ lục",
+   "text": "Giá 83 USD/cổ phiếu, 980 triệu cổ phiếu, mã ANT lên Nasdaq hôm nay; TechCrunch: định giá khoảng 1,5 nghìn tỷ USD, vượt khoảng dự kiến. Nguồn chính là thông cáo của hãng.",
+   "item_ids": [
+    "n-20261119-01-anthropic-prices-ipo",
+    "n-20261119-02-techcrunch-anthropic-83"
+   ]
+  },
+  {
+   "title": "Ba hãng lớn ra mô hình mới cùng tuần",
+   "text": "OpenAI cập nhật GPT-6.2 Astra/Sol, Google ra Gemini 4 Neon (3/15 USD mỗi triệu token), Microsoft ra MAI-Code-2 giá rẻ tại Ignite. Số liệu hiệu năng đều do hãng tự công bố.",
+   "item_ids": [
+    "n-20261119-03-verge-gpt-6-2-astra",
+    "n-20261119-04-google-gemini-4-neon",
+    "n-20261119-05-techtarget-microsoft-mai"
+   ]
+  },
+  {
+   "title": "AI vào bóc khối lượng và đấu thầu",
+   "text": "LIXIL cho AI đọc bản vẽ, bóc vật liệu, mục tiêu giảm 62% thời gian dự toán; viện CERIK (Hàn) cho thấy AI chỉ ‘sống’ khi gắn vào quy trình như phân tích hồ sơ mời thầu.",
+   "item_ids": [
+    "n-20261119-06-lixil-ai-mitsumori",
+    "n-20261119-12-cerik-insight-ai"
+   ]
+  },
+  {
+   "title": "Contech: vốn chảy vào prefab robot và công trường trung tâm dữ liệu",
+   "text": "Promise Robotics gọi 40 triệu CAD, Stoa gọi 3,5 triệu euro (cả hai đều là thông cáo/tin gọi vốn); Thượng Hải ra kế hoạch ‘AI+’ ngành xây dựng đến 2028.",
+   "item_ids": [
+    "n-20261119-10-promise-robotics-series-b",
+    "n-20261119-11-stoa-pre-seed",
+    "n-20261119-14-sina-ai-jin-gongdi"
+   ]
+  },
+  {
+   "title": "VN: chung cư Hà Nội đắt nhưng ít giao dịch, thép đi ngang",
+   "text": "Giá sơ cấp 86–108 triệu đồng/m² tùy báo cáo, nguồn cung quý III giảm mạnh; thép xây dựng 13.840–15.150 đồng/kg ngày 16/11.",
+   "item_ids": [
+    "n-20261119-18-dantri-chung-cu-ha-noi",
+    "n-20261119-19-index-gia-thep-16-11"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "n-20261119-01-anthropic-prices-ipo",
+   "title": "Anthropic prices initial public offering",
+   "title_vi": "Anthropic chốt giá IPO 83 USD/cổ phiếu, 980 triệu cổ phiếu, mã ANT lên Nasdaq ngày 19/11",
+   "source": {
+    "name": "Anthropic Newsroom",
+    "kind": "thông cáo hãng"
+   },
+   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "published": "2026-11-18",
+   "time_known": false,
+   "date_basis": "ngày trên trang thông cáo (không có giờ)",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Anthropic định giá đợt IPO cổ phiếu loại A ở 83 USD, gồm 980 triệu cổ phiếu, trong đó 956.351.354 cổ phiếu do công ty bán và phần còn lại do một số cổ đông bán. Cổ phiếu dự kiến giao dịch trên Nasdaq Global Select từ 19/11/2026 với mã ANT, hoàn tất đợt chào bán ngày 20/11. Bên bảo lãnh có quyền mua thêm tối đa 147 triệu cổ phiếu trong 30 ngày.",
+   "why_it_matters": "Phòng thí nghiệm AI hàng đầu đầu tiên lên sàn — phiên đầu tiên là phép thử tâm lý thị trường AI sau biến động của Nvidia.",
+   "tags": [
+    "Anthropic",
+    "IPO",
+    "Nasdaq",
+    "ANT"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang anthropic.com (curl), đối chiếu NPR và TechCrunch",
+   "accessed": "2026-11-19",
+   "idea_ids": [
+    "20261119-03-watchlist-ipo-anthropic"
+   ],
+   "note": "Lịch roadshow IPO đã đưa ngày 12–13/11; tin hôm nay là việc chốt giá."
+  },
+  {
+   "id": "n-20261119-02-techcrunch-anthropic-83",
+   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "title_vi": "TechCrunch: giá IPO Anthropic vượt khoảng dự kiến 70–78 USD, định giá khoảng 1,5 nghìn tỷ USD",
+   "source": {
+    "name": "TechCrunch",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "published": "2026-11-18T22:11:15+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "TechCrunch cho biết giá 83 USD cao hơn khoảng dự kiến 70–78 USD, cho thấy nhà đầu tư vẫn thèm cổ phiếu AI dù thị trường chao đảo sau khi CEO Nvidia Jensen Huang rời ghế. Với giá này, Anthropic được định giá khoảng 1,5 nghìn tỷ USD (pha loãng hoàn toàn), tăng từ 965 tỷ USD ở vòng gọi vốn tháng 5 nhưng thấp hơn mức 2 nghìn tỷ USD từng nhắm tới.",
+   "why_it_matters": "Định giá cao hơn dự kiến nhưng thấp hơn tham vọng ban đầu — tín hiệu thị trường vẫn mua AI nhưng thận trọng hơn.",
+   "tags": [
+    "Anthropic",
+    "IPO",
+    "định giá"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang (curl), đọc toàn bài",
+   "accessed": "2026-11-19",
+   "idea_ids": [
+    "20261119-03-watchlist-ipo-anthropic"
+   ]
+  },
+  {
+   "id": "n-20261119-03-verge-gpt-6-2-astra",
+   "title": "OpenAI releases its updated GPT-6.2 Astra model.",
+   "title_vi": "OpenAI ra GPT-6.2 Astra và GPT-6.2 Sol: làm slide, bảng tính, tài liệu ‘bớt giống AI’, code tốt hơn",
+   "source": {
+    "name": "The Verge",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://www.theverge.com/tech/1035483/openai-releases-its-updated-gpt-6-2-astra-model",
+   "published": "2026-11-17T17:45:00+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Theo The Verge, OpenAI cho biết GPT-6.2 Astra làm slide, bảng tính và tài liệu ‘đọc ít giống AI hơn’ và bám mẫu (template) sát hơn. Mô hình cũng viết code tốt hơn cho website, game và thiết kế 3D. OpenAI đồng thời cập nhật GPT-6.2 Sol — mô hình mạnh thứ hai — được mô tả là thông minh và hiệu quả hơn bản trước.",
+   "why_it_matters": "Cuộc đua mô hình ‘làm việc văn phòng’ (slide, bảng tính) ảnh hưởng trực tiếp đến cách đội mua sắm/dự toán dùng AI.",
+   "tags": [
+    "OpenAI",
+    "GPT-6.2",
+    "Astra",
+    "Sol"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang (curl); bài ngắn dạng tin nhanh, đọc toàn bộ",
+   "accessed": "2026-11-19",
+   "note": "Trang openai.com trả HTTP 403 với curl nên dùng The Verge."
+  },
+  {
+   "id": "n-20261119-04-google-gemini-4-neon",
+   "title": "Introducing Gemini 4 Neon",
+   "title_vi": "Google ra Gemini 4 Neon: giá 3/15 USD mỗi triệu token, ngữ cảnh 1 triệu token, hạng 3 chỉ số Artificial Analysis",
+   "source": {
+    "name": "Google Blog",
+    "kind": "thông cáo hãng"
+   },
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "published": "2026-11-18T21:00:00+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Google giới thiệu Gemini 4 Neon cho lập trình, công việc tri thức và khoa học, nhấn mạnh tốc độ hoàn thành tác vụ. Theo Google, Neon đạt 61 điểm, hạng 3 trên Artificial Analysis Intelligence Index ở mức suy nghĩ xhigh, và có tỉ lệ bịa thấp nhất của hãng trong thử nghiệm nội bộ. Giá 3 USD mỗi triệu token vào (0,15 USD nếu cache) và 15 USD mỗi triệu token ra, cửa sổ ngữ cảnh 1 triệu token; triển khai trên Gemini API, Gemini cho doanh nghiệp và ứng dụng Gemini gói Pro/Ultra.",
+   "why_it_matters": "Thêm một lựa chọn rẻ hơn mô hình đầu bảng cho tác vụ dài — đáng thử cho đọc hồ sơ thầu nhiều trang.",
+   "tags": [
+    "Google",
+    "Gemini 4 Neon",
+    "giá token"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang (curl), đọc toàn bài",
+   "accessed": "2026-11-19",
+   "note": "Gemini 4 Hydrogen đã đưa ngày 13/11; Neon là mô hình khác ra ngày 18/11."
+  },
+  {
+   "id": "n-20261119-05-techtarget-microsoft-mai",
+   "title": "Microsoft unveils AI models to compete on cost and performance",
+   "title_vi": "Microsoft ra loạt mô hình MAI tại Ignite: MAI-Code-2 giá 1/5 USD mỗi triệu token, thêm mô hình ảnh và bảo mật",
+   "source": {
+    "name": "TechTarget",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://www.techtarget.com/news/microsoft-unveils-ai-models-to-compete-on-cost-and-performance/875045/",
+   "published": "2026-11-18",
+   "time_known": false,
+   "date_basis": "ngày đăng trên trang bài (meta không có múi giờ)",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Tại Microsoft Ignite 2026, Microsoft ra Decision 1.1 (xây trên Gemma của Google DeepMind) để định tuyến tác vụ AI, cùng MAI-Code-2 và MAI-Code-2-Flash cho lập trình, MAI-Image-2.7 và MAI-Cyber-2-Flash ở bản xem trước. TechTarget nêu MAI-Code-2 giá 1 USD mỗi triệu token vào và 5 USD mỗi triệu token ra, rẻ hơn GPT-6.1 và Claude Opus 5.5. Microsoft cho biết đối tác tin cậy sẽ được tiếp cận trọng số mô hình MAI trước.",
+   "why_it_matters": "Big Tech tự làm mô hình rẻ hơn để giảm phụ thuộc OpenAI/Anthropic — giá AI cho doanh nghiệp tiếp tục giảm.",
+   "tags": [
+    "Microsoft",
+    "Ignite",
+    "MAI",
+    "giá"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang (curl), đọc toàn bài",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "n-20261119-06-lixil-ai-mitsumori",
+   "title": "LIXILがAI見積システム導入　設計図面から建材を自動拾い出し、積算時間を約62％短縮へ",
+   "title_vi": "LIXIL đưa ‘AI báo giá’: đọc bản vẽ, tự bóc vật liệu nội thất, mục tiêu giảm 62% thời gian dự toán",
+   "source": {
+    "name": "BUILT (ITmedia)",
+    "kind": "báo chuyên ngành xây dựng"
+   },
+   "url": "https://built.itmedia.co.jp/bt/articles/2611/18/news081.html",
+   "published": "2026-11-18T18:00:00+09:00",
+   "time_known": true,
+   "date_basis": "giờ đăng trên trang bài",
+   "topic": "ai_xd",
+   "region": "JP",
+   "summary_vi": "Từ 17/11, LIXIL triển khai ‘AI見積システム’ trong công cụ báo giá CRASFL cho đối tác: tải bản vẽ lên, AI tự nhận diện phạm vi phòng và vật liệu nội thất, bóc danh mục sản phẩm rồi chuyển sang lập báo giá. Mục tiêu là giảm thời gian dự toán một căn tiêu chuẩn từ khoảng 40 phút xuống khoảng 15 phút (khoảng 62%). Hệ thống chỉ áp dụng cho sản phẩm tiêu chuẩn của LIXIL và được phát triển cùng KK Generation, công ty AI chuyên bản vẽ/BIM Nhật.",
+   "why_it_matters": "Nhà cung cấp vật liệu tự làm AI bóc khối lượng cho đối tác — mô hình nhà cung ứng VN có thể học để rút ngắn vòng báo giá.",
+   "tags": [
+    "LIXIL",
+    "dự toán",
+    "bóc khối lượng",
+    "KK Generation"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang (curl, giải mã Shift_JIS), đọc toàn bài",
+   "accessed": "2026-11-19",
+   "note": "Meta ghi 18:00Z nhưng dòng đăng là 18時00分 giờ Nhật — dùng giờ Nhật."
+  },
+  {
+   "id": "n-20261119-07-mebs-field-engineer-ai",
+   "title": "昇降機保守技術者の作業・教育を支援する生成AIを開発",
+   "title_vi": "Mitsubishi Electric Building Solutions làm AI tra 150.000 trang tài liệu cho thợ bảo trì thang máy",
+   "source": {
+    "name": "三菱電機ビルソリューションズ",
+    "kind": "thông cáo hãng"
+   },
+   "url": "https://www.mebs.co.jp/press/261118.html",
+   "published": "2026-11-18",
+   "time_known": false,
+   "date_basis": "ngày trên trang thông cáo (không có giờ)",
+   "topic": "ai_xd",
+   "region": "JP",
+   "summary_vi": "Hãng phát triển ‘ứng dụng hỗ trợ kỹ sư hiện trường’ dùng AI tạo sinh và RAG trên khoảng 150.000 trang tài liệu về thang máy, thang cuốn. Kỹ thuật viên hỏi bằng PC hoặc điện thoại, AI trả lời tóm tắt kèm đường dẫn tới tài liệu gốc. Ứng dụng bắt đầu dùng cho bảo trì thang máy từ tháng 12/2026 và sẽ mở rộng sang hệ thống quản lý tòa nhà.",
+   "why_it_matters": "Mẫu ‘AI trả lời kèm nguồn’ cho vận hành tòa nhà — phù hợp với chủ đầu tư BĐS có nhiều tài liệu bảo trì.",
+   "tags": [
+    "thang máy",
+    "RAG",
+    "bảo trì",
+    "vận hành tòa nhà"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang mebs.co.jp (curl), đọc toàn bài",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "n-20261119-08-ai-inside-hashimoto",
+   "title": "AI insideと橋本ホールディングス、AIの事業活用に向けた基本合意書を締結",
+   "title_vi": "AI inside và Hashimoto Holdings (xây dựng) ký LOI: tính lập liên doanh xây trung tâm dữ liệu AI, làm AI agent cho công trường",
+   "source": {
+    "name": "クラウド Watch (Impress)",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://cloud.watch.impress.co.jp/docs/news/2157332.html",
+   "published": "2026-11-18T11:42:00+09:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_xd",
+   "region": "JP",
+   "summary_vi": "Ngày 16/11, AI inside và Hashimoto Holdings ký thỏa thuận khung (LOI) về hợp tác và cân nhắc lập liên doanh. Hai bên muốn kết hợp năng lực xây dựng của nhóm Hashimoto với nền tảng AI của AI inside để làm hạ tầng AI, gồm xây trung tâm dữ liệu cho mạng suy luận ‘Sovereign Grid’. Họ cũng tính phát triển AI agent xuất phát từ bài toán công trường của nhóm Hashimoto và doanh nghiệp địa phương.",
+   "why_it_matters": "Nhà thầu xây dựng chuyển sang làm cả trung tâm dữ liệu AI — một hướng doanh thu mới cho ngành.",
+   "tags": [
+    "AI inside",
+    "Hashimoto",
+    "trung tâm dữ liệu",
+    "LOI"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang (curl), đọc phần thân bài",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "n-20261119-09-procore-groundbreak-trades",
+   "title": "Building what’s next for the trades",
+   "title_vi": "Procore (Groundbreak 2026): ứng dụng AI điều khiển bằng giọng nói cho thợ, theo dõi lãi theo thời gian thực cho nhà thầu phụ",
+   "source": {
+    "name": "Procore Blog",
+    "kind": "thông cáo hãng"
+   },
+   "url": "https://www.procore.com/blog/building-whats-next-for-trades",
+   "published": "2026-11-17",
+   "time_known": false,
+   "date_basis": "ngày trên trang blog (không có giờ)",
+   "topic": "ai_xd",
+   "region": "US",
+   "summary_vi": "Bài tổng kết keynote ngày 1 của Groundbreak 2026 tập trung vào nhà thầu chuyên ngành: Procore giới thiệu theo dõi lợi nhuận theo thời gian thực (đơn giá, giờ công, tiến độ đạt được ở một chỗ) và ứng dụng di động ưu tiên giọng nói mang AI xây dựng tới đội thi công. Procore nhấn mạnh AI agent ‘làm phần chân tay’ trên dữ liệu sẵn có, còn con người quyết định. Năng lực lao động là điểm nghẽn lớn nhất do nghỉ hưu, kiệt sức và chậm thanh toán.",
+   "why_it_matters": "Nhà thầu phụ biết lãi/lỗ ngay trong lúc thi công thay vì cuối dự án — điều đội mua sắm VN cũng cần.",
+   "tags": [
+    "Procore",
+    "Groundbreak",
+    "nhà thầu phụ",
+    "AI giọng nói"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang (curl), đọc toàn bài",
+   "accessed": "2026-11-19",
+   "note": "Danh sách sản phẩm Groundbreak (AI Go, Agent Marketplace) đăng ngày 9/11 — không đưa lại."
+  },
+  {
+   "id": "n-20261119-10-promise-robotics-series-b",
+   "title": "Promise Robotics Raises $40 Million CAD Series B to Scale the Production Infrastructure Powering Homebuilding",
+   "title_vi": "Promise Robotics gọi 40 triệu CAD Series B cho ‘nhà máy dạng dịch vụ’ dựng cấu kiện nhà bằng robot",
+   "source": {
+    "name": "PR Newswire",
+    "kind": "thông cáo hãng"
+   },
+   "url": "https://www.prnewswire.com/news-releases/promise-robotics-raises-40-million-cad-series-b-to-scale-the-production-infrastructure-powering-homebuilding-302941746.html",
+   "published": "2026-11-17T14:05:00Z",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_xd",
+   "region": "US",
+   "summary_vi": "Promise Robotics (Canada) gọi 40 triệu CAD vòng Series B do White Star Capital dẫn đầu để mở rộng mạng lưới sản xuất ở Bắc Mỹ. Mô hình Factory-as-a-Service cho phép nhà xây dựng dùng năng lực sản xuất tự động mà không phải tự xây nhà máy: AI chuyển thiết kế nhà có sẵn thành kế hoạch sản xuất bằng robot. Hãng có hơn 2.500 căn nhà theo hợp đồng ở 3 thị trường và sẽ mở nhà máy đầu tiên ở Phoenix (Mỹ) năm 2027.",
+   "why_it_matters": "Tiền đổ vào prefab dùng AI/robot trong bối cảnh thiếu thợ — xu hướng VN nên theo dõi cho nhà ở xã hội.",
+   "tags": [
+    "Promise Robotics",
+    "prefab",
+    "robot",
+    "gọi vốn"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang (curl), đọc toàn bài",
+   "accessed": "2026-11-19",
+   "note": "Hợp đồng với D.R. Horton đã đưa ngày 06/11; tin hôm nay là vòng gọi vốn."
+  },
+  {
+   "id": "n-20261119-11-stoa-pre-seed",
+   "title": "Backed by Supercell, Wolt and PlanGrid founders, Stoa lands €3.5M to bring AI to construction sites",
+   "title_vi": "Stoa (Phần Lan) gọi 3,5 triệu euro cho AI quản lý thông tin dự án, nhắm công trình trung tâm dữ liệu",
+   "source": {
+    "name": "Tech.eu",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://tech.eu/2026/11/16/backed-by-supercell-wolt-and-plangrid-founders-stoa-lands-eur35m-to-bring-ai-to-construction-sites/",
+   "published": "2026-11-16T06:45:00+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_xd",
+   "region": "EU",
+   "summary_vi": "Startup Stoa ở Helsinki gọi 3,5 triệu euro vòng pre-seed do Lifeline Ventures dẫn đầu, có nhà sáng lập Supercell, Wolt và PlanGrid tham gia. Nền tảng gom bản vẽ, tiến độ, báo cáo chất lượng và an toàn để đội thi công quản lý thông tin, theo dõi tiến độ trên công trường phức tạp. Vốn dùng để mở rộng ra Bắc Âu, Anh và Mỹ, tập trung thị trường trung tâm dữ liệu.",
+   "why_it_matters": "Trung tâm dữ liệu AI kéo theo nhu cầu phần mềm quản lý công trường — một ngách contech đang được rót vốn.",
+   "tags": [
+    "Stoa",
+    "pre-seed",
+    "trung tâm dữ liệu",
+    "quản lý dự án"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang (curl), đọc toàn bài",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "n-20261119-12-cerik-insight-ai",
+   "title": "건설 AI 특허 4배 늘었지만…현장 정착 가르는 건 '업무 연결'",
+   "title_vi": "Viện Kinh tế Xây dựng Hàn: bằng sáng chế AI xây dựng tăng gần 4 lần nhưng tỉ lệ áp dụng chỉ 9–16%",
+   "source": {
+    "name": "뉴스핌 (Newspim)",
+    "kind": "báo kinh tế"
+   },
+   "url": "https://www.newspim.com/news/view/20261117000645",
+   "published": "2026-11-17T14:47:00+09:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_xd",
+   "region": "KR",
+   "summary_vi": "Viện Nghiên cứu Kinh tế Xây dựng Hàn Quốc ra ấn phẩm INSIGHT+ số đầu: bằng sáng chế AI xây dựng trong nước tăng từ 50 (2020) lên 192 (2024); năm 2025, nhóm quản lý tiến độ – chi phí – hợp đồng chiếm 38%. Tuy vậy, tỉ lệ áp dụng AI trong ngành xây dựng ở các nước chính chỉ 9–16%. AI đứng vững khi gắn vào quy trình sẵn có, như tự lọc phiếu kiểm định vật liệu hay phân tích hồ sơ mời thầu cho cuộc họp xét thầu; viện khuyến nghị chuẩn dữ liệu và quy tắc trách nhiệm khi AI ra quyết định.",
+   "why_it_matters": "Bằng chứng rằng AI trong đấu thầu thành công khi ‘gắn vào quy trình’, không phải khi làm thêm một công cụ riêng.",
+   "tags": [
+    "CERIK",
+    "INSIGHT+",
+    "bằng sáng chế",
+    "đấu thầu"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "khảo sát/báo cáo",
+   "how_read": "mở trang (curl), đọc toàn bài",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "n-20261119-13-lotte-ai-translator",
+   "title": "[2026 안전포럼] 지상규 수석 “소통하는 건설AI, 무재해 시작”",
+   "title_vi": "Lotte E&C dùng AI dịch giọng nói ở 45 công trường để truyền lệnh an toàn cho lao động nước ngoài",
+   "source": {
+    "name": "인사이트코리아 (Insight Korea)",
+    "kind": "báo kinh tế"
+   },
+   "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259253",
+   "published": "2026-11-18T18:07:38+09:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_xd",
+   "region": "KR",
+   "summary_vi": "Tại Safety Korea Forum ngày 18/11, Lotte E&C trình bày máy dịch AI nhận giọng người quản lý, sửa thuật ngữ xây dựng rồi dịch sang 4 ngôn ngữ trên màn hình buổi giao ban an toàn. Hệ thống được phát triển hai giai đoạn (4–7/2025 và 2–6/2026), áp dụng ở 45 công trường, tỉ lệ nhận dạng giọng nói được nâng lên 90,27%. Diễn giả nêu 4 lý do AI khó vào công trường: khó tích lũy dữ liệu, lao động đa quốc tịch, môi trường thay đổi liên tục và khó đo hiệu quả.",
+   "why_it_matters": "Lao động nước ngoài là thực tế ở công trường Hàn và đang tăng ở VN — AI dịch an toàn là ứng dụng thiết thực.",
+   "tags": [
+    "Lotte E&C",
+    "an toàn",
+    "dịch AI",
+    "lao động nước ngoài"
+   ],
+   "verification": "đọc một phần",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang (curl), đọc phần đầu và các số liệu chính",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "n-20261119-14-sina-ai-jin-gongdi",
+   "title": "AI开始“进工地”，多地抢跑住建“人工智能+”",
+   "title_vi": "TQ: Thượng Hải ra kế hoạch ‘AI+’ ngành xây dựng – nhà ở 2026–2028; An Huy, Giang Tô đã có mục tiêu cụ thể",
+   "source": {
+    "name": "新浪财经 (dẫn 贝壳财经)",
+    "kind": "báo kinh tế"
+   },
+   "url": "https://finance.sina.com.cn/stock/t/2026-11-18/doc-inizeacc1636666.shtml",
+   "published": "2026-11-18T18:34:36+08:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_xd",
+   "region": "CN",
+   "summary_vi": "Ngày 13/11, Thượng Hải công bố kế hoạch hành động ‘AI+’ ngành xây dựng – nhà ở 2026–2028, mục tiêu đến 2028 hình thành hệ sinh thái ứng dụng, chính sách, tiêu chuẩn; kế hoạch có 29 điều, mở rộng sang dịch vụ nhà ở và vận hành đô thị. An Huy (19/5) đặt mục tiêu đến 2027 tỉ lệ phổ cập thiết bị thông minh, tác tử AI trong ngành trên 70%; Giang Tô (25/6) có 14 nhiệm vụ trọng điểm và 13 kịch bản đầu tiên. Bài nêu AI đang vào công trường qua kiểm tra cẩu tháp, giám sát an toàn, quản lý tiến độ.",
+   "why_it_matters": "Chính quyền TQ biến AI xây dựng thành chỉ tiêu — nhà cung cấp TQ sẽ có sản phẩm ‘đóng gói’ để xuất khẩu.",
+   "tags": [
+    "Thượng Hải",
+    "AI+",
+    "nhà ở",
+    "chính sách"
+   ],
+   "verification": "đọc một phần",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang (curl), đọc phần đầu và mục ‘多地住建’",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "n-20261119-15-cscec-modular-australia",
+   "title": "模块化建筑加速落地 智能建造赋能城市更新",
+   "title_vi": "CSCEC Science & Industry xuất hơn 300 mô-đun nhà làm sẵn từ Huệ Châu sang Úc dựng ký túc xá sinh viên",
+   "source": {
+    "name": "新浪财经 (dẫn 邯郸晚报)",
+    "kind": "báo địa phương"
+   },
+   "url": "https://finance.sina.com.cn/jjxw/2026-11-17/doc-iniyyzyi1881195.shtml",
+   "published": "2026-11-17T10:01:04+08:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_xd",
+   "region": "CN",
+   "summary_vi": "Ngày 6/11, nhà máy thông minh mô-đun kết cấu thép của 中建科工 ở Huệ Châu (Quảng Đông) xuất lô hơn 300 mô-đun, mỗi mô-đun khoảng 50 m² đã hoàn thiện nội thất, bếp và hệ thống nhà thông minh. Các mô-đun được chở sang Úc để lắp thành một tòa 8 tầng và một tòa 4 tầng ký túc xá sinh viên. Lãnh đạo công ty mô tả nhà mô-đun là đỉnh cao của nhà lắp ghép: chất lượng ổn định, nhanh, ít nhân công.",
+   "why_it_matters": "Nhà mô-đun TQ đã xuất khẩu trọn gói — đối thủ và cũng là nguồn cung tiềm năng cho dự án VN.",
+   "tags": [
+    "中建科工",
+    "mô-đun",
+    "prefab",
+    "xuất khẩu"
+   ],
+   "verification": "đọc một phần",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang (curl), đọc phần đầu bài",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "n-20261119-16-gov-cn-recycling-9-depts",
+   "title": "促进回收行业高质量发展——多部门详解深入推进再生资源回收体系建设",
+   "title_vi": "TQ: 9 bộ ngành ra văn bản về hệ thống thu hồi tái chế — khoán gom đồ nội thất cũ, ‘đổi cũ lấy mới + thu hồi’ đồ điện",
+   "source": {
+    "name": "中国政府网",
+    "kind": "văn bản/cơ quan nhà nước"
+   },
+   "url": "https://www.gov.cn/zhengce/202611/content_7086432.htm",
+   "published": "2026-11-17",
+   "time_known": false,
+   "date_basis": "ngày công bố nêu trong bài (không có giờ)",
+   "topic": "chuoi_cung_ung",
+   "region": "CN",
+   "summary_vi": "Bộ Thương mại TQ và 8 cơ quan công bố ngày 17/11 văn bản thúc đẩy hệ thống thu hồi tài nguyên tái chế; với đồ nội thất cũ cồng kềnh, văn bản đề xuất khoán gom theo khu vực, doanh nghiệp dọn tận nhà và ngày gom miễn phí. Theo số liệu hiệp hội dẫn trong bài, tổng lượng thu hồi các loại chính năm 2025 đạt 417 triệu tấn (+4,1%), giá trị 1,39 nghìn tỷ tệ (+3,8%). Bộ cho biết sẽ hoàn thiện mạng lưới 3 cấp ‘điểm thu – trạm trung chuyển – trung tâm phân loại’ và đã có 32 thành phố, 78 doanh nghiệp thí điểm.",
+   "why_it_matters": "Chuỗi cung ứng vật liệu tái chế TQ được chuẩn hóa — ảnh hưởng nguồn phế liệu, gỗ, kim loại tái chế trong khu vực.",
+   "tags": [
+    "tái chế",
+    "Bộ Thương mại TQ",
+    "đồ cồng kềnh",
+    "phế liệu"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "văn bản/sự kiện cơ quan nhà nước",
+   "how_read": "mở trang gov.cn (curl), đọc toàn bài và đối chiếu văn bản gốc",
+   "accessed": "2026-11-19",
+   "idea_ids": [
+    "20261119-02-ngay-don-do-to"
+   ]
+  },
+  {
+   "id": "n-20261119-17-bjnews-down-jacket-market",
+   "title": "这个冬天，羽绒服市场“劈了叉”，有三款羽绒服“买不到”",
+   "title_vi": "Thị trường áo phao TQ ‘tách đôi’: mẫu bình dân hết hàng, giá lông vịt 90% giảm 5,91% so với năm trước",
+   "source": {
+    "name": "新京报 (贝壳财经)",
+    "kind": "báo kinh tế"
+   },
+   "url": "https://www.bjnews.com.cn/detail/1795001581129624.html",
+   "published": "2026-11-18T19:41:00+08:00",
+   "time_known": true,
+   "date_basis": "giờ đăng trên trang bài",
+   "topic": "chuoi_cung_ung",
+   "region": "CN",
+   "summary_vi": "新京报 ghi nhận ba mẫu áo phao bình dân (Sam’s 399,9 tệ, Đại học Bắc Kinh 399 tệ, Bàng Đông Lai hơn 200 tệ) đều hết hàng trong khi áo cao cấp bán chậm. Theo Hiệp hội Lông vũ TQ, lông vịt trắng 90% lên đỉnh 587,4 tệ/kg vào tháng 6, cuối tháng 10 còn khoảng 528,3 tệ/kg, giảm 5,91% so với cùng kỳ; lông ngỗng 90% 922,1 tệ/kg (−2,63%). Giá bình quân áo phao ở bán lẻ lớn tăng từ 438,6 tệ (2015) lên trên 1.000 tệ (2025).",
+   "why_it_matters": "Nguyên liệu hạ giá nhưng giá bán lẻ cao — kênh mua tập trung, ít trung gian đang thắng; bài học cho chuỗi cung ứng hàng tiêu dùng.",
+   "tags": [
+    "áo phao",
+    "lông vũ",
+    "giá nguyên liệu",
+    "bán lẻ"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang (curl), đọc toàn bài",
+   "accessed": "2026-11-19",
+   "idea_ids": [
+    "20261119-01-gia-moi-gram-long",
+    "20261119-07-tem-lai-minh-bach"
+   ]
+  },
+  {
+   "id": "n-20261119-18-dantri-chung-cu-ha-noi",
+   "title": "Giá chung cư Hà Nội vượt 100 triệu đồng/m2, thanh khoản lao dốc",
+   "title_vi": "Giá chung cư Hà Nội vượt 100 triệu đồng/m², nguồn cung và thanh khoản quý III giảm mạnh",
+   "source": {
+    "name": "Dân trí",
+    "kind": "báo điện tử VN"
+   },
+   "url": "https://dantri.com.vn/bat-dong-san/gia-chung-cu-ha-noi-vuot-100-trieu-dongm2-thanh-khoan-lao-doc-20261118110416220.htm",
+   "published": "2026-11-18T11:15:14+07:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "Theo Cushman & Wakefield, giá sơ cấp bình quân căn hộ Hà Nội quý III khoảng 108 triệu đồng/m², giảm 12% so với quý trước và 4% so với cùng kỳ; nguồn cung mới khoảng 2.100 căn, giảm 54% theo quý, trong đó 84% là cao cấp và không có căn bình dân. One Mount Group ghi nhận khoảng 2.200 căn mở bán (−77% theo quý), giá khu trung tâm khoảng 127 triệu đồng/m². CBRE đo giá sơ cấp bình quân khoảng 86 triệu đồng/m² thông thủy, giảm 9% theo quý.",
+   "why_it_matters": "Các báo cáo lệch nhau 86–108 triệu/m² do cách đo — cần ghi rõ nguồn khi dùng số liệu cho phương án giá.",
+   "tags": [
+    "chung cư",
+    "Hà Nội",
+    "giá sơ cấp",
+    "Cushman & Wakefield"
+   ],
+   "verification": "đọc một phần",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang (curl), đọc phần đầu và các số liệu chính",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "n-20261119-19-index-gia-thep-16-11",
+   "title": "Giá thép ngày ngày 16/11/2026: Giá nội địa giữ vững, quặng sắt suy yếu",
+   "title_vi": "Giá thép 16/11: thép xây dựng trong nước đi ngang 13.840–15.150 đồng/kg, quặng sắt có tuần giảm mạnh nhất 5 tuần",
+   "source": {
+    "name": "Index.vn",
+    "kind": "trang dữ liệu thị trường"
+   },
+   "url": "https://index.vn/tin-tuc/gia-thep-ngay-ngay-16-11-2026-gia-noi-dia-giu-vung-quang-sat-suy-yeu",
+   "published": "2026-11-16T02:05:32Z",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "Ngày 16/11, giá thép xây dựng ở cả ba miền chưa điều chỉnh đáng kể, dao động 13.840–15.150 đồng/kg tùy thương hiệu và chủng loại. Ở miền Bắc, Hòa Phát CB240 14.920 đồng/kg và D10 CB300 14.210 đồng/kg; Việt Đức lần lượt 14.650 và 13.950 đồng/kg. Trên thị trường quốc tế, quặng sắt có tuần giảm mạnh nhất trong 5 tuần do tồn kho ở cảng TQ tăng và nhu cầu sản xuất thép yếu.",
+   "why_it_matters": "Thép đi ngang khi quặng giảm — thời điểm hợp lý để đàm phán giá khung cho các gói thầu quý I.",
+   "tags": [
+    "giá thép",
+    "Hòa Phát",
+    "quặng sắt",
+    "vật liệu"
+   ],
+   "verification": "đọc một phần",
+   "source_type": "bảng giá tổng hợp",
+   "how_read": "mở trang (curl), đọc một phần: giá trong nước và quốc tế",
+   "accessed": "2026-11-19"
+  }
+ ],
+ "unreachable": [
+  {
+   "source": "OpenAI (openai.com/index/introducing-gpt-6-2-astra-sol)",
+   "status": "curl HTTP 403",
+   "impact": "Dùng The Verge thay thông cáo gốc."
+  },
+  {
+   "source": "Business Wire (Pulley gọi 64 triệu USD)",
+   "status": "curl hết thời gian (không phản hồi)",
+   "impact": "Không đưa tin Pulley hôm nay."
+  },
+  {
+   "source": "Autodesk Blog (Forma November releases)",
+   "status": "curl HTTP 403",
+   "impact": "Không đưa tin Autodesk."
+  },
+  {
+   "source": "etnews.com (하우드엔지니어링 AI 도면 검토)",
+   "status": "curl hết thời gian",
+   "impact": "Không đưa tin này."
+  }
+ ]
+}
