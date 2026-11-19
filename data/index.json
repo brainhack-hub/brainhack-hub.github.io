@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-13",
-  "latest": "2026-11-13",
+  "updated": "2026-11-19",
+  "latest": "2026-11-19",
   "days": [
+    {
+      "date": "2026-11-19",
+      "file": "2026-11-19.json",
+      "headline": "Áo phao ‘đúng gram lông’ cháy hàng ở TQ, 9 bộ ngành gỡ ‘vứt khó hơn mua’, Anthropic IPO kỷ lục, Nhật xếp hàng bốc thăm 一番くじ, mùa ngắm sao",
+      "idea_count": 7,
+      "trend_count": 5,
+      "keyword_count": 26,
+      "top": {
+        "title": "“Mỗi gram lông bao nhiêu tiền?” — web tính giá áo phao theo tem + kênh soi tem áo phao mùa rét",
+        "total_score": 7.12
+      }
+    },
     {
       "date": "2026-11-13",
       "file": "2026-11-13.json",

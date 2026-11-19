@@ -1,0 +1,2187 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T07:23:18+07:00",
+  "headline": "Áo phao ‘đúng gram lông’ cháy hàng ở TQ, 9 bộ ngành gỡ ‘vứt khó hơn mua’, Anthropic IPO kỷ lục, Nhật xếp hàng bốc thăm 一番くじ, mùa ngắm sao",
+  "summary": "Trung Quốc: người trẻ đổ vào khu quần áo siêu thị, áo phao bình dân có thông số rõ (Sam’s, Đại học Bắc Kinh, Bàng Đông Lai) hết hàng; 9 bộ ngành ra văn bản về gom đồ nội thất cũ cồng kềnh. Mỹ: Anthropic định giá IPO 83 USD, huy động hơn 81,3 tỷ USD, lên Nasdaq hôm nay. Nhật: 100–300 người xếp hàng bốc thăm 一番くじ sáng ngày thường; Orion lên bảng Yahoo realtime. 7 ý tưởng nhỏ: web tính giá áo phao theo gram lông, ngày dọn đồ to theo tòa, watchlist IPO Anthropic, bốc thăm không vé trắng, đêm săn sao, merch trường, tem lãi minh bạch.",
+  "trends": [
+    {
+      "id": "20261119-t1-ao-phao-binh-dan",
+      "title": "TQ: áo phao giá ‘bình dân’ cháy hàng — Sam’s 399 tệ, Bắc Đại 399 tệ, Bàng Đông Lai ghi lãi trên tem; người trẻ đổ vào khu quần áo siêu thị",
+      "summary": "每经网 (12/11): áo phao ROKKA&ROLLA 399 tệ, 300 g lông ở Sam’s Club hết hàng, tem ghi 80% lông vịt trắng. 新京报 (18/11): ba mẫu ‘không mua được’ (Sam’s, đồ lưu niệm Đại học Bắc Kinh, Bàng Đông Lai); giá bình quân áo phao ở bán lẻ lớn vượt 1.000 tệ năm 2025. 中新网 (17/11): người mua sợ áo đắt nhưng nhồi ‘phi ti’ (lông vụn). Sáng 19/11 Baidu #7: ‘khu quần áo siêu thị chật kín người trẻ’.",
+      "why_it_matters": "Người trẻ TQ mua theo thông số kiểm được trên tem (gram lông, % lông) và niềm tin vào kênh bán, không theo thương hiệu — gợi ý cho hàng mùa đông và nội dung so sánh ở VN.",
+      "tags": [
+        "áo phao",
+        "siêu thị",
+        "thông số",
+        "tiêu dùng lý trí"
+      ],
+      "regions": [
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "Áo phao ROKKA&ROLLA ở Sam’s Club giá 399,9 tệ, L-size 300 g lông, 80% lông vịt trắng; hết hàng trên mini-app và nhiều cửa hàng.",
+          "source_ids": [
+            "nbd_sam",
+            "bjn_down",
+            "cns_down"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Áo phao 399 tệ của cửa hàng lưu niệm Đại học Bắc Kinh (90% lông ngỗng) bán hết; mini-app không mở được ngày 16/11.",
+          "source_ids": [
+            "bjn_down",
+            "cns_down"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Chi tiết mini-app bị sập chỉ có ở 新京报."
+        },
+        {
+          "text": "Bàng Đông Lai bán áo phao giá vốn 303 tệ, giá bán 393 tệ và in lợi nhuận gộp lên tem.",
+          "source_ids": [
+            "bjn_down"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Giá bình quân áo phao ở các doanh nghiệp bán lẻ lớn: 438,6 tệ (2015) → 881 tệ (2024) → trên 1.000 tệ (2025), theo 中华全国商业信息中心.",
+          "source_ids": [
+            "bjn_down"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Baidu 19/11: ‘超市服装区挤满了年轻人’ hạng #7 — người trẻ và trung lưu mua quần áo ở Walmart, Sam’s, Costco.",
+          "source_ids": [
+            "baidu_1119"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Chỉ là mô tả từ khóa."
+        }
+      ],
+      "sources": [
+        {
+          "id": "nbd_sam",
+          "name": "每日经济新闻 (每经网)",
+          "title": "热搜！“山姆399元充绒量300克羽绒服断货”……",
+          "url": "https://www.nbd.com.cn/articles/2026-11-12/4645637.html",
+          "published": "2026-11-12",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "bjn_down",
+          "name": "新京报 (贝壳财经)",
+          "title": "这个冬天，羽绒服市场“劈了叉”，有三款羽绒服“买不到”",
+          "url": "https://www.bjnews.com.cn/detail/1795001581129624.html",
+          "published": "2026-11-18",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "cns_down",
+          "name": "中新网 (dẫn 扬子晚报)",
+          "title": "399元羽绒服被抢空引发热议 平价羽绒服为何突然变得“真香”",
+          "url": "https://www.chinanews.com.cn/life/2026/11-17/10733296.shtml",
+          "published": "2026-11-17",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "baidu_1119",
+          "name": "Baidu 热搜 (realtime)",
+          "title": "百度热搜 实时榜 — 19/11/2026 ~07:11 (UTC+7)",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": "2026-11-19",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Chỉ là mô tả kèm từ khóa trên bảng xếp hạng, không phải bài báo."
+        }
+      ]
+    },
+    {
+      "id": "20261119-t2-do-cong-kenh",
+      "title": "TQ: 9 bộ ngành ra văn bản giải bài toán ‘vứt khó hơn mua’ với đồ nội thất cũ cồng kềnh — khoán gom, dọn tận nhà, ngày gom miễn phí",
+      "summary": "Văn bản số 206/2026 của Bộ Thương mại TQ và 8 cơ quan (thành văn 11/11, công bố 17/11) đề xuất 3 mô hình cho đồ nội thất cũ: khoán gom theo khu vực, doanh nghiệp dọn tận nhà tính theo loại đồ – tầng – thang máy, và ngày gom miễn phí. Bài giải đọc trên gov.cn dẫn số liệu: tổng lượng thu hồi các loại chính năm 2025 đạt 417 triệu tấn (+4,1%). Baidu 19/11 #22 đưa chủ đề này lên bảng nóng.",
+      "why_it_matters": "Chính sách biến việc dọn đồ to thành dịch vụ có giá theo tầng/thang máy — VN cũng đang vướng rác cồng kềnh ở đô thị.",
+      "tags": [
+        "tái chế",
+        "đồ cồng kềnh",
+        "chính sách",
+        "dịch vụ tận nhà"
+      ],
+      "regions": [
+        "CN",
+        "VN"
+      ],
+      "key_facts": [
+        {
+          "text": "Văn bản đề xuất ‘包干清运’ (khoán gom theo khu vực), dọn tận nhà có tính đến loại đồ, tầng, có thang máy hay không, và gom miễn phí theo lịch hẹn.",
+          "source_ids": [
+            "gov_wj",
+            "gov_jd"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Hai trang cùng của gov.cn (văn bản + giải đọc) — cùng một gốc."
+        },
+        {
+          "text": "Tổng lượng thu hồi các loại chính năm 2025: 417 triệu tấn (+4,1%), giá trị 1,39 nghìn tỷ tệ (+3,8%).",
+          "source_ids": [
+            "gov_jd"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hà Nội: theo QĐ 87/2025/QĐ-UBND, khi có chất thải cồng kềnh phải liên hệ đơn vị có chức năng thu gom để thỏa thuận; đồ cũ vẫn bị vứt dọc Đại lộ Thăng Long, Lê Trọng Tấn, đường 70.",
+          "source_ids": [
+            "hnm_rac"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "gov_wj",
+          "name": "中国政府网 (văn bản)",
+          "title": "商务部等9部门关于深入推进再生资源回收体系建设 促进回收行业高质量发展的意见",
+          "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7086351.htm",
+          "published": "2026-11-17",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Ngày thành văn 11/11/2026; công bố 17/11 theo bài giải đọc của gov.cn."
+        },
+        {
+          "id": "gov_jd",
+          "name": "中国政府网 (giải đọc chính sách)",
+          "title": "促进回收行业高质量发展——多部门详解深入推进再生资源回收体系建设",
+          "url": "https://www.gov.cn/zhengce/202611/content_7086432.htm",
+          "published": "2026-11-17",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "cns_recy",
+          "name": "中新网",
+          "title": "商务部等9部门深入推进再生资源回收体系建设",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733330.shtml",
+          "published": "2026-11-17",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Đăng lại nội dung văn bản — không tính là nguồn độc lập với gov.cn."
+        },
+        {
+          "id": "hnm_rac",
+          "name": "Hànộimới",
+          "title": "Tìm lời giải cho bài toán rác thải cồng kềnh tại Hà Nội",
+          "url": "https://hanoimoi.vn/tim-loi-giai-cho-bai-toan-rac-thai-cong-kenh-tai-ha-noi-1763918.html",
+          "published": "2026-11-02",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "baidu_1119",
+          "name": "Baidu 热搜 (realtime)",
+          "title": "百度热搜 实时榜 — 19/11/2026 ~07:11 (UTC+7)",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": "2026-11-19",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Chỉ là mô tả kèm từ khóa trên bảng xếp hạng, không phải bài báo."
+        }
+      ]
+    },
+    {
+      "id": "20261119-t3-ipo-anthropic",
+      "title": "Mỹ: Anthropic định giá IPO 83 USD/cổ phiếu — thương vụ IPO lớn nhất lịch sử, lên sàn Nasdaq hôm nay (19/11)",
+      "summary": "Thông cáo Anthropic (18/11): bán 980 triệu cổ phiếu loại A giá 83 USD, mã ANT, giao dịch từ 19/11. NPR: tổng huy động hơn 81,3 tỷ USD, vượt SpaceX; giá và số cổ phiếu vượt dự kiến 70–78 USD. TechCrunch: định giá khoảng 1,5 nghìn tỷ USD (pha loãng hoàn toàn). Baidu 19/11 có 2 từ khóa liên quan (#16, #20).",
+      "why_it_matters": "Phiên đầu tiên của ANT là phép thử tâm lý ‘bong bóng AI’ sau cú sốc Nvidia — ảnh hưởng dòng vốn vào cổ phiếu AI toàn cầu.",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "Nasdaq",
+        "AI"
+      ],
+      "regions": [
+        "US",
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "Giá IPO 83 USD/cổ phiếu, 980 triệu cổ phiếu (956.351.354 do Anthropic bán), mã ANT trên Nasdaq Global Select, giao dịch từ 19/11/2026.",
+          "source_ids": [
+            "ant_ipo",
+            "npr_ipo"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Tổng huy động hơn 81,3 tỷ USD, vượt mức 75 tỷ USD của SpaceX; khoảng giá dự kiến ban đầu là 70–78 USD với 825 triệu cổ phiếu.",
+          "source_ids": [
+            "npr_ipo",
+            "tc_ipo"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Định giá khoảng 1,5 nghìn tỷ USD (pha loãng hoàn toàn), so với 965 tỷ USD ở vòng tư nhân tháng 5.",
+          "source_ids": [
+            "tc_ipo"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "TechCrunch ghi ‘reportedly’."
+        },
+        {
+          "text": "Baidu 19/11: ‘史上最大IPO！ANT估值1.5万亿美元’ #16 và ‘孙正义后悔当年没投Anthropic’ #20.",
+          "source_ids": [
+            "baidu_1119"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ant_ipo",
+          "name": "Anthropic (thông cáo)",
+          "title": "Anthropic prices initial public offering",
+          "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+          "published": "2026-11-18",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "npr_ipo",
+          "name": "NPR",
+          "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+          "published": "2026-11-18",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "tc_ipo",
+          "name": "TechCrunch",
+          "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "published": "2026-11-18",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "baidu_1119",
+          "name": "Baidu 热搜 (realtime)",
+          "title": "百度热搜 实时榜 — 19/11/2026 ~07:11 (UTC+7)",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": "2026-11-19",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Chỉ là mô tả kèm từ khóa trên bảng xếp hạng, không phải bài báo."
+        }
+      ]
+    },
+    {
+      "id": "20261119-t4-ichiban-kuji",
+      "title": "Nhật: bốc thăm 一番くじ ‘To LOVEる’ — xếp hàng 100–300 người sáng ngày thường, cửa hàng phải phát số thứ tự",
+      "summary": "ORICON (18/11): ngày mở bán, ‘To LOVEる’ lên xu hướng X, người dùng kể xếp hàng 100–300 người dù là sáng thứ Tư. Cửa hàng chính thức của Bandai Namco ở Osaka phát phiếu thứ tự 9:00–9:50, chỉ nhận thanh toán không tiền mặt. Google Trends JP sáng 19/11: ‘tolove る 一番 くじ’ #8.",
+      "why_it_matters": "Mô hình ‘bốc thăm mọi vé đều trúng, giải A to nhất’ vẫn kéo người xếp hàng — thể thức có thể mượn cho hàng của họa sĩ/nhãn nhỏ.",
+      "tags": [
+        "一番くじ",
+        "bốc thăm",
+        "anime",
+        "xếp hàng"
+      ],
+      "regions": [
+        "JP"
+      ],
+      "key_facts": [
+        {
+          "text": "Người dùng X kể có khoảng 100, 200, 300 người xếp hàng mua 一番くじ ‘To LOVEる’ sáng ngày phát hành 18/11.",
+          "source_ids": [
+            "oricon_kuji",
+            "lil_kuji"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "lilvest dẫn lại Oricon."
+        },
+        {
+          "text": "Cửa hàng chính thức ở AEON Mall Dainichi (Osaka) phát phiếu thứ tự 9:00–9:50 ngày 18/11, chỉ thanh toán không tiền mặt.",
+          "source_ids": [
+            "bn_kuji"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Giải gồm figure và khăn in cỡ khoảng 170 cm.",
+          "source_ids": [
+            "oricon_kuji",
+            "lil_kuji"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "oricon_kuji",
+          "name": "ORICON NEWS",
+          "title": "『To LOVEる』一番くじ販売開始でネット衝撃　店は行列でトレンド席巻「平日の朝だぞ」",
+          "url": "https://www.oricon.co.jp/news/2493603/",
+          "published": "2026-11-18",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "lil_kuji",
+          "name": "lilvest NEWS",
+          "title": "『To LOVEる』一番くじが発売初日からXでトレンド入り……",
+          "url": "https://lilvest.com/article/1588",
+          "published": "2026-11-18",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Bài ghi rõ dẫn theo Oricon — không tính là nguồn độc lập."
+        },
+        {
+          "id": "bn_kuji",
+          "name": "Bandai Namco Amusement (一番くじ公式ショップ)",
+          "title": "11月18日(水) 一番くじ公式ショップ大阪イオンモール大日店 販売方法について",
+          "url": "https://bandainamco-am.co.jp/chara_shop/ichibankuji-official-shop/NEWS/dainichi/news/20261118_dainichi.html",
+          "published": "2026-11-12",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Thông báo của cửa hàng chính thức (đăng 12/11) về cách bán ngày 18/11."
+        }
+      ]
+    },
+    {
+      "id": "20261119-t5-bau-troi-mua-dong",
+      "title": "Nhật & VN: ‘bầu trời mùa đông’ thành chủ đề — Orion lên Yahoo realtime, VN theo dõi mưa sao băng Leonids",
+      "summary": "Yahoo! JAPAN realtime 19/11 (#10 trong bảng まとめ): 99 bài đăng X khen Orion, Sirius và tam giác mùa đông rõ nét, nhiều người chụp ảnh và đi dạo. Sức khỏe & Đời sống (17/11) dẫn Hội Thiên văn và Vũ trụ học VN: Leonids cực điểm rạng sáng 18/11, khoảng 20–30 sao băng mỗi giờ.",
+      "why_it_matters": "Trời quang mùa khô là ‘mùa ngắm sao’ — một trải nghiệm rẻ, dễ chụp, hợp nội dung mạng xã hội.",
+      "tags": [
+        "ngắm sao",
+        "Orion",
+        "Leonids",
+        "trải nghiệm"
+      ],
+      "regions": [
+        "JP",
+        "VN"
+      ],
+      "key_facts": [
+        {
+          "text": "Yahoo realtime: bản tóm tắt ngày 19/11 tạo từ 99 bài đăng X về Orion, Sirius và tam giác mùa đông.",
+          "source_ids": [
+            "yj_orion"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "VACA: Leonids có thể cho 20–30 sao băng mỗi giờ vào rạng sáng 18/11.",
+          "source_ids": [
+            "skds_leo"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "yj_orion",
+          "name": "Yahoo! JAPAN リアルタイム検索 (SNSのバズまとめ)",
+          "title": "オリオン座がくっきり！冬の星空に感動の声が続出……",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome/b644378567b14cb7b6103da4a5c5c72f-1795029000",
+          "published": "2026-11-19",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Bản tóm tắt do Yahoo tự sinh từ 99 bài đăng X — là tín hiệu mạng xã hội, không phải báo."
+        },
+        {
+          "id": "skds_leo",
+          "name": "Sức khỏe & Đời sống",
+          "title": "Mưa sao băng Leonids đạt cực điểm đêm nay, quan sát thế nào?",
+          "url": "https://suckhoedoisong.vn/mua-sao-bang-leonids-dat-cuc-diem-dem-nay-quan-sat-the-nao-16926111714292899.htm",
+          "published": "2026-11-17",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "20261119-01-gia-moi-gram-long",
+      "title": "“Mỗi gram lông bao nhiêu tiền?” — web tính giá áo phao theo tem + kênh soi tem áo phao mùa rét",
+      "pitch": "Học từ cơn sốt áo phao bình dân ở TQ, nơi người mua so từng gram lông in trên tem. Ở VN: một trang web nhỏ cho nhập giá, % lông và gram lông, rồi ra ‘đồng cho mỗi gram lông’. Đi kèm kênh TikTok mỗi ngày soi tem một chiếc áo phao ở siêu thị, chợ, sàn, và gắn link tiếp thị liên kết cho mẫu đáng tiền.",
+      "type": "startup",
+      "category": [
+        "ai",
+        "content",
+        "ecom"
+      ],
+      "tags": [
+        "áo phao",
+        "so sánh giá",
+        "mùa đông",
+        "tem nhãn",
+        "tiếp thị liên kết"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu TQ có 3 bài báo độc lập. Việc người mua VN đọc tem áo phao, và tem áo bán ở VN có ghi gram lông hay không, là giả thuyết — nhiều áo có thể không ghi. Cần đi chụp tem thật trước khi làm web.",
+      "confidence": "trung bình",
+      "image_alt": "Minh họa phẳng chiếc áo phao màu cam treo trên móc, bên cạnh cân nhỏ và kính lúp màu xanh teal soi nhãn mác",
+      "regions": [
+        "CN",
+        "VN"
+      ],
+      "from_keywords": [
+        "kw-cn-07"
+      ],
+      "signal_text": "TQ (12–18/11/2026): áo phao ROKKA&ROLLA 399,9 tệ, 300 g lông ở Sam’s Club hết hàng; áo 399 tệ của Đại học Bắc Kinh bán hết; Bàng Đông Lai in lợi nhuận gộp lên tem. Người mua sợ áo đắt nhưng nhồi lông vụn (每经网, 新京报, 中新网). Baidu 19/11 #7: người trẻ chen kín khu quần áo siêu thị.",
+      "vn_youth_fit": "Gen Z siết ngân sách nhất (fact ngan-sach) và mua qua video ngắn tăng mạnh (fact video-commerce); nội dung ‘soi tem trước khi mua’ hợp cả hai. Sàn lớn (fact san-tmdt) là nơi gắn link. Việc người trẻ VN quan tâm gram lông là giả thuyết.",
+      "vn_fit_refs": [
+        "ngan-sach",
+        "video-commerce",
+        "san-tmdt"
+      ],
+      "key_facts": [
+        {
+          "text": "Áo phao ROKKA&ROLLA ở Sam’s Club giá 399,9 tệ, L-size 300 g lông, 80% lông vịt trắng; hết hàng.",
+          "source_ids": [
+            "nbd_sam",
+            "bjn_down",
+            "cns_down"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Các mẫu cùng mức lông trên sàn TQ phần lớn niêm yết 800–2.000 tệ.",
+          "source_ids": [
+            "nbd_sam",
+            "bjn_down"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Người mua kể từng mua áo hơn 500 tệ, cắt ra thấy toàn ‘phi ti’ (lông vụn), nên chuyển sang áo bình dân có thông số rõ.",
+          "source_ids": [
+            "cns_down"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Baidu 19/11 #7: ‘超市服装区挤满了年轻人’.",
+          "source_ids": [
+            "baidu_1119"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "nbd_sam",
+          "name": "每日经济新闻 (每经网)",
+          "title": "热搜！“山姆399元充绒量300克羽绒服断货”……",
+          "url": "https://www.nbd.com.cn/articles/2026-11-12/4645637.html",
+          "published": "2026-11-12",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "bjn_down",
+          "name": "新京报 (贝壳财经)",
+          "title": "这个冬天，羽绒服市场“劈了叉”，有三款羽绒服“买不到”",
+          "url": "https://www.bjnews.com.cn/detail/1795001581129624.html",
+          "published": "2026-11-18",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "cns_down",
+          "name": "中新网 (dẫn 扬子晚报)",
+          "title": "399元羽绒服被抢空引发热议 平价羽绒服为何突然变得“真香”",
+          "url": "https://www.chinanews.com.cn/life/2026/11-17/10733296.shtml",
+          "published": "2026-11-17",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "baidu_1119",
+          "name": "Baidu 热搜 (realtime)",
+          "title": "百度热搜 实时榜 — 19/11/2026 ~07:11 (UTC+7)",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": "2026-11-19",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Chỉ là mô tả kèm từ khóa trên bảng xếp hạng, không phải bài báo."
+        }
+      ],
+      "localize_vn": "Giả thuyết: web 1 trang ‘giaphao.vn’ (tên tạm) — nhập giá, % lông, gram lông → ra đồng/gram và xếp hạng ‘đáng tiền’. Mỗi ngày 1 clip soi tem ở siêu thị/chợ/sàn ở Hà Nội; không chê thương hiệu, chỉ đọc tem. Kiếm tiền bằng link tiếp thị liên kết và bài review có tài trợ ghi rõ.",
+      "first_steps": [
+        "Ngày 1: Đi 3 nơi bán áo phao (siêu thị, chợ, cửa hàng) chụp 20 tem; ghi tem nào có gram lông, tem nào không.",
+        "Ngày 2: Nhờ Claude viết web tính đồng/gram, đăng lên GitHub Pages.",
+        "Ngày 3: Quay 3 clip ‘đọc tem 30 giây’ bằng CapCut, ảnh bìa bằng Canva.",
+        "Ngày 4–5: Đăng mỗi ngày 1 clip; gắn link sản phẩm qua TikTok Shop tiếp thị liên kết nếu đủ điều kiện.",
+        "Ngày 6–7: Đếm lượt dùng web, bình luận gửi ảnh tem, lượt bấm link; quyết định tiếp tục."
+      ],
+      "capital": {
+        "vnd_min_m": 1,
+        "vnd_max_m": 5,
+        "usd_min": 38,
+        "usd_max": 192,
+        "note": "Ước tính của người soạn: tên miền, đi lại chụp tem, có thể mua 1–2 áo để thử; web dùng gói miễn phí."
+      },
+      "risks": [
+        "Nhiều áo ở VN không ghi gram lông — công cụ thiếu dữ liệu",
+        "Tem có thể ghi sai, không kiểm được bằng mắt",
+        "Mùa bán ngắn (vài tháng rét)",
+        "Dễ bị cho là chê thương hiệu nếu lời lẽ không cẩn thận",
+        "Thu nhập tiếp thị liên kết thấp lúc đầu"
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 6,
+        "novelty": 6,
+        "lowcap": 9,
+        "signal": 8,
+        "vnfit": 6
+      },
+      "toolstack": {
+        "checked": "2026-11-19",
+        "confidence": "trung bình",
+        "wow": "Dán ảnh tem áo, 3 giây sau ra ‘đồng cho mỗi gram lông’ và nhãn ‘đáng tiền / hơi đắt’.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Viết web tính đồng/gram và đọc ảnh tem.",
+            "why": "Viết mã nhanh, đọc ảnh tốt.",
+            "alt_ids": [
+              "chatgpt",
+              "gemini"
+            ]
+          },
+          {
+            "tool_id": "github_pages",
+            "role": "Đăng web tĩnh miễn phí.",
+            "why": "Không cần máy chủ.",
+            "alt_ids": [
+              "cloudflare_pages"
+            ]
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Dựng clip soi tem dọc.",
+            "why": "Phụ đề tự động.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "canva",
+            "role": "Ảnh bìa, bảng xếp hạng áo.",
+            "why": "Mẫu có sẵn.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "tiktok_shop",
+            "role": "Gắn link tiếp thị liên kết.",
+            "why": "Mua ngay trong video.",
+            "alt_ids": [
+              "shopee_seller"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "github_pages",
+            "capcut",
+            "canva"
+          ],
+          "monthly_cost_note": "Claude gói miễn phí + GitHub Pages + CapCut Free + Canva Free — xem data/tools.json.",
+          "tradeoff": "Chưa có link bán, chưa có doanh thu."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "cloudflare_pages",
+            "capcut",
+            "canva",
+            "tiktok_shop"
+          ],
+          "monthly_cost_note": "Claude Pro + Cloudflare Pages + CapCut/Canva bản trả phí (giá CapCut Pro, Canva Pro chưa xác minh) — xem data/tools.json.",
+          "tradeoff": "Tốn phí hơn nhưng có link bán và bảng xếp hạng đẹp."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Mỗi gram lông bao nhiêu tiền?” — web tính giá áo phao theo tem + kênh soi tem áo phao mùa rét\nTóm tắt: Học từ cơn sốt áo phao bình dân ở TQ, nơi người mua so từng gram lông in trên tem. Ở VN: một trang web nhỏ cho nhập giá, % lông và gram lông, rồi ra ‘đồng cho mỗi gram lông’. Đi kèm kênh TikTok mỗi ngày soi tem một chiếc áo phao ở siêu thị, chợ, sàn, và gắn link tiếp thị liên kết cho mẫu đáng tiền.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: TQ (12–18/11/2026): áo phao ROKKA&ROLLA 399,9 tệ, 300 g lông ở Sam’s Club hết hàng; áo 399 tệ của Đại học Bắc Kinh bán hết; Bàng Đông Lai in lợi nhuận gộp lên tem. Người mua sợ áo đắt nhưng nhồi lông vụn (每经网, 新京报, 中新网). Baidu 19/11 #7: người trẻ chen kín khu quần áo siêu thị.\nDữ kiện:\n- Áo phao ROKKA&ROLLA ở Sam’s Club giá 399,9 tệ, L-size 300 g lông, 80% lông vịt trắng; hết hàng. (mức xác minh: 2+ nguồn độc lập)\n- Các mẫu cùng mức lông trên sàn TQ phần lớn niêm yết 800–2.000 tệ. (mức xác minh: 2+ nguồn độc lập)\n- Người mua kể từng mua áo hơn 500 tệ, cắt ra thấy toàn ‘phi ti’ (lông vụn), nên chuyển sang áo bình dân có thông số rõ. (mức xác minh: 1 nguồn gốc)\n- Baidu 19/11 #7: ‘超市服装区挤满了年轻人’. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Tín hiệu TQ có 3 bài báo độc lập. Việc người mua VN đọc tem áo phao, và tem áo bán ở VN có ghi gram lông hay không, là giả thuyết — nhiều áo có thể không ghi. Cần đi chụp tem thật trước khi làm web.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nGen Z siết ngân sách nhất (fact ngan-sach) và mua qua video ngắn tăng mạnh (fact video-commerce); nội dung ‘soi tem trước khi mua’ hợp cả hai. Sàn lớn (fact san-tmdt) là nơi gắn link. Việc người trẻ VN quan tâm gram lông là giả thuyết.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: web 1 trang ‘giaphao.vn’ (tên tạm) — nhập giá, % lông, gram lông → ra đồng/gram và xếp hạng ‘đáng tiền’. Mỗi ngày 1 clip soi tem ở siêu thị/chợ/sàn ở Hà Nội; không chê thương hiệu, chỉ đọc tem. Kiếm tiền bằng link tiếp thị liên kết và bài review có tài trợ ghi rõ.\n\n## 4. Ràng buộc\n- Vốn: 1–5 triệu đồng (Ước tính của người soạn: tên miền, đi lại chụp tem, có thể mua 1–2 áo để thử; web dùng gói miễn phí.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Nhiều áo ở VN không ghi gram lông — công cụ thiếu dữ liệu; Tem có thể ghi sai, không kiểm được bằng mắt; Mùa bán ngắn (vài tháng rét); Dễ bị cho là chê thương hiệu nếu lời lẽ không cẩn thận; Thu nhập tiếp thị liên kết thấp lúc đầu.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Claude (Anthropic): Viết web tính đồng/gram và đọc ảnh tem.\n- GitHub Pages: Đăng web tĩnh miễn phí.\n- CapCut: Dựng clip soi tem dọc.\n- Canva: Ảnh bìa, bảng xếp hạng áo.\n- TikTok Shop Việt Nam (Seller Center): Gắn link tiếp thị liên kết.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Đi 3 nơi bán áo phao (siêu thị, chợ, cửa hàng) chụp 20 tem; ghi tem nào có gram lông, tem nào không.\n- Ngày 2: Nhờ Claude viết web tính đồng/gram, đăng lên GitHub Pages.\n- Ngày 3: Quay 3 clip ‘đọc tem 30 giây’ bằng CapCut, ảnh bìa bằng Canva.\n- Ngày 4–5: Đăng mỗi ngày 1 clip; gắn link sản phẩm qua TikTok Shop tiếp thị liên kết nếu đủ điều kiện.\n- Ngày 6–7: Đếm lượt dùng web, bình luận gửi ảnh tem, lượt bấm link; quyết định tiếp tục.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Mã nguồn web 1 trang tính đồng/gram (HTML/JS, chạy được trên GitHub Pages), có ô nhập và bảng so sánh.\n- Mẫu bảng ghi 20 tem áo (cột: nơi bán, giá, % lông, gram lông, có/không ghi).\n- Kịch bản 5 clip ‘đọc tem 30 giây’, lời lẽ trung lập, không chê thương hiệu.\n- Hướng dẫn công bố quảng cáo/tiếp thị liên kết minh bạch [cần xác minh quy định].\n- Bảng đo 7 ngày: lượt dùng web, bình luận, lượt bấm link.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.\n",
+      "date": "2026-11-19",
+      "image": "assets/ideas/20261119-01-gia-moi-gram-long.webp",
+      "total_score": 7.12,
+      "rank": 1
+    },
+    {
+      "id": "20261119-03-watchlist-ipo-anthropic",
+      "title": "Watchlist “IPO Anthropic” — theo dõi 30 ngày đầu của cổ phiếu ANT và tác động lên cổ phiếu AI; chỉ theo dõi, không khuyến nghị",
+      "pitch": "Anthropic lên sàn Nasdaq hôm nay với thương vụ IPO lớn nhất lịch sử. Watchlist này là khung theo dõi: giá so với 83 USD, quyền mua thêm của bên bảo lãnh, thời hạn khóa bán, và phản ứng của cổ phiếu chip/AI. Không phải khuyến nghị đầu tư.",
+      "type": "invest",
+      "category": [
+        "invest"
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "Nasdaq",
+        "watchlist"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Số liệu IPO có nguồn (thông cáo + 2 báo). Mọi suy đoán về giá sau IPO là giả thuyết; nhà đầu tư VN mua cổ phiếu Mỹ qua kênh nào và có hợp pháp không phải tự kiểm tra. Đây không phải khuyến nghị đầu tư.",
+      "confidence": "trung bình",
+      "image_alt": "Minh họa phẳng biểu đồ nến màu teal và cam trên màn hình, bên cạnh chiếc chuông khai trương và lá cờ nhỏ",
+      "regions": [
+        "US",
+        "CN"
+      ],
+      "from_keywords": [
+        "kw-cn-16",
+        "kw-cn-20"
+      ],
+      "signal_text": "Mỹ (18/11/2026): Anthropic định giá IPO 83 USD/cổ phiếu, 980 triệu cổ phiếu, mã ANT, giao dịch từ 19/11; tổng huy động hơn 81,3 tỷ USD, vượt SpaceX; định giá khoảng 1,5 nghìn tỷ USD (Anthropic, NPR, TechCrunch). Baidu 19/11 có 2 từ khóa về thương vụ này.",
+      "vn_youth_fit": "Người trẻ VN dùng AI hằng ngày (fact ai) nên quan tâm công ty làm Claude; nhưng đầu tư cổ phiếu Mỹ không phải hành vi phổ biến — điểm hợp VN thấp.",
+      "vn_fit_refs": [
+        "ai"
+      ],
+      "key_facts": [
+        {
+          "text": "Giá IPO 83 USD, 980 triệu cổ phiếu loại A, mã ANT; dự kiến hoàn tất 20/11; bên bảo lãnh có quyền mua thêm tối đa 147 triệu cổ phiếu trong 30 ngày.",
+          "source_ids": [
+            "ant_ipo"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Thông cáo của hãng."
+        },
+        {
+          "text": "Tổng huy động hơn 81,3 tỷ USD, vượt mức 75 tỷ USD của SpaceX; khoảng giá dự kiến 70–78 USD.",
+          "source_ids": [
+            "npr_ipo",
+            "tc_ipo"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Định giá khoảng 1,5 nghìn tỷ USD (pha loãng hoàn toàn); vòng tư nhân tháng 5 là 965 tỷ USD.",
+          "source_ids": [
+            "tc_ipo"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ant_ipo",
+          "name": "Anthropic (thông cáo)",
+          "title": "Anthropic prices initial public offering",
+          "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+          "published": "2026-11-18",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "npr_ipo",
+          "name": "NPR",
+          "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+          "published": "2026-11-18",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "tc_ipo",
+          "name": "TechCrunch",
+          "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "published": "2026-11-18",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "baidu_1119",
+          "name": "Baidu 热搜 (realtime)",
+          "title": "百度热搜 实时榜 — 19/11/2026 ~07:11 (UTC+7)",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": "2026-11-19",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Chỉ là mô tả kèm từ khóa trên bảng xếp hạng, không phải bài báo."
+        }
+      ],
+      "localize_vn": "Giả thuyết: một bảng theo dõi công khai bằng tiếng Việt (web tĩnh) cập nhật hằng ngày giá ANT so với 83 USD, tin chính thức của hãng và các mốc (hoàn tất 20/11, hạn quyền mua thêm 30 ngày). Nêu cả quan điểm lo ngại bong bóng AI.",
+      "first_steps": [
+        "Ngày 1: Lập danh sách mốc từ thông cáo (giá, số cổ phiếu, ngày hoàn tất, quyền mua thêm).",
+        "Ngày 2: Nhờ Claude dựng web bảng theo dõi; đối chiếu số liệu bằng Gemini.",
+        "Ngày 3: Cài n8n lấy tin chính thức mỗi sáng.",
+        "Ngày 4–7: Ghi giá đóng cửa mỗi ngày và 3 tin chính; viết tóm tắt tuần có cả mặt trái."
+      ],
+      "capital": {
+        "vnd_min_m": 0,
+        "vnd_max_m": 1,
+        "usd_min": 0,
+        "usd_max": 38,
+        "note": "Ước tính của người soạn: chỉ tốn thời gian; web và công cụ dùng gói miễn phí."
+      },
+      "risks": [
+        "Bị hiểu là lời khuyên đầu tư",
+        "Biến động mạnh trong những ngày đầu niêm yết",
+        "Thông tin ‘reportedly’ chưa được hãng xác nhận",
+        "Kênh đầu tư cổ phiếu Mỹ từ VN có thể không hợp pháp/không thuận tiện",
+        "Tâm lý FOMO"
+      ],
+      "scores": {
+        "ease": 9,
+        "demand": 5,
+        "novelty": 4,
+        "lowcap": 10,
+        "signal": 9,
+        "vnfit": 4
+      },
+      "toolstack": {
+        "checked": "2026-11-19",
+        "confidence": "trung bình",
+        "wow": "Mỗi sáng một thẻ: giá ANT so với 83 USD, 3 tin chính thức, và một câu ‘mặt trái’.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Tóm tắt tin chính thức, dựng web bảng theo dõi.",
+            "why": "Tóm tắt dài tốt.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "gemini",
+            "role": "Đối chiếu số liệu lần 2.",
+            "why": "Kiểm chéo bằng mô hình khác.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "n8n",
+            "role": "Lấy tin/RSS mỗi sáng.",
+            "why": "Tự động hoá miễn phí khi tự host.",
+            "alt_ids": [
+              "zapier"
+            ]
+          },
+          {
+            "tool_id": "github_pages",
+            "role": "Đăng bảng theo dõi.",
+            "why": "Miễn phí.",
+            "alt_ids": []
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "gemini",
+            "github_pages"
+          ],
+          "monthly_cost_note": "Gói miễn phí của Claude, Gemini, GitHub Pages — xem data/tools.json.",
+          "tradeoff": "Cập nhật thủ công."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "gemini",
+            "n8n",
+            "github_pages"
+          ],
+          "monthly_cost_note": "Claude Pro + n8n (tự host hoặc gói cloud) — xem data/tools.json.",
+          "tradeoff": "Tự động hơn nhưng phải bảo trì luồng."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: Watchlist “IPO Anthropic” — theo dõi 30 ngày đầu của cổ phiếu ANT và tác động lên cổ phiếu AI; chỉ theo dõi, không khuyến nghị\nTóm tắt: Anthropic lên sàn Nasdaq hôm nay với thương vụ IPO lớn nhất lịch sử. Watchlist này là khung theo dõi: giá so với 83 USD, quyền mua thêm của bên bảo lãnh, thời hạn khóa bán, và phản ứng của cổ phiếu chip/AI. Không phải khuyến nghị đầu tư.\nMục tiêu tuần này: dựng khung theo dõi có nguồn, đo được, để tôi tự ra quyết định — KHÔNG phải khuyến nghị mua/bán; quyết định tiếp tục / điều chỉnh / dừng việc theo dõi dựa trên số liệu.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Mỹ (18/11/2026): Anthropic định giá IPO 83 USD/cổ phiếu, 980 triệu cổ phiếu, mã ANT, giao dịch từ 19/11; tổng huy động hơn 81,3 tỷ USD, vượt SpaceX; định giá khoảng 1,5 nghìn tỷ USD (Anthropic, NPR, TechCrunch). Baidu 19/11 có 2 từ khóa về thương vụ này.\nDữ kiện:\n- Giá IPO 83 USD, 980 triệu cổ phiếu loại A, mã ANT; dự kiến hoàn tất 20/11; bên bảo lãnh có quyền mua thêm tối đa 147 triệu cổ phiếu trong 30 ngày. (mức xác minh: 1 nguồn gốc)\n- Tổng huy động hơn 81,3 tỷ USD, vượt mức 75 tỷ USD của SpaceX; khoảng giá dự kiến 70–78 USD. (mức xác minh: 2+ nguồn độc lập)\n- Định giá khoảng 1,5 nghìn tỷ USD (pha loãng hoàn toàn); vòng tư nhân tháng 5 là 965 tỷ USD. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Số liệu IPO có nguồn (thông cáo + 2 báo). Mọi suy đoán về giá sau IPO là giả thuyết; nhà đầu tư VN mua cổ phiếu Mỹ qua kênh nào và có hợp pháp không phải tự kiểm tra. Đây không phải khuyến nghị đầu tư.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nNgười trẻ VN dùng AI hằng ngày (fact ai) nên quan tâm công ty làm Claude; nhưng đầu tư cổ phiếu Mỹ không phải hành vi phổ biến — điểm hợp VN thấp.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: một bảng theo dõi công khai bằng tiếng Việt (web tĩnh) cập nhật hằng ngày giá ANT so với 83 USD, tin chính thức của hãng và các mốc (hoàn tất 20/11, hạn quyền mua thêm 30 ngày). Nêu cả quan điểm lo ngại bong bóng AI.\n\n## 4. Ràng buộc\n- Vốn: 0–1 triệu đồng (Ước tính của người soạn: chỉ tốn thời gian; web và công cụ dùng gói miễn phí.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Bị hiểu là lời khuyên đầu tư; Biến động mạnh trong những ngày đầu niêm yết; Thông tin ‘reportedly’ chưa được hãng xác nhận; Kênh đầu tư cổ phiếu Mỹ từ VN có thể không hợp pháp/không thuận tiện; Tâm lý FOMO.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Claude (Anthropic): Tóm tắt tin chính thức, dựng web bảng theo dõi.\n- Gemini (Google): Đối chiếu số liệu lần 2.\n- n8n: Lấy tin/RSS mỗi sáng.\n- GitHub Pages: Đăng bảng theo dõi.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Lập danh sách mốc từ thông cáo (giá, số cổ phiếu, ngày hoàn tất, quyền mua thêm).\n- Ngày 2: Nhờ Claude dựng web bảng theo dõi; đối chiếu số liệu bằng Gemini.\n- Ngày 3: Cài n8n lấy tin chính thức mỗi sáng.\n- Ngày 4–7: Ghi giá đóng cửa mỗi ngày và 3 tin chính; viết tóm tắt tuần có cả mặt trái.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Khung watchlist: các mốc (giá IPO, ngày hoàn tất, quyền mua thêm 30 ngày), chỉ số theo dõi, nguồn chính thức.\n- 3 kịch bản (tốt / trung tính / xấu) mô tả bằng điều kiện, KHÔNG dự báo giá, KHÔNG khuyến nghị.\n- Mã web tĩnh bảng theo dõi.\n- Mẫu tóm tắt tuần có mục ‘quan điểm trái chiều’.\n- Danh sách việc tôi phải tự kiểm tra về kênh đầu tư hợp pháp [cần xác minh].\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.\n",
+      "date": "2026-11-19",
+      "image": "assets/ideas/20261119-03-watchlist-ipo-anthropic.webp",
+      "total_score": 6.78,
+      "rank": 2
+    },
+    {
+      "id": "20261119-07-tem-lai-minh-bach",
+      "title": "“Tem lãi minh bạch” — sạp đồ giữ ấm mùa đông in giá nhập và tiền lãi lên từng tem",
+      "pitch": "Ở TQ, siêu thị Bàng Đông Lai in giá vốn và lợi nhuận gộp lên tem áo phao, và áo ‘mỗi chiếc lãi vài chục tệ’ bán sạch. Ở VN: một sạp nhỏ (chợ đêm hoặc online) bán tất, găng, khăn, mũ len, túi chườm; mỗi tem ghi ‘giá nhập – tiền lãi’, quay clip kể vì sao lãi chừng ấy.",
+      "type": "startup",
+      "category": [
+        "ecom",
+        "content",
+        "product"
+      ],
+      "tags": [
+        "minh bạch giá",
+        "mùa đông",
+        "chợ đêm",
+        "livestream"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu TQ: việc in lãi lên tem chỉ có ở 1 bài (新京报); việc áo Bàng Đông Lai lãi thấp có 2 bài. Người mua VN có tin ‘giá nhập’ tự khai không là giả thuyết; đối thủ có thể dùng số liệu để ép giá.",
+      "confidence": "thấp–trung bình",
+      "image_alt": "Minh họa phẳng sạp nhỏ với khăn len cam, găng tay teal, mũ len và tem giá lớn không chữ hình chiếc cân",
+      "regions": [
+        "CN",
+        "VN"
+      ],
+      "from_keywords": [
+        "kw-cn-07"
+      ],
+      "signal_text": "TQ (17–18/11/2026): Bàng Đông Lai bán áo phao giá vốn 303 tệ, giá bán 393 tệ, in lợi nhuận gộp lên tem; mẫu 200 tệ hơn 140 g lông ‘mỗi chiếc chỉ lãi vài chục tệ’ và bị mua sạch (新京报, 中新网). Baidu 19/11 #7: người trẻ chen kín khu quần áo siêu thị.",
+      "vn_youth_fit": "Gen Z siết chi (fact ngan-sach) và mua qua video ngắn (fact video-commerce) — clip ‘tôi lãi bao nhiêu’ có thể tạo niềm tin. Đây là giả thuyết; cũng giống tinh thần ‘sạp chọn hộ’ (13/11) nhưng ở góc giá.",
+      "vn_fit_refs": [
+        "ngan-sach",
+        "video-commerce"
+      ],
+      "key_facts": [
+        {
+          "text": "Bàng Đông Lai: giá vốn 303 tệ, giá bán 393 tệ, lợi nhuận gộp in trên tem; không dùng nhân viên chào hàng, không trả phí livestream.",
+          "source_ids": [
+            "bjn_down"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Áo phao hơn 200 tệ, hơn 140 g lông, 90% lông của Bàng Đông Lai bị mua sạch; nhân viên nói mỗi chiếc chỉ lãi vài chục tệ.",
+          "source_ids": [
+            "bjn_down",
+            "cns_down"
+          ],
+          "verification": "2+ nguồn độc lập"
+        },
+        {
+          "text": "Baidu 19/11 #7: ‘超市服装区挤满了年轻人’.",
+          "source_ids": [
+            "baidu_1119"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bjn_down",
+          "name": "新京报 (贝壳财经)",
+          "title": "这个冬天，羽绒服市场“劈了叉”，有三款羽绒服“买不到”",
+          "url": "https://www.bjnews.com.cn/detail/1795001581129624.html",
+          "published": "2026-11-18",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "cns_down",
+          "name": "中新网 (dẫn 扬子晚报)",
+          "title": "399元羽绒服被抢空引发热议 平价羽绒服为何突然变得“真香”",
+          "url": "https://www.chinanews.com.cn/life/2026/11-17/10733296.shtml",
+          "published": "2026-11-17",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "baidu_1119",
+          "name": "Baidu 热搜 (realtime)",
+          "title": "百度热搜 实时榜 — 19/11/2026 ~07:11 (UTC+7)",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": "2026-11-19",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Chỉ là mô tả kèm từ khóa trên bảng xếp hạng, không phải bài báo."
+        }
+      ],
+      "localize_vn": "Giả thuyết: 15 mặt hàng giữ ấm nhỏ, tem ghi ‘nhập – lãi’, kèm hóa đơn nhập chụp mờ tên nhà cung cấp. Clip ‘lãi bao nhiêu’ mỗi ngày; bán ở chợ đêm cuối tuần và TikTok Shop.",
+      "first_steps": [
+        "Ngày 1: Nhập thử 15 mặt hàng ở chợ đầu mối, lưu hóa đơn.",
+        "Ngày 2: Thiết kế tem ‘nhập – lãi’ bằng Canva, in thử.",
+        "Ngày 3: Quay 3 clip ‘lãi bao nhiêu’ bằng CapCut.",
+        "Ngày 4: Mở gian hàng TikTok Shop hoặc nhận đơn Zalo OA; thu tiền VietQR.",
+        "Ngày 5–7: Bán ở chợ đêm; so tốc độ bán với sạp bên cạnh, ghi phản hồi."
+      ],
+      "capital": {
+        "vnd_min_m": 5,
+        "vnd_max_m": 15,
+        "usd_min": 192,
+        "usd_max": 577,
+        "note": "Ước tính của người soạn: hàng nhập thử, in tem, phí sạp chợ đêm; giá chợ đầu mối cần hỏi."
+      },
+      "risks": [
+        "Khách không tin số tự khai",
+        "Đối thủ bán rẻ hơn khi biết giá nhập",
+        "Biên lãi thấp, khó trả chi phí",
+        "Mùa bán ngắn",
+        "Thông tin nhà cung cấp lộ ra"
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 6,
+        "novelty": 6,
+        "lowcap": 7,
+        "signal": 7,
+        "vnfit": 6
+      },
+      "toolstack": {
+        "checked": "2026-11-19",
+        "confidence": "trung bình",
+        "wow": "Tem ghi rõ giá nhập và tiền lãi của từng món, chủ sạp chìa hóa đơn nhập ra trước máy quay.",
+        "tools": [
+          {
+            "tool_id": "canva",
+            "role": "Thiết kế tem nhập–lãi, bảng giá.",
+            "why": "In nhanh, đồng bộ.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip ‘lãi bao nhiêu’.",
+            "why": "Dọc, phụ đề.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "tiktok_shop",
+            "role": "Gian hàng bán online.",
+            "why": "Video + mua ngay.",
+            "alt_ids": [
+              "shopee_seller"
+            ]
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Thu tiền ở sạp.",
+            "why": "Miễn phí.",
+            "alt_ids": [
+              "momo"
+            ]
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận đơn, báo lịch chợ đêm.",
+            "why": "Khách quen Zalo.",
+            "alt_ids": []
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "canva",
+            "capcut",
+            "vietqr",
+            "zalo_oa"
+          ],
+          "monthly_cost_note": "Canva Free + CapCut Free + VietQR + Zalo OA miễn phí — xem data/tools.json.",
+          "tradeoff": "Chưa có kênh sàn."
+        },
+        "premium": {
+          "tool_ids": [
+            "canva",
+            "capcut",
+            "tiktok_shop",
+            "vietqr",
+            "zalo_oa"
+          ],
+          "monthly_cost_note": "Thêm phí sàn TikTok Shop — xem data/tools.json.",
+          "tradeoff": "Tiếp cận rộng hơn, tốn phí sàn."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Tem lãi minh bạch” — sạp đồ giữ ấm mùa đông in giá nhập và tiền lãi lên từng tem\nTóm tắt: Ở TQ, siêu thị Bàng Đông Lai in giá vốn và lợi nhuận gộp lên tem áo phao, và áo ‘mỗi chiếc lãi vài chục tệ’ bán sạch. Ở VN: một sạp nhỏ (chợ đêm hoặc online) bán tất, găng, khăn, mũ len, túi chườm; mỗi tem ghi ‘giá nhập – tiền lãi’, quay clip kể vì sao lãi chừng ấy.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: TQ (17–18/11/2026): Bàng Đông Lai bán áo phao giá vốn 303 tệ, giá bán 393 tệ, in lợi nhuận gộp lên tem; mẫu 200 tệ hơn 140 g lông ‘mỗi chiếc chỉ lãi vài chục tệ’ và bị mua sạch (新京报, 中新网). Baidu 19/11 #7: người trẻ chen kín khu quần áo siêu thị.\nDữ kiện:\n- Bàng Đông Lai: giá vốn 303 tệ, giá bán 393 tệ, lợi nhuận gộp in trên tem; không dùng nhân viên chào hàng, không trả phí livestream. (mức xác minh: 1 nguồn gốc)\n- Áo phao hơn 200 tệ, hơn 140 g lông, 90% lông của Bàng Đông Lai bị mua sạch; nhân viên nói mỗi chiếc chỉ lãi vài chục tệ. (mức xác minh: 2+ nguồn độc lập)\n- Baidu 19/11 #7: ‘超市服装区挤满了年轻人’. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Tín hiệu TQ: việc in lãi lên tem chỉ có ở 1 bài (新京报); việc áo Bàng Đông Lai lãi thấp có 2 bài. Người mua VN có tin ‘giá nhập’ tự khai không là giả thuyết; đối thủ có thể dùng số liệu để ép giá.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nGen Z siết chi (fact ngan-sach) và mua qua video ngắn (fact video-commerce) — clip ‘tôi lãi bao nhiêu’ có thể tạo niềm tin. Đây là giả thuyết; cũng giống tinh thần ‘sạp chọn hộ’ (13/11) nhưng ở góc giá.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: 15 mặt hàng giữ ấm nhỏ, tem ghi ‘nhập – lãi’, kèm hóa đơn nhập chụp mờ tên nhà cung cấp. Clip ‘lãi bao nhiêu’ mỗi ngày; bán ở chợ đêm cuối tuần và TikTok Shop.\n\n## 4. Ràng buộc\n- Vốn: 5–15 triệu đồng (Ước tính của người soạn: hàng nhập thử, in tem, phí sạp chợ đêm; giá chợ đầu mối cần hỏi.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Khách không tin số tự khai; Đối thủ bán rẻ hơn khi biết giá nhập; Biên lãi thấp, khó trả chi phí; Mùa bán ngắn; Thông tin nhà cung cấp lộ ra.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Canva: Thiết kế tem nhập–lãi, bảng giá.\n- CapCut: Clip ‘lãi bao nhiêu’.\n- TikTok Shop Việt Nam (Seller Center): Gian hàng bán online.\n- VietQR Kit (Casso): Thu tiền ở sạp.\n- Zalo Official Account (OA): Nhận đơn, báo lịch chợ đêm.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Nhập thử 15 mặt hàng ở chợ đầu mối, lưu hóa đơn.\n- Ngày 2: Thiết kế tem ‘nhập – lãi’ bằng Canva, in thử.\n- Ngày 3: Quay 3 clip ‘lãi bao nhiêu’ bằng CapCut.\n- Ngày 4: Mở gian hàng TikTok Shop hoặc nhận đơn Zalo OA; thu tiền VietQR.\n- Ngày 5–7: Bán ở chợ đêm; so tốc độ bán với sạp bên cạnh, ghi phản hồi.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Bảng 15 mặt hàng: giá nhập [cần xác minh], giá bán, tiền lãi, ghi chú.\n- Mẫu tem ‘nhập – lãi’ và câu giải thích ngắn.\n- Kịch bản 5 clip ‘lãi bao nhiêu’ (không chê đối thủ).\n- Cách xử lý khi khách hỏi ‘sao không bán rẻ hơn’.\n- Bảng theo dõi doanh số 7 ngày.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.\n",
+      "date": "2026-11-19",
+      "image": "assets/ideas/20261119-07-tem-lai-minh-bach.webp",
+      "total_score": 6.66,
+      "rank": 3
+    },
+    {
+      "id": "20261119-05-dem-san-sao",
+      "title": "“Đêm săn sao” cho nhóm nhỏ — xe 16 chỗ ra ngoại thành, chăn, trà gừng và dạy chụp sao bằng điện thoại",
+      "pitch": "Mùa đông trời quang: ở Nhật, Orion lên bảng Yahoo realtime; ở VN, mưa sao băng Leonids được báo đưa tin. Ở Hà Nội: tour tối thứ Bảy cho 10–14 người, đi xe ra điểm ít đèn ở ngoại thành, có thảm, chăn, trà gừng, người hướng dẫn chỉ chòm sao và dạy chụp sao bằng điện thoại.",
+      "type": "startup",
+      "category": [
+        "service",
+        "content"
+      ],
+      "tags": [
+        "ngắm sao",
+        "du lịch ngắn",
+        "mùa đông",
+        "chụp ảnh"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu là xu hướng mạng xã hội Nhật (Yahoo tự tổng hợp) và một bài báo VN về Leonids — không phải dữ liệu nhu cầu tour. Ở VN đã có các tour cắm trại/ngắm sao ở ngoại thành; khác biệt chỉ ở gói ‘tối đi – khuya về, dạy chụp sao’. Thời tiết và ô nhiễm ánh sáng là rủi ro lớn.",
+      "confidence": "thấp–trung bình",
+      "image_alt": "Minh họa phẳng bầu trời đêm xanh teal đầy sao, ba người ngồi trên thảm cam cạnh chiếc xe nhỏ và chân máy điện thoại",
+      "regions": [
+        "JP",
+        "VN"
+      ],
+      "from_keywords": [
+        "kw-jp-y10"
+      ],
+      "signal_text": "Nhật (19/11/2026): Yahoo realtime #10 — 99 bài đăng X khen Orion, Sirius và tam giác mùa đông, nhiều người chụp ảnh, đi dạo. VN (17/11): VACA cho biết Leonids có thể cho 20–30 sao băng mỗi giờ rạng sáng 18/11 (Sức khỏe & Đời sống).",
+      "vn_youth_fit": "Gen Z Việt đi nhiều chuyến ngắn, theo sự kiện và nhạy về ngân sách (fact du-lich) — tour vài giờ giá vừa phải hợp. Video ngắn (fact video-commerce) giúp lan truyền ảnh sao.",
+      "vn_fit_refs": [
+        "du-lich",
+        "video-commerce",
+        "ngan-sach"
+      ],
+      "key_facts": [
+        {
+          "text": "Yahoo realtime: bản tóm tắt ngày 19/11 tạo từ 99 bài đăng X về Orion, Sirius và tam giác mùa đông.",
+          "source_ids": [
+            "yj_orion"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "VACA: Leonids có thể cho 20–30 sao băng mỗi giờ vào rạng sáng 18/11.",
+          "source_ids": [
+            "skds_leo"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "yj_orion",
+          "name": "Yahoo! JAPAN リアルタイム検索 (SNSのバズまとめ)",
+          "title": "オリオン座がくっきり！冬の星空に感動の声が続出……",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome/b644378567b14cb7b6103da4a5c5c72f-1795029000",
+          "published": "2026-11-19",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Bản tóm tắt do Yahoo tự sinh từ 99 bài đăng X — là tín hiệu mạng xã hội, không phải báo."
+        },
+        {
+          "id": "skds_leo",
+          "name": "Sức khỏe & Đời sống",
+          "title": "Mưa sao băng Leonids đạt cực điểm đêm nay, quan sát thế nào?",
+          "url": "https://suckhoedoisong.vn/mua-sao-bang-leonids-dat-cuc-diem-dem-nay-quan-sat-the-nao-16926111714292899.htm",
+          "published": "2026-11-17",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Giả thuyết: 2 điểm thử ở ngoại thành Hà Nội (chọn nơi ít đèn, có chủ đất đồng ý). Lịch theo dự báo mây, hủy miễn phí nếu trời xấu. Giá trọn gói gồm xe, chăn, trà; bán qua nhóm Zalo và TikTok.",
+      "first_steps": [
+        "Ngày 1: Khảo sát 2 điểm ít đèn, hỏi chủ đất/homestay; kiểm tra đường đi ban đêm.",
+        "Ngày 2: Thuê xe 16 chỗ, hỏi giá; Claude lập bảng giá và kịch bản hướng dẫn chòm sao.",
+        "Ngày 3: Làm poster Canva, mở form qua Zalo OA, thu cọc VietQR.",
+        "Ngày 4–5: Quay clip mẫu chụp sao bằng điện thoại, dựng CapCut.",
+        "Ngày 6–7: Chạy 1 đêm thử; đo số người đăng ký, tỉ lệ hủy, số ảnh khách đăng lại."
+      ],
+      "capital": {
+        "vnd_min_m": 3,
+        "vnd_max_m": 10,
+        "usd_min": 115,
+        "usd_max": 385,
+        "note": "Ước tính của người soạn: thuê xe theo chuyến, thảm, chăn, trà, đèn đỏ, chân máy điện thoại; giá xe cần hỏi."
+      },
+      "risks": [
+        "Mây, sương mù hoặc mưa làm hỏng buổi",
+        "An toàn khi đi đêm ở ngoại thành",
+        "Ô nhiễm ánh sáng gần Hà Nội",
+        "Cần giấy phép lữ hành nếu bán tour trọn gói [cần xác minh]",
+        "Đã có tour cắm trại ngắm sao"
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 6,
+        "novelty": 5,
+        "lowcap": 8,
+        "signal": 6,
+        "vnfit": 7
+      },
+      "toolstack": {
+        "checked": "2026-11-19",
+        "confidence": "trung bình",
+        "wow": "Khách về nhà có ngay tấm ảnh chính mình dưới bầu trời sao, chụp bằng chính điện thoại.",
+        "tools": [
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận đăng ký, báo hủy khi trời xấu.",
+            "why": "Khách quen Zalo.",
+            "alt_ids": [
+              "zalo_zns"
+            ]
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Thu cọc.",
+            "why": "Miễn phí.",
+            "alt_ids": [
+              "momo"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Poster, bản đồ chòm sao in.",
+            "why": "Nhanh.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip hướng dẫn chụp sao.",
+            "why": "Dọc, phụ đề.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "claude",
+            "role": "Kịch bản hướng dẫn chòm sao, bảng giá, quy trình an toàn.",
+            "why": "Soạn nhanh, rõ.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "zalo_oa",
+            "vietqr",
+            "canva",
+            "capcut",
+            "claude"
+          ],
+          "monthly_cost_note": "Các gói miễn phí — xem data/tools.json.",
+          "tradeoff": "Báo hủy thủ công."
+        },
+        "premium": {
+          "tool_ids": [
+            "zalo_oa",
+            "zalo_zns",
+            "momo",
+            "canva",
+            "capcut",
+            "claude"
+          ],
+          "monthly_cost_note": "Thêm phí tin ZNS và phí MoMo Business — xem data/tools.json.",
+          "tradeoff": "Tự động nhắc lịch/hủy, tốn phí."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Đêm săn sao” cho nhóm nhỏ — xe 16 chỗ ra ngoại thành, chăn, trà gừng và dạy chụp sao bằng điện thoại\nTóm tắt: Mùa đông trời quang: ở Nhật, Orion lên bảng Yahoo realtime; ở VN, mưa sao băng Leonids được báo đưa tin. Ở Hà Nội: tour tối thứ Bảy cho 10–14 người, đi xe ra điểm ít đèn ở ngoại thành, có thảm, chăn, trà gừng, người hướng dẫn chỉ chòm sao và dạy chụp sao bằng điện thoại.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Nhật (19/11/2026): Yahoo realtime #10 — 99 bài đăng X khen Orion, Sirius và tam giác mùa đông, nhiều người chụp ảnh, đi dạo. VN (17/11): VACA cho biết Leonids có thể cho 20–30 sao băng mỗi giờ rạng sáng 18/11 (Sức khỏe & Đời sống).\nDữ kiện:\n- Yahoo realtime: bản tóm tắt ngày 19/11 tạo từ 99 bài đăng X về Orion, Sirius và tam giác mùa đông. (mức xác minh: 1 nguồn gốc)\n- VACA: Leonids có thể cho 20–30 sao băng mỗi giờ vào rạng sáng 18/11. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Tín hiệu là xu hướng mạng xã hội Nhật (Yahoo tự tổng hợp) và một bài báo VN về Leonids — không phải dữ liệu nhu cầu tour. Ở VN đã có các tour cắm trại/ngắm sao ở ngoại thành; khác biệt chỉ ở gói ‘tối đi – khuya về, dạy chụp sao’. Thời tiết và ô nhiễm ánh sáng là rủi ro lớn.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nGen Z Việt đi nhiều chuyến ngắn, theo sự kiện và nhạy về ngân sách (fact du-lich) — tour vài giờ giá vừa phải hợp. Video ngắn (fact video-commerce) giúp lan truyền ảnh sao.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: 2 điểm thử ở ngoại thành Hà Nội (chọn nơi ít đèn, có chủ đất đồng ý). Lịch theo dự báo mây, hủy miễn phí nếu trời xấu. Giá trọn gói gồm xe, chăn, trà; bán qua nhóm Zalo và TikTok.\n\n## 4. Ràng buộc\n- Vốn: 3–10 triệu đồng (Ước tính của người soạn: thuê xe theo chuyến, thảm, chăn, trà, đèn đỏ, chân máy điện thoại; giá xe cần hỏi.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Mây, sương mù hoặc mưa làm hỏng buổi; An toàn khi đi đêm ở ngoại thành; Ô nhiễm ánh sáng gần Hà Nội; Cần giấy phép lữ hành nếu bán tour trọn gói [cần xác minh]; Đã có tour cắm trại ngắm sao.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Zalo Official Account (OA): Nhận đăng ký, báo hủy khi trời xấu.\n- VietQR Kit (Casso): Thu cọc.\n- Canva: Poster, bản đồ chòm sao in.\n- CapCut: Clip hướng dẫn chụp sao.\n- Claude (Anthropic): Kịch bản hướng dẫn chòm sao, bảng giá, quy trình an toàn.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Khảo sát 2 điểm ít đèn, hỏi chủ đất/homestay; kiểm tra đường đi ban đêm.\n- Ngày 2: Thuê xe 16 chỗ, hỏi giá; Claude lập bảng giá và kịch bản hướng dẫn chòm sao.\n- Ngày 3: Làm poster Canva, mở form qua Zalo OA, thu cọc VietQR.\n- Ngày 4–5: Quay clip mẫu chụp sao bằng điện thoại, dựng CapCut.\n- Ngày 6–7: Chạy 1 đêm thử; đo số người đăng ký, tỉ lệ hủy, số ảnh khách đăng lại.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Lịch trình 1 đêm (giờ đi, giờ về, điểm dừng) và quy trình an toàn.\n- Kịch bản hướng dẫn 6 chòm sao mùa đông dễ thấy [cần xác minh vị trí theo ngày].\n- Hướng dẫn chụp sao bằng điện thoại (1 trang).\n- Bảng giá và chính sách hủy khi trời xấu.\n- Danh sách điều cần hỏi về giấy phép lữ hành [cần xác minh].\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.\n",
+      "date": "2026-11-19",
+      "image": "assets/ideas/20261119-05-dem-san-sao.webp",
+      "total_score": 6.56,
+      "rank": 4
+    },
+    {
+      "id": "20261119-04-boc-tham-khong-ve-trang",
+      "title": "“Bốc thăm không vé trắng” — gian hàng của họa sĩ nhỏ ở hội chợ: vé nào cũng trúng, giải A là món to, ai mua vé cuối nhận ‘giải chốt’",
+      "pitch": "Học từ 一番くじ ở Nhật: hôm 18/11 người ta xếp hàng 100–300 người từ sáng ngày thường để bốc thăm. Ở VN: một họa sĩ hoặc nhóm vẽ làm bộ giải từ A (tranh/standee lớn) tới G (sticker), bán vé bốc thăm giá cố định ở hội chợ sáng tạo hoặc qua livestream; mọi vé đều trúng, có bảng đếm giải còn lại.",
+      "type": "startup",
+      "category": [
+        "product",
+        "content"
+      ],
+      "tags": [
+        "bốc thăm",
+        "merch",
+        "hội chợ",
+        "họa sĩ",
+        "Nhật Bản"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu Nhật chủ yếu từ Oricon (lilvest chép lại) và thông báo cửa hàng — với IP anime lớn. Họa sĩ nhỏ ở VN có kéo được khách như vậy không là giả thuyết. Bán vé bốc thăm có thể bị coi là khuyến mại may rủi hoặc trò chơi có thưởng — cần xác minh quy định trước.",
+      "confidence": "thấp–trung bình",
+      "image_alt": "Minh họa phẳng bàn hội chợ có hộp phiếu bốc thăm màu cam, kệ giải thưởng xếp bậc và một bức tranh lớn màu teal",
+      "regions": [
+        "JP",
+        "VN"
+      ],
+      "from_keywords": [
+        "kw-jp-08"
+      ],
+      "signal_text": "Nhật (18/11/2026): 一番くじ ‘To LOVEる’ lên xu hướng X ngày mở bán; người dùng kể 100–300 người xếp hàng sáng thứ Tư; cửa hàng chính thức ở Osaka phát phiếu thứ tự 9:00–9:50, chỉ nhận thanh toán không tiền mặt (ORICON, Bandai Namco). Google Trends JP 19/11 #8.",
+      "vn_youth_fit": "Gen Z thích món ‘cảm giác cao cấp’ vừa túi (fact xa-xi-vua-tui) nhưng đặt hạn mức chi (fact ngan-sach) — vé giá cố định nhỏ, ‘chắc chắn có quà’ hợp cả hai. Đã có gacha/túi mù ở VN nên độ mới vừa phải.",
+      "vn_fit_refs": [
+        "xa-xi-vua-tui",
+        "ngan-sach"
+      ],
+      "key_facts": [
+        {
+          "text": "Người dùng X kể khoảng 100–300 người xếp hàng mua 一番くじ ‘To LOVEる’ sáng ngày phát hành 18/11 (thứ Tư).",
+          "source_ids": [
+            "oricon_kuji",
+            "lil_kuji"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "lilvest dẫn Oricon."
+        },
+        {
+          "text": "Cửa hàng chính thức ở Osaka phát phiếu thứ tự 9:00–9:50 và chỉ nhận thanh toán không tiền mặt ngày 18/11.",
+          "source_ids": [
+            "bn_kuji"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Giải có figure và khăn in cỡ khoảng 170 cm.",
+          "source_ids": [
+            "oricon_kuji",
+            "lil_kuji"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "oricon_kuji",
+          "name": "ORICON NEWS",
+          "title": "『To LOVEる』一番くじ販売開始でネット衝撃　店は行列でトレンド席巻「平日の朝だぞ」",
+          "url": "https://www.oricon.co.jp/news/2493603/",
+          "published": "2026-11-18",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "lil_kuji",
+          "name": "lilvest NEWS",
+          "title": "『To LOVEる』一番くじが発売初日からXでトレンド入り……",
+          "url": "https://lilvest.com/article/1588",
+          "published": "2026-11-18",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Bài ghi rõ dẫn theo Oricon — không tính là nguồn độc lập."
+        },
+        {
+          "id": "bn_kuji",
+          "name": "Bandai Namco Amusement (一番くじ公式ショップ)",
+          "title": "11月18日(水) 一番くじ公式ショップ大阪イオンモール大日店 販売方法について",
+          "url": "https://bandainamco-am.co.jp/chara_shop/ichibankuji-official-shop/NEWS/dainichi/news/20261118_dainichi.html",
+          "published": "2026-11-12",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Thông báo của cửa hàng chính thức (đăng 12/11) về cách bán ngày 18/11."
+        }
+      ],
+      "localize_vn": "Giả thuyết: bộ 60 vé, 7 hạng giải (A–G) + ‘giải chốt’ cho người mua vé cuối; bảng đếm giải còn lại cập nhật trực tiếp. Chỉ dùng tranh tự vẽ (không dùng nhân vật có bản quyền). Bán thử ở 1 hội chợ cuối tuần và 1 buổi livestream.",
+      "first_steps": [
+        "Ngày 1: Hỏi quy định về bán vé bốc thăm/khuyến mại ở VN [cần xác minh]; nếu rủi ro, đổi sang ‘mua túi quà, quà trong túi xếp hạng A–G’.",
+        "Ngày 2: Chọn 7 hạng giải từ hàng có sẵn, tính giá vốn.",
+        "Ngày 3: Thiết kế vé, bảng đếm giải bằng Canva.",
+        "Ngày 4: Quay clip giới thiệu giải bằng CapCut; mở đăng ký qua Zalo OA.",
+        "Ngày 5–7: Bán thử ở hội chợ/livestream; đếm vé bán, thời gian hết bộ."
+      ],
+      "capital": {
+        "vnd_min_m": 5,
+        "vnd_max_m": 15,
+        "usd_min": 192,
+        "usd_max": 577,
+        "note": "Ước tính của người soạn: in giải (tranh, standee, sticker), vé, phí gian hàng hội chợ; tùy số bộ."
+      },
+      "risks": [
+        "Có thể vi phạm quy định về khuyến mại/trò chơi có thưởng",
+        "Khách thất vọng vì giải nhỏ",
+        "Giải A không đủ hấp dẫn với tác giả chưa nổi tiếng",
+        "Tranh chấp khi đếm giải không minh bạch",
+        "Không được dùng nhân vật có bản quyền"
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 6,
+        "novelty": 6,
+        "lowcap": 7,
+        "signal": 6,
+        "vnfit": 6
+      },
+      "toolstack": {
+        "checked": "2026-11-19",
+        "confidence": "trung bình",
+        "wow": "Bảng đếm giải sống: giải A còn 1, vé còn 7 — khách đứng xem rồi mua tiếp.",
+        "tools": [
+          {
+            "tool_id": "canva",
+            "role": "Thiết kế vé, bảng giải, poster.",
+            "why": "Mẫu in nhanh.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip giới thiệu giải, clip mở vé.",
+            "why": "Dọc, phụ đề tự động.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận đăng ký, thông báo lịch bán.",
+            "why": "Khách quen Zalo.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Thu tiền vé tại gian hàng.",
+            "why": "Miễn phí.",
+            "alt_ids": [
+              "payos",
+              "momo"
+            ]
+          },
+          {
+            "tool_id": "claude",
+            "role": "Tính cơ cấu giải, giá vé, soạn thể lệ.",
+            "why": "Tính toán và viết rõ.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "canva",
+            "capcut",
+            "zalo_oa",
+            "vietqr",
+            "claude"
+          ],
+          "monthly_cost_note": "Canva Free + CapCut Free + Zalo OA miễn phí + VietQR + Claude gói miễn phí — xem data/tools.json.",
+          "tradeoff": "Đếm giải bằng tay."
+        },
+        "premium": {
+          "tool_ids": [
+            "canva",
+            "capcut",
+            "zalo_oa",
+            "payos",
+            "claude"
+          ],
+          "monthly_cost_note": "Canva Pro/CapCut Pro (giá chưa xác minh) + phí payOS — xem data/tools.json.",
+          "tradeoff": "Đối soát tự động, tốn phí."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Bốc thăm không vé trắng” — gian hàng của họa sĩ nhỏ ở hội chợ: vé nào cũng trúng, giải A là món to, ai mua vé cuối nhận ‘giải chốt’\nTóm tắt: Học từ 一番くじ ở Nhật: hôm 18/11 người ta xếp hàng 100–300 người từ sáng ngày thường để bốc thăm. Ở VN: một họa sĩ hoặc nhóm vẽ làm bộ giải từ A (tranh/standee lớn) tới G (sticker), bán vé bốc thăm giá cố định ở hội chợ sáng tạo hoặc qua livestream; mọi vé đều trúng, có bảng đếm giải còn lại.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Nhật (18/11/2026): 一番くじ ‘To LOVEる’ lên xu hướng X ngày mở bán; người dùng kể 100–300 người xếp hàng sáng thứ Tư; cửa hàng chính thức ở Osaka phát phiếu thứ tự 9:00–9:50, chỉ nhận thanh toán không tiền mặt (ORICON, Bandai Namco). Google Trends JP 19/11 #8.\nDữ kiện:\n- Người dùng X kể khoảng 100–300 người xếp hàng mua 一番くじ ‘To LOVEる’ sáng ngày phát hành 18/11 (thứ Tư). (mức xác minh: 1 nguồn gốc)\n- Cửa hàng chính thức ở Osaka phát phiếu thứ tự 9:00–9:50 và chỉ nhận thanh toán không tiền mặt ngày 18/11. (mức xác minh: 1 nguồn gốc)\n- Giải có figure và khăn in cỡ khoảng 170 cm. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Tín hiệu Nhật chủ yếu từ Oricon (lilvest chép lại) và thông báo cửa hàng — với IP anime lớn. Họa sĩ nhỏ ở VN có kéo được khách như vậy không là giả thuyết. Bán vé bốc thăm có thể bị coi là khuyến mại may rủi hoặc trò chơi có thưởng — cần xác minh quy định trước.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nGen Z thích món ‘cảm giác cao cấp’ vừa túi (fact xa-xi-vua-tui) nhưng đặt hạn mức chi (fact ngan-sach) — vé giá cố định nhỏ, ‘chắc chắn có quà’ hợp cả hai. Đã có gacha/túi mù ở VN nên độ mới vừa phải.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: bộ 60 vé, 7 hạng giải (A–G) + ‘giải chốt’ cho người mua vé cuối; bảng đếm giải còn lại cập nhật trực tiếp. Chỉ dùng tranh tự vẽ (không dùng nhân vật có bản quyền). Bán thử ở 1 hội chợ cuối tuần và 1 buổi livestream.\n\n## 4. Ràng buộc\n- Vốn: 5–15 triệu đồng (Ước tính của người soạn: in giải (tranh, standee, sticker), vé, phí gian hàng hội chợ; tùy số bộ.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Có thể vi phạm quy định về khuyến mại/trò chơi có thưởng; Khách thất vọng vì giải nhỏ; Giải A không đủ hấp dẫn với tác giả chưa nổi tiếng; Tranh chấp khi đếm giải không minh bạch; Không được dùng nhân vật có bản quyền.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Canva: Thiết kế vé, bảng giải, poster.\n- CapCut: Clip giới thiệu giải, clip mở vé.\n- Zalo Official Account (OA): Nhận đăng ký, thông báo lịch bán.\n- VietQR Kit (Casso): Thu tiền vé tại gian hàng.\n- Claude (Anthropic): Tính cơ cấu giải, giá vé, soạn thể lệ.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Hỏi quy định về bán vé bốc thăm/khuyến mại ở VN [cần xác minh]; nếu rủi ro, đổi sang ‘mua túi quà, quà trong túi xếp hạng A–G’.\n- Ngày 2: Chọn 7 hạng giải từ hàng có sẵn, tính giá vốn.\n- Ngày 3: Thiết kế vé, bảng đếm giải bằng Canva.\n- Ngày 4: Quay clip giới thiệu giải bằng CapCut; mở đăng ký qua Zalo OA.\n- Ngày 5–7: Bán thử ở hội chợ/livestream; đếm vé bán, thời gian hết bộ.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Bảng cơ cấu giải A–G + giải chốt: số lượng, giá vốn [cần xác minh], giá vé, biên lãi.\n- Thể lệ ngắn gọn, minh bạch, và danh sách điều cần hỏi về pháp lý [cần xác minh].\n- Phương án thay thế nếu không được bán vé bốc thăm.\n- Kịch bản 3 clip + 1 livestream 20 phút.\n- Mẫu bảng đếm giải in A3.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.\n",
+      "date": "2026-11-19",
+      "image": "assets/ideas/20261119-04-boc-tham-khong-ve-trang.webp",
+      "total_score": 6.16,
+      "rank": 5
+    },
+    {
+      "id": "20261119-02-ngay-don-do-to",
+      "title": "“Ngày dọn đồ to” cho tòa chung cư — gom lịch, giá trọn gói theo món và tầng, đồ còn tốt thì tặng/bán lại",
+      "pitch": "Học từ chính sách TQ vừa ban hành: khoán gom đồ nội thất cũ theo khu, tính giá theo loại đồ, tầng và thang máy. Ở VN: chọn một tòa chung cư, hẹn một ngày cố định mỗi tháng; cư dân đặt qua Zalo, trả giá trọn gói theo món (sofa, nệm, tủ); đồ còn dùng được thì chụp ảnh đăng tặng/bán lại, phần còn lại chuyển cho đơn vị thu gom có chức năng.",
+      "type": "startup",
+      "category": [
+        "service"
+      ],
+      "tags": [
+        "đồ cồng kềnh",
+        "chung cư",
+        "dọn nhà",
+        "tái sử dụng"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu TQ là văn bản chính sách (1 gốc gov.cn). Ở Hà Nội đã có điểm tập kết rác cồng kềnh miễn phí ở một số phường và nhiều dịch vụ dọn nhà/thu mua đồ cũ — nhu cầu trả tiền cho ‘ngày dọn theo tòa’ là giả thuyết. Phải hợp tác với đơn vị có chức năng thu gom theo QĐ 87/2025 [cần xác minh chi tiết].",
+      "confidence": "thấp–trung bình",
+      "image_alt": "Minh họa phẳng một tòa chung cư màu teal, dưới sân có chiếc sofa cam, tấm nệm và xe tải nhỏ chờ chở",
+      "regions": [
+        "CN",
+        "VN"
+      ],
+      "from_keywords": [
+        "kw-cn-22"
+      ],
+      "signal_text": "TQ (công bố 17/11/2026): 9 bộ ngành đề xuất khoán gom, dọn tận nhà theo loại đồ – tầng – thang máy, và ngày gom miễn phí cho đồ nội thất cũ (gov.cn). Baidu 19/11 #22: ‘大件旧家具“扔比买难”？九部门出手’. VN: đồ cũ vẫn bị vứt dọc nhiều tuyến đường ở Hà Nội (Hànộimới 02/11).",
+      "vn_youth_fit": "Người trẻ thuê trọ, chuyển nhà nhiều và quen đặt dịch vụ qua Zalo, trả bằng ví/chuyển khoản (fact mxh-top, vi-dien-tu). Khách chính có thể là gia đình ở chung cư hơn là Gen Z — giả thuyết.",
+      "vn_fit_refs": [
+        "mxh-top",
+        "vi-dien-tu"
+      ],
+      "key_facts": [
+        {
+          "text": "Văn bản TQ đề xuất dọn tận nhà có tính đến loại đồ, quy cách, tầng và thang máy; khuyến khích hợp tác với công ty quản lý tòa nhà.",
+          "source_ids": [
+            "gov_wj",
+            "gov_jd"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Tổng lượng thu hồi các loại chính năm 2025 ở TQ: 417 triệu tấn (+4,1%).",
+          "source_ids": [
+            "gov_jd"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hà Nội: theo QĐ 87/2025/QĐ-UBND, khi có chất thải cồng kềnh phải liên hệ đơn vị có chức năng thu gom để thỏa thuận; phường Dương Nội có điểm tập kết không thu phí.",
+          "source_ids": [
+            "hnm_rac"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "gov_wj",
+          "name": "中国政府网 (văn bản)",
+          "title": "商务部等9部门关于深入推进再生资源回收体系建设 促进回收行业高质量发展的意见",
+          "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7086351.htm",
+          "published": "2026-11-17",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Ngày thành văn 11/11/2026; công bố 17/11 theo bài giải đọc của gov.cn."
+        },
+        {
+          "id": "gov_jd",
+          "name": "中国政府网 (giải đọc chính sách)",
+          "title": "促进回收行业高质量发展——多部门详解深入推进再生资源回收体系建设",
+          "url": "https://www.gov.cn/zhengce/202611/content_7086432.htm",
+          "published": "2026-11-17",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "hnm_rac",
+          "name": "Hànộimới",
+          "title": "Tìm lời giải cho bài toán rác thải cồng kềnh tại Hà Nội",
+          "url": "https://hanoimoi.vn/tim-loi-giai-cho-bai-toan-rac-thai-cong-kenh-tai-ha-noi-1763918.html",
+          "published": "2026-11-02",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "baidu_1119",
+          "name": "Baidu 热搜 (realtime)",
+          "title": "百度热搜 实时榜 — 19/11/2026 ~07:11 (UTC+7)",
+          "url": "https://top.baidu.com/board?tab=realtime",
+          "published": "2026-11-19",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang",
+          "note": "Chỉ là mô tả kèm từ khóa trên bảng xếp hạng, không phải bài báo."
+        }
+      ],
+      "localize_vn": "Giả thuyết: thí điểm ở 1 tòa chung cư Hà Nội, có ban quản lý đồng ý. Bảng giá theo món + phụ phí tầng/không thang máy; ‘góc đồ còn tốt’ đăng nhóm Zalo cư dân để tặng/bán. Hợp đồng với một đơn vị thu gom có chức năng để chở phần còn lại.",
+      "first_steps": [
+        "Ngày 1–2: Gặp ban quản lý 1–2 tòa, hỏi quy định đưa đồ to xuống và đơn vị thu gom họ đang dùng.",
+        "Ngày 3: Hỏi giá 2 đơn vị thu gom/xe tải nhỏ; lập bảng giá theo món bằng Claude.",
+        "Ngày 4: Làm poster Canva + form đặt lịch qua Zalo OA; thu cọc bằng VietQR.",
+        "Ngày 5–6: Nhận đăng ký; chụp đồ còn tốt để đăng tặng/bán.",
+        "Ngày 7: Chạy ‘ngày dọn’ đầu tiên; đếm số hộ, số món, lãi/lỗ."
+      ],
+      "capital": {
+        "vnd_min_m": 5,
+        "vnd_max_m": 20,
+        "usd_min": 192,
+        "usd_max": 769,
+        "note": "Ước tính của người soạn: thuê xe tải nhỏ và 2 người bốc vác theo chuyến, in poster, cọc với đơn vị thu gom; giá thật cần hỏi."
+      },
+      "risks": [
+        "Ban quản lý không cho phép",
+        "Chi phí xe và nhân công cao hơn tiền thu",
+        "Vi phạm quy định nếu tự đổ đồ không qua đơn vị có chức năng",
+        "Tai nạn khi bê vác",
+        "Đã có điểm tập kết miễn phí ở một số phường"
+      ],
+      "scores": {
+        "ease": 5,
+        "demand": 7,
+        "novelty": 6,
+        "lowcap": 6,
+        "signal": 7,
+        "vnfit": 5
+      },
+      "toolstack": {
+        "checked": "2026-11-19",
+        "confidence": "trung bình",
+        "wow": "Cư dân chụp chiếc sofa cũ gửi Zalo, nhận ngay giá trọn gói và giờ hẹn trong ‘ngày dọn’ của tòa.",
+        "tools": [
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận ảnh đồ, báo giá, nhắc lịch ngày dọn.",
+            "why": "Cư dân quen Zalo.",
+            "alt_ids": [
+              "zalo_zns"
+            ]
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Thu cọc và thanh toán.",
+            "why": "Miễn phí, dễ quét.",
+            "alt_ids": [
+              "payos",
+              "momo"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Poster dán thang máy, bảng giá.",
+            "why": "Nhanh, có mẫu in.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "claude",
+            "role": "Lập bảng giá theo món/tầng, viết thông báo cho ban quản lý.",
+            "why": "Soạn văn bản nhanh, rõ.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "zalo_oa",
+            "vietqr",
+            "canva",
+            "claude"
+          ],
+          "monthly_cost_note": "Zalo OA gói miễn phí + VietQR miễn phí + Canva Free + Claude gói miễn phí — xem data/tools.json.",
+          "tradeoff": "Nhắc lịch thủ công."
+        },
+        "premium": {
+          "tool_ids": [
+            "zalo_oa",
+            "zalo_zns",
+            "payos",
+            "canva",
+            "claude"
+          ],
+          "monthly_cost_note": "Thêm phí tin ZNS và phí payOS — xem data/tools.json.",
+          "tradeoff": "Tự động nhắc lịch, đối soát dễ hơn nhưng tốn phí."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Ngày dọn đồ to” cho tòa chung cư — gom lịch, giá trọn gói theo món và tầng, đồ còn tốt thì tặng/bán lại\nTóm tắt: Học từ chính sách TQ vừa ban hành: khoán gom đồ nội thất cũ theo khu, tính giá theo loại đồ, tầng và thang máy. Ở VN: chọn một tòa chung cư, hẹn một ngày cố định mỗi tháng; cư dân đặt qua Zalo, trả giá trọn gói theo món (sofa, nệm, tủ); đồ còn dùng được thì chụp ảnh đăng tặng/bán lại, phần còn lại chuyển cho đơn vị thu gom có chức năng.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: TQ (công bố 17/11/2026): 9 bộ ngành đề xuất khoán gom, dọn tận nhà theo loại đồ – tầng – thang máy, và ngày gom miễn phí cho đồ nội thất cũ (gov.cn). Baidu 19/11 #22: ‘大件旧家具“扔比买难”？九部门出手’. VN: đồ cũ vẫn bị vứt dọc nhiều tuyến đường ở Hà Nội (Hànộimới 02/11).\nDữ kiện:\n- Văn bản TQ đề xuất dọn tận nhà có tính đến loại đồ, quy cách, tầng và thang máy; khuyến khích hợp tác với công ty quản lý tòa nhà. (mức xác minh: 1 nguồn gốc)\n- Tổng lượng thu hồi các loại chính năm 2025 ở TQ: 417 triệu tấn (+4,1%). (mức xác minh: 1 nguồn gốc)\n- Hà Nội: theo QĐ 87/2025/QĐ-UBND, khi có chất thải cồng kềnh phải liên hệ đơn vị có chức năng thu gom để thỏa thuận; phường Dương Nội có điểm tập kết không thu phí. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Tín hiệu TQ là văn bản chính sách (1 gốc gov.cn). Ở Hà Nội đã có điểm tập kết rác cồng kềnh miễn phí ở một số phường và nhiều dịch vụ dọn nhà/thu mua đồ cũ — nhu cầu trả tiền cho ‘ngày dọn theo tòa’ là giả thuyết. Phải hợp tác với đơn vị có chức năng thu gom theo QĐ 87/2025 [cần xác minh chi tiết].\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nNgười trẻ thuê trọ, chuyển nhà nhiều và quen đặt dịch vụ qua Zalo, trả bằng ví/chuyển khoản (fact mxh-top, vi-dien-tu). Khách chính có thể là gia đình ở chung cư hơn là Gen Z — giả thuyết.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: thí điểm ở 1 tòa chung cư Hà Nội, có ban quản lý đồng ý. Bảng giá theo món + phụ phí tầng/không thang máy; ‘góc đồ còn tốt’ đăng nhóm Zalo cư dân để tặng/bán. Hợp đồng với một đơn vị thu gom có chức năng để chở phần còn lại.\n\n## 4. Ràng buộc\n- Vốn: 5–20 triệu đồng (Ước tính của người soạn: thuê xe tải nhỏ và 2 người bốc vác theo chuyến, in poster, cọc với đơn vị thu gom; giá thật cần hỏi.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Ban quản lý không cho phép; Chi phí xe và nhân công cao hơn tiền thu; Vi phạm quy định nếu tự đổ đồ không qua đơn vị có chức năng; Tai nạn khi bê vác; Đã có điểm tập kết miễn phí ở một số phường.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Zalo Official Account (OA): Nhận ảnh đồ, báo giá, nhắc lịch ngày dọn.\n- VietQR Kit (Casso): Thu cọc và thanh toán.\n- Canva: Poster dán thang máy, bảng giá.\n- Claude (Anthropic): Lập bảng giá theo món/tầng, viết thông báo cho ban quản lý.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1–2: Gặp ban quản lý 1–2 tòa, hỏi quy định đưa đồ to xuống và đơn vị thu gom họ đang dùng.\n- Ngày 3: Hỏi giá 2 đơn vị thu gom/xe tải nhỏ; lập bảng giá theo món bằng Claude.\n- Ngày 4: Làm poster Canva + form đặt lịch qua Zalo OA; thu cọc bằng VietQR.\n- Ngày 5–6: Nhận đăng ký; chụp đồ còn tốt để đăng tặng/bán.\n- Ngày 7: Chạy ‘ngày dọn’ đầu tiên; đếm số hộ, số món, lãi/lỗ.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Bảng giá theo món (sofa, nệm, tủ, bàn…) + phụ phí tầng/không thang máy, có cột giá vốn [cần xác minh].\n- Thư đề xuất gửi ban quản lý tòa nhà (1 trang).\n- Poster dán thang máy và mẫu tin nhắn Zalo OA đặt lịch.\n- Quy trình an toàn khi bê vác và danh sách việc cần hỏi đơn vị thu gom [cần xác minh pháp lý].\n- Bảng tính lãi/lỗ cho một ngày dọn.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.\n",
+      "date": "2026-11-19",
+      "image": "assets/ideas/20261119-02-ngay-don-do-to.webp",
+      "total_score": 6.0,
+      "rank": 6
+    },
+    {
+      "id": "20261119-06-merch-truong-mac-ra-pho",
+      "title": "“Merch trường mặc ra phố” — CLB sinh viên đặt may áo khoác/hoodie tối giản mang dấu ấn trường, bán đặt trước 2 tuần",
+      "pitch": "Ở TQ, áo phao 399 tệ của cửa hàng lưu niệm Đại học Bắc Kinh bán hết, mini-app sập vì đông. Ở VN: một CLB sinh viên (có sự đồng ý của trường) thiết kế 1 mẫu áo khoác/hoodie tối giản — màu đẹp, logo nhỏ — mặc ra phố được, bán đặt trước 2 tuần rồi mới đặt xưởng may.",
+      "type": "startup",
+      "category": [
+        "product",
+        "ecom"
+      ],
+      "tags": [
+        "merch",
+        "sinh viên",
+        "đặt trước",
+        "áo khoác"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu TQ có 2 bài báo, nhưng dựa vào ‘hiệu ứng Bắc Đại’. Nhiều trường ở VN đã có đồng phục, áo CLB, cửa hàng lưu niệm — độ mới thấp; điểm khác chỉ là thiết kế ‘mặc ra phố’. Dùng logo trường cần trường cho phép.",
+      "confidence": "thấp–trung bình",
+      "image_alt": "Minh họa phẳng chiếc áo hoodie màu teal với huy hiệu cam nhỏ ở ngực, đặt cạnh hộp quà và cây bút vẽ",
+      "regions": [
+        "CN",
+        "VN"
+      ],
+      "from_keywords": [
+        "kw-cn-07"
+      ],
+      "signal_text": "TQ (16–18/11/2026): áo phao 399 tệ (90% lông ngỗng) của cửa hàng lưu niệm Đại học Bắc Kinh bán hết; mini-app không mở được ngày 16/11; sinh viên nói mẫu trắng bán chạy vì ‘đẹp, tôn dáng’ (新京报, 中新网).",
+      "vn_youth_fit": "Gen Z sẵn sàng trả cho món ‘cảm giác cao cấp’ vừa túi (fact xa-xi-vua-tui); bán đặt trước qua mạng xã hội và ví điện tử (fact mxh-top, vi-dien-tu) giảm vốn tồn kho.",
+      "vn_fit_refs": [
+        "xa-xi-vua-tui",
+        "mxh-top",
+        "vi-dien-tu"
+      ],
+      "key_facts": [
+        {
+          "text": "Áo phao 399 tệ của cửa hàng lưu niệm Đại học Bắc Kinh bán hết; sớm nhất cuối tháng 11 mới có hàng lại.",
+          "source_ids": [
+            "bjn_down",
+            "cns_down"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Chi tiết ‘cuối tháng 11 mới có hàng’ chỉ có ở 新京报."
+        },
+        {
+          "text": "Mini-app của cửa hàng lưu niệm Bắc Đại không mở được suốt ngày 16/11 vì quá đông.",
+          "source_ids": [
+            "bjn_down"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Một sinh viên Bắc Đại nói mẫu trắng bán chạy nhất vì đẹp, tôn dáng; thêm ‘hiệu ứng Bắc Đại’.",
+          "source_ids": [
+            "cns_down"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bjn_down",
+          "name": "新京报 (贝壳财经)",
+          "title": "这个冬天，羽绒服市场“劈了叉”，有三款羽绒服“买不到”",
+          "url": "https://www.bjnews.com.cn/detail/1795001581129624.html",
+          "published": "2026-11-18",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        },
+        {
+          "id": "cns_down",
+          "name": "中新网 (dẫn 扬子晚报)",
+          "title": "399元羽绒服被抢空引发热议 平价羽绒服为何突然变得“真香”",
+          "url": "https://www.chinanews.com.cn/life/2026/11-17/10733296.shtml",
+          "published": "2026-11-17",
+          "accessed": "2026-11-19",
+          "how_read": "mở trang"
+        }
+      ],
+      "localize_vn": "Giả thuyết: 1 mẫu hoodie/áo khoác 2 màu, logo thêu nhỏ; đặt trước 2 tuần, đủ số tối thiểu mới đặt may. Bán qua nhóm Zalo/Facebook của trường và gian hàng TikTok; một phần lãi cho quỹ CLB.",
+      "first_steps": [
+        "Ngày 1: Xin phép phòng công tác sinh viên dùng logo; hỏi 2 xưởng may giá theo số lượng.",
+        "Ngày 2: Tạo 3 mockup bằng Nano Banana, chỉnh trên Canva.",
+        "Ngày 3: Bình chọn mẫu trong nhóm sinh viên; chốt giá.",
+        "Ngày 4: Mở form đặt trước qua Zalo OA, thu cọc qua payOS.",
+        "Ngày 5–7: Quay clip thử áo bằng CapCut; đếm số đơn cọc so với ngưỡng đặt may."
+      ],
+      "capital": {
+        "vnd_min_m": 10,
+        "vnd_max_m": 30,
+        "usd_min": 385,
+        "usd_max": 1154,
+        "note": "Ước tính của người soạn: áo mẫu, phí thêu, cọc xưởng; phần lớn tiền may do khách cọc trước."
+      },
+      "risks": [
+        "Trường không cho dùng logo",
+        "Không đủ đơn tối thiểu",
+        "Chất lượng xưởng không ổn định",
+        "Sai size khi đặt online",
+        "Đã có nhiều áo lớp/áo CLB"
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 6,
+        "novelty": 4,
+        "lowcap": 6,
+        "signal": 7,
+        "vnfit": 6
+      },
+      "toolstack": {
+        "checked": "2026-11-19",
+        "confidence": "trung bình",
+        "wow": "Trước khi may một chiếc nào, cả khoa đã thấy mockup đẹp như ảnh tạp chí và bình chọn mẫu.",
+        "tools": [
+          {
+            "tool_id": "nano_banana",
+            "role": "Tạo mockup áo trên người mẫu ảo.",
+            "why": "Ảnh sản phẩm đẹp, nhanh.",
+            "alt_ids": [
+              "seedream"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Chỉnh mockup, bảng size, poster.",
+            "why": "Mẫu có sẵn.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Form đặt trước, thông báo tiến độ may.",
+            "why": "Sinh viên dùng Zalo.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "payos",
+            "role": "Thu cọc, đối soát tự động.",
+            "why": "Dễ đối soát nhiều đơn.",
+            "alt_ids": [
+              "vietqr"
+            ]
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip thử áo.",
+            "why": "Dọc, phụ đề.",
+            "alt_ids": []
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "nano_banana",
+            "canva",
+            "zalo_oa",
+            "vietqr",
+            "capcut"
+          ],
+          "monthly_cost_note": "Gemini/Nano Banana gói miễn phí (có hạn chế) + Canva Free + Zalo OA + VietQR + CapCut Free — xem data/tools.json.",
+          "tradeoff": "Đối soát cọc thủ công."
+        },
+        "premium": {
+          "tool_ids": [
+            "nano_banana",
+            "canva",
+            "zalo_oa",
+            "payos",
+            "capcut"
+          ],
+          "monthly_cost_note": "Thêm phí payOS và gói trả phí công cụ ảnh — xem data/tools.json.",
+          "tradeoff": "Đối soát tự động, tốn phí."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Merch trường mặc ra phố” — CLB sinh viên đặt may áo khoác/hoodie tối giản mang dấu ấn trường, bán đặt trước 2 tuần\nTóm tắt: Ở TQ, áo phao 399 tệ của cửa hàng lưu niệm Đại học Bắc Kinh bán hết, mini-app sập vì đông. Ở VN: một CLB sinh viên (có sự đồng ý của trường) thiết kế 1 mẫu áo khoác/hoodie tối giản — màu đẹp, logo nhỏ — mặc ra phố được, bán đặt trước 2 tuần rồi mới đặt xưởng may.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: TQ (16–18/11/2026): áo phao 399 tệ (90% lông ngỗng) của cửa hàng lưu niệm Đại học Bắc Kinh bán hết; mini-app không mở được ngày 16/11; sinh viên nói mẫu trắng bán chạy vì ‘đẹp, tôn dáng’ (新京报, 中新网).\nDữ kiện:\n- Áo phao 399 tệ của cửa hàng lưu niệm Đại học Bắc Kinh bán hết; sớm nhất cuối tháng 11 mới có hàng lại. (mức xác minh: 2+ nguồn độc lập)\n- Mini-app của cửa hàng lưu niệm Bắc Đại không mở được suốt ngày 16/11 vì quá đông. (mức xác minh: 1 nguồn gốc)\n- Một sinh viên Bắc Đại nói mẫu trắng bán chạy nhất vì đẹp, tôn dáng; thêm ‘hiệu ứng Bắc Đại’. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Tín hiệu TQ có 2 bài báo, nhưng dựa vào ‘hiệu ứng Bắc Đại’. Nhiều trường ở VN đã có đồng phục, áo CLB, cửa hàng lưu niệm — độ mới thấp; điểm khác chỉ là thiết kế ‘mặc ra phố’. Dùng logo trường cần trường cho phép.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nGen Z sẵn sàng trả cho món ‘cảm giác cao cấp’ vừa túi (fact xa-xi-vua-tui); bán đặt trước qua mạng xã hội và ví điện tử (fact mxh-top, vi-dien-tu) giảm vốn tồn kho.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: 1 mẫu hoodie/áo khoác 2 màu, logo thêu nhỏ; đặt trước 2 tuần, đủ số tối thiểu mới đặt may. Bán qua nhóm Zalo/Facebook của trường và gian hàng TikTok; một phần lãi cho quỹ CLB.\n\n## 4. Ràng buộc\n- Vốn: 10–30 triệu đồng (Ước tính của người soạn: áo mẫu, phí thêu, cọc xưởng; phần lớn tiền may do khách cọc trước.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Trường không cho dùng logo; Không đủ đơn tối thiểu; Chất lượng xưởng không ổn định; Sai size khi đặt online; Đã có nhiều áo lớp/áo CLB.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Nano Banana (Gemini image, Google): Tạo mockup áo trên người mẫu ảo.\n- Canva: Chỉnh mockup, bảng size, poster.\n- Zalo Official Account (OA): Form đặt trước, thông báo tiến độ may.\n- payOS (Casso): Thu cọc, đối soát tự động.\n- CapCut: Clip thử áo.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Xin phép phòng công tác sinh viên dùng logo; hỏi 2 xưởng may giá theo số lượng.\n- Ngày 2: Tạo 3 mockup bằng Nano Banana, chỉnh trên Canva.\n- Ngày 3: Bình chọn mẫu trong nhóm sinh viên; chốt giá.\n- Ngày 4: Mở form đặt trước qua Zalo OA, thu cọc qua payOS.\n- Ngày 5–7: Quay clip thử áo bằng CapCut; đếm số đơn cọc so với ngưỡng đặt may.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Đặc tả 1 mẫu áo (chất liệu, màu, vị trí logo) để gửi xưởng.\n- Thư xin phép dùng logo gửi nhà trường.\n- Prompt tạo 3 mockup và bảng size.\n- Trang đặt trước (nội dung) + chính sách hoàn cọc nếu không đủ đơn.\n- Bảng giá vốn – giá bán – ngưỡng số đơn tối thiểu [cần xác minh giá xưởng].\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.\n",
+      "date": "2026-11-19",
+      "image": "assets/ideas/20261119-06-merch-truong-mac-ra-pho.webp",
+      "total_score": 5.9,
+      "rank": 7
+    }
+  ],
+  "keywords": [
+    {
+      "id": "kw-cn-01",
+      "region": "CN",
+      "rank": 1,
+      "keyword": "在大湾区看如何促进亚太共同繁荣",
+      "gloss": "Hội nghị thượng đỉnh doanh nghiệp APEC ở Thâm Quyến (18/11)",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "7904324 · Baidu 07:11 UTC+7",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-07",
+      "region": "CN",
+      "rank": 7,
+      "keyword": "超市服装区挤满了年轻人",
+      "gloss": "Khu quần áo siêu thị (Walmart, Sam’s, Costco) chật kín người trẻ; áo phao bình dân hết hàng",
+      "theme": "fashion",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "7329447 · Baidu 07:11 UTC+7",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": [
+        "20261119-01-gia-moi-gram-long",
+        "20261119-06-merch-truong-mac-ra-pho",
+        "20261119-07-tem-lai-minh-bach"
+      ]
+    },
+    {
+      "id": "kw-cn-11",
+      "region": "CN",
+      "rank": 11,
+      "keyword": "别让你的骨头比你先老",
+      "gloss": "Đừng để xương già trước bạn — phổ biến kiến thức loãng xương",
+      "theme": "beauty",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "6945490 · Baidu 07:11 UTC+7",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-16",
+      "region": "CN",
+      "rank": 16,
+      "keyword": "史上最大IPO！ANT估值1.5万亿美元",
+      "gloss": "IPO lớn nhất lịch sử: Anthropic (ANT) định giá 1,5 nghìn tỷ USD",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "6475201 · Baidu 07:11 UTC+7",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": [
+        "20261119-03-watchlist-ipo-anthropic"
+      ]
+    },
+    {
+      "id": "kw-cn-18",
+      "region": "CN",
+      "rank": 18,
+      "keyword": "全世界正在严肃进入中国捏捏时代",
+      "gloss": "Đồ bóp xả stress ‘捏捏’ của TQ lan sang Mỹ, Nhật, Hàn",
+      "theme": "collect",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "6282759 · Baidu 07:11 UTC+7",
+      "source_id": "baidu-hot",
+      "note": "Chủ đề squishy đã có ý tưởng ngày 25/10 — không tạo ý tưởng mới.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-20",
+      "region": "CN",
+      "rank": 20,
+      "keyword": "孙正义后悔当年没投Anthropic",
+      "gloss": "Masayoshi Son tiếc vì từng không đầu tư Anthropic",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "6088746 · Baidu 07:11 UTC+7",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": [
+        "20261119-03-watchlist-ipo-anthropic"
+      ]
+    },
+    {
+      "id": "kw-cn-22",
+      "region": "CN",
+      "rank": 22,
+      "keyword": "大件旧家具“扔比买难”？九部门出手",
+      "gloss": "‘Vứt khó hơn mua’ đồ nội thất cũ — 9 bộ ngành ra văn bản",
+      "theme": "home",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "5894293 · Baidu 07:11 UTC+7",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": [
+        "20261119-02-ngay-don-do-to"
+      ]
+    },
+    {
+      "id": "kw-cn-25",
+      "region": "CN",
+      "rank": 25,
+      "keyword": "GTA6",
+      "gloss": "Trò chơi GTA VI",
+      "theme": "ent",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "5619089 · Baidu 07:11 UTC+7",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-26",
+      "region": "CN",
+      "rank": 26,
+      "keyword": "经常朝左边睡觉对心脏的影响",
+      "gloss": "Ngủ nghiêng trái có hại tim không — chuyên gia giải thích",
+      "theme": "beauty",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "5503302 · Baidu 07:11 UTC+7",
+      "source_id": "baidu-hot",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-02",
+      "region": "VN",
+      "rank": 2,
+      "keyword": "chung cư",
+      "gloss": "5 cựu cán bộ khai trong vụ xây chung cư sai phép",
+      "theme": "home",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "2000+ · 06:50 UTC+7",
+      "source_id": "gt-vn",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-05",
+      "region": "VN",
+      "rank": 5,
+      "keyword": "nghị định 168/2024/nđ–cp",
+      "gloss": "Đề xuất chỉ cảnh cáo, trừ điểm bằng lái với người vi phạm giao thông lần đầu",
+      "theme": "society",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "2000+ · 06:50 UTC+7",
+      "source_id": "gt-vn",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-06",
+      "region": "VN",
+      "rank": 6,
+      "keyword": "giá cà phê",
+      "gloss": "Giá cà phê rơi khỏi mốc 80.000 đồng/kg, nông dân giữ hàng",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ · 06:50 UTC+7",
+      "source_id": "gt-vn",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-10",
+      "region": "VN",
+      "rank": 10,
+      "keyword": "xuất khẩu",
+      "gloss": "Tăng trưởng hai con số cần thị trường hàng hóa phái sinh đủ mạnh",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "100+ · 06:50 UTC+7",
+      "source_id": "gt-vn",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-01",
+      "region": "KR",
+      "rank": 1,
+      "keyword": "제미나이 네온",
+      "gloss": "Google ra Gemini 4 (bài kèm nói về bản Hydrogen vượt bản Argon)",
+      "theme": "tech",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ · 06:50 UTC+7",
+      "source_id": "gt-kr",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-03",
+      "region": "KR",
+      "rank": 3,
+      "keyword": "s&p 500",
+      "gloss": "Dow giảm hơn 500 điểm, S&P 500 giảm phiên thứ 5 khi Nvidia bị bán mạnh",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ · 06:50 UTC+7",
+      "source_id": "gt-kr",
+      "note": "",
+      "idea_ids": [
+        "20261119-03-watchlist-ipo-anthropic"
+      ]
+    },
+    {
+      "id": "kw-kr-07",
+      "region": "KR",
+      "rank": 7,
+      "keyword": "겨울",
+      "gloss": "Quận Mapo khởi động biện pháp mùa đông, hỗ trợ 8.000 hộ",
+      "theme": "home",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ · 06:50 UTC+7",
+      "source_id": "gt-kr",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-08",
+      "region": "KR",
+      "rank": 8,
+      "keyword": "nvda",
+      "gloss": "Cổ phiếu Nvidia",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ · 06:50 UTC+7",
+      "source_id": "gt-kr",
+      "note": "",
+      "idea_ids": [
+        "20261119-03-watchlist-ipo-anthropic"
+      ]
+    },
+    {
+      "id": "kw-kr-10",
+      "region": "KR",
+      "rank": 10,
+      "keyword": "미역국",
+      "gloss": "Ngày thi đại học: bác sĩ khuyên không ăn canh rong biển? (kiêng kỵ ngày thi)",
+      "theme": "food",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "2000+ · 06:50 UTC+7",
+      "source_id": "gt-kr",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-04",
+      "region": "JP",
+      "rank": 4,
+      "keyword": "剛力 彩芽",
+      "gloss": "Gōriki Ayame đóng chính phim truyền hình sau 9 năm",
+      "theme": "ent",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "500+ · 06:50 UTC+7",
+      "source_id": "gt-jp",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-08",
+      "region": "JP",
+      "rank": 8,
+      "keyword": "tolove る 一番 くじ",
+      "gloss": "Bốc thăm 一番くじ ‘To LOVEる’ mở bán, xếp hàng dài sáng ngày thường",
+      "theme": "collect",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ · 06:50 UTC+7",
+      "source_id": "gt-jp",
+      "note": "",
+      "idea_ids": [
+        "20261119-04-boc-tham-khong-ve-trang"
+      ]
+    },
+    {
+      "id": "kw-jp-10",
+      "region": "JP",
+      "rank": 10,
+      "keyword": "年末ジャンボ",
+      "gloss": "Xổ số cuối năm Year-end Jumbo",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ · 06:50 UTC+7",
+      "source_id": "gt-jp",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-y05",
+      "region": "JP",
+      "rank": 5,
+      "keyword": "キオクシア 株価上昇",
+      "gloss": "Cổ phiếu Kioxia (chip nhớ) tăng, mạng xã hội hào hứng",
+      "theme": "money",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Yahoo まとめ #5 · 07:11 UTC+7",
+      "source_id": "yahoo-jp-rt",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-y07",
+      "region": "JP",
+      "rank": 7,
+      "keyword": "雪虫 大量出現",
+      "gloss": "Côn trùng ‘bọ tuyết’ xuất hiện nhiều ở vùng Kanto",
+      "theme": "home",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Yahoo まとめ #7 · 07:11 UTC+7",
+      "source_id": "yahoo-jp-rt",
+      "note": "",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-y10",
+      "region": "JP",
+      "rank": 10,
+      "keyword": "オリオン座がくっきり",
+      "gloss": "Orion rõ nét, trời sao mùa đông khiến nhiều người chụp ảnh, đi dạo",
+      "theme": "travel",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Yahoo まとめ #10 · 07:11 UTC+7",
+      "source_id": "yahoo-jp-rt",
+      "note": "",
+      "idea_ids": [
+        "20261119-05-dem-san-sao"
+      ]
+    },
+    {
+      "id": "kw-us-10",
+      "region": "US",
+      "rank": 10,
+      "keyword": "julio iglesias",
+      "gloss": "Julio Iglesias bị điều tra hình sự ở Tây Ban Nha",
+      "theme": "ent",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "200+ · 06:50 UTC+7",
+      "source_id": "gt-us",
+      "note": "Phần lớn top 10 Mỹ là thể thao; giữ 1 mục không gắn ý tưởng.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-global-01",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Cổ phiếu AI trước giờ ANT lên sàn",
+      "gloss": "TQ tìm về IPO Anthropic, Hàn tìm S&P 500/Nvidia — cùng chủ đề tâm lý cổ phiếu AI",
+      "theme": "money",
+      "derived_from": [
+        "kw-cn-16",
+        "kw-cn-20",
+        "kw-kr-03",
+        "kw-kr-08"
+      ],
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "CN #16, #20 · KR #3, #8",
+      "note": "Suy ra, không phải số đo.",
+      "idea_ids": [
+        "20261119-03-watchlist-ipo-anthropic"
+      ]
+    }
+  ],
+  "keyword_sources": [
+    {
+      "id": "gt-vn",
+      "name": "Google Trends — Daily Search Trends (Việt Nam)",
+      "title": "Google Trends RSS geo=VN",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "published": null,
+      "accessed": "2026-11-19",
+      "captured_at": "2026-11-19T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "VN",
+      "note": "RSS Daily Search Trends; pubDate −0800 quy đổi UTC+7 (mục mới nhất 18/11 15:50 −0800 = 06:50 19/11 UTC+7). Bỏ 6 mục bóng đá."
+    },
+    {
+      "id": "gt-kr",
+      "name": "Google Trends — Daily Search Trends (Hàn Quốc)",
+      "title": "Google Trends RSS geo=KR",
+      "url": "https://trends.google.com/trending/rss?geo=KR",
+      "published": null,
+      "accessed": "2026-11-19",
+      "captured_at": "2026-11-19T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "RSS Daily Search Trends; pubDate −0800 quy đổi UTC+7 (mục mới nhất 18/11 15:50 −0800 = 06:50 19/11 UTC+7). Bỏ mục thi LEET (tin cá nhân), weather (tin Mỹ), cricket, ionq, KB금융."
+    },
+    {
+      "id": "gt-jp",
+      "name": "Google Trends — Daily Search Trends (Nhật Bản)",
+      "title": "Google Trends RSS geo=JP",
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "published": null,
+      "accessed": "2026-11-19",
+      "captured_at": "2026-11-19T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "RSS Daily Search Trends; mục mới nhất 18/11 16:00 −0800 = 07:00 19/11 UTC+7. Bỏ bóng rổ, đô vật, người nổi tiếng, 明石市 (không có tin kèm)."
+    },
+    {
+      "id": "gt-us",
+      "name": "Google Trends — Daily Search Trends (Mỹ)",
+      "title": "Google Trends RSS geo=US",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "published": null,
+      "accessed": "2026-11-19",
+      "captured_at": "2026-11-19T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "US",
+      "note": "RSS Daily Search Trends; pubDate −0800 quy đổi UTC+7 (mục mới nhất 18/11 15:50 −0800 = 06:50 19/11 UTC+7). 9/10 mục là thể thao."
+    },
+    {
+      "id": "baidu-hot",
+      "name": "Baidu 热搜 (realtime)",
+      "title": "百度热搜 实时榜",
+      "url": "https://top.baidu.com/board?tab=realtime",
+      "published": null,
+      "accessed": "2026-11-19",
+      "captured_at": "2026-11-19T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "CN",
+      "note": "Bảng realtime; chỉ số hotScore của Baidu. Bỏ nhiều mục thời sự chính trị (APEC, lãnh đạo)."
+    },
+    {
+      "id": "yahoo-jp-rt",
+      "name": "Yahoo! JAPAN リアルタイム検索 (まとめ)",
+      "title": "Yahoo Japan realtime matome ranking",
+      "url": "https://search.yahoo.co.jp/realtime/search/matome",
+      "published": null,
+      "accessed": "2026-11-19",
+      "captured_at": "2026-11-19T07:11:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "JSON __NEXT_DATA__ → matomeRanking.items."
+    }
+  ],
+  "keyword_unreachable": [
+    {
+      "region": "CN",
+      "source": "Weibo 热搜",
+      "reason": "Không thử lại hôm nay (13/11: HTTP 403)."
+    },
+    {
+      "region": "CN",
+      "source": "Douyin hot list / Xiaohongshu",
+      "reason": "Không thử lại hôm nay (các lần trước chỉ khung JS hoặc cần đăng nhập)."
+    },
+    {
+      "region": "KR",
+      "source": "Naver DataLab realtime",
+      "reason": "Không có bảng realtime công khai; dùng Google Trends KR."
+    },
+    {
+      "region": "VN",
+      "source": "Shopee/TikTok Shop/Lazada VN trending",
+      "reason": "Không thử lại hôm nay (các lần trước đều là JS/đăng nhập)."
+    },
+    {
+      "region": "US",
+      "source": "Amazon Movers & Shakers / TikTok Creative Center / Z Media",
+      "reason": "Không thử lại hôm nay; ưu tiên hoàn thành bản cập nhật."
+    },
+    {
+      "region": "GLOBAL",
+      "source": "Bảng từ khóa toàn cầu",
+      "reason": "Không có nguồn toàn cầu công khai; mục GLOBAL suy ra từ ≥ 2 vùng."
+    }
+  ]
+}
