@@ -1,0 +1,732 @@
+{
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20T07:28:00+07:00",
+ "headline": "Anthropic +17% phiên chào sàn, Nvidia ngừng giao chip sang TQ; PHP vá khẩn, Ủy ban châu Âu bị tấn công bằng AI; Kestrel soát quy chuẩn trong Revit 30 giây; thép nhích giá",
+ "digest": [
+  {
+   "title": "Anthropic tăng 17% phiên chào sàn, Nvidia ngừng giao chip sang TQ",
+   "text": "ANT mở cửa 111,50 USD, đóng cửa 97,17 USD, vốn hóa pha loãng khoảng 1,8 nghìn tỷ USD (CNBC, Nasdaq); Nvidia ngừng giao Hopper được cấp phép cho TQ (Quartz).",
+   "item_ids": [
+    "n-20261120-01-cnbc-anthropic-debut",
+    "n-20261120-02-qz-nvidia-hopper-china"
+   ]
+  },
+  {
+   "title": "Bảo mật thời AI: PHP vá khẩn, Ủy ban châu Âu bị tấn công bằng AI, ngân hàng đẩy rủi ro tác tử AI cho khách",
+   "text": "php.net ra bản vá 8.2–8.5; Ủy ban châu Âu xác nhận chiến dịch tấn công do AI tạo (heise, RTÉ); Citi buộc khách tự chịu khi tác tử AI bị hack (TechCrunch); GAO: 4 chatbot lớn đều bị vượt rào.",
+   "item_ids": [
+    "n-20261120-05-gao-ai-guardrails",
+    "n-20261120-06-heise-eu-commission-ai-attack",
+    "n-20261120-07-techcrunch-citi-ai-agents",
+    "n-20261120-23-php-security-releases"
+   ]
+  },
+  {
+   "title": "AI soát quy chuẩn, hồ sơ và giấy phép",
+   "text": "Kestrel kiểm tra quy chuẩn trong Revit khoảng 30 giây (ENR); Linarc Lia lập danh mục hồ sơ trình duyệt; BIMatrix (Hàn) chẩn đoán trước giấy phép đất từ 135.000 văn bản luật; KKG công bố AI tạo BIM (tự đo).",
+   "item_ids": [
+    "n-20261120-10-enr-kestrel-labs",
+    "n-20261120-11-linarc-lia",
+    "n-20261120-13-kkg-bim-ai",
+    "n-20261120-15-etnews-bimatrix-permit"
+   ]
+  },
+  {
+   "title": "Robot và AI vào công trường, kho bãi",
+   "text": "MasTec đưa robot gắn máy của Gritt lên dự án điện mặt trời; Suffolk dùng 4 công cụ (OpenSpace, Dusty, Kaya, Alice); US Foods thử robot đếm tồn kho ở thêm 6 kho; Thượng Hải ra kế hoạch AI+ xây dựng.",
+   "item_ids": [
+    "n-20261120-08-mastec-gritt-physical-ai",
+    "n-20261120-09-suffolk-gilead-contech",
+    "n-20261120-16-bjnews-ai-gongdi",
+    "n-20261120-18-usfoods-inventory-robots"
+   ]
+  },
+  {
+   "title": "VN: thép nhích giá, chung cư Hà Nội chờ 7.000 căn quý IV",
+   "text": "Hòa Phát, Việt Ý, Kyoei tăng 100–200 đồng/kg; Cushman & Wakefield dự báo quý IV mở bán khoảng 7.000 căn, 56% ngoại thành; EVNHANOI phát động điện mặt trời mái nhà.",
+   "item_ids": [
+    "n-20261120-20-thep-tang-gia-19-11",
+    "n-20261120-21-tnck-chung-cu-q4",
+    "n-20261120-22-evnhanoi-mai-nha-don-nang"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "n-20261120-01-cnbc-anthropic-debut",
+   "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI",
+   "title_vi": "Anthropic chào sàn Nasdaq: mở cửa 111,50 USD, đóng cửa 97,17 USD (+17% so với giá IPO), vốn hóa pha loãng khoảng 1,8 nghìn tỷ USD",
+   "source": {
+    "name": "CNBC",
+    "kind": "báo tài chính"
+   },
+   "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+   "published": "2026-11-19T11:00:02+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài (bài cập nhật trực tiếp, sửa lần cuối 2026-11-20T00:04Z)",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Cổ phiếu Anthropic (mã ANT) mở cửa phiên đầu ở 111,50 USD và đóng cửa 97,17 USD, cao hơn 17% so với giá IPO 83 USD. CNBC tính vốn hóa pha loãng hoàn toàn khoảng 1,8 nghìn tỷ USD; đợt chào bán thu khoảng 81,3 tỷ USD, phiên đầu có khoảng 846 triệu cổ phiếu được giao dịch. Nasdaq xác nhận giá mở cửa 111,50 USD.",
+   "why_it_matters": "Thị trường chấp nhận định giá rất cao cho phòng thí nghiệm AI — giá dịch vụ AI doanh nghiệp đang dùng có thể chịu áp lực ‘phải có lãi’ trong các năm tới.",
+   "tags": [
+    "Anthropic",
+    "IPO",
+    "Nasdaq",
+    "ANT"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang CNBC (curl), đối chiếu Nasdaq Newsroom (giá mở cửa)",
+   "accessed": "2026-11-20",
+   "note": "Tin chốt giá IPO đã đưa ngày 19/11; tin hôm nay là kết quả phiên giao dịch đầu tiên."
+  },
+  {
+   "id": "n-20261120-02-qz-nvidia-hopper-china",
+   "title": "Nvidia is stopping AI chip shipments to China after Jensen Huang exit",
+   "title_vi": "Nvidia ngừng giao chip Hopper được cấp phép sang Trung Quốc; quý vừa qua bán 2,4 tỷ USD loại này cho TQ, dự báo không tính khoản này",
+   "source": {
+    "name": "Quartz",
+    "kind": "báo kinh doanh"
+   },
+   "url": "https://qz.com/nvidia-stops-china-ai-chip-shipments-huang-exit-111826",
+   "published": "2026-11-18T13:55:51+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Theo Quartz, Nvidia cho biết đã ngừng giao các chip trung tâm dữ liệu dòng Hopper được cấp phép bán sang Trung Quốc. Quý vừa qua công ty ghi nhận khoảng 2,4 tỷ USD doanh số loại chip này tại TQ, nhưng dự báo quý tới không tính khoản này. Bản ghi cuộc trao đổi của CEO tạm quyền Colette Kress trên CNBC xác nhận định hướng không tính doanh số TQ.",
+   "why_it_matters": "Chuỗi cung ứng chip AI tiếp tục tách đôi Mỹ–Trung — các dự án trung tâm dữ liệu ở châu Á cần tính rủi ro thiết bị và giá thuê GPU biến động.",
+   "tags": [
+    "Nvidia",
+    "Hopper",
+    "Trung Quốc",
+    "xuất khẩu chip"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang Quartz (curl), đối chiếu bản ghi CNBC 18/11",
+   "accessed": "2026-11-20"
+  },
+  {
+   "id": "n-20261120-03-technode-kling-image-4",
+   "title": "Kuaishou launches Kling Image 4 with 8K output",
+   "title_vi": "Kuaishou ra Kling Image 4.0: ảnh 8K gốc, chữ tới 2.000 ký tự trong một ảnh, bộ tối đa 10 ảnh đồng bộ phong cách",
+   "source": {
+    "name": "TechNode Global",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://technode.global/2026/11/18/kuaishou-launches-kling-image-4-native-8k/",
+   "published": "2026-11-18T02:37:54+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "CN",
+   "summary_vi": "Kuaishou ra mô hình tạo ảnh Kling Image 4.0, hỗ trợ xuất ảnh 8K gốc, hiển thị tới khoảng 2.000 ký tự trong một ảnh và tạo bộ tối đa 10 ảnh giữ cùng phong cách, nhắm tới ảnh sản phẩm, poster và trang chi tiết thương mại điện tử. IT之家 (17/11) đưa cùng thông tin; cả hai đều dựa trên thông báo của Kuaishou.",
+   "why_it_matters": "Ảnh sản phẩm thương mại ‘đủ dùng’ ngày càng rẻ — shop nhỏ ở VN có thể tự làm bộ ảnh đồng bộ thay vì thuê chụp.",
+   "tags": [
+    "Kling",
+    "Kuaishou",
+    "AI tạo ảnh",
+    "thương mại điện tử"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang TechNode (curl), đối chiếu IT之家",
+   "accessed": "2026-11-20",
+   "note": "Hai nguồn cùng dựa trên thông báo của công ty; các thông số là do hãng công bố.",
+   "idea_ids": [
+    "20261120-07-bo-10-anh-mot-giong"
+   ]
+  },
+  {
+   "id": "n-20261120-04-kuaishou-q3-2026",
+   "title": "Kuaishou Technology Announces Third Quarter 2026 Unaudited Financial Results",
+   "title_vi": "Kuaishou quý III/2026: doanh thu 31,6 tỷ tệ, lỗ 959 triệu tệ; mảng ‘dịch vụ khác’ (gồm Kling AI) chỉ tăng 1,5%",
+   "source": {
+    "name": "Kuaishou (PR Newswire)",
+    "kind": "thông cáo hãng"
+   },
+   "url": "https://www.prnewswire.com/apac/news-releases/kuaishou-technology-announces-third-quarter-2026-unaudited-financial-results-302945189.html",
+   "published": "2026-11-19T08:57:00+00:00",
+   "time_known": true,
+   "date_basis": "meta date trên trang PR Newswire",
+   "topic": "ai_toan_cau",
+   "region": "CN",
+   "summary_vi": "Kuaishou báo doanh thu quý III/2026 khoảng 31,6 tỷ tệ và lỗ khoảng 959 triệu tệ. Mảng ‘dịch vụ khác’, gồm game và Kling AI, tăng 1,5% lên khoảng 6,0 tỷ tệ. Công ty cho biết đã mua lại 39.132.200 cổ phiếu, tổng khoảng 1,41 tỷ HKD.",
+   "why_it_matters": "Ngay cả khi ra mô hình AI mạnh, doanh thu AI của nền tảng lớn vẫn tăng chậm — cẩn trọng với kỳ vọng ‘AI ra tiền ngay’.",
+   "tags": [
+    "Kuaishou",
+    "Kling",
+    "báo cáo tài chính"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang PR Newswire (curl)",
+   "accessed": "2026-11-20",
+   "idea_ids": [
+    "20261120-08-watchlist-kuaishou-kling"
+   ]
+  },
+  {
+   "id": "n-20261120-05-gao-ai-guardrails",
+   "title": "Major AI platforms generated viable plans for terrorist attacks, GAO finds",
+   "title_vi": "GAO (Mỹ): ChatGPT, Claude, Gemini và Grok đều bị vượt rào an toàn, tạo kế hoạch tấn công khả thi trong chưa tới 12 giờ",
+   "source": {
+    "name": "Nextgov/FCW",
+    "kind": "báo chính phủ–công nghệ"
+   },
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/11/major-ai-platforms-generated-viable-plans-terrorist-attacks-gao-finds/417305/",
+   "published": "2026-11-18T17:34:00+00:00",
+   "time_known": true,
+   "date_basis": "meta pubdate trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Báo cáo của Văn phòng Kiểm toán Chính phủ Mỹ (GAO) cho biết điều tra viên đã thử bí mật bốn nền tảng ChatGPT, Claude, Gemini và Grok vào mùa xuân 2026. Bằng các kỹ thuật vượt rào phổ biến, họ khiến cả bốn đưa ra thông tin có thể dùng để tấn công hạ tầng điện và gây thương vong; mỗi nền tảng mất chưa tới 12 giờ. Chuyên gia đã xác minh tính khả thi của thông tin.",
+   "why_it_matters": "Rào an toàn của chatbot không tuyệt đối — doanh nghiệp đưa AI vào quy trình cần thêm kiểm soát truy cập và giám sát riêng.",
+   "tags": [
+    "GAO",
+    "an toàn AI",
+    "chatbot",
+    "an ninh"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang Nextgov (curl)",
+   "accessed": "2026-11-20"
+  },
+  {
+   "id": "n-20261120-06-heise-eu-commission-ai-attack",
+   "title": "Cyberattack hits European Commission, causing days of outages",
+   "title_vi": "Ủy ban châu Âu xác nhận bị tấn công mạng bằng ‘chiến dịch do AI tạo’, nhiều ứng dụng nội bộ gián đoạn nhiều ngày",
+   "source": {
+    "name": "heise online",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://www.heise.de/en/news/Cyberattack-hits-European-Commission-causing-days-of-outages-11531713.html",
+   "published": "2026-11-19T22:49:00+01:00",
+   "time_known": true,
+   "date_basis": "meta date trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "EU",
+   "summary_vi": "Ủy ban châu Âu xác nhận một cuộc tấn công mạng được mô tả là chiến dịch do AI tạo ra; sự cố được phát hiện ngày 22/10 và xác nhận ngày 26/10, một số ứng dụng phải tạm gỡ nhiều ngày. RTÉ (19/11) đưa cùng thông tin và cho biết chưa có bằng chứng toàn bộ dữ liệu nhân viên bị lộ. Từ khóa ‘ポリティコ’ (Politico, nơi đưa tin đầu) vào Google Trends Nhật sáng 20/11.",
+   "why_it_matters": "Kẻ tấn công cũng đã dùng AI — hệ thống thông tin nội bộ (kể cả cổng đấu thầu, nhà cung cấp) cần được rà lỗ hổng thường xuyên hơn.",
+   "tags": [
+    "Ủy ban châu Âu",
+    "tấn công mạng",
+    "AI",
+    "bảo mật"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang heise (curl), đối chiếu RTÉ",
+   "accessed": "2026-11-20",
+   "idea_ids": [
+    "20261120-04-kham-web-15-phut"
+   ]
+  },
+  {
+   "id": "n-20261120-07-techcrunch-citi-ai-agents",
+   "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+   "title_vi": "Citi sửa điều khoản: khách cho tác tử AI bên thứ ba truy cập tài khoản phải tự chịu trách nhiệm, kể cả khi bị hack",
+   "source": {
+    "name": "TechCrunch",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+   "published": "2026-11-18T17:32:10+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_toan_cau",
+   "region": "US",
+   "summary_vi": "Citi cập nhật thỏa thuận người dùng: nếu khách cho tác tử AI của bên thứ ba truy cập tài khoản, khách chịu trách nhiệm cho mọi hoạt động của tác tử, kể cả khi tác tử bị tấn công. TechCrunch cho biết JPMorgan, Bank of America và PNC đã có điều khoản tương tự.",
+   "why_it_matters": "Trước khi để AI ‘tự đi mua hàng, tự thanh toán’, doanh nghiệp cần đọc kỹ điều khoản ngân hàng — rủi ro có thể rơi hết về phía người dùng.",
+   "tags": [
+    "Citi",
+    "tác tử AI",
+    "ngân hàng",
+    "điều khoản"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang TechCrunch (curl)",
+   "accessed": "2026-11-20",
+   "idea_ids": [
+    "20261120-04-kham-web-15-phut"
+   ]
+  },
+  {
+   "id": "n-20261120-08-mastec-gritt-physical-ai",
+   "title": "MasTec partners to deploy physical AI on renewables projects",
+   "title_vi": "MasTec hợp tác Gritt đưa ‘AI vật lý’ (đầu robot gắn vào xe xúc, xe nâng) lên công trường điện mặt trời",
+   "source": {
+    "name": "Construction Dive",
+    "kind": "báo ngành xây dựng"
+   },
+   "url": "https://www.constructiondive.com/news/mastec-partners-gritt-physical-ai-renewables-projects/875015/",
+   "published": "2026-11-18",
+   "time_known": false,
+   "date_basis": "ngày ‘Published’ trên trang (không có giờ)",
+   "topic": "ai_xd",
+   "region": "US",
+   "summary_vi": "Tổng thầu năng lượng MasTec sẽ dùng thiết bị của startup Gritt — các đầu robot có AI gắn thêm vào xe xúc lật nhỏ, xe nâng — trên các dự án điện mặt trời quy mô lớn ở nhiều bang. Hệ thống học các thao tác gắp–đặt, lắp ráp, vận chuyển vật tư, có người giám sát; đã được thử khi lắp hàng megawatt tấm pin. Gritt ra mắt tháng 7 với tổng 32,4 triệu USD vốn hạt giống và Series A.",
+   "why_it_matters": "Robot ‘gắn thêm’ vào máy sẵn có là hướng tự động hóa công trường rẻ hơn mua máy mới — đáng theo dõi cho thi công lắp đặt lặp lại.",
+   "tags": [
+    "MasTec",
+    "Gritt",
+    "robot",
+    "điện mặt trời",
+    "AI vật lý"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang qua WebFetch (curl bị 403)",
+   "accessed": "2026-11-20"
+  },
+  {
+   "id": "n-20261120-09-suffolk-gilead-contech",
+   "title": "Suffolk taps array of contech applications on Gilead’s new California research center",
+   "title_vi": "Suffolk dùng OpenSpace, Dusty Robotics, Kaya AI và Alice cho trung tâm nghiên cứu Gilead: chụp 360°, robot định vị, theo dõi thời gian giao vật tư, mô phỏng trình tự thi công",
+   "source": {
+    "name": "Construction Dive",
+    "kind": "báo ngành xây dựng"
+   },
+   "url": "https://www.constructiondive.com/news/suffolk-gilead-lab-contech-california-construction/875068/",
+   "published": "2026-11-18",
+   "time_known": false,
+   "date_basis": "ngày ‘Published’ trên trang (không có giờ)",
+   "topic": "ai_xd",
+   "region": "US",
+   "summary_vi": "Suffolk hoàn thành trung tâm nghiên cứu của Gilead ở Foster City (California). Nhà thầu dùng OpenSpace (camera 360°, drone) theo dõi tiến độ, robot Dusty định vị mặt bằng, Kaya AI theo dõi thời gian giao hàng cho mua sắm, và Alice Technologies phân tích trình tự thi công. Gilead đầu tư 847 triệu USD mở rộng khuôn viên.",
+   "why_it_matters": "Một ví dụ cụ thể về ‘bộ công cụ’ nhiều lớp trên cùng dự án, trong đó có AI theo dõi tiến độ giao vật tư — đúng mảng mua sắm.",
+   "tags": [
+    "Suffolk",
+    "OpenSpace",
+    "Kaya AI",
+    "Alice",
+    "mua sắm"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang qua WebFetch (curl bị 403)",
+   "accessed": "2026-11-20",
+   "note": "Tin Suffolk mở trung tâm 100MAG đã đưa ngày 05/11; tin này là dự án hoàn thành và bộ công nghệ dùng."
+  },
+  {
+   "id": "n-20261120-10-enr-kestrel-labs",
+   "title": "Kestrel Labs Bring AI-Assisted Code Compliance to Revit, BIM",
+   "title_vi": "Kestrel Labs: kiểm tra tuân thủ quy chuẩn xây dựng ngay trong Revit khoảng 30 giây, mỗi lỗi gắn với cấu kiện và điều khoản cụ thể",
+   "source": {
+    "name": "ENR",
+    "kind": "báo ngành xây dựng"
+   },
+   "url": "https://www.enr.com/articles/64371-kestrel-labs-bring-ai-assisted-code-compliance-to-revit-bim",
+   "published": "2026-11-19",
+   "time_known": false,
+   "date_basis": "ngày hiển thị trên trang (không có giờ)",
+   "topic": "ai_xd",
+   "region": "US",
+   "summary_vi": "Startup Kestrel Labs (Denver) gọi được 2,13 triệu USD cho nền tảng kiểm tra tuân thủ quy chuẩn chạy trong Revit, Autodesk Forma và Trimble Connect. Một lần bấm trong Revit chạy kiểm tra đầy đủ khoảng 30 giây, mỗi kết quả gắn với cấu kiện và trích đúng điều khoản. CEO cho biết AI chỉ dùng ở đầu vào (chuyển quy chuẩn thành dữ liệu) và đầu ra (giải thích); phần kiểm tra ở giữa là hệ thống tất định, chạy lại cho cùng kết quả.",
+   "why_it_matters": "Mô hình ‘AI hai đầu, logic tất định ở giữa’ đáng học khi xây công cụ soát hồ sơ thầu — kết quả lặp lại được và có nhật ký kiểm toán.",
+   "tags": [
+    "Kestrel Labs",
+    "Revit",
+    "quy chuẩn",
+    "BIM"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang qua WebFetch (curl bị 403)",
+   "accessed": "2026-11-20"
+  },
+  {
+   "id": "n-20261120-11-linarc-lia",
+   "title": "Linarc’s Lia drafts submittal registers from spec books and flags drawing changes",
+   "title_vi": "Linarc ra Lia: AI đọc chỉ dẫn kỹ thuật để lập danh mục hồ sơ trình duyệt, đánh dấu thay đổi bản vẽ giữa các phiên bản",
+   "source": {
+    "name": "Construction Metrics",
+    "kind": "báo công nghệ xây dựng"
+   },
+   "url": "https://constructionmetrics.com/2026/11/18/linarc-lia-submittal-registers-drawing-revisions/",
+   "published": "2026-11-18T06:34:34-05:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_xd",
+   "region": "US",
+   "summary_vi": "Nền tảng quản lý thi công Linarc ra trợ lý AI Lia (công bố 17/11), đọc hợp đồng, chỉ dẫn kỹ thuật và bản vẽ. Lia tự lập bản nháp danh mục hồ sơ trình duyệt (submittal register) từ cuốn chỉ dẫn kỹ thuật và chỉ ra các thay đổi bản vẽ giữa hai lần phát hành mà dễ bị bỏ sót. Trang sản phẩm của Linarc mô tả cùng tính năng.",
+   "why_it_matters": "Lập danh mục hồ sơ trình duyệt và soát thay đổi bản vẽ là việc tốn công của kỹ sư dự án — có thể thử quy trình tương tự với tài liệu dự án VN.",
+   "tags": [
+    "Linarc",
+    "submittal",
+    "bản vẽ",
+    "tác tử AI"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang Construction Metrics (curl), đối chiếu trang linarc.com/lia",
+   "accessed": "2026-11-20",
+   "note": "Thông cáo gốc trên GlobeNewswire trả 403 với curl."
+  },
+  {
+   "id": "n-20261120-12-ediphi-mortenson",
+   "title": "Ediphi signs deal with Mortenson to provide enterprise-wide preconstruction and estimating",
+   "title_vi": "Mortenson (top 10 ENR) triển khai phần mềm dự toán–chuẩn bị thi công Ediphi toàn công ty: 175 người dùng, 9 vùng, 13 văn phòng",
+   "source": {
+    "name": "Ediphi (blog)",
+    "kind": "blog nhà cung cấp"
+   },
+   "url": "https://www.ediphi.com/blog/ediphi-signs-deal-with-mortenson-construction",
+   "published": "2026-11-18",
+   "time_known": false,
+   "date_basis": "datePublished (JSON-LD) trên trang bài (không có giờ)",
+   "topic": "ai_xd",
+   "region": "US",
+   "summary_vi": "Ediphi công bố hợp đồng triển khai nền tảng dự toán và chuẩn bị thi công cho Mortenson trên toàn doanh nghiệp, với 175 người dùng ở 9 vùng và 13 văn phòng. Ediphi cho biết Mortenson đứng thứ 10 trong bảng xếp hạng tổng thầu của ENR. Đây là thông tin do nhà cung cấp tự công bố.",
+   "why_it_matters": "Dự toán đang chuyển lên nền tảng dữ liệu chung toàn công ty — điều kiện để sau này dùng AI so sánh đơn giá giữa các dự án.",
+   "tags": [
+    "Ediphi",
+    "Mortenson",
+    "dự toán",
+    "preconstruction"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang ediphi.com (curl)",
+   "accessed": "2026-11-20"
+  },
+  {
+   "id": "n-20261120-13-kkg-bim-ai",
+   "title": "KK Generation(KKG)の「BIM生成AI」が、最新生成AI比3倍以上の精度を達成",
+   "title_vi": "KK Generation (Nhật) công bố AI tạo BIM: điểm tạo IFC 91,79 so với 28,2 của mô hình đa dụng tốt nhất trong thử nghiệm của hãng",
+   "source": {
+    "name": "PR TIMES (KK Generation)",
+    "kind": "thông cáo hãng"
+   },
+   "url": "https://prtimes.jp/main/html/rd/p/000000026.000143310.html",
+   "published": "2026-11-19T13:00:01+09:00",
+   "time_known": true,
+   "date_basis": "datePublished (JSON-LD) trên trang bài (giờ Nhật)",
+   "topic": "ai_xd",
+   "region": "JP",
+   "summary_vi": "KK Generation công bố ‘BIM生成AI’ đạt 91,79 điểm (mức con người 96,3) ở bài tạo mô hình IFC, trong khi mô hình đa dụng tốt nhất được thử đạt 28,2; ở bài bóc khối lượng đạt 76,1 (con người 96,7) so với 15,5. Bộ thử gồm 84 bản vẽ. Đây là đánh giá do chính công ty thực hiện, chưa có kiểm chứng độc lập.",
+   "why_it_matters": "Nếu đúng, chuyển bản vẽ 2D thành BIM và bóc khối lượng tự động sẽ rút ngắn khâu lập dự toán gói thầu; cần chờ kiểm chứng độc lập.",
+   "tags": [
+    "KK Generation",
+    "BIM",
+    "IFC",
+    "bóc khối lượng"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang PR TIMES (curl)",
+   "accessed": "2026-11-20",
+   "note": "Số điểm do công ty tự đo trên bộ thử của mình."
+  },
+  {
+   "id": "n-20261120-14-genews-korea-ai-quality",
+   "title": "\"하자는 줄이고 품질은 높이고\"…건설사, AI 품질관리 강화",
+   "title_vi": "Các nhà thầu Hàn tăng AI quản lý chất lượng: GS E&C dùng AI soát hồ sơ, Daewoo ‘Q-BOX’ cắt hơn 90% thời gian làm tài liệu",
+   "source": {
+    "name": "Global Economic (g-enews)",
+    "kind": "báo kinh tế"
+   },
+   "url": "https://www.g-enews.com/article/Real-Estate/2026/11/202611191048149722d6c92cbcc5_1",
+   "published": "2026-11-19T11:00:36+09:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_xd",
+   "region": "KR",
+   "summary_vi": "Bài tổng hợp cho thấy các nhà thầu lớn Hàn Quốc đẩy AI vào quản lý chất lượng để giảm lỗi bàn giao: GS E&C dùng AI rà soát tài liệu kỹ thuật, Daewoo E&C có hệ thống ‘Q-BOX’ được cho là cắt hơn 90% thời gian lập tài liệu chất lượng, Hyundai E&C mở rộng nền tảng Q-Pocket. Số liệu do các công ty cung cấp.",
+   "why_it_matters": "Quản lý chất lượng và hồ sơ nghiệm thu là chỗ AI cho kết quả đo được sớm — hợp để thử ở ban QLDA.",
+   "tags": [
+    "Hàn Quốc",
+    "GS E&C",
+    "Daewoo",
+    "quản lý chất lượng"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang g-enews (curl)",
+   "accessed": "2026-11-20",
+   "note": "Q-Pocket của Hyundai đã đưa ngày 10/11; tin này nổi bật phần GS E&C và Daewoo."
+  },
+  {
+   "id": "n-20261120-15-etnews-bimatrix-permit",
+   "title": "비아이매트릭스, AI 기반 토지 인허가 사전진단 서비스 개발…내년 1월 실증",
+   "title_vi": "BIMatrix (Hàn) làm AI chẩn đoán trước giấy phép sử dụng đất: dữ liệu 135.000 văn bản luật, thử ở 5 địa phương từ tháng 1/2027",
+   "source": {
+    "name": "전자신문 (etnews)",
+    "kind": "báo công nghệ"
+   },
+   "url": "https://www.etnews.com/20261119000162",
+   "published": "2026-11-19T10:55:42+09:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_xd",
+   "region": "KR",
+   "summary_vi": "BIMatrix phát triển dịch vụ AI chẩn đoán trước khả năng được cấp phép xây dựng–sử dụng đất, dựa trên khoảng 135.000 văn bản luật và quy định địa phương cùng 190 GB dữ liệu không gian. Dịch vụ sẽ thử nghiệm từ tháng 1/2027 tại 5 chính quyền địa phương rồi mở rộng ra 18 nơi; mục tiêu rút quy trình từ 6 bước xuống 3.",
+   "why_it_matters": "Thủ tục pháp lý đất đai là nút thắt lớn của dự án — mô hình ‘tra trước bằng AI’ có thể áp dụng cho khâu nghiên cứu khả thi ở VN.",
+   "tags": [
+    "BIMatrix",
+    "giấy phép",
+    "đất đai",
+    "Hàn Quốc"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang etnews (curl)",
+   "accessed": "2026-11-20"
+  },
+  {
+   "id": "n-20261120-16-bjnews-ai-gongdi",
+   "title": "AI开始“进工地”，多地抢跑住建“人工智能+”",
+   "title_vi": "Thượng Hải ra kế hoạch ‘AI+ xây dựng’ 2026–2028; An Huy, Nam Kinh đặt mục tiêu 70%, Giang Tô có 438 dự án thí điểm",
+   "source": {
+    "name": "新京报 (Beijing News)",
+    "kind": "báo tổng hợp"
+   },
+   "url": "https://m.bjnews.com.cn/detail/1794996910168650.html",
+   "published": "2026-11-18T18:15:00+08:00",
+   "time_known": true,
+   "date_basis": "thời gian hiển thị trên trang bài (giờ Bắc Kinh)",
+   "topic": "ai_xd",
+   "region": "CN",
+   "summary_vi": "Sở Xây dựng Thượng Hải công bố (13/11) kế hoạch hành động ‘AI+’ ngành xây dựng giai đoạn 2026–2028. Bài của 新京报 cho biết An Huy và Nam Kinh đặt mục tiêu khoảng 70% cho ứng dụng AI trong một số khâu, Giang Tô đã có 438 dự án thí điểm. Bài cũng nêu diện tích khởi công nhà ở Thượng Hải giảm 25,2%.",
+   "why_it_matters": "Chính quyền TQ đang đặt chỉ tiêu AI cụ thể cho ngành xây dựng — nhà cung cấp phần mềm TQ sẽ có sản phẩm chín nhanh, có thể vào VN.",
+   "tags": [
+    "Thượng Hải",
+    "AI+",
+    "xây dựng",
+    "chính sách"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang bjnews (curl)",
+   "accessed": "2026-11-20"
+  },
+  {
+   "id": "n-20261120-17-baoxaydung-khcn-bxd",
+   "title": "Toàn cảnh chuỗi sự kiện khoa học công nghệ, đổi mới sáng tạo, chuyển đổi số ngành Xây dựng",
+   "title_vi": "Bộ Xây dựng tổ chức chuỗi sự kiện KHCN–chuyển đổi số 16–18/11: 34 đơn vị, 61 gian trưng bày, ra mắt cổng thông tin",
+   "source": {
+    "name": "Báo Xây dựng",
+    "kind": "báo trong nước"
+   },
+   "url": "https://baoxaydung.vn/toan-canh-chuoi-su-kien-khoa-hoc-cong-nghe-doi-moi-sang-tao-chuyen-doi-so-nganh-xay-dung-192261119100305711.htm",
+   "published": "2026-11-19T15:36:00+07:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "ai_xd",
+   "region": "VN",
+   "summary_vi": "Bộ Xây dựng tổ chức chuỗi sự kiện khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số ngành từ 16 đến 18/11, với 34 đơn vị tham gia và 61 gian trưng bày. Một cổng thông tin chuyên đề được ra mắt ngày 16/11 và 14 tập thể được khen thưởng.",
+   "why_it_matters": "Bộ chủ quản đang đẩy chuyển đổi số — các chủ đầu tư nên theo dõi cổng thông tin mới để nắm yêu cầu dữ liệu, BIM sắp tới.",
+   "tags": [
+    "Bộ Xây dựng",
+    "chuyển đổi số",
+    "KHCN"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang baoxaydung.vn (curl)",
+   "accessed": "2026-11-20"
+  },
+  {
+   "id": "n-20261120-18-usfoods-inventory-robots",
+   "title": "US Foods to test inventory-scanning robots at 6 more warehouses",
+   "title_vi": "US Foods thử robot quét tồn kho ở thêm 6 kho: chi phí ngang một nhân công, đếm chính xác trong 24 giờ",
+   "source": {
+    "name": "Supply Chain Dive",
+    "kind": "báo ngành chuỗi cung ứng"
+   },
+   "url": "https://www.supplychaindive.com/news/us-foods-to-test-inventory-scanning-robots-at-6-more-warehouses/874829/",
+   "published": "2026-11-17",
+   "time_known": false,
+   "date_basis": "ngày trên trang (không có giờ)",
+   "topic": "chuoi_cung_ung",
+   "region": "US",
+   "summary_vi": "Nhà phân phối thực phẩm US Foods đã thử robot tự hành quét tồn kho ở một kho và sẽ mở rộng ra thêm 6 kho trước cuối năm 2026. Robot có chi phí xấp xỉ một nhân công và đếm chính xác tồn kho trong vòng 24 giờ. Distribution Strategy dẫn cuộc họp kết quả quý III (5/11): công ty nói AI mang lại hơn 75 triệu USD lợi ích mỗi năm.",
+   "why_it_matters": "Kiểm kê kho vật tư công trường vẫn làm tay — robot/AI đếm tồn kho là hướng giảm thất thoát đáng theo dõi.",
+   "tags": [
+    "US Foods",
+    "robot",
+    "kiểm kê",
+    "kho"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang qua WebFetch (curl bị 403), đối chiếu Distribution Strategy",
+   "accessed": "2026-11-20"
+  },
+  {
+   "id": "n-20261120-19-freightwaves-sparq-roi",
+   "title": "Sparq: Logistics AI is paying off, but buyers want speed",
+   "title_vi": "Khảo sát 313 doanh nghiệp logistics Mỹ: 90% nói đầu tư công nghệ/AI đạt hoặc vượt kỳ vọng ROI, 62% đòi nhà cung cấp hoàn vốn nhanh hơn",
+   "source": {
+    "name": "FreightWaves",
+    "kind": "báo ngành chuỗi cung ứng"
+   },
+   "url": "https://www.freightwaves.com/news/sparq-logistics-ai-roi-survey",
+   "published": "2026-11-19T18:35:30+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "chuoi_cung_ung",
+   "region": "US",
+   "summary_vi": "Sparq công bố khảo sát 313 người ra quyết định trong môi giới vận tải, xe tải, chuyển phát và giao chặng cuối ở Mỹ. 90% nói khoản đầu tư công nghệ/AI đã triển khai đạt hoặc vượt kỳ vọng ROI, nhưng 62% yêu cầu nhà cung cấp rút ngắn thời gian hoàn vốn; 87% dự kiến ngân sách công nghệ/AI năm tới tăng. Khảo sát do Sparq — một công ty dịch vụ — đặt làm.",
+   "why_it_matters": "Người mua đã chuyển từ ‘thử xem có chạy không’ sang ‘chứng minh lợi nhuận nhanh’ — nên đặt KPI hoàn vốn ngay trong hồ sơ mời thầu phần mềm.",
+   "tags": [
+    "logistics",
+    "ROI",
+    "khảo sát",
+    "AI"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang FreightWaves (curl)",
+   "accessed": "2026-11-20",
+   "note": "Khảo sát do công ty dịch vụ AI đặt làm — có thể thiên về kết quả tích cực."
+  },
+  {
+   "id": "n-20261120-20-thep-tang-gia-19-11",
+   "title": "Ba doanh nghiệp thép đồng loạt tăng giá bán, mức cao nhất 200.000 đồng một tấn",
+   "title_vi": "Hòa Phát, Việt Ý, Kyoei tăng giá thép 100–200 đồng/kg; Hòa Phát Hưng Yên tăng 200.000 đồng/tấn",
+   "source": {
+    "name": "vietnam.vn (tổng hợp)",
+    "kind": "trang tổng hợp"
+   },
+   "url": "https://www.vietnam.vn/ba-doanh-nghiep-thep-dong-loat-tang-gia-ban-muc-cao-nhat-200-000-dong-mot-tan",
+   "published": "2026-11-19T01:26:01+00:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "chuoi_cung_ung",
+   "region": "VN",
+   "summary_vi": "Ba doanh nghiệp thép điều chỉnh tăng giá bán: thép Hòa Phát tại Hưng Yên tăng 200.000 đồng/tấn, Việt Ý tăng 200 đồng/kg, Kyoei tăng 100 đồng/kg. Bài cũng nêu sản lượng thép thô 9 tháng khoảng 23,2 triệu tấn. Doanh nghiệp & Hội nhập (19/11) ghi giá thép xây dựng trong khoảng 13.840–15.150 đồng/kg, quặng sắt nhích tăng.",
+   "why_it_matters": "Giá thép đi ngang nhiều tuần nay bắt đầu nhích — gói thầu kết cấu chưa chốt giá nên tính lại dự phòng trượt giá.",
+   "tags": [
+    "giá thép",
+    "Hòa Phát",
+    "Việt Ý",
+    "Kyoei"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "bảng giá tổng hợp",
+   "how_read": "mở trang vietnam.vn (curl), đối chiếu Doanh nghiệp & Hội nhập",
+   "accessed": "2026-11-20",
+   "note": "vietnam.vn là trang tổng hợp lại tin báo khác; nguồn giá gốc (thitruongthep) chỉ tải bằng JS nên chưa đối chiếu được."
+  },
+  {
+   "id": "n-20261120-21-tnck-chung-cu-q4",
+   "title": "Thị trường chung cư Hà Nội kỳ vọng sức mua cuối năm",
+   "title_vi": "Cushman & Wakefield dự báo quý IV Hà Nội mở bán khoảng 7.000 căn hộ (quý III: 2.100 căn), 56% ở ngoại thành",
+   "source": {
+    "name": "Tin nhanh chứng khoán",
+    "kind": "báo tài chính"
+   },
+   "url": "https://www.tinnhanhchungkhoan.vn/thi-truong-chung-cu-ha-noi-ky-vong-suc-mua-cuoi-nam-post401488.html",
+   "published": "2026-11-18T06:37:48+07:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "Cushman & Wakefield dự báo quý cuối năm Hà Nội có khoảng 7.000 căn hộ mở bán mới, cao hơn nhiều mức 2.100 căn của quý trước, trong đó khu vực ngoại thành chiếm khoảng 56%. Đơn vị này cho rằng thị trường chuyển từ tăng trưởng dựa trên kỳ vọng sang giá trị sử dụng thực, các dự án sẽ phân hóa theo pháp lý, tiến độ và hạ tầng.",
+   "why_it_matters": "Nguồn cung dồn vào quý IV và dịch ra ngoại thành — nhu cầu thi công, vật tư cho các dự án lớn ngoài trung tâm sẽ tăng.",
+   "tags": [
+    "chung cư",
+    "Hà Nội",
+    "Cushman & Wakefield",
+    "nguồn cung"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang tinnhanhchungkhoan.vn (curl)",
+   "accessed": "2026-11-20",
+   "note": "Số liệu quý III (giá, thanh khoản) đã đưa ngày 19/11 qua Dân trí; tin này là dự báo quý IV."
+  },
+  {
+   "id": "n-20261120-22-evnhanoi-mai-nha-don-nang",
+   "title": "Mái nhà đón nắng: EVNHANOI lan tỏa nguồn năng lượng xanh từ mỗi mái nhà",
+   "title_vi": "EVNHANOI phát động ‘Mái nhà đón nắng’: khuyến khích điện mặt trời mái nhà tự sản xuất, tự tiêu thụ ở Hà Nội",
+   "source": {
+    "name": "Thanh Niên",
+    "kind": "báo trong nước"
+   },
+   "url": "https://thanhnien.vn/mai-nha-don-nang-evnhanoi-lan-toa-nguon-nang-luong-xanh-tu-moi-mai-nha-185261119154544312.htm",
+   "published": "2026-11-19T15:36:00+07:00",
+   "time_known": true,
+   "date_basis": "meta article:published_time trên trang bài",
+   "topic": "vn",
+   "region": "VN",
+   "summary_vi": "EVNHANOI và Sở Công thương Hà Nội phát động chương trình ‘Mái nhà đón nắng’, khuyến khích hộ gia đình, doanh nghiệp lắp điện mặt trời mái nhà tự sản xuất, tự tiêu thụ. EVNHANOI cam kết cung cấp thông tin chính thống, tư vấn kỹ thuật, an toàn và thủ tục. Dân trí (18/11) cũng có bài về lợi ích giảm hóa đơn điện của mô hình này; ‘năng lượng mặt trời’ vào Google Trends VN sáng 20/11.",
+   "why_it_matters": "Mái nhà xưởng, văn phòng ban QLDA và dự án mới có thể tính thêm phương án điện mặt trời mái nhà khi thiết kế.",
+   "tags": [
+    "EVNHANOI",
+    "điện mặt trời mái nhà",
+    "Hà Nội"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "tin độc lập",
+   "how_read": "mở trang thanhnien.vn (curl), đối chiếu Dân trí",
+   "accessed": "2026-11-20"
+  },
+  {
+   "id": "n-20261120-23-php-security-releases",
+   "title": "PHP 8.5.13, 8.4.28, 8.3.37 and 8.2.36 Released (security)",
+   "title_vi": "PHP phát hành loạt bản vá bảo mật cho 8.2–8.5; ‘php’ thành từ khóa hot ở Nhật với hơn 20.000 lượt tìm",
+   "source": {
+    "name": "php.net",
+    "kind": "trang chính thức"
+   },
+   "url": "https://www.php.net/",
+   "published": "2026-11-19",
+   "time_known": false,
+   "date_basis": "ngày đăng tin trên trang chủ php.net (không có giờ)",
+   "topic": "cong_nghe",
+   "region": "Global",
+   "summary_vi": "Ngày 19/11, nhóm PHP công bố các bản 8.5.13, 8.4.28, 8.3.37 và 8.2.36, là bản phát hành bảo mật, khuyến nghị mọi người dùng các dòng này nâng cấp. NHK và Nikkei đưa tin lỗ hổng mới có thể khiến dịch vụ phải tạm dừng; ‘php’ đứng hạng 4 Google Trends Nhật sáng 20/11 với hơn 20.000 lượt tìm.",
+   "why_it_matters": "Nhiều website doanh nghiệp, cổng nhà cung cấp chạy PHP — nên yêu cầu đơn vị vận hành cập nhật ngay.",
+   "tags": [
+    "PHP",
+    "bảo mật",
+    "bản vá",
+    "website"
+   ],
+   "verification": "đọc đầy đủ",
+   "source_type": "thông cáo/blog nhà cung cấp",
+   "how_read": "mở trang chủ php.net (curl), đối chiếu NHK (đoạn đầu) và Nikkei (đoạn đầu)",
+   "accessed": "2026-11-20",
+   "idea_ids": [
+    "20261120-04-kham-web-15-phut"
+   ]
+  }
+ ],
+ "unreachable": [
+  {
+   "source": "Construction Dive / Supply Chain Dive / ENR (curl)",
+   "status": "curl HTTP 403",
+   "impact": "Đọc qua WebFetch thay curl; nội dung đầy đủ."
+  },
+  {
+   "source": "GlobeNewswire (thông cáo Linarc)",
+   "status": "curl HTTP 403",
+   "impact": "Dùng Construction Metrics và trang linarc.com/lia."
+  },
+  {
+   "source": "AP News, Investing.com, MarketScreener",
+   "status": "curl HTTP 403",
+   "impact": "Dùng CNBC, Nasdaq, Quartz cho tin Anthropic/Nvidia."
+  },
+  {
+   "source": "Drewry World Container Index",
+   "status": "Trang mở được nhưng không trích được bảng chỉ số",
+   "impact": "Không đưa tin cước container hôm nay."
+  },
+  {
+   "source": "thitruongthep.com",
+   "status": "Chỉ khung JavaScript",
+   "impact": "Giá thép lấy từ vietnam.vn và Doanh nghiệp & Hội nhập, chưa đối chiếu nguồn gốc."
+  },
+  {
+   "source": "Nikkei (bài PHP)",
+   "status": "Phần lớn bài dành cho hội viên",
+   "impact": "Chỉ đọc đoạn mở đầu."
+  }
+ ]
+}

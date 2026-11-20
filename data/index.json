@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-19",
-  "latest": "2026-11-19",
+  "updated": "2026-11-20",
+  "latest": "2026-11-20",
   "days": [
+    {
+      "date": "2026-11-20",
+      "file": "2026-11-20.json",
+      "headline": "Người trẻ TQ trả tiền để ngồi may 15 tệ/giờ, ‘văn phòng tứ bảo’ thành hộp quà; PHP vá khẩn, Kling Image 4.0 ra bộ 10 ảnh, Anthropic +17% phiên đầu — 8 ý tưởng nhỏ",
+      "idea_count": 8,
+      "trend_count": 5,
+      "keyword_count": 32,
+      "top": {
+        "title": "“10 ảnh một giọng” — shop nhỏ gửi 3 ảnh chụp điện thoại, nhận bộ 10 ảnh đồng bộ (ảnh bìa, cận chất liệu, bảng size, ảnh dài trang chi tiết) trong ngày",
+        "total_score": 7.14
+      }
+    },
     {
       "date": "2026-11-19",
       "file": "2026-11-19.json",

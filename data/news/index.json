@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19",
-  "latest": "2026-11-19",
+  "updated": "2026-11-20",
+  "latest": "2026-11-20",
   "topics": [
     {
       "id": "ai_xd",
@@ -68,6 +68,19 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-11-20",
+      "file": "2026-11-20.json",
+      "headline": "Anthropic +17% phiên chào sàn, Nvidia ngừng giao chip sang TQ; PHP vá khẩn, Ủy ban châu Âu bị tấn công bằng AI; Kestrel soát quy chuẩn trong Revit 30 giây; thép nhích giá",
+      "item_count": 23,
+      "topics": {
+        "ai_xd": 10,
+        "chuoi_cung_ung": 3,
+        "cong_nghe": 1,
+        "ai_toan_cau": 7,
+        "vn": 2
+      }
+    },
     {
       "date": "2026-11-19",
       "file": "2026-11-19.json",
