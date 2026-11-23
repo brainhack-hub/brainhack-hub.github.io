@@ -1,0 +1,913 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T06:20:00+07:00",
+  "headline": "Bộ Xây dựng ra hướng dẫn BIM mới (QĐ 1986); 3 luật đất đai–BĐS–nhà ở thông qua; đồng giảm tuần thứ 6, thép nhập bị siết; Nvidia đưa Jensen Huang trở lại, CrowdStrike mua Zscaler 43,9 tỷ USD",
+  "digest": [
+    {
+      "title": "Bộ Xây dựng ra Hướng dẫn chung BIM mới (QĐ 1986) — có bước mua sắm và tiêu chí năng lực BIM của nhà thầu",
+      "text": "QĐ 1986/QĐ-BXD (18/11) thay QĐ 348/2021, áp dụng cho EC/EP/PC/EPC, có EIR, BEP và định hướng AI hỗ trợ BIM (mới đọc bài tóm tắt, chưa đọc PDF). Báo Xây dựng: hơn 91% hồ sơ mời thầu đã có tiêu chí nhân sự BIM.",
+      "item_ids": [
+        "n-20261124-06-bxd-bim-1986",
+        "n-20261124-07-baoxaydung-bim-33-du-an"
+      ]
+    },
+    {
+      "title": "Ba luật đất đai – kinh doanh BĐS – nhà ở thông qua, hiệu lực 1/7/2027",
+      "text": "Trần thanh toán nhà hình thành trong tương lai 5% / 30% / 70% / 95% và vốn chủ sở hữu tối thiểu 15–20% sẽ đổi dòng tiền dự án; bảng giá đất mới từ 1/1/2028.",
+      "item_ids": [
+        "n-20261124-25-bnews-3-luat-dat-dai-bds"
+      ]
+    },
+    {
+      "title": "Vật tư: đồng giảm tuần thứ 6, thép nhập bị siết kiểm tra, đá – đất san lấp Hà Nội phải điều phối liên tỉnh",
+      "text": "Đồng LME −9,23% trong tuần 16–20/11 (SMM); Hải quan siết xuất xứ/trị giá kết cấu thép HS 7308, cáp dự ứng lực chịu thuế 4,47% từ 19/11; VPCP yêu cầu báo cáo mỏ VLXD trước 30/11.",
+      "item_ids": [
+        "n-20261124-22-smm-copper-six-weeks",
+        "n-20261124-19-congthuong-thep-nhap-khau",
+        "n-20261124-26-baochinhphu-mo-vlxd-12064"
+      ]
+    },
+    {
+      "title": "AI vào khâu thầu & mua hàng: rà hồ sơ mời thầu, bóc khối lượng, thư viện rủi ro — nhưng mới ở mức thử",
+      "text": "Iconic gọi 10 triệu USD để soát hồ sơ thầu (thông cáo hãng); Archiroid bóc khối lượng từ PDF trong 3–5 phút (bản beta); Oracle thêm thư viện rủi ro giá vật liệu. Khảo sát Coupa (606 người, của nhà cung cấp): 72% sẵn sàng giao giao dịch cho AI nhưng dưới 1% đang làm.",
+      "item_ids": [
+        "n-20261124-11-iconic-10m",
+        "n-20261124-12-archiroid-sekisan-ai",
+        "n-20261124-10-oracle-primavera-cloud-ai",
+        "n-20261124-23-coupa-procurement-agents"
+      ]
+    },
+    {
+      "title": "Công nghệ toàn cầu: Nvidia đưa Jensen Huang trở lại, CrowdStrike mua Zscaler 43,9 tỷ USD, Amazon mua công nghệ chip AI của Decart",
+      "text": "HĐQT Nvidia nhất trí bổ nhiệm lại Huang và lập ủy ban kiểm soát xuất khẩu; CrowdStrike–Zscaler là thương vụ toàn cổ phiếu; Amazon mua bộ tối ưu chip của Decart (Bloomberg: khoảng 7,5 tỷ USD). Anthropic ra Claude Ship để AI duyệt code.",
+      "item_ids": [
+        "n-20261124-01-nvidia-reinstates-huang",
+        "n-20261124-02-crowdstrike-zscaler",
+        "n-20261124-03-amazon-decart",
+        "n-20261124-04-anthropic-claude-ship"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "n-20261124-01-nvidia-reinstates-huang",
+      "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+      "title_vi": "Hội đồng quản trị Nvidia đưa Jensen Huang trở lại ghế CEO sau 11 ngày, lập ủy ban an ninh quốc gia và kiểm soát xuất khẩu",
+      "source": {
+        "name": "NVIDIA (thông cáo nộp SEC, 8-K)",
+        "kind": "thông cáo doanh nghiệp"
+      },
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm",
+      "published": "2026-11-23",
+      "time_known": false,
+      "date_basis": "dòng ngày trên thông cáo (Santa Clara, 23/11/2026; không ghi giờ); bìa 8-K ký 23/11",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Hội đồng quản trị Nvidia bỏ phiếu nhất trí đưa Jensen Huang trở lại làm Chủ tịch kiêm CEO và thành viên HĐQT, có hiệu lực ngay; Colette Kress quay về vị trí Giám đốc tài chính. HĐQT cho biết đã tham vấn quan chức cấp cao của chính phủ Mỹ và kết luận việc này không gây rủi ro an ninh quốc gia, trong khi cuộc điều tra độc lập về nghi vấn ông Huang bị một chiến dịch tình báo nước ngoài nhắm tới vẫn tiếp tục. Nvidia lập Ủy ban An ninh quốc gia và Kiểm soát xuất khẩu gồm toàn thành viên độc lập và tuyển Giám đốc tuân thủ mới. Euronews (dẫn AFP) xác nhận việc bổ nhiệm lại.",
+      "why_it_matters": "Bất ổn lãnh đạo ở nhà cung cấp chip AI lớn nhất vừa đảo chiều; ủy ban kiểm soát xuất khẩu mới cho thấy quy định xuất khẩu chip sẽ còn là biến số với giá và nguồn cung hạ tầng AI.",
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "quản trị",
+        "kiểm soát xuất khẩu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở thông cáo trên SEC EDGAR (WebFetch) + bìa 8-K; đối chiếu Euronews/AFP 23/11. Trang nvidianews.nvidia.com không mở được.",
+      "note": "Diễn biến mới của tin Nvidia đổi CEO đã đăng 13/11. Mức tăng giá cổ phiếu chỉ có số trong phiên (Yahoo Finance live) nên không đưa vào tóm tắt.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-02-crowdstrike-zscaler",
+      "title": "CrowdStrike to Acquire Zscaler, Bringing Network Security and Zero Trust to the Falcon Platform",
+      "title_vi": "CrowdStrike mua Zscaler bằng cổ phiếu, định giá khoảng 43,9 tỷ USD — thương vụ an ninh mạng lớn nhất năm",
+      "source": {
+        "name": "CrowdStrike / Zscaler (thông cáo nộp SEC)",
+        "kind": "thông cáo doanh nghiệp"
+      },
+      "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000110465926130785/tm2630454d1_ex99-1.htm",
+      "published": "2026-11-23",
+      "time_known": false,
+      "date_basis": "dòng ngày trên thông cáo (Austin & Santa Clara, 23/11/2026); TechCrunch đăng 2026-11-23T16:20Z",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "CrowdStrike sẽ mua Zscaler hoàn toàn bằng cổ phiếu: mỗi cổ phiếu Zscaler đổi 1,135 cổ phiếu CrowdStrike, tương đương khoảng 260,41 USD, cao hơn khoảng 34% so với giá đóng cửa 20/11, định giá Zscaler khoảng 43,9 tỷ USD. Hai bên dự kiến có hơn 10 tỷ USD doanh thu định kỳ năm cộng gộp; nhà sáng lập Zscaler Jay Chaudhry tiếp tục điều hành mảng này và vào HĐQT CrowdStrike. Thương vụ cần cổ đông Zscaler và cơ quan quản lý chấp thuận, dự kiến hoàn tất trong nửa cuối năm tài chính 2028 của CrowdStrike. TechCrunch và AP đưa tin cùng ngày.",
+      "why_it_matters": "Nhiều doanh nghiệp đang mua riêng phần mềm bảo vệ máy trạm và giải pháp zero trust; hợp nhất nhà cung cấp có thể đổi lộ trình sản phẩm và điều khoản gia hạn hợp đồng — nên rà lại trước kỳ gia hạn.",
+      "tags": [
+        "CrowdStrike",
+        "Zscaler",
+        "M&A",
+        "an ninh mạng",
+        "zero trust"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở thông cáo trên SEC EDGAR (WebFetch); đối chiếu TechCrunch và AP (qua ABC News) đọc đầy đủ",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-03-amazon-decart",
+      "title": "Amazon is buying Decart's AI chip software for a reported $7.5B and bringing its founders aboard",
+      "title_vi": "Amazon mua công nghệ tối ưu chip AI của Decart (Israel), Bloomberg đưa tin giá khoảng 7,5 tỷ USD",
+      "source": {
+        "name": "GeekWire",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://www.geekwire.com/2026/amazon-is-buying-decarts-ai-chip-software-for-a-reported-7-5b-and-bringing-its-founders-aboard/",
+      "published": "2026-11-23T16:25:19+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time trên trang bài",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Amazon mua bộ công nghệ tối ưu hóa AI của Decart cùng nhóm sáng lập và kỹ sư, nhằm tăng hiệu năng trên chip Trainium và Inferentia; Amazon không mua các mô hình của Decart. Amazon không công bố giá, còn Bloomberg dẫn nguồn tin cho biết khoảng 7,5 tỷ USD. Times of Israel cho biết Decart thành lập cuối 2023, khoảng 120 nhân viên, đã gọi hơn 450 triệu USD.",
+      "why_it_matters": "Big Tech tiếp tục chi lớn để giảm phụ thuộc GPU của Nvidia; chi phí điện toán đám mây cho AI trong vài năm tới phụ thuộc vào cuộc đua chip tự làm này.",
+      "tags": [
+        "Amazon",
+        "Decart",
+        "Trainium",
+        "chip AI",
+        "M&A"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang GeekWire (WebFetch); đối chiếu Bloomberg (đăng lại trên The Spokesman-Review) và Times of Israel",
+      "note": "Giá 7,5 tỷ USD là con số Bloomberg dẫn nguồn ẩn danh, Amazon chưa xác nhận.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-04-anthropic-claude-ship",
+      "title": "Anthropic launches new Claude Ship feature for builders",
+      "title_vi": "Anthropic ra Claude Ship (beta): bộ tác tử AI rà soát, sửa và phê duyệt pull request trên GitHub",
+      "source": {
+        "name": "9to5Mac",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://9to5mac.com/2026/11/23/anthropic-launches-new-claude-ship-feature-for-builders/",
+      "published": "2026-11-23T20:32:31+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time trên trang bài",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Claude Ship gồm ba tác tử Code Review, PR Steward và Claude Approvals, gọi bằng lệnh /ship trong Claude Code, dành cho tổ chức dùng gói Team và Enterprise trên kho GitHub. Theo Anthropic, số pull request được hợp nhất của nhóm Claude Code tăng hơn gấp đôi từ tháng 6 đến tháng 9/2026 và tỷ lệ thay đổi phải hoàn tác giảm hơn 40%. Tính phí theo token, tách khỏi hạn mức gói; không áp dụng cho tổ chức dùng Zero Data Retention, cấu hình HIPAA hoặc khóa mã hóa do khách quản lý.",
+      "why_it_matters": "AI bắt đầu được giao quyền ‘duyệt’ chứ không chỉ ‘gợi ý’ — câu hỏi kiểm soát (ai chịu trách nhiệm khi AI phê duyệt) sẽ lặp lại với phê duyệt mua hàng, hồ sơ thầu.",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "tác tử AI",
+        "lập trình"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang 9to5Mac (WebFetch); đối chiếu Trending Topics; bài chính thức trên claude.com không mở được",
+      "note": "Số liệu hiệu quả là do Anthropic tự nêu.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-05-zai-glm-5-4",
+      "title": "GLM-5.4: Z.ai's First Loop Transformer and the Push Toward Generalized Coding",
+      "title_vi": "Z.ai (Zhipu, Trung Quốc) ra GLM-5.4 khoảng 750 tỷ tham số, kiến trúc ‘Loop Transformer’, chưa công bố benchmark",
+      "source": {
+        "name": "DataCamp (blog)",
+        "kind": "blog công nghệ"
+      },
+      "url": "https://www.datacamp.com/blog/glm-5-4",
+      "published": "2026-11-23",
+      "time_known": false,
+      "date_basis": "ngày đăng hiển thị trên trang (không có giờ)",
+      "topic": "ai_toan_cau",
+      "region": "CN",
+      "summary_vi": "DataCamp mô tả GLM-5.4 chạy lặp hai lần các tầng của nền GLM-5 với cùng bộ trọng số, tổng khoảng 750 tỷ tham số — con số Z.ai chưa xác nhận chính thức. Mô hình có ngữ cảnh 1 triệu token, đã có trong GLM Coding Plan, ZCode và Z.ai Chat; API sẽ mở sau khi đánh giá an toàn, chưa có giá và chưa công bố trọng số mở. Bài i10x cùng ngày cũng ghi nhận mô hình ra mắt mà không kèm benchmark.",
+      "why_it_matters": "Trung Quốc tiếp tục ra mô hình lớn giá cạnh tranh; khi chọn nhà cung cấp LLM nên chờ benchmark độc lập thay vì dựa vào tuyên bố ‘ngang mô hình nghìn tỷ tham số’.",
+      "tags": [
+        "Zhipu",
+        "Z.ai",
+        "GLM-5.4",
+        "mô hình ngôn ngữ",
+        "Trung Quốc"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở bài DataCamp (WebFetch) và bài i10x; blog chính thức z.ai không mở được",
+      "note": "Nguồn yếu: chỉ đọc được blog công nghệ thứ cấp, chưa có Reuters/SCMP.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-06-bxd-bim-1986",
+      "title": "Bộ Xây dựng công bố Hướng dẫn chung áp dụng Mô hình thông tin công trình (BIM) trong hoạt động xây dựng",
+      "title_vi": "Bộ Xây dựng ban hành Hướng dẫn chung áp dụng BIM mới (QĐ 1986/QĐ-BXD), thay QĐ 348/2021 — có bước mua sắm, tiêu chí năng lực BIM của nhà thầu",
+      "source": {
+        "name": "Viện Kinh tế xây dựng – Bộ Xây dựng",
+        "kind": "cơ quan nhà nước"
+      },
+      "url": "https://kinhtexaydung.gov.vn/bo-xay-dung-cong-bo-huong-dan-chung-ap-dung-mo-hinh-thong-tin-cong-trinh-bim-trong-hoat-dong-xay-dungvkt/",
+      "published": "2026-11-20T10:24:00+07:00",
+      "time_known": true,
+      "date_basis": "thời gian đăng trên trang (sửa 10:40 cùng ngày)",
+      "topic": "ai_xd",
+      "region": "VN",
+      "summary_vi": "Quyết định 1986/QĐ-BXD ngày 18/11/2026 công bố Hướng dẫn chung áp dụng BIM, thay thế QĐ 348/QĐ-BXD ngày 02/4/2021; tài liệu do Viện Kinh tế xây dựng soạn, gồm 4 phần và 4 phụ lục (vai trò các bên, nội dung áp dụng, EIR và BEP). Hướng dẫn cập nhật theo luật đấu thầu và luật xây dựng mới, bổ sung BIM ở giai đoạn chuẩn bị dự án, áp dụng cho hợp đồng EC, EP, PC, EPC, chìa khóa trao tay, làm rõ các bước BIM trong thiết kế, mua sắm, thi công, vận hành và cập nhật tiêu chí năng lực nhà thầu liên quan BIM. Phần định hướng (không bắt buộc) nhắc digital twin, AI hỗ trợ BIM, GIS và OpenBIM.",
+      "why_it_matters": "Hồ sơ mời thầu và hợp đồng EPC của chủ đầu tư nên được rà theo hướng dẫn mới (EIR, BEP, tiêu chí năng lực BIM) — đây là căn cứ chính thức để yêu cầu nhà thầu nộp mô hình và dữ liệu khối lượng.",
+      "tags": [
+        "BIM",
+        "Bộ Xây dựng",
+        "EIR",
+        "BEP",
+        "đấu thầu",
+        "EPC"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "đọc toàn bộ bài tóm tắt trên trang Viện KTXD (WebFetch); không đọc file PDF quyết định và hướng dẫn đính kèm",
+      "note": "Trang không nêu người ký và ngày hiệu lực cụ thể ngoài ‘kể từ ngày ký’ — cần mở PDF gốc để xác minh.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-07-baoxaydung-bim-33-du-an",
+      "title": "BIM góp phần nâng cao hiệu quả đầu tư và quản lý ngành Xây dựng",
+      "title_vi": "33 dự án thí điểm BIM: tất cả báo giảm chi phí; hơn 91% hồ sơ mời thầu có tiêu chí nhân sự BIM",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo chuyên ngành"
+      },
+      "url": "https://baoxaydung.vn/bim-gop-phan-nang-cao-hieu-qua-dau-tu-va-quan-ly-nganh-xay-dung-192261117145558998.htm",
+      "published": "2026-11-17T17:29:00+07:00",
+      "time_known": true,
+      "date_basis": "thời gian đăng trên trang bài",
+      "topic": "ai_xd",
+      "region": "VN",
+      "summary_vi": "Tham luận của Phó viện trưởng Viện Kinh tế xây dựng tại hội nghị chiều 16/11 cho biết có 33 dự án thí điểm BIM, 27 dự án được đánh giá đều báo giảm chi phí, có dự án giảm tới 12%; 75% tiết kiệm vật liệu và 89,5% rút ngắn thời gian. Dữ liệu đấu thầu đến tháng 11/2026 ghi nhận 821 gói thầu thuộc 739 dự án ở cả 34 tỉnh, thành có yêu cầu BIM, hơn 91% hồ sơ mời thầu đưa tiêu chí nhân sự BIM. Bài nhắc Nghị định 217/2026/NĐ-CP bắt buộc BIM từ 1/7/2026 với công trình mới cấp II trở lên.",
+      "why_it_matters": "Yêu cầu BIM đã phổ biến trong hồ sơ mời thầu; bên mua có thể đòi thêm dữ liệu khối lượng từ mô hình để đối chiếu dự toán thay vì chỉ kiểm nhân sự BIM.",
+      "tags": [
+        "BIM",
+        "đấu thầu",
+        "Viện KTXD",
+        "Nghị định 217"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang Báo Xây dựng (WebFetch), đọc toàn văn",
+      "note": "Cùng tuần sự kiện KHCN–chuyển đổi số ngành Xây dựng đã đưa tin ngày 20/11; bài này là tham luận riêng có số liệu.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-08-ajunews-smart-construction-expo",
+      "title": "258개 기업 참여 '스마트건설·안전·AI 엑스포' 개최…첨단 건설기술 한자리에",
+      "title_vi": "Hàn Quốc: 258 doanh nghiệp, 818 gian tại Triển lãm Xây dựng thông minh–An toàn–AI 25–27/11; Bộ Đất đai hứa hỗ trợ chứng nhận ‘AI vật lý’",
+      "source": {
+        "name": "아주경제 (Aju Business Daily)",
+        "kind": "báo kinh tế"
+      },
+      "url": "https://www.ajunews.com/view/20261123143610287",
+      "published": "2026-11-24T06:00:00+09:00",
+      "time_known": true,
+      "date_basis": "giờ ‘입력’ trên trang bài (metadata ghi giờ cập nhật 23/11 14:53 KST, sớm hơn giờ đăng)",
+      "topic": "ai_xd",
+      "region": "KR",
+      "summary_vi": "Bộ Đất đai, Hạ tầng và Giao thông Hàn Quốc công bố triển lãm lần thứ 7 diễn ra 25–27/11/2026 tại KINTEX với 258 doanh nghiệp, 818 gian, chia 6 khu (quản lý thi công thông minh, an toàn, bảo trì, robot/tự động hóa, tự động hóa thiết kế, ESG) và một khu riêng cho AI. Sự kiện có cuộc thi xây dựng thông minh 5 hạng mục gồm BIM, các diễn đàn về xây dựng mô-đun và buổi gặp 1:1 giữa chủ đầu tư, tổng thầu và công ty công nghệ. Bộ trưởng cho biết năm tới sẽ hỗ trợ thử nghiệm và chứng nhận ‘AI vật lý’.",
+      "why_it_matters": "Hàn Quốc đang chuẩn hóa thị trường contech qua cơ chế chứng nhận của nhà nước — mô hình đáng tham khảo khi chủ đầu tư VN muốn lập danh sách nhà cung cấp công nghệ đủ điều kiện.",
+      "tags": [
+        "Hàn Quốc",
+        "xây dựng thông minh",
+        "AI vật lý",
+        "triển lãm"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang 아주경제 (WebFetch), đọc toàn văn",
+      "note": "Giờ cập nhật trong metadata sớm hơn giờ đăng — ghi theo giờ ‘입력’ trên trang.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-09-gosiweek-upsight",
+      "title": "업사이트, '2026 스마트건설·안전·AI 엑스포' 참가…공정표·일보·현장 영상을 연결하는 AI 솔루션 선보여",
+      "title_vi": "Hàn Quốc: UPSIGHT nối tiến độ (Excel, MS Project, P6), nhật ký công trường và video hiện trường bằng AI, dựng mô hình 3D đo được từ ảnh điện thoại",
+      "source": {
+        "name": "피앤피뉴스 (gosiweek)",
+        "kind": "báo"
+      },
+      "url": "https://gosiweek.com/article/1065601408429247",
+      "published": "2026-11-23T09:00:21+09:00",
+      "time_known": true,
+      "date_basis": "thời gian đăng trên trang bài",
+      "topic": "ai_xd",
+      "region": "KR",
+      "summary_vi": "Theo bài (ảnh do UPSIGHT cung cấp), sản phẩm UPSIGHT Reconstruct dựng không gian 3D đo được từ ảnh và video điện thoại, không cần máy quét chuyên dụng. Hệ thống đọc tiến độ từ Excel, MS Project và Primavera P6, gắn với nhật ký công trường để so kế hoạch–thực tế và cảnh báo chậm, có tìm kiếm và soạn báo cáo bằng AI. Mô-đun nghiệm thu gắn ảnh, video (ví dụ ảnh cốt thép trước khi đổ bê tông) vào bản vẽ 2D kèm vị trí người chụp.",
+      "why_it_matters": "Ảnh nghiệm thu có vị trí gắn bản vẽ là bằng chứng hữu ích khi đối chiếu khối lượng thanh toán cho thầu phụ — tính năng nên đưa vào yêu cầu khi mua phần mềm quản lý công trường.",
+      "tags": [
+        "UPSIGHT",
+        "nhật ký công trường",
+        "Primavera P6",
+        "3D từ ảnh"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang gosiweek (WebFetch), đọc toàn văn",
+      "note": "Bài đọc như tư liệu do công ty cung cấp; các tính năng là theo hãng.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-10-oracle-primavera-cloud-ai",
+      "title": "New Oracle Primavera Cloud AI Capabilities Help Construction Teams Improve Project Planning and Risk Management",
+      "title_vi": "Oracle Primavera Cloud thêm trợ lý AI, thư viện rủi ro dùng chung (giá vật liệu, chậm chuỗi cung ứng, thiếu thợ) và pull planning",
+      "source": {
+        "name": "Oracle News",
+        "kind": "thông cáo doanh nghiệp"
+      },
+      "url": "https://www.oracle.com/news/announcement/new-oracle-primavera-cloud-ai-capabilities-help-construction-teams-improve-project-planning-and-risk-2026-11-18/",
+      "published": "2026-11-18T12:45:00+00:00",
+      "time_known": true,
+      "date_basis": "metadata trên trang (dòng ngày Austin, 18/11/2026)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Theo Oracle, Primavera Cloud có trợ lý AI trả lời câu hỏi bằng ngôn ngữ tự nhiên dựa trên tài liệu trợ giúp và REST API, chỉ có ở một số vùng và phải do quản trị viên bật. Tính năng mới là thư viện rủi ro cấp workspace, dùng lại giữa các dự án, gồm các rủi ro như biến động giá vật liệu, chậm trễ chuỗi cung ứng, thiếu lao động lành nghề và thời tiết xấu. Pull planning cập nhật cho chủ đầu tư, tổng thầu và thầu phụ lập kế hoạch ngược từ mốc hợp đồng; cả ba tính năng đã phát hành chính thức.",
+      "why_it_matters": "Thư viện rủi ro dùng chung giữa dự án đúng là thứ phòng mua sắm cần để rủi ro giá thép, đồng hay chậm giao hàng không chỉ nằm trong file của từng dự án.",
+      "tags": [
+        "Oracle",
+        "Primavera",
+        "quản lý rủi ro",
+        "tiến độ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang Oracle News (WebFetch), đọc toàn văn",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-11-iconic-10m",
+      "title": "Iconic Raises $10M to Build Software That Understands the World's Biggest Projects",
+      "title_vi": "Startup Hà Lan Iconic gọi 10 triệu USD: AI soát mâu thuẫn giữa thiết kế, kỹ thuật, thương mại và hợp đồng trước khi phát hành hồ sơ thầu",
+      "source": {
+        "name": "VentureBeat (Business Wire)",
+        "kind": "thông cáo doanh nghiệp"
+      },
+      "url": "https://venturebeat.com/business/iconic-raises-10m-to-build-software-that-understands-the-worlds-biggest-projects",
+      "published": "2026-11-17T04:05:00-08:00",
+      "time_known": true,
+      "date_basis": "giờ đăng trên trang (dòng ngày Amsterdam, 17/11/2026)",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Iconic (Amsterdam, thành lập giữa 2025) gọi vòng hạt giống 10 triệu USD do Peak Capital dẫn đầu. Phần mềm liên kết thông tin thiết kế, kỹ thuật, thương mại và hợp đồng để chỉ ra mâu thuẫn, thông tin thiếu và lỗi thiết kế trước khi gây làm lại hoặc khiếu nại. Theo thông cáo, công ty có 5 khách hàng mỗi bên chi hơn 1 tỷ USD/năm cho dự án vốn, và đại diện Eneco nói phần lớn hồ sơ mời thầu của họ nay được Iconic rà trước khi phát hành.",
+      "why_it_matters": "Rà hồ sơ mời thầu bằng AI trước khi phát hành nhắm đúng nguồn gốc của phát sinh và tranh chấp — tiêu chí đáng thử với các gói thầu lớn của chủ đầu tư.",
+      "tags": [
+        "Iconic",
+        "gọi vốn",
+        "hồ sơ mời thầu",
+        "rủi ro hợp đồng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang VentureBeat (bản Business Wire) bằng WebFetch, đọc toàn văn",
+      "note": "Kết quả khách hàng là theo hãng; không liên quan startup game cùng tên.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-12-archiroid-sekisan-ai",
+      "title": "AIが図面PDFから住宅一棟を積算する「建築知能 住宅積算AI」、βテストを11月30日まで実施中｜80種類以上の数量を拾い、29工種の明細まで3〜5分。期間中は無料",
+      "title_vi": "Nhật: AI bóc khối lượng từ bản vẽ PDF nhà gỗ, ra bảng chi phí 29 công tác trong 3–5 phút; bản trả phí từ 1/12 giá 10.000 yên/tháng",
+      "source": {
+        "name": "PR TIMES (Archiroid)",
+        "kind": "thông cáo doanh nghiệp"
+      },
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000061789.html",
+      "published": "2026-11-17T10:00:00+09:00",
+      "time_known": true,
+      "date_basis": "thời gian đăng trên trang PR TIMES",
+      "topic": "ai_xd",
+      "region": "JP",
+      "summary_vi": "Công cụ đám mây của Archiroid nhận bản vẽ PDF xuất từ CAD, dùng AI phân tích ảnh để bóc hơn 80 loại khối lượng (có hiển thị căn cứ) rồi áp đơn giá chuẩn ra bảng 29 công tác, 228 dòng; mỗi lần phân tích mất 3–5 phút, xuất CSV, PDF báo giá và JSON. Phạm vi hiện chỉ là nhà khung gỗ tối đa 2 tầng, chưa hỗ trợ bản vẽ scan, tường cong và mái. Bản beta miễn phí đến 30/11, bản trả phí từ 1/12/2026 giá 10.000 yên/tháng (chưa thuế) cho 50 lần phân tích.",
+      "why_it_matters": "Bóc khối lượng tự động có hiện căn cứ từng dòng là điểm cần đòi khi đánh giá công cụ QTO — để kỹ sư dự toán kiểm được chứ không chỉ nhận một con số.",
+      "tags": [
+        "bóc khối lượng",
+        "dự toán",
+        "Nhật Bản",
+        "QTO"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang PR TIMES (WebFetch), đọc toàn văn",
+      "note": "Thông cáo ghi thứ của ngày 30/11 không nhất quán ở hai chỗ.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-13-taisei-cvc-150m",
+      "title": "Taisei launches $150m CVC fund to invest in AI and robotics for construction",
+      "title_vi": "Tổng thầu Nhật Taisei lập quỹ đầu tư mạo hiểm 150 triệu USD cho AI và robot xây dựng",
+      "source": {
+        "name": "Global Venturing",
+        "kind": "báo chuyên ngành đầu tư"
+      },
+      "url": "https://globalventuring.com/corporate/asia/taisei-launches-150m-cvc-fund-to-invest-in-ai-and-robotics-for-construction/",
+      "published": "2026-11-17T16:46:00+00:00",
+      "time_known": true,
+      "date_basis": "thời gian đăng trên trang bài",
+      "topic": "ai_xd",
+      "region": "JP",
+      "summary_vi": "Taisei lập quỹ CVC chuyên biệt đầu tiên quy mô 150 triệu USD, Taisei là LP và Pegasus Tech Ventures (Thung lũng Silicon) là GP, thời hạn 10 năm đến tháng 11/2036. Quỹ nhắm máy móc tự hành, robot hình người cho công trường, digital twin, phần mềm quản lý xây dựng, kiểm tra hạ tầng bằng robot, vật liệu mới và trung tâm dữ liệu hiệu quả hơn. Thông báo của Taisei trên sàn (ngày 16/11) ghi quy mô khoảng 24 tỷ yên.",
+      "why_it_matters": "Tổng thầu lớn tự đầu tư vào contech nghĩa là công nghệ sẽ đến công trường qua nhà thầu; chủ đầu tư nên hỏi nhà thầu Nhật về công cụ họ đang thử khi đánh giá năng lực.",
+      "tags": [
+        "Taisei",
+        "CVC",
+        "robot xây dựng",
+        "Nhật Bản"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang Global Venturing (WebFetch), đọc toàn văn; thông báo TDnet chỉ đọc tiêu đề qua minkabu",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-14-terabase-construct",
+      "title": "Terabase Named Its Own Category for Solar Construction. The Beacons Go on Everything From Pile Drivers to Portable Toilets.",
+      "title_vi": "Terabase ra hệ thống ‘điều hành thi công bằng AI’ cho điện mặt trời: drone bay hằng ngày, beacon theo dõi máy móc, QC tự động",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "trang chuyên ngành"
+      },
+      "url": "https://www.constructionindustry.ai/product/terabase-construct-ai-construction-execution-system-solar/",
+      "published": "2026-11-18",
+      "time_known": false,
+      "date_basis": "ngày trong metadata (00:00 UTC, coi như chỉ có ngày); thông cáo gốc của Terabase ngày 16/11",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Bài phân tích thông cáo của Terabase Energy về bản Terabase Construct mới có tác tử AI dùng ảnh drone hằng ngày, dữ liệu tổ đội và dữ liệu thiết bị trực tiếp, hãng gọi là ‘hệ thống điều hành thi công bằng AI’. Theo hãng, nền tảng đã dùng cho hơn 35 GW dự án điện mặt trời, lưu trữ và điện gió; beacon từ tính gắn trên thiết bị cho biết vị trí, thời gian chờ và hiệu suất sử dụng. Hệ thống còn kiểm tra chất lượng tự động bằng drone hồng ngoại và bàn giao một digital twin cho chủ đầu tư.",
+      "why_it_matters": "Theo dõi thời gian chờ của máy thuê là dữ liệu trực tiếp cho đàm phán giá thuê thiết bị và thanh toán theo ca máy.",
+      "tags": [
+        "Terabase",
+        "drone",
+        "theo dõi thiết bị",
+        "điện mặt trời"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang constructionindustry.ai (WebFetch), đọc toàn văn; bản thông cáo trên rutlandherald.com không mở được",
+      "note": "Số liệu quy mô là theo Terabase.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-15-aecmag-pliera",
+      "title": "Pliera: a new BIM 2.0",
+      "title_vi": "Pliera (Đức): BIM trên trình duyệt, AI tạo cấu kiện tham số từ chữ hoặc ảnh; gói từ 99 euro/tháng",
+      "source": {
+        "name": "AEC Magazine",
+        "kind": "tạp chí chuyên ngành"
+      },
+      "url": "https://aecmag.com/bim/pliera-a-new-bim-2-0/",
+      "published": "2026-11-18T18:13:00+00:00",
+      "time_known": true,
+      "date_basis": "metadata trên trang bài",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "NeoBIM (Karlsruhe), do đồng sáng lập Enscape lập năm 2024, ra mắt Pliera tại BIM World Munich cuối tháng 11, gồm bộ cấu hình theo quy tắc cho nhà ở, khách sạn, kho vận, trung tâm dữ liệu và trình dựng BIM trên trình duyệt Pliera One (đang alpha). AI tạo sinh dựng cấu kiện tham số chỉnh sửa được từ mô tả chữ hoặc ảnh; mô hình ở mức LOD 200/300, nhập xuất IFC và xuất RVT, DWG, PDF. Giá gói Starter 99 euro/tháng, Pro 499 euro/tháng; công ty dự định có doanh thu từ vật liệu được đặt qua nền tảng.",
+      "why_it_matters": "Mô hình ‘phần mềm thiết kế kiêm kênh đặt vật liệu’ có thể làm thay đổi ai là người chỉ định nhà cung cấp — đáng theo dõi với phòng mua sắm.",
+      "tags": [
+        "BIM",
+        "Pliera",
+        "AI tạo sinh",
+        "Đức"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang AEC Magazine (WebFetch), đọc toàn văn",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-16-built-tsumiki-physical-ai",
+      "title": "積木製作が「デジタルツイン×フィジカルAI」本格始動、NVIDIA環境でのロボ育成から廃校での実機検証まで",
+      "title_vi": "Nhật: Tsumiki Seisaku dựng digital twin một trường học bỏ hoang để huấn luyện robot bốn chân bằng mô phỏng NVIDIA rồi thử thật tại chỗ",
+      "source": {
+        "name": "BUILT (ITmedia)",
+        "kind": "báo chuyên ngành"
+      },
+      "url": "https://built.itmedia.co.jp/bt/articles/2611/20/news071.html",
+      "published": "2026-11-20T21:00:00+09:00",
+      "time_known": true,
+      "date_basis": "thời gian đăng trên trang bài (công ty công bố ngày 10/11)",
+      "topic": "ai_xd",
+      "region": "JP",
+      "summary_vi": "Tsumiki Seisaku chính thức mở mảng ‘digital twin × AI vật lý’, dùng LiDAR cố định, cầm tay và drone để dựng bản sao số của một trường học cũ ở Kasukabe (Saitama). Robot bốn chân được huấn luyện đi lại, leo bậc thang trong NVIDIA Isaac Sim và Isaac Lab rồi thử nghiệm thật tại chính địa điểm đó, dữ liệu LiDAR đưa vào ROS 2 để tự lập đường đi. Công ty sẽ dựng cảnh OpenUSD có tham số vật lý cho nhà máy và nhận đề xuất thử nghiệm chung.",
+      "why_it_matters": "Huấn luyện robot trên digital twin của chính công trình là bước tiền đề để robot kiểm tra, đo đạc công trường thay người — còn sớm nhưng xu hướng rõ.",
+      "tags": [
+        "digital twin",
+        "AI vật lý",
+        "robot",
+        "NVIDIA",
+        "Nhật Bản"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang BUILT (WebFetch), đọc toàn văn",
+      "note": "Bài dựa trên thông cáo công ty ngày 10/11.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-17-pbctoday-ai-strategy",
+      "title": "Construction's AI moment needs a strategy",
+      "title_vi": "Anh: 42% doanh nghiệp xây dựng dùng AI đã dùng nó để lập báo giá, dự toán, hồ sơ thầu — nhưng ít ai đo được hiệu quả",
+      "source": {
+        "name": "PBC Today",
+        "kind": "tạp chí chuyên ngành"
+      },
+      "url": "https://www.pbctoday.co.uk/news/hr-skills-news/constructions-ai-moment-needs-a-strategy/167903/",
+      "published": "2026-11-23T10:09:23+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time trên trang bài",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Bài ý kiến của một lãnh đạo Causeway Technologies dẫn khảo sát FMB/CIOB: trong các doanh nghiệp dùng AI, 80% dùng cho việc hành chính và 42% dùng để chuẩn bị báo giá, dự toán và hồ sơ thầu. Thăm dò riêng của Causeway tại các hội nghị cho thấy 82% dùng công cụ AI phổ thông nhưng chỉ 33% có chương trình AI bài bản và 70% không đo được giá trị. Tác giả khuyên làm quản trị và chiến lược trước, sửa chất lượng dữ liệu và gắn AI vào quy trình.",
+      "why_it_matters": "Dùng AI soạn hồ sơ thầu mà không có quy định là rủi ro cho cả bên mời thầu — nên có quy tắc tối thiểu về việc nhà thầu dùng AI trong hồ sơ dự thầu.",
+      "tags": [
+        "Anh",
+        "chiến lược AI",
+        "dự toán",
+        "hồ sơ thầu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "ý kiến",
+      "how_read": "mở trang PBC Today (WebFetch), đọc toàn văn",
+      "note": "Tác giả là lãnh đạo của nhà cung cấp phần mềm; thăm dò của Causeway không nêu cỡ mẫu.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-18-enr-asce-ai-race",
+      "title": "AI and the Future of Licensed Practice: A Tool, Not An Engineer",
+      "title_vi": "Chủ tịch ASCE: AI là công cụ, không phải kỹ sư — ASCE ra lộ trình AI RACE giữ ‘trách nhiệm hành nghề’ cho con người",
+      "source": {
+        "name": "ENR",
+        "kind": "tạp chí chuyên ngành"
+      },
+      "url": "https://www.enr.com/articles/64375-ai-and-the-future-of-licensed-practice-a-tool-not-an-engineer",
+      "published": "2026-11-19T11:30:00-05:00",
+      "time_known": true,
+      "date_basis": "pubDate trong RSS mục Tech của ENR (trang bài chỉ hiện ngày)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Chủ tịch Hiệp hội Kỹ sư Xây dựng Mỹ (ASCE) giới thiệu lộ trình AI RACE, khung dùng AI có trách nhiệm cho toàn ngành kỹ thuật xây dựng. Trọng tâm là giữ ‘responsible charge’: kỹ sư vẫn trực tiếp kiểm soát, giám sát và có quyền quyết định cuối cùng. Một trong các sáng kiến đầu tiên là hướng dẫn kỹ thuật cho xây dựng và vận hành trung tâm dữ liệu.",
+      "why_it_matters": "Khi nhà thầu, tư vấn dùng AI cho thiết kế hay dự toán, hợp đồng nên ghi rõ người có chứng chỉ vẫn chịu trách nhiệm — nguyên tắc ASCE nêu là căn cứ tốt để đưa vào điều khoản.",
+      "tags": [
+        "ASCE",
+        "đạo đức nghề nghiệp",
+        "AI có trách nhiệm"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "ý kiến",
+      "how_read": "mở trang ENR (WebFetch); thân bài hiển thị đầy đủ",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-19-congthuong-thep-nhap-khau",
+      "title": "Hải quan tăng kiểm soát thép nhập khẩu",
+      "title_vi": "Hải quan siết kiểm tra xuất xứ, trị giá thép nhập khẩu và kết cấu thép HS 7308; thuế chống bán phá giá cáp dự ứng lực 4,47% từ 19/11",
+      "source": {
+        "name": "Báo Công Thương",
+        "kind": "báo ngành"
+      },
+      "url": "https://congthuong.vn/hai-quan-tang-kiem-soat-thep-nhap-khau-481514.html",
+      "published": "2026-11-17T11:47:55+07:00",
+      "time_known": true,
+      "date_basis": "meta published_time trên trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "Theo QĐ 2927/QĐ-BCT, cáp thép dự ứng lực mã HS 7312.10.91 và 7312.10.99 của Boxing Victory Metal Materials và 3 công ty thương mại liên quan chịu thuế chống bán phá giá 4,47%, hiệu lực 19/11/2026 – 28/1/2030; nhà sản xuất khác vẫn theo QĐ 143/QĐ-BCT. Với kết cấu thép và nhà tiền chế HS 7308 chủ yếu từ Trung Quốc, Hải quan tăng phân tích rủi ro, kiểm tra xuất xứ, nhãn mác và trị giá, kể cả với lô đã thông quan. Việc siết kiểm tra xuất phát từ phản ánh của VAMI về khai giá thấp bất thường và chỉ đạo tại công văn 11101/VPCP-KTTH.",
+      "why_it_matters": "Gói kết cấu thép, nhà xưởng tiền chế và cáp dự ứng lực nhập từ Trung Quốc có thể thông quan chậm hơn và có rủi ro truy thu — nên ghi rõ trách nhiệm thuế phòng vệ thương mại và xuất xứ trong hợp đồng.",
+      "tags": [
+        "thép",
+        "chống bán phá giá",
+        "HS 7308",
+        "hải quan",
+        "cáp dự ứng lực"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang Báo Công Thương (WebFetch), đọc toàn văn; đối chiếu vietbao.vn (đăng lại từ thuonghieucongluan) khớp các số",
+      "idea_ids": [],
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-20-drewry-wci-19-nov",
+      "title": "World Container Index - 19 Nov",
+      "title_vi": "Cước container Drewry WCI giảm tuần thứ 4 liên tiếp còn 4.176 USD/FEU; tuyến Á–Âu tăng nhẹ",
+      "source": {
+        "name": "Drewry",
+        "kind": "chỉ số giá"
+      },
+      "url": "https://www.drewry.co.uk/WCI",
+      "published": "2026-11-19",
+      "time_known": false,
+      "date_basis": "dòng ‘assessment for Thursday, 19 Nov 2026’ trên trang (không có giờ)",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Chỉ số WCI tổng hợp ở 4.176 USD/FEU, giảm 3% so với tuần trước và là tuần giảm thứ 4 liên tiếp, nhưng vẫn cao hơn 126% so với cùng kỳ. Thượng Hải–New York 8.194 USD (−9%), Thượng Hải–Los Angeles 7.026 USD (−5%), trong khi Thượng Hải–Genoa 4.436 USD (+6%) và Thượng Hải–Rotterdam 3.496 USD đi ngang. Drewry dự báo cước xuyên Thái Bình Dương giảm tiếp, cước Á–Âu và Địa Trung Hải có thể tăng trong vài tuần tới.",
+      "why_it_matters": "Thiết bị MEP nhập từ châu Âu nên tính dư cước khi cước Á–Âu có thể tăng; cước vẫn gấp đôi năm trước nên báo giá CIF cần điều khoản điều chỉnh cước.",
+      "tags": [
+        "cước container",
+        "Drewry",
+        "WCI",
+        "logistics"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "bảng giá tổng hợp",
+      "how_read": "đọc phần chữ trên trang Drewry (WebFetch); bảng tuyến dạng ảnh không đọc được — chỉ 4 tuyến nêu trong phần chữ",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-21-freightwaves-red-sea-overcapacity",
+      "title": "Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago",
+      "title_vi": "Maersk và Hapag-Lloyd đưa các tuyến Gemini quay lại Suez; nguy cơ dư cung tàu khi sổ đặt đóng mới bằng 43,9% đội tàu",
+      "source": {
+        "name": "FreightWaves",
+        "kind": "báo logistics"
+      },
+      "url": "https://www.freightwaves.com/?p=586363",
+      "published": "2026-11-17T16:28:34+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time trên trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Ngày 16/11, Maersk và Hapag-Lloyd thông báo các dịch vụ Gemini AE1, AE2, AE3 trở lại tuyến qua kênh Suez, chuyến đầu khởi hành tháng 12 và tháng 1. Theo số liệu Alphaliner trong bài, sổ đặt đóng tàu là 15,12 triệu TEU, bằng 43,9% đội tàu đang khai thác, đội tàu dự kiến tăng 9,2% năm 2027. Bài thuật lại Freightos: tuần đến 13/11, Á–Bắc Âu khoảng 3.400 USD/FEU, Á–bờ Tây Mỹ 8.460 USD/FEU.",
+      "why_it_matters": "Quay lại Suez cộng dư cung tàu là tín hiệu cước có thể hạ trong 2027 — cân nhắc không khóa giá cước dài hạn ở mức hiện tại cho hàng nhập năm sau.",
+      "tags": [
+        "Suez",
+        "Maersk",
+        "Hapag-Lloyd",
+        "Gemini",
+        "dư cung tàu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang FreightWaves (WebFetch), đọc toàn văn; đối chiếu bản tin Freightos 17/11",
+      "note": "FreightWaves thuật lại Freightos (cùng nguồn gốc). Drewry ghi Thượng Hải–LA giảm 5% (19/11) còn FBX01 tăng 3% (tuần đến 13/11) — khác phương pháp và ngày, không gộp làm một.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-22-smm-copper-six-weeks",
+      "title": "Gold, silver, copper, and tin weekly lines plunge; metals broadly weaken; LME copper falls for six consecutive weeks; silver weekly line drops over 16% [Overnight Market]",
+      "title_vi": "Giá đồng LME giảm tuần thứ 6 liên tiếp, riêng tuần 16–20/11 mất 9,23%; đồng Thượng Hải mất 12,03%",
+      "source": {
+        "name": "SMM (Shanghai Metals Market)",
+        "kind": "bản tin giá kim loại"
+      },
+      "url": "https://news.metal.com/newscontent/M3PGTDHOQRYXTCMQFIS5G3LLTREKVGXCZ6EXHHQ-gold-silver-copper-and-tin-weekly-lines-plunge-metals-broadly-weaken-lme-copper-falls-for-six-consecutive-weeks-silver-weekly-line-drops-over-16-overnight-market",
+      "published": "2026-11-23T08:19:00+08:00",
+      "time_known": true,
+      "date_basis": "thời gian đăng trên trang bài (GMT+8)",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Phiên đêm thứ Sáu 20/11, đồng LME giảm 2,9%, cả tuần giảm 9,23% và là tuần giảm thứ 6 liên tiếp; đồng trên sàn Thượng Hải giảm 12,03% trong tuần. Nhôm LME giảm 0,78%, kẽm 2,13%, thiếc 2,26% trong phiên. Bài của miningsee.eu (21/11) cho biết đồng LME có lúc chạm khoảng 12.020 USD/tấn, thấp hơn khoảng 18% so với đỉnh 14.875 USD/tấn ngày 10/9, do dòng tiền rút khỏi các vị thế đặt cược vào AI, trung tâm dữ liệu và điện khí hóa.",
+      "why_it_matters": "Có thể là cửa sổ chốt giá cáp điện, dây đồng cho gói MEP; nhưng phụ phí đồng vật chất ở Trung Quốc đang cao nên giá giao về châu Á chưa chắc giảm theo LME — hỏi lại báo giá theo công thức LME + phụ phí.",
+      "tags": [
+        "giá đồng",
+        "LME",
+        "cáp điện",
+        "MEP",
+        "kim loại"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "bảng giá tổng hợp",
+      "how_read": "đọc toàn văn phần chữ của SMM (WebFetch), giá đóng cửa nằm trong ảnh không đọc được; đối chiếu miningsee.eu 21/11 (đọc đầy đủ)",
+      "note": "Reuters cùng chủ đề chỉ đọc được tiêu đề (paywall). miningsee.eu là trang ngành nhỏ.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-23-coupa-procurement-agents",
+      "title": "72% of Procurement Leaders Would Let AI Agents Handle Transactions, Yet Fewer Than 1% Do",
+      "title_vi": "Khảo sát Coupa: 72% lãnh đạo mua hàng sẵn sàng để tác tử AI tạo/cập nhật giao dịch, nhưng chưa tới 1% đang làm",
+      "source": {
+        "name": "Business Wire (Coupa) qua FinancialContent",
+        "kind": "thông cáo doanh nghiệp"
+      },
+      "url": "https://www.financialcontent.com/article/bizwire-2026-11-17-72-of-procurement-leaders-would-let-ai-agents-handle-transactions-yet-fewer-than-1-do",
+      "published": "2026-11-17",
+      "time_known": false,
+      "date_basis": "dòng ngày của thông cáo (17/11/2026, 09:00 EST theo trang đăng lại)",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Khảo sát do Coupa thực hiện cùng Incisiv tháng 10/2026 với 606 lãnh đạo mua hàng, tài chính, chuỗi cung ứng và IT (đoạn mở đầu ghi 600). 72% sẵn sàng để tác tử AI tạo hoặc cập nhật giao dịch nhưng dưới 1% cho biết đang làm vậy; rào cản lớn nhất là chất lượng dữ liệu và tích hợp hệ thống (29%, riêng nhóm mua hàng 35%). Chỉ 12% có chính sách, ngưỡng phê duyệt và quy trình ngoại lệ được tài liệu hóa; 94% muốn có nhật ký kiểm toán đầy đủ.",
+      "why_it_matters": "Trước khi cho AI tạo đơn mua hàng, việc cần làm là ngưỡng phê duyệt, nhật ký kiểm toán và dữ liệu nhà cung cấp sạch — đúng ba thứ phần lớn phòng mua hàng còn thiếu.",
+      "tags": [
+        "Coupa",
+        "procurement",
+        "tác tử AI",
+        "khảo sát"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "khảo sát/báo cáo",
+      "how_read": "mở trang FinancialContent (bản Business Wire) bằng WebFetch, đọc toàn văn",
+      "note": "Khảo sát của nhà cung cấp phần mềm mua hàng; chưa có báo độc lập kiểm chứng. Cỡ mẫu ghi 606 ở phần phương pháp.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-24-supplychaindive-meta-low-carbon",
+      "title": "Meta strikes deals to boost low-carbon materials production",
+      "title_vi": "Meta mua chứng chỉ môi trường gắn với khoảng 380.000 tấn xi măng carbon thấp và thép xanh cho chuỗi cung ứng trung tâm dữ liệu",
+      "source": {
+        "name": "Supply Chain Dive",
+        "kind": "báo chuỗi cung ứng"
+      },
+      "url": "https://www.supplychaindive.com/news/meta-strikes-deals-to-boost-low-carbon-materials-production/875095/",
+      "published": "2026-11-19",
+      "time_known": false,
+      "date_basis": "metadata trên trang ghi 12:30 nhưng không có múi giờ — chỉ dùng ngày",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Meta ký hợp đồng nhiều năm mua chứng chỉ thuộc tính môi trường (EAC) với Sublime Systems (ít nhất 180.000 tấn xi măng) và Fortera (khoảng 200.000 tấn xi măng carbon thấp), cùng thỏa thuận thép xanh với Stegra ở Thụy Điển không công bố khối lượng. EAC tách lợi ích giảm phát thải khỏi vật liệu vật lý, nên nhà sản xuất vẫn bán vật liệu cho khách khác. Giá trị hợp đồng không được công bố.",
+      "why_it_matters": "Cơ chế mua ‘chứng chỉ carbon thấp’ tách khỏi vật liệu có thể đến với chủ đầu tư VN qua yêu cầu ESG của khách thuê lớn — nên theo dõi trước khi đưa tiêu chí vật liệu xanh vào hồ sơ thầu.",
+      "tags": [
+        "Meta",
+        "xi măng carbon thấp",
+        "thép xanh",
+        "EAC",
+        "ESG"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang Supply Chain Dive (WebFetch), đọc toàn văn",
+      "note": "Tổng ‘khoảng 380.000 tấn’ ở tiêu đề tiếng Việt là cộng hai con số trong bài (180.000 + 200.000); chưa có nguồn thứ hai.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-25-bnews-3-luat-dat-dai-bds",
+      "title": "Quốc hội thông qua 3 bộ luật lớn về đất đai, nhà ở và bất động sản",
+      "title_vi": "Quốc hội thông qua Luật Đất đai, Luật Kinh doanh BĐS, Luật Nhà ở (sửa đổi), hiệu lực 1/7/2027; bảng giá đất mới từ 1/1/2028",
+      "source": {
+        "name": "Bnews (TTXVN)",
+        "kind": "hãng thông tấn"
+      },
+      "url": "https://bnews.vn/quoc-hoi-thong-qua-3-bo-luat-lon-ve-dat-dai-nha-o-va-bat-dong-san/445204.html",
+      "published": "2026-11-21",
+      "time_known": false,
+      "date_basis": "byline 21/11/2026 11:27 trên trang, không ghi múi giờ — chỉ dùng ngày",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Sáng 21/11, Quốc hội thông qua Luật Đất đai (sửa đổi) với 466/479 đại biểu tán thành, Luật Kinh doanh BĐS (sửa đổi) 471/479 và Luật Nhà ở (sửa đổi) 467/485, cùng hiệu lực từ 1/7/2027; bảng giá đất và hệ số điều chỉnh mới áp dụng từ 1/1/2028. Luật Kinh doanh BĐS đặt vốn chủ sở hữu tối thiểu 20% với dự án dưới 20 ha, 15% với dự án từ 20 ha, và giới hạn thanh toán nhà hình thành trong tương lai: cọc tối đa 5%, lần đầu tối đa 30%, trước bàn giao tối đa 70%, trước khi cấp sổ tối đa 95%. Dự án chậm đưa đất vào sử dụng có thể bị thu thêm tiền sử dụng hoặc thuê đất thay cho thu hồi.",
+      "why_it_matters": "Giới hạn tiến độ thu tiền khách hàng sẽ ảnh hưởng dòng tiền dự án, từ đó ảnh hưởng tiến độ thanh toán cho nhà thầu và nhà cung cấp — nên mô phỏng lại lịch thanh toán hợp đồng cho dự án mở bán sau 1/7/2027.",
+      "tags": [
+        "Luật Đất đai",
+        "Luật Kinh doanh BĐS",
+        "Luật Nhà ở",
+        "Quốc hội"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "mở trang Bnews (WebFetch), đọc toàn văn; đối chiếu CafeF 21/11 khớp số phiếu và hiệu lực",
+      "note": "CafeF ghi Luật KDBĐS đạt ‘94,39%’, không khớp 471/479 — dùng số phiếu.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-26-baochinhphu-mo-vlxd-12064",
+      "title": "Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 22/11/2026",
+      "title_vi": "Phó Thủ tướng Thường trực yêu cầu tiếp tục rà soát mỏ vật liệu xây dựng thông thường cho công trình trọng điểm; Bộ Công Thương báo cáo trước 30/11",
+      "source": {
+        "name": "Báo Điện tử Chính phủ",
+        "kind": "cơ quan nhà nước"
+      },
+      "url": "https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-22-11-2026-102261123163457323.htm",
+      "published": "2026-11-22T20:15:00+07:00",
+      "time_known": true,
+      "date_basis": "meta published-time trên trang (sửa lần cuối 23/11 16:38)",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Công văn 12064/VPCP-CN ngày 22/11/2026 truyền đạt yêu cầu tiếp tục thực hiện QĐ 2800/QĐ-BCT về phương án tạm thời điều phối vật liệu xây dựng thông thường giữa các tỉnh, thành. Bộ trưởng Bộ Công Thương phải lập đoàn kiểm tra làm việc trực tiếp với địa phương và báo cáo Thủ tướng trước 30/11/2026. Theo phương án của Bộ Công Thương, Hà Nội thuộc nhóm 6 địa phương cần điều phối, được phân nhận 272,25 triệu m³ đá xây dựng và 244 triệu m³ đất san lấp từ các tỉnh lân cận.",
+      "why_it_matters": "Đá, đất san lấp cho dự án ở Hà Nội phụ thuộc điều phối liên tỉnh — rủi ro giá và tiến độ cung ứng nên được nêu trong kế hoạch mua sắm và điều khoản trượt giá.",
+      "tags": [
+        "vật liệu xây dựng",
+        "đá",
+        "đất san lấp",
+        "Hà Nội",
+        "VPCP"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "đọc toàn văn mục chỉ đạo về mỏ VLXD trong bài tổng hợp (không đọc các mục khác); số liệu Hà Nội lấy từ thông tin QĐ 2800 trên moit.gov.vn 26/10",
+      "note": "Báo Quảng Ninh đăng lại cùng nguồn; con số thiếu hụt cát ‘320,19 triệu m³’ chỉ thấy ở Báo Quảng Ninh nên không dùng.",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-27-vietstock-giai-ngan-dau-tu-cong",
+      "title": "Giải ngân vốn đầu tư công vượt 75% kế hoạch",
+      "title_vi": "Giải ngân đầu tư công đạt 730.006,4 tỷ đồng (75,3% kế hoạch) đến 12/11; Hà Nội 127,3 nghìn tỷ, TP.HCM 113,1 nghìn tỷ",
+      "source": {
+        "name": "Vietstock (theo Báo Chính phủ)",
+        "kind": "báo tài chính"
+      },
+      "url": "https://vietstock.vn/2026/11/giai-ngan-von-dau-tu-cong-vuot-75-ke-hoach-761-1516002.htm",
+      "published": "2026-11-19T06:36:00+07:00",
+      "time_known": true,
+      "date_basis": "meta và thời gian hiển thị trên trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Theo báo cáo của Bộ Tài chính, lũy kế đến 12/11/2026 giải ngân vốn đầu tư công đạt 730.006,4 tỷ đồng, bằng 75,3% kế hoạch Thủ tướng giao, tăng khoảng 12.845,1 tỷ đồng trong một tuần. Hà Nội giải ngân 127,3 nghìn tỷ, TP.HCM 113,1 nghìn tỷ, Hải Phòng 35,6 nghìn tỷ; Bộ Xây dựng 23 nghìn tỷ. Vẫn còn 27 bộ, cơ quan trung ương và 17 địa phương dưới mức bình quân.",
+      "why_it_matters": "Hơn một tháng cuối năm sẽ dồn khối lượng giải ngân, các dự án công ở Hà Nội và TP.HCM cạnh tranh thép, xi măng, cát và máy thi công với dự án tư nhân — cần chốt nguồn hàng sớm cho quý I.",
+      "tags": [
+        "đầu tư công",
+        "giải ngân",
+        "Hà Nội",
+        "TP.HCM"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang Vietstock (WebFetch), đọc toàn văn; đối chiếu Báo Đấu thầu 19/11 khớp số liệu (cùng dẫn báo cáo Bộ Tài chính)",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-28-vtv-noxh-ha-noi",
+      "title": "Hà Nội mở bán thêm các dự án nhà ở xã hội",
+      "title_vi": "Hà Nội nhận hồ sơ thêm các dự án nhà ở xã hội ở Mê Linh, Thạch Thất, Phúc Thịnh; giá công bố 23,5 – trên 29 triệu đồng/m²",
+      "source": {
+        "name": "VTV.vn",
+        "kind": "đài truyền hình"
+      },
+      "url": "https://vtv.vn/ha-noi-mo-ban-them-cac-du-an-nha-o-xa-hoi-100261119110152344.htm",
+      "published": "2026-11-19T15:40:00+07:00",
+      "time_known": true,
+      "date_basis": "dòng ngày giờ trên trang bài (GMT+7)",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Dự án nhà ở xã hội Minh Đức (xã Mê Linh) nhận hồ sơ trong tháng 11, các dự án Đồng Trúc, Tân Xã (Thạch Thất) và Thôn Tuân Lề (xã Phúc Thịnh) nhận hồ sơ từ tháng 12. Giá đang công bố khoảng 23,5 – trên 29 triệu đồng/m², căn 2 phòng ngủ trên 1,5 tỷ đồng, trong khi một lãnh đạo doanh nghiệp được phỏng vấn ước giá nhà thương mại bình quân khoảng 70 triệu đồng/m². Hà Nội có hơn 100 dự án nhà ở xã hội đã được chấp thuận đầu tư, phần lớn cách trung tâm 15–30 km.",
+      "why_it_matters": "Dự án nhà ở xã hội có trần giá bán chặt nên rất nhạy với giá vật liệu — nhóm khách hàng mua vật tư khối lượng lớn với biên lợi nhuận mỏng, cạnh tranh trực tiếp nguồn cung ở vùng ven.",
+      "tags": [
+        "nhà ở xã hội",
+        "Hà Nội",
+        "giá nhà"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang VTV (WebFetch), đọc toàn văn",
+      "note": "Khác đợt mở bán đã đưa tin 01/11 (VnExpress).",
+      "accessed": "2026-11-24"
+    },
+    {
+      "id": "n-20261124-29-openrouter-drops-providers",
+      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+      "title_vi": "OpenRouter loại 3 nhà cung cấp hạ tầng AI sau khi lộ prompt và mật khẩu, rút nhãn ‘không lưu dữ liệu’ của 125 endpoint",
+      "source": {
+        "name": "BleepingComputer",
+        "kind": "báo an ninh mạng"
+      },
+      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+      "published": "2026-11-23",
+      "time_known": false,
+      "date_basis": "dòng ngày trên trang (23/11/2026 03:00 PM, không ghi múi giờ) — chỉ dùng ngày",
+      "topic": "cong_nghe",
+      "region": "Global",
+      "summary_vi": "OpenRouter gỡ Together AI, Phala và Novita khỏi nền tảng và rút tư cách Zero Data Retention của 125 endpoint, đồng thời khẳng định hệ thống của mình không bị xâm nhập. Nhóm nghiên cứu Dragos đã gửi khoảng hai triệu prompt thử có đường link theo dõi và thông tin đăng nhập mồi từ tháng 7 đến tháng 11, và phát hiện dữ liệu của ít nhất ba nhà cung cấp bị lộ. Khuyến nghị là đổi mọi khóa, mật khẩu có thể đã xuất hiện trong yêu cầu gửi tới AI.",
+      "why_it_matters": "Khi mua dịch vụ AI qua bên trung gian, cam kết ‘không lưu dữ liệu’ cần được kiểm chứng trong hợp đồng; không dán mật khẩu, giá chào thầu hay dữ liệu nhà cung cấp vào prompt.",
+      "tags": [
+        "OpenRouter",
+        "rò rỉ dữ liệu",
+        "an ninh AI",
+        "nhà cung cấp AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang BleepingComputer (WebFetch), đọc toàn văn; đối chiếu The Hacker News (22/11) và bài nghiên cứu của Dragos (19/11)",
+      "accessed": "2026-11-24"
+    }
+  ],
+  "unreachable": [
+    {
+      "source": "WebSearch (hạn mức 200 lượt/lượt chạy)",
+      "status": "Hết hạn mức tìm kiếm giữa chừng",
+      "impact": "Không tìm thêm được tin AI-xây dựng Trung Quốc trong tuần, tin AI toàn cầu ngày 24/11 và nguồn thứ hai cho tin Coupa, Meta."
+    },
+    {
+      "source": "nvidianews.nvidia.com, apnews.com, reuters.com, z.ai, openai.com (link lấy từ trong trang khác)",
+      "status": "PROVENANCE_REQUIRED — yêu cầu cấp quyền không được trả lời",
+      "impact": "Dùng bản thông cáo trên SEC EDGAR, Euronews, GeekWire, DataCamp thay thế."
+    },
+    {
+      "source": "cnbc.com, thenewstack.io, mlq.ai",
+      "status": "client_error",
+      "impact": "Dùng nguồn khác cùng sự kiện."
+    },
+    {
+      "source": "Reuters (qua TradingView) — bài giá đồng",
+      "status": "Paywall",
+      "impact": "Chỉ đọc tiêu đề; dùng SMM và miningsee.eu."
+    },
+    {
+      "source": "baoxaydung.vn/vat-lieu.htm, vnexpress.net/kinh-doanh/hang-hoa",
+      "status": "PROVENANCE_REQUIRED",
+      "impact": "Không quét được chuyên mục giá vật liệu; giá thép trong nước 20–23/11 đi ngang nên không đưa tin."
+    },
+    {
+      "source": "dnews.co.kr, nate.com, moc.gov.vn, zhihu.com, tumu-ai.com",
+      "status": "robots chặn bot",
+      "impact": "Không dùng tin của các trang này."
+    },
+    {
+      "source": "news.ycwb.com",
+      "status": "WAF chặn bot",
+      "impact": "Không đọc được."
+    },
+    {
+      "source": "BUILT — robot kiểm tra cầu của 大和インフラロボティクス; rutlandherald.com (thông cáo Terabase)",
+      "status": "PROVENANCE_REQUIRED",
+      "impact": "Bỏ tin robot kiểm tra cầu; tin Terabase đọc qua constructionindustry.ai."
+    },
+    {
+      "source": "Drewry WCI — bảng tuyến",
+      "status": "Bảng dạng ảnh",
+      "impact": "Chỉ đọc 4 tuyến trong phần chữ."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20",
-  "latest": "2026-11-20",
+  "updated": "2026-11-24",
+  "latest": "2026-11-24",
   "topics": [
     {
       "id": "ai_xd",
@@ -68,6 +68,19 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-11-24",
+      "file": "2026-11-24.json",
+      "headline": "Bộ Xây dựng ra hướng dẫn BIM mới (QĐ 1986); 3 luật đất đai–BĐS–nhà ở thông qua; đồng giảm tuần thứ 6, thép nhập bị siết; Nvidia đưa Jensen Huang trở lại, CrowdStrike mua Zscaler 43,9 tỷ USD",
+      "item_count": 29,
+      "topics": {
+        "ai_xd": 13,
+        "chuoi_cung_ung": 6,
+        "cong_nghe": 1,
+        "ai_toan_cau": 5,
+        "vn": 4
+      }
+    },
     {
       "date": "2026-11-20",
       "file": "2026-11-20.json",

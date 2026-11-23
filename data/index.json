@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-20",
-  "latest": "2026-11-20",
+  "updated": "2026-11-24",
+  "latest": "2026-11-24",
   "days": [
+    {
+      "date": "2026-11-24",
+      "file": "2026-11-24.json",
+      "headline": "TQ ‘kinh tế giữ ấm’: trà sữa sệt bán hàng triệu cốc, cơm khoai tây nghiền 100.000 đơn/10 ngày; đồ chơi AI trả hàng 30–50%; Mỹ mua sắm lễ qua AI; Nhật bán túi phúc ‘giá bằng phiếu’ — 8 ý tưởng nhỏ",
+      "idea_count": 8,
+      "trend_count": 5,
+      "keyword_count": 4,
+      "top": {
+        "title": "“Catalog AI đọc được” — viết lại danh mục sản phẩm của shop nhỏ (giá, size, tồn kho, câu hỏi thường gặp) thành một bảng chuẩn để trợ lý AI và chatbot Zalo trả lời đúng",
+        "total_score": 6.6
+      }
+    },
     {
       "date": "2026-11-20",
       "file": "2026-11-20.json",
