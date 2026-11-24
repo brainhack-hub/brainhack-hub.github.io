@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-24",
-  "latest": "2026-11-24",
+  "updated": "2026-11-25",
+  "latest": "2026-11-25",
   "days": [
+    {
+      "date": "2026-11-25",
+      "file": "2026-11-25.json",
+      "headline": "TQ mở mùa tuyết sớm — khách miền Nam chiếm 55–70% đơn; Hàn: người trẻ ‘nằm nghỉ’ và xông hơi thay đi nhậu, săn đồ rẻ ở chợ Namdaemun; Nhật: DIY ‘không tốn tiền’; Mỹ: creator nhỏ thắng mùa Black Friday — 8 ý tưởng",
+      "idea_count": 8,
+      "trend_count": 7,
+      "keyword_count": 6,
+      "top": {
+        "title": "“Đi chợ sỉ 2 tiếng” — tour đi bộ cuối tuần cho người trẻ qua chợ Đồng Xuân, chợ hoa, chợ Bình Tây: mua bát đĩa, hoa, phụ kiện giá sỉ, kèm bản đồ sạp và video ‘chợ này mua gì’",
+        "total_score": 6.64
+      }
+    },
     {
       "date": "2026-11-24",
       "file": "2026-11-24.json",

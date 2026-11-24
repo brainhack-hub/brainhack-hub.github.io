@@ -1,0 +1,754 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T07:40:00+07:00",
+  "headline": "AI vào ‘văn phòng’ nhà thầu (Drillbit 4,4 triệu USD, KENCOPA, Autodesk Forma); nhựa đường +16,7%, thép điều chỉnh 5 lần; Mỹ đưa Megaspeed vào danh sách đen, TSMC +9,9%",
+  "digest": [
+    {
+      "title": "AI vào ‘văn phòng’ nhà thầu: báo giá, xếp lịch, sơ đồ thi công — phần lớn vẫn là thông cáo hãng",
+      "text": "Drillbit gọi 4,4 triệu USD cho nhân viên AI của nhà thầu nhà ở (giá từ 500 USD/tháng, số liệu khách do hãng nêu); KENCOPA cho AI vẽ sơ đồ thi công từ bản vẽ (mức giảm 90% thời gian là ước tính); Autodesk Forma tung hơn 60 cập nhật, trợ lý AI đọc PDF.",
+      "item_ids": [
+        "n-20261125-06-drillbit-4-4-trieu-usd",
+        "n-20261125-07-kencopa-ve-so-do-thi-cong",
+        "n-20261125-10-autodesk-forma-thang-11"
+      ]
+    },
+    {
+      "title": "Vật liệu VN: nhựa đường +16,7%, thép điều chỉnh ít nhất 5 lần từ đầu tháng 10",
+      "text": "Tuổi Trẻ dẫn số liệu Bộ Xây dựng tháng 10: cát 1.013.250 đồng/m³, đá dăm 618.324 đồng/m³; thép giữa tháng 11 13.840–15.150 đồng/kg. Ngày 23/11 thép nội địa đi ngang, tồn kho quặng 35 cảng TQ tăng lên 153,75 triệu tấn — cân nhắc đàm phán khóa giá quý I/2027.",
+      "item_ids": [
+        "n-20261125-16-tuoitre-gia-vlxd-nhan-cong",
+        "n-20261125-17-gia-thep-23-11"
+      ]
+    },
+    {
+      "title": "Chuỗi chip: Mỹ đưa Megaspeed và 6 công ty ĐNA vào danh sách đen; Nvidia trả trước để giữ công suất đến 2029",
+      "text": "BIS nhắm các trạm trung chuyển chip ở ĐNA; Nvidia khóa công suất đế ABF (Kinsus hơn 3,5 lần) và đóng gói (Amkor gần 3 tỷ USD, theo thông cáo hãng). Với mua sắm thiết bị công nghệ: kiểm tra nguồn gốc và danh sách đen của đại lý khu vực.",
+      "item_ids": [
+        "n-20261125-01-megaspeed-entity-list",
+        "n-20261125-15-nvidia-cam-ket-chuoi-cung-ung"
+      ]
+    },
+    {
+      "title": "Công nghệ & AI toàn cầu: TSMC +9,9% sau một tuần lao dốc; Oregon, Virginia kiện SpaceX vì Grok; Anh cảnh báo tấn công mạng dùng AI",
+      "text": "Cổ phiếu chip châu Á bật mạnh khi Jensen Huang trở lại Nvidia (TAIEX −17,5% tuần trước). Hai bang Mỹ kiện chủ sở hữu Grok vì ảnh giả mạo khiêu dâm; NCSC của Anh ghi nhận tấn công dùng AI tăng rõ rệt từ tháng 9.",
+      "item_ids": [
+        "n-20261125-02-tsmc-158-ty-usd",
+        "n-20261125-03-oregon-virginia-kien-grok",
+        "n-20261125-04-ncsc-ai-tan-cong-mang"
+      ]
+    },
+    {
+      "title": "Thị trường BĐS: nhà phố TP.HCM giảm giá vẫn khó bán; Hà Nội xem xét thay chủ đầu tư cải tạo chung cư cũ",
+      "text": "Savills: tỷ lệ hấp thụ nhà phố, biệt thự mới quý III chỉ 14%, lãi vay 12–15%/năm so với lợi suất thuê 2–3%/năm (Avison Young). Ở Hà Nội, việc thay chủ đầu tư dự án cải tạo chậm tiến độ có thể mở lại gói thầu (mới đọc đoạn trích).",
+      "item_ids": [
+        "n-20261125-19-znews-nha-pho-ha-gia",
+        "n-20261125-20-tienphong-dia-oc-24h"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "US adds Megaspeed to trade blacklist as Nvidia’s Huang returns as CEO",
+      "title_vi": "Mỹ đưa Megaspeed và sáu công ty Đông Nam Á vào danh sách đen xuất khẩu, đúng lúc Jensen Huang trở lại Nvidia",
+      "source": {
+        "name": "Al Jazeera",
+        "kind": "báo quốc tế"
+      },
+      "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list",
+      "published": "2026-11-24",
+      "time_known": false,
+      "date_basis": "dòng ‘Published On 24 Nov 2026’ trên trang; meta không ghi múi giờ",
+      "topic": "ai_toan_cau",
+      "region": "SEA",
+      "summary_vi": "Cục Công nghiệp và An ninh (BIS) của Mỹ đưa Megaspeed International cùng sáu công ty ở Đông Nam Á, gồm MSFusion, PT Megaspeed International, Speedmatrix, Apex Enterprise Solutions, Swiftdata và Megaspeed (Thailand), vào Danh sách thực thể hạn chế xuất khẩu. Bộ Đầu tư, Thương mại và Công nghiệp Malaysia nói PT Megaspeed International không phải pháp nhân Malaysia; Thủ tướng Singapore Lawrence Wong nói nước này không muốn bị lợi dụng. Bắc Kinh gọi các cáo buộc là suy đoán vô căn cứ.",
+      "why_it_matters": "Kiểm soát xuất khẩu chip đang nhắm thẳng vào các trạm trung chuyển ở Đông Nam Á; doanh nghiệp mua thiết bị máy chủ, linh kiện qua đại lý khu vực nên kiểm tra kỹ nguồn gốc và danh sách đen trước khi ký hợp đồng.",
+      "tags": [
+        "Megaspeed",
+        "kiểm soát xuất khẩu",
+        "Nvidia",
+        "Singapore",
+        "Malaysia"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web); CNBC và Semafor cùng sự kiện không mở được (lỗi trang / robots.txt)",
+      "note": "Al Jazeera cũng nêu Nvidia tăng 31,5%, S&P 500 +4,7%, Nasdaq +6,51% trong phiên — không đưa vào tóm tắt vì chưa đối chiếu được nguồn thứ hai.",
+      "idea_ids": [
+        "20261125-08-watchlist-chip-dong-nam-a"
+      ],
+      "id": "n-20261125-01-megaspeed-entity-list",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "TSMC gains $158 billion in value in one day as Jensen Huang returns as Nvidia CEO",
+      "title_vi": "TSMC tăng 9,9% trong một phiên, thêm 158 tỷ USD vốn hóa khi Jensen Huang trở lại Nvidia",
+      "source": {
+        "name": "Fortune",
+        "kind": "báo kinh tế"
+      },
+      "url": "https://fortune.com/2026/11/24/tsmc-gains-158-billion-in-value-in-one-day-as-jensen-huang-returns-as-nvidia-ceo/",
+      "published": "2026-11-24T02:05:00-05:00",
+      "time_known": true,
+      "date_basis": "dòng thời gian dưới tên tác giả (November 24, 2026, 2:05 AM ET)",
+      "topic": "ai_toan_cau",
+      "region": "Global",
+      "summary_vi": "Cổ phiếu TSMC tăng 9,9%, chạm mức trần, thêm 5,2 nghìn tỷ Đài tệ (158 tỷ USD) vốn hóa sau khi HĐQT Nvidia nhất trí đưa Jensen Huang trở lại ghế CEO. Cùng phiên, Nikkei 225 tăng 3,9%, KOSPI tăng 6,2% và TAIEX tăng 9%, sau tuần trước TAIEX giảm 17,5% — mạnh nhất kể từ 1991. Bài cũng nhắc việc BIS thêm bảy công ty vào Danh sách thực thể, trong đó có Megaspeed.",
+      "why_it_matters": "Thị trường chip châu Á dao động hai chiều rất mạnh trong một tuần; giá linh kiện, máy chủ và tỷ giá có thể biến động theo — nên tránh khóa giá dài hạn cho hạng mục thiết bị công nghệ lúc này.",
+      "tags": [
+        "TSMC",
+        "Nvidia",
+        "chứng khoán châu Á",
+        "chip"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "note": "Diễn biến thị trường sau tin Nvidia bổ nhiệm lại CEO (tin gốc đã đăng 24/11). Al Jazeera ghi KOSPI +6,3%.",
+      "idea_ids": [
+        "20261125-08-watchlist-chip-dong-nam-a"
+      ],
+      "id": "n-20261125-02-tsmc-158-ty-usd",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "Oregon, Virginia sue Grok for allowing sexualized deepfake images",
+      "title_vi": "Oregon và Virginia kiện SpaceX (chủ sở hữu Grok, X) vì để AI tạo ảnh giả mạo khiêu dâm, kể cả hình trẻ em",
+      "source": {
+        "name": "UPI (qua Yahoo News)",
+        "kind": "hãng tin"
+      },
+      "url": "https://www.yahoo.com/news/us/articles/oregon-virginia-sue-grok-allowing-170814604.html",
+      "published": "2026-11-23T17:08:00+00:00",
+      "time_known": true,
+      "date_basis": "dòng thời gian trên trang (Mon, November 23, 2026 at 5:08 PM UTC)",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Tổng chưởng lý Oregon Dan Rayfield và Virginia Jay Jones khởi kiện SpaceX — công ty sở hữu Grok và X — với cáo buộc thiết kế AI không có biện pháp chặn ảnh giả mạo khiêu dâm. Bài dẫn ước tính của CCDH: khoảng 3 triệu ảnh khiêu dâm được tạo và đăng từ 29/12 đến 8/1, trong đó khoảng 23.000 ảnh có vẻ là trẻ em. Ngày 15/1 xAI đã nói sẽ ngừng cho phép ‘cởi đồ’ ảnh người thật.",
+      "why_it_matters": "Trách nhiệm pháp lý với nội dung AI tạo ra đang chuyển từ người dùng sang nhà cung cấp; khi mua công cụ AI tạo ảnh/video cho marketing dự án, nên yêu cầu điều khoản an toàn nội dung và bồi thường.",
+      "tags": [
+        "Grok",
+        "deepfake",
+        "kiện tụng",
+        "an toàn AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang Yahoo (bản đăng lại của UPI); thông cáo của Tổng chưởng lý Virginia và KTVZ không mở được (URL quá dài / robots.txt)",
+      "id": "n-20261125-03-oregon-virginia-kien-grok",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "title_vi": "Anh cảnh báo tấn công mạng dùng AI tăng mạnh, phơi bày nhiều năm bảo mật yếu",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "published": "2026-11-24T18:02:59+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time",
+      "topic": "ai_toan_cau",
+      "region": "EU",
+      "summary_vi": "Trung tâm An ninh mạng Quốc gia Anh (NCSC) ghi nhận tấn công mạng dùng AI tăng rõ rệt trong những tháng gần đây, với nhiều sự cố từ tháng 9 liên quan công cụ hack tự động. Bài nêu tên hai công cụ kiểm thử xâm nhập tự động mã nguồn mở là Artex và Cairn, và nhắc FBI gần đây cũng cảnh báo các công cụ này bị dùng để tấn công. NCSC nhấn mạnh việc làm vững nền tảng bảo mật cơ bản quan trọng hơn bao giờ hết.",
+      "why_it_matters": "Hệ thống quản lý dự án, cổng nhà cung cấp và email đấu thầu là mục tiêu dễ bị lợi dụng; nên rà lại vá lỗi, xác thực nhiều lớp và quy trình xác minh đổi tài khoản ngân hàng của nhà cung cấp.",
+      "tags": [
+        "an ninh mạng",
+        "NCSC",
+        "AI tấn công",
+        "Anh"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "note": "Vùng ghi EU vì hệ thống không có mục Anh riêng; đây là cơ quan của Vương quốc Anh.",
+      "id": "n-20261125-04-ncsc-ai-tan-cong-mang",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "Samsung, SK hynix, LG redraw playbooks for AI boom",
+      "title_vi": "Samsung, SK hynix, LG giữ CEO và vẽ lại chiến lược cho làn sóng AI",
+      "source": {
+        "name": "The Korea Herald",
+        "kind": "báo Hàn"
+      },
+      "url": "https://www.koreaherald.com/article/10946347",
+      "published": "2026-11-23T15:31:35+09:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time",
+      "topic": "ai_toan_cau",
+      "region": "KR",
+      "summary_vi": "Samsung, SK hynix và LG giữ nguyên CEO cho năm 2027 và điều chỉnh chiến lược theo nhu cầu AI. Mỹ chiếm 62,5% doanh thu theo vùng của SK hynix trong 9 tháng 2026; hãng đầu tư hơn 4 tỷ USD vào cơ sở đóng gói HBM ở Indiana, mục tiêu nửa cuối 2029. Đơn hàng thiết bị làm mát của LG tăng từ khoảng 600 tỷ won nửa đầu năm lên hơn 3 nghìn tỷ won đến cuối tháng 9.",
+      "why_it_matters": "Làm mát trung tâm dữ liệu đang thành mảng tăng nhanh của các hãng điện máy — đáng theo dõi khi lập kế hoạch mua thiết bị cơ điện cho tòa nhà có phòng máy chủ.",
+      "tags": [
+        "Samsung",
+        "SK hynix",
+        "LG",
+        "HBM",
+        "làm mát"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "id": "n-20261125-05-han-chip-doi-chien-luoc",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "Drillbit Has Raised $4.4M to Put an AI Office Worker Inside Residential Contractors",
+      "title_vi": "Drillbit gọi 4,4 triệu USD cho ‘nhân viên văn phòng AI’ của nhà thầu nhà ở: nghe máy, báo giá, xếp lịch, thu tiền",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "báo chuyên ngành"
+      },
+      "url": "https://www.constructionindustry.ai/funding/drillbit-4-4m-seed-mason-ai-office-worker-residential-contractors/",
+      "published": "2026-11-20",
+      "time_known": false,
+      "date_basis": "dòng ngày ‘Nov 20, 2026’; meta chỉ có ngày (00:00Z)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Drillbit huy động 4,4 triệu USD vòng hạt giống từ Y Combinator, Soma Capital, Unpopular Ventures và các quỹ khác. Sản phẩm ‘Mason’ là nhân viên AI cho nhà thầu nhà ở: trả lời điện thoại, báo giá, xếp lịch, điều thợ và thu tiền; giá từ 500 USD/tháng cho mỗi địa điểm. Theo hãng, khách hàng đã có hơn 95 triệu USD giá trị giao dịch qua nền tảng.",
+      "why_it_matters": "Khâu ‘văn phòng’ của nhà thầu nhỏ (báo giá, lịch, thu tiền) là nơi AI vào nhanh nhất; nhà thầu phụ dùng công cụ này có thể phản hồi báo giá nhanh hơn trong các gói thầu nhỏ.",
+      "tags": [
+        "Drillbit",
+        "gọi vốn",
+        "nhà thầu",
+        "AI báo giá"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "note": "Số liệu khách hàng/tăng trưởng do Drillbit tự công bố.",
+      "idea_ids": [
+        "20261125-07-tro-ly-van-phong-ai-cho-doi-tho"
+      ],
+      "id": "n-20261125-06-drillbit-4-4-trieu-usd",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "Kencopa工程AIエージェント、図面から絵工程を自動生成しパワポで出力。作成時間約90%削減へ",
+      "title_vi": "Kencopa: AI tạo sơ đồ thi công (vị trí cẩu, vật liệu) từ bản vẽ, xuất PowerPoint — hãng ước tính giảm khoảng 90% thời gian",
+      "source": {
+        "name": "PR TIMES (KENCOPA)",
+        "kind": "thông cáo doanh nghiệp"
+      },
+      "url": "https://prtimes.jp/main/html/rd/p/000000037.000166783.html",
+      "published": "2026-11-24T09:30:00+09:00",
+      "time_known": true,
+      "date_basis": "dòng ngày giờ phát hành trên PR TIMES (giờ Nhật)",
+      "topic": "ai_xd",
+      "region": "JP",
+      "summary_vi": "KENCOPA bổ sung tính năng cho tác tử AI lập tiến độ: từ bản vẽ, AI tự tạo ‘絵工程’ — sơ đồ khu vực thi công, vị trí cẩu và bãi vật liệu theo từng giai đoạn — và xuất thành hình vẽ chỉnh được trong PowerPoint. Hãng ước tính giảm khoảng 90% thời gian lập sơ đồ, dựa trên phỏng vấn chứ chưa đo thực tế. Ra mắt chính thức trong năm tài chính 2026; năm tài chính 2027 dự kiến thêm tạo mô hình 3D và kiểm tra va chạm 3D.",
+      "why_it_matters": "Sơ đồ mặt bằng thi công quyết định thời điểm và vị trí giao vật tư lớn; nếu tạo nhanh hơn, kế hoạch giao hàng theo giai đoạn có thể đi kèm ngay hồ sơ mời thầu.",
+      "tags": [
+        "KENCOPA",
+        "tiến độ",
+        "mặt bằng thi công",
+        "Nhật Bản"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang PR TIMES (WebFetch qua tác tử đọc web)",
+      "note": "Theo hãng; công nghệ đang chờ cấp bằng sáng chế.",
+      "idea_ids": [
+        "20261125-07-tro-ly-van-phong-ai-cho-doi-tho"
+      ],
+      "id": "n-20261125-07-kencopa-ve-so-do-thi-cong",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "Rayon Shipped V4's 3D and Its Agent in Beta. The Test That Mattered Was Unplanned.",
+      "title_vi": "Rayon ra bản V4 có 3D và tác tử AI (beta); phép thử ngoài kịch bản cho thấy bản đồ chiếu sáng không dựa trên tính toán quang học",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "báo chuyên ngành"
+      },
+      "url": "https://www.constructionindustry.ai/product/rayon-v4-3d-agent-beta-lighting-map-unscripted/",
+      "published": "2026-11-19",
+      "time_known": false,
+      "date_basis": "dòng ngày ‘Nov 19, 2026’; meta chỉ có ngày",
+      "topic": "ai_xd",
+      "region": "Global",
+      "summary_vi": "Công cụ thiết kế mặt bằng Rayon phát hành V4 ngày 12/11 với chế độ 3D và tác tử AI, cả hai ở dạng beta; gói Solo 456 USD/năm, Studio 984 USD/năm cho 3 chỗ. Trong một phép thử không lên kịch bản, tác tử vẽ được bản đồ cường độ chiếu sáng, nhưng AEC Magazine nhận xét không thấy dấu hiệu có tính toán quang học. Rayon đặt mục tiêu đưa 3D và AI ra khỏi beta trong năm 2027.",
+      "why_it_matters": "Lời nhắc tốt khi chấm thầu tư vấn dùng AI: kết quả ‘trông đúng’ chưa chắc có tính toán kỹ thuật phía sau — cần yêu cầu bảng tính kiểm chứng.",
+      "tags": [
+        "Rayon",
+        "thiết kế",
+        "tác tử AI",
+        "beta"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web); bài tổng hợp từ AEC Magazine và bài đăng của Rayon",
+      "id": "n-20261125-08-rayon-v4-agent-beta",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "創博會促進智能建造",
+      "title_vi": "Hồng Kông mở Triển lãm Đổi mới Xây dựng 2026: hơn 190 đơn vị trưng bày, thí điểm chấm công công trường bằng nhận diện khuôn mặt",
+      "source": {
+        "name": "香港政府新聞網",
+        "kind": "cơ quan nhà nước"
+      },
+      "url": "https://www.news.gov.hk/chi/2026/11/20261123/20261123_151551_835.html",
+      "published": "2026-11-23T18:43:04+08:00",
+      "time_known": true,
+      "date_basis": "meta date và dòng ngày trên trang",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Triển lãm Đổi mới Xây dựng 2026 diễn ra ba ngày tại Trung tâm Hội nghị và Triển lãm Hồng Kông, với hơn 190 đơn vị trưng bày từ Hồng Kông, đại lục và nước ngoài, dự kiến hơn 26.000 lượt khách. Hội đồng Công nghiệp Xây dựng (CIC) đang thí điểm thay thẻ chấm công bằng nhận diện khuôn mặt tại công trường, làm theo từng giai đoạn. Sự kiện tổ chức ba năm một lần, do CIC cùng Cục Phát triển và một đơn vị thuộc bộ ngành đại lục đồng tổ chức.",
+      "why_it_matters": "Chấm công bằng khuôn mặt giúp đối soát nhân công nhà thầu phụ minh bạch hơn — liên quan trực tiếp tới nghiệm thu khối lượng và thanh toán theo ngày công.",
+      "tags": [
+        "Hồng Kông",
+        "triển lãm",
+        "nhận diện khuôn mặt",
+        "smart construction"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "id": "n-20261125-09-hk-cong-nghe-xay-dung-expo",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "November Autodesk Forma Construction Releases – Built for What’s Next",
+      "title_vi": "Autodesk Forma (tên mới của Construction Cloud) tung hơn 60 cập nhật tháng 11: trợ lý AI đọc PDF, nhật ký hoạt động hub",
+      "source": {
+        "name": "Autodesk (blog Digital Builder)",
+        "kind": "blog nhà cung cấp"
+      },
+      "url": "https://www.autodesk.com/blogs/construction/november-autodesk-forma-construction-releases-built-for-whats-next",
+      "published": "2026-11-17T16:00:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time; trang ghi cập nhật 24/11/2026",
+      "topic": "ai_xd",
+      "region": "Global",
+      "summary_vi": "Autodesk công bố hơn 60 cập nhật sản phẩm xây dựng trong tháng 11. Autodesk Assistant nhận tệp PDF đính kèm đến 4,5 MB mỗi lần và vẽ được biểu đồ; mô-đun bàn giao cho chạy song song tối đa ba lần xuất dữ liệu mỗi dự án. Ngoài ra có Nhật ký hoạt động hub và Thêm thành viên hàng loạt (đều beta), và điều phối mô hình hỗ trợ không gian đến 200 tệp.",
+      "why_it_matters": "Trợ lý AI đọc PDF ngay trong môi trường dữ liệu chung giúp tra cứu hợp đồng, chỉ dẫn kỹ thuật nhanh hơn; nhật ký hoạt động hub hữu ích cho kiểm soát truy cập hồ sơ thầu.",
+      "tags": [
+        "Autodesk Forma",
+        "trợ lý AI",
+        "CDE",
+        "bàn giao"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "note": "BUILT (20/11) xác nhận Autodesk Construction Cloud đổi tên thành Autodesk Forma từ tháng 3/2026.",
+      "id": "n-20261125-10-autodesk-forma-thang-11",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "Trimble Recognizes Startups Advancing Innovation in Construction Technology",
+      "title_vi": "Trimble trao giải 0-60 Challenge 2026: FORMAS.AI (thiết kế), Dig Robotics (công trường), Billy (dữ liệu)",
+      "source": {
+        "name": "The American Surveyor (thông cáo Trimble)",
+        "kind": "thông cáo doanh nghiệp"
+      },
+      "url": "https://amerisurv.com/2026/11/23/trimble-recognizes-startups-advancing-innovation-in-construction-technology",
+      "published": "2026-11-23T21:37:49+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time; dòng ngày Westminster, Colo., Nov. 23, 2026",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Trimble công bố kết quả 2026 Trimble 0-60 Challenge với 10 đội vào chung kết và ba đội thắng: FORMAS.AI (thiết kế kết nối), Dig Robotics (hiện trường kết nối) và Billy (dữ liệu kết nối); số tiền thưởng không được nêu. Giải đặc biệt có Nomic AI và Speckle. Kết quả công bố tại hội nghị Trimble Dimensions ở Las Vegas.",
+      "why_it_matters": "Danh sách startup được hãng lớn chọn là nguồn tốt để dò công cụ mới cho thiết kế, công trường và dữ liệu — nên theo dõi trước khi mời chào giá thí điểm.",
+      "tags": [
+        "Trimble",
+        "startup",
+        "contech",
+        "giải thưởng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "id": "n-20261125-11-trimble-0-60-startup",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "AI音声認識マウスアプリに建設業向けテンプレ管理機能 アドバンスト・メディア",
+      "title_vi": "Advanced Media thêm quản lý mẫu cho ứng dụng ‘chuột nhận giọng nói AI’ dành cho ngành xây dựng",
+      "source": {
+        "name": "BUILT (ITmedia)",
+        "kind": "báo chuyên ngành"
+      },
+      "url": "https://built.itmedia.co.jp/bt/articles/2611/19/news058.html",
+      "published": "2026-11-19T13:00:00+09:00",
+      "time_known": true,
+      "date_basis": "dòng ‘公開’ trên trang (giờ Nhật)",
+      "topic": "ai_xd",
+      "region": "JP",
+      "summary_vi": "Advanced Media công bố ngày 16/11 tính năng quản lý mẫu cho ứng dụng ‘AmiVoice トークマウス’, liên kết với ‘AmiVoice B-Work One’. Số mẫu không giới hạn, sắp theo thư mục; ứng dụng chạy trên iOS để nhập liệu vào máy Windows. Có thêm tùy chọn AI tạo sinh để soát lỗi và tóm tắt.",
+      "why_it_matters": "Nhập báo cáo, nhật ký công trường bằng giọng nói theo mẫu có sẵn giúp kỹ sư hiện trường ghi đủ dữ liệu khối lượng, vật tư mà không phải gõ.",
+      "tags": [
+        "nhận dạng giọng nói",
+        "nhật ký công trường",
+        "Nhật Bản"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang BUILT (WebFetch qua tác tử đọc web); bài dựa trên thông cáo của hãng",
+      "id": "n-20261125-12-amivoice-mau-cong-truong",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "Ailya rolls out AI real estate operating system",
+      "title_vi": "Ailya mở rộng ‘hệ điều hành AI’ cho tòa nhà cho thuê lên 7 dự án ở Manchester, tự xử lý hơn 70% yêu cầu cư dân (theo hãng)",
+      "source": {
+        "name": "AI PropTech News",
+        "kind": "báo chuyên ngành"
+      },
+      "url": "https://aiproptechnews.com/article/ailya-rolls-out-ai-real-estate-operating-system/",
+      "published": "2026-11-19T13:28:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Nền tảng vận hành tòa nhà bằng AI của Ailya đã chạy ở 7 dự án của Renaker tại Manchester, tăng từ 1 dự án lúc ra mắt; trang mô tả hơn 4.000 căn và hơn 7.000 cư dân. Theo hãng, hệ thống đã xử lý hơn 36.000 việc và 180.000 lượt giao bưu kiện, hơn 70% cư dân dùng ứng dụng, chat hỗ trợ 200 ngôn ngữ và CEO nói hơn 70% yêu cầu được giải quyết không cần người. Hãng dự định mở rộng sang London và Birmingham.",
+      "why_it_matters": "Với chủ đầu tư có mảng cho thuê/vận hành, mua sắm hệ thống vận hành AI nên gắn với chỉ số đo được (tỷ lệ tự xử lý, thời gian phản hồi) ngay trong hợp đồng.",
+      "tags": [
+        "proptech",
+        "vận hành tòa nhà",
+        "cho thuê",
+        "Anh"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "note": "Phần lớn số liệu do hãng/CEO cung cấp, chưa được kiểm chứng độc lập.",
+      "id": "n-20261125-13-ailya-van-hanh-toa-nha",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "OJT不足を現場動画とAIで解消 ワット・コンサルティングの建設eラーニングにAI実装",
+      "title_vi": "Watt Consulting gắn chatbot AI vào khóa học xây dựng trực tuyến bằng video công trường để bù thiếu đào tạo tại chỗ",
+      "source": {
+        "name": "BUILT (ITmedia)",
+        "kind": "báo chuyên ngành"
+      },
+      "url": "https://built.itmedia.co.jp/bt/articles/2611/23/news011.html",
+      "published": "2026-11-23T17:52:00+09:00",
+      "time_known": true,
+      "date_basis": "dòng ‘公開’ trên trang (giờ Nhật)",
+      "topic": "ai_xd",
+      "region": "JP",
+      "summary_vi": "Dịch vụ ‘Construction Boarding’ của Watt Consulting dạy nghề xây dựng bằng video ngắn 3–5 phút ghép cảnh công trường với minh họa: 31 chủ đề kiến trúc với 421 video và 315 video cơ điện. Đối tượng chính là nhân sự dưới khoảng 5 năm kinh nghiệm; phiên bản có chatbot AI hỗ trợ học ra mắt tháng 10/2026.",
+      "why_it_matters": "Đào tạo nhanh kỹ sư trẻ về vật liệu, biện pháp thi công giúp giảm lỗi đặt hàng sai quy cách — có thể đưa vào yêu cầu năng lực nhà thầu.",
+      "tags": [
+        "đào tạo",
+        "e-learning",
+        "chatbot",
+        "Nhật Bản"
+      ],
+      "verification": "đọc một phần",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang 1/2 của bài BUILT (WebFetch qua tác tử đọc web); không đọc trang 2",
+      "note": "Bài đăng 23/11 nhưng tường thuật gian hàng tại JAPAN BUILD OSAKA (26–28/8/2026); thông tin sản phẩm do hãng cung cấp.",
+      "id": "n-20261125-14-watt-elearning-ai",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
+      "title_vi": "Nvidia mở rộng cam kết với nhà cung cấp: Kinsus tăng hơn 3,5 lần công suất đế ABF, Amkor gần 3 tỷ USD, SPIL đến giữa 2029",
+      "source": {
+        "name": "NVIDIA Newsroom",
+        "kind": "thông cáo doanh nghiệp"
+      },
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+      "published": "2026-11-17",
+      "time_known": false,
+      "date_basis": "dòng ngày trên thông cáo (November 17, 2026), không ghi giờ",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Nvidia cho biết Kinsus sẽ mở rộng công suất đế ABF dành riêng cho Nvidia hơn 3,5 lần tại cơ sở Youth (Đào Viên, Đài Loan), sản xuất từ nửa cuối 2027 và đạt công suất bổ sung vào quý III/2028. Các thỏa thuận đóng gói tiên tiến với Amkor ký tháng 7 và 10/2026 tổng gần 3 tỷ USD, kể cả tiền trả trước; SPIL mở rộng công suất đóng gói cho Nvidia đến giữa 2029. Hệ thống Vera Rubin NVL72 đã giao lô lớn đầu tiên trong quý III.",
+      "why_it_matters": "Mô hình ‘trả trước để giữ công suất’ nhiều năm cho thấy vật tư khan hiếm được khóa bằng hợp đồng dài hạn — bài học cho mua sắm thiết bị dài ngày (thang máy, máy phát, trạm biến áp).",
+      "tags": [
+        "Nvidia",
+        "đóng gói chip",
+        "trả trước",
+        "công suất"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web); đối chiếu bản đăng lại trên TechPowerUp",
+      "note": "Theo hãng.",
+      "older_than_7d": true,
+      "older_note": "Đăng 17/11 (8 ngày); giữ vì là bối cảnh trực tiếp của tin Megaspeed/TSMC trong tuần và chưa đăng ở các ngày trước.",
+      "idea_ids": [
+        "20261125-08-watchlist-chip-dong-nam-a"
+      ],
+      "id": "n-20261125-15-nvidia-cam-ket-chuoi-cung-ung",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "'Ông cai', nhà thầu đau đầu với giá vật liệu xây dựng, giá nhân công xây dựng",
+      "title_vi": "Nhà thầu nhỏ ‘đau đầu’ vì giá vật liệu, nhân công: nhựa đường +16,7%, thép điều chỉnh ít nhất 5 lần từ đầu tháng 10",
+      "source": {
+        "name": "Tuổi Trẻ Online",
+        "kind": "báo Việt Nam"
+      },
+      "url": "https://tuoitre.vn/ong-cai-nha-thau-dau-dau-voi-gia-vat-lieu-xay-dung-gia-nhan-cong-xay-dung-100261119162634861.htm",
+      "published": "2026-11-19T19:42:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time và dòng ngày trên trang",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "Theo số liệu Bộ Xây dựng tháng 10, cát xây dựng 1.013.250 đồng/m³ (+2%), đá dăm 618.324 đồng/m³ (+1,04%), nhựa đường tăng 16,7% lên 26.689 đồng/kg; gạch A1 1.800–2.100 đồng/viên. Giữa tháng 11 thép xây dựng 13.840–15.150 đồng/kg, với ít nhất 5 lần điều chỉnh từ đầu tháng 10 đến 19/11. Nhân công phổ thông 500.000–600.000 đồng/ngày, thợ vận hành máy khoảng 1 triệu đồng/ngày.",
+      "why_it_matters": "Giá vật liệu đầu vào biến động theo tuần khiến hợp đồng trọn gói của nhà thầu phụ dễ bị đòi điều chỉnh; nên chốt cơ chế điều chỉnh giá theo chỉ số công bố và khóa khối lượng thép sớm.",
+      "tags": [
+        "giá vật liệu",
+        "thép",
+        "cát",
+        "nhựa đường",
+        "nhân công"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "note": "Bài ghi giá xi măng ‘tăng 0,1% lên 2,2 đồng/kg’ — đơn vị có vẻ in sai nên không đưa vào tóm tắt.",
+      "idea_ids": [
+        "20261125-07-tro-ly-van-phong-ai-cho-doi-tho"
+      ],
+      "id": "n-20261125-16-tuoitre-gia-vlxd-nhan-cong",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "Giá thép hôm nay 23/11/2026: Thép thanh nhích tăng, quặng sắt chịu áp lực",
+      "title_vi": "Giá thép 23/11/2026: thép thanh Thượng Hải nhích lên 3.032 tệ/tấn, quặng sắt giảm; thép nội địa đi ngang",
+      "source": {
+        "name": "Tạp chí Doanh nghiệp và Hội nhập",
+        "kind": "báo Việt Nam"
+      },
+      "url": "https://doanhnghiephoinhap.vn/gia-thep-hom-nay-23112026-thep-thanh-nhich-tang-quang-sat-chiu-ap-luc-154877.html",
+      "published": "2026-11-23T09:00:10+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "Theo SteelOnline.vn, thép Hòa Phát miền Bắc CB240 14.920 đồng/kg, D10 CB300 14.210 đồng/kg; Việt Đức CB240 14.650 đồng/kg ở miền Bắc, 15.150 đồng/kg ở miền Trung; VAS D10 CB300 13.840 đồng/kg. Trên sàn Thượng Hải, thép thanh kỳ hạn tháng 12 tăng 6 tệ (0,2%) lên 3.032 tệ/tấn, quặng sắt Đại Liên giảm 0,3% xuống 657 tệ/tấn. Tồn kho quặng tại 35 cảng Trung Quốc ngày 20/11 là 153,75 triệu tấn, tăng 1,63 triệu tấn.",
+      "why_it_matters": "Giá thép nội địa ổn định trong khi tồn kho quặng TQ tăng — thời điểm có thể đàm phán khóa giá thép cho quý I/2027, nhưng cần đối chiếu báo giá trực tiếp nhà máy.",
+      "tags": [
+        "giá thép",
+        "Hòa Phát",
+        "quặng sắt",
+        "SHFE"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "bảng giá tổng hợp",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "note": "Bảng giá tổng hợp từ SteelOnline.vn; giá CB240 cao hơn D10 CB300 của cùng hãng như trong bài — chưa đối chiếu được nguồn thứ hai.",
+      "id": "n-20261125-17-gia-thep-23-11",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "Supply Chain Roundtable: ‘Turkeys Away’ and Other Assumptions to Question",
+      "title_vi": "ISM: giao hàng từ nhà cung cấp chậm lại 11 tháng liên tiếp, thời gian chờ và đơn tồn đọng tăng — các chuyên gia khuyên xét lại giả định cuối năm",
+      "source": {
+        "name": "Institute for Supply Management (Inside Supply Management)",
+        "kind": "hiệp hội nghề nghiệp"
+      },
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/news-publications/inside-supply-management-magazine/blog/2026/2026-11/supply-chain-roundtable-turkeys-away-and-other-assumptions-to-question/",
+      "published": "2026-11-17",
+      "time_known": false,
+      "date_basis": "dòng ngày dưới tên tác giả, không ghi giờ",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Bàn tròn chuyên gia của ISM dẫn báo cáo PMI sản xuất tháng 10: chỉ số giao hàng của nhà cung cấp chậm lại 11 tháng liên tiếp. Các thành viên cho rằng tồn kho phía khách hàng vẫn bị coi là quá thấp, giá vẫn ở mức cao, còn đơn tồn đọng và thời gian chờ của nhà cung cấp đã tăng. Bài khuyên người làm mua sắm đừng mặc định thị trường sẽ ‘nghỉ’ dịp cuối năm.",
+      "why_it_matters": "Thời gian chờ hàng nhập từ Mỹ/EU (thiết bị cơ điện, phụ tùng) có thể kéo dài qua Tết — nên đặt hàng sớm và theo dõi cam kết giao của nhà cung cấp.",
+      "tags": [
+        "ISM",
+        "PMI",
+        "thời gian chờ",
+        "mua sắm"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "ý kiến",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "older_than_7d": true,
+      "older_note": "Đăng 17/11 (8 ngày); giữ vì nhận định về thời gian chờ nhà cung cấp còn nguyên giá trị cho kế hoạch mua sắm cuối năm.",
+      "id": "n-20261125-18-ism-roundtable",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "Nhà phố hạ giá tiền tỷ, khách mua vẫn chưa xuống tiền",
+      "title_vi": "TP.HCM: nhà phố giảm giá hàng tỷ đồng vẫn khó bán; Savills ghi tỷ lệ hấp thụ nhà phố, biệt thự quý III chỉ 14%",
+      "source": {
+        "name": "Tri Thức – Znews",
+        "kind": "báo Việt Nam"
+      },
+      "url": "https://znews.vn/nha-pho-ha-gia-tien-ty-khach-mua-van-chua-xuong-tien-post1698661.html",
+      "published": "2026-11-24T16:00:41+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Nhiều nhà phố mặt tiền ở TP.HCM giảm giá mạnh: một căn đường Trần Khắc Chân 48,6 m² hạ từ 25 tỷ xuống 21,5 tỷ đồng, căn ở Ngô Văn Năm còn khoảng 500 triệu đồng/m² so với 700 triệu trước đây. Savills ghi nhận khoảng 3.600 căn nhà phố, biệt thự mới trong quý III, hơn 50% dưới 10 tỷ đồng, tỷ lệ hấp thụ 14%. Avison Young nêu lãi vay mua nhà 12–15%/năm trong khi lợi suất cho thuê chỉ 2–3%/năm.",
+      "why_it_matters": "Thanh khoản thấp ở phân khúc thấp tầng cho thấy chủ đầu tư sẽ ưu tiên dòng tiền — áp lực giảm chi phí xây dựng và giãn tiến độ mua sắm có thể tăng.",
+      "tags": [
+        "nhà phố",
+        "TP.HCM",
+        "Savills",
+        "thanh khoản"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "id": "n-20261125-19-znews-nha-pho-ha-gia",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "Địa ốc 24H: Xem xét thay chủ đầu tư cải tạo nhà cũ chậm tiến độ ; Hà Nội đấu giá khu đất từng quy hoạch Hello Kitty",
+      "title_vi": "Hà Nội xem xét thay chủ đầu tư cải tạo khu tập thể Nguyễn Công Trứ chậm tiến độ; đấu giá khu đất từng quy hoạch công viên Hello Kitty",
+      "source": {
+        "name": "Báo điện tử Tiền Phong",
+        "kind": "báo Việt Nam"
+      },
+      "url": "https://tienphong.vn/dia-oc-24h-xem-xet-thay-chu-dau-tu-cai-tao-nha-cu-cham-tien-do-ha-noi-dau-gia-khu-dat-tung-quy-hoach-hello-kitty-post1897008.tpo",
+      "published": "2026-11-24T10:00:40+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Bản tin địa ốc ngày 24/11 cho biết Hà Nội đang xem xét thay chủ đầu tư dự án cải tạo khu tập thể Nguyễn Công Trứ do chậm tiến độ. Thành phố cũng đưa ra đấu giá khu đất trước đây được quy hoạch làm công viên Hello Kitty.",
+      "why_it_matters": "Thay chủ đầu tư các dự án cải tạo chung cư cũ có thể mở lại gói thầu thi công — đáng theo dõi với nhà thầu và nhà cung cấp tại Hà Nội.",
+      "tags": [
+        "Hà Nội",
+        "chung cư cũ",
+        "đấu giá đất"
+      ],
+      "verification": "chỉ đọc đoạn trích",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang nhưng chỉ đọc được đoạn mở đầu và tiêu đề các tin; không đọc thân từng tin",
+      "id": "n-20261125-20-tienphong-dia-oc-24h",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "Bản tin Nhà đất và đầu tư | 24/11/2026",
+      "title_vi": "Bản tin nhà đất Hà Nội 24/11: 1.458 căn hộ CT6 Kiến Hưng được tồn tại có điều kiện; quyền của chủ căn hộ khi chung cư hết niên hạn",
+      "source": {
+        "name": "Hà Nội Online (Đài PT-TH Hà Nội)",
+        "kind": "báo Việt Nam"
+      },
+      "url": "https://hanoionline.vn/ban-tin-nha-dat-va-dau-tu-24-11-2026-246261124132212523.htm",
+      "published": "2026-11-24T17:30:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Bản tin truyền hình ngày 24/11 nêu 1.458 căn hộ tại CT6 Kiến Hưng được cho tồn tại có điều kiện. Bản tin cũng bàn về quy hoạch không gian xanh như một xu hướng thị trường và quyền của chủ căn hộ khi chung cư hết niên hạn sử dụng.",
+      "why_it_matters": "Xử lý công trình vi phạm theo hướng ‘tồn tại có điều kiện’ thường kèm yêu cầu cải tạo, bổ sung hạ tầng — có thể phát sinh gói thầu sửa chữa.",
+      "tags": [
+        "Hà Nội",
+        "CT6 Kiến Hưng",
+        "chung cư"
+      ],
+      "verification": "chỉ đọc đoạn trích",
+      "source_type": "tin độc lập",
+      "how_read": "chỉ đọc đoạn tóm tắt chữ của bản tin; không xem được video",
+      "id": "n-20261125-21-hanoionline-ct6-kien-hung",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "title_vi": "Maple gọi 5,3 triệu USD làm sản phẩm AI bảo vệ dữ liệu người dùng, kể cả với chính nhà cung cấp",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "published": "2026-11-24T21:19:52+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "Startup Maple huy động 5,3 triệu USD vòng hạt giống do EPIC Ventures dẫn đầu, cùng Draper Associates, Planetary VC và Epoch VC. Gói Pro giá 20 USD/tháng, Max 100 USD/tháng, Max Plus 200 USD/tháng; hãng không công bố số khách nhưng nói đã tăng 60 lần trong ba tháng. Đội ngũ bốn người, đang làm chứng nhận SOC 2 và dự định thí điểm doanh nghiệp năm sau.",
+      "why_it_matters": "Nhu cầu dùng AI với dữ liệu nhạy cảm (hồ sơ thầu, giá nhà cung cấp) đang tạo ra dòng sản phẩm ‘AI riêng tư’ — đáng cân nhắc khi chọn công cụ AI cho phòng mua sắm.",
+      "tags": [
+        "Maple",
+        "quyền riêng tư",
+        "gọi vốn",
+        "AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "note": "Mức tăng trưởng do hãng tự nêu.",
+      "id": "n-20261125-22-maple-5-3-trieu-usd",
+      "accessed": "2026-11-25"
+    },
+    {
+      "title": "AI进厂：先替工厂算“细账”，再替工人干“细活”",
+      "title_vi": "AI vào nhà máy Trung Quốc: tính bù hàn tàu 2,4 vạn TEU từ 6.500 giờ còn 60 giờ; mô hình lớn ngành thép giảm 12% năng lượng",
+      "source": {
+        "name": "科技日报",
+        "kind": "báo Trung Quốc"
+      },
+      "url": "https://www.stdaily.com/web/gdxw/2026-11/24/content_618521.html",
+      "published": "2026-11-24T21:15:42+08:00",
+      "time_known": true,
+      "date_basis": "dòng ngày giờ trên trang (giờ Bắc Kinh)",
+      "topic": "cong_nghe",
+      "region": "CN",
+      "summary_vi": "Phóng sự từ Hội chợ Sản xuất Thông minh Thế giới lần thứ 11 khai mạc ngày 19/11 tại Nam Kinh với hơn 600 đơn vị trưng bày. Nhà máy đóng tàu 南通中远海运川崎 rút thời gian tính bù hàn cho tàu container 2,4 vạn TEU từ 6.500 giờ xuống 60 giờ; mô hình lớn ngành thép của 南京钢铁 dự báo xu hướng nhiệt độ lò chính xác trên 90% trước hai giờ, năng lượng tiêu hao trên đơn vị sản phẩm giảm 12%.",
+      "why_it_matters": "Nhà máy thép, đóng tàu TQ dùng AI để giảm chi phí năng lượng và nhân công — có thể ảnh hưởng mặt bằng giá thép, kết cấu nhập khẩu trong trung hạn.",
+      "tags": [
+        "sản xuất thông minh",
+        "thép",
+        "Trung Quốc",
+        "mô hình lớn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "note": "Một số con số do doanh nghiệp cung cấp.",
+      "id": "n-20261125-23-stdaily-ai-vao-nha-may",
+      "accessed": "2026-11-25"
+    }
+  ],
+  "unreachable": [
+    {
+      "source": "Google Trends RSS (VN/KR/JP/US), Baidu 热搜, Yahoo! JAPAN リアルタイム検索",
+      "status": "PROVENANCE_REQUIRED — yêu cầu cấp quyền không được trả lời (chạy tự động)",
+      "impact": "Không có bảng từ khóa realtime hôm nay (xem tab Từ khóa)."
+    },
+    {
+      "source": "cnbc.com (Megaspeed, AWS APAC ROI, China Connection), semafor.com, ktvz.com, dig.watch",
+      "status": "client_error / robots.txt chặn",
+      "impact": "Dùng Al Jazeera, Fortune, UPI (qua Yahoo) thay thế cho cùng sự kiện."
+    },
+    {
+      "source": "oag.state.va.us (thông cáo Tổng chưởng lý Virginia)",
+      "status": "Proxy từ chối: URL vượt độ dài tối đa",
+      "impact": "Tin Grok dựa trên bản tin UPI."
+    },
+    {
+      "source": "bbc.com, techcrunch.com (AI Mode), deepmind.google, aws.amazon.com, openai.com, huggingface.co, semafor.com (NHS EDITH) — link lấy từ trong trang tổng hợp",
+      "status": "PROVENANCE_REQUIRED",
+      "impact": "Bỏ các tin: Google AI Mode nối Drive/Wallet, Bedrock Trusted Access API, OpenAI–Cisco Shirudo, Ant LingSante; tin NHS EDITH trên gov.uk hóa ra là thông cáo 2/2025 nên không dùng."
+    },
+    {
+      "source": "bitdoze.com, japantimes.co.jp",
+      "status": "client_error",
+      "impact": "Không đọc được."
+    },
+    {
+      "source": "xtrend.nikkei.com, news.yahoo.co.jp",
+      "status": "robots.txt chặn",
+      "impact": "Không dùng xếp hạng Nikkei Trendy/若者ヒット大賞."
+    },
+    {
+      "source": "estate.caijing.com.cn",
+      "status": "ROBOTS_UNREACHABLE",
+      "impact": "Dùng 新华网/投资界/东方财富 cho tin mùa tuyết TQ."
+    },
+    {
+      "source": "greenworldwide.com (Freight Market Update tuần 47)",
+      "status": "Chỉ đọc được khoảng 40% trang",
+      "impact": "Không đưa tin cước container hôm nay; các trang giá thép cũ (2024) và gCaptain (2025) bị loại vì sai năm."
+    },
+    {
+      "source": "WebSearch/WebFetch — giới hạn lượt và thời gian",
+      "status": "Đọc qua tác tử, một số trang chậm",
+      "impact": "Chưa tìm được tin AI–xây dựng của Việt Nam trong 7 ngày (các sự kiện BIM, chuỗi sự kiện KHCN của Bộ Xây dựng đã đăng 20 và 24/11)."
+    }
+  ]
+}

@@ -1,0 +1,2204 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T07:30:00+07:00",
+  "headline": "TQ mở mùa tuyết sớm — khách miền Nam chiếm 55–70% đơn; Hàn: người trẻ ‘nằm nghỉ’ và xông hơi thay đi nhậu, săn đồ rẻ ở chợ Namdaemun; Nhật: DIY ‘không tốn tiền’; Mỹ: creator nhỏ thắng mùa Black Friday — 8 ý tưởng",
+  "summary": "Trung Quốc: tìm kiếm trượt tuyết trên 美团 +125%, đặt phòng gần khu trượt tuyết +217%, khách từ các tỉnh phía Nam chiếm phần lớn đơn đặt sớm; ‘mua quần áo ở siêu thị’ có thêm số liệu (Costco 9,7 tỷ USD, giá vốn công khai của 胖东来). Hàn: pop-up chỉ để nằm, melatonin trên Olive Young +810%, chi tiêu xông hơi của người 20–30 tuổi +36%, giao dịch của nhóm này ở chợ Namdaemun gấp 14,8 lần. Nhật: Gen Z tự làm rosette, hộp mỹ phẩm mini. Mỹ: creator khoảng 15.000 người theo dõi đạt tương tác gấp 46 lần mùa Black Friday. Chip: Mỹ đưa Megaspeed và sáu công ty ĐNA vào danh sách đen, TSMC +9,9%. Bảng từ khóa realtime vẫn không truy cập được — mục Từ khóa dùng số liệu nền tảng/khảo sát do báo dẫn lại.",
+  "trends": [
+    {
+      "id": "20261125-t1-mua-tuyet-nguoi-phuong-nam",
+      "regions": [
+        "CN"
+      ],
+      "title": "TQ: mùa tuyết 2026–2027 mở bán sớm — khách miền Nam chiếm 55–70% đơn, gia đình và người lần đầu đi tuyết tăng, trượt tuyết trong nhà +31%",
+      "summary": "经济观察报 (16/11) và 经济参考报 (17/11): tìm kiếm ‘trượt tuyết’ trên 美团 tăng 125% so với cùng kỳ (tính đến 28/10), đặt phòng gần khu trượt tuyết cho mùa 11/2026–3/2027 tăng 217%; vé máy bay tháng 11 đi Trương Gia Khẩu tăng hơn 270%. Khách từ các tỉnh phía Nam chiếm khoảng 55% đơn phòng khu trượt tuyết (năm trước 44%), 途牛 nói hơn 70% đơn đặt sớm. 同程 (11/11): lượt chơi trượt tuyết trong nhà 1–10/2026 tăng 31%, gia đình dự kiến chiếm 45% khách.",
+      "why_it_matters": "Người ở xứ nóng đi tuyết lần đầu cần đồ giữ ấm, hướng dẫn và lịch trình ngắn — đúng nhóm khách Việt đi Cáp Nhĩ Tân, Hàn, Nhật mùa đông; đồ chỉ dùng vài ngày/năm hợp để cho thuê hơn là mua.",
+      "tags": [
+        "du lịch tuyết",
+        "mùa đông",
+        "khách lần đầu",
+        "gia đình",
+        "cho thuê đồ"
+      ],
+      "key_facts": [
+        {
+          "text": "美团: tìm kiếm ‘滑雪’ tăng 125% so với cùng kỳ (tính đến 28/10); đặt phòng trong bán kính 5 km quanh khu trượt tuyết cho kỳ lưu trú 11/2026–3/2027 tăng 217%.",
+          "source_ids": [
+            "snow_eeo"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu nền tảng 美团."
+        },
+        {
+          "text": "航旅纵横: vé máy bay tháng 11 đi Trương Gia Khẩu tăng hơn 270%, đi Altay khoảng 50% so với cùng kỳ.",
+          "source_ids": [
+            "snow_xh"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Khách miền Nam: khoảng 55% đơn phòng khu trượt tuyết tháng 11–12 đến từ thành phố phía Nam (năm trước 44%) theo 美团; 途牛 nói hơn 70% đơn đặt sớm; 同程 nói khoảng 60% khách đi Đông Bắc đến từ các tỉnh phía Nam.",
+          "source_ids": [
+            "snow_eeo",
+            "snow_xh",
+            "snow_cs"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "美团 và 途牛/同程 là các nền tảng khác nhau; con số 60% của 同程 xuất hiện ở hai bài nhưng cùng một nguồn gốc."
+        },
+        {
+          "text": "同程: lượt trượt tuyết trong nhà 1–10/2026 tăng 31%; gia đình dự kiến chiếm 45% khách mùa mới; hơn 60% mua vé máy bay trong vòng 7 ngày trước khi đi, trung bình 1,4 đêm/người.",
+          "source_ids": [
+            "snow_cs"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Giá ví dụ: vé trượt tuyết ‘một, hai trăm tệ’, thuê huấn luyện viên 300–400 tệ/giờ; một sân trượt trong nhà ở 正定 bán gói học kiểu ‘vượt ải’ 99 tệ, hơn 2.700 vé trong 2 ngày.",
+          "source_ids": [
+            "snow_eeo"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Giá vé/giờ học là ước tính của người được phỏng vấn; số vé do nhà vận hành nêu."
+        }
+      ],
+      "sources": [
+        {
+          "name": "投资界 (đăng lại 经济观察报)",
+          "title": "还没到冬天，他们已经开始「抢雪」了",
+          "url": "https://news.pedaily.cn/202611/571898.shtml",
+          "published": "2026-11-16",
+          "note": "Số liệu của 美团 và 同程研究院; giá vé/giờ học là ước tính của người được phỏng vấn.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "snow_eeo"
+        },
+        {
+          "name": "新华网 (đăng lại 经济参考报)",
+          "title": "新雪季“开板” 冰雪消费供需两旺",
+          "url": "https://www.news.cn/travel/20261117/0f3bd47cbdb7440cba9ed95e27bbb7b4/c.html",
+          "published": "2026-11-17",
+          "note": "Số liệu do nền tảng (航旅纵横, 去哪儿, 途牛, 同程) và báo cáo ngành cung cấp.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "snow_xh"
+        },
+        {
+          "name": "东方财富网 (đăng lại 中国证券报)",
+          "title": "2026—2027冰雪旅游消费季开启：亲子研学游预计增30%，哈尔滨过夜客流居首",
+          "url": "https://finance.eastmoney.com/a/202611113928257242.html",
+          "published": "2026-11-11",
+          "note": "Toàn bộ là số liệu/dự báo của 同程研究院; trùng nguồn gốc với một phần bài 新华网.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "snow_cs"
+        }
+      ]
+    },
+    {
+      "id": "20261125-t2-sieu-thi-ban-ao-ro-rang",
+      "regions": [
+        "CN",
+        "US"
+      ],
+      "title": "TQ (diễn biến mới): ‘mua quần áo ở siêu thị’ — người trẻ trả tiền cho sự ‘rõ ràng’: giá vốn, lượng lông, tất 4 đôi 19,99 tệ",
+      "summary": "Tiếp nối tin 19/11 về áo phao siêu thị: 新京报 (20/11) dẫn GlobalData — doanh số quần áo của Costco từ 7,0 tỷ USD (FY2019) lên 9,7 tỷ USD (FY2025); 胖东来 công khai áo phao giá vốn 184 tệ, bán 256 tệ (biên 28%). Walmart bán 4 đôi tất cotton 19,99 tệ, Aldi mũ lưỡi trai 29,9 tệ. 21世纪经济报道 (24/11): khu quần áo ở Walmart, Sam’s, Costco đông người trẻ; áo thun 19,9 tệ, quần mặc nhà 39,9 tệ, áo phao 139 tệ.",
+      "why_it_matters": "Cho thấy người trẻ TQ chán trả tiền cho nhãn hiệu, sẵn lòng mua đồ cơ bản khi thông tin chất liệu và giá rõ ràng. Ở VN, các ý tưởng ‘tem giá minh bạch’ đã đăng ngày 19/11 — hôm nay chỉ ghi nhận diễn biến, không sinh ý tưởng trùng.",
+      "tags": [
+        "quần áo cơ bản",
+        "siêu thị",
+        "minh bạch giá",
+        "tiêu dùng lý trí"
+      ],
+      "key_facts": [
+        {
+          "text": "GlobalData (qua 新京报): doanh số quần áo Costco từ 7,0 tỷ USD (FY2019) lên 9,7 tỷ USD (FY2025), tăng gần 40%.",
+          "source_ids": [
+            "cloth_bj"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "胖东来: áo phao giá vốn 184 tệ, giá bán 256 tệ, biên gộp 28%; tỷ lệ trả hàng dưới 2% so với 7–10% trung bình ngành (số liệu một doanh nghiệp).",
+          "source_ids": [
+            "cloth_bj"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Giá ví dụ ở siêu thị: áo thun cotton 19,9 tệ, quần mặc nhà 39,9 tệ, áo phao 139 tệ (21世纪); Walmart 4 đôi tất 19,99 tệ, Aldi mũ 29,9 tệ (新京报).",
+          "source_ids": [
+            "cloth_21",
+            "cloth_bj"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Hai bài nêu các ví dụ giá khác nhau; xu hướng chung được cả hai ghi nhận."
+        }
+      ],
+      "sources": [
+        {
+          "name": "东方财富网 (đăng lại 新京报)",
+          "title": "小螺号｜超市服装热下，年轻人更愿意为“明白”买单了",
+          "url": "https://finance.eastmoney.com/a/202611203936194787.html",
+          "published": "2026-11-20",
+          "note": "Doanh số Costco theo GlobalData; giá vốn–giá bán của 胖东来 là số liệu công khai của doanh nghiệp, báo dẫn lại.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "cloth_bj"
+        },
+        {
+          "name": "21世纪经济报道",
+          "title": "年轻人为啥开始热衷超市买衣服？",
+          "url": "https://www.21jingji.com/article/20261124/herald/a8d3b6f68408915abda7400ebb7916f1.html",
+          "published": "2026-11-24",
+          "note": "Bài bình luận; giá ví dụ dẫn từ tài khoản 深氪新消费, không có số liệu khảo sát.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "cloth_21"
+        }
+      ]
+    },
+    {
+      "id": "20261125-t3-han-ngu-va-xong-thay-nhau",
+      "regions": [
+        "KR"
+      ],
+      "title": "Hàn: ‘nằm là cách đi chơi mới’ — pop-up nằm 3.000 gối, melatonin trên Olive Young +810%; người 20–30 tuổi chi cho xông hơi +36%, ít đi nhậu khuya",
+      "summary": "Korea Herald (16/11): các sự kiện chỉ để nằm nghỉ (pop-up ‘Ceiling Service’ ở Hannam-dong khoảng 3.000 chiếc gối, ‘hòa nhạc ngủ’ gần 100 người); CJ Olive Young: doanh số sản phẩm liên quan melatonin 9 tháng tăng 810%, phụ kiện ngủ +25%; dữ liệu app Asleep (hơn 370.000 người): ngủ trung bình 5 giờ 25 phút/đêm. JoongAng (12/11, dữ liệu Samsung Card): chi tiêu xông hơi của người 20–30 tuổi ở Seoul–Gyeonggi tháng 9 tăng 36% so với cùng kỳ; số giao dịch nhà hàng–quán nhậu 22h–3h mỗi người giảm từ 7,2 xuống 6,4.",
+      "why_it_matters": "Nghỉ ngơi, ngủ và ‘thư giãn không cồn’ đang thành thứ người trẻ Hàn sẵn sàng trả tiền và đi cùng bạn bè. Ở VN, dân văn phòng thiếu chỗ nghỉ trưa và có thói quen xông lá — có thể đóng gói thành dịch vụ nhóm.",
+      "tags": [
+        "giấc ngủ",
+        "nghỉ trưa",
+        "xông hơi",
+        "không cồn",
+        "sức khỏe"
+      ],
+      "key_facts": [
+        {
+          "text": "CJ Olive Young: sản phẩm liên quan melatonin 9 tháng đầu năm tăng 810% so với cùng kỳ, theanine +368%, phụ kiện ngủ +25%.",
+          "source_ids": [
+            "sleep_kh"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu doanh nghiệp; không dùng để khuyến khích bán thực phẩm chức năng."
+        },
+        {
+          "text": "Pop-up ‘Ceiling Service’ (21–25/10, Hannam-dong) có khoảng 3.000 chiếc gối; ‘hòa nhạc ngủ’ ngày 21/5 thu hút gần 100 người.",
+          "source_ids": [
+            "sleep_kh"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "App Asleep (hơn 370.000 người dùng, 1/2024–12/2025): ngủ trung bình 5 giờ 25 phút/đêm, 56,2% thuộc nhóm ‘cú đêm’.",
+          "source_ids": [
+            "sleep_kh"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Samsung Card: chi tiêu xông hơi của khách 20–30 tuổi ở Seoul–Gyeonggi tháng 9 tăng 36% so với cùng kỳ; giao dịch tắm enzyme/cứu ngải gấp 2,6 lần so với tháng 1/2025; giao dịch quán ăn–nhậu 22h–3h mỗi người giảm từ 7,2 (1–9/2023) xuống 6,4 (1–9/2026).",
+          "source_ids": [
+            "sauna_ja"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hai báo độc lập cùng mô tả người trẻ Hàn chuyển chi tiêu sang nghỉ ngơi/sức khỏe (ngủ, xông hơi) thay vì tiệc khuya.",
+          "source_ids": [
+            "sleep_kh",
+            "sauna_ja"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Đây là nhận định chung của hai bài; số liệu cụ thể mỗi bài chỉ có một nguồn."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Korea Herald",
+          "title": "Lying down is the new hanging out",
+          "url": "https://www.koreaherald.com/article/10938629",
+          "published": "2026-11-16",
+          "note": "Số liệu bán hàng của CJ Olive Young và dữ liệu ứng dụng Asleep do doanh nghiệp cung cấp.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "sleep_kh"
+        },
+        {
+          "name": "Korea JoongAng Daily",
+          "title": "Off the sauce, in the sauna: Young Koreans shift spending toward well-being, health",
+          "url": "https://www.koreajoongangdaily.com/business/off-the-sauce-in-the-sauna-young-koreans-shift-spending-toward-wellbeing-health/12958809",
+          "published": "2026-11-12",
+          "note": "Toàn bộ số liệu là dữ liệu giao dịch thẻ Samsung Card; bài dịch bằng AI rồi biên tập.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "sauna_ja"
+        }
+      ]
+    },
+    {
+      "id": "20261125-t4-han-cho-namdaemun-nguoi-tre",
+      "regions": [
+        "KR"
+      ],
+      "title": "Hàn: người trẻ đổ về chợ Namdaemun — nhẫn ngọc 3.000 won, hoa 4.000–5.000 won/bó; giao dịch của khách 20–30 tuổi ở sạp đồ gia dụng gấp 14,8 lần",
+      "summary": "Korea Times (18/11): người trẻ đến Namdaemun mua bát đĩa, nhẫn ngọc giá từ 3.000 won, hoa theo mùa 4.000–5.000 won một bó ở chợ hoa tầng 3 tòa E; gói hoa 4.000–10.000 won; sạp đóng cửa khoảng 15–16h, nên mang tiền mặt hoặc chuyển khoản. JoongAng (12/11, Samsung Card): số lần mua của khách 20–30 tuổi tại các sạp đồ gia dụng Namdaemun tháng 9 gấp 14,8 lần so với tháng 1 năm ngoái, số tiền gấp 4,8 lần.",
+      "why_it_matters": "Chợ truyền thống trở thành ‘điểm săn đồ rẻ’ của người trẻ nhờ mạng xã hội — Hà Nội, TP.HCM có chợ Đồng Xuân, chợ hoa, chợ Bình Tây; cần người ‘dịch’ chợ cho người trẻ (đi giờ nào, mua gì, giá bao nhiêu).",
+      "tags": [
+        "chợ truyền thống",
+        "đồ rẻ",
+        "hoa",
+        "bát đĩa",
+        "đi chợ"
+      ],
+      "key_facts": [
+        {
+          "text": "Samsung Card: số lần mua của khách 20–30 tuổi ở sạp đồ gia dụng Namdaemun tháng 9 gấp 14,8 lần tháng 1 năm ngoái, số tiền gấp 4,8 lần.",
+          "source_ids": [
+            "sauna_ja"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Giá tại chợ: nhẫn ngọc từ 3.000 won; hoa theo mùa 4.000–5.000 won/bó; gói hoa 4.000–10.000 won; một khách chi 23.000 won cho hoa hồng.",
+          "source_ids": [
+            "ndm_kt"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hai báo độc lập (Korea Times, JoongAng) cùng ghi nhận người 20–30 tuổi là nhóm khách mới nổi ở Namdaemun.",
+          "source_ids": [
+            "ndm_kt",
+            "sauna_ja"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Korea Times",
+          "title": "From jade rings to flowers: What young Koreans are buying at Namdaemun",
+          "url": "https://www.koreatimes.co.kr/lifestyle/trends/20261118/from-jade-rings-to-flowers-what-young-koreans-are-buying-at-namdaemun",
+          "published": "2026-11-18",
+          "note": "Phóng sự tại chợ; giá do người bán/người mua nêu.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "ndm_kt"
+        },
+        {
+          "name": "Korea JoongAng Daily",
+          "title": "Off the sauce, in the sauna: Young Koreans shift spending toward well-being, health",
+          "url": "https://www.koreajoongangdaily.com/business/off-the-sauce-in-the-sauna-young-koreans-shift-spending-toward-wellbeing-health/12958809",
+          "published": "2026-11-12",
+          "note": "Toàn bộ số liệu là dữ liệu giao dịch thẻ Samsung Card; bài dịch bằng AI rồi biên tập.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "sauna_ja"
+        }
+      ]
+    },
+    {
+      "id": "20261125-t5-nhat-tu-the-hien-khong-ton-tien",
+      "regions": [
+        "JP"
+      ],
+      "title": "Nhật: ‘tự thể hiện mà không tốn tiền’ — Gen Z thích hộp mỹ phẩm mini tự làm từ gương tiệm 100 yên, tự làm nơ rosette, ốp tai nghe DIY; ‘squeeze’ đứng đầu mục trải nghiệm",
+      "summary": "Sucle (FinT, 24/11) xếp 235 bài Instagram năm 2026 theo lượt thích: top có cốc nơ của Flying Tiger, hộp mỹ phẩm mini tự làm từ gương Seria, ‘cách làm rosette’ (#8), ốp tai nghe DIY đang hot ở nước ngoài (#12); từ khóa năm là ‘自己表現 không tốn tiền’. SHIBUYA109 lab. (khảo sát 676 nữ 15–24 tuổi, công bố 10/11): mục trải nghiệm #1 ‘スクイーズ’ (đồ bóp), #2 giá đỡ điện thoại hút chân không.",
+      "why_it_matters": "Người trẻ muốn đồ ‘mang dấu ấn riêng’ nhưng rẻ và tự tay làm — hợp với fandom K-pop/V-pop ở VN và kênh TikTok Shop; tránh trùng ý tưởng ‘miếng hít gương’ đã đăng 11/11.",
+      "tags": [
+        "DIY",
+        "Gen Z",
+        "fandom",
+        "đồ tự làm",
+        "tiệm 100 yên"
+      ],
+      "key_facts": [
+        {
+          "text": "Sucle (235 bài, 1/1–26/10/2026, không tính bài hợp tác): top 5 theo lượt thích gồm cốc nơ Flying Tiger, Lễ hội dâu Yokohama, hộp mỹ phẩm mini tự làm từ gương Seria, đồ Sanrio của HIPPERS, đồ ăn uống ở thủy cung; ‘cách làm rosette’ hạng 8, ‘ốp tai nghe DIY’ hạng 12.",
+          "source_ids": [
+            "sucle"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Thông cáo doanh nghiệp, đo trên tài khoản của chính họ."
+        },
+        {
+          "text": "SHIBUYA109 lab. (676 nữ 15–24 tuổi): mục trải nghiệm #1 スクイーズ, #2 giá đỡ điện thoại hút chân không, #3 đi bộ một vòng tuyến Yamanote.",
+          "source_ids": [
+            "s109"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hai nguồn khác nhau (Sucle, SHIBUYA109 lab.) cùng cho thấy đồ tự làm/đồ nhỏ giá rẻ là trào lưu Gen Z Nhật 2026.",
+          "source_ids": [
+            "sucle",
+            "s109"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "name": "PR TIMES (thông cáo 株式会社FinT)",
+          "title": "総フォロワー100万人のSucleが実データから読み解く『2026年若年層トレンド』を発表、キーワードは“お金をかけない自己表現”",
+          "url": "https://prtimes.jp/main/html/rd/p/000000186.000044523.html",
+          "published": "2026-11-24",
+          "note": "Thông cáo doanh nghiệp; xếp hạng theo lượt thích 235 bài Instagram của chính tài khoản Sucle (1/1–26/10/2026), không phải khảo sát.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "sucle"
+        },
+        {
+          "name": "ワカモノリサーチ (dẫn SHIBUYA109 lab.)",
+          "title": "令和のZ世代が選んだ2026年のトレンド大賞！M!LK、ドバイチョコもち、スクイーズが１位に！若者の流行は「ドパ」と「セロ」！？",
+          "url": "https://wakamono-research.co.jp/media/2026-trend-awards/",
+          "published": "2026-11-12",
+          "note": "Khảo sát 676 nữ 15–24 tuổi của SHIBUYA109 lab., công bố 10/11.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "s109"
+        }
+      ]
+    },
+    {
+      "id": "20261125-t6-my-black-friday-nha-sang-tao-nho",
+      "regions": [
+        "US"
+      ],
+      "title": "Mỹ: Black Friday 2026 — creator nhỏ (~15.000 người theo dõi) có bài tương tác gấp 46 lần; TikTok Shop được nhắc nhiều hơn Amazon; ‘có nên chờ?’ là băn khoăn số 1",
+      "summary": "Meltwater (12/11, hơn 750.000 bài tiếng Anh ở Mỹ, 7/10–7/11): TikTok Shop xuất hiện trong 2,7% bài, Amazon 2,3%; một creator khoảng 15.000 người theo dõi hợp tác với hãng máy in 3D đạt khoảng 109.100 tương tác, gấp 46 lần bình thường; câu hỏi ‘có nên chờ giá tốt hơn?’ đứng đầu băn khoăn. TechRadar (23/11, dẫn Salesforce): 23% lưu lượng thương mại điện tử đến từ các nền tảng như TikTok, Instagram; doanh số Black Friday trực tuyến toàn cầu dự báo 357 tỷ USD.",
+      "why_it_matters": "Ngân sách quảng cáo nhỏ có thể hiệu quả hơn khi đi qua creator nhỏ đúng ngách; ở VN mùa 12.12 và Tết là lúc shop nhỏ cần cách làm này. Phần AI mua sắm đã đăng ngày 24/11.",
+      "tags": [
+        "Black Friday",
+        "creator nhỏ",
+        "TikTok Shop",
+        "mạng xã hội",
+        "Mỹ"
+      ],
+      "key_facts": [
+        {
+          "text": "Meltwater: TikTok Shop có mặt trong 2,7% bài phân tích, Amazon 2,3%; thời trang–giày 6,7%, điện tử 5,5%.",
+          "source_ids": [
+            "melt"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Dữ liệu lắng nghe mạng xã hội của Meltwater."
+        },
+        {
+          "text": "Meltwater: một creator khoảng 15.000 người theo dõi đạt khoảng 109.100 tương tác so với khoảng 2.400 thường lệ (gấp 46 lần).",
+          "source_ids": [
+            "melt"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Salesforce (qua TechRadar): 23% lưu lượng thương mại điện tử đến từ các nền tảng như TikTok, Instagram; 16% định mua ngay trong ứng dụng.",
+          "source_ids": [
+            "trad"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hai nguồn khác nhau (Meltwater, Salesforce qua TechRadar) cùng cho thấy mạng xã hội là kênh mua sắm lớn mùa Black Friday 2026.",
+          "source_ids": [
+            "melt",
+            "trad"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Meltwater (blog)",
+          "title": "Black Friday 2026: Big deals, small creators, and the “should I wait?” dilemma",
+          "url": "https://www.meltwater.com/en/blog/black-friday-build-up-2026",
+          "published": "2026-11-12",
+          "note": "Lắng nghe mạng xã hội của chính Meltwater: hơn 750.000 bài tiếng Anh ở Mỹ, 7/10–7/11/2026.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "melt"
+        },
+        {
+          "name": "TechRadar",
+          "title": "Black Friday 2026 could be the biggest shopping week ever seen — with AI agents playing a bigger role than ever",
+          "url": "https://www.techradar.com/pro/black-friday-2026-could-be-the-biggest-shopping-week-ever-seen-with-ai-agents-playing-a-bigger-role-than-ever",
+          "published": "2026-11-23",
+          "note": "Mọi con số là dự báo/dữ liệu của Salesforce do bài dẫn lại.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "trad"
+        }
+      ]
+    },
+    {
+      "id": "20261125-t7-chip-dong-nam-a-sau-megaspeed",
+      "regions": [
+        "US",
+        "SEA",
+        "KR",
+        "JP"
+      ],
+      "title": "Mỹ–ĐNA: Mỹ đưa Megaspeed và 6 công ty ĐNA vào danh sách đen xuất khẩu; TSMC tăng 9,9% một phiên khi Jensen Huang trở lại; Nvidia khóa công suất đóng gói tới 2029",
+      "summary": "Al Jazeera (24/11): Bộ Thương mại Mỹ (BIS) đưa Megaspeed International và sáu công ty ở ĐNA vào Entity List; Malaysia nói PT Megaspeed International không phải pháp nhân Malaysia, Thủ tướng Singapore nói không muốn bị ‘lợi dụng’. Fortune (24/11): TSMC tăng 9,9% (mức trần), thêm 158 tỷ USD vốn hóa; KOSPI +6,2%, Nikkei +3,9% sau tuần TAIEX giảm 17,5%. Nvidia (17/11): Kinsus mở rộng công suất đế ABF hơn 3,5 lần, hợp đồng với Amkor gần 3 tỷ USD.",
+      "why_it_matters": "Chuỗi cung ứng chip AI đi qua ĐNA đang bị siết kiểm soát trong khi giá cổ phiếu dao động rất mạnh — một khung theo dõi giúp hiểu rủi ro cho các doanh nghiệp VN trong chuỗi linh kiện/điện tử. Không phải khuyến nghị đầu tư.",
+      "tags": [
+        "chip",
+        "kiểm soát xuất khẩu",
+        "Đông Nam Á",
+        "TSMC",
+        "Nvidia"
+      ],
+      "key_facts": [
+        {
+          "text": "BIS đưa Megaspeed International và sáu công ty ở ĐNA (MSFusion, PT Megaspeed International, Speedmatrix, Apex Enterprise Solutions, Swiftdata, Megaspeed (Thailand)) vào Entity List.",
+          "source_ids": [
+            "mega_aj",
+            "tsmc_f"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Fortune ghi BIS thêm bảy công ty, gồm Megaspeed."
+        },
+        {
+          "text": "TSMC tăng 9,9% (mức trần), thêm 5,2 nghìn tỷ Đài tệ (158 tỷ USD); KOSPI +6,2%, Nikkei +3,9%; tuần trước TAIEX giảm 17,5%, mạnh nhất kể từ 1991.",
+          "source_ids": [
+            "tsmc_f"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Al Jazeera ghi KOSPI +6,3%."
+        },
+        {
+          "text": "Nvidia: Kinsus mở rộng công suất đế ABF riêng cho Nvidia hơn 3,5 lần; các thỏa thuận đóng gói với Amkor (7 và 10/2026) gần 3 tỷ USD; SPIL nâng công suất đến giữa 2029.",
+          "source_ids": [
+            "nv_sc"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Thông cáo doanh nghiệp."
+        },
+        {
+          "text": "SK hynix: Mỹ chiếm 62,5% doanh thu theo vùng 9 tháng 2026; đầu tư hơn 4 tỷ USD vào nhà máy đóng gói HBM ở Indiana.",
+          "source_ids": [
+            "kh_chip"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "title": "US adds Megaspeed to trade blacklist as Nvidia’s Huang returns as CEO",
+          "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list",
+          "published": "2026-11-24",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "mega_aj"
+        },
+        {
+          "name": "Fortune",
+          "title": "TSMC gains $158 billion in value in one day as Jensen Huang returns as Nvidia CEO",
+          "url": "https://fortune.com/2026/11/24/tsmc-gains-158-billion-in-value-in-one-day-as-jensen-huang-returns-as-nvidia-ceo/",
+          "published": "2026-11-24",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "tsmc_f"
+        },
+        {
+          "name": "NVIDIA Newsroom (thông cáo)",
+          "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+          "published": "2026-11-17",
+          "note": "Thông cáo doanh nghiệp.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "nv_sc"
+        },
+        {
+          "name": "The Korea Herald",
+          "title": "Samsung, SK hynix, LG redraw playbooks for AI boom",
+          "url": "https://www.koreaherald.com/article/10946347",
+          "published": "2026-11-23",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "kh_chip"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "type": "startup",
+      "category": [
+        "content",
+        "service"
+      ],
+      "title": "“Đi chợ sỉ 2 tiếng” — tour đi bộ cuối tuần cho người trẻ qua chợ Đồng Xuân, chợ hoa, chợ Bình Tây: mua bát đĩa, hoa, phụ kiện giá sỉ, kèm bản đồ sạp và video ‘chợ này mua gì’",
+      "pitch": "Ở Hàn, người 20–30 tuổi đổ về chợ Namdaemun mua bát đĩa, nhẫn ngọc 3.000 won, hoa 4.000–5.000 won một bó; giao dịch của nhóm này ở sạp đồ gia dụng gấp 14,8 lần. Ở VN, chợ sỉ rất rẻ nhưng khó ‘đọc’ với người trẻ. Bán vé tour nhỏ 6–8 người + kênh video giới thiệu sạp.",
+      "tags": [
+        "chợ truyền thống",
+        "tour đi bộ",
+        "đồ rẻ",
+        "Hàn Quốc",
+        "video"
+      ],
+      "regions": [
+        "KR"
+      ],
+      "hypothesis_note": "Số liệu là của Hàn (Samsung Card, Korea Times). Ở VN đã có tour ẩm thực chợ và nhiều video ‘đi chợ sỉ’ — điểm mới lạ trung bình; khác biệt là tour mua sắm có lộ trình sạp và giờ đi. Chưa có số liệu người trẻ VN đi chợ sỉ.",
+      "confidence": "trung bình",
+      "image_alt": "Minh họa phẳng một lối đi trong chợ với sạp hoa cam, chồng bát đĩa teal và túi giấy, bản đồ nhỏ có đường đi chấm chấm",
+      "signal_text": "Hàn (12–18/11/2026): Samsung Card — số lần mua của khách 20–30 tuổi ở sạp đồ gia dụng Namdaemun tháng 9 gấp 14,8 lần tháng 1 năm ngoái, số tiền gấp 4,8 lần; Korea Times — nhẫn ngọc từ 3.000 won, hoa theo mùa 4.000–5.000 won/bó, gói hoa 4.000–10.000 won, sạp đóng cửa khoảng 15–16h.",
+      "vn_youth_fit": "Facebook, Zalo, YouTube là ba nền tảng phổ biến nhất (fact mxh-top) và TikTok có độ phủ lớn (fact ket-noi) — video ‘chợ này mua gì’ dễ lan; hơn một nửa Gen Z thích đồ ‘cảm giác cao cấp’ nếu giá hợp lý (fact xa-xi-vua-tui).",
+      "vn_fit_refs": [
+        "mxh-top",
+        "ket-noi",
+        "xa-xi-vua-tui"
+      ],
+      "key_facts": [
+        {
+          "text": "Samsung Card: số lần mua của khách 20–30 tuổi ở sạp đồ gia dụng Namdaemun tháng 9 gấp 14,8 lần tháng 1 năm ngoái, số tiền gấp 4,8 lần.",
+          "source_ids": [
+            "sauna_ja"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Giá tại chợ: nhẫn ngọc từ 3.000 won; hoa theo mùa 4.000–5.000 won/bó; gói hoa 4.000–10.000 won; một khách chi 23.000 won cho hoa hồng.",
+          "source_ids": [
+            "ndm_kt"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hai báo độc lập (Korea Times, JoongAng) cùng ghi nhận người 20–30 tuổi là nhóm khách mới nổi ở Namdaemun.",
+          "source_ids": [
+            "ndm_kt",
+            "sauna_ja"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Korea Times",
+          "title": "From jade rings to flowers: What young Koreans are buying at Namdaemun",
+          "url": "https://www.koreatimes.co.kr/lifestyle/trends/20261118/from-jade-rings-to-flowers-what-young-koreans-are-buying-at-namdaemun",
+          "published": "2026-11-18",
+          "note": "Phóng sự tại chợ; giá do người bán/người mua nêu.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "ndm_kt"
+        },
+        {
+          "name": "Korea JoongAng Daily",
+          "title": "Off the sauce, in the sauna: Young Koreans shift spending toward well-being, health",
+          "url": "https://www.koreajoongangdaily.com/business/off-the-sauce-in-the-sauna-young-koreans-shift-spending-toward-wellbeing-health/12958809",
+          "published": "2026-11-12",
+          "note": "Toàn bộ số liệu là dữ liệu giao dịch thẻ Samsung Card; bài dịch bằng AI rồi biên tập.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "sauna_ja"
+        }
+      ],
+      "localize_vn": "Giả thuyết: tour 2 tiếng sáng thứ Bảy/Chủ nhật, 6–8 người, một lộ trình 8–10 sạp (bát đĩa, hoa, vải, phụ kiện); vé gồm bản đồ sạp, mẹo mặc cả, túi vải; thu thêm hoa hồng giới thiệu từ sạp nếu sạp đồng ý. Song song kênh TikTok/YouTube ‘chợ này mua gì’.",
+      "first_steps": [
+        "Ngày 1: Đi khảo sát 1 chợ, chụp ảnh và ghi giá 15 sạp, xin phép quay.",
+        "Ngày 2: Claude dựng lộ trình, bản đồ sạp, mẹo đi chợ.",
+        "Ngày 3: Dựng 3 video ngắn bằng CapCut, bản đồ bằng Canva.",
+        "Ngày 4: Mở bán vé tour thử qua Zalo OA, nhận tiền qua VietQR.",
+        "Ngày 5–7: Chạy 1–2 tour thử; đo số vé bán, số tiền khách chi ở chợ, đánh giá sau tour."
+      ],
+      "capital": {
+        "vnd_min_m": 1,
+        "vnd_max_m": 5,
+        "usd_min": 38,
+        "usd_max": 192,
+        "note": "Ước tính của người soạn: in bản đồ, túi vải, nước uống, quảng cáo nhỏ; chủ yếu là thời gian."
+      },
+      "risks": [
+        "Sạp không muốn bị quay/đông người",
+        "An toàn, chen lấn, mất đồ trong chợ",
+        "Giá ở sạp thay đổi",
+        "Thời tiết mưa",
+        "Quy định quay phim/hướng dẫn du lịch [cần xác minh]"
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 5,
+        "novelty": 5,
+        "lowcap": 9,
+        "signal": 7,
+        "vnfit": 6
+      },
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Sau 2 tiếng, mỗi người cầm một bó hoa, bộ bát đĩa và tấm bản đồ sạp để tự quay lại lần sau — video tour được chia sẻ ngay trong nhóm.",
+        "tools": [
+          {
+            "tool_id": "capcut",
+            "role": "Dựng video ngắn ‘chợ này mua gì’.",
+            "why": "Nhanh trên điện thoại.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "canva",
+            "role": "Bản đồ sạp, poster tour.",
+            "why": "Dễ dàn trang.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Bán vé, gửi điểm hẹn, nhắc giờ.",
+            "why": "Kênh chat phổ biến.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Thu tiền vé.",
+            "why": "Chuyển khoản ngân hàng VN.",
+            "alt_ids": [
+              "momo"
+            ]
+          },
+          {
+            "tool_id": "claude",
+            "role": "Lộ trình, mẹo đi chợ, kịch bản video.",
+            "why": "Viết nhanh, rõ.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "capcut",
+            "canva",
+            "zalo_oa",
+            "vietqr",
+            "claude"
+          ],
+          "monthly_cost_note": "Gói miễn phí là đủ cho bản thử (xem data/tools.json).",
+          "tradeoff": "Ít tính năng nâng cao."
+        },
+        "premium": {
+          "tool_ids": [
+            "capcut",
+            "canva",
+            "zalo_oa",
+            "momo",
+            "claude"
+          ],
+          "monthly_cost_note": "Canva/CapCut trả phí nếu cần thêm mẫu (xem data/tools.json).",
+          "tradeoff": "Tốn phí hơn."
+        },
+        "checked": "2026-11-25"
+      },
+      "id": "20261125-03-di-cho-si-hai-tieng",
+      "date": "2026-11-25",
+      "hypothesis": true,
+      "image": "assets/ideas/20261125-03-di-cho-si-hai-tieng.webp",
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Đi chợ sỉ 2 tiếng” — tour đi bộ cuối tuần cho người trẻ qua chợ Đồng Xuân, chợ hoa, chợ Bình Tây: mua bát đĩa, hoa, phụ kiện giá sỉ, kèm bản đồ sạp và video ‘chợ này mua gì’\nTóm tắt: Ở Hàn, người 20–30 tuổi đổ về chợ Namdaemun mua bát đĩa, nhẫn ngọc 3.000 won, hoa 4.000–5.000 won một bó; giao dịch của nhóm này ở sạp đồ gia dụng gấp 14,8 lần. Ở VN, chợ sỉ rất rẻ nhưng khó ‘đọc’ với người trẻ. Bán vé tour nhỏ 6–8 người + kênh video giới thiệu sạp.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Hàn (12–18/11/2026): Samsung Card — số lần mua của khách 20–30 tuổi ở sạp đồ gia dụng Namdaemun tháng 9 gấp 14,8 lần tháng 1 năm ngoái, số tiền gấp 4,8 lần; Korea Times — nhẫn ngọc từ 3.000 won, hoa theo mùa 4.000–5.000 won/bó, gói hoa 4.000–10.000 won, sạp đóng cửa khoảng 15–16h.\nDữ kiện:\n- Samsung Card: số lần mua của khách 20–30 tuổi ở sạp đồ gia dụng Namdaemun tháng 9 gấp 14,8 lần tháng 1 năm ngoái, số tiền gấp 4,8 lần. (mức xác minh: 1 nguồn gốc)\n- Giá tại chợ: nhẫn ngọc từ 3.000 won; hoa theo mùa 4.000–5.000 won/bó; gói hoa 4.000–10.000 won; một khách chi 23.000 won cho hoa hồng. (mức xác minh: 1 nguồn gốc)\n- Hai báo độc lập (Korea Times, JoongAng) cùng ghi nhận người 20–30 tuổi là nhóm khách mới nổi ở Namdaemun. (mức xác minh: 2+ nguồn độc lập)\nLưu ý giả thuyết: Số liệu là của Hàn (Samsung Card, Korea Times). Ở VN đã có tour ẩm thực chợ và nhiều video ‘đi chợ sỉ’ — điểm mới lạ trung bình; khác biệt là tour mua sắm có lộ trình sạp và giờ đi. Chưa có số liệu người trẻ VN đi chợ sỉ.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nFacebook, Zalo, YouTube là ba nền tảng phổ biến nhất (fact mxh-top) và TikTok có độ phủ lớn (fact ket-noi) — video ‘chợ này mua gì’ dễ lan; hơn một nửa Gen Z thích đồ ‘cảm giác cao cấp’ nếu giá hợp lý (fact xa-xi-vua-tui).\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: tour 2 tiếng sáng thứ Bảy/Chủ nhật, 6–8 người, một lộ trình 8–10 sạp (bát đĩa, hoa, vải, phụ kiện); vé gồm bản đồ sạp, mẹo mặc cả, túi vải; thu thêm hoa hồng giới thiệu từ sạp nếu sạp đồng ý. Song song kênh TikTok/YouTube ‘chợ này mua gì’.\n\n## 4. Ràng buộc\n- Vốn: 1–5 triệu đồng (Ước tính của người soạn: in bản đồ, túi vải, nước uống, quảng cáo nhỏ; chủ yếu là thời gian.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Sạp không muốn bị quay/đông người; An toàn, chen lấn, mất đồ trong chợ; Giá ở sạp thay đổi; Thời tiết mưa; Quy định quay phim/hướng dẫn du lịch [cần xác minh].\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- CapCut: Dựng video ngắn ‘chợ này mua gì’.\n- Canva: Bản đồ sạp, poster tour.\n- Zalo Official Account (OA): Bán vé, gửi điểm hẹn, nhắc giờ.\n- VietQR Kit (Casso): Thu tiền vé.\n- Claude (Anthropic): Lộ trình, mẹo đi chợ, kịch bản video.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Đi khảo sát 1 chợ, chụp ảnh và ghi giá 15 sạp, xin phép quay.\n- Ngày 2: Claude dựng lộ trình, bản đồ sạp, mẹo đi chợ.\n- Ngày 3: Dựng 3 video ngắn bằng CapCut, bản đồ bằng Canva.\n- Ngày 4: Mở bán vé tour thử qua Zalo OA, nhận tiền qua VietQR.\n- Ngày 5–7: Chạy 1–2 tour thử; đo số vé bán, số tiền khách chi ở chợ, đánh giá sau tour.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Lộ trình tour 2 tiếng cho một chợ: thứ tự sạp, thời gian dừng, điểm hẹn.\n- Bản đồ sạp và mẹo đi chợ (giờ đi, mặc cả lịch sự, mang tiền mặt).\n- Kịch bản 5 video ngắn ‘chợ này mua gì’.\n- Tin nhắn xin phép quay và đề xuất hợp tác với chủ sạp.\n- Trang bán vé và kịch bản Zalo.\n- Phiếu đánh giá sau tour.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "total_score": 6.64,
+      "rank": 1
+    },
+    {
+      "type": "startup",
+      "category": [
+        "service",
+        "content",
+        "ecom"
+      ],
+      "title": "“Ghép shop với creator nhỏ” — dịch vụ cho shop nhỏ mùa 12.12–Tết: chọn 5–10 nhà sáng tạo dưới 20.000 người theo dõi đúng ngách, soạn brief, hợp đồng phí cố định + hoa hồng, đo kết quả từng video",
+      "pitch": "Ở Mỹ mùa Black Friday, một creator khoảng 15.000 người theo dõi đạt tương tác gấp 46 lần bình thường khi hợp tác đúng sản phẩm; 23% lưu lượng thương mại điện tử đến từ TikTok, Instagram. Ở VN, shop nhỏ có ít tiền quảng cáo — dịch vụ ghép shop với creator nhỏ, có bảng đo kết quả rõ ràng.",
+      "tags": [
+        "creator nhỏ",
+        "KOC",
+        "TikTok Shop",
+        "Black Friday",
+        "shop nhỏ"
+      ],
+      "regions": [
+        "US"
+      ],
+      "hypothesis_note": "Số liệu là của Mỹ (Meltwater — một nguồn tự đo; Salesforce qua TechRadar). Ở VN đã có rất nhiều agency KOC/KOL và chương trình tiếp thị liên kết của sàn — điểm mới lạ thấp; khác biệt chỉ là gói nhỏ, đo kết quả từng video cho shop nhỏ.",
+      "confidence": "trung bình",
+      "image_alt": "Minh họa phẳng một cửa hàng nhỏ màu teal nối bằng các đường chấm cam tới năm khung điện thoại nhỏ đang quay video sản phẩm",
+      "signal_text": "Mỹ (12–23/11/2026): Meltwater (hơn 750.000 bài, 7/10–7/11) — TikTok Shop có mặt trong 2,7% bài, Amazon 2,3%; creator khoảng 15.000 người theo dõi đạt khoảng 109.100 tương tác, gấp 46 lần; Salesforce (qua TechRadar) — 23% lưu lượng thương mại điện tử từ TikTok, Instagram, 16% định mua trong ứng dụng.",
+      "vn_youth_fit": "VN là thị trường video commerce lớn thứ hai ĐNA với 650.000 người bán (fact video-commerce); TikTok Shop 41,31% GMV (fact san-tmdt); số shop có đơn giảm 7,43% (fact tmdt-quy-mo) — shop nhỏ cần cách bán rẻ mà hiệu quả.",
+      "vn_fit_refs": [
+        "video-commerce",
+        "san-tmdt",
+        "tmdt-quy-mo"
+      ],
+      "key_facts": [
+        {
+          "text": "Meltwater: TikTok Shop có mặt trong 2,7% bài phân tích, Amazon 2,3%; thời trang–giày 6,7%, điện tử 5,5%.",
+          "source_ids": [
+            "melt"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Dữ liệu lắng nghe mạng xã hội của Meltwater."
+        },
+        {
+          "text": "Meltwater: một creator khoảng 15.000 người theo dõi đạt khoảng 109.100 tương tác so với khoảng 2.400 thường lệ (gấp 46 lần).",
+          "source_ids": [
+            "melt"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Salesforce (qua TechRadar): 23% lưu lượng thương mại điện tử đến từ các nền tảng như TikTok, Instagram; 16% định mua ngay trong ứng dụng.",
+          "source_ids": [
+            "trad"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hai nguồn khác nhau (Meltwater, Salesforce qua TechRadar) cùng cho thấy mạng xã hội là kênh mua sắm lớn mùa Black Friday 2026.",
+          "source_ids": [
+            "melt",
+            "trad"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Meltwater (blog)",
+          "title": "Black Friday 2026: Big deals, small creators, and the “should I wait?” dilemma",
+          "url": "https://www.meltwater.com/en/blog/black-friday-build-up-2026",
+          "published": "2026-11-12",
+          "note": "Lắng nghe mạng xã hội của chính Meltwater: hơn 750.000 bài tiếng Anh ở Mỹ, 7/10–7/11/2026.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "melt"
+        },
+        {
+          "name": "TechRadar",
+          "title": "Black Friday 2026 could be the biggest shopping week ever seen — with AI agents playing a bigger role than ever",
+          "url": "https://www.techradar.com/pro/black-friday-2026-could-be-the-biggest-shopping-week-ever-seen-with-ai-agents-playing-a-bigger-role-than-ever",
+          "published": "2026-11-23",
+          "note": "Mọi con số là dự báo/dữ liệu của Salesforce do bài dẫn lại.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "trad"
+        }
+      ],
+      "localize_vn": "Giả thuyết: gói cố định cho shop: chọn 5–10 creator dưới 20.000 người theo dõi đúng ngách (mẹ bé, mỹ phẩm, đồ ăn vặt), soạn brief, hợp đồng phí nhỏ + hoa hồng qua tiếp thị liên kết TikTok Shop, bảng đo lượt xem–click–đơn từng video. Thu phí dịch vụ theo chiến dịch.",
+      "first_steps": [
+        "Ngày 1: Chọn 1 ngách, lập danh sách 30 creator nhỏ (lượt xem, tương tác).",
+        "Ngày 2: Claude soạn mẫu brief, hợp đồng đơn giản, bảng đo kết quả.",
+        "Ngày 3: Chào 10 shop nhỏ gói thử cho 12.12.",
+        "Ngày 4–6: Ghép 1–2 shop với 5 creator, theo dõi video trên TikTok Shop.",
+        "Ngày 7: Báo cáo kết quả từng video; đo số shop trả tiền và đơn trên mỗi video."
+      ],
+      "capital": {
+        "vnd_min_m": 1,
+        "vnd_max_m": 5,
+        "usd_min": 38,
+        "usd_max": 192,
+        "note": "Ước tính của người soạn: chủ yếu thời gian; có thể ứng trước phí nhỏ cho creator."
+      },
+      "risks": [
+        "Creator không đăng đúng hạn hoặc nội dung sai",
+        "Kết quả không đo được chính xác",
+        "Cạnh tranh agency KOC sẵn có",
+        "Quy định ghi nhãn quảng cáo, hợp đồng [cần xác minh]",
+        "Shop chậm thanh toán"
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 6,
+        "novelty": 3,
+        "lowcap": 9,
+        "signal": 6,
+        "vnfit": 7
+      },
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Shop nhận một bảng: video nào ra đơn, mỗi đơn tốn bao nhiêu — thay vì trả tiền cho một KOL lớn rồi không biết hiệu quả.",
+        "tools": [
+          {
+            "tool_id": "tiktok_shop",
+            "role": "Tiếp thị liên kết, theo dõi đơn từ video.",
+            "why": "Kênh chính, có số liệu đơn.",
+            "alt_ids": [
+              "shopee_seller"
+            ]
+          },
+          {
+            "tool_id": "claude",
+            "role": "Brief, hợp đồng mẫu, tin nhắn mời creator, báo cáo.",
+            "why": "Viết nhanh, tiếng Việt tốt.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Liên lạc shop, gửi báo cáo.",
+            "why": "Kênh chat của chủ shop.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "canva",
+            "role": "Báo giá, báo cáo trực quan.",
+            "why": "Dễ dàn trang.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "n8n",
+            "role": "Gom số liệu video vào một bảng.",
+            "why": "Tự động hóa linh hoạt.",
+            "alt_ids": [
+              "zapier"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "tiktok_shop",
+            "claude",
+            "zalo_oa",
+            "canva"
+          ],
+          "monthly_cost_note": "Gói miễn phí; phí sàn theo đơn (xem data/tools.json).",
+          "tradeoff": "Nhập số liệu tay."
+        },
+        "premium": {
+          "tool_ids": [
+            "tiktok_shop",
+            "shopee_seller",
+            "claude",
+            "zalo_oa",
+            "canva",
+            "zapier"
+          ],
+          "monthly_cost_note": "Zapier trả phí (xem data/tools.json).",
+          "tradeoff": "Tốn phí, tự động hơn."
+        },
+        "checked": "2026-11-25"
+      },
+      "id": "20261125-05-ghep-shop-creator-nho",
+      "date": "2026-11-25",
+      "hypothesis": true,
+      "image": "assets/ideas/20261125-05-ghep-shop-creator-nho.webp",
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Ghép shop với creator nhỏ” — dịch vụ cho shop nhỏ mùa 12.12–Tết: chọn 5–10 nhà sáng tạo dưới 20.000 người theo dõi đúng ngách, soạn brief, hợp đồng phí cố định + hoa hồng, đo kết quả từng video\nTóm tắt: Ở Mỹ mùa Black Friday, một creator khoảng 15.000 người theo dõi đạt tương tác gấp 46 lần bình thường khi hợp tác đúng sản phẩm; 23% lưu lượng thương mại điện tử đến từ TikTok, Instagram. Ở VN, shop nhỏ có ít tiền quảng cáo — dịch vụ ghép shop với creator nhỏ, có bảng đo kết quả rõ ràng.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Mỹ (12–23/11/2026): Meltwater (hơn 750.000 bài, 7/10–7/11) — TikTok Shop có mặt trong 2,7% bài, Amazon 2,3%; creator khoảng 15.000 người theo dõi đạt khoảng 109.100 tương tác, gấp 46 lần; Salesforce (qua TechRadar) — 23% lưu lượng thương mại điện tử từ TikTok, Instagram, 16% định mua trong ứng dụng.\nDữ kiện:\n- Meltwater: TikTok Shop có mặt trong 2,7% bài phân tích, Amazon 2,3%; thời trang–giày 6,7%, điện tử 5,5%. (mức xác minh: 1 nguồn gốc)\n- Meltwater: một creator khoảng 15.000 người theo dõi đạt khoảng 109.100 tương tác so với khoảng 2.400 thường lệ (gấp 46 lần). (mức xác minh: 1 nguồn gốc)\n- Salesforce (qua TechRadar): 23% lưu lượng thương mại điện tử đến từ các nền tảng như TikTok, Instagram; 16% định mua ngay trong ứng dụng. (mức xác minh: 1 nguồn gốc)\n- Hai nguồn khác nhau (Meltwater, Salesforce qua TechRadar) cùng cho thấy mạng xã hội là kênh mua sắm lớn mùa Black Friday 2026. (mức xác minh: 2+ nguồn độc lập)\nLưu ý giả thuyết: Số liệu là của Mỹ (Meltwater — một nguồn tự đo; Salesforce qua TechRadar). Ở VN đã có rất nhiều agency KOC/KOL và chương trình tiếp thị liên kết của sàn — điểm mới lạ thấp; khác biệt chỉ là gói nhỏ, đo kết quả từng video cho shop nhỏ.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nVN là thị trường video commerce lớn thứ hai ĐNA với 650.000 người bán (fact video-commerce); TikTok Shop 41,31% GMV (fact san-tmdt); số shop có đơn giảm 7,43% (fact tmdt-quy-mo) — shop nhỏ cần cách bán rẻ mà hiệu quả.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: gói cố định cho shop: chọn 5–10 creator dưới 20.000 người theo dõi đúng ngách (mẹ bé, mỹ phẩm, đồ ăn vặt), soạn brief, hợp đồng phí nhỏ + hoa hồng qua tiếp thị liên kết TikTok Shop, bảng đo lượt xem–click–đơn từng video. Thu phí dịch vụ theo chiến dịch.\n\n## 4. Ràng buộc\n- Vốn: 1–5 triệu đồng (Ước tính của người soạn: chủ yếu thời gian; có thể ứng trước phí nhỏ cho creator.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Creator không đăng đúng hạn hoặc nội dung sai; Kết quả không đo được chính xác; Cạnh tranh agency KOC sẵn có; Quy định ghi nhãn quảng cáo, hợp đồng [cần xác minh]; Shop chậm thanh toán.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- TikTok Shop Việt Nam (Seller Center): Tiếp thị liên kết, theo dõi đơn từ video.\n- Claude (Anthropic): Brief, hợp đồng mẫu, tin nhắn mời creator, báo cáo.\n- Zalo Official Account (OA): Liên lạc shop, gửi báo cáo.\n- Canva: Báo giá, báo cáo trực quan.\n- n8n: Gom số liệu video vào một bảng.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Chọn 1 ngách, lập danh sách 30 creator nhỏ (lượt xem, tương tác).\n- Ngày 2: Claude soạn mẫu brief, hợp đồng đơn giản, bảng đo kết quả.\n- Ngày 3: Chào 10 shop nhỏ gói thử cho 12.12.\n- Ngày 4–6: Ghép 1–2 shop với 5 creator, theo dõi video trên TikTok Shop.\n- Ngày 7: Báo cáo kết quả từng video; đo số shop trả tiền và đơn trên mỗi video.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Tiêu chí chọn creator nhỏ (không chỉ theo số người theo dõi).\n- Mẫu brief 1 trang và hợp đồng đơn giản (phí + hoa hồng + quyền dùng video).\n- Tin nhắn mời creator và chào shop.\n- Bảng đo kết quả từng video và cách tính chi phí mỗi đơn.\n- Báo giá 3 gói và kịch bản chào hàng không hứa quá mức.\n- Lưu ý ghi nhãn quảng cáo cần tự kiểm tra [cần xác minh].\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "from_keywords": [
+        "kw-us-01"
+      ],
+      "total_score": 6.48,
+      "rank": 2
+    },
+    {
+      "type": "startup",
+      "category": [
+        "product",
+        "ecom"
+      ],
+      "title": "“Kit nơ rosette fandom” — bộ tự làm huy hiệu nơ rosette theo màu idol (ruy băng, lõi in, ghim cài) bán trên TikTok Shop, kèm buổi workshop 90 phút làm chung trước concert",
+      "pitch": "Ở Nhật, Gen Z chuộng ‘tự thể hiện mà không tốn tiền’: ‘cách làm rosette’ và ốp tai nghe DIY lọt top bài được thích nhất năm của Sucle; SHIBUYA109 xếp đồ bóp ‘squeeze’ đứng đầu mục trải nghiệm. Ở VN, fan K-pop/V-pop hay mang phụ kiện theo màu nhóm đi concert — bán bộ kit tự làm rẻ hơn đồ làm sẵn.",
+      "tags": [
+        "DIY",
+        "fandom",
+        "rosette",
+        "Nhật Bản",
+        "TikTok Shop"
+      ],
+      "regions": [
+        "JP"
+      ],
+      "hypothesis_note": "Số liệu là của Nhật (Sucle đo trên tài khoản của chính họ; SHIBUYA109 lab. khảo sát 676 nữ). Dữ kiện K-pop ở vn-youth.json đang ‘chưa xác minh’ nên không dùng để chấm điểm. Tìm nhanh thấy ở VN có nhiều kit DIY (mosaic, vòng hạt) nhưng chưa thấy kit rosette fandom trong kết quả — cần tự rà TikTok Shop/Shopee.",
+      "confidence": "trung bình",
+      "image_alt": "Minh họa phẳng chiếc nơ rosette nhiều lớp màu cam và teal trên bàn, xung quanh là cuộn ruy băng, kéo và ghim cài",
+      "signal_text": "Nhật (12–24/11/2026): Sucle (FinT) — 235 bài Instagram năm 2026, ‘cách làm rosette’ hạng 8, ‘ốp tai nghe DIY’ hạng 12, hộp mỹ phẩm mini tự làm từ gương Seria trong top 5, từ khóa năm ‘tự thể hiện không tốn tiền’; SHIBUYA109 lab. (676 nữ 15–24 tuổi) — mục trải nghiệm #1 スクイーズ, #2 giá đỡ điện thoại hút chân không.",
+      "vn_youth_fit": "TikTok Shop chiếm 41,31% GMV 2025 (fact san-tmdt) và VN là thị trường video commerce lớn thứ hai ĐNA (fact video-commerce) — bộ kit nhìn đẹp trong video dễ bán; người trẻ thích đồ trông ‘cao cấp’ khi giá hợp lý (fact xa-xi-vua-tui).",
+      "vn_fit_refs": [
+        "san-tmdt",
+        "video-commerce",
+        "xa-xi-vua-tui"
+      ],
+      "key_facts": [
+        {
+          "text": "Sucle (235 bài, 1/1–26/10/2026, không tính bài hợp tác): top 5 theo lượt thích gồm cốc nơ Flying Tiger, Lễ hội dâu Yokohama, hộp mỹ phẩm mini tự làm từ gương Seria, đồ Sanrio của HIPPERS, đồ ăn uống ở thủy cung; ‘cách làm rosette’ hạng 8, ‘ốp tai nghe DIY’ hạng 12.",
+          "source_ids": [
+            "sucle"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Thông cáo doanh nghiệp, đo trên tài khoản của chính họ."
+        },
+        {
+          "text": "SHIBUYA109 lab. (676 nữ 15–24 tuổi): mục trải nghiệm #1 スクイーズ, #2 giá đỡ điện thoại hút chân không, #3 đi bộ một vòng tuyến Yamanote.",
+          "source_ids": [
+            "s109"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hai nguồn khác nhau (Sucle, SHIBUYA109 lab.) cùng cho thấy đồ tự làm/đồ nhỏ giá rẻ là trào lưu Gen Z Nhật 2026.",
+          "source_ids": [
+            "sucle",
+            "s109"
+          ],
+          "verification": "2+ nguồn độc lập"
+        }
+      ],
+      "sources": [
+        {
+          "name": "PR TIMES (thông cáo 株式会社FinT)",
+          "title": "総フォロワー100万人のSucleが実データから読み解く『2026年若年層トレンド』を発表、キーワードは“お金をかけない自己表現”",
+          "url": "https://prtimes.jp/main/html/rd/p/000000186.000044523.html",
+          "published": "2026-11-24",
+          "note": "Thông cáo doanh nghiệp; xếp hạng theo lượt thích 235 bài Instagram của chính tài khoản Sucle (1/1–26/10/2026), không phải khảo sát.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "sucle"
+        },
+        {
+          "name": "ワカモノリサーチ (dẫn SHIBUYA109 lab.)",
+          "title": "令和のZ世代が選んだ2026年のトレンド大賞！M!LK、ドバイチョコもち、スクイーズが１位に！若者の流行は「ドパ」と「セロ」！？",
+          "url": "https://wakamono-research.co.jp/media/2026-trend-awards/",
+          "published": "2026-11-12",
+          "note": "Khảo sát 676 nữ 15–24 tuổi của SHIBUYA109 lab., công bố 10/11.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "s109"
+        }
+      ],
+      "localize_vn": "Giả thuyết: kit theo bảng màu của các fandom lớn (không in logo/tên nhóm, không dùng hình idol để tránh bản quyền) gồm ruy băng 3 màu, lõi giấy in chữ tự chọn, ghim, keo, hướng dẫn qua video; workshop 90 phút ở quán cà phê trước ngày concert. Bán qua TikTok Shop, nhận chuyển khoản VietQR cho workshop.",
+      "first_steps": [
+        "Ngày 1: Nhập thử vật liệu 30 bộ (ruy băng, ghim, lõi giấy) qua 1688 hoặc chợ vật liệu trong nước.",
+        "Ngày 2: Làm 5 mẫu rosette theo 5 bảng màu; Canva làm thẻ hướng dẫn.",
+        "Ngày 3: Quay video ‘làm rosette trong 10 phút’ bằng CapCut.",
+        "Ngày 4: Đăng sản phẩm thử trên TikTok Shop.",
+        "Ngày 5–7: Mở 1 buổi workshop có cọc VietQR; đo số kit bán, tỷ lệ xem video→mua, số người đăng ký workshop."
+      ],
+      "capital": {
+        "vnd_min_m": 3,
+        "vnd_max_m": 10,
+        "usd_min": 115,
+        "usd_max": 385,
+        "note": "Ước tính của người soạn: vật liệu 30–50 bộ, bao bì, in thẻ, thuê bàn workshop."
+      },
+      "risks": [
+        "Dùng logo/tên/hình idol vi phạm bản quyền, nhãn hiệu",
+        "Dễ bị sao chép",
+        "Nhu cầu theo lịch concert, không đều",
+        "Chất lượng ruy băng không đều",
+        "Quy định đăng bán trên TikTok Shop [cần xác minh]"
+      ],
+      "scores": {
+        "ease": 8,
+        "demand": 5,
+        "novelty": 6,
+        "lowcap": 8,
+        "signal": 6,
+        "vnfit": 6
+      },
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Video 10 phút từ cuộn ruy băng đến chiếc rosette màu nhóm mình — người xem bấm mua kit ngay dưới video.",
+        "tools": [
+          {
+            "tool_id": "canva",
+            "role": "Thiết kế lõi rosette, thẻ hướng dẫn, ảnh sản phẩm.",
+            "why": "Dễ làm đẹp, in được.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "tiktok_shop",
+            "role": "Bán kit, gắn sản phẩm vào video.",
+            "why": "Kênh bán chính của người trẻ.",
+            "alt_ids": [
+              "shopee_seller"
+            ]
+          },
+          {
+            "tool_id": "a1688",
+            "role": "Tìm ruy băng, ghim, phụ liệu giá sỉ.",
+            "why": "Nhiều phụ liệu thủ công.",
+            "alt_ids": [
+              "alibaba"
+            ]
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Video hướng dẫn và video bán hàng.",
+            "why": "Dựng nhanh.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Nhận cọc workshop.",
+            "why": "Chuyển khoản ngân hàng VN.",
+            "alt_ids": [
+              "payos"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "canva",
+            "tiktok_shop",
+            "a1688",
+            "capcut",
+            "vietqr"
+          ],
+          "monthly_cost_note": "Gói miễn phí; phí sàn theo đơn (xem data/tools.json).",
+          "tradeoff": "Làm tay nhiều."
+        },
+        "premium": {
+          "tool_ids": [
+            "canva",
+            "tiktok_shop",
+            "shopee_seller",
+            "alibaba",
+            "capcut",
+            "payos"
+          ],
+          "monthly_cost_note": "Canva trả phí, bán thêm Shopee (xem data/tools.json).",
+          "tradeoff": "Quản lý 2 sàn."
+        },
+        "checked": "2026-11-25"
+      },
+      "id": "20261125-04-kit-no-rosette-fandom",
+      "date": "2026-11-25",
+      "hypothesis": true,
+      "image": "assets/ideas/20261125-04-kit-no-rosette-fandom.webp",
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Kit nơ rosette fandom” — bộ tự làm huy hiệu nơ rosette theo màu idol (ruy băng, lõi in, ghim cài) bán trên TikTok Shop, kèm buổi workshop 90 phút làm chung trước concert\nTóm tắt: Ở Nhật, Gen Z chuộng ‘tự thể hiện mà không tốn tiền’: ‘cách làm rosette’ và ốp tai nghe DIY lọt top bài được thích nhất năm của Sucle; SHIBUYA109 xếp đồ bóp ‘squeeze’ đứng đầu mục trải nghiệm. Ở VN, fan K-pop/V-pop hay mang phụ kiện theo màu nhóm đi concert — bán bộ kit tự làm rẻ hơn đồ làm sẵn.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Nhật (12–24/11/2026): Sucle (FinT) — 235 bài Instagram năm 2026, ‘cách làm rosette’ hạng 8, ‘ốp tai nghe DIY’ hạng 12, hộp mỹ phẩm mini tự làm từ gương Seria trong top 5, từ khóa năm ‘tự thể hiện không tốn tiền’; SHIBUYA109 lab. (676 nữ 15–24 tuổi) — mục trải nghiệm #1 スクイーズ, #2 giá đỡ điện thoại hút chân không.\nDữ kiện:\n- Sucle (235 bài, 1/1–26/10/2026, không tính bài hợp tác): top 5 theo lượt thích gồm cốc nơ Flying Tiger, Lễ hội dâu Yokohama, hộp mỹ phẩm mini tự làm từ gương Seria, đồ Sanrio của HIPPERS, đồ ăn uống ở thủy cung; ‘cách làm rosette’ hạng 8, ‘ốp tai nghe DIY’ hạng 12. (mức xác minh: 1 nguồn gốc)\n- SHIBUYA109 lab. (676 nữ 15–24 tuổi): mục trải nghiệm #1 スクイーズ, #2 giá đỡ điện thoại hút chân không, #3 đi bộ một vòng tuyến Yamanote. (mức xác minh: 1 nguồn gốc)\n- Hai nguồn khác nhau (Sucle, SHIBUYA109 lab.) cùng cho thấy đồ tự làm/đồ nhỏ giá rẻ là trào lưu Gen Z Nhật 2026. (mức xác minh: 2+ nguồn độc lập)\nLưu ý giả thuyết: Số liệu là của Nhật (Sucle đo trên tài khoản của chính họ; SHIBUYA109 lab. khảo sát 676 nữ). Dữ kiện K-pop ở vn-youth.json đang ‘chưa xác minh’ nên không dùng để chấm điểm. Tìm nhanh thấy ở VN có nhiều kit DIY (mosaic, vòng hạt) nhưng chưa thấy kit rosette fandom trong kết quả — cần tự rà TikTok Shop/Shopee.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nTikTok Shop chiếm 41,31% GMV 2025 (fact san-tmdt) và VN là thị trường video commerce lớn thứ hai ĐNA (fact video-commerce) — bộ kit nhìn đẹp trong video dễ bán; người trẻ thích đồ trông ‘cao cấp’ khi giá hợp lý (fact xa-xi-vua-tui).\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: kit theo bảng màu của các fandom lớn (không in logo/tên nhóm, không dùng hình idol để tránh bản quyền) gồm ruy băng 3 màu, lõi giấy in chữ tự chọn, ghim, keo, hướng dẫn qua video; workshop 90 phút ở quán cà phê trước ngày concert. Bán qua TikTok Shop, nhận chuyển khoản VietQR cho workshop.\n\n## 4. Ràng buộc\n- Vốn: 3–10 triệu đồng (Ước tính của người soạn: vật liệu 30–50 bộ, bao bì, in thẻ, thuê bàn workshop.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Dùng logo/tên/hình idol vi phạm bản quyền, nhãn hiệu; Dễ bị sao chép; Nhu cầu theo lịch concert, không đều; Chất lượng ruy băng không đều; Quy định đăng bán trên TikTok Shop [cần xác minh].\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Canva: Thiết kế lõi rosette, thẻ hướng dẫn, ảnh sản phẩm.\n- TikTok Shop Việt Nam (Seller Center): Bán kit, gắn sản phẩm vào video.\n- 1688.com: Tìm ruy băng, ghim, phụ liệu giá sỉ.\n- CapCut: Video hướng dẫn và video bán hàng.\n- VietQR Kit (Casso): Nhận cọc workshop.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Nhập thử vật liệu 30 bộ (ruy băng, ghim, lõi giấy) qua 1688 hoặc chợ vật liệu trong nước.\n- Ngày 2: Làm 5 mẫu rosette theo 5 bảng màu; Canva làm thẻ hướng dẫn.\n- Ngày 3: Quay video ‘làm rosette trong 10 phút’ bằng CapCut.\n- Ngày 4: Đăng sản phẩm thử trên TikTok Shop.\n- Ngày 5–7: Mở 1 buổi workshop có cọc VietQR; đo số kit bán, tỷ lệ xem video→mua, số người đăng ký workshop.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Danh sách vật liệu và định mức cho 1 bộ kit, bảng giá vốn–giá bán.\n- 5 bảng màu rosette (không dùng logo, tên, hình idol) và mẫu lõi in chữ tự chọn.\n- Hướng dẫn từng bước làm rosette (chữ + gợi ý cảnh quay).\n- Mô tả sản phẩm TikTok Shop và 3 kịch bản video.\n- Kế hoạch workshop 90 phút: chuẩn bị, lịch trình, giá vé, cọc.\n- Lưu ý bản quyền/nhãn hiệu cần tự kiểm tra [cần xác minh].\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "from_keywords": [
+        "kw-jp-01",
+        "kw-jp-02"
+      ],
+      "total_score": 6.46,
+      "rank": 3
+    },
+    {
+      "type": "startup",
+      "category": [
+        "service",
+        "ecom"
+      ],
+      "title": "“Tủ đồ đi tuyết” — cho thuê trọn bộ áo phao, quần chống nước, giày, găng tay cho người Việt lần đầu đi Cáp Nhĩ Tân, Hàn, Nhật mùa đông; giao trước ngày bay, nhận lại sau chuyến",
+      "pitch": "Ở TQ, khách từ các tỉnh phía Nam (xứ ấm) chiếm 55–70% đơn đặt sớm mùa tuyết, nhiều gia đình và người lần đầu. Người Việt đi tuyết vài ngày mỗi năm thường phải mua đồ dày rồi cất tủ. Dịch vụ cho thuê theo bộ và theo size, giặt sạch, kèm danh sách đồ cần mang và mẹo mặc nhiều lớp.",
+      "tags": [
+        "du lịch tuyết",
+        "cho thuê đồ",
+        "mùa đông",
+        "Trung Quốc",
+        "gia đình"
+      ],
+      "regions": [
+        "CN"
+      ],
+      "hypothesis_note": "Số liệu là của thị trường TQ (美团, 同程, 途牛, 航旅纵横). Chưa có số liệu số người Việt đi du lịch tuyết. Tìm nhanh trên web chưa thấy dịch vụ chuyên cho thuê đồ đi tuyết ở VN trong kết quả, nhưng có thể có shop nhỏ trên Facebook — cần tự rà nhóm du lịch trước khi làm.",
+      "confidence": "trung bình",
+      "image_alt": "Minh họa phẳng một tủ đồ màu teal mở cửa với áo phao cam, găng tay, mũ len và đôi giày tuyết, bên cạnh vali và bông tuyết",
+      "signal_text": "TQ (11–17/11/2026): 美团 — tìm kiếm ‘trượt tuyết’ +125%, đặt phòng gần khu trượt tuyết mùa 11/2026–3/2027 +217%; khách thành phố phía Nam khoảng 55% đơn (năm trước 44%), 途牛 hơn 70% đơn đặt sớm; 同程 — trượt tuyết trong nhà 1–10/2026 +31%, gia đình 45% khách, hơn 60% mua vé trong 7 ngày trước khi đi.",
+      "vn_youth_fit": "Gen Z Việt dự định tối đa 6 chuyến/năm, khoảng 80% chuyến dưới 1 tuần và 55% coi ngân sách là yếu tố quyết định (fact du-lich) — đồ đi tuyết chỉ dùng vài ngày nên thuê rẻ hơn mua; thanh toán chuyển khoản/ví phổ biến (fact vi-dien-tu).",
+      "vn_fit_refs": [
+        "du-lich",
+        "vi-dien-tu"
+      ],
+      "key_facts": [
+        {
+          "text": "美团: tìm kiếm ‘滑雪’ tăng 125% so với cùng kỳ (tính đến 28/10); đặt phòng trong bán kính 5 km quanh khu trượt tuyết cho kỳ lưu trú 11/2026–3/2027 tăng 217%.",
+          "source_ids": [
+            "snow_eeo"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu nền tảng 美团."
+        },
+        {
+          "text": "Khách miền Nam: khoảng 55% đơn phòng khu trượt tuyết tháng 11–12 đến từ thành phố phía Nam (năm trước 44%) theo 美团; 途牛 nói hơn 70% đơn đặt sớm; 同程 nói khoảng 60% khách đi Đông Bắc đến từ các tỉnh phía Nam.",
+          "source_ids": [
+            "snow_eeo",
+            "snow_xh",
+            "snow_cs"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "美团 và 途牛/同程 là các nền tảng khác nhau; con số 60% của 同程 xuất hiện ở hai bài nhưng cùng một nguồn gốc."
+        },
+        {
+          "text": "同程: lượt trượt tuyết trong nhà 1–10/2026 tăng 31%; gia đình dự kiến chiếm 45% khách mùa mới; hơn 60% mua vé máy bay trong vòng 7 ngày trước khi đi, trung bình 1,4 đêm/người.",
+          "source_ids": [
+            "snow_cs"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "name": "投资界 (đăng lại 经济观察报)",
+          "title": "还没到冬天，他们已经开始「抢雪」了",
+          "url": "https://news.pedaily.cn/202611/571898.shtml",
+          "published": "2026-11-16",
+          "note": "Số liệu của 美团 và 同程研究院; giá vé/giờ học là ước tính của người được phỏng vấn.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "snow_eeo"
+        },
+        {
+          "name": "新华网 (đăng lại 经济参考报)",
+          "title": "新雪季“开板” 冰雪消费供需两旺",
+          "url": "https://www.news.cn/travel/20261117/0f3bd47cbdb7440cba9ed95e27bbb7b4/c.html",
+          "published": "2026-11-17",
+          "note": "Số liệu do nền tảng (航旅纵横, 去哪儿, 途牛, 同程) và báo cáo ngành cung cấp.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "snow_xh"
+        },
+        {
+          "name": "东方财富网 (đăng lại 中国证券报)",
+          "title": "2026—2027冰雪旅游消费季开启：亲子研学游预计增30%，哈尔滨过夜客流居首",
+          "url": "https://finance.eastmoney.com/a/202611113928257242.html",
+          "published": "2026-11-11",
+          "note": "Toàn bộ là số liệu/dự báo của 同程研究院; trùng nguồn gốc với một phần bài 新华网.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "snow_cs"
+        }
+      ],
+      "localize_vn": "Giả thuyết: 15–20 bộ đồ chia size (áo phao, quần chống nước, giày, găng, mũ, áo giữ nhiệt mua mới), cho thuê theo chuyến 5–7 ngày; giao tận nhà trước ngày bay, nhận lại và giặt; đặt cọc qua VietQR. Kênh: hội nhóm du lịch Cáp Nhĩ Tân/Hàn/Nhật, đại lý tour nhỏ.",
+      "first_steps": [
+        "Ngày 1: Hỏi 20 người sắp đi tuyết trong các nhóm du lịch: đã mua đồ gì, tốn bao nhiêu, có muốn thuê không.",
+        "Ngày 2: Claude soạn bảng size, danh sách đồ theo nhiệt độ, chính sách cọc–hư hỏng–giặt.",
+        "Ngày 3: Báo giá nhập đồ trên 1688 và mua thử 2 bộ ở VN để so chất lượng.",
+        "Ngày 4: Làm ảnh bộ đồ bằng Canva, video 30 giây ‘mặc nhiều lớp’ bằng CapCut.",
+        "Ngày 5–7: Mở nhận đặt trước qua Zalo OA, cọc qua VietQR; đo số đơn đặt trước và giá chấp nhận được."
+      ],
+      "capital": {
+        "vnd_min_m": 25,
+        "vnd_max_m": 60,
+        "usd_min": 962,
+        "usd_max": 2308,
+        "note": "Ước tính của người soạn: 15–20 bộ đồ nhập (giá chưa khảo sát), giặt sấy, túi đựng, vận chuyển; chưa tính hao mòn."
+      },
+      "risks": [
+        "Đồ hư hỏng, mất, khách trả trễ",
+        "Vệ sinh đồ dùng chung phải đảm bảo",
+        "Mùa vụ ngắn (tháng 11–3)",
+        "Nhập đồ kém chất lượng không đủ ấm",
+        "Thủ tục nhập khẩu, thuế khi nhập số lượng [cần xác minh]"
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 6,
+        "novelty": 6,
+        "lowcap": 5,
+        "signal": 8,
+        "vnfit": 7
+      },
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Khách gõ ‘đi Cáp Nhĩ Tân 5 ngày, cao 1m62’ trên Zalo — 2 phút sau nhận gợi ý đủ bộ theo nhiệt độ, giá thuê và lịch giao đồ trước ngày bay.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Soạn bảng size, danh sách đồ theo nhiệt độ, chính sách cọc và kịch bản tư vấn.",
+            "why": "Viết tiếng Việt rõ, dựng bảng nhanh.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "a1688",
+            "role": "Tìm nguồn áo phao, quần chống nước, găng tay giá sỉ.",
+            "why": "Nhiều nhà cung cấp đồ mùa đông.",
+            "alt_ids": [
+              "alibaba"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Ảnh bộ đồ, bảng size, thẻ hướng dẫn mặc nhiều lớp.",
+            "why": "Mẫu có sẵn, dễ làm.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Video ngắn ‘mặc gì khi −20 độ’ cho hội nhóm du lịch.",
+            "why": "Dựng nhanh trên điện thoại.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận đặt, gửi lịch giao–nhận đồ.",
+            "why": "Kênh chat quen của khách Việt.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Nhận tiền cọc và tiền thuê.",
+            "why": "Chuyển khoản ngân hàng VN.",
+            "alt_ids": [
+              "payos"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "a1688",
+            "canva",
+            "zalo_oa",
+            "vietqr"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí nếu đủ (xem data/tools.json); chi phí chính là tiền nhập đồ.",
+          "tradeoff": "Ít video, làm thủ công nhiều."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "alibaba",
+            "canva",
+            "capcut",
+            "zalo_oa",
+            "payos"
+          ],
+          "monthly_cost_note": "Canva/Claude trả phí nếu dùng nhiều (xem data/tools.json); payOS theo phí giao dịch.",
+          "tradeoff": "Tốn phí hơn, đối soát thanh toán tự động."
+        },
+        "checked": "2026-11-25"
+      },
+      "id": "20261125-01-tu-do-di-tuyet",
+      "date": "2026-11-25",
+      "hypothesis": true,
+      "image": "assets/ideas/20261125-01-tu-do-di-tuyet.webp",
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Tủ đồ đi tuyết” — cho thuê trọn bộ áo phao, quần chống nước, giày, găng tay cho người Việt lần đầu đi Cáp Nhĩ Tân, Hàn, Nhật mùa đông; giao trước ngày bay, nhận lại sau chuyến\nTóm tắt: Ở TQ, khách từ các tỉnh phía Nam (xứ ấm) chiếm 55–70% đơn đặt sớm mùa tuyết, nhiều gia đình và người lần đầu. Người Việt đi tuyết vài ngày mỗi năm thường phải mua đồ dày rồi cất tủ. Dịch vụ cho thuê theo bộ và theo size, giặt sạch, kèm danh sách đồ cần mang và mẹo mặc nhiều lớp.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: TQ (11–17/11/2026): 美团 — tìm kiếm ‘trượt tuyết’ +125%, đặt phòng gần khu trượt tuyết mùa 11/2026–3/2027 +217%; khách thành phố phía Nam khoảng 55% đơn (năm trước 44%), 途牛 hơn 70% đơn đặt sớm; 同程 — trượt tuyết trong nhà 1–10/2026 +31%, gia đình 45% khách, hơn 60% mua vé trong 7 ngày trước khi đi.\nDữ kiện:\n- 美团: tìm kiếm ‘滑雪’ tăng 125% so với cùng kỳ (tính đến 28/10); đặt phòng trong bán kính 5 km quanh khu trượt tuyết cho kỳ lưu trú 11/2026–3/2027 tăng 217%. (mức xác minh: 1 nguồn gốc)\n- Khách miền Nam: khoảng 55% đơn phòng khu trượt tuyết tháng 11–12 đến từ thành phố phía Nam (năm trước 44%) theo 美团; 途牛 nói hơn 70% đơn đặt sớm; 同程 nói khoảng 60% khách đi Đông Bắc đến từ các tỉnh phía Nam. (mức xác minh: 2+ nguồn độc lập)\n- 同程: lượt trượt tuyết trong nhà 1–10/2026 tăng 31%; gia đình dự kiến chiếm 45% khách mùa mới; hơn 60% mua vé máy bay trong vòng 7 ngày trước khi đi, trung bình 1,4 đêm/người. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Số liệu là của thị trường TQ (美团, 同程, 途牛, 航旅纵横). Chưa có số liệu số người Việt đi du lịch tuyết. Tìm nhanh trên web chưa thấy dịch vụ chuyên cho thuê đồ đi tuyết ở VN trong kết quả, nhưng có thể có shop nhỏ trên Facebook — cần tự rà nhóm du lịch trước khi làm.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nGen Z Việt dự định tối đa 6 chuyến/năm, khoảng 80% chuyến dưới 1 tuần và 55% coi ngân sách là yếu tố quyết định (fact du-lich) — đồ đi tuyết chỉ dùng vài ngày nên thuê rẻ hơn mua; thanh toán chuyển khoản/ví phổ biến (fact vi-dien-tu).\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: 15–20 bộ đồ chia size (áo phao, quần chống nước, giày, găng, mũ, áo giữ nhiệt mua mới), cho thuê theo chuyến 5–7 ngày; giao tận nhà trước ngày bay, nhận lại và giặt; đặt cọc qua VietQR. Kênh: hội nhóm du lịch Cáp Nhĩ Tân/Hàn/Nhật, đại lý tour nhỏ.\n\n## 4. Ràng buộc\n- Vốn: 25–60 triệu đồng (Ước tính của người soạn: 15–20 bộ đồ nhập (giá chưa khảo sát), giặt sấy, túi đựng, vận chuyển; chưa tính hao mòn.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Đồ hư hỏng, mất, khách trả trễ; Vệ sinh đồ dùng chung phải đảm bảo; Mùa vụ ngắn (tháng 11–3); Nhập đồ kém chất lượng không đủ ấm; Thủ tục nhập khẩu, thuế khi nhập số lượng [cần xác minh].\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Claude (Anthropic): Soạn bảng size, danh sách đồ theo nhiệt độ, chính sách cọc và kịch bản tư vấn.\n- 1688.com: Tìm nguồn áo phao, quần chống nước, găng tay giá sỉ.\n- Canva: Ảnh bộ đồ, bảng size, thẻ hướng dẫn mặc nhiều lớp.\n- CapCut: Video ngắn ‘mặc gì khi −20 độ’ cho hội nhóm du lịch.\n- Zalo Official Account (OA): Nhận đặt, gửi lịch giao–nhận đồ.\n- VietQR Kit (Casso): Nhận tiền cọc và tiền thuê.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Hỏi 20 người sắp đi tuyết trong các nhóm du lịch: đã mua đồ gì, tốn bao nhiêu, có muốn thuê không.\n- Ngày 2: Claude soạn bảng size, danh sách đồ theo nhiệt độ, chính sách cọc–hư hỏng–giặt.\n- Ngày 3: Báo giá nhập đồ trên 1688 và mua thử 2 bộ ở VN để so chất lượng.\n- Ngày 4: Làm ảnh bộ đồ bằng Canva, video 30 giây ‘mặc nhiều lớp’ bằng CapCut.\n- Ngày 5–7: Mở nhận đặt trước qua Zalo OA, cọc qua VietQR; đo số đơn đặt trước và giá chấp nhận được.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Bảng size và danh sách đồ theo mức nhiệt (0 độ, −10 độ, −20 độ) cho 3 điểm đến.\n- Chính sách thuê: cọc, trả trễ, hư hỏng, giặt — viết dễ hiểu.\n- Kịch bản tư vấn Zalo 10 câu hỏi thường gặp.\n- Bảng tính giá vốn–giá thuê–điểm hòa vốn theo số lượt thuê.\n- Tin nhắn hỏi giá nhà cung cấp trên 1688 (tiếng Việt + tiếng Trung đơn giản).\n- Kịch bản 3 video ngắn và bài đăng cho hội nhóm du lịch.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "from_keywords": [
+        "kw-cn-01",
+        "kw-cn-02"
+      ],
+      "total_score": 6.3,
+      "rank": 4
+    },
+    {
+      "type": "startup",
+      "category": [
+        "service"
+      ],
+      "title": "“Đêm xông lá thay đêm nhậu” — gói tối thứ Sáu cho nhóm văn phòng 4–8 người: xông lá thuốc, ngâm chân, bữa nhẹ ít dầu mỡ, đặt qua Zalo, hợp tác với tiệm xông lá có sẵn",
+      "pitch": "Ở Hàn, chi tiêu xông hơi của người 20–30 tuổi tháng 9 tăng 36%, trong khi số lần đi quán nhậu khuya giảm. VN có sẵn tiệm xông lá thuốc nhưng ít ai đóng gói thành ‘buổi tụ tập không cồn’ cho nhóm đồng nghiệp. Làm người bán gói: đặt chỗ, ghép bữa nhẹ, lo lịch nhóm.",
+      "tags": [
+        "xông lá",
+        "không cồn",
+        "nhóm văn phòng",
+        "Hàn Quốc",
+        "sức khỏe"
+      ],
+      "regions": [
+        "KR"
+      ],
+      "hypothesis_note": "Số liệu là dữ liệu thẻ Samsung Card ở Hàn (một nguồn gốc). Ở VN đã có nhiều spa/tiệm xông lá — điểm mới lạ chỉ ở cách đóng gói ‘thay buổi nhậu’ cho nhóm. Chưa có số liệu VN về xu hướng giảm nhậu ở người trẻ.",
+      "confidence": "thấp–trung bình",
+      "image_alt": "Minh họa phẳng phòng xông hơi gỗ tông cam với hơi nước teal, chậu lá thuốc, ấm trà và bốn chiếc khăn gấp gọn",
+      "signal_text": "Hàn (12–16/11/2026): Samsung Card — chi tiêu xông hơi của khách 20–30 tuổi ở Seoul–Gyeonggi tháng 9 +36% so với cùng kỳ; giao dịch tắm enzyme/cứu ngải gấp 2,6 lần; giao dịch quán ăn–nhậu 22h–3h mỗi người giảm từ 7,2 xuống 6,4; Korea Herald — người trẻ tụ tập để nằm nghỉ, sản phẩm ngủ trên Olive Young tăng mạnh.",
+      "vn_youth_fit": "Gen Z đặt hạn mức chi ăn uống ngoài và tuân thủ chặt nhất (fact ngan-sach) — gói giá trọn biết trước hợp hơn buổi nhậu ‘phát sinh’; hơn một nửa Gen Z sẵn sàng trả cho trải nghiệm ‘cảm giác cao cấp’ nếu giá hợp lý (fact xa-xi-vua-tui).",
+      "vn_fit_refs": [
+        "ngan-sach",
+        "xa-xi-vua-tui"
+      ],
+      "key_facts": [
+        {
+          "text": "Samsung Card: chi tiêu xông hơi của khách 20–30 tuổi ở Seoul–Gyeonggi tháng 9 tăng 36% so với cùng kỳ; giao dịch tắm enzyme/cứu ngải gấp 2,6 lần so với tháng 1/2025; giao dịch quán ăn–nhậu 22h–3h mỗi người giảm từ 7,2 (1–9/2023) xuống 6,4 (1–9/2026).",
+          "source_ids": [
+            "sauna_ja"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hai báo độc lập cùng mô tả người trẻ Hàn chuyển chi tiêu sang nghỉ ngơi/sức khỏe (ngủ, xông hơi) thay vì tiệc khuya.",
+          "source_ids": [
+            "sleep_kh",
+            "sauna_ja"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Đây là nhận định chung của hai bài; số liệu cụ thể mỗi bài chỉ có một nguồn."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Korea JoongAng Daily",
+          "title": "Off the sauce, in the sauna: Young Koreans shift spending toward well-being, health",
+          "url": "https://www.koreajoongangdaily.com/business/off-the-sauce-in-the-sauna-young-koreans-shift-spending-toward-wellbeing-health/12958809",
+          "published": "2026-11-12",
+          "note": "Toàn bộ số liệu là dữ liệu giao dịch thẻ Samsung Card; bài dịch bằng AI rồi biên tập.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "sauna_ja"
+        },
+        {
+          "name": "The Korea Herald",
+          "title": "Lying down is the new hanging out",
+          "url": "https://www.koreaherald.com/article/10938629",
+          "published": "2026-11-16",
+          "note": "Số liệu bán hàng của CJ Olive Young và dữ liệu ứng dụng Asleep do doanh nghiệp cung cấp.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "sleep_kh"
+        }
+      ],
+      "localize_vn": "Giả thuyết: hợp tác 2–3 tiệm xông lá (lá Dao, lá bưởi, sả) gần trung tâm; gói tối thứ Sáu cho nhóm 4–8 người: xông + ngâm chân + trà + bữa nhẹ; bán qua Zalo OA cho phòng nhân sự/nhóm đồng nghiệp; thu tiền qua payOS, chia doanh thu với tiệm.",
+      "first_steps": [
+        "Ngày 1: Khảo sát giá và sức chứa 5 tiệm xông lá gần cụm văn phòng.",
+        "Ngày 2: Thỏa thuận chia doanh thu với 1–2 tiệm; chọn bữa nhẹ đi kèm.",
+        "Ngày 3: Claude soạn mô tả gói, lưu ý sức khỏe, kịch bản chào phòng nhân sự; Canva làm poster.",
+        "Ngày 4–5: Chào 20 nhóm văn phòng/phòng nhân sự qua Zalo OA.",
+        "Ngày 6–7: Chạy 1–2 buổi thử; đo số nhóm đặt, giá trung bình, tỷ lệ muốn quay lại."
+      ],
+      "capital": {
+        "vnd_min_m": 2,
+        "vnd_max_m": 8,
+        "usd_min": 77,
+        "usd_max": 308,
+        "note": "Ước tính của người soạn: in ấn, quà nhỏ, quảng cáo; dịch vụ xông do tiệm đối tác cung cấp."
+      },
+      "risks": [
+        "Rủi ro sức khỏe khi xông (huyết áp, mang thai) — cần lưu ý rõ",
+        "Chất lượng tiệm đối tác không đều",
+        "Nhu cầu theo mùa lạnh",
+        "Tiệm tự bán trực tiếp, bỏ qua trung gian",
+        "Điều kiện kinh doanh dịch vụ xông hơi/spa [cần xác minh]"
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 5,
+        "novelty": 5,
+        "lowcap": 8,
+        "signal": 6,
+        "vnfit": 6
+      },
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Trưởng nhóm gửi một link Zalo: chọn tối thứ Sáu, 6 người, giá trọn gói hiện sẵn, mỗi người tự chuyển phần mình.",
+        "tools": [
+          {
+            "tool_id": "zalo_oa",
+            "role": "Bán gói, gửi điểm hẹn, nhắc lịch.",
+            "why": "Kênh chat của dân văn phòng.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "payos",
+            "role": "Thu tiền, chia tiền theo người.",
+            "why": "Thanh toán VN, đối soát tự động.",
+            "alt_ids": [
+              "vietqr"
+            ]
+          },
+          {
+            "tool_id": "claude",
+            "role": "Mô tả gói, lưu ý sức khỏe, kịch bản chào hàng.",
+            "why": "Viết tiếng Việt tốt.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Poster, thực đơn, thẻ lưu ý.",
+            "why": "Nhanh.",
+            "alt_ids": []
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "zalo_oa",
+            "vietqr",
+            "claude",
+            "canva"
+          ],
+          "monthly_cost_note": "Gói miễn phí (xem data/tools.json).",
+          "tradeoff": "Đối soát tay."
+        },
+        "premium": {
+          "tool_ids": [
+            "zalo_oa",
+            "payos",
+            "claude",
+            "canva"
+          ],
+          "monthly_cost_note": "payOS theo phí giao dịch (xem data/tools.json).",
+          "tradeoff": "Tốn phí nhỏ, tự động hơn."
+        },
+        "checked": "2026-11-25"
+      },
+      "id": "20261125-06-dem-xong-la-thay-nhau",
+      "date": "2026-11-25",
+      "hypothesis": true,
+      "image": "assets/ideas/20261125-06-dem-xong-la-thay-nhau.webp",
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Đêm xông lá thay đêm nhậu” — gói tối thứ Sáu cho nhóm văn phòng 4–8 người: xông lá thuốc, ngâm chân, bữa nhẹ ít dầu mỡ, đặt qua Zalo, hợp tác với tiệm xông lá có sẵn\nTóm tắt: Ở Hàn, chi tiêu xông hơi của người 20–30 tuổi tháng 9 tăng 36%, trong khi số lần đi quán nhậu khuya giảm. VN có sẵn tiệm xông lá thuốc nhưng ít ai đóng gói thành ‘buổi tụ tập không cồn’ cho nhóm đồng nghiệp. Làm người bán gói: đặt chỗ, ghép bữa nhẹ, lo lịch nhóm.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Hàn (12–16/11/2026): Samsung Card — chi tiêu xông hơi của khách 20–30 tuổi ở Seoul–Gyeonggi tháng 9 +36% so với cùng kỳ; giao dịch tắm enzyme/cứu ngải gấp 2,6 lần; giao dịch quán ăn–nhậu 22h–3h mỗi người giảm từ 7,2 xuống 6,4; Korea Herald — người trẻ tụ tập để nằm nghỉ, sản phẩm ngủ trên Olive Young tăng mạnh.\nDữ kiện:\n- Samsung Card: chi tiêu xông hơi của khách 20–30 tuổi ở Seoul–Gyeonggi tháng 9 tăng 36% so với cùng kỳ; giao dịch tắm enzyme/cứu ngải gấp 2,6 lần so với tháng 1/2025; giao dịch quán ăn–nhậu 22h–3h mỗi người giảm từ 7,2 (1–9/2023) xuống 6,4 (1–9/2026). (mức xác minh: 1 nguồn gốc)\n- Hai báo độc lập cùng mô tả người trẻ Hàn chuyển chi tiêu sang nghỉ ngơi/sức khỏe (ngủ, xông hơi) thay vì tiệc khuya. (mức xác minh: 2+ nguồn độc lập)\nLưu ý giả thuyết: Số liệu là dữ liệu thẻ Samsung Card ở Hàn (một nguồn gốc). Ở VN đã có nhiều spa/tiệm xông lá — điểm mới lạ chỉ ở cách đóng gói ‘thay buổi nhậu’ cho nhóm. Chưa có số liệu VN về xu hướng giảm nhậu ở người trẻ.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nGen Z đặt hạn mức chi ăn uống ngoài và tuân thủ chặt nhất (fact ngan-sach) — gói giá trọn biết trước hợp hơn buổi nhậu ‘phát sinh’; hơn một nửa Gen Z sẵn sàng trả cho trải nghiệm ‘cảm giác cao cấp’ nếu giá hợp lý (fact xa-xi-vua-tui).\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: hợp tác 2–3 tiệm xông lá (lá Dao, lá bưởi, sả) gần trung tâm; gói tối thứ Sáu cho nhóm 4–8 người: xông + ngâm chân + trà + bữa nhẹ; bán qua Zalo OA cho phòng nhân sự/nhóm đồng nghiệp; thu tiền qua payOS, chia doanh thu với tiệm.\n\n## 4. Ràng buộc\n- Vốn: 2–8 triệu đồng (Ước tính của người soạn: in ấn, quà nhỏ, quảng cáo; dịch vụ xông do tiệm đối tác cung cấp.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Rủi ro sức khỏe khi xông (huyết áp, mang thai) — cần lưu ý rõ; Chất lượng tiệm đối tác không đều; Nhu cầu theo mùa lạnh; Tiệm tự bán trực tiếp, bỏ qua trung gian; Điều kiện kinh doanh dịch vụ xông hơi/spa [cần xác minh].\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Zalo Official Account (OA): Bán gói, gửi điểm hẹn, nhắc lịch.\n- payOS (Casso): Thu tiền, chia tiền theo người.\n- Claude (Anthropic): Mô tả gói, lưu ý sức khỏe, kịch bản chào hàng.\n- Canva: Poster, thực đơn, thẻ lưu ý.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Khảo sát giá và sức chứa 5 tiệm xông lá gần cụm văn phòng.\n- Ngày 2: Thỏa thuận chia doanh thu với 1–2 tiệm; chọn bữa nhẹ đi kèm.\n- Ngày 3: Claude soạn mô tả gói, lưu ý sức khỏe, kịch bản chào phòng nhân sự; Canva làm poster.\n- Ngày 4–5: Chào 20 nhóm văn phòng/phòng nhân sự qua Zalo OA.\n- Ngày 6–7: Chạy 1–2 buổi thử; đo số nhóm đặt, giá trung bình, tỷ lệ muốn quay lại.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Bảng so sánh 5 tiệm xông lá (giá, sức chứa, vệ sinh) để chọn đối tác.\n- Mô tả 3 gói (cơ bản, thêm bữa nhẹ, riêng tư) và cách chia doanh thu.\n- Thẻ lưu ý sức khỏe trước khi xông, khuyên hỏi bác sĩ khi có bệnh nền.\n- Tin nhắn chào phòng nhân sự và trưởng nhóm.\n- Kịch bản Zalo OA đặt lịch và chia tiền.\n- Phiếu phản hồi sau buổi.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "total_score": 6.16,
+      "rank": 5
+    },
+    {
+      "type": "invest",
+      "category": [
+        "invest",
+        "ai"
+      ],
+      "title": "Watchlist “Chip qua Đông Nam Á sau vụ Megaspeed” — theo dõi danh sách đen xuất khẩu của Mỹ, biến động TSMC/SK hynix và các cam kết công suất đóng gói của Nvidia — chỉ theo dõi, không khuyến nghị",
+      "pitch": "Ngày 23/11 (giờ Mỹ) BIS đưa Megaspeed và sáu công ty ĐNA vào Entity List; hôm sau TSMC tăng 9,9% khi Jensen Huang trở lại Nvidia, sau tuần TAIEX giảm 17,5%. Một khung theo dõi 60 ngày để hiểu rủi ro chuỗi cung ứng chip đi qua ĐNA (gồm VN) — không phải lời khuyên mua bán.",
+      "tags": [
+        "watchlist",
+        "chip",
+        "kiểm soát xuất khẩu",
+        "Đông Nam Á",
+        "không khuyến nghị"
+      ],
+      "regions": [
+        "US",
+        "SEA",
+        "KR",
+        "JP"
+      ],
+      "hypothesis_note": "Dữ kiện từ Al Jazeera, Fortune, Korea Herald và thông cáo Nvidia. Chưa có dữ kiện doanh nghiệp VN nào liên quan trực tiếp đến vụ Megaspeed. Biến động giá rất mạnh — đây chỉ là khung theo dõi, không phải khuyến nghị đầu tư; có quan điểm cho rằng đợt hồi phục có thể không bền.",
+      "confidence": "trung bình",
+      "image_alt": "Minh họa phẳng con chip teal ở giữa bản đồ Đông Nam Á cách điệu, các mũi tên cam nối tới nhà máy, kèm biểu đồ đường lên xuống",
+      "signal_text": "Mỹ–ĐNA (17–24/11/2026): BIS đưa Megaspeed International và sáu công ty ĐNA vào Entity List (Al Jazeera, Fortune); TSMC +9,9% thêm 158 tỷ USD, KOSPI +6,2%, Nikkei +3,9% sau tuần TAIEX −17,5% (Fortune); Nvidia — Kinsus mở rộng đế ABF hơn 3,5 lần, Amkor gần 3 tỷ USD, SPIL tới giữa 2029; SK hynix — Mỹ chiếm 62,5% doanh thu theo vùng 9 tháng.",
+      "vn_youth_fit": "57% lực lượng lao động VN đã tiếp cận AI tạo sinh (fact ai-2026) — nhiều người trẻ quan tâm cổ phiếu AI; mục này chỉ để hiểu chuỗi cung ứng, ít liên quan hành vi tiêu dùng.",
+      "vn_fit_refs": [
+        "ai-2026"
+      ],
+      "key_facts": [
+        {
+          "text": "BIS đưa Megaspeed International và sáu công ty ở ĐNA (MSFusion, PT Megaspeed International, Speedmatrix, Apex Enterprise Solutions, Swiftdata, Megaspeed (Thailand)) vào Entity List.",
+          "source_ids": [
+            "mega_aj",
+            "tsmc_f"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Fortune ghi BIS thêm bảy công ty, gồm Megaspeed."
+        },
+        {
+          "text": "TSMC tăng 9,9% (mức trần), thêm 5,2 nghìn tỷ Đài tệ (158 tỷ USD); KOSPI +6,2%, Nikkei +3,9%; tuần trước TAIEX giảm 17,5%, mạnh nhất kể từ 1991.",
+          "source_ids": [
+            "tsmc_f"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Al Jazeera ghi KOSPI +6,3%."
+        },
+        {
+          "text": "Nvidia: Kinsus mở rộng công suất đế ABF riêng cho Nvidia hơn 3,5 lần; các thỏa thuận đóng gói với Amkor (7 và 10/2026) gần 3 tỷ USD; SPIL nâng công suất đến giữa 2029.",
+          "source_ids": [
+            "nv_sc"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Thông cáo doanh nghiệp."
+        },
+        {
+          "text": "SK hynix: Mỹ chiếm 62,5% doanh thu theo vùng 9 tháng 2026; đầu tư hơn 4 tỷ USD vào nhà máy đóng gói HBM ở Indiana.",
+          "source_ids": [
+            "kh_chip"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "title": "US adds Megaspeed to trade blacklist as Nvidia’s Huang returns as CEO",
+          "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list",
+          "published": "2026-11-24",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "mega_aj"
+        },
+        {
+          "name": "Fortune",
+          "title": "TSMC gains $158 billion in value in one day as Jensen Huang returns as Nvidia CEO",
+          "url": "https://fortune.com/2026/11/24/tsmc-gains-158-billion-in-value-in-one-day-as-jensen-huang-returns-as-nvidia-ceo/",
+          "published": "2026-11-24",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "tsmc_f"
+        },
+        {
+          "name": "NVIDIA Newsroom (thông cáo)",
+          "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+          "published": "2026-11-17",
+          "note": "Thông cáo doanh nghiệp.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "nv_sc"
+        },
+        {
+          "name": "The Korea Herald",
+          "title": "Samsung, SK hynix, LG redraw playbooks for AI boom",
+          "url": "https://www.koreaherald.com/article/10946347",
+          "published": "2026-11-23",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "kh_chip"
+        }
+      ],
+      "localize_vn": "Giả thuyết: một bảng theo dõi 60 ngày gồm 6 chỉ báo: (1) bổ sung Entity List liên quan ĐNA, (2) phản hồi của Singapore/Malaysia/Thái Lan, (3) giá TSMC, SK hynix, Samsung, (4) cam kết công suất đóng gói/đế ABF của Nvidia, (5) tin doanh nghiệp điện tử ở VN nhắc tới kiểm soát xuất khẩu, (6) quan điểm trái chiều. Cập nhật mỗi tuần.",
+      "first_steps": [
+        "Ngày 1: Lưu các dữ kiện gốc (Al Jazeera, Fortune, thông cáo Nvidia, Korea Herald) vào bảng.",
+        "Ngày 2: Đặt 6 chỉ báo và ngưỡng ‘đổi quan điểm’ cho từng chỉ báo.",
+        "Ngày 3: Dựng luồng n8n gom tin hằng ngày về một bảng Supabase.",
+        "Ngày 4–7: Claude tóm tắt tuần, Gemini đối chiếu nguồn; ghi mọi quan điểm trái chiều."
+      ],
+      "capital": {
+        "vnd_min_m": 0,
+        "vnd_max_m": 2,
+        "usd_min": 0,
+        "usd_max": 77,
+        "note": "Ước tính của người soạn: chỉ là phí công cụ nếu có; không bao gồm tiền đầu tư (không khuyến nghị)."
+      },
+      "risks": [
+        "Đây là khung theo dõi, không phải khuyến nghị — có thể mất tiền nếu tự ý giao dịch",
+        "Giá cổ phiếu biến động cực mạnh trong vài phiên",
+        "Tin về điều tra còn thay đổi, có thể sai",
+        "Rủi ro chính sách Mỹ–Trung và tỷ giá",
+        "Thông cáo doanh nghiệp tự nêu lợi ích"
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 4,
+        "novelty": 5,
+        "lowcap": 9,
+        "signal": 8,
+        "vnfit": 4
+      },
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Mỗi sáng thứ Hai nhận 1 trang: tuần qua danh sách đen thêm ai, chip lên xuống bao nhiêu, và ai đang nói ngược lại.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Dựng khung watchlist, tóm tắt tuần, liệt kê quan điểm trái chiều.",
+            "why": "Tóm tắt thận trọng, dễ yêu cầu ghi nguồn.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "gemini",
+            "role": "Đối chiếu tin với nguồn thứ hai.",
+            "why": "Thêm một góc nhìn AI.",
+            "alt_ids": [
+              "deepseek"
+            ]
+          },
+          {
+            "tool_id": "n8n",
+            "role": "Gom tin RSS/email về một bảng mỗi ngày.",
+            "why": "Tự host, linh hoạt.",
+            "alt_ids": [
+              "zapier"
+            ]
+          },
+          {
+            "tool_id": "supabase",
+            "role": "Lưu bảng chỉ báo theo ngày.",
+            "why": "Có gói miễn phí.",
+            "alt_ids": []
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "gemini",
+            "n8n",
+            "supabase"
+          ],
+          "monthly_cost_note": "n8n tự host, Supabase gói miễn phí (xem data/tools.json).",
+          "tradeoff": "Tự vận hành."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "gemini",
+            "deepseek",
+            "zapier",
+            "supabase"
+          ],
+          "monthly_cost_note": "Zapier trả phí (xem data/tools.json).",
+          "tradeoff": "Tốn phí, ít kỹ thuật."
+        },
+        "checked": "2026-11-25"
+      },
+      "id": "20261125-08-watchlist-chip-dong-nam-a",
+      "date": "2026-11-25",
+      "hypothesis": true,
+      "image": "assets/ideas/20261125-08-watchlist-chip-dong-nam-a.webp",
+      "claude_prompt": "Bạn là trợ lý nghiên cứu thị trường thận trọng. Hãy giúp tôi dựng một khung theo dõi (watchlist) — tuyệt đối không đưa khuyến nghị đầu tư. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: Watchlist “Chip qua Đông Nam Á sau vụ Megaspeed” — theo dõi danh sách đen xuất khẩu của Mỹ, biến động TSMC/SK hynix và các cam kết công suất đóng gói của Nvidia — chỉ theo dõi, không khuyến nghị\nTóm tắt: Ngày 23/11 (giờ Mỹ) BIS đưa Megaspeed và sáu công ty ĐNA vào Entity List; hôm sau TSMC tăng 9,9% khi Jensen Huang trở lại Nvidia, sau tuần TAIEX giảm 17,5%. Một khung theo dõi 60 ngày để hiểu rủi ro chuỗi cung ứng chip đi qua ĐNA (gồm VN) — không phải lời khuyên mua bán.\nMục tiêu tuần này: dựng xong khung theo dõi, cập nhật đủ 1 tuần, rồi tự đánh giá khung có giúp hiểu rủi ro hay không — không ra quyết định mua bán.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Mỹ–ĐNA (17–24/11/2026): BIS đưa Megaspeed International và sáu công ty ĐNA vào Entity List (Al Jazeera, Fortune); TSMC +9,9% thêm 158 tỷ USD, KOSPI +6,2%, Nikkei +3,9% sau tuần TAIEX −17,5% (Fortune); Nvidia — Kinsus mở rộng đế ABF hơn 3,5 lần, Amkor gần 3 tỷ USD, SPIL tới giữa 2029; SK hynix — Mỹ chiếm 62,5% doanh thu theo vùng 9 tháng.\nDữ kiện:\n- BIS đưa Megaspeed International và sáu công ty ở ĐNA (MSFusion, PT Megaspeed International, Speedmatrix, Apex Enterprise Solutions, Swiftdata, Megaspeed (Thailand)) vào Entity List. (mức xác minh: 2+ nguồn độc lập)\n- TSMC tăng 9,9% (mức trần), thêm 5,2 nghìn tỷ Đài tệ (158 tỷ USD); KOSPI +6,2%, Nikkei +3,9%; tuần trước TAIEX giảm 17,5%, mạnh nhất kể từ 1991. (mức xác minh: 1 nguồn gốc)\n- Nvidia: Kinsus mở rộng công suất đế ABF riêng cho Nvidia hơn 3,5 lần; các thỏa thuận đóng gói với Amkor (7 và 10/2026) gần 3 tỷ USD; SPIL nâng công suất đến giữa 2029. (mức xác minh: 1 nguồn gốc)\n- SK hynix: Mỹ chiếm 62,5% doanh thu theo vùng 9 tháng 2026; đầu tư hơn 4 tỷ USD vào nhà máy đóng gói HBM ở Indiana. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Dữ kiện từ Al Jazeera, Fortune, Korea Herald và thông cáo Nvidia. Chưa có dữ kiện doanh nghiệp VN nào liên quan trực tiếp đến vụ Megaspeed. Biến động giá rất mạnh — đây chỉ là khung theo dõi, không phải khuyến nghị đầu tư; có quan điểm cho rằng đợt hồi phục có thể không bền.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\n57% lực lượng lao động VN đã tiếp cận AI tạo sinh (fact ai-2026) — nhiều người trẻ quan tâm cổ phiếu AI; mục này chỉ để hiểu chuỗi cung ứng, ít liên quan hành vi tiêu dùng.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: một bảng theo dõi 60 ngày gồm 6 chỉ báo: (1) bổ sung Entity List liên quan ĐNA, (2) phản hồi của Singapore/Malaysia/Thái Lan, (3) giá TSMC, SK hynix, Samsung, (4) cam kết công suất đóng gói/đế ABF của Nvidia, (5) tin doanh nghiệp điện tử ở VN nhắc tới kiểm soát xuất khẩu, (6) quan điểm trái chiều. Cập nhật mỗi tuần.\n\n## 4. Ràng buộc\n- Vốn: 0–2 triệu đồng (Ước tính của người soạn: chỉ là phí công cụ nếu có; không bao gồm tiền đầu tư (không khuyến nghị).).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Đây là khung theo dõi, không phải khuyến nghị — có thể mất tiền nếu tự ý giao dịch; Giá cổ phiếu biến động cực mạnh trong vài phiên; Tin về điều tra còn thay đổi, có thể sai; Rủi ro chính sách Mỹ–Trung và tỷ giá; Thông cáo doanh nghiệp tự nêu lợi ích.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Claude (Anthropic): Dựng khung watchlist, tóm tắt tuần, liệt kê quan điểm trái chiều.\n- Gemini (Google): Đối chiếu tin với nguồn thứ hai.\n- n8n: Gom tin RSS/email về một bảng mỗi ngày.\n- Supabase: Lưu bảng chỉ báo theo ngày.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Lưu các dữ kiện gốc (Al Jazeera, Fortune, thông cáo Nvidia, Korea Herald) vào bảng.\n- Ngày 2: Đặt 6 chỉ báo và ngưỡng ‘đổi quan điểm’ cho từng chỉ báo.\n- Ngày 3: Dựng luồng n8n gom tin hằng ngày về một bảng Supabase.\n- Ngày 4–7: Claude tóm tắt tuần, Gemini đối chiếu nguồn; ghi mọi quan điểm trái chiều.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Bảng watchlist 6 chỉ báo, giá trị ban đầu và ngưỡng ‘đổi quan điểm’.\n- Mẫu tóm tắt tuần 1 trang có mục ‘quan điểm trái chiều’.\n- Danh sách nguồn chính thức cần theo dõi (Federal Register, thông cáo doanh nghiệp) [cần xác minh địa chỉ].\n- Luồng n8n gom tin mô tả từng nút.\n- Câu cảnh báo ‘không phải khuyến nghị đầu tư’ đặt đầu mọi bản tóm tắt.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "total_score": 6.02,
+      "rank": 6
+    },
+    {
+      "type": "startup",
+      "category": [
+        "ai",
+        "b2b",
+        "service"
+      ],
+      "title": "“Trợ lý văn phòng AI cho đội thợ” — trả lời khách trên Zalo, lập báo giá sửa nhà từ bảng đơn giá cập nhật hằng tuần, xếp lịch thợ, nhắc thu tiền cho đội sửa chữa–cải tạo nhỏ",
+      "pitch": "Ở Mỹ, Drillbit vừa gọi 4,4 triệu USD cho ‘nhân viên văn phòng AI’ của nhà thầu nhà ở (nghe máy, báo giá, xếp lịch, thu tiền); ở Nhật, Kencopa cho AI vẽ sơ đồ thi công từ bản vẽ. Ở VN, giá vật liệu điều chỉnh liên tục (thép ít nhất 5 lần từ đầu tháng 10) khiến đội thợ nhỏ báo giá sai. Dựng trợ lý trên Zalo dùng bảng đơn giá của chính đội.",
+      "tags": [
+        "AI",
+        "nhà thầu nhỏ",
+        "báo giá",
+        "Zalo",
+        "vật liệu xây dựng"
+      ],
+      "regions": [
+        "US",
+        "JP"
+      ],
+      "hypothesis_note": "Tín hiệu là của Mỹ (Drillbit — số liệu khách hàng do hãng tự nêu) và Nhật (thông cáo Kencopa). Giá vật liệu VN từ Tuổi Trẻ. Ở VN đã có phần mềm CRM ngành xây dựng (ví dụ MISA AMIS) và khóa học AI cho báo giá — điểm mới lạ trung bình; khác biệt là gói nhỏ chạy trên Zalo cho đội 3–10 thợ.",
+      "confidence": "trung bình",
+      "image_alt": "Minh họa phẳng chiếc điện thoại teal hiện bong bóng chat và bảng báo giá, bên cạnh mũ bảo hộ cam, thước dây và lịch tuần",
+      "signal_text": "Mỹ (20/11/2026): Drillbit gọi 4,4 triệu USD hạt giống (Y Combinator dẫn đầu) cho ‘Mason’ — AI nghe máy, báo giá, xếp lịch, thu tiền cho nhà thầu nhà ở, giá từ 500 USD/tháng mỗi địa điểm. Nhật (24/11): Kencopa — AI tạo sơ đồ thi công từ bản vẽ, xuất PowerPoint, hãng ước tính giảm khoảng 90% thời gian. VN (19/11): Tuổi Trẻ — thép điều chỉnh ít nhất 5 lần từ đầu tháng 10, nhựa đường +16,7%.",
+      "vn_youth_fit": "81% người dùng VN tương tác với AI hằng ngày (fact ai) và 57% lực lượng lao động đã tiếp cận AI tạo sinh (fact ai-2026); Zalo được 89% sử dụng (fact mxh-top) — đội thợ trẻ có thể dùng trợ lý ngay trên kênh quen.",
+      "vn_fit_refs": [
+        "ai",
+        "ai-2026",
+        "mxh-top"
+      ],
+      "key_facts": [
+        {
+          "text": "Drillbit gọi 4,4 triệu USD vòng hạt giống (Y Combinator, Soma Capital, Unpopular Ventures…); ‘Mason’ nghe máy, báo giá, xếp lịch, thu tiền; giá từ 500 USD/tháng mỗi địa điểm.",
+          "source_ids": [
+            "drill"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu khách hàng (hơn 95 triệu USD GMV) do hãng tự nêu."
+        },
+        {
+          "text": "Kencopa: AI tạo sơ đồ thi công (vị trí cẩu, vật liệu) từ bản vẽ, xuất hình PowerPoint chỉnh được; hãng ước tính giảm khoảng 90% thời gian, ra mắt chính thức trong năm tài chính 2026.",
+          "source_ids": [
+            "kencopa"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Thông cáo doanh nghiệp."
+        },
+        {
+          "text": "Tuổi Trẻ (Bộ Xây dựng + khảo sát): tháng 10 cát 1.013.250 đồng/m³ (+2%), đá dăm 618.324 đồng/m³ (+1,04%), nhựa đường +16,7%; thép giữa tháng 11 13.840–15.150 đồng/kg, ít nhất 5 lần điều chỉnh từ đầu tháng 10 đến 19/11; nhân công phổ thông 500.000–600.000 đồng/ngày.",
+          "source_ids": [
+            "tt_vlxd"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Construction Industry AI",
+          "title": "Drillbit Has Raised $4.4M to Put an AI Office Worker Inside Residential Contractors",
+          "url": "https://www.constructionindustry.ai/funding/drillbit-4-4m-seed-mason-ai-office-worker-residential-contractors/",
+          "published": "2026-11-20",
+          "note": "Số liệu tăng trưởng/khách hàng là do Drillbit tự công bố.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "drill"
+        },
+        {
+          "name": "PR TIMES (thông cáo 株式会社KENCOPA)",
+          "title": "Kencopa工程AIエージェント、図面から絵工程を自動生成しパワポで出力。作成時間約90%削減へ",
+          "url": "https://prtimes.jp/main/html/rd/p/000000037.000166783.html",
+          "published": "2026-11-24",
+          "note": "Thông cáo doanh nghiệp; mức giảm ~90% là ước tính của hãng dựa trên phỏng vấn, chưa đo.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "kencopa"
+        },
+        {
+          "name": "Tuổi Trẻ Online",
+          "title": "'Ông cai', nhà thầu đau đầu với giá vật liệu xây dựng, giá nhân công xây dựng",
+          "url": "https://tuoitre.vn/ong-cai-nha-thau-dau-dau-voi-gia-vat-lieu-xay-dung-gia-nhan-cong-xay-dung-100261119162634861.htm",
+          "published": "2026-11-19",
+          "note": "Kết hợp số liệu Bộ Xây dựng (tháng 10) và khảo sát của phóng viên.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "tt_vlxd"
+        }
+      ],
+      "localize_vn": "Giả thuyết: gói cho đội sửa chữa–cải tạo 3–10 thợ: bảng đơn giá riêng (vật liệu + nhân công) lưu trên Supabase, cập nhật giá thép/cát/xi măng hằng tuần; trợ lý trên Zalo OA trả lời câu hỏi thường gặp, hỏi đủ thông tin (diện tích, hạng mục, ảnh) rồi ra báo giá nháp để chủ đội duyệt; nhắc lịch thợ và thu tiền qua VietQR. Luôn có người duyệt trước khi gửi giá.",
+      "first_steps": [
+        "Ngày 1: Phỏng vấn 5 chủ đội thợ: mất bao lâu để báo giá, sai ở đâu, khách hỏi gì.",
+        "Ngày 2: Claude chuẩn hóa bảng đơn giá mẫu (10 hạng mục phổ biến) và bộ câu hỏi lấy thông tin.",
+        "Ngày 3–4: Dựng luồng n8n: Zalo OA → hỏi thông tin → tính giá từ bảng Supabase → báo giá nháp chờ duyệt.",
+        "Ngày 5: Chạy thử với 1 đội trên 10 yêu cầu thật; ghi lỗi tính sai.",
+        "Ngày 6–7: Chào gói tháng cho 10 đội; đo số đội đồng ý, thời gian tiết kiệm mỗi báo giá."
+      ],
+      "capital": {
+        "vnd_min_m": 3,
+        "vnd_max_m": 10,
+        "usd_min": 115,
+        "usd_max": 385,
+        "note": "Ước tính của người soạn: phí công cụ tự động hóa, máy chủ nhỏ, tên miền; chủ yếu là thời gian dựng."
+      },
+      "risks": [
+        "Báo giá sai do bảng đơn giá cũ → mất tiền/mất khách",
+        "AI trả lời quá tự tin về kỹ thuật/kết cấu",
+        "Đội thợ ít quen công nghệ, bỏ dùng",
+        "Dữ liệu khách (địa chỉ, ảnh nhà) cần bảo mật [cần xác minh quy định]",
+        "Chính sách tin nhắn tự động của Zalo [cần xác minh]"
+      ],
+      "scores": {
+        "ease": 5,
+        "demand": 6,
+        "novelty": 5,
+        "lowcap": 7,
+        "signal": 7,
+        "vnfit": 6
+      },
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "Khách gửi 3 ảnh nhà tắm dột lúc 9 giờ tối — chủ đội sáng ra đã có báo giá nháp theo giá vật liệu tuần này, chỉ việc bấm duyệt.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Chuẩn hóa bảng đơn giá, soạn câu hỏi lấy thông tin, viết báo giá nháp.",
+            "why": "Xử lý bảng và tiếng Việt tốt.",
+            "alt_ids": [
+              "chatgpt",
+              "gemini"
+            ]
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Kênh khách nhắn yêu cầu và nhận báo giá.",
+            "why": "Kênh chính của khách sửa nhà.",
+            "alt_ids": [
+              "zalo_zns"
+            ]
+          },
+          {
+            "tool_id": "n8n",
+            "role": "Luồng tự động: nhận tin → tính giá → chờ duyệt → gửi.",
+            "why": "Tự host được, linh hoạt.",
+            "alt_ids": [
+              "zapier"
+            ]
+          },
+          {
+            "tool_id": "supabase",
+            "role": "Lưu bảng đơn giá, khách hàng, lịch thợ.",
+            "why": "Cơ sở dữ liệu có gói miễn phí.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Gửi mã thu tiền cọc/thanh toán.",
+            "why": "Chuyển khoản ngân hàng VN.",
+            "alt_ids": [
+              "payos"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "zalo_oa",
+            "n8n",
+            "supabase",
+            "vietqr"
+          ],
+          "monthly_cost_note": "n8n tự host, Supabase gói miễn phí (xem data/tools.json).",
+          "tradeoff": "Tự vận hành máy chủ."
+        },
+        "premium": {
+          "tool_ids": [
+            "claude",
+            "gemini",
+            "zalo_oa",
+            "zalo_zns",
+            "zapier",
+            "supabase",
+            "payos"
+          ],
+          "monthly_cost_note": "Zapier, ZNS, payOS có phí (xem data/tools.json).",
+          "tradeoff": "Ít việc kỹ thuật, tốn phí hơn."
+        },
+        "checked": "2026-11-25"
+      },
+      "id": "20261125-07-tro-ly-van-phong-ai-cho-doi-tho",
+      "date": "2026-11-25",
+      "hypothesis": true,
+      "image": "assets/ideas/20261125-07-tro-ly-van-phong-ai-cho-doi-tho.webp",
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Trợ lý văn phòng AI cho đội thợ” — trả lời khách trên Zalo, lập báo giá sửa nhà từ bảng đơn giá cập nhật hằng tuần, xếp lịch thợ, nhắc thu tiền cho đội sửa chữa–cải tạo nhỏ\nTóm tắt: Ở Mỹ, Drillbit vừa gọi 4,4 triệu USD cho ‘nhân viên văn phòng AI’ của nhà thầu nhà ở (nghe máy, báo giá, xếp lịch, thu tiền); ở Nhật, Kencopa cho AI vẽ sơ đồ thi công từ bản vẽ. Ở VN, giá vật liệu điều chỉnh liên tục (thép ít nhất 5 lần từ đầu tháng 10) khiến đội thợ nhỏ báo giá sai. Dựng trợ lý trên Zalo dùng bảng đơn giá của chính đội.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Mỹ (20/11/2026): Drillbit gọi 4,4 triệu USD hạt giống (Y Combinator dẫn đầu) cho ‘Mason’ — AI nghe máy, báo giá, xếp lịch, thu tiền cho nhà thầu nhà ở, giá từ 500 USD/tháng mỗi địa điểm. Nhật (24/11): Kencopa — AI tạo sơ đồ thi công từ bản vẽ, xuất PowerPoint, hãng ước tính giảm khoảng 90% thời gian. VN (19/11): Tuổi Trẻ — thép điều chỉnh ít nhất 5 lần từ đầu tháng 10, nhựa đường +16,7%.\nDữ kiện:\n- Drillbit gọi 4,4 triệu USD vòng hạt giống (Y Combinator, Soma Capital, Unpopular Ventures…); ‘Mason’ nghe máy, báo giá, xếp lịch, thu tiền; giá từ 500 USD/tháng mỗi địa điểm. (mức xác minh: 1 nguồn gốc)\n- Kencopa: AI tạo sơ đồ thi công (vị trí cẩu, vật liệu) từ bản vẽ, xuất hình PowerPoint chỉnh được; hãng ước tính giảm khoảng 90% thời gian, ra mắt chính thức trong năm tài chính 2026. (mức xác minh: 1 nguồn gốc)\n- Tuổi Trẻ (Bộ Xây dựng + khảo sát): tháng 10 cát 1.013.250 đồng/m³ (+2%), đá dăm 618.324 đồng/m³ (+1,04%), nhựa đường +16,7%; thép giữa tháng 11 13.840–15.150 đồng/kg, ít nhất 5 lần điều chỉnh từ đầu tháng 10 đến 19/11; nhân công phổ thông 500.000–600.000 đồng/ngày. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Tín hiệu là của Mỹ (Drillbit — số liệu khách hàng do hãng tự nêu) và Nhật (thông cáo Kencopa). Giá vật liệu VN từ Tuổi Trẻ. Ở VN đã có phần mềm CRM ngành xây dựng (ví dụ MISA AMIS) và khóa học AI cho báo giá — điểm mới lạ trung bình; khác biệt là gói nhỏ chạy trên Zalo cho đội 3–10 thợ.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\n81% người dùng VN tương tác với AI hằng ngày (fact ai) và 57% lực lượng lao động đã tiếp cận AI tạo sinh (fact ai-2026); Zalo được 89% sử dụng (fact mxh-top) — đội thợ trẻ có thể dùng trợ lý ngay trên kênh quen.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: gói cho đội sửa chữa–cải tạo 3–10 thợ: bảng đơn giá riêng (vật liệu + nhân công) lưu trên Supabase, cập nhật giá thép/cát/xi măng hằng tuần; trợ lý trên Zalo OA trả lời câu hỏi thường gặp, hỏi đủ thông tin (diện tích, hạng mục, ảnh) rồi ra báo giá nháp để chủ đội duyệt; nhắc lịch thợ và thu tiền qua VietQR. Luôn có người duyệt trước khi gửi giá.\n\n## 4. Ràng buộc\n- Vốn: 3–10 triệu đồng (Ước tính của người soạn: phí công cụ tự động hóa, máy chủ nhỏ, tên miền; chủ yếu là thời gian dựng.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Báo giá sai do bảng đơn giá cũ → mất tiền/mất khách; AI trả lời quá tự tin về kỹ thuật/kết cấu; Đội thợ ít quen công nghệ, bỏ dùng; Dữ liệu khách (địa chỉ, ảnh nhà) cần bảo mật [cần xác minh quy định]; Chính sách tin nhắn tự động của Zalo [cần xác minh].\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Claude (Anthropic): Chuẩn hóa bảng đơn giá, soạn câu hỏi lấy thông tin, viết báo giá nháp.\n- Zalo Official Account (OA): Kênh khách nhắn yêu cầu và nhận báo giá.\n- n8n: Luồng tự động: nhận tin → tính giá → chờ duyệt → gửi.\n- Supabase: Lưu bảng đơn giá, khách hàng, lịch thợ.\n- VietQR Kit (Casso): Gửi mã thu tiền cọc/thanh toán.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Phỏng vấn 5 chủ đội thợ: mất bao lâu để báo giá, sai ở đâu, khách hỏi gì.\n- Ngày 2: Claude chuẩn hóa bảng đơn giá mẫu (10 hạng mục phổ biến) và bộ câu hỏi lấy thông tin.\n- Ngày 3–4: Dựng luồng n8n: Zalo OA → hỏi thông tin → tính giá từ bảng Supabase → báo giá nháp chờ duyệt.\n- Ngày 5: Chạy thử với 1 đội trên 10 yêu cầu thật; ghi lỗi tính sai.\n- Ngày 6–7: Chào gói tháng cho 10 đội; đo số đội đồng ý, thời gian tiết kiệm mỗi báo giá.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Mẫu bảng đơn giá 10 hạng mục sửa chữa phổ biến (vật liệu + nhân công), có cột ngày cập nhật.\n- Bộ câu hỏi lấy thông tin trước khi báo giá và mẫu báo giá nháp.\n- Luồng n8n mô tả từng nút, có bước người duyệt bắt buộc.\n- Lược đồ bảng Supabase (đơn giá, khách, lịch thợ).\n- Quy tắc an toàn: không tư vấn kết cấu, luôn ghi ‘giá tạm tính, cần khảo sát’.\n- Báo giá gói tháng và kịch bản chào đội thợ.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "total_score": 6.0,
+      "rank": 7
+    },
+    {
+      "type": "startup",
+      "category": [
+        "service"
+      ],
+      "title": "“Phòng nằm 30 phút” — góc nghỉ trưa yên tĩnh gần tòa văn phòng: thảm, gối, bịt mắt, âm thanh dịu, đặt chỗ theo khung giờ qua Zalo, không bán thuốc ngủ",
+      "pitch": "Ở Hàn, người trẻ tụ tập chỉ để nằm nghỉ (pop-up khoảng 3.000 chiếc gối, ‘hòa nhạc ngủ’), app đo giấc ngủ cho thấy trung bình chỉ 5 giờ 25 phút/đêm. Ở VN, dân văn phòng quen ngủ trưa nhưng thiếu chỗ. Thuê lại một phòng trống của quán cà phê/coworking trong giờ trưa, bán chỗ nằm theo khung giờ.",
+      "tags": [
+        "nghỉ trưa",
+        "giấc ngủ",
+        "văn phòng",
+        "Hàn Quốc",
+        "dịch vụ"
+      ],
+      "regions": [
+        "KR"
+      ],
+      "hypothesis_note": "Số liệu là của Hàn (Korea Herald, Olive Young, Asleep). Ở VN đã có quán cà phê có giường/võng cho người trẻ ngủ trưa (VnExpress từng đưa tin) — điểm mới lạ thấp; khác biệt chỉ là đặt chỗ theo khung giờ sát tòa văn phòng. Chưa có số liệu VN về nhu cầu trả tiền để ngủ trưa.",
+      "confidence": "thấp–trung bình",
+      "image_alt": "Minh họa phẳng căn phòng nhỏ tông teal với ba tấm nệm cam, gối, bịt mắt và đồng hồ chỉ giờ trưa, ánh đèn dịu",
+      "signal_text": "Hàn (12–16/11/2026): Korea Herald — pop-up ‘Ceiling Service’ khoảng 3.000 gối, ‘hòa nhạc ngủ’ gần 100 người; Olive Young: sản phẩm melatonin 9 tháng +810%, phụ kiện ngủ +25%; app Asleep (hơn 370.000 người): ngủ trung bình 5 giờ 25 phút/đêm. JoongAng (Samsung Card): chi tiêu xông hơi của người 20–30 tuổi tháng 9 +36%.",
+      "vn_youth_fit": "Thu nhập bình quân lao động 2025 là 8,4 triệu đồng/tháng, thành thị 10,1 triệu (fact thu-nhap) — giá mỗi lượt phải rất thấp; Gen Z đặt hạn mức chi tiêu ăn uống ngoài (fact ngan-sach) nên dịch vụ cần gói tháng rẻ.",
+      "vn_fit_refs": [
+        "thu-nhap",
+        "ngan-sach"
+      ],
+      "key_facts": [
+        {
+          "text": "Pop-up ‘Ceiling Service’ (21–25/10, Hannam-dong) có khoảng 3.000 chiếc gối; ‘hòa nhạc ngủ’ ngày 21/5 thu hút gần 100 người.",
+          "source_ids": [
+            "sleep_kh"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "App Asleep (hơn 370.000 người dùng, 1/2024–12/2025): ngủ trung bình 5 giờ 25 phút/đêm, 56,2% thuộc nhóm ‘cú đêm’.",
+          "source_ids": [
+            "sleep_kh"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "CJ Olive Young: sản phẩm liên quan melatonin 9 tháng đầu năm tăng 810% so với cùng kỳ, theanine +368%, phụ kiện ngủ +25%.",
+          "source_ids": [
+            "sleep_kh"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu doanh nghiệp; không dùng để khuyến khích bán thực phẩm chức năng."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Korea Herald",
+          "title": "Lying down is the new hanging out",
+          "url": "https://www.koreaherald.com/article/10938629",
+          "published": "2026-11-16",
+          "note": "Số liệu bán hàng của CJ Olive Young và dữ liệu ứng dụng Asleep do doanh nghiệp cung cấp.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "sleep_kh"
+        },
+        {
+          "name": "Korea JoongAng Daily",
+          "title": "Off the sauce, in the sauna: Young Koreans shift spending toward well-being, health",
+          "url": "https://www.koreajoongangdaily.com/business/off-the-sauce-in-the-sauna-young-koreans-shift-spending-toward-wellbeing-health/12958809",
+          "published": "2026-11-12",
+          "note": "Toàn bộ số liệu là dữ liệu giao dịch thẻ Samsung Card; bài dịch bằng AI rồi biên tập.",
+          "accessed": "2026-11-25",
+          "how_read": "mở trang",
+          "id": "sauna_ja"
+        }
+      ],
+      "localize_vn": "Giả thuyết: thuê lại phòng phụ của quán cà phê/coworking gần cụm văn phòng (Duy Tân, Cầu Giấy; quận 1, quận 3) từ 12h–13h30; 8–10 chỗ nằm có vách ngăn, gối và vỏ gối dùng một lần, âm thanh dịu, khóa tủ đồ; bán vé lượt và gói tháng qua Zalo OA, thanh toán payOS. Không bán melatonin hay sản phẩm ngủ.",
+      "first_steps": [
+        "Ngày 1–2: Hỏi 30 nhân viên văn phòng quanh 1 cụm tòa nhà: đang ngủ trưa ở đâu, sẵn lòng trả bao nhiêu.",
+        "Ngày 3: Đàm phán với 2 quán cà phê/coworking có phòng trống giờ trưa (chia doanh thu).",
+        "Ngày 4: Claude soạn quy định phòng nghỉ, vệ sinh, an toàn; Canva làm poster.",
+        "Ngày 5: Mở đặt chỗ qua Zalo OA, nhận tiền qua payOS.",
+        "Ngày 6–7: Chạy thử 2 buổi trưa, đo tỷ lệ lấp đầy và phản hồi."
+      ],
+      "capital": {
+        "vnd_min_m": 15,
+        "vnd_max_m": 40,
+        "usd_min": 577,
+        "usd_max": 1538,
+        "note": "Ước tính của người soạn: nệm, gối, vách ngăn, bịt mắt, đồ vệ sinh, chia sẻ tiền phòng với quán; chưa khảo sát giá thuê."
+      },
+      "risks": [
+        "Vệ sinh, an toàn cho khách nữ",
+        "Quán đổi ý, mất chỗ",
+        "Nhu cầu chỉ có giờ trưa ngày thường",
+        "Cạnh tranh quán cà phê võng/giường có sẵn",
+        "Điều kiện kinh doanh lưu trú/dịch vụ [cần xác minh]"
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 5,
+        "novelty": 4,
+        "lowcap": 6,
+        "signal": 7,
+        "vnfit": 5
+      },
+      "toolstack": {
+        "confidence": "trung bình",
+        "wow": "12h05 khách quét mã ở sảnh, chọn ‘chỗ số 4, 12h15–12h45’, thanh toán xong là có tin Zalo nhắc giờ dậy.",
+        "tools": [
+          {
+            "tool_id": "zalo_oa",
+            "role": "Đặt chỗ, nhắc giờ, chăm khách gói tháng.",
+            "why": "Dân văn phòng dùng Zalo hằng ngày.",
+            "alt_ids": [
+              "zalo_zns"
+            ]
+          },
+          {
+            "tool_id": "payos",
+            "role": "Thu tiền vé lượt và gói tháng, đối soát tự động.",
+            "why": "Dịch vụ thanh toán của VN.",
+            "alt_ids": [
+              "vietqr"
+            ]
+          },
+          {
+            "tool_id": "claude",
+            "role": "Soạn quy định, kịch bản tư vấn, khảo sát nhu cầu.",
+            "why": "Viết tiếng Việt tốt.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Poster, bảng hướng dẫn trong phòng.",
+            "why": "Nhanh, nhiều mẫu.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "suno",
+            "role": "Tạo nhạc nền dịu cho phòng nghỉ (chỉ dùng gói cho phép thương mại).",
+            "why": "Có nhạc riêng, tránh vi phạm bản quyền.",
+            "alt_ids": [
+              "elevenlabs"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "zalo_oa",
+            "vietqr",
+            "claude",
+            "canva"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí nếu đủ; xem data/tools.json.",
+          "tradeoff": "Đối soát chuyển khoản thủ công, nhạc nền phải tìm nguồn miễn phí bản quyền."
+        },
+        "premium": {
+          "tool_ids": [
+            "zalo_oa",
+            "zalo_zns",
+            "payos",
+            "claude",
+            "canva",
+            "suno"
+          ],
+          "monthly_cost_note": "ZNS tính theo tin, Suno gói trả phí cho mục đích thương mại (xem data/tools.json).",
+          "tradeoff": "Tốn phí hơn, tự động hơn."
+        },
+        "checked": "2026-11-25"
+      },
+      "id": "20261125-02-phong-nam-30-phut",
+      "date": "2026-11-25",
+      "hypothesis": true,
+      "image": "assets/ideas/20261125-02-phong-nam-30-phut.webp",
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Phòng nằm 30 phút” — góc nghỉ trưa yên tĩnh gần tòa văn phòng: thảm, gối, bịt mắt, âm thanh dịu, đặt chỗ theo khung giờ qua Zalo, không bán thuốc ngủ\nTóm tắt: Ở Hàn, người trẻ tụ tập chỉ để nằm nghỉ (pop-up khoảng 3.000 chiếc gối, ‘hòa nhạc ngủ’), app đo giấc ngủ cho thấy trung bình chỉ 5 giờ 25 phút/đêm. Ở VN, dân văn phòng quen ngủ trưa nhưng thiếu chỗ. Thuê lại một phòng trống của quán cà phê/coworking trong giờ trưa, bán chỗ nằm theo khung giờ.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Hàn (12–16/11/2026): Korea Herald — pop-up ‘Ceiling Service’ khoảng 3.000 gối, ‘hòa nhạc ngủ’ gần 100 người; Olive Young: sản phẩm melatonin 9 tháng +810%, phụ kiện ngủ +25%; app Asleep (hơn 370.000 người): ngủ trung bình 5 giờ 25 phút/đêm. JoongAng (Samsung Card): chi tiêu xông hơi của người 20–30 tuổi tháng 9 +36%.\nDữ kiện:\n- Pop-up ‘Ceiling Service’ (21–25/10, Hannam-dong) có khoảng 3.000 chiếc gối; ‘hòa nhạc ngủ’ ngày 21/5 thu hút gần 100 người. (mức xác minh: 1 nguồn gốc)\n- App Asleep (hơn 370.000 người dùng, 1/2024–12/2025): ngủ trung bình 5 giờ 25 phút/đêm, 56,2% thuộc nhóm ‘cú đêm’. (mức xác minh: 1 nguồn gốc)\n- CJ Olive Young: sản phẩm liên quan melatonin 9 tháng đầu năm tăng 810% so với cùng kỳ, theanine +368%, phụ kiện ngủ +25%. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Số liệu là của Hàn (Korea Herald, Olive Young, Asleep). Ở VN đã có quán cà phê có giường/võng cho người trẻ ngủ trưa (VnExpress từng đưa tin) — điểm mới lạ thấp; khác biệt chỉ là đặt chỗ theo khung giờ sát tòa văn phòng. Chưa có số liệu VN về nhu cầu trả tiền để ngủ trưa.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nThu nhập bình quân lao động 2025 là 8,4 triệu đồng/tháng, thành thị 10,1 triệu (fact thu-nhap) — giá mỗi lượt phải rất thấp; Gen Z đặt hạn mức chi tiêu ăn uống ngoài (fact ngan-sach) nên dịch vụ cần gói tháng rẻ.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: thuê lại phòng phụ của quán cà phê/coworking gần cụm văn phòng (Duy Tân, Cầu Giấy; quận 1, quận 3) từ 12h–13h30; 8–10 chỗ nằm có vách ngăn, gối và vỏ gối dùng một lần, âm thanh dịu, khóa tủ đồ; bán vé lượt và gói tháng qua Zalo OA, thanh toán payOS. Không bán melatonin hay sản phẩm ngủ.\n\n## 4. Ràng buộc\n- Vốn: 15–40 triệu đồng (Ước tính của người soạn: nệm, gối, vách ngăn, bịt mắt, đồ vệ sinh, chia sẻ tiền phòng với quán; chưa khảo sát giá thuê.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Vệ sinh, an toàn cho khách nữ; Quán đổi ý, mất chỗ; Nhu cầu chỉ có giờ trưa ngày thường; Cạnh tranh quán cà phê võng/giường có sẵn; Điều kiện kinh doanh lưu trú/dịch vụ [cần xác minh].\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Zalo Official Account (OA): Đặt chỗ, nhắc giờ, chăm khách gói tháng.\n- payOS (Casso): Thu tiền vé lượt và gói tháng, đối soát tự động.\n- Claude (Anthropic): Soạn quy định, kịch bản tư vấn, khảo sát nhu cầu.\n- Canva: Poster, bảng hướng dẫn trong phòng.\n- Suno: Tạo nhạc nền dịu cho phòng nghỉ (chỉ dùng gói cho phép thương mại).\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1–2: Hỏi 30 nhân viên văn phòng quanh 1 cụm tòa nhà: đang ngủ trưa ở đâu, sẵn lòng trả bao nhiêu.\n- Ngày 3: Đàm phán với 2 quán cà phê/coworking có phòng trống giờ trưa (chia doanh thu).\n- Ngày 4: Claude soạn quy định phòng nghỉ, vệ sinh, an toàn; Canva làm poster.\n- Ngày 5: Mở đặt chỗ qua Zalo OA, nhận tiền qua payOS.\n- Ngày 6–7: Chạy thử 2 buổi trưa, đo tỷ lệ lấp đầy và phản hồi.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Phiếu khảo sát 8 câu cho dân văn phòng và cách tính giá trần chấp nhận được.\n- Thư đề xuất hợp tác chia doanh thu gửi chủ quán cà phê/coworking.\n- Quy định phòng nghỉ: vệ sinh, im lặng, an toàn, tủ đồ.\n- Sơ đồ bố trí 8–10 chỗ nằm và danh sách đồ cần mua.\n- Kịch bản Zalo OA đặt chỗ, nhắc giờ, gia hạn gói tháng.\n- Bảng chỉ số: tỷ lệ lấp đầy, khách quay lại, doanh thu mỗi buổi.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "from_keywords": [
+        "kw-kr-01"
+      ],
+      "total_score": 5.5,
+      "rank": 8
+    }
+  ],
+  "keywords": [
+    {
+      "id": "kw-cn-01",
+      "region": "CN",
+      "rank": null,
+      "keyword": "滑雪",
+      "gloss": "Trượt tuyết — tìm kiếm trên 美团 tăng 125% so với cùng kỳ (tính đến 28/10)",
+      "theme": "travel",
+      "source_id": "kws-eeo-snow",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "+125% tìm kiếm so với cùng kỳ (美团, qua 经济观察报)",
+      "note": "Số liệu nền tảng, báo dẫn lại.",
+      "idea_ids": [
+        "20261125-01-tu-do-di-tuyet"
+      ]
+    },
+    {
+      "id": "kw-cn-02",
+      "region": "CN",
+      "rank": null,
+      "keyword": "张家口 机票",
+      "gloss": "Vé máy bay đi Trương Gia Khẩu (vùng trượt tuyết) tháng 11 tăng hơn 270%",
+      "theme": "travel",
+      "source_id": "kws-xh-snow",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": ">+270% đặt vé so với cùng kỳ (航旅纵横)",
+      "note": "Đo đặt vé, không phải lượt tìm.",
+      "idea_ids": [
+        "20261125-01-tu-do-di-tuyet"
+      ]
+    },
+    {
+      "id": "kw-kr-01",
+      "region": "KR",
+      "rank": null,
+      "keyword": "멜라토닌",
+      "gloss": "Melatonin — nhóm sản phẩm liên quan trên Olive Young 9 tháng tăng 810%",
+      "theme": "beauty",
+      "source_id": "kws-kh-sleep",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "+810% doanh số 9 tháng so với cùng kỳ (Olive Young)",
+      "note": "Chỉ ghi nhận xu hướng; không gắn ý tưởng bán thực phẩm chức năng.",
+      "idea_ids": [
+        "20261125-02-phong-nam-30-phut"
+      ]
+    },
+    {
+      "id": "kw-jp-01",
+      "region": "JP",
+      "rank": 1,
+      "keyword": "スクイーズ",
+      "gloss": "Squeeze — đồ chơi bóp mềm, hạng 1 mục ‘trải nghiệm’ SHIBUYA109 lab. 2026",
+      "theme": "collect",
+      "source_id": "kws-s109",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hạng 1 mục trải nghiệm (khảo sát 676 nữ 15–24 tuổi)",
+      "note": "Hạng của bảng khảo sát, không phải tìm kiếm.",
+      "idea_ids": [
+        "20261125-04-kit-no-rosette-fandom"
+      ]
+    },
+    {
+      "id": "kw-jp-02",
+      "region": "JP",
+      "rank": 8,
+      "keyword": "ロゼットの作り方",
+      "gloss": "Cách làm nơ rosette — hạng 8 bài được thích nhất năm của Sucle",
+      "theme": "fashion",
+      "source_id": "kws-sucle",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "Hạng 8 theo lượt thích (235 bài, 1/1–26/10/2026)",
+      "note": "Đo trên tài khoản của chính Sucle.",
+      "idea_ids": [
+        "20261125-04-kit-no-rosette-fandom"
+      ]
+    },
+    {
+      "id": "kw-us-01",
+      "region": "US",
+      "rank": null,
+      "keyword": "TikTok Shop (Black Friday)",
+      "gloss": "TikTok Shop được nhắc trong 2,7% bài về Black Friday, nhiều hơn Amazon (2,3%)",
+      "theme": "money",
+      "source_id": "kws-melt",
+      "confidence": "tổng hợp bởi bên thứ ba",
+      "metric": "2,7% bài đăng (Meltwater, 7/10–7/11)",
+      "note": "Tỷ lệ nhắc đến, không phải lượt tìm.",
+      "idea_ids": [
+        "20261125-05-ghep-shop-creator-nho"
+      ]
+    }
+  ],
+  "keyword_sources": [
+    {
+      "id": "kws-eeo-snow",
+      "name": "投资界 (đăng lại 经济观察报, dẫn 美团)",
+      "title": "还没到冬天，他们已经开始「抢雪」了",
+      "url": "https://news.pedaily.cn/202611/571898.shtml",
+      "published": "2026-11-16",
+      "accessed": "2026-11-25",
+      "captured_at": "2026-11-25T06:00:00+07:00",
+      "how_read": "mở trang",
+      "region": "CN",
+      "note": "Không phải bảng xếp hạng: mức tăng tìm kiếm do 美团 cung cấp, báo dẫn lại. Giờ chụp là giờ đọc bài (xấp xỉ)."
+    },
+    {
+      "id": "kws-xh-snow",
+      "name": "新华网 (đăng lại 经济参考报, dẫn 航旅纵横)",
+      "title": "新雪季“开板” 冰雪消费供需两旺",
+      "url": "https://www.news.cn/travel/20261117/0f3bd47cbdb7440cba9ed95e27bbb7b4/c.html",
+      "published": "2026-11-17",
+      "accessed": "2026-11-25",
+      "captured_at": "2026-11-25T06:00:00+07:00",
+      "how_read": "mở trang",
+      "region": "CN",
+      "note": "Không phải bảng xếp hạng: số đặt vé máy bay của 航旅纵横."
+    },
+    {
+      "id": "kws-kh-sleep",
+      "name": "The Korea Herald (dẫn CJ Olive Young)",
+      "title": "Lying down is the new hanging out",
+      "url": "https://www.koreaherald.com/article/10938629",
+      "published": "2026-11-16",
+      "accessed": "2026-11-25",
+      "captured_at": "2026-11-25T06:00:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "Không phải bảng tìm kiếm: doanh số theo nhóm sản phẩm do Olive Young cung cấp."
+    },
+    {
+      "id": "kws-s109",
+      "name": "ワカモノリサーチ (dẫn SHIBUYA109 lab.)",
+      "title": "令和のZ世代が選んだ2026年のトレンド大賞！M!LK、ドバイチョコもち、スクイーズが１位に！若者の流行は「ドパ」と「セロ」！？",
+      "url": "https://wakamono-research.co.jp/media/2026-trend-awards/",
+      "published": "2026-11-12",
+      "accessed": "2026-11-25",
+      "captured_at": "2026-11-25T06:00:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "Bảng xếp hạng khảo sát (676 nữ 15–24 tuổi), không phải tìm kiếm realtime."
+    },
+    {
+      "id": "kws-sucle",
+      "name": "PR TIMES (Sucle/FinT)",
+      "title": "総フォロワー100万人のSucleが実データから読み解く『2026年若年層トレンド』を発表、キーワードは“お金をかけない自己表現”",
+      "url": "https://prtimes.jp/main/html/rd/p/000000186.000044523.html",
+      "published": "2026-11-24",
+      "accessed": "2026-11-25",
+      "captured_at": "2026-11-25T06:00:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "Xếp hạng lượt thích trên tài khoản Instagram của chính Sucle."
+    },
+    {
+      "id": "kws-melt",
+      "name": "Meltwater (blog)",
+      "title": "Black Friday 2026: Big deals, small creators, and the “should I wait?” dilemma",
+      "url": "https://www.meltwater.com/en/blog/black-friday-build-up-2026",
+      "published": "2026-11-12",
+      "accessed": "2026-11-25",
+      "captured_at": "2026-11-25T06:00:00+07:00",
+      "how_read": "mở trang",
+      "region": "US",
+      "note": "Tỷ lệ nhắc đến trong bài đăng mạng xã hội (lắng nghe của Meltwater), không phải tìm kiếm."
+    }
+  ],
+  "keyword_unreachable": [
+    {
+      "region": "VN",
+      "source": "Google Trends RSS geo=VN",
+      "reason": "thử 25/11/2026 05:50 UTC+7 qua WebFetch (tác tử đọc web): PROVENANCE_REQUIRED — yêu cầu cấp quyền không được trả lời vì chạy tự động; theo ghi chú môi trường, curl bị proxy chặn nên không thử vòng. Không có bảng từ khóa VN hôm nay."
+    },
+    {
+      "region": "KR",
+      "source": "Google Trends RSS geo=KR",
+      "reason": "thử 25/11/2026 05:50 UTC+7 qua WebFetch (tác tử đọc web): PROVENANCE_REQUIRED — yêu cầu cấp quyền không được trả lời vì chạy tự động; theo ghi chú môi trường, curl bị proxy chặn nên không thử vòng."
+    },
+    {
+      "region": "JP",
+      "source": "Google Trends RSS geo=JP + Yahoo! JAPAN リアルタイム検索 (まとめ)",
+      "reason": "thử 25/11/2026 05:50 UTC+7 qua WebFetch (tác tử đọc web): PROVENANCE_REQUIRED — yêu cầu cấp quyền không được trả lời vì chạy tự động; theo ghi chú môi trường, curl bị proxy chặn nên không thử vòng. Nikkei xTREND (ヒット商品/若者ヒット大賞) và Yahoo!ニュース bị robots.txt chặn."
+    },
+    {
+      "region": "US",
+      "source": "Google Trends RSS geo=US; Z Media TikTok Shop Index",
+      "reason": "thử 25/11/2026 05:50 UTC+7 qua WebFetch (tác tử đọc web): PROVENANCE_REQUIRED — yêu cầu cấp quyền không được trả lời vì chạy tự động; theo ghi chú môi trường, curl bị proxy chặn nên không thử vòng. Mục US hôm nay là tỷ lệ nhắc đến trên mạng xã hội (Meltwater), không phải tìm kiếm."
+    },
+    {
+      "region": "CN",
+      "source": "Baidu 热搜 realtime; Weibo 热搜; Douyin hot",
+      "reason": "thử 25/11/2026 05:50 UTC+7 qua WebFetch (tác tử đọc web): PROVENANCE_REQUIRED — yêu cầu cấp quyền không được trả lời vì chạy tự động; theo ghi chú môi trường, curl bị proxy chặn nên không thử vòng. Mục CN hôm nay là số liệu nền tảng do báo dẫn lại, không có hạng."
+    },
+    {
+      "region": "GLOBAL",
+      "source": "Bảng từ khóa toàn cầu",
+      "reason": "Không đủ từ khóa đo trực tiếp ở ≥ 2 vùng để suy ra mục GLOBAL hôm nay."
+    }
+  ]
+}

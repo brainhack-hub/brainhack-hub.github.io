@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24",
-  "latest": "2026-11-24",
+  "updated": "2026-11-25",
+  "latest": "2026-11-25",
   "topics": [
     {
       "id": "ai_xd",
@@ -68,6 +68,19 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-11-25",
+      "file": "2026-11-25.json",
+      "headline": "AI vào ‘văn phòng’ nhà thầu (Drillbit 4,4 triệu USD, KENCOPA, Autodesk Forma); nhựa đường +16,7%, thép điều chỉnh 5 lần; Mỹ đưa Megaspeed vào danh sách đen, TSMC +9,9%",
+      "item_count": 23,
+      "topics": {
+        "ai_xd": 9,
+        "chuoi_cung_ung": 4,
+        "cong_nghe": 2,
+        "ai_toan_cau": 5,
+        "vn": 3
+      }
+    },
     {
       "date": "2026-11-24",
       "file": "2026-11-24.json",
