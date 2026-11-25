@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25",
-  "latest": "2026-11-25",
+  "updated": "2026-11-26",
+  "latest": "2026-11-26",
   "topics": [
     {
       "id": "ai_xd",
@@ -68,6 +68,19 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-11-26",
+      "file": "2026-11-26.json",
+      "headline": "Mỹ đề xuất thuế 301 tới 35% với hàng Việt Nam; AI xây dựng tuần này là chuyện quản trị (lưu vết, đào tạo, dữ liệu mở); cổ phiếu AI châu Á lao dốc, công cụ AI bị nghi đứng sau vụ xâm nhập CIA",
+      "item_count": 26,
+      "topics": {
+        "ai_xd": 8,
+        "chuoi_cung_ung": 4,
+        "cong_nghe": 4,
+        "ai_toan_cau": 6,
+        "vn": 4
+      }
+    },
     {
       "date": "2026-11-25",
       "file": "2026-11-25.json",

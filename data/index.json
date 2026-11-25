@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-25",
-  "latest": "2026-11-25",
+  "updated": "2026-11-26",
+  "latest": "2026-11-26",
   "days": [
+    {
+      "date": "2026-11-26",
+      "file": "2026-11-26.json",
+      "headline": "TQ: tiệm nghề trên Douyin +130%, cặp đôi xin nhãn hàng tài trợ đám cưới, nghề ‘bay cùng’ người già; Hàn: bánh cuộn meringue xếp hàng 2–3 tiếng, đồ trừ xui gấp 29 lần; Nhật: charm ‘đánh dấu’ vượt 200 triệu cái; Mỹ: quà rời màn hình — 9 ý tưởng",
+      "idea_count": 9,
+      "trend_count": 8,
+      "keyword_count": 27,
+      "top": {
+        "title": "“Đám cưới có nhà tài trợ” — đóng gói đám cưới của cặp đôi bình thường thành hồ sơ truyền thông (số khách, góc check-in, bài đăng sau cưới) để xin quà tài trợ từ quán cà phê, tiệm bánh, thương hiệu đồ ăn vặt địa phương",
+        "total_score": 6.78
+      }
+    },
     {
       "date": "2026-11-25",
       "file": "2026-11-25.json",
