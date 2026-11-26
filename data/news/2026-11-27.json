@@ -1,0 +1,1009 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T06:08:00+07:00",
+  "headline": "Nvidia tạm dừng giao máy chủ AI sang 4 nước Đông Nam Á; AI vào khâu kiểm hồ sơ nhà thầu, xin phép, sửa bản vẽ; Hàn–Nhật chỉ ra nút thắt định mức – đơn giá; Bộ Công Thương: hàng Mục 232 có thể thoát thuế 301",
+  "digest": [
+    {
+      "title": "AI toàn cầu: Nvidia tạm dừng giao máy chủ AI tới Malaysia, Singapore, Thái Lan, Indonesia",
+      "text": "Theo TechCrunch (dẫn WSJ), Nvidia yêu cầu đối tác như Dell, Super Micro tạm dừng giao máy chủ tới bốn nước, chưa có thời hạn, để rà tuân thủ xuất khẩu Mỹ sau khi lỗ hổng thuê chip từ xa bị bịt đầu tháng 11. Cùng lúc, The Information (qua SBS) cho biết các hãng AI Trung Quốc chững lại vì mất nguồn chip thuê. Việt Nam không có tên, nhưng ai đang mua máy chủ AI/thuê GPU qua nhà cung cấp khu vực nên dự trù chậm giao và hồ sơ người dùng cuối chặt hơn.",
+      "item_ids": [
+        "n-20261127-01-nvidia-dung-giao-may-chu-dong-nam-a",
+        "n-20261127-02-ai-trung-quoc-chung-lai"
+      ]
+    },
+    {
+      "title": "AI trong mua sắm xây dựng: kiểm hồ sơ nhà thầu, xin phép, sửa bản vẽ",
+      "text": "Achilles ra mắt Site Control — AI đối chiếu hồ sơ nhà thầu, nhân sự, thiết bị với yêu cầu từng công trường (thông cáo của hãng, chưa nêu khách hàng). Pulley gọi tổng 64 triệu USD cho dịch vụ xin phép xây dựng ‘AI + chuyên gia’; Nomic đưa tác tử AI vào sửa CAD/BIM qua add-in Revit, AutoCAD (mọi thay đổi cần người duyệt). Gợi ý: siết kiểm soát revision trước khi bóc khối lượng, chào giá.",
+      "item_ids": [
+        "n-20261127-10-achilles-site-control",
+        "n-20261127-08-pulley-64-trieu-usd-cap-phep",
+        "n-20261127-09-nomic-tac-tu-ai-cad-bim"
+      ]
+    },
+    {
+      "title": "Hàn – Nhật: AI công trường vướng định mức, đơn giá — Nhật đã sửa quy tắc dự toán",
+      "text": "Hankyung: nhà thầu Hàn đưa AI, robot vào công trường nhưng chi phí thiết bị khó vào giá hợp đồng, startup khó được chứng nhận; Nhật sửa quy định dự toán, mua sắm cho thi công ICT từ 2016 và nâng tỷ lệ áp dụng từ 36% lên 87% (2023). Tại Nhật, Andpad và CAREECON ra AI cảnh báo trễ tiến độ, sụt lãi gộp và đọc hóa đơn bằng AI-OCR (thông cáo hãng).",
+      "item_ids": [
+        "n-20261127-14-han-quoc-rao-can-ai-robot-cong-truong",
+        "n-20261127-11-andpad-ai-quan-tri-nha-o",
+        "n-20261127-12-careecon-so-cai-cong-trinh"
+      ]
+    },
+    {
+      "title": "Thuế 301: Bộ Công Thương nói 35% mới là đề xuất, hàng Mục 232 có thể không chịu thêm",
+      "text": "Họp báo 26/11: mức tối đa 35% có thể giảm còn 20% nếu đạt hiệp định đối ứng, hai bên đã cơ bản thống nhất nội dung. Thép, nhôm, ô tô thuộc Mục 232 có thể không bị áp thêm 301; chưa rõ thuế 12,5% từ tháng 7 có cộng dồn. Nhóm nội thất, thiết bị, phụ kiện vẫn rủi ro — giữ điều khoản điều chỉnh giá trong hợp đồng khung.",
+      "item_ids": [
+        "n-20261127-20-301-hang-232-co-the-khong-chiu-them"
+      ]
+    },
+    {
+      "title": "Chi phí đầu vào: cước Á–Âu dự báo tăng 10–15% đầu tháng 12, than cốc lên đỉnh 1 tháng",
+      "text": "Xeneta (số liệu 26/11): Viễn Đông–Địa Trung Hải 5.114 USD/FEU (+73% so với cùng kỳ), có thể tăng thêm 10–15% đầu tháng 12; tuyến Mỹ tiếp tục giảm. Thép xây dựng trong nước đứng giá (Hòa Phát CB240 14.920 đồng/kg) nhưng than luyện cốc +5,42% — nên chốt booking hàng nhập châu Âu và khối lượng thép quý I sớm.",
+      "item_ids": [
+        "n-20261127-21-xeneta-27-11-cuoc-dia-trung-hai-tang",
+        "n-20261127-22-gia-thep-26-11-than-coc-dinh-1-thang"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "n-20261127-01-nvidia-dung-giao-may-chu-dong-nam-a",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "title_vi": "Nvidia tạm dừng giao máy chủ AI tới Malaysia, Singapore, Thái Lan và Indonesia",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ quốc tế"
+      },
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "published": "2026-11-26T12:03:00-08:00",
+      "time_known": true,
+      "date_basis": "dòng giờ đăng 12:03 PM PST trên trang; meta 2026-11-26T20:03:54+00:00",
+      "topic": "ai_toan_cau",
+      "region": "SEA",
+      "summary_vi": "Dẫn The Wall Street Journal, TechCrunch cho biết Nvidia đã yêu cầu các đối tác sản xuất, trong đó có Dell và Super Micro, tạm dừng giao máy chủ tới Malaysia, Singapore, Thái Lan và Indonesia, chưa có thời hạn kết thúc. Nvidia được cho là đang đánh giá liệu các đối tác khu vực có đáp ứng yêu cầu xuất khẩu của Mỹ hay không. Nguyên nhân là lỗ hổng truy cập từ xa: doanh nghiệp Trung Quốc được cho là thuê chip Nvidia đặt ở trung tâm dữ liệu tại các nước này; Bộ Thương mại Mỹ đã bịt lỗ hổng đó đầu tháng 11. Viện Institute for Progress ước tính các trung tâm dữ liệu từ xa như vậy cung cấp khoảng 24% năng lực tính toán AI của Trung Quốc.",
+      "why_it_matters": "Việt Nam không nằm trong danh sách nhưng ở ngay cạnh các thị trường bị dừng; doanh nghiệp VN mua máy chủ AI hoặc thuê GPU qua nhà cung cấp khu vực nên dự trù chậm giao hàng và chuẩn bị hồ sơ người dùng cuối, tuân thủ xuất khẩu Mỹ chặt hơn trong hợp đồng mua sắm.",
+      "tags": [
+        "Nvidia",
+        "kiểm soát xuất khẩu",
+        "Đông Nam Á",
+        "máy chủ AI",
+        "trung tâm dữ liệu",
+        "chuỗi cung ứng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web); không mở bản gốc của The Wall Street Journal",
+      "accessed": "2026-11-27",
+      "note": "Diễn biến mới so với tin Megaspeed bị đưa vào danh sách đen (đăng 25/11). Liên quan: The Standard (HK, dẫn Bloomberg, 18/11) đưa tin các ngân hàng do DBS dẫn đầu đóng băng khoản vay 480 triệu USD của Aolani Cloud mua GPU cho trung tâm dữ liệu ở Malaysia phục vụ ByteDance sau quy định mới của Mỹ."
+    },
+    {
+      "id": "n-20261127-02-ai-trung-quoc-chung-lai",
+      "title": "\"We Are Done\": China's AI Development Stalls Amid U.S. Chip and Token Restrictions",
+      "title_vi": "“Chúng tôi xong rồi”: phát triển AI của Trung Quốc chững lại vì Mỹ chặn thuê chip từ xa và siết chống chưng cất mô hình",
+      "source": {
+        "name": "SBS News (Hàn Quốc)",
+        "kind": "đài truyền hình quốc tế"
+      },
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008865057",
+      "published": "2026-11-26T14:57:14+09:00",
+      "time_known": true,
+      "date_basis": "dòng đăng 2026.11.26 14:57 và meta 2026-11-26T14:57:14+09:00",
+      "topic": "ai_toan_cau",
+      "region": "CN",
+      "summary_vi": "Dẫn The Information (25/11), SBS cho biết việc Mỹ chặn thuê chip Nvidia từ xa và các hãng AI Mỹ siết chống “chưng cất” (distillation) mô hình đang làm chậm phát triển AI ở Trung Quốc. Moonshot AI đã hủy hợp đồng truy cập chip Blackwell trị giá 150 triệu USD qua một trung tâm dữ liệu ở Indonesia; CEO MiniMax nói sẽ đẩy nhanh dùng chip Huawei và Alibaba. Quy định của Bộ Thương mại Mỹ công bố 16/11, hiệu lực 19/11, buộc trung tâm dữ liệu ở nước ngoài cung cấp điện toán quy mô nhất định cho Trung Quốc phải xin giấy phép, với 90 ngày ân hạn cho bên đang vận hành. Một nguồn trong DeepSeek ước khoảng cách với mô hình Mỹ có thể nới từ 3–6 tháng lên 9 tháng nếu bị chặn chưng cất hoàn toàn.",
+      "why_it_matters": "Nếu các hãng Trung Quốc chuyển mạnh sang chip nội địa, giá và chất lượng mô hình AI giá rẻ từ Trung Quốc mà nhiều doanh nghiệp VN đang dùng có thể thay đổi — nên tránh khóa chặt vào một nhà cung cấp mô hình.",
+      "tags": [
+        "Trung Quốc",
+        "AI",
+        "kiểm soát xuất khẩu",
+        "Moonshot",
+        "MiniMax",
+        "DeepSeek",
+        "chip nội địa"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web); không mở bản gốc của The Information",
+      "accessed": "2026-11-27",
+      "note": "Thông tin gốc từ The Information, dựa trên nguồn giấu tên; chưa có xác nhận chính thức từ Moonshot, MiniMax hay DeepSeek trong bài."
+    },
+    {
+      "id": "n-20261127-03-trump-tsmc-arizona",
+      "title": "Trump heads to Arizona next week for high-stakes expansion of TSMC's computer chip factories",
+      "title_vi": "Trump sẽ dự lễ động thổ mở rộng nhà máy chip TSMC ở Arizona ngày 4/12",
+      "source": {
+        "name": "AP (đăng lại trên The Korea Times)",
+        "kind": "hãng tin quốc tế"
+      },
+      "url": "https://www.koreatimes.co.kr/world/20261126/trump-heads-to-arizona-next-week-for-high-stakes-expansion-of-tsmcs-computer-chip-factories",
+      "published": "2026-11-26T08:01:00+09:00",
+      "time_known": true,
+      "date_basis": "dòng đăng Nov 26, 2026, 8:01 am KST trên trang The Korea Times (tức 25/11 giờ Mỹ)",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Nhà Trắng và TSMC xác nhận Tổng thống Trump sẽ tới Arizona ngày 4/12 để phát biểu tại lễ động thổ một nhà máy mới của TSMC. Tháng 7, TSMC công bố thêm 100 tỷ USD, nâng tổng cam kết đầu tư sản xuất chip tại Mỹ lên 265 tỷ USD; các nhà máy Arizona làm chip cho Nvidia, Apple, AMD, Broadcom và Qualcomm. Nhà Trắng nói dự án tạo 10.000 việc làm trực tiếp và 11.000 việc làm gián tiếp; công trường hiện có hơn 12.000 công nhân xây dựng. Bài cũng nhắc CEO Nvidia Jensen Huang dự kiến điều trần trước Ủy ban Ngân hàng Thượng viện ngày 3/12.",
+      "why_it_matters": "Các siêu dự án nhà máy chip hút mạnh nhân lực và thiết bị MEP, phòng sạch, điện trên toàn cầu — có thể kéo dài thời gian giao các hạng mục như tủ điện, máy phát, chiller cho dự án ở nơi khác, kể cả Việt Nam.",
+      "tags": [
+        "TSMC",
+        "Arizona",
+        "nhà máy chip",
+        "xây dựng",
+        "Trump",
+        "bán dẫn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Phần tóm tắt trên trang gọi đây là giai đoạn mở rộng thứ năm ở Phoenix, còn thân bài gọi là một nhà máy (foundry) mới — giữ cả hai cách nói, không chọn bừa."
+    },
+    {
+      "id": "n-20261127-04-bok-nang-du-bao-tang-truong",
+      "title": "BOK sharply upgrades 2027 growth forecast to 4.1% from 2.9% on chip boom",
+      "title_vi": "Ngân hàng Trung ương Hàn Quốc nâng mạnh dự báo tăng trưởng 2027 lên 4,1% nhờ bùng nổ chip, đồng thời tăng lãi suất",
+      "source": {
+        "name": "The Korea Times",
+        "kind": "báo quốc tế (Hàn Quốc)"
+      },
+      "url": "https://www.koreatimes.co.kr/economy/20261126/bok-sharply-upgrades-2027-growth-forecast-to-41-from-29-on-chip-boom",
+      "published": "2026-11-26T09:53:00+09:00",
+      "time_known": true,
+      "date_basis": "dòng đăng Nov 26, 2026, 9:53 a.m. KST (cập nhật 3:38 p.m. KST) trên trang",
+      "topic": "ai_toan_cau",
+      "region": "KR",
+      "summary_vi": "Ngân hàng Trung ương Hàn Quốc (BOK) nâng dự báo tăng trưởng 2027 lên 4,1% từ 2,9% — mức nâng lớn nhất kể từ khi BOK bắt đầu dự báo năm tới vào 2008 — và nâng dự báo 2026 lên 3,9%. Lợi nhuận hoạt động của các hãng chip Hàn Quốc năm nay ước gần 700 nghìn tỷ won (khoảng 520 tỷ USD), hơn một phần năm thu nhập quốc dân dự kiến. Cùng lúc, BOK tăng lãi suất cơ bản 0,25 điểm lên 3,25% vì lạm phát dai dẳng, với 2 trên 7 thành viên phản đối. Tiêu dùng tư nhân quý 3 giảm 0,2%, Thống đốc Shin Hyun-song gắn một phần với đợt bán tháo cổ phiếu chip AI.",
+      "why_it_matters": "Cho thấy siêu chu kỳ chip AI đã đủ lớn để đổi hướng cả một nền kinh tế; với VN, các tập đoàn Hàn dồi dào lợi nhuận là nguồn vốn FDI tiềm năng cho nhà máy, kho bãi và hạ tầng phụ trợ, nhưng lãi suất Hàn tăng cũng có thể ảnh hưởng chi phí vốn.",
+      "tags": [
+        "Hàn Quốc",
+        "BOK",
+        "lãi suất",
+        "bán dẫn",
+        "kinh tế vĩ mô",
+        "AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27"
+    },
+    {
+      "id": "n-20261127-05-softbank-cds-cao-nhat-4-nam",
+      "title": "Investors see rising risk of SoftBank default as pressure grows on AI bets",
+      "title_vi": "Chi phí bảo hiểm rủi ro vỡ nợ của SoftBank lên cao nhất 4 năm vì lo ngại các khoản đặt cược AI",
+      "source": {
+        "name": "Reuters (đăng lại trên Y100 WNCY)",
+        "kind": "hãng tin quốc tế"
+      },
+      "url": "https://wncy.com/2026/11/26/investors-see-rising-risk-of-softbank-default-as-pressure-grows-on-ai-bets/",
+      "published": "2026-11-26",
+      "time_known": false,
+      "date_basis": "trang ghi Nov 26, 2026, 2:13 AM nhưng không nêu múi giờ; dòng tin 'Singapore, Nov 26'",
+      "topic": "ai_toan_cau",
+      "region": "JP",
+      "summary_vi": "Theo Reuters, chi phí bảo hiểm rủi ro vỡ nợ của SoftBank Group tăng phiên thứ hai liên tiếp vào thứ Năm: chênh lệch hợp đồng hoán đổi rủi ro tín dụng (CDS) 5 năm nới thêm hơn 20 điểm cơ bản lên 534,6 điểm, cao nhất 4 năm. Nhà đầu tư lo các khoản đầu tư AI, trong đó có cổ phần tại OpenAI, không sinh lời đủ nhanh để trang trải nợ. Bài coi SoftBank là phong vũ biểu của đầu tư AI khi cổ phiếu và trái phiếu của tập đoàn đều chịu áp lực.",
+      "why_it_matters": "Rủi ro tín dụng của một nhà tài trợ AI lớn có thể làm chậm hoặc hoãn các dự án trung tâm dữ liệu dùng vốn vay — nhà thầu và nhà cung cấp nên kiểm tra năng lực tài chính chủ đầu tư và điều khoản thanh toán.",
+      "tags": [
+        "SoftBank",
+        "Nhật Bản",
+        "CDS",
+        "rủi ro tín dụng",
+        "OpenAI",
+        "đầu tư AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Ngày 26/11 đã đăng tin cổ phiếu SoftBank Group giảm mạnh (AP); đây là diễn biến mới về rủi ro tín dụng (CDS). Trang có hiển thị một con số 'xác suất vỡ nợ' nhưng không rõ nguồn nên không dùng."
+    },
+    {
+      "id": "n-20261127-06-samsung-tai-co-cau-bo-nho",
+      "title": "Samsung reorganizes memory, system LSI units to boost AI chip competitiveness",
+      "title_vi": "Samsung tái cơ cấu mảng bộ nhớ và System LSI để tăng sức cạnh tranh chip AI",
+      "source": {
+        "name": "Yonhap (đăng lại trên The Korea Times)",
+        "kind": "hãng tin quốc tế"
+      },
+      "url": "https://www.koreatimes.co.kr/business/companies/20261126/samsung-reorganizes-memory-system-lsi-units-to-boost-ai-chip-competitiveness",
+      "published": "2026-11-26T17:11:00+09:00",
+      "time_known": true,
+      "date_basis": "dòng đăng Nov 26, 2026, 5:11 pm KST; meta 2026-11-26T08:11:03Z",
+      "topic": "ai_toan_cau",
+      "region": "KR",
+      "summary_vi": "Theo nguồn tin trong ngành, Samsung Electronics gom các bộ phận phát triển bộ nhớ về dưới quyền giám sát trực tiếp của người đứng đầu mảng kinh doanh bộ nhớ, đồng thời mở rộng bộ phận bán hàng và tiếp thị của mảng System LSI (thiết kế chip). Mục tiêu là tăng tốc phát triển bộ nhớ thế hệ mới và củng cố vị thế trên thị trường chip AI. Ông Hwang Sang-joon được thăng chức đứng đầu mảng kinh doanh bộ nhớ; ông Yoon Ha-ryong được giao phụ trách hoạt động tại Mỹ (Device Solutions America).",
+      "why_it_matters": "Samsung có cơ sở sản xuất lớn tại VN; việc dồn lực cho chip AI cho thấy ưu tiên công suất và đầu tư của tập đoàn tiếp tục nghiêng về bộ nhớ cho AI — đáng theo dõi với nhà cung cấp phụ trợ trong nước.",
+      "tags": [
+        "Samsung",
+        "Hàn Quốc",
+        "chip nhớ",
+        "tái cơ cấu",
+        "chip AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Ngày 25/11 đã đăng tin Samsung, SK hynix, LG giữ CEO và vẽ lại chiến lược (Korea Herald); đây là diễn biến mới: tái cơ cấu tổ chức cụ thể trong mảng bán dẫn."
+    },
+    {
+      "id": "n-20261127-07-x-kiem-soat-phu-huynh",
+      "title": "X finally gets parental controls after 20 years",
+      "title_vi": "X ra mắt công cụ kiểm soát của phụ huynh, mặc định 'chế độ bảo vệ' cho tài khoản 13–17 tuổi",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ quốc tế"
+      },
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "published": "2026-11-26T11:31:00-08:00",
+      "time_known": true,
+      "date_basis": "dòng giờ đăng 11:31 AM PST trên trang (19:31 UTC)",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "X (trước là Twitter) bổ sung công cụ cho phụ huynh quản lý những gì thiếu niên thấy và làm trên nền tảng; tài khoản 13–17 tuổi mặc định ở “chế độ bảo vệ”, ẩn nội dung nhạy cảm và chặn quảng cáo nhắm mục tiêu. Phụ huynh có thể theo dõi thời gian dùng hằng tuần, đặt giới hạn mỗi ngày, duyệt người theo dõi mới và kiểm soát ai được nhắn tin, nhưng không đọc được tin nhắn riêng. TechCrunch nhắc việc ra mắt diễn ra sau chỉ trích chatbot AI của X bị dùng tạo ảnh khiêu dâm.",
+      "why_it_matters": "Áp lực pháp lý về an toàn trẻ em và AI đang buộc nền tảng lớn thay đổi sản phẩm; doanh nghiệp làm quảng cáo hướng tới thanh thiếu niên trên X cần tính tới việc quảng cáo nhắm mục tiêu bị chặn ở nhóm tuổi này.",
+      "tags": [
+        "X",
+        "mạng xã hội",
+        "an toàn trẻ em",
+        "quảng cáo",
+        "Big Tech"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Tin Big Tech mức độ vừa; có thể bỏ nếu cần nhường chỗ."
+    },
+    {
+      "id": "n-20261127-08-pulley-64-trieu-usd-cap-phep",
+      "title": "Pulley Raises $64M, and the Permitting Service Is Becoming a Platform for Site Selection and Drawing Review",
+      "title_vi": "Pulley gọi 64 triệu USD, mở rộng từ dịch vụ xin phép xây dựng sang chọn địa điểm và soát bản vẽ bằng AI",
+      "source": {
+        "name": "Construction Industry AI",
+        "kind": "báo chuyên đề AI xây dựng"
+      },
+      "url": "https://www.constructionindustry.ai/funding/pulley-64m-series-a-b-permitting-site-selection-drawing-review/",
+      "published": "2026-11-25",
+      "time_known": false,
+      "date_basis": "dòng tác giả ghi 25/11/2026 (meta chỉ có 00:00 UTC — không phải giờ đăng thật)",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Pulley, dịch vụ xin phép xây dựng trọn gói kết hợp hơn 75 chuyên gia có chứng chỉ với tác tử AI, công bố tổng 64 triệu USD qua vòng Series A (23 triệu, CRV và Susa Ventures dẫn) và Series B (41 triệu, Jump Capital dẫn); nhà đầu tư còn có Fifth Wall, Suffolk Technologies. Theo hãng, Pulley có chương trình thẩm tra hồ sơ tư nhân ở hơn 2.000 thành phố/hạt và giúp phê duyệt nhanh hơn ‘tới 70%’; khách hàng gồm Amazon, Starbucks, JLL, Equinix. Vốn mới dùng cho công cụ chọn địa điểm và soát lỗi tuân thủ quy chuẩn trên bản vẽ bằng AI — tác giả lưu ý đây mới là kế hoạch, chưa phát hành.",
+      "why_it_matters": "Thủ tục pháp lý là khâu nằm trên đường găng trước khi mua sắm được triển khai; mô hình ‘AI + chuyên gia’ cho thấy hướng thuê ngoài có kiểm soát mà chủ đầu tư VN có thể tham khảo khi số hóa hồ sơ xin phép và thẩm định thiết kế.",
+      "tags": [
+        "gọi vốn",
+        "cấp phép xây dựng",
+        "tác tử AI",
+        "soát bản vẽ",
+        "Mỹ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Các con số hiệu quả do Pulley tự nêu; số liệu tăng trưởng doanh thu 5 lần là của Pulse 2.0/The SaaS News, không có trong thông cáo của hãng nên không đưa vào tóm tắt. Ngày 19/11 từng ghi nguồn Business Wire về Pulley vào mục không truy cập được — chưa đăng tin."
+    },
+    {
+      "id": "n-20261127-09-nomic-tac-tu-ai-cad-bim",
+      "title": "Nomic extends AI agents into CAD drafting and BIM",
+      "title_vi": "Nomic mở rộng tác tử AI sang vẽ CAD và BIM, ra add-in cho Revit và AutoCAD",
+      "source": {
+        "name": "AEC Magazine",
+        "kind": "báo ngành AEC"
+      },
+      "url": "https://aecmag.com/cad/nomic-extends-ai-agents-into-cad-drafting-and-bim/",
+      "published": "2026-11-25T17:05:37+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time",
+      "topic": "ai_xd",
+      "region": "Global",
+      "summary_vi": "Nomic, vốn làm phần mềm AI soát bản vẽ, mở rộng sang tự động vẽ CAD: người dùng mô tả bằng ngôn ngữ tự nhiên hoặc đưa bản vẽ cũ, tác tử trả về file CAD chỉnh sửa được (DWG, DXF, DGN) kèm PDF, theo đúng chuẩn lớp, nét, khung tên của công ty. Tác tử còn đọc văn bản góp ý thẩm tra để sửa các bản vẽ liên quan, thêm đám mây sửa đổi và lưu thành phiên bản mới. Add-in Revit và AutoCAD đang được triển khai cho khách hàng, có thể phát hiện va chạm ống gió – kết cấu và gắn tag cửa/phòng; mọi thay đổi cần người duyệt trước khi áp dụng. Bài không nêu giá và không có kiểm chứng độc lập.",
+      "why_it_matters": "AI đang chuyển từ ‘đọc’ sang ‘sửa’ hồ sơ thiết kế — khi bản vẽ phát hành nhanh hơn, bộ phận mua sắm cần quy trình kiểm soát phiên bản chặt để bóc khối lượng và chào giá trên đúng revision.",
+      "tags": [
+        "CAD",
+        "BIM",
+        "Revit",
+        "tác tử AI",
+        "soát bản vẽ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Ví dụ khách hàng (kỹ sư MEP dùng sớm) do Nomic cung cấp, không nêu tên; mảng AI của AEC Magazine có nhà tài trợ (HP, NVIDIA)."
+    },
+    {
+      "id": "n-20261127-10-achilles-site-control",
+      "title": "Achilles Launches AI-Powered Site Control for Contractor and Site Compliance Management",
+      "title_vi": "Achilles ra mắt Site Control: AI kiểm tra hồ sơ tuân thủ của nhà thầu, nhân sự, thiết bị trước khi vào công trường",
+      "source": {
+        "name": "The Machine Maker",
+        "kind": "trang tin công nghiệp (đăng lại thông cáo)"
+      },
+      "url": "https://themachinemaker.com/news/achilles-launches-ai-powered-site-control-for-contractor-and-site-compliance-management/",
+      "published": "2026-11-24T06:57:29+00:00",
+      "time_known": true,
+      "date_basis": "meta thời gian đăng; trang ghi 24/11/2026",
+      "topic": "ai_xd",
+      "region": "Global",
+      "summary_vi": "Achilles — đơn vị quản lý rủi ro chuỗi cung ứng — ra mắt Site Control, nền tảng dùng AI trích xuất thông tin từ hồ sơ nhà thầu nộp lên và đối chiếu với yêu cầu đã cấu hình theo từng công trường, loại công việc. Việc kiểm tra thường lệ được tự động hóa, hồ sơ cần xem kỹ được chuyển cho chuyên gia an toàn của Achilles; người quản lý có thể hỏi bằng ngôn ngữ thường, ví dụ nhà thầu nào thiếu hoặc sắp hết hạn giấy tờ bắt buộc. Theo hãng, công cụ giảm việc hành chính và tránh chậm duyệt nhà thầu; bài không nêu tên khách hàng.",
+      "why_it_matters": "Kiểm tra năng lực, bảo hiểm, chứng chỉ an toàn của nhà thầu phụ là việc lặp lại tốn công của phòng mua sắm; công cụ kiểu này gắn dữ liệu sơ tuyển nhà cung cấp với kiểm soát cổng công trường, đáng cân nhắc khi chuẩn hóa danh sách nhà thầu đủ điều kiện.",
+      "tags": [
+        "sơ tuyển nhà thầu",
+        "tuân thủ",
+        "an toàn",
+        "chuỗi cung ứng",
+        "Achilles"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Nội dung là thông cáo của hãng được đăng lại; lợi ích chưa được kiểm chứng độc lập."
+    },
+    {
+      "id": "n-20261127-11-andpad-ai-quan-tri-nha-o",
+      "title": "住宅建築の業務データをAIで解析、経営数値の改善を支援　アンドパッド：現場管理",
+      "title_vi": "Andpad ra mắt ‘ANDPAD 住宅経営AI’: tác tử AI phân tích dữ liệu thi công nhà ở để cảnh báo trễ tiến độ, sụt lãi gộp",
+      "source": {
+        "name": "BUILT (ITmedia)",
+        "kind": "báo ngành xây dựng Nhật Bản"
+      },
+      "url": "https://built.itmedia.co.jp/bt/articles/2611/26/news069.html",
+      "published": "2026-11-26T15:00:00+09:00",
+      "time_known": true,
+      "date_basis": "dòng đăng ‘2026年11月26日 15時00分 公開’",
+      "topic": "ai_xd",
+      "region": "JP",
+      "summary_vi": "Ngày 24/11, Andpad bắt đầu cung cấp ‘ANDPAD 住宅経営AI’, gom dữ liệu từ khâu tư vấn khách hàng đến bảo hành sau bàn giao vào một nền tảng, kết hợp tác tử AI với đội hỗ trợ chuyên trách. AI phân tích ảnh hiện trường, nhật ký, tiến độ, lịch sử đặt hàng để tự phát hiện chênh lệch kế hoạch – thực tế và rủi ro sớm về trễ tiến độ hay sụt lãi gộp; các tác tử cho giám sát hiện trường lo biên bản họp, tiến độ, bóc khối lượng từ bản vẽ. Dịch vụ lõi ANDPAD có hơn 279.000 doanh nghiệp khách hàng; bài không nêu giá.",
+      "why_it_matters": "Việc nối dữ liệu đặt hàng với tiến độ và lãi gộp để AI cảnh báo sớm chính là bài toán kiểm soát chi phí mua sắm theo dự án; điều kiện tiên quyết, theo chính hãng, là dữ liệu quy trình phải sạch và liên thông.",
+      "tags": [
+        "Nhật Bản",
+        "tác tử AI",
+        "quản lý thi công",
+        "nhà ở",
+        "kiểm soát chi phí"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "BUILT viết dựa trên thông cáo của Andpad; hiệu quả chưa được kiểm chứng độc lập."
+    },
+    {
+      "id": "n-20261127-12-careecon-so-cai-cong-trinh",
+      "title": "工程表や出面から原価集計、「CAREECON Plus」に工事中の赤字予兆が分かる工事台帳機能",
+      "title_vi": "CAREECON Plus thêm sổ cái công trình: AI-OCR đọc hóa đơn, tự tổng hợp giá thành và báo dấu hiệu lỗ khi đang thi công",
+      "source": {
+        "name": "BUILT (ITmedia)",
+        "kind": "báo ngành xây dựng Nhật Bản"
+      },
+      "url": "https://built.itmedia.co.jp/bt/articles/2611/26/news056.html",
+      "published": "2026-11-26T09:00:00+09:00",
+      "time_known": true,
+      "date_basis": "dòng đăng ‘2026年11月26日 09時00分 公開’",
+      "topic": "ai_xd",
+      "region": "JP",
+      "summary_vi": "BRANU bổ sung chức năng ‘sổ cái công trình’ cho CAREECON Plus, gom dự toán, ngân sách thực hiện, giá trị hoàn thành và chi phí thực tế của từng dự án trên một màn hình, chia theo nhân công, vật tư, thầu phụ, chi phí khác. Chi phí nhân công tự tính từ bảng chấm công đối chiếu tiến độ; hóa đơn, biên nhận, báo giá dạng PDF/ảnh được AI-OCR đọc thành dòng chi phí. Biểu đồ hằng tháng so sánh chi phí kế hoạch, giá trị hoàn thành và chi phí thực tế để thấy sớm trễ tiến độ hoặc chi phí vượt, kèm dự báo kết quả cuối.",
+      "why_it_matters": "Đây là dạng ‘earned value’ đơn giản hóa cho nhà thầu nhỏ; với chủ đầu tư, yêu cầu nhà thầu báo cáo theo cấu trúc tương tự giúp phát hiện sớm rủi ro đội chi phí vật tư, thầu phụ.",
+      "tags": [
+        "Nhật Bản",
+        "AI-OCR",
+        "giá thành",
+        "kiểm soát chi phí",
+        "nhà thầu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Theo bài, BRANU công bố và bắt đầu cung cấp chức năng từ 16/10/2026 — bài BUILT đăng 26/11 nên tin không hẳn mới."
+    },
+    {
+      "id": "n-20261127-13-skyace-scan2bim",
+      "title": "スマホ1つで現況スキャンからBIM化やAIレイアウト設計まで、「Scan2BIM」をリリース",
+      "title_vi": "skyACE ra mắt Scan2BIM: quét hiện trạng bằng iPhone LiDAR thành BIM, AI đề xuất phương án bố trí văn phòng",
+      "source": {
+        "name": "BUILT (ITmedia)",
+        "kind": "báo ngành xây dựng Nhật Bản"
+      },
+      "url": "https://built.itmedia.co.jp/bt/articles/2611/26/news059.html",
+      "published": "2026-11-26T10:00:00+09:00",
+      "time_known": true,
+      "date_basis": "dòng đăng ‘2026年11月26日 10時00分 公開’",
+      "topic": "ai_xd",
+      "region": "JP",
+      "summary_vi": "Ngày 24/11, skyACE công bố Scan2BIM, tính năng của ứng dụng CAD di động VinaCAD: dùng iPhone/iPad có LiDAR quét tường, cửa, nội thất rồi tự tạo bản vẽ 2D có kích thước và mô hình 3D, xuất được IFC/JSON và liên kết Revit. Với văn phòng, AI đề xuất nhiều phương án bố trí 3D theo điều kiện như số bàn, phòng họp; nhà thiết kế chỉnh rồi xuất CAD/DXF. Thử nghiệm tại một văn phòng khoảng 200 m² mất khoảng 7 phút quét và cho ba phương án; hãng đang cân nhắc tự đưa kết quả vào mẫu báo giá kèm đơn giá.",
+      "why_it_matters": "Quét hiện trạng nhanh, rẻ hữu ích cho cải tạo, fit-out văn phòng và bàn giao; nếu bước nối sang báo giá thành hiện thực, khâu bóc khối lượng nội thất có thể rút ngắn đáng kể.",
+      "tags": [
+        "Scan-to-BIM",
+        "LiDAR",
+        "fit-out",
+        "Nhật Bản",
+        "IFC"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Bài ghi ngày triển lãm JAPAN BUILD là 2–4/12/2025, mâu thuẫn với năm đăng 2026 — có thể lỗi đánh máy. Bài không nêu giá."
+    },
+    {
+      "id": "n-20261127-14-han-quoc-rao-can-ai-robot-cong-truong",
+      "title": "AI·로봇 도입 서둘러야 하는데…현장엔 '제도 장벽'",
+      "title_vi": "Hàn Quốc: nhà thầu vội đưa AI, robot vào công trường nhưng vướng ‘rào cản thể chế’ về đơn giá, chứng nhận, mua sắm",
+      "source": {
+        "name": "Hankyung (한국경제)",
+        "kind": "báo kinh tế Hàn Quốc"
+      },
+      "url": "https://www.hankyung.com/article/2026112631081",
+      "published": "2026-11-26T17:56:00+09:00",
+      "time_known": true,
+      "date_basis": "thời gian đăng trên trang (cập nhật 27/11 01:05 KST)",
+      "topic": "ai_xd",
+      "region": "KR",
+      "summary_vi": "Các tập đoàn xây dựng Hàn Quốc tăng tìm kiếm công nghệ AI, robot từ startup: Hoban (cùng Seedsoft, Molder Korea) đoạt giải BIM tại Smart Construction Challenge 2026 của Bộ MOLIT với công nghệ đối chiếu bản vẽ 2D với mô hình 3D và dùng AI kiểm tra tiến độ; SK ecoplant chọn 7 công nghệ, trong đó có ước tính khối lượng vật tư bằng AI; Hyundai E&C chọn 85 startup trong năm. Viện Nghiên cứu Công nghiệp Xây dựng (CIRI) chỉ ra rào cản: chi phí thiết bị như robot khó đưa vào giá hợp đồng, tiêu chuẩn hiện hành cản trở, startup khó được chứng nhận công nghệ mới, và yêu cầu nộp cả bản vẽ 2D lẫn BIM làm tăng chi phí. Bài so sánh Nhật Bản sửa quy định dự toán, mua sắm cho thi công ICT từ 2016, nâng tỷ lệ áp dụng từ 36% lên 87% năm 2023.",
+      "why_it_matters": "Điểm nghẽn giống hệt VN: công nghệ mới không có định mức, đơn giá thì không vào được dự toán và hồ sơ mời thầu; bài học Nhật – Hàn là phải sửa quy tắc dự toán, mua sắm trước thì AI mới lan rộng.",
+      "tags": [
+        "Hàn Quốc",
+        "chính sách",
+        "định mức đơn giá",
+        "robot",
+        "BIM",
+        "startup"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Giải Smart Construction Challenge của Hoban cũng được Herald Economy đưa ngày 26/11 (đã đọc, gộp vào tin này); khác với giải ‘Xây dựng thông minh’ của E-Today đã đăng 26/11."
+    },
+    {
+      "id": "n-20261127-15-trien-lam-xay-dung-thong-minh-kintex",
+      "title": "[르포] “로봇이 나르고 AI가 살피고”…‘휴먼리스’ 건설현장이 온다",
+      "title_vi": "Phóng sự triển lãm KINTEX: robot chở vật tư, chó robot GS E&C chấm tiến độ bằng AI — nhưng hãng thừa nhận người vẫn rẻ hơn",
+      "source": {
+        "name": "Global Economic (g-enews)",
+        "kind": "báo kinh tế Hàn Quốc"
+      },
+      "url": "https://g-enews.com/article/Real-Estate/2026/11/202611261349061854d6c92cbcc5_1",
+      "published": "2026-11-26T14:00:00+09:00",
+      "time_known": true,
+      "date_basis": "dấu thời gian trên bài (+09:00)",
+      "topic": "ai_xd",
+      "region": "KR",
+      "summary_vi": "Phóng viên đi Triển lãm Xây dựng thông minh, An toàn & AI 2026 (KINTEX, 25–27/11): Lotte E&C cùng Mobilate giới thiệu xe robot ‘Illo’ đi theo công nhân, chở tới 300 kg. GS E&C trình diễn robot bốn chân của Boston Dynamics chạy nền tảng G.RAI, đã kiểm chứng ở 12 công trường, 54 tòa nhà; AI đánh giá tiến độ từ ảnh với độ chính xác hãng nêu 94,7%, nhưng trưởng nhóm AI của GS E&C nói hiện bố trí người vẫn rẻ hơn robot nên công nghệ còn ở giai đoạn nghiên cứu. Ngoài ra có RISA (RTM) phân tích CCTV cảnh báo vùng nguy hiểm, camera xe nâng của Samsung C&T và nền tảng quản lý của Sebex với ‘BidLens AI’ sắp xếp bảng khối lượng.",
+      "why_it_matters": "Lời thừa nhận ‘người vẫn rẻ hơn robot’ là căn cứ thực tế khi thẩm định đề xuất robot/AI của nhà thầu: nên đòi số liệu chi phí – lợi ích trên dự án, không chỉ độ chính xác demo.",
+      "tags": [
+        "Hàn Quốc",
+        "robot",
+        "giám sát tiến độ",
+        "an toàn",
+        "triển lãm"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Triển lãm này đã được đăng dạng tin khai mạc/nhà trưng bày ngày 24/11; bài này là phóng sự tại chỗ với nội dung mới. Độ chính xác 94,7% do GS E&C tự nêu."
+    },
+    {
+      "id": "n-20261127-16-busan-gangseo-thi-diem-ai",
+      "title": "부산 강서구, AI 기반 스마트건설기술 시범 운영…효율적 자료 관리",
+      "title_vi": "Quận Gangseo (Busan) thí điểm hệ thống AI và đám mây quản lý ảnh, hồ sơ thi công tại hai công trường",
+      "source": {
+        "name": "Newspim (뉴스핌)",
+        "kind": "hãng tin Hàn Quốc"
+      },
+      "url": "https://www.newspim.com/news/view/20261126000045",
+      "published": "2026-11-26T07:57:00+09:00",
+      "time_known": true,
+      "date_basis": "thời gian đăng trên trang",
+      "topic": "ai_xd",
+      "region": "KR",
+      "summary_vi": "Chính quyền quận Gangseo (Busan) sẽ từ tháng 12/2026 thí điểm hệ thống xây dựng thông minh dùng AI và đám mây công để quản lý tập trung ảnh, video, tài liệu hiện trường tại hai công trường vừa và nhỏ. Mỗi bản ghi hiện trường gắn với xác thực sinh trắc học của người lập và dữ liệu vị trí để tăng độ tin cậy, giúp truy vết trách nhiệm khi có sự cố. Sau thí điểm, quận sẽ đánh giá khả năng áp dụng, hiệu quả quản lý dữ liệu và cải thiện an toàn, chất lượng trước khi quyết định mở rộng.",
+      "why_it_matters": "Hồ sơ hiện trường có xác thực người lập và vị trí là nền cho nghiệm thu, thanh toán và giải quyết tranh chấp với nhà thầu — một yêu cầu chủ đầu tư có thể đưa vào điều kiện hợp đồng.",
+      "tags": [
+        "Hàn Quốc",
+        "chính quyền địa phương",
+        "hồ sơ thi công",
+        "đám mây",
+        "thí điểm"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Quy mô nhỏ (2 công trường); bài không nêu thời hạn thí điểm hay nhà cung cấp."
+    },
+    {
+      "id": "n-20261127-17-hong-kong-cic-cho-ung-dung-ai",
+      "title": "Hong Kong Plans AI Marketplace for Construction",
+      "title_vi": "Hội đồng Ngành Xây dựng Hồng Kông lên kế hoạch ‘chợ’ ứng dụng AI đã thử nghiệm tại công trường cho doanh nghiệp nhỏ",
+      "source": {
+        "name": "Wisevoter (dẫn Macau Business)",
+        "kind": "trang tổng hợp tin"
+      },
+      "url": "https://wisevoter.com/world/2026/11/26/hong-kong-ai-marketplace-construction-firms",
+      "published": "2026-11-26T16:41:32+00:00",
+      "time_known": true,
+      "date_basis": "meta thời gian đăng",
+      "topic": "ai_xd",
+      "region": "CN",
+      "summary_vi": "Chủ tịch Hội đồng Ngành Xây dựng Hồng Kông (CIC) Thomas Ho cho biết hội đồng định ra mắt vào cuối năm 2026 một chợ trực tuyến cung cấp các ứng dụng AI đã được thử nghiệm trên công trường, nhằm hạ rào cản áp dụng cho doanh nghiệp vừa và nhỏ. Các mảng gồm giám sát an toàn bằng AI, kiểm tra công trình tự động, hồ sơ dự án và bảo trì dự đoán. Quỹ Đổi mới và Công nghệ Xây dựng do CIC quản lý hỗ trợ tới 10 triệu HKD để doanh nghiệp thử công nghệ mới; hiện có hơn 350 robot hoạt động trên các công trường Hồng Kông.",
+      "why_it_matters": "Mô hình ‘danh mục giải pháp đã kiểm chứng + quỹ hỗ trợ thử nghiệm’ giúp giảm rủi ro chọn nhầm nhà cung cấp AI — chủ đầu tư lớn ở VN có thể tự lập danh mục tương tự cho nhà thầu của mình.",
+      "tags": [
+        "Hồng Kông",
+        "CIC",
+        "chợ ứng dụng AI",
+        "SME",
+        "an toàn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Wisevoter là trang tổng hợp, ghi dùng thông tin từ Macau Business; không tìm được bài gốc. Phát biểu tại buổi tiệc trưa của Phòng Thương mại Anh ở Macau ngày 26/11, chỉ được thuật lại, không có trích dẫn trực tiếp."
+    },
+    {
+      "id": "n-20261127-18-dpr-ai-cong-trinh-y-te",
+      "title": "DPR exec details how tech is changing healthcare builds",
+      "title_vi": "Lãnh đạo DPR: AI, robot định vị và RFID đang thay đổi cách xây bệnh viện",
+      "source": {
+        "name": "Construction Dive",
+        "kind": "báo ngành xây dựng"
+      },
+      "url": "https://www.constructiondive.com/news/dpr-exec-healthcare-builds-tech-ai-robots/875678/",
+      "published": "2026-11-25",
+      "time_known": false,
+      "date_basis": "dòng ngày trên bài; meta ghi 09:01 AM không kèm múi giờ",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Trong bài phỏng vấn Q&A, Hamilton Espinosa, đồng phụ trách mảng y tế của DPR Construction, cho rằng AI sẽ thay đổi căn bản việc xây công trình y tế: bố trí mặt bằng, soát va chạm bản vẽ trước khi thi công, dự toán và lập tiến độ nhanh hơn. Trên công trường, DPR dùng robot định vị của Dusty Robotics để đánh dấu tường và ống gió, theo dõi công nhân bằng RFID và dùng số liệu chấn thương làm chỉ báo sớm về an toàn. Ông hình dung tương lai AI có thể sinh thiết kế một bệnh viện 120 giường kèm chi phí, danh mục vật tư (BOM) và tiến độ; thị trường y tế hiện chịu áp lực chi phí vật liệu, nhân công tăng.",
+      "why_it_matters": "Viễn cảnh ‘AI sinh luôn BOM từ thiết kế’ nghĩa là dữ liệu mua sắm sẽ có sớm hơn nhiều ở giai đoạn ý tưởng — bộ phận cung ứng nên chuẩn bị thư viện vật tư, đơn giá chuẩn hóa để tận dụng.",
+      "tags": [
+        "DPR",
+        "bệnh viện",
+        "robot định vị",
+        "RFID",
+        "phỏng vấn"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "ý kiến",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Dạng Q&A, quan điểm của người được phỏng vấn. Sách trắng AI–công trình y tế của DPR đã được đăng ngày 30/10."
+    },
+    {
+      "id": "n-20261127-19-geotec-hanoi-2026-ai-dia-ky-thuat",
+      "title": "GEOTEC HANOI 2026: Kết nối công nghệ, phát triển hạ tầng bền vững",
+      "title_vi": "Khai mạc GEOTEC HANOI 2026: ứng dụng AI trong thiết kế, thi công, vận hành là một chủ đề của hội nghị địa kỹ thuật quốc tế",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo ngành (Bộ Xây dựng)"
+      },
+      "url": "https://baoxaydung.vn/geotec-hanoi-2026-ket-noi-cong-nghe-phat-trien-ha-tang-ben-vung-192261126125448694.htm",
+      "published": "2026-11-26T14:18:00+07:00",
+      "time_known": true,
+      "date_basis": "dòng thời gian đăng trên bài",
+      "topic": "ai_xd",
+      "region": "VN",
+      "summary_vi": "Sáng 26/11, Hội nghị quốc tế lần thứ 6 về Địa kỹ thuật vì sự phát triển hạ tầng bền vững (GEOTEC HANOI 2026) khai mạc tại Trung tâm Hội nghị Quốc gia, kéo dài đến 27/11, do Tập đoàn FECON và Hội Cơ học đất và Địa kỹ thuật công trình Việt Nam tổ chức. Bộ trưởng Bộ Xây dựng Trần Hồng Minh nêu các thách thức như sạt lở, sụt lún nền đất yếu ở ĐBSCL, quản lý không gian ngầm, đường sắt tốc độ cao, và đề nghị chuyển từ xử lý sự cố sang dự báo, phòng ngừa ngay từ quy hoạch. Hội nghị có hơn 1.200 đại biểu từ hơn 50 quốc gia, trên 260 bài báo khoa học, triển lãm hơn 75 gian; ứng dụng AI trong thiết kế, thi công, vận hành công trình là một trong các chủ đề.",
+      "why_it_matters": "Nền móng, công trình ngầm là hạng mục rủi ro chi phí lớn nhất của dự án; AI dự báo lún, quan trắc giúp giảm phát sinh — nên theo dõi các nhà thầu nền móng VN đưa công cụ này vào hồ sơ dự thầu.",
+      "tags": [
+        "địa kỹ thuật",
+        "FECON",
+        "hội nghị",
+        "hạ tầng",
+        "Việt Nam",
+        "AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "AI chỉ là một trong nhiều chủ đề; bài không đi sâu vào giải pháp AI cụ thể nào."
+    },
+    {
+      "id": "n-20261127-20-301-hang-232-co-the-khong-chiu-them",
+      "title": "Bộ Công Thương: Việt Nam đưa cam kết chưa có tiền lệ khi đàm phán thương mại với Mỹ",
+      "title_vi": "Thuế 301 đề xuất với Việt Nam: hàng thuộc Mục 232 (thép, nhôm, ô tô) có thể không chịu thêm; Việt Nam đàm phán song song để hạ về 20%",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo Việt Nam"
+      },
+      "url": "https://vnexpress.net/bo-cong-thuong-viet-nam-dua-cam-ket-chua-co-tien-le-khi-dam-phan-thuong-mai-voi-my-5149271.html",
+      "published": "2026-11-26T17:22:00+07:00",
+      "time_known": true,
+      "date_basis": "dòng giờ đăng trên trang (GMT+7)",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "Tại họp báo chiều 26/11, Bộ Công Thương cho biết mức thuế bổ sung tối đa 35% mà USTR đề xuất với Việt Nam theo điều tra Mục 301 về dư thừa công suất mới là đề xuất, có thể giảm còn 20% nếu hai nước đạt Hiệp định thương mại đối ứng; Việt Nam vừa tham gia đầy đủ cuộc điều tra (nộp thông tin, phản biện, điều trần) vừa đàm phán, với một số cam kết được mô tả là chưa có tiền lệ. Người phát ngôn cho biết hai bên đã cơ bản thống nhất nội dung, chỉ còn vài vấn đề kỹ thuật. Bài nêu các mặt hàng thuộc Mục 232 (thép, nhôm, ô tô…) có thể không bị áp thêm thuế 301, trong khi mức thuế 12,5% áp từ tháng 7 theo điều tra liên quan lao động cưỡng bức chưa rõ có cộng dồn hay không.",
+      "why_it_matters": "Chi tiết mới quan trọng nhất là hàng Mục 232 có thể được loại khỏi thuế 301 — rủi ro thép, nhôm xuất khẩu bị dội ngược về nội địa vì 301 có thể thấp hơn lo ngại; nhưng nhóm nội thất, thiết bị, phụ kiện vẫn chịu rủi ro, nên giữ điều khoản điều chỉnh giá và theo dõi kết quả đàm phán.",
+      "tags": [
+        "thuế Mỹ",
+        "Mục 301",
+        "Mục 232",
+        "thép",
+        "nhôm",
+        "Bộ Công Thương",
+        "đàm phán thương mại"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Diễn biến mới so với tin Dân trí đã đăng 26/11 (đề xuất 35%/20%): phản hồi chính thức của Bộ Công Thương, khả năng loại trừ hàng Mục 232 và vấn đề cộng dồn thuế 12,5%. Số dòng hàng đề xuất miễn trừ không thống nhất giữa các báo (VnExpress 2.021; Dân trí 2.121; CafeF ‘hơn 2.000’) nên không dùng trong tóm tắt. CafeF (26/11, 17:30) thêm: Chính phủ ra nghị quyết ngày 21/11/2026 về đề án tổng thể quản lý cán cân thương mại và phòng ngừa rủi ro thương mại quốc tế 2026–2030."
+    },
+    {
+      "id": "n-20261127-21-xeneta-27-11-cuoc-dia-trung-hai-tang",
+      "title": "Weekly ocean freight market update: 27 November 2026",
+      "title_vi": "Xeneta 27/11: cước Viễn Đông–Địa Trung Hải 5.114 USD/FEU, dự báo tăng thêm 10–15% đầu tháng 12; tuyến Mỹ tiếp tục giảm",
+      "source": {
+        "name": "Xeneta",
+        "kind": "nhà cung cấp dữ liệu cước"
+      },
+      "url": "https://www.xeneta.com/news/ocean-freight-market-update-2026-11-27",
+      "published": "2026-11-27",
+      "time_known": false,
+      "date_basis": "ngày trên trang (số liệu chốt 26/11/2026)",
+      "topic": "chuoi_cung_ung",
+      "region": "Global",
+      "summary_vi": "Theo Xeneta, ngày 26/11 cước giao ngay trung bình Viễn Đông–bờ Tây Mỹ là 7.697 USD/FEU (−1,5% so với tuần trước), Viễn Đông–bờ Đông Mỹ 10.155 USD/FEU (−1,6%), Viễn Đông–Bắc Âu 3.393 USD/FEU (+0,4%) và Viễn Đông–Địa Trung Hải 5.114 USD/FEU (+1,2%, +73,0% so với cùng kỳ). Chuyên gia Peter Sand cho biết dữ liệu sớm cho thấy cước sang Địa Trung Hải có thể tăng thêm 10–15% đầu tháng 12 (đã tăng 27% từ 14/10), Bắc Âu cũng nhích lên, còn tuyến Mỹ tiếp tục giảm. Hãng lưu ý chủ hàng châu Âu có thể khó giữ chỗ hơn do bất định ở Biển Đỏ.",
+      "why_it_matters": "Hàng nhập từ châu Âu (thang máy, thiết bị MEP, kính, phụ kiện cao cấp) đi ngược chiều tuyến Á–Âu nhưng giá cước và chỗ trên tàu chịu cùng áp lực mùa cao điểm — nên chốt booking và điều kiện giao hàng cho đơn quý I sớm.",
+      "tags": [
+        "cước container",
+        "Xeneta",
+        "Địa Trung Hải",
+        "Biển Đỏ",
+        "logistics"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "bảng giá tổng hợp",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Cập nhật tuần mới (26/11) — khác tuần với tin IndexBox/Xeneta số liệu 19/11 đã đăng 26/11. Bài so sánh với mốc 28/2/2026 mà Xeneta gọi là trước khủng hoảng Hormuz."
+    },
+    {
+      "id": "n-20261127-22-gia-thep-26-11-than-coc-dinh-1-thang",
+      "title": "Giá thép hôm nay 26/11/2026: Thép thanh giữ đà tăng, than luyện cốc lập đỉnh hơn 1 tháng",
+      "title_vi": "Giá thép 26/11: thép trong nước đứng giá (Hòa Phát CB240 14.920 đồng/kg); thép thanh Thượng Hải 3.060 tệ/tấn, than luyện cốc lên đỉnh 1 tháng",
+      "source": {
+        "name": "Tạp chí Doanh nghiệp và Hội nhập",
+        "kind": "báo Việt Nam"
+      },
+      "url": "https://doanhnghiephoinhap.vn/gia-thep-hom-nay-26112026-thep-thanh-giu-da-tang-than-luyen-coc-lap-dinh-hon-1-thang-155102.html",
+      "published": "2026-11-26T09:00:19+07:00",
+      "time_known": true,
+      "date_basis": "meta giờ đăng (+07:00); meta sửa đổi ghi 08:35 cùng ngày, sớm hơn giờ đăng",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "Sáng 26/11, giá thép xây dựng ở ba miền đứng yên; Hòa Phát niêm yết CB240 14.920 đồng/kg, D10 CB300 14.210 đồng/kg ở miền Bắc và miền Trung, 14.720 đồng/kg ở miền Nam. Trên sàn Thượng Hải, thép thanh kỳ hạn tháng 12 đóng cửa 25/11 ở 3.060 tệ/tấn (+0,66%), trong khi quặng sắt SGX tháng 12 giảm 0,43% còn 89 USD/tấn. Than luyện cốc tăng 5,42% và than cốc tăng 3,98%, cùng lên mức cao nhất một tháng; số mỏ đóng cửa tính đến 23/11 là 49 so với 41 tuần trước (dữ liệu Mysteel). Bài dự báo giá đi ngang trong ngắn hạn do nhu cầu Trung Quốc yếu mùa thấp điểm.",
+      "why_it_matters": "Giá nội địa đứng yên sau đợt tăng 20/11, nhưng than cốc tăng mạnh là chi phí đầu vào lò cao — có thể là lý do để nhà máy đòi tăng tiếp; nên chốt khối lượng thép quý I khi giá còn đi ngang.",
+      "tags": [
+        "giá thép",
+        "Hòa Phát",
+        "thép thanh",
+        "than luyện cốc",
+        "quặng sắt"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "bảng giá tổng hợp",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Cùng chuyên mục với bản tin 23/11 đã đăng 25/11 nhưng là ngày mới; bài không ghi nhận doanh nghiệp nào điều chỉnh giá."
+    },
+    {
+      "id": "n-20261127-23-tphcm-mien-gpxd-nha-duoi-7-tang",
+      "title": "Từ ngày 30/11, nhà ở dưới 7 tầng, tổng diện tích sàn nhỏ hơn 500 m2 được miễn giấy phép xây dựng, người dân tại TP.HCM cần lưu ý",
+      "title_vi": "TP HCM miễn giấy phép xây dựng cho nhà riêng lẻ dưới 7 tầng, sàn dưới 500 m² ở khu đã có quy chế kiến trúc hoặc quy hoạch 1/500, từ 30/11",
+      "source": {
+        "name": "CafeF (theo Nhịp sống thị trường)",
+        "kind": "báo Việt Nam"
+      },
+      "url": "https://cafef.vn/tu-ngay-30-11-nha-o-duoi-7-tang-tong-dien-tich-san-nho-hon-500-m2-duoc-mien-giay-phep-xay-dung-nguoi-dan-tai-tphcm-can-luu-y-188261126104642323.chn",
+      "published": "2026-11-26T10:49:00+07:00",
+      "time_known": true,
+      "date_basis": "dòng giờ đăng trên trang (giả định GMT+7)",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "UBND TP HCM ban hành quyết định về miễn giấy phép xây dựng, có hiệu lực từ 30/11: nhà ở riêng lẻ dưới 7 tầng, tổng diện tích sàn dưới 500 m² được miễn nếu nằm trong khu vực đã có quy chế quản lý kiến trúc đô thị, quy hoạch chi tiết 1/500 hoặc thiết kế đô thị riêng được duyệt. Quyết định cũng miễn phép cho công trình tạm không theo quy hoạch, trụ sạc và tủ đổi pin xe điện trên đất phi nông nghiệp hoặc đất do Nhà nước quản lý (trừ đất quốc phòng, an ninh). Công trình được miễn vẫn phải tuân thủ quy định về quy hoạch, PCCC, môi trường và gửi thông báo khởi công cho UBND cấp xã.",
+      "why_it_matters": "Giảm thủ tục cho phân khúc nhà phố/nhà liền kề trong khu đã có quy hoạch 1/500 — có thể rút ngắn thời gian khởi công các dự án thấp tầng tự xây, nhưng trách nhiệm tuân thủ chuyển sang chủ đầu tư nên hồ sơ PCCC, kết cấu vẫn phải chặt.",
+      "tags": [
+        "giấy phép xây dựng",
+        "TP HCM",
+        "nhà ở riêng lẻ",
+        "thủ tục hành chính",
+        "trạm sạc xe điện"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Bài không nêu số hiệu và ngày ban hành quyết định; năm hiệu lực (2026) suy từ ngày đăng."
+    },
+    {
+      "id": "n-20261127-24-tin-dung-noxh-tphcm-5873-ty",
+      "title": "Tín dụng đón nguồn cung nhà ở xã hội mới",
+      "title_vi": "Dư nợ nhà ở xã hội tại TP HCM đạt 5.873 tỷ đồng (+36% so với cuối 2025); gói 153.000 tỷ mới giải ngân khoảng 17.500 tỷ",
+      "source": {
+        "name": "CafeF (theo Thời báo Ngân hàng)",
+        "kind": "báo Việt Nam"
+      },
+      "url": "https://cafef.vn/tin-dung-don-nguon-cung-nha-o-xa-hoi-moi-18826112514313184.chn",
+      "published": "2026-11-25T15:38:00+07:00",
+      "time_known": true,
+      "date_basis": "dòng giờ đăng trên trang (giả định GMT+7)",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Đến cuối tháng 10/2026, dư nợ nhà ở xã hội trên địa bàn TP HCM đạt 5.873 tỷ đồng, tăng 36% so với cuối 2025, trong đó cho vay xây dựng, cải tạo chiếm gần 60%; Sở Xây dựng dự kiến năm nay 17 dự án với khoảng 18.000 căn hoàn thành phần móng. Trên cả nước, 11 ngân hàng tham gia gói tín dụng theo Nghị quyết 33 quy mô hơn 153.000 tỷ đồng; đến cuối tháng 8 đã cam kết cho vay khoảng 50.300 tỷ và giải ngân khoảng 17.500 tỷ. Chi nhánh Ngân hàng Chính sách xã hội TP HCM ghi nhận nhu cầu vay năm 2027 trên 1.340 tỷ đồng nhưng nguồn dự kiến chỉ 372 tỷ; thành phố đang xem xét nâng mức vay được hỗ trợ lãi suất qua HFIC từ 200 lên 300 tỷ đồng/dự án.",
+      "why_it_matters": "Nguồn vốn xây dựng nhà ở xã hội đang tăng nhanh nhưng giải ngân gói lớn còn chậm — nhiều dự án sẽ khởi công dồn dập, kéo nhu cầu thép, xi măng, nhân công phân khúc giá thấp và tăng cạnh tranh nhà thầu.",
+      "tags": [
+        "nhà ở xã hội",
+        "tín dụng",
+        "Nghị quyết 33",
+        "TP HCM",
+        "HFIC",
+        "ngân hàng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27"
+    },
+    {
+      "id": "n-20261127-25-rach-xuyen-tam-cham-tien-do",
+      "title": "Lý do làm chậm tiến độ dự án cải tạo rạch hơn 17.000 tỷ đồng xuyên tâm TPHCM",
+      "title_vi": "Dự án cải tạo rạch Xuyên Tâm hơn 17.200 tỷ chậm ở gói XL01, XL02: khó chở vật tư, thiết bị quá khổ vào nội đô, móng nhà cũ làm hỏng máy khoan",
+      "source": {
+        "name": "CafeF (theo Tiền Phong)",
+        "kind": "báo Việt Nam"
+      },
+      "url": "https://cafef.vn/ly-do-lam-cham-tien-do-du-an-cai-tao-rach-hon-17000-ty-dong-xuyen-tam-tphcm-188261126185857935.chn",
+      "published": "2026-11-26T19:57:00+07:00",
+      "time_known": true,
+      "date_basis": "dòng giờ đăng trên trang (giả định GMT+7)",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Tại họp báo kinh tế – xã hội TP HCM ngày 26/11, ban quản lý dự án hạ tầng đô thị cho biết một số vị trí thuộc hai gói XL01, XL02 của dự án cải tạo rạch Xuyên Tâm (dài gần 8,9 km, vốn hơn 17.200 tỷ đồng) chậm hơn kế hoạch. Nguyên nhân gồm khó vận chuyển vật tư và thiết bị cơ giới quá khổ, quá tải vào đường nội đô; khối lượng lớn bê tông, xà bần từ nhà bị tháo dỡ; móng nhà còn sót cản trở khoan cọc xi măng đất làm thiết bị hỏng, và một số thiết bị hỏng chưa được thay kịp. Chủ đầu tư phấn đấu duyệt xong hồ sơ bồi thường di dời lưới điện trong tháng 12/2026 và bàn giao mặt bằng hạ tầng kỹ thuật đồng bộ trong quý I/2027, mục tiêu hoàn thành cuối 2027.",
+      "why_it_matters": "Bài học trực tiếp cho dự án nội đô: kế hoạch logistics công trường (giờ cấm tải, xe quá khổ), xử lý phế thải phá dỡ và thiết bị dự phòng phải nằm trong hồ sơ mời thầu và tiến độ ngay từ đầu.",
+      "tags": [
+        "hạ tầng",
+        "TP HCM",
+        "rạch Xuyên Tâm",
+        "tiến độ",
+        "thiết bị thi công",
+        "logistics công trường"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27"
+    },
+    {
+      "id": "n-20261127-26-vinhomes-600ha-tam-hung-1-500",
+      "title": "Diễn biến mới nhất tại khu đô thị đa mục tiêu gần 600ha rộng hơn hồ Tây, vốn 111.000 tỷ đồng do Vinhomes của tỷ phú Phạm Nhật Vượng đầu tư, nằm gần sân vận động lớn nhất thế giới",
+      "title_vi": "Hà Nội công bố quy hoạch 1/500 khu đô thị đa mục tiêu 598 ha của Vinhomes ở Bình Minh – Tam Hưng, vốn khoảng 111.000 tỷ đồng",
+      "source": {
+        "name": "CafeF",
+        "kind": "báo Việt Nam"
+      },
+      "url": "https://cafef.vn/dien-bien-moi-nhat-tai-khu-do-thi-da-muc-tieu-gan-600ha-rong-hon-ho-tay-von-111000-ty-dong-do-vinhomes-cua-ty-phu-pham-nhat-vuong-dau-tu-nam-gan-san-van-dong-lon-nhat-the-gioi-188261125213017898.chn",
+      "published": "2026-11-26T11:01:00+07:00",
+      "time_known": true,
+      "date_basis": "meta giờ đăng trên trang (giả định GMT+7); sự kiện diễn ra chiều 25/11",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Chiều 25/11, UBND xã Tam Hưng cùng Vinhomes tổ chức hội nghị công bố, công khai quy hoạch chi tiết 1/500 khu đô thị đa mục tiêu tại hai xã Bình Minh và Tam Hưng (Hà Nội), tổng diện tích nghiên cứu 598,21 ha, vốn khoảng 111.000 tỷ đồng; UBND TP Hà Nội đã phê duyệt quy hoạch ngày 15/10/2026. Dự án nằm ở cửa ngõ phía nam, gần Vành đai 4, có mục tiêu hỗ trợ chỉ tiêu nhà ở xã hội và quỹ nhà tái định cư. Người dân chủ yếu kiến nghị về thửa đất nhỏ lẻ sau thu hồi, vị trí tái định cư và thời điểm chi trả bồi thường.",
+      "why_it_matters": "Đại dự án vừa qua bước công bố quy hoạch, sắp vào giải phóng mặt bằng — cùng khu Thành phố Thể thao gần đó sẽ tạo nhu cầu vật liệu, cọc và nhân công lớn ở phía nam Hà Nội trong vài năm tới, có thể làm căng nguồn cung cát, đá khu vực.",
+      "tags": [
+        "Vinhomes",
+        "quy hoạch 1/500",
+        "Hà Nội",
+        "khu đô thị",
+        "giải phóng mặt bằng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Bài dẫn liên kết tới Việt Nam hàng ngày (vietnamdaily.kienthuc.net.vn) nhưng không ghi rõ nguồn gốc; bài không nêu số quyết định phê duyệt quy hoạch."
+    },
+    {
+      "id": "n-20261127-27-trung-tam-du-lieu-tu-xay-nha-may-dien-khi",
+      "title": "Data centers are getting their own natural gas power plants",
+      "title_vi": "Trung tâm dữ liệu tự xây nhà máy điện khí riêng vì chờ đấu nối lưới quá lâu",
+      "source": {
+        "name": "MIT Technology Review",
+        "kind": "tạp chí công nghệ quốc tế"
+      },
+      "url": "https://technologyreview.com/2026/11/24/1149622/data-centers-natural-gas",
+      "published": "2026-11-24",
+      "time_known": false,
+      "date_basis": "ngày đăng November 24, 2026 trên trang, không ghi giờ",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "Vì phê duyệt đấu nối lưới điện có thể mất tới một thập kỷ, nhiều chủ đầu tư trung tâm dữ liệu ở Mỹ chọn xây nhà máy điện khí “sau công tơ” cấp điện trực tiếp, chấp nhận chi phí cao hơn để có tốc độ. Theo Cleanview (tính đến tháng 10/2026), đã có hơn 100 dự án như vậy được công bố với tổng công suất dự kiến trên 115 GW, nhưng mới 4,9 GW vận hành và 15,8 GW đang xây. Nhà sản xuất tua-bin khí không theo kịp nhu cầu, đẩy chủ đầu tư sang tua-bin chu trình đơn kém hiệu quả hơn nhưng rẻ hơn khi xây dựng.",
+      "why_it_matters": "Thiếu tua-bin khí toàn cầu là rủi ro chuỗi cung ứng thật cho mọi dự án cần nguồn điện riêng, kể cả khu công nghiệp và trung tâm dữ liệu ở VN — nên chốt thiết bị phát điện sớm và cân nhắc phương án lưu trữ/năng lượng tái tạo.",
+      "tags": [
+        "trung tâm dữ liệu",
+        "điện khí",
+        "tua-bin khí",
+        "năng lượng cho AI",
+        "chuỗi cung ứng",
+        "lưới điện"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Khác với tin Goldman Sachs về nhu cầu điện/khí (đăng 26/11): bài này tập trung vào nhà máy điện riêng và thiếu tua-bin. Bài không nêu thời gian giao tua-bin cụ thể."
+    },
+    {
+      "id": "n-20261127-28-datacenterhawk-q3-2026",
+      "title": "AI data centers are taking over new capacity as soon as it's built, as global vacancies continue to shrink",
+      "title_vi": "Công suất trung tâm dữ liệu mới vừa xây xong đã được thuê hết; quý 3 lập kỷ lục 18 GW được thuê",
+      "source": {
+        "name": "TechRadar Pro",
+        "kind": "báo công nghệ quốc tế"
+      },
+      "url": "https://techradar.com/pro/ai-data-centers-are-taking-over-new-capacity-as-soon-as-its-built-as-global-vacancies-continue-to-shrink",
+      "published": "2026-11-26T18:35:00Z",
+      "time_known": true,
+      "date_basis": "trang hiển thị ngày 26 November 2026; giờ lấy từ meta 2026-11-26T18:35:00Z",
+      "topic": "cong_nghe",
+      "region": "Global",
+      "summary_vi": "Dẫn báo cáo thị trường trung tâm dữ liệu toàn cầu quý 3/2026 của DatacenterHawk, TechRadar cho biết quý 3 có kỷ lục 18 GW công suất điện được thuê và tỷ lệ công suất trống giảm gần một nửa, trong khi 9,2 GW vẫn đang xây. Bắc Mỹ thuê nhiều nhất, tiếp theo là châu Á – Thái Bình Dương; khu vực này thuê trong quý 3 nhiều hơn cả năm trước, với Melbourne đứng thứ năm toàn cầu về hấp thụ. Đại diện DatacenterHawk nói các neocloud sẵn sàng trả cao hơn giá hyperscale để được giao công suất nhanh.",
+      "why_it_matters": "Khi khách sẵn sàng trả thêm để có công suất sớm, tiến độ thi công trở thành lợi thế cạnh tranh — nhà thầu, chủ đầu tư trung tâm dữ liệu ở VN nên tính tới thiết kế mô-đun và mua sắm sớm thiết bị điện, làm mát.",
+      "tags": [
+        "trung tâm dữ liệu",
+        "DatacenterHawk",
+        "châu Á – Thái Bình Dương",
+        "neocloud",
+        "bất động sản công nghiệp"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "khảo sát/báo cáo",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web); không đọc báo cáo gốc (cần đăng ký)",
+      "accessed": "2026-11-27",
+      "note": "DatacenterHawk nói dữ liệu lấy trực tiếp từ quan hệ với nhà vận hành; bài không nêu cỡ mẫu hay tỷ lệ trống theo khu vực."
+    },
+    {
+      "id": "n-20261127-29-thuong-vien-my-cai-cach-cap-phep",
+      "title": "Senate Passes Permitting Reform Bill to Speed Infrastructure Construction",
+      "title_vi": "Thượng viện Mỹ thông qua dự luật cải cách cấp phép để đẩy nhanh xây dựng hạ tầng, có điều khoản về chi phí điện cho trung tâm dữ liệu",
+      "source": {
+        "name": "ENR",
+        "kind": "báo ngành xây dựng"
+      },
+      "url": "https://enr.com/articles/64380-senate-passes-permitting-reform-bill-to-speed-infrastructure-construction",
+      "published": "2026-11-20",
+      "time_known": false,
+      "date_basis": "ngày đăng November 20, 2026 trên trang, không ghi giờ",
+      "topic": "cong_nghe",
+      "region": "US",
+      "summary_vi": "Thượng viện Mỹ thông qua Bipartisan American Affordability and Jobs Act of 2026 tối 19/11 với 62–33 phiếu; dự luật giờ chuyển sang Hạ viện, nơi đã thông qua bản cải cách riêng và khác biệt chưa được giải quyết. Dự luật đặt hạn chót cho cơ quan cấp phép, giới hạn thời gian khởi kiện, cho FERC thêm thẩm quyền với đường dây liên bang từ 230 kV trở lên, và có điều khoản nhằm không để chi phí hạ tầng điện gắn với trung tâm dữ liệu dồn sang khách hàng khác. Hiệp hội Nhà thầu AGC và ACEC ủng hộ; 17 tổng chưởng lý bang do California dẫn đầu đề nghị hoãn bỏ phiếu.",
+      "why_it_matters": "Thủ tục cấp phép và đấu nối điện là nút thắt lớn của làn sóng trung tâm dữ liệu; nếu thành luật, dự án hạ tầng Mỹ có thể tăng tốc và cạnh tranh mạnh hơn về thiết bị điện, vật tư với các thị trường khác như VN.",
+      "tags": [
+        "cấp phép",
+        "Mỹ",
+        "hạ tầng",
+        "truyền tải điện",
+        "trung tâm dữ liệu",
+        "xây dựng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "mở trang (WebFetch qua tác tử đọc web)",
+      "accessed": "2026-11-27",
+      "note": "Đăng 20/11, đúng mốc 7 ngày. Bản cuối cùng của luật còn chưa chắc chắn vì Hạ viện phải quyết định chấp nhận hay sửa."
+    }
+  ],
+  "unreachable": [
+    {
+      "source": "Semafor — 'New US export rules threaten Asian AI buildout' (25/11)",
+      "status": "PROVENANCE_REQUIRED — URL lấy từ trang tổng hợp The Neuron, yêu cầu cấp quyền không được trả lời",
+      "impact": "Không dùng; sự kiện liên quan được phủ qua tin Nvidia dừng giao máy chủ Đông Nam Á (TechCrunch)."
+    },
+    {
+      "source": "NBC News — New York cấm đồ chơi dùng chatbot AI (Hochul ký luật)",
+      "status": "PROVENANCE_REQUIRED; lượt tìm kiếm thay thế chỉ trả về luật chatbot trẻ em ngày 28/10",
+      "impact": "Bỏ tin quy định AI của bang New York."
+    },
+    {
+      "source": "SCMP — 'Chinese AI chips to capture 88% of home market by 2028, UBS says' và 'Huawei advances home-grown chip design ecosystem'",
+      "status": "client_error, không lấy được nội dung",
+      "impact": "Thiếu tin chip Trung Quốc từ SCMP; dùng SBS (dẫn The Information) cho mảng Trung Quốc."
+    },
+    {
+      "source": "FourWeekMBA AI Daily 26/11 (Bank of England cảnh báo 4 nghìn tỷ USD)",
+      "status": "client_error",
+      "impact": "Bỏ tin Bank of England về nợ AI."
+    },
+    {
+      "source": "creati.ai AI News 26/11",
+      "status": "client_error",
+      "impact": "Không dùng làm nguồn quét tin."
+    },
+    {
+      "source": "WebSearch có allowed_domains (CNBC/Verge/Reuters…; Euronews/Politico EU…)",
+      "status": "proxy HTTP 400 — 2 lượt tìm bị từ chối",
+      "impact": "Không có tin EU riêng trong ngày; vùng ngoài Mỹ phủ bằng CN, KR, JP, SEA."
+    },
+    {
+      "source": "The Wall Street Journal và The Information (bản gốc)",
+      "status": "không mở (paywall)",
+      "impact": "Tin Nvidia và tin AI Trung Quốc đọc qua bài thuật lại của TechCrunch và SBS; đã ghi trong how_read."
+    },
+    {
+      "source": "WebSearch",
+      "status": "hết ngân sách 22 lượt tìm",
+      "impact": "Mới có 3 tin cong_nghe; không tìm thêm được tin robot/phần mềm doanh nghiệp."
+    },
+    {
+      "source": "CustomerThink (ProcurePro kết nối MCP với Copilot/Claude)",
+      "status": "WebFetch lỗi client_error",
+      "impact": "Không đưa tin; bản tổng hợp trên Renascence cho thấy tin đăng 08/11 — ngoài khung ngày."
+    },
+    {
+      "source": "Macau Business (bài gốc về chợ ứng dụng AI của CIC Hồng Kông)",
+      "status": "không tìm thấy trong kết quả tìm kiếm",
+      "impact": "Dùng bản Wisevoter dẫn lại, ghi rõ trong note."
+    },
+    {
+      "source": "thoibaotaichinhvietnam.vn — ‘Ngày 27/11: Giá thép Trung Quốc tiếp tục giảm…’",
+      "status": "mở được nhưng là bài 27/11/2024 (meta 2024, header trang hiển thị 2026)",
+      "impact": "bỏ — không dùng tin cũ làm giá thép hôm nay"
+    },
+    {
+      "source": "container-news.com — Freightos Weekly Update ‘Red Sea rebound false start?’",
+      "status": "mở được, không có ngày trên trang; nội dung là bối cảnh 2025",
+      "impact": "bỏ — thay bằng Xeneta 27/11"
+    },
+    {
+      "source": "news.metal.com (SMM) — LME copper four-month low; aluminium weekly review; Vietnam HRC anti-circumvention",
+      "status": "mở được nhưng đăng 17/11, 12/11 và 03/04/2026 — ngoài khung 20–27/11",
+      "impact": "bỏ; không có tin đồng/nhôm mới trong khung"
+    },
+    {
+      "source": "tradingeconomics.com/commodity/aluminum",
+      "status": "PROVENANCE_REQUIRED (yêu cầu cấp quyền không được trả lời)",
+      "impact": "không lấy được mục nhôm ngày 25/11 (chỉ thấy ở thanh bên của bài 11/11) — bỏ tin nhôm"
+    },
+    {
+      "source": "vietnamnews.vn — ‘Construction materials under pressure ahead of year-end peak’",
+      "status": "lỗi phía site (client_error)",
+      "impact": "bỏ — không tóm tắt từ đoạn trích"
+    },
+    {
+      "source": "federalregister.gov — Steel wheels from China via Vietnam, preliminary circumvention (24/11/2026)",
+      "status": "robots_disallowed",
+      "impact": "bỏ tin chống lẩn tránh thuế bánh xe thép qua Việt Nam"
+    },
+    {
+      "source": "supplychaindive.com — Trump's tariffs tracker",
+      "status": "mở được nhưng biểu đồ là ảnh, không có ngày cập nhật tuyệt đối",
+      "impact": "không dùng"
+    },
+    {
+      "source": "thuongtruong.com.vn — Giá VLXD quý IV/2026",
+      "status": "mở được nhưng đăng 13/10/2026",
+      "impact": "bỏ — quá 7 ngày"
+    },
+    {
+      "source": "WebSearch giới hạn mining.com/reuters.com",
+      "status": "proxy từ chối (HTTP 400)",
+      "impact": "không quét được Mining.com/Reuters cho đồng, xi măng"
+    },
+    {
+      "source": "Kiểm link bằng script (add_news.py --check-links)",
+      "status": "máy chạy tự động chỉ ra mạng qua danh sách cho phép — curl tới trang báo bị proxy từ chối (403)",
+      "impact": "Mọi link đã được mở trực tiếp bằng WebFetch (qua tác tử đọc web) ngày 27/11/2026 khi viết tóm tắt."
+    },
+    {
+      "source": "WebFetch với URL không xuất hiện trong kết quả tìm kiếm (RSS Google Trends, Baidu realtime, Yahoo! JAPAN, URL gõ tay)",
+      "status": "PROVENANCE_REQUIRED — yêu cầu cấp quyền không được trả lời (chạy tự động)",
+      "impact": "Chỉ đọc được các trang hiện ra trong kết quả WebSearch; một số bài gốc (Semafor, NBC) bị bỏ."
+    }
+  ]
+}

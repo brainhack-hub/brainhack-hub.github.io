@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26",
-  "latest": "2026-11-26",
+  "updated": "2026-11-27",
+  "latest": "2026-11-27",
   "topics": [
     {
       "id": "ai_xd",
@@ -68,6 +68,19 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-11-27",
+      "file": "2026-11-27.json",
+      "headline": "Nvidia tạm dừng giao máy chủ AI sang 4 nước Đông Nam Á; AI vào khâu kiểm hồ sơ nhà thầu, xin phép, sửa bản vẽ; Hàn–Nhật chỉ ra nút thắt định mức – đơn giá; Bộ Công Thương: hàng Mục 232 có thể thoát thuế 301",
+      "item_count": 29,
+      "topics": {
+        "ai_xd": 12,
+        "chuoi_cung_ung": 3,
+        "cong_nghe": 3,
+        "ai_toan_cau": 7,
+        "vn": 4
+      }
+    },
     {
       "date": "2026-11-26",
       "file": "2026-11-26.json",

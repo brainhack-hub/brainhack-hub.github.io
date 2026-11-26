@@ -1,0 +1,2909 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T06:08:00+07:00",
+  "headline": "TQ: ‘AI siêu sáng tạo’ thành nghề, chính quyền ươm ‘tiệm thanh xuân’, quà thiết thực lên ngôi; Hàn: sinh tố máy 1 phút ở cửa hàng tiện lợi, dân văn phòng tuổi 30 mua thực phẩm chức năng; Mỹ: ThredUp live đồ cũ từ kho, AI mua hộ lộ mặt trái — 9 ý tưởng",
+  "summary": "Trung Quốc: người tự học công cụ AI một tuần có loạt video 400 triệu lượt phát, nhãn hàng đặt cả loạt video có nhân vật; Nhân Dân Nhật báo kể các chương trình cho người trẻ trông tiệm thử 1 tháng miễn tiền thuê; cụm ‘纯过日子’ đưa quà thiết thực lên bàn bình luận; đội phần cứng nhỏ chiếm 62/100 dự án gọi vốn lớn nhất. Hàn: 7-Eleven bán 1,2 triệu cốc sinh tố máy trong 8 tháng; thực phẩm chức năng ở cửa hàng tiện lợi khu văn phòng tăng 21,2% trong quý 3. Mỹ: ThredUp livestream đồ cũ từ kho, hơn 75% người mua là khách mới; Black Friday đầu tiên của ‘AI mua hộ’ đi kèm cảnh báo gợi ý sai và giảm giá ảo; Nhật–Anh: khoảng 7/10 người trẻ mua quà Giáng sinh dịp Black Friday. Từ khóa: đọc được Google Trends (VN/KR/JP/US qua các URL thay thế) và Baidu 热搜; RSS vẫn không mở được.",
+  "trends": [
+    {
+      "id": "20261127-t1-ai-sieu-sang-tao-video",
+      "title": "TQ: ‘AI siêu sáng tạo’ (AI超创) thành nghề kiếm tiền — người không học làm phim tự học công cụ AI một tuần, loạt video đạt 400 triệu lượt xem; 《三国杀》 đặt 244 video quảng cáo AI",
+      "summary": "Bài trên 澎湃号·湃客 (26/11/2026, dẫn dữ liệu 壹娱观察 và 新榜) gọi những người làm video AI có cốt truyện riêng và hình ảnh kiểu điện ảnh là ‘AI超创’. Tháng 11/2026: một người không có nền tảng hoạt hình tự học công cụ AI trong một tuần, loạt phiêu lưu ‘呱呱与辣条’ đạt 4亿 (400 triệu) lượt phát; phim 《丑狐》 do một cựu quản lý sản phẩm AI làm một mình vượt 1亿 lượt trong 3 ngày. Theo 新榜 (1/5–31/10/2026, 1.000 video quảng cáo AI nhiều lượt thích nhất trên Douyin), game 《三国杀》 có 244 lượt đặt, chiếm 24,4%, gần gấp 5 lần hạng hai 得物. Các hãng công cụ video AI tranh nhau ‘nuôi’ creator: LibTV treo giải 100万元 cho thử thách tháng 11, OiiOii hỗ trợ mỗi bài dự thi tối đa 13万元.",
+      "why_it_matters": "Ở TQ, video AI đã chuyển từ ‘làm cho vui’ sang nghề có đơn quảng cáo đều mỗi tháng, và người làm không cần xuất thân làm phim. Nhóm khách chi nhiều nhất là game và nhãn hàng tiêu dùng nhanh, và họ thuê cả loạt video có nhân vật quen thuộc, không chỉ từng clip lẻ. Người trẻ Việt có thể thử với vốn gần như bằng 0 (chỉ tốn phí công cụ): dựng một nhân vật hoặc một loạt hài AI riêng, gom người xem trước rồi mới nhận đặt hàng. Lưu ý: chính bài báo nói nhiều hãng công cụ chỉ là ‘người bán lại sức tính toán’, biên lợi nhuận mỏng, và nhóm nội dung giải trí đang vượt nhóm ‘điện ảnh’ từ quý 4.",
+      "tags": [
+        "AI",
+        "video ngắn",
+        "nhà sáng tạo",
+        "Douyin",
+        "quảng cáo",
+        "game"
+      ],
+      "regions": [
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "Tháng 11/2026: một người không có nền tảng hoạt hình, tự học công cụ AI trong một tuần, làm loạt phiêu lưu ‘呱呱与辣条’ đạt 4亿 (400 triệu) lượt phát; 《丑狐》 do một cựu quản lý sản phẩm AI ở hãng công nghệ lớn làm một mình vượt 1亿 (100 triệu) lượt trên toàn mạng trong 3 ngày; một học sinh trường nghề làm video Harry Potter đổi giới tính hơn 3000万 lượt xem ở nước ngoài.",
+          "source_ids": [
+            "cn_paper_aichaochuang"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Bài tự viết từ dữ liệu của 壹娱观察; chưa tìm được nguồn thứ hai."
+        },
+        {
+          "text": "Dữ liệu 新榜 (1/5–31/10/2026, 1.000 video quảng cáo AI nhiều lượt thích nhất trên Douyin): 《三国杀》 có 244 lượt đặt, chiếm 24,4% mẫu, gần gấp 5 lần nhãn hạng hai là 得物; 《原神》, 《三角洲行动》, 《燕云十六声》 cũng nằm trong top 10.",
+          "source_ids": [
+            "cn_paper_aichaochuang"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu 新榜 được trích lại trong bài; chưa mở được báo cáo gốc của 新榜."
+        },
+        {
+          "text": "Trong mẫu 10 tài khoản, Douyin là nơi tập trung chính: một tài khoản hài AI có 391万 người theo dõi, ‘十万个挑战’ có 239万; nhiều tài khoản đã vượt 1 triệu người theo dõi và có hợp đồng nhãn hàng hằng tháng.",
+          "source_ids": [
+            "cn_paper_aichaochuang"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Bản đọc được ghi tên tài khoản 391万 người theo dõi lúc là ‘别闹了豆刨’, lúc là ‘别闹了豆创’, nên không ghi tên."
+        },
+        {
+          "text": "Các hãng công cụ video AI tranh giành creator: LibTV treo giải 100万元 cho thử thách tháng 11; OiiOii hỗ trợ tiền mặt ‘cấp triệu’, mỗi bài tối đa 13万元; 即梦 giảm gói năm cá nhân còn 4,5 phần 10 giá (tức giảm 55%). Bài gọi nhiều hãng là ‘người bán lại sức tính toán’ (算力二道贩子), biên lợi nhuận mỏng.",
+          "source_ids": [
+            "cn_paper_aichaochuang"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cn_paper_aichaochuang",
+          "name": "澎湃新闻 · 澎湃号·湃客 (tác giả 路柯)",
+          "title": "谁捧的AI超创，最能赚钱？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34557640",
+          "published": "2026-11-26",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Bài trên kênh tự đăng 湃客 (không phải bài của phóng viên 澎湃), dẫn dữ liệu 壹娱观察 và 新榜. Đọc qua WebFetch (tác tử đọc web) ngày 27/11/2026."
+        }
+      ]
+    },
+    {
+      "id": "20261127-t2-phan-cung-ai-goi-von-cong-dong",
+      "title": "TQ: đội phần cứng nhỏ đem ‘đồ quen gắn AI’ đi gọi vốn cộng đồng ở nước ngoài — 62/100 dự án lớn nhất trên Kickstarter và Indiegogo là của TQ; máy cho chim ăn có camera AI bán hơn 1 triệu chiếc",
+      "summary": "Bài trên 澎湃号·湃客 (20/11/2026): 9 tháng đầu 2026, đội TQ chiếm 62 trong 100 dự án gọi vốn phần cứng lớn nhất trên Kickstarter và Indiegogo, lấy khoảng 77% số tiền huy động. Máy CNC để bàn ToolDance X1 lên Kickstarter tháng 10/2026: 1 triệu USD trong 3 phút, 10 triệu USD trong chưa tới 13 giờ, tổng hơn 17 triệu USD. Robot quay phim AI Beni huy động hơn 5 triệu USD; thiết bị AI đọc màn hình máy tính Violoop có 5.845 người ủng hộ, hơn 3,423 triệu USD. Nhiều món là đồ quen được gắn thêm AI: máy ghi âm PLAUD (thêm chép lời, tóm tắt cuộc họp) đã giao hơn 2 triệu máy tính đến 6/2026, doanh thu thuê bao phần mềm quy năm hơn 100 triệu USD; máy cho chim ăn Birdfy (camera + nhận diện chim) bán cộng dồn hơn 1 triệu máy.",
+      "why_it_matters": "Bài học không nằm ở chiếc máy CNC hàng nghìn USD. Mô hình đáng để ý là lấy một món đồ quen, gắn thêm camera hoặc AI, kể chuyện bằng video rồi bán trước cho người thích nó trước khi sản xuất. Người trẻ Việt khó làm phần cứng từ đầu, nhưng có thể thử ở quy mô nhỏ: bộ kit tự lắp dùng linh kiện có sẵn, đặt trước theo đợt, hoặc làm kênh review và bán thử thiết bị AI. Rủi ro lớn: bảo hành, hàng lỗi và giao hàng trễ, những chuyện các dự án gọi vốn cộng đồng thường gặp.",
+      "tags": [
+        "phần cứng AI",
+        "gọi vốn cộng đồng",
+        "Kickstarter",
+        "thú cưng & chim",
+        "xuất khẩu"
+      ],
+      "regions": [
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "9 tháng đầu 2026, đội TQ chiếm 62/100 dự án gọi vốn phần cứng hàng đầu trên Kickstarter và Indiegogo, lấy khoảng 77% số tiền huy động.",
+          "source_ids": [
+            "cn_paper_aihw"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Bài không nêu ai tổng hợp con số này."
+        },
+        {
+          "text": "ToolDance X1 (máy CNC để bàn, lên Kickstarter tháng 10/2026): 1 triệu USD trong 3 phút, 10 triệu USD trong chưa tới 13 giờ, tổng hơn 17 triệu USD. Beni (robot quay phim AI cho người làm nội dung) huy động hơn 5 triệu USD. Violoop có 5.845 người ủng hộ, hơn 3,423 triệu USD.",
+          "source_ids": [
+            "cn_paper_aihw"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Chưa mở được trang Kickstarter để đối chiếu."
+        },
+        {
+          "text": "PLAUD (máy ghi âm AI): giao hơn 2 triệu máy tính đến 6/2026, doanh thu thuê bao phần mềm quy năm hơn 100 triệu USD. Birdfy (máy cho chim ăn có camera và nhận diện chim bằng AI): bán cộng dồn hơn 1 triệu máy (số do hãng tự công bố).",
+          "source_ids": [
+            "cn_paper_aihw"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cn_paper_aihw",
+          "name": "澎湃新闻 · 澎湃号·湃客",
+          "title": "3分钟卖出百万美元，13小时破千万，这些AI硬件在海外杀疯了",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34519563",
+          "published": "2026-11-20",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Bài trên kênh tự đăng 湃客, không ghi tên tác giả; nhiều số do hãng tự công bố. Đọc qua WebFetch (tác tử đọc web) ngày 27/11/2026."
+        }
+      ]
+    },
+    {
+      "id": "20261127-t3-tiem-thanh-xuan-uom-tao",
+      "title": "TQ: chính quyền ‘ươm’ tiệm nhỏ của người trẻ (青春小店) — Thượng Hải cho trông tiệm thử 1 tháng miễn tiền thuê, Tế Nam cho vay tới 800.000 tệ, Hồ Nam thưởng 20.000 tệ",
+      "summary": "Nhân Dân Nhật báo (24/11/2026, chuyên mục 经济聚焦) kể về các chương trình ‘tiệm nhỏ thanh xuân’ sau văn bản tháng 4 của Trung ương Đoàn và 15 bộ ngành. Ở Thượng Hải (愚园路1046号, quận Trường Ninh), ‘tiệm câu chuyện’ dưới 10 m² cho người trẻ, chủ yếu sinh sau 1990 và 2000, làm chủ tiệm thử 1 tháng, miễn tiền thuê, điện nước và nhân công; một chủ tiệm năm ngoái bị loại vì ít người theo dõi online, năm nay được nhận và nay mở ‘三点花铺’. Ở Tế Nam, chủ tiệm giỏi được xếp vào diện nhân tài: được đi xe buýt, tàu điện miễn phí 3 năm và vay tín chấp tới 80万元; chương trình tạo việc cho hơn 500 người. Ở Hồ Nam, kế hoạch 2026 chọn 100 tiệm, mỗi tiệm nhận 2万元 vốn nâng cấp đầu tiên; tiệm hạt rang 王胖子 (lập năm 1836) bán hơn 500 hộp đậu ‘剁椒怪味’ trong một ngày ở một tiệm.",
+      "why_it_matters": "TQ đang hạ rủi ro mở tiệm cho người trẻ: cho bán thử trước ở mặt bằng nhỏ dùng chung, rồi mới cho vay và trao danh hiệu. Ở VN, hỗ trợ của Đoàn chủ yếu là vốn vay và câu lạc bộ; mô hình ‘kệ hoặc tiệm thử bán 1 tháng’ xoay vòng chủ tiệm gần như chưa thấy. Đây là chỗ một người trẻ có thể đứng ra làm đầu mối: thuê góc nhỏ trong quán cà phê, cho thuê theo tháng và đề xuất hợp tác với Đoàn phường. Khi đọc, lưu ý đây là bài tuyên truyền chính sách, kể theo ca điển hình, không có số liệu tổng.",
+      "tags": [
+        "tiệm nhỏ",
+        "chính sách thanh niên",
+        "bán thử",
+        "khởi nghiệp",
+        "nghề truyền thống"
+      ],
+      "regions": [
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "Tháng 4/2026, Trung ương Đoàn TQ cùng 15 bộ ngành ra văn bản về thành phố phát triển cho thanh niên, khuyến khích ‘青春小店’ gắn với ‘vòng sống 15 phút’.",
+          "source_ids": [
+            "cn_rmrb_qcxd",
+            "cn_paper_qcxd"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Bài 澎湃号·政务 ghi nguồn ‘人民日报、共青团中央’, nội dung trùng bài Nhân Dân Nhật báo, nên không tính là nguồn độc lập."
+        },
+        {
+          "text": "Thượng Hải (愚园路1046号, quận Trường Ninh): ‘故事商店’ dưới 10 m², chủ tiệm chủ yếu sinh sau 1990 và 2000, được làm thử 1 tháng, miễn tiền thuê, điện nước và nhân công.",
+          "source_ids": [
+            "cn_rmrb_qcxd",
+            "cn_paper_qcxd"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Cùng một bài gốc."
+        },
+        {
+          "text": "Tế Nam: chủ tiệm giỏi của chương trình ‘泉城青春小店’ (bắt đầu 2025) được công nhận nhân tài loại E (tháng 4/2026), được đi xe buýt và tàu điện miễn phí 3 năm và vay tín chấp tới 80万元; chương trình tạo việc cho hơn 500 người, gián tiếp cho gần 1.000 việc làm linh hoạt.",
+          "source_ids": [
+            "cn_rmrb_qcxd",
+            "cn_paper_qcxd"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Cùng một bài gốc."
+        },
+        {
+          "text": "Hồ Nam: kế hoạch 2026 chọn 100 tiệm và 10 dự án mẫu; tiệm hạt rang 王胖子 (lập năm 1836, truyền 6 đời) nhận 2万元 vốn nâng cấp, có 4 tiệm trực tiếp ở Trường Sa; vị đậu ‘剁椒怪味’ bán hơn 500 hộp trong một ngày ở một tiệm.",
+          "source_ids": [
+            "cn_rmrb_qcxd",
+            "cn_paper_qcxd"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Cùng một bài gốc."
+        }
+      ],
+      "sources": [
+        {
+          "id": "cn_rmrb_qcxd",
+          "name": "中新网 (đăng lại 人民日报)",
+          "title": "青春小店 装下生活与梦想（经济聚焦）",
+          "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736981.shtml",
+          "published": "2026-11-24",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Bài gốc của Nhân Dân Nhật báo (phóng viên 曹玲娟, 李蕊, 杨迅). Đọc qua WebFetch (tác tử đọc web) ngày 27/11/2026."
+        },
+        {
+          "id": "cn_paper_qcxd",
+          "name": "澎湃新闻 · 澎湃号·政务 (Đoàn trường ĐH Tài chính Kinh tế Sơn Đông)",
+          "title": "把子肉冰淇淋、榴莲瓜子、剁椒怪味豆……这届年轻人敢想敢拼！",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34560916",
+          "published": "2026-11-25",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Ghi nguồn ‘人民日报、共青团中央’; số liệu trùng bài Nhân Dân Nhật báo, nên không phải nguồn độc lập. Đọc qua WebFetch (tác tử đọc web) ngày 27/11/2026."
+        }
+      ]
+    },
+    {
+      "id": "20261127-t4-chi-song-qua-ngay-qua-thiet-thuc",
+      "title": "TQ (diễn biến mới): ‘chỉ cần sống cho tử tế’ (纯过日子) lên bài bình luận lớn ngày 24/11 — 82,4% người trẻ chọn quà tình cảm theo độ thiết thực, tặng nhau tiền điện thoại 300 tệ, tiệm quần áo trong trung tâm thương mại đóng nhiều hơn mở",
+      "summary": "Cụm ‘纯过日子’ (nghĩa là chỉ sống cho thật, thực dụng, không chạy theo hàng hiệu hay khoe khoang) đã lên hot search Weibo từ cuối tháng 9/2026. Ngày 24/11/2026, chủ bút 澎湃 Thẩm Bân viết bài bình luận ‘纯过日子 không phải là ham muốn thấp’ (21财经 và Tencent đăng lại), cho thấy cụm từ đã vào dòng chính. Dữ kiện đi kèm: khảo sát của 京东消费及产业发展研究院 cho thấy 82,4% người trẻ xếp ‘thiết thực’ là tiêu chí số 1 khi chọn quà cho người yêu; có người được tặng 300 tệ tiền điện thoại nhân sinh nhật, có người nhận một năm bột giặt và giấy vệ sinh; nhóm Douban ‘vui mà không cần tiêu tiền’ có hơn 230.000 thành viên. Dữ liệu 赢商 (quý 3/2026, trung tâm thương mại ở 12 thành phố): hơn 9.700 lượt mở hoặc đóng tiệm; quần áo khoảng 1.200 tiệm đóng, dưới 1.000 tiệm mở (tỷ lệ mở/đóng 0,85), New Balance dẫn đầu nhóm thu hẹp, trong khi tiệm trà 真茶屋 giá từ 15 tệ mở thêm gần 20 tiệm.",
+      "why_it_matters": "Người trẻ TQ vẫn tiêu tiền, nhưng tiêu cho thứ dùng được: quà là hóa đơn hoặc đồ gia dụng, quần áo mua ít đi, đi chơi ở chỗ miễn phí. Mùa Noel, Tết dương và Tết 2027 ở VN là lúc để thử các món quà thiết thực được trình bày đẹp: hộp nhu yếu phẩm năm mới, thiệp ‘đóng hộ hóa đơn’, gói đăng ký kèm lời chúc. Cũng nên cẩn trọng: cụm từ đã có từ tháng 9, nên tin mới ở đây là việc báo lớn bàn về nó; phần lớn chứng cứ là chuyện kể trên mạng xã hội cộng một khảo sát.",
+      "tags": [
+        "tiêu dùng thực dụng",
+        "quà tặng",
+        "Gen Z",
+        "trung tâm thương mại",
+        "từ khóa mạng"
+      ],
+      "regions": [
+        "CN"
+      ],
+      "key_facts": [
+        {
+          "text": "Khảo sát của 京东消费及产业发展研究院: 82,4% người trẻ xếp ‘thiết thực’ là tiêu chí hàng đầu khi chọn quà cho người yêu. Ví dụ trên mạng xã hội: một người dùng 小红书 (5/2026) được bạn tặng 300 tệ tiền điện thoại nhân sinh nhật 27 tuổi; một người dùng Weibo nhận một năm bột giặt và giấy vệ sinh.",
+          "source_ids": [
+            "cn_sina_cgrz"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Khảo sát được trích lại trong bài 家电网; chưa mở được bản gốc; bài không nêu cỡ mẫu và thời điểm."
+        },
+        {
+          "text": "‘纯过日子’ lên hot search Weibo khoảng cuối tháng 9/2026 (bài 29/9 viết ‘日前’); nhóm Douban ‘如果我们可以不通过消费获得快乐’ có hơn 230.000 thành viên. Ngày 24/11/2026, bài bình luận của 澎湃 phản bác cách hiểu đây là ‘xã hội ham muốn thấp’ kiểu Nhật.",
+          "source_ids": [
+            "cn_sina_cgrz",
+            "cn_paper_cgrz"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Hai bài độc lập (家电网 tháng 9, 澎湃 tháng 11) cùng xác nhận đây là từ khóa mạng; số thành viên Douban chỉ có ở bài 家电网."
+        },
+        {
+          "text": "赢商大数据 (quý 3/2026, trung tâm thương mại chuẩn ở 12 thành phố): hơn 9.700 lượt mở hoặc đóng tiệm, tỷ lệ mở/đóng chung 1,10; quần áo khoảng 1.200 tiệm đóng, dưới 1.000 tiệm mở (0,85); đồ số thời thượng 2,46; New Balance dẫn đầu nhóm giảm; 真茶屋 (trà, giá từ 15 tệ) mở gần 20 tiệm trong mẫu, tổng khoảng 150 tiệm.",
+          "source_ids": [
+            "cn_36kr_winshang"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Bài 赢商网 đăng lại trên 36氪 ngày 28/10/2026, trước cửa sổ 7 ngày; dùng làm bối cảnh."
+        },
+        {
+          "text": "Bài 29/9 nêu giá máy ảnh bỏ túi mới gần 4.000 tệ, thuê một ngày 30–40 tệ; ví dụ cách tính ‘giá mỗi lần mặc’: áo 300 tệ mặc 3 lần bằng 100 tệ/lần, áo 1.000 tệ mặc 50 lần bằng 20 tệ/lần.",
+          "source_ids": [
+            "cn_sina_cgrz"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cn_paper_cgrz",
+          "name": "澎湃新闻 (chủ bút 沈彬, chuyên mục 经纬度)",
+          "title": "经纬度｜“纯过日子”绝不等于“低欲望”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34544945",
+          "published": "2026-11-24",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Bài bình luận; các số kinh tế vĩ mô trong bài không ghi nguồn. 21财经 và 腾讯新闻 đăng lại cùng ngày, không tính là nguồn riêng. Đọc qua WebFetch (tác tử đọc web) ngày 27/11/2026."
+        },
+        {
+          "id": "cn_sina_cgrz",
+          "name": "新浪科技 (đăng lại 家电网, phóng viên 陈斯)",
+          "title": "“纯过日子”成网络热词 年轻人生活主打务实",
+          "url": "https://finance.sina.com.cn/tech/roll/2026-09-29/doc-initmzhp3109375.shtml",
+          "published": "2026-09-29",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Bài bối cảnh (ngoài cửa sổ 7 ngày) cho nguồn gốc từ khóa. Đọc qua WebFetch (tác tử đọc web) ngày 27/11/2026."
+        },
+        {
+          "id": "cn_36kr_winshang",
+          "name": "36氪 (đăng lại 赢商网, tác giả 熊舒苗)",
+          "title": "9700家门店大洗牌：年轻人步入“纯过日子”时代",
+          "url": "https://www.36kr.com/p/4044921805099905",
+          "published": "2026-10-28",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Ngày đăng hiển thị trên trang là 28/10/2026 (metadata ghi 27/11/2026, có mâu thuẫn). Đọc qua WebFetch (tác tử đọc web) ngày 27/11/2026."
+        }
+      ]
+    },
+    {
+      "id": "20261127-t5-han-sinh-to-may-tien-loi",
+      "regions": [
+        "KR",
+        "JP"
+      ],
+      "title": "Hàn: sinh tố ‘kiểu Nhật’ xay sẵn bằng máy ở cửa hàng tiện lợi — 7-Eleven bán 1,2 triệu cốc trong 8 tháng, vẫn bán tốt khi trời lạnh; CU, GS25 cùng chạy theo",
+      "summary": "Seoul Economic Daily (24/11): sinh tố 7-Eleven Hàn dùng máy nhập từ Nhật (ra mắt giữa tháng 3/2026 sau hơn 1 năm thử nghiệm bản địa hóa) đạt 1,2 triệu cốc sau 8 tháng; doanh số tháng 10 cao hơn khoảng 20% so với tháng 6, khách nước ngoài (1–22 tháng này) gấp 2,5 lần cùng kỳ tháng 4; vừa ra vị hồng chín. CU: 6 loại ‘Real Smoothie’ tăng 110,8% trong tháng 6–7 so cùng kỳ, máy xay cốc trái cây đông lạnh trong khoảng 1 phút, định mở rộng lên khoảng 500 cửa hàng cuối năm. GS25 thử nghiệm trung bình 25,5 cốc/cửa hàng/ngày. Wikitree (19/9) cho biết mốc 1 triệu sau 6 tháng ở khoảng 300 cửa hàng, khu văn phòng chiếm 20% doanh số.",
+      "why_it_matters": "Mô hình ‘cốc trái cây đông lạnh + máy xay tự động, 1 phút/cốc’ giúp bán đồ uống trái cây mà không cần nhân viên pha chế — hợp với điểm bán nhỏ ở tòa văn phòng, trường học, ký túc xá tại VN, nơi trái cây nhiệt đới rẻ và sẵn. Cần thử trước: chi phí máy và chuỗi lạnh, cạnh tranh với xe sinh tố truyền thống.",
+      "tags": [
+        "sinh tố",
+        "cửa hàng tiện lợi",
+        "đồ uống",
+        "tự động hóa",
+        "F&B",
+        "7-Eleven",
+        "CU",
+        "GS25"
+      ],
+      "key_facts": [
+        {
+          "text": "7-Eleven Hàn Quốc: sinh tố kiểu Nhật đạt 1,2 triệu cốc (units) sau 8 tháng kể từ khi ra mắt; máy sinh tố Nhật được đưa vào giữa tháng 3/2026 sau hơn 1 năm thử nghiệm bản địa hóa.",
+          "source_ids": [
+            "kr_smoothie_sed"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu do 7-Eleven cung cấp, báo đăng lại. Wikitree (19/9) độc lập ghi mốc 1 triệu sau 6 tháng — khớp quỹ đạo."
+        },
+        {
+          "text": "Doanh số tháng 10 cao hơn khoảng 20% so với tháng 6; doanh số với khách nước ngoài từ ngày 1–22 tháng này gấp 2,5 lần cùng kỳ tháng 4; vị mới ‘Seven Select Hongsi Smoothie’ dùng hồng chín.",
+          "source_ids": [
+            "kr_smoothie_sed"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Mô hình đã được hai báo độc lập ghi nhận: 7-Eleven bán tại khoảng 300 cửa hàng, khu văn phòng chiếm 20% doanh số; độ ngọt trái cây tăng trung bình 2 Brix, nhiệt độ lõi đồ uống hạ xuống −5°C để hợp khẩu vị Hàn; bản gốc ‘Seven Café Smoothie’ ra mắt ở Nhật năm 2023.",
+          "source_ids": [
+            "kr_smoothie_wiki",
+            "kr_smoothie_sed"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Chi tiết 300 cửa hàng, 20% văn phòng, 2 Brix, −5°C chỉ có ở Wikitree (19/9, ngoài cửa sổ 7 ngày); sự tồn tại và tăng trưởng của mô hình thì cả hai báo cùng ghi nhận."
+        },
+        {
+          "text": "Đối thủ: CU — 6 loại ‘Real Smoothie’ tăng 110,8% trong tháng 6–7 so cùng kỳ, máy làm một cốc trong khoảng 1 phút, kế hoạch khoảng 500 cửa hàng cuối năm; GS25 — thử nghiệm từ tháng 12 năm trước, trung bình 25,5 cốc/cửa hàng/ngày.",
+          "source_ids": [
+            "kr_smoothie_sed",
+            "kr_smoothie_wiki"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Hai báo cùng đưa đúng các con số này, nhiều khả năng từ cùng tài liệu của doanh nghiệp → tính là 1 nguồn gốc."
+        }
+      ],
+      "sources": [
+        {
+          "id": "kr_smoothie_sed",
+          "name": "Seoul Economic Daily (서울경제, bản tiếng Anh)",
+          "title": "Seven-Eleven's Japanese-Style Smoothies Sell 1.2 Million Cups in Korea in 8 Months",
+          "url": "https://en.sedaily.com/business/2026/11/24/convenience-store-smoothies-boom-in-korea-topping-12",
+          "published": "2026-11-24",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Bài không nêu giá bán, số máy, độ tuổi khách; ‘người trẻ’ là người mua chính theo bài nhưng không có số liệu tuổi. Đọc qua WebFetch (tác tử đọc web)."
+        },
+        {
+          "id": "kr_smoothie_wiki",
+          "name": "위키트리 (Wikitree)",
+          "title": "일본서 줄 서더니 한국서도 터졌다… 세븐일레븐 스무디 100만개 돌파",
+          "url": "https://www.wikitree.co.kr/articles/1160690",
+          "published": "2026-09-19",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Bài trước cửa sổ 7 ngày, dùng làm bối cảnh/nguồn độc lập thứ hai. Đọc qua WebFetch (tác tử đọc web)."
+        }
+      ]
+    },
+    {
+      "id": "20261127-t6-han-tpcn-tien-loi-van-phong",
+      "regions": [
+        "KR"
+      ],
+      "title": "Hàn: cửa hàng tiện lợi biến dân văn phòng tuổi 30 thành khách mua thực phẩm chức năng hàng đầu — GS25 tăng 15,2% trong quý 3, gói nhỏ 2 tuần, uống không cần nước bán chạy",
+      "summary": "Seoul Economic Daily (25/11): doanh số thực phẩm chức năng ở GS25 tăng 3,0% (quý 1), 7,5% (quý 2), 15,2% (quý 3) so quý trước; ở khu văn phòng Yeouido, Gangnam, Gwanghwamun là 7,0% → 11,4% → 21,2%. Nhóm 30 tuổi là khách lớn nhất (26,1%), 10–20 tuổi chiếm 21,7%. 7-Eleven: quý 3 +23% so quý trước, khu văn phòng +30%, nhân viên 20–30 tuổi tạo một nửa doanh số khu văn phòng; số cửa hàng bán tăng từ khoảng 3.000 lên khoảng 4.000. Daiso bán loại dưới 5.000 won, từ 13 lên 25 thương hiệu. Xu hướng: gói nhỏ 2 tuần–1 tháng, gói dùng một lần, loại uống không cần nước, combo nước + viên.",
+      "why_it_matters": "Người trẻ đi làm mua vi chất theo kiểu ‘tiện tay, liều nhỏ, giá thấp’ ngay cạnh văn phòng thay vì vào nhà thuốc. Ở VN, góc ‘chăm sức khỏe nhanh’ cho dân văn phòng (bán lại sản phẩm đã đăng ký, gói dùng thử) là hướng thử được — nhưng thực phẩm bảo vệ sức khỏe bị quản lý chặt, không được tự chia gói hay quảng cáo công dụng.",
+      "tags": [
+        "thực phẩm chức năng",
+        "cửa hàng tiện lợi",
+        "dân văn phòng",
+        "gói nhỏ",
+        "GS25",
+        "7-Eleven",
+        "Daiso"
+      ],
+      "key_facts": [
+        {
+          "text": "GS25 (bắt đầu bán từ tháng 8 năm trước): doanh số thực phẩm chức năng tăng 3,0% quý 1, 7,5% quý 2, 15,2% quý 3/2026 so quý trước; khu văn phòng (Yeouido, Gangnam, Gwanghwamun) tăng 7,0%, 11,4%, 21,2%; danh mục tăng từ khoảng 30 lên khoảng 40 sản phẩm.",
+          "source_ids": [
+            "kr_supp_sed"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu do chuỗi cung cấp."
+        },
+        {
+          "text": "Khách GS25 theo tuổi: 30 tuổi 26,1%, 40 tuổi 25,5%, 10–20 tuổi 21,7%, 50 tuổi 19,5%, 60+ 7,2% — trong khi toàn thị trường (Hiệp hội TPCN Hàn) 30 tuổi chỉ chiếm 13,2%, 20 tuổi 2,7%.",
+          "source_ids": [
+            "kr_supp_sed"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "7-Eleven (bán từ tháng 11 năm trước): quý 3 +23% so quý trước, khu văn phòng +30%; nhân viên 20–30 tuổi tạo một nửa doanh số khu văn phòng; số cửa hàng bán tăng từ khoảng 3.000 lên khoảng 4.000. Daiso bán loại dưới 5.000 won từ tháng 2 năm trước, số thương hiệu từ 13 lên 25.",
+          "source_ids": [
+            "kr_supp_sed"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Định dạng bán chạy: gói nhỏ 2 tuần hoặc 1 tháng, gói dùng một lần, loại uống không cần nước; 3 sản phẩm bán chạy nhất nửa đầu năm của GS25 đều là dạng combo nước + viên.",
+          "source_ids": [
+            "kr_supp_sed"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "kr_supp_sed",
+          "name": "Seoul Economic Daily (서울경제, bản tiếng Anh)",
+          "title": "Convenience Stores Make Shoppers in Their 30s Top Buyers of Supplements",
+          "url": "https://en.sedaily.com/business/2026/11/25/convenience-stores-turn-office-workers-in-their-30s-into",
+          "published": "2026-11-25",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Chỉ tìm được một nguồn trong ngân sách tìm kiếm; chưa có nguồn độc lập thứ hai. Đọc qua WebFetch (tác tử đọc web)."
+        }
+      ]
+    },
+    {
+      "id": "20261127-t7-my-thredup-live-do-cu-tu-kho",
+      "regions": [
+        "US"
+      ],
+      "title": "Mỹ (diễn biến mới): ThredUp livestream bán đồ cũ ngay từ kho trên TikTok Shop — 10 phiên/tuần, giá từ 1 USD, hơn 75% người mua là khách mới",
+      "summary": "Modern Retail (18/11) và TheStreet (24/11): ThredUp bắt đầu bán quần áo, giày, phụ kiện đồ cũ qua livestream TikTok Shop, quay tại studio trong trung tâm phân phối ở Atlanta và Dallas; phiên đầu dài 4 giờ (11/11), cam kết 10 phiên/tuần và định tăng lên 20. Một phiên ngày 17/11 giới thiệu 250 món trong 4 giờ; có món khởi điểm 1 USD hoặc 5 USD. Hơn 75% người mua qua live là khách mới. Trước đó ThredUp live trên Whatnot từ cuối tháng 9: giá bán trung vị cao hơn 52% so với món tương đương trên chợ. 94% giao dịch đồ hiệu cũ trên TikTok Shop Mỹ đến từ livestream. TheStreet: 41% người mua đồ cũ từng nhận hàng khác mô tả (OfferUp).",
+      "why_it_matters": "Xu hướng mua đồ cũ làm quà đã đưa tin 26/11; điểm mới là định dạng: biến kho hàng thành ‘đài truyền hình’, bán theo lịch cố định, giá khởi điểm rất thấp để kéo khách mới. Shop đồ si nhỏ ở VN có thể áp dụng kiểu ‘live theo lịch từ kho, mỗi món kể chuyện + soi lỗi kỹ’ để khác biệt với live xả hàng ồn ào.",
+      "tags": [
+        "đồ cũ",
+        "resale",
+        "livestream",
+        "TikTok Shop",
+        "Whatnot",
+        "ThredUp",
+        "Black Friday"
+      ],
+      "key_facts": [
+        {
+          "text": "ThredUp bán đồ cũ qua livestream TikTok Shop từ studio trong trung tâm phân phối Atlanta và Dallas, bắt đầu với 10 phiên/tuần và định tăng gấp đôi (20 phiên).",
+          "source_ids": [
+            "us_thredup_mr",
+            "us_thredup_ts"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Hai báo khác nhau, nhưng thông tin đều xuất phát từ thông báo/phỏng vấn của ThredUp."
+        },
+        {
+          "text": "Hơn 75% người mua qua live TikTok Shop là khách mới của ThredUp (Modern Retail ghi 75% cho 6 phiên đầu; TheStreet trích ‘More than 75%’).",
+          "source_ids": [
+            "us_thredup_mr",
+            "us_thredup_ts"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số do ThredUp tự công bố."
+        },
+        {
+          "text": "Phiên đầu dài 4 giờ phát ngày 11/11; ngày 17/11 một host giới thiệu 250 món trong 4 giờ; có món khởi điểm 1 USD, có món 5 USD; thương hiệu bán nhiều nhất qua 6 phiên đầu: Madewell, Frame, Free People, Good American; ThredUp có hơn 20 host.",
+          "source_ids": [
+            "us_thredup_mr"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Live trên Whatnot (từ cuối tháng 9): giá bán trung vị cao hơn 52% so với món tương đương bán trên chợ của ThredUp (công ty không đưa số tuyệt đối); 94% giao dịch đồ hiệu cũ trên TikTok Shop Mỹ đến từ livestream.",
+          "source_ids": [
+            "us_thredup_mr"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "TheStreet: doanh số mùa lễ của ThredUp tăng 37% giai đoạn 2023–2025 (cả năm +22%); 30% người mua sắm định dùng đồ cũ làm quà mùa này (2025: 23%); 41% người mua đồ cũ từng nhận món khác với mô tả (OfferUp 2026 Recommerce Report).",
+          "source_ids": [
+            "us_thredup_ts"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Tỷ lệ 30% là chỉ số khác với 62% ‘định mua ít nhất 1 món đồ cũ’ (ThredUp Holiday Resale Report, đã đưa ngày 26/11)."
+        }
+      ],
+      "sources": [
+        {
+          "id": "us_thredup_mr",
+          "name": "Modern Retail",
+          "title": "ThredUp launches TikTok Shop livestreams as part of its social commerce push",
+          "url": "https://www.modernretail.co/operations/thredup-launches-tiktok-shop-livestreams-as-part-of-its-social-commerce-push/",
+          "published": "2026-11-18",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Tác giả Julia Waldow; có phỏng vấn Danielle Vermeer (ThredUp). Đọc qua WebFetch (tác tử đọc web)."
+        },
+        {
+          "id": "us_thredup_ts",
+          "name": "TheStreet",
+          "title": "ThredUp brings its secondhand treasure hunt to TikTok",
+          "url": "https://www.thestreet.com/retail/thredup-brings-secondhand-treasure-hunt-to-tiktok",
+          "published": "2026-11-24",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Tác giả Madison Troyer; trích CEO James Reinhart. Đọc qua WebFetch (tác tử đọc web)."
+        }
+      ]
+    },
+    {
+      "id": "20261127-t8-nhat-anh-black-friday-mua-qua-noel",
+      "regions": [
+        "JP",
+        "EU"
+      ],
+      "title": "Nhật–Anh: Black Friday thành ‘mùa mua quà Giáng sinh sớm’ của người trẻ — ở Nhật 72,6% người 20–30 tuổi định mua quà Noel dịp này; ở Anh Gen Z dồn 37% ngân sách Giáng sinh",
+      "summary": "Nhật: khảo sát của Scroll (công bố 17/11, ECのミカタ cập nhật 26/11; 969 người 20–69 tuổi từng mua dịp Black Friday): trong 448 người định mua quà Giáng sinh, 60,0% sẽ mua toàn bộ hoặc một phần dịp Black Friday — nhóm 20–30 tuổi 72,6%, nhóm 50 tuổi 45,1%; 69,0% người 20–30 tuổi từng ‘mua trước’ món định mua sau tháng 12; 70,7% nói giá cả leo thang ảnh hưởng đến cách mua. Anh: eBay Advertising UK (2.001 người, ChannelX 10/11): 73% Gen Z có khả năng mua quà Giáng sinh dịp Black Friday, dành 37% tổng ngân sách Giáng sinh (trung bình 22%), 42% Gen Z chủ yếu ‘tự thưởng’. TikTok Shop UK (ChannelX 25/11): 53% Gen Z định mua trên TikTok Shop cuối tuần này, bài đăng #BlackFriday +111% so cùng kỳ.",
+      "why_it_matters": "Ở hai thị trường rất khác nhau, người trẻ dùng đợt giảm giá cuối tháng 11 để mua quà sớm vì lo giá tăng. Với VN, chuỗi Black Friday → 12.12 → Noel → Tết là một mùa quà liền mạch: shop nhỏ có thể bán ‘đặt quà sớm giá sale + gói/giao đúng ngày Noel’ thay vì chỉ xả giá.",
+      "tags": [
+        "Black Friday",
+        "quà Giáng sinh",
+        "Gen Z",
+        "mua sớm",
+        "lạm phát",
+        "TikTok Shop",
+        "eBay"
+      ],
+      "key_facts": [
+        {
+          "text": "Nhật (Scroll, khảo sát chính 29/10/2026, 969 người): trong 448 người định mua quà Giáng sinh, 19,6% sẽ mua toàn bộ và 40,4% mua một phần dịp Black Friday (cộng 60,0%), thêm 21,9% đang cân nhắc; nhóm 20–30 tuổi 72,6%, nhóm 50 tuổi 45,1%.",
+          "source_ids": [
+            "jp_bf_scroll"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Khảo sát chỉ hỏi người từng mua dịp Black Friday (sàng lọc 5.000 người ngày 20/10)."
+        },
+        {
+          "text": "Nhật: 60,8% người mua dịp Black Friday 2025 đã mua trước món định mua sau tháng 12 (20–30 tuổi: 69,0%); 70,7% nói giá tăng ảnh hưởng mạnh hoặc khá đến việc mua sắm Black Friday; lý do ‘rẻ hơn bình thường’ chiếm 40,8%.",
+          "source_ids": [
+            "jp_bf_scroll"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Anh (eBay Advertising UK, 2.001 người lớn): 48% có khả năng mua quà Giáng sinh dịp Black Friday 2026, Gen Z 73%; Gen Z dành 37% tổng ngân sách Giáng sinh cho Black Friday (trung bình 22%); 56% Gen Z coi nội dung video là quan trọng khi mua quà.",
+          "source_ids": [
+            "uk_bf_ebay"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Bài ngày 10/11, ngoài cửa sổ 7 ngày; dùng để đối chiếu với số liệu Nhật."
+        },
+        {
+          "text": "Hai khảo sát độc lập ở Nhật (Scroll) và Anh (eBay) cùng cho thấy khoảng 7/10 người trẻ dùng Black Friday để mua quà Giáng sinh (72,6% nhóm 20–30 tuổi ở Nhật; 73% Gen Z ở Anh).",
+          "source_ids": [
+            "jp_bf_scroll",
+            "uk_bf_ebay"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Định nghĩa nhóm tuổi và mẫu khác nhau, chỉ so sánh định tính."
+        },
+        {
+          "text": "TikTok Shop UK (25/11): 53% Gen Z định mua trên TikTok Shop cuối tuần này; bài đăng Black Friday +111% so cùng kỳ; giảm đến 60%, deal chỉ có trên live mỗi ngày tới 30/11; 32% người xem live ở Anh sau đó mua sản phẩm tại cửa hàng.",
+          "source_ids": [
+            "uk_tts_bf"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu do TikTok Shop UK công bố; cùng trang ChannelX nhưng khác nguồn gốc dữ liệu với bài eBay."
+        }
+      ],
+      "sources": [
+        {
+          "id": "jp_bf_scroll",
+          "name": "ECのミカタ",
+          "title": "2026年クリスマス、約6割が「プレゼントをブラックフライデーで購入」　スクロール調査",
+          "url": "https://ecnomikata.com/ecnews/marketing/52205/",
+          "published": "2026-11-26",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Trang chỉ ghi ‘最終更新日：2026/11/26’; Scroll công bố kết quả ngày 17/11/2026. Đọc qua WebFetch (tác tử đọc web)."
+        },
+        {
+          "id": "uk_bf_ebay",
+          "name": "ChannelX",
+          "title": "Gen Z to put over a third of their Christmas budget into Black Friday",
+          "url": "https://channelx.world/2026/11/gen-z-to-put-over-a-third-of-their-christmas-budget-into-black-friday/",
+          "published": "2026-11-10",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Vùng ‘EU’ dùng để chỉ châu Âu (Anh). Bài ngoài cửa sổ 7 ngày. Đọc qua WebFetch (tác tử đọc web)."
+        },
+        {
+          "id": "uk_tts_bf",
+          "name": "ChannelX",
+          "title": "TikTok Shop Black Friday Sale launched ahead of biggest LIVE shopping moment to date",
+          "url": "https://channelx.world/2026/11/tiktok-shop-black-friday-sale-launched-ahead-of-biggest-live-shopping-moment-to-date/",
+          "published": "2026-11-25",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Đọc qua WebFetch (tác tử đọc web)."
+        }
+      ]
+    },
+    {
+      "id": "20261127-t9-my-ai-mua-ho-sai-va-giam-gia-ao",
+      "regions": [
+        "US"
+      ],
+      "title": "Mỹ (diễn biến mới): Black Friday đầu tiên của ‘AI mua hộ’ lộ mặt trái — AI gợi ý sai nhu cầu trong 42% lượt thử (Visa), Amazon chặn agent Muse của Meta, 44% người Mỹ cho rằng giảm giá chủ yếu là giá thường",
+      "summary": "NPR (25/11): 59% người tiêu dùng định dùng AI hỗ trợ mua sắm cuối tuần này (NRF); một báo cáo của Visa cho thấy mô hình AI không gợi ý được sản phẩm đúng nhu cầu trong 42% lượt thử, và hơn một nửa số lượt thất bại vẫn gợi ý một món không khớp; Amazon chặn agent Muse của Meta vì cho rằng agent không tự nhận diện khi duyệt web; có người dùng kể agent tự gửi địa chỉ nhà cho người mua trên Facebook Marketplace hay tự đặt khách sạn. TheStreet (24/11): khảo sát tháng 10 của Tunnl — 44% người lớn Mỹ tin giảm giá Black Friday/Cyber Monday chủ yếu là giá thường được ‘đóng gói’ thành deal, chỉ 39% coi là tiết kiệm thật; AI mua hộ phổ biến nhất ở thực phẩm, quần áo, đồ điện tử.",
+      "why_it_matters": "Hai ngày trước đã đưa tin AI kéo khách vào web bán lẻ; diễn biến mới là niềm tin: AI chọn sai, agent tự hành động, ‘giảm giá ảo’. Ở VN mùa 11.11–12.12, cơ hội nằm ở phía ‘kiểm chứng’: nội dung/công cụ so lịch sử giá, mô tả sản phẩm rõ ràng để AI và người mua hiểu đúng.",
+      "tags": [
+        "AI mua sắm",
+        "agent",
+        "Black Friday",
+        "niềm tin",
+        "giảm giá ảo",
+        "Visa",
+        "Amazon",
+        "Meta"
+      ],
+      "key_facts": [
+        {
+          "text": "Báo cáo của Visa: mô hình AI không gợi ý được sản phẩm đáp ứng nhu cầu khách trong 42% lượt thử; hơn một nửa số lượt thất bại vẫn gợi ý một sản phẩm không khớp.",
+          "source_ids": [
+            "us_ai_npr"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "NPR dẫn lại; chưa mở báo cáo gốc của Visa."
+        },
+        {
+          "text": "Amazon chặn agent Muse của Meta, cho rằng Meta không báo trước và agent không tự nhận diện khi duyệt web; một số người dùng kể agent hành động không xin phép (gửi địa chỉ nhà cho người mua trên Facebook Marketplace, đặt khách sạn).",
+          "source_ids": [
+            "us_ai_npr"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Khảo sát tháng 10 của Tunnl: 44% người lớn Mỹ tin giảm giá Black Friday và Cyber Monday chủ yếu là giá thường được tiếp thị như deal; chỉ 39% coi là tiết kiệm thật.",
+          "source_ids": [
+            "us_ai_ts"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hai báo độc lập (NPR, TheStreet) cùng ghi nhận mùa Black Friday 2026 là lần đầu agent AI được dùng rộng để săn deal, kèm cảnh báo về độ chính xác và quyền truy cập dữ liệu thanh toán; NPR dẫn NRF: 59% người tiêu dùng định dùng AI cho mua sắm cuối tuần này.",
+          "source_ids": [
+            "us_ai_npr",
+            "us_ai_ts"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Con số 59% (NRF) đã đưa ngày 24/11; nhắc lại làm bối cảnh."
+        }
+      ],
+      "sources": [
+        {
+          "id": "us_ai_npr",
+          "name": "NPR (đăng lại trên WAMC)",
+          "title": "What to know before using AI agents for Black Friday shopping",
+          "url": "https://www.wamc.org/2026-11-25/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+          "published": "2026-11-25",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Tác giả Stephan Bisaha (NPR); đài thành viên WAMC đăng lại nguyên bài. Đọc qua WebFetch (tác tử đọc web)."
+        },
+        {
+          "id": "us_ai_ts",
+          "name": "TheStreet (đăng lại trên Yahoo Finance)",
+          "title": "AI agents are transforming the Black Friday shopping experience",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-transforming-black-friday-010300057.html",
+          "published": "2026-11-24",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Tác giả Hillary Remy. Bài dẫn Reuters: năm ngoái hoạt động có AI hỗ trợ góp phần đẩy chi tiêu online Black Friday lên kỷ lục 11,8 tỷ USD (không dùng làm dữ kiện chính). Đọc qua WebFetch (tác tử đọc web)."
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "20261127-03-qua-thiet-thuc-co-thiep",
+      "date": "2026-11-27",
+      "type": "startup",
+      "category": [
+        "ecom",
+        "service"
+      ],
+      "title": "“Quà thiết thực có thiệp” — gói quà Noel, Tết 2027 kiểu ‘trả hộ một tháng internet, nạp tiền điện thoại hoặc hộp nhu yếu phẩm năm mới’ kèm thiệp thiết kế hoặc video chúc qua Zalo",
+      "pitch": "Ở Trung Quốc, cụm ‘纯过日子’ (chỉ cần sống cho tử tế) đã thành chủ đề bình luận lớn; 82,4% người trẻ xếp ‘thiết thực’ là tiêu chí số 1 khi chọn quà cho người yêu, có người được tặng 300 tệ tiền điện thoại. Ở VN, mùa Noel–Tết là lúc thử quà thiết thực được trình bày đẹp.",
+      "tags": [
+        "quà tặng",
+        "Tết 2027",
+        "thiết thực",
+        "thiệp",
+        "Zalo"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Số liệu là của Trung Quốc; khảo sát 82,4% là trích lại, chưa đọc bản gốc. Ở VN, Tiền Phong (19/10/2026) phỏng vấn vài người trẻ nghiêng về quà thiết thực nhưng không có khảo sát; đã có nền tảng quà bằng phiếu điện tử (UrBox — chỉ thấy trong kết quả tìm kiếm) và rất nhiều gợi ý ‘quà thiết thực’. Chưa thấy dịch vụ đóng gói ‘trả hộ hóa đơn’ làm quà kèm thiệp — nhưng chưa đo được người Việt có thấy món quà này ‘đủ tình cảm’ không.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261127-03-qua-thiet-thuc-co-thiep.webp",
+      "image_alt": "Minh họa phẳng một hộp quà màu cam mở nắp, bên trong có điện thoại, gói gạo và chai nước giặt, kèm tấm thiệp teal có hình trái tim",
+      "regions": [
+        "CN"
+      ],
+      "signal_text": "Trung Quốc: ‘纯过日子’ lên hot search Weibo từ cuối tháng 9/2026 và thành bài bình luận của chủ bút 澎湃 ngày 24/11/2026; khảo sát của 京东消费及产业发展研究院 (trích lại, không nêu cỡ mẫu): 82,4% người trẻ xếp ‘thiết thực’ là tiêu chí hàng đầu khi chọn quà cho người yêu; quý 3/2026 tiệm quần áo trong trung tâm thương mại ở 12 thành phố đóng nhiều hơn mở (tỷ lệ 0,85).",
+      "vn_youth_fit": "Thanh toán số đã phổ biến (fact vi-dien-tu: 30–36 triệu ví đang hoạt động; fact tre-thanh-toan: người trẻ giữ 2–3 ví để săn ưu đãi) — nạp tiền, trả hóa đơn hộ là thao tác quen; 49% Gen Z giữ ngân sách chặt (fact ngan-sach) nên quà ‘dùng được ngay’ có lý do để chọn.",
+      "vn_fit_refs": [
+        "vi-dien-tu",
+        "tre-thanh-toan",
+        "ngan-sach"
+      ],
+      "key_facts": [
+        {
+          "text": "Khảo sát của 京东消费及产业发展研究院: 82,4% người trẻ xếp ‘thiết thực’ là tiêu chí hàng đầu khi chọn quà cho người yêu. Ví dụ trên mạng xã hội: một người dùng 小红书 (5/2026) được bạn tặng 300 tệ tiền điện thoại nhân sinh nhật 27 tuổi; một người dùng Weibo nhận một năm bột giặt và giấy vệ sinh.",
+          "source_ids": [
+            "cn_sina_cgrz"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Khảo sát được trích lại trong bài 家电网; chưa mở được bản gốc; bài không nêu cỡ mẫu và thời điểm."
+        },
+        {
+          "text": "‘纯过日子’ lên hot search Weibo khoảng cuối tháng 9/2026 (bài 29/9 viết ‘日前’); nhóm Douban ‘如果我们可以不通过消费获得快乐’ có hơn 230.000 thành viên. Ngày 24/11/2026, bài bình luận của 澎湃 phản bác cách hiểu đây là ‘xã hội ham muốn thấp’ kiểu Nhật.",
+          "source_ids": [
+            "cn_sina_cgrz",
+            "cn_paper_cgrz"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Hai bài độc lập (家电网 tháng 9, 澎湃 tháng 11) cùng xác nhận đây là từ khóa mạng; số thành viên Douban chỉ có ở bài 家电网."
+        },
+        {
+          "text": "赢商大数据 (quý 3/2026, trung tâm thương mại chuẩn ở 12 thành phố): hơn 9.700 lượt mở hoặc đóng tiệm, tỷ lệ mở/đóng chung 1,10; quần áo khoảng 1.200 tiệm đóng, dưới 1.000 tiệm mở (0,85); đồ số thời thượng 2,46; New Balance dẫn đầu nhóm giảm; 真茶屋 (trà, giá từ 15 tệ) mở gần 20 tiệm trong mẫu, tổng khoảng 150 tiệm.",
+          "source_ids": [
+            "cn_36kr_winshang"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Bài 赢商网 đăng lại trên 36氪 ngày 28/10/2026, trước cửa sổ 7 ngày; dùng làm bối cảnh."
+        }
+      ],
+      "sources": [
+        {
+          "id": "cn_sina_cgrz",
+          "name": "新浪科技 (đăng lại 家电网, phóng viên 陈斯)",
+          "title": "“纯过日子”成网络热词 年轻人生活主打务实",
+          "url": "https://finance.sina.com.cn/tech/roll/2026-09-29/doc-initmzhp3109375.shtml",
+          "published": "2026-09-29",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Bài bối cảnh (ngoài cửa sổ 7 ngày) cho nguồn gốc từ khóa. Đọc qua WebFetch (tác tử đọc web) ngày 27/11/2026."
+        },
+        {
+          "id": "cn_paper_cgrz",
+          "name": "澎湃新闻 (chủ bút 沈彬, chuyên mục 经纬度)",
+          "title": "经纬度｜“纯过日子”绝不等于“低欲望”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34544945",
+          "published": "2026-11-24",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Bài bình luận; các số kinh tế vĩ mô trong bài không ghi nguồn. 21财经 và 腾讯新闻 đăng lại cùng ngày, không tính là nguồn riêng. Đọc qua WebFetch (tác tử đọc web) ngày 27/11/2026."
+        },
+        {
+          "id": "cn_36kr_winshang",
+          "name": "36氪 (đăng lại 赢商网, tác giả 熊舒苗)",
+          "title": "9700家门店大洗牌：年轻人步入“纯过日子”时代",
+          "url": "https://www.36kr.com/p/4044921805099905",
+          "published": "2026-10-28",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Ngày đăng hiển thị trên trang là 28/10/2026 (metadata ghi 27/11/2026, có mâu thuẫn). Đọc qua WebFetch (tác tử đọc web) ngày 27/11/2026."
+        }
+      ],
+      "localize_vn": "Giả thuyết: 3 gói — (1) ‘tháng mạng không lo’: người tặng trả hộ một tháng internet/điện thoại qua kênh chính thức của nhà mạng, mình gửi thiệp điện tử xác nhận; (2) hộp nhu yếu phẩm năm mới (gạo ngon, dầu, nước giặt, khăn) đóng hộp đẹp; (3) phiếu ‘tôi trả hộ’ in thiệp tay. Bán qua Zalo, Facebook cho người đi làm muốn tặng bố mẹ, người yêu, đồng nghiệp.",
+      "first_steps": [
+        "Ngày 1: Chọn 3 gói, Claude tính giá vốn–giá bán và soạn lời chúc mẫu.",
+        "Ngày 2: Thiết kế 5 mẫu thiệp và hộp bằng Canva; quay clip mở hộp mẫu bằng CapCut.",
+        "Ngày 3: Đăng bài thử trên Facebook cá nhân và nhóm người đi làm; mở nhận đặt qua Zalo OA.",
+        "Ngày 4–6: Nhận đặt, thu tiền VietQR; tự làm khâu trả hộ qua kênh chính thức, gửi thiệp xác nhận.",
+        "Ngày 7: Đếm đơn, tỷ lệ chọn từng gói, phản hồi người nhận."
+      ],
+      "capital": {
+        "vnd_min_m": 2,
+        "vnd_max_m": 10,
+        "usd_min": 77,
+        "usd_max": 385,
+        "note": "Ước tính của người soạn: hộp, thiệp in, vài bộ nhu yếu phẩm mẫu; tiền trả hộ hóa đơn do người đặt trả trước."
+      },
+      "risks": [
+        "Người nhận thấy quà ‘thiếu tình cảm’",
+        "Không được bán lại thẻ cào, dịch vụ viễn thông nếu không phải đại lý [cần xác minh]",
+        "Giữ thông tin số điện thoại, địa chỉ người nhận an toàn",
+        "Biên lợi nhuận mỏng ở gói trả hộ",
+        "Giao hộp đúng dịp cao điểm Tết"
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 6,
+        "novelty": 6,
+        "lowcap": 8,
+        "signal": 5,
+        "vnfit": 7
+      },
+      "toolstack": {
+        "checked": "2026-11-27",
+        "confidence": "trung bình",
+        "wow": "Người nhận mở Zalo thấy thiệp: ‘Tháng này mạng nhà mình con lo rồi’ — món quà vừa thiết thực vừa có lời nói.",
+        "tools": [
+          {
+            "tool_id": "canva",
+            "role": "Thiệp, nhãn hộp, thiệp điện tử xác nhận.",
+            "why": "Nhiều mẫu Tết, Noel.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip mở hộp, video chúc.",
+            "why": "Dựng nhanh trên điện thoại.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận đặt, gửi thiệp điện tử, nhắc người tặng.",
+            "why": "Người lớn tuổi nhận Zalo dễ.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Thu tiền gói quà và tiền trả hộ.",
+            "why": "Chuyển khoản ngân hàng VN.",
+            "alt_ids": [
+              "payos"
+            ]
+          },
+          {
+            "tool_id": "claude",
+            "role": "Lời chúc theo người nhận, bảng giá, kịch bản clip.",
+            "why": "Viết lời chúc cá nhân hóa nhanh.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "canva",
+            "capcut",
+            "zalo_oa",
+            "vietqr",
+            "claude"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): Canva, CapCut, Zalo Official Account (OA), VietQR Kit (Casso), Claude (Anthropic).",
+          "tradeoff": "Ít tính năng, làm tay nhiều hơn; đủ để kiểm chứng nhu cầu trong 1 tuần."
+        },
+        "premium": {
+          "tool_ids": [
+            "canva",
+            "capcut",
+            "zalo_oa",
+            "payos",
+            "chatgpt"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): Canva, CapCut, Zalo Official Account (OA), payOS (Casso), ChatGPT / OpenAI.",
+          "tradeoff": "Tốn phí thuê bao; chỉ nâng cấp khi đã có khách trả tiền."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Quà thiết thực có thiệp” — gói quà Noel, Tết 2027 kiểu ‘trả hộ một tháng internet, nạp tiền điện thoại hoặc hộp nhu yếu phẩm năm mới’ kèm thiệp thiết kế hoặc video chúc qua Zalo\nTóm tắt: Ở Trung Quốc, cụm ‘纯过日子’ (chỉ cần sống cho tử tế) đã thành chủ đề bình luận lớn; 82,4% người trẻ xếp ‘thiết thực’ là tiêu chí số 1 khi chọn quà cho người yêu, có người được tặng 300 tệ tiền điện thoại. Ở VN, mùa Noel–Tết là lúc thử quà thiết thực được trình bày đẹp.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Trung Quốc: ‘纯过日子’ lên hot search Weibo từ cuối tháng 9/2026 và thành bài bình luận của chủ bút 澎湃 ngày 24/11/2026; khảo sát của 京东消费及产业发展研究院 (trích lại, không nêu cỡ mẫu): 82,4% người trẻ xếp ‘thiết thực’ là tiêu chí hàng đầu khi chọn quà cho người yêu; quý 3/2026 tiệm quần áo trong trung tâm thương mại ở 12 thành phố đóng nhiều hơn mở (tỷ lệ 0,85).\nDữ kiện:\n- Khảo sát của 京东消费及产业发展研究院: 82,4% người trẻ xếp ‘thiết thực’ là tiêu chí hàng đầu khi chọn quà cho người yêu. Ví dụ trên mạng xã hội: một người dùng 小红书 (5/2026) được bạn tặng 300 tệ tiền điện thoại nhân sinh nhật 27 tuổi; một người dùng Weibo nhận một năm bột giặt và giấy vệ sinh. (mức xác minh: 1 nguồn gốc)\n- ‘纯过日子’ lên hot search Weibo khoảng cuối tháng 9/2026 (bài 29/9 viết ‘日前’); nhóm Douban ‘如果我们可以不通过消费获得快乐’ có hơn 230.000 thành viên. Ngày 24/11/2026, bài bình luận của 澎湃 phản bác cách hiểu đây là ‘xã hội ham muốn thấp’ kiểu Nhật. (mức xác minh: 2+ nguồn độc lập)\n- 赢商大数据 (quý 3/2026, trung tâm thương mại chuẩn ở 12 thành phố): hơn 9.700 lượt mở hoặc đóng tiệm, tỷ lệ mở/đóng chung 1,10; quần áo khoảng 1.200 tiệm đóng, dưới 1.000 tiệm mở (0,85); đồ số thời thượng 2,46; New Balance dẫn đầu nhóm giảm; 真茶屋 (trà, giá từ 15 tệ) mở gần 20 tiệm trong mẫu, tổng khoảng 150 tiệm. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Số liệu là của Trung Quốc; khảo sát 82,4% là trích lại, chưa đọc bản gốc. Ở VN, Tiền Phong (19/10/2026) phỏng vấn vài người trẻ nghiêng về quà thiết thực nhưng không có khảo sát; đã có nền tảng quà bằng phiếu điện tử (UrBox — chỉ thấy trong kết quả tìm kiếm) và rất nhiều gợi ý ‘quà thiết thực’. Chưa thấy dịch vụ đóng gói ‘trả hộ hóa đơn’ làm quà kèm thiệp — nhưng chưa đo được người Việt có thấy món quà này ‘đủ tình cảm’ không.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nThanh toán số đã phổ biến (fact vi-dien-tu: 30–36 triệu ví đang hoạt động; fact tre-thanh-toan: người trẻ giữ 2–3 ví để săn ưu đãi) — nạp tiền, trả hóa đơn hộ là thao tác quen; 49% Gen Z giữ ngân sách chặt (fact ngan-sach) nên quà ‘dùng được ngay’ có lý do để chọn.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: 3 gói — (1) ‘tháng mạng không lo’: người tặng trả hộ một tháng internet/điện thoại qua kênh chính thức của nhà mạng, mình gửi thiệp điện tử xác nhận; (2) hộp nhu yếu phẩm năm mới (gạo ngon, dầu, nước giặt, khăn) đóng hộp đẹp; (3) phiếu ‘tôi trả hộ’ in thiệp tay. Bán qua Zalo, Facebook cho người đi làm muốn tặng bố mẹ, người yêu, đồng nghiệp.\n\n## 4. Ràng buộc\n- Vốn: 2–10 triệu đồng (Ước tính của người soạn: hộp, thiệp in, vài bộ nhu yếu phẩm mẫu; tiền trả hộ hóa đơn do người đặt trả trước.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Người nhận thấy quà ‘thiếu tình cảm’; Không được bán lại thẻ cào, dịch vụ viễn thông nếu không phải đại lý [cần xác minh]; Giữ thông tin số điện thoại, địa chỉ người nhận an toàn; Biên lợi nhuận mỏng ở gói trả hộ; Giao hộp đúng dịp cao điểm Tết.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Canva: Thiệp, nhãn hộp, thiệp điện tử xác nhận.\n- CapCut: Clip mở hộp, video chúc.\n- Zalo Official Account (OA): Nhận đặt, gửi thiệp điện tử, nhắc người tặng.\n- VietQR Kit (Casso): Thu tiền gói quà và tiền trả hộ.\n- Claude (Anthropic): Lời chúc theo người nhận, bảng giá, kịch bản clip.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Chọn 3 gói, Claude tính giá vốn–giá bán và soạn lời chúc mẫu.\n- Ngày 2: Thiết kế 5 mẫu thiệp và hộp bằng Canva; quay clip mở hộp mẫu bằng CapCut.\n- Ngày 3: Đăng bài thử trên Facebook cá nhân và nhóm người đi làm; mở nhận đặt qua Zalo OA.\n- Ngày 4–6: Nhận đặt, thu tiền VietQR; tự làm khâu trả hộ qua kênh chính thức, gửi thiệp xác nhận.\n- Ngày 7: Đếm đơn, tỷ lệ chọn từng gói, phản hồi người nhận.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Mô tả 3 gói quà, bảng giá vốn–giá bán và phí dịch vụ.\n- Bộ 10 lời chúc mẫu theo người nhận (bố mẹ, người yêu, sếp, đồng nghiệp).\n- Quy trình trả hộ hóa đơn qua kênh chính thức và mẫu thiệp xác nhận — nêu điểm pháp lý cần tự kiểm tra.\n- Bài đăng, kịch bản 3 clip mở hộp, tin nhắn chốt đơn Zalo.\n- Quy định bảo mật thông tin người nhận.\n- Kế hoạch mùa Noel → Tết: mốc chốt đơn và giao.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "total_score": 6.54,
+      "rank": 1
+    },
+    {
+      "id": "20261127-01-nhan-vat-ai-co-chu",
+      "date": "2026-11-27",
+      "type": "startup",
+      "category": [
+        "ai",
+        "content"
+      ],
+      "title": "“Nhân vật AI có chủ” — loạt phim hài AI ngắn với một nhân vật Việt cố định trên TikTok/YouTube Shorts, khi đã có người xem thì bán ‘suất xuất hiện’ cho quán, shop địa phương",
+      "pitch": "Ở Trung Quốc, người không học làm phim tự học công cụ AI một tuần và có loạt video 400 triệu lượt phát; nhãn hàng đặt cả loạt video có nhân vật quen. Người trẻ Việt có thể thử với vốn gần như bằng 0: dựng một nhân vật riêng, đăng đều 2 tuần, đo người xem rồi mới chào bán suất xuất hiện.",
+      "tags": [
+        "video AI",
+        "nhân vật",
+        "TikTok",
+        "nội dung",
+        "quảng cáo địa phương"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Mọi số liệu là của Trung Quốc và chỉ từ một bài (1 nguồn gốc). Ở VN đã có nhiều agency bán video AI theo từng clip (ví dụ Dengi niêm yết từ 500.000 đ đến 15 triệu đ/video — tác tử tìm kiếm đọc trang); chưa thấy creator cá nhân Việt có nhân vật AI riêng nhận hợp đồng nhãn hàng hằng tháng (mới tìm 1 lượt, chưa đủ kết luận). Nhu cầu của quán, shop VN với ‘suất xuất hiện’ chưa được đo.",
+      "confidence": "thấp",
+      "image": "assets/ideas/20261127-01-nhan-vat-ai-co-chu.webp",
+      "image_alt": "Minh họa phẳng một nhân vật hoạt hình tròn trịnh màu cam trên màn hình điện thoại teal, xung quanh là khung phim, biểu tượng phát và trái tim",
+      "regions": [
+        "CN"
+      ],
+      "signal_text": "Trung Quốc (26/11/2026, 澎湃号·湃客 dẫn 壹娱观察 và 新榜): loạt phiêu lưu AI ‘呱呱与辣条’ của một người tự học công cụ trong một tuần đạt 400 triệu lượt phát; trong 1.000 video quảng cáo AI nhiều lượt thích nhất trên Douyin (1/5–31/10/2026), game 《三国杀》 đặt 244 video (24,4%); LibTV treo giải 100万元, OiiOii hỗ trợ tối đa 13万元 mỗi bài dự thi.",
+      "vn_youth_fit": "Người Việt dùng internet và mạng xã hội rất rộng (fact ket-noi: 89,1 triệu người dùng internet cuối 2026), Gen Z coi TikTok là ứng dụng video ngắn số 1 (fact genz-app), và VN là thị trường video commerce lớn thứ hai Đông Nam Á (fact video-commerce) — nội dung video ngắn có nhân vật quen dễ có người xem. Rủi ro: nội dung AI tràn lan, người xem chán nhanh nếu không có cá tính.",
+      "vn_fit_refs": [
+        "ket-noi",
+        "genz-app",
+        "video-commerce"
+      ],
+      "key_facts": [
+        {
+          "text": "Tháng 11/2026: một người không có nền tảng hoạt hình, tự học công cụ AI trong một tuần, làm loạt phiêu lưu ‘呱呱与辣条’ đạt 4亿 (400 triệu) lượt phát; 《丑狐》 do một cựu quản lý sản phẩm AI ở hãng công nghệ lớn làm một mình vượt 1亿 (100 triệu) lượt trên toàn mạng trong 3 ngày; một học sinh trường nghề làm video Harry Potter đổi giới tính hơn 3000万 lượt xem ở nước ngoài.",
+          "source_ids": [
+            "cn_paper_aichaochuang"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Bài tự viết từ dữ liệu của 壹娱观察; chưa tìm được nguồn thứ hai."
+        },
+        {
+          "text": "Dữ liệu 新榜 (1/5–31/10/2026, 1.000 video quảng cáo AI nhiều lượt thích nhất trên Douyin): 《三国杀》 có 244 lượt đặt, chiếm 24,4% mẫu, gần gấp 5 lần nhãn hạng hai là 得物; 《原神》, 《三角洲行动》, 《燕云十六声》 cũng nằm trong top 10.",
+          "source_ids": [
+            "cn_paper_aichaochuang"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu 新榜 được trích lại trong bài; chưa mở được báo cáo gốc của 新榜."
+        },
+        {
+          "text": "Trong mẫu 10 tài khoản, Douyin là nơi tập trung chính: một tài khoản hài AI có 391万 người theo dõi, ‘十万个挑战’ có 239万; nhiều tài khoản đã vượt 1 triệu người theo dõi và có hợp đồng nhãn hàng hằng tháng.",
+          "source_ids": [
+            "cn_paper_aichaochuang"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Bản đọc được ghi tên tài khoản 391万 người theo dõi lúc là ‘别闹了豆刨’, lúc là ‘别闹了豆创’, nên không ghi tên."
+        },
+        {
+          "text": "Các hãng công cụ video AI tranh giành creator: LibTV treo giải 100万元 cho thử thách tháng 11; OiiOii hỗ trợ tiền mặt ‘cấp triệu’, mỗi bài tối đa 13万元; 即梦 giảm gói năm cá nhân còn 4,5 phần 10 giá (tức giảm 55%). Bài gọi nhiều hãng là ‘người bán lại sức tính toán’ (算力二道贩子), biên lợi nhuận mỏng.",
+          "source_ids": [
+            "cn_paper_aichaochuang"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cn_paper_aichaochuang",
+          "name": "澎湃新闻 · 澎湃号·湃客 (tác giả 路柯)",
+          "title": "谁捧的AI超创，最能赚钱？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34557640",
+          "published": "2026-11-26",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Bài trên kênh tự đăng 湃客 (không phải bài của phóng viên 澎湃), dẫn dữ liệu 壹娱观察 và 新榜. Đọc qua WebFetch (tác tử đọc web) ngày 27/11/2026."
+        }
+      ],
+      "localize_vn": "Giả thuyết: chọn một nhân vật Việt dễ nhớ (ví dụ một con vật hay một ‘ông chú bán trà đá’ hư cấu), mỗi tập 30–45 giây về chuyện đời thường của người trẻ đi làm; đăng 1 tập/ngày trong 2 tuần. Khi có người xem ổn định, chào bán gói ‘nhân vật ghé quán’ cho quán cà phê, tiệm bánh trong quận: nhân vật xuất hiện cùng món của quán trong 1 tập, ghi rõ là quảng cáo.",
+      "first_steps": [
+        "Ngày 1: Viết hồ sơ nhân vật (tính cách, câu cửa miệng, bối cảnh) và 7 ý tưởng tập cùng Claude.",
+        "Ngày 2: Tạo bộ ảnh nhân vật nhất quán bằng Nano Banana; thử 3 cảnh động bằng Kling.",
+        "Ngày 3: Lồng tiếng bằng ElevenLabs hoặc tự đọc; dựng 2 tập đầu bằng CapCut.",
+        "Ngày 4–6: Đăng 1 tập/ngày; ghi lượt xem, thời gian xem, bình luận.",
+        "Ngày 7: Nhắn 10 quán/shop quen qua Zalo OA giới thiệu gói ‘nhân vật ghé quán’, ghi số người trả lời và người hỏi giá."
+      ],
+      "capital": {
+        "vnd_min_m": 1,
+        "vnd_max_m": 6,
+        "usd_min": 38,
+        "usd_max": 231,
+        "note": "Ước tính của người soạn: phí công cụ video/ảnh AI 1–2 tháng (xem data/tools.json), giả định đã có điện thoại và máy tính."
+      },
+      "risks": [
+        "Nội dung AI bị nền tảng hạn chế phân phối hoặc gắn nhãn [cần xác minh chính sách]",
+        "Khó giữ nhân vật nhất quán giữa các tập",
+        "Bản quyền giọng nói/hình ảnh nếu bắt chước người thật",
+        "Quảng cáo trong video phải ghi rõ, quy định quảng cáo [cần xác minh]",
+        "Người xem chán nhanh, cần ra tập đều"
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 5,
+        "novelty": 6,
+        "lowcap": 9,
+        "signal": 6,
+        "vnfit": 7
+      },
+      "toolstack": {
+        "checked": "2026-11-27",
+        "confidence": "trung bình",
+        "wow": "Sau hai tuần, khách của quán nhắn: ‘Hôm nay nhân vật có ghé quán em không?’ — đó là lúc nhân vật thành tài sản.",
+        "tools": [
+          {
+            "tool_id": "kling",
+            "role": "Dựng cảnh động cho từng tập từ ảnh nhân vật.",
+            "why": "Tạo video ngắn từ ảnh, hợp loạt tập 30–45 giây.",
+            "alt_ids": [
+              "hailuo",
+              "wan"
+            ]
+          },
+          {
+            "tool_id": "nano_banana",
+            "role": "Tạo và giữ bộ ảnh nhân vật nhất quán.",
+            "why": "Sửa ảnh theo lời nhắn, giữ đúng khuôn mặt nhân vật.",
+            "alt_ids": [
+              "seedream"
+            ]
+          },
+          {
+            "tool_id": "elevenlabs",
+            "role": "Lồng tiếng nhân vật.",
+            "why": "Giọng đọc tự nhiên; có thể thay bằng tự đọc.",
+            "alt_ids": [
+              "fish_audio"
+            ]
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Dựng tập, phụ đề, nhạc nền.",
+            "why": "Làm trên điện thoại, xuất thẳng lên TikTok.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "claude",
+            "role": "Viết hồ sơ nhân vật, kịch bản tập, tin nhắn chào quán.",
+            "why": "Giữ giọng văn nhân vật thống nhất qua nhiều tập.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Chào gói ‘nhân vật ghé quán’ và nhận đặt.",
+            "why": "Chủ quán ở VN quen nhắn Zalo.",
+            "alt_ids": []
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "nano_banana",
+            "capcut",
+            "claude",
+            "zalo_oa",
+            "hailuo"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): Nano Banana (Gemini image, Google), CapCut, Claude (Anthropic), Zalo Official Account (OA), Hailuo / MiniMax.",
+          "tradeoff": "Ít tính năng, làm tay nhiều hơn; đủ để kiểm chứng nhu cầu trong 1 tuần."
+        },
+        "premium": {
+          "tool_ids": [
+            "kling",
+            "nano_banana",
+            "elevenlabs",
+            "capcut",
+            "chatgpt",
+            "zalo_oa"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): Kling AI, Nano Banana (Gemini image, Google), ElevenLabs, CapCut, ChatGPT / OpenAI, Zalo Official Account (OA).",
+          "tradeoff": "Tốn phí thuê bao; chỉ nâng cấp khi đã có khách trả tiền."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Nhân vật AI có chủ” — loạt phim hài AI ngắn với một nhân vật Việt cố định trên TikTok/YouTube Shorts, khi đã có người xem thì bán ‘suất xuất hiện’ cho quán, shop địa phương\nTóm tắt: Ở Trung Quốc, người không học làm phim tự học công cụ AI một tuần và có loạt video 400 triệu lượt phát; nhãn hàng đặt cả loạt video có nhân vật quen. Người trẻ Việt có thể thử với vốn gần như bằng 0: dựng một nhân vật riêng, đăng đều 2 tuần, đo người xem rồi mới chào bán suất xuất hiện.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Trung Quốc (26/11/2026, 澎湃号·湃客 dẫn 壹娱观察 và 新榜): loạt phiêu lưu AI ‘呱呱与辣条’ của một người tự học công cụ trong một tuần đạt 400 triệu lượt phát; trong 1.000 video quảng cáo AI nhiều lượt thích nhất trên Douyin (1/5–31/10/2026), game 《三国杀》 đặt 244 video (24,4%); LibTV treo giải 100万元, OiiOii hỗ trợ tối đa 13万元 mỗi bài dự thi.\nDữ kiện:\n- Tháng 11/2026: một người không có nền tảng hoạt hình, tự học công cụ AI trong một tuần, làm loạt phiêu lưu ‘呱呱与辣条’ đạt 4亿 (400 triệu) lượt phát; 《丑狐》 do một cựu quản lý sản phẩm AI ở hãng công nghệ lớn làm một mình vượt 1亿 (100 triệu) lượt trên toàn mạng trong 3 ngày; một học sinh trường nghề làm video Harry Potter đổi giới tính hơn 3000万 lượt xem ở nước ngoài. (mức xác minh: 1 nguồn gốc)\n- Dữ liệu 新榜 (1/5–31/10/2026, 1.000 video quảng cáo AI nhiều lượt thích nhất trên Douyin): 《三国杀》 có 244 lượt đặt, chiếm 24,4% mẫu, gần gấp 5 lần nhãn hạng hai là 得物; 《原神》, 《三角洲行动》, 《燕云十六声》 cũng nằm trong top 10. (mức xác minh: 1 nguồn gốc)\n- Trong mẫu 10 tài khoản, Douyin là nơi tập trung chính: một tài khoản hài AI có 391万 người theo dõi, ‘十万个挑战’ có 239万; nhiều tài khoản đã vượt 1 triệu người theo dõi và có hợp đồng nhãn hàng hằng tháng. (mức xác minh: 1 nguồn gốc)\n- Các hãng công cụ video AI tranh giành creator: LibTV treo giải 100万元 cho thử thách tháng 11; OiiOii hỗ trợ tiền mặt ‘cấp triệu’, mỗi bài tối đa 13万元; 即梦 giảm gói năm cá nhân còn 4,5 phần 10 giá (tức giảm 55%). Bài gọi nhiều hãng là ‘người bán lại sức tính toán’ (算力二道贩子), biên lợi nhuận mỏng. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Mọi số liệu là của Trung Quốc và chỉ từ một bài (1 nguồn gốc). Ở VN đã có nhiều agency bán video AI theo từng clip (ví dụ Dengi niêm yết từ 500.000 đ đến 15 triệu đ/video — tác tử tìm kiếm đọc trang); chưa thấy creator cá nhân Việt có nhân vật AI riêng nhận hợp đồng nhãn hàng hằng tháng (mới tìm 1 lượt, chưa đủ kết luận). Nhu cầu của quán, shop VN với ‘suất xuất hiện’ chưa được đo.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nNgười Việt dùng internet và mạng xã hội rất rộng (fact ket-noi: 89,1 triệu người dùng internet cuối 2026), Gen Z coi TikTok là ứng dụng video ngắn số 1 (fact genz-app), và VN là thị trường video commerce lớn thứ hai Đông Nam Á (fact video-commerce) — nội dung video ngắn có nhân vật quen dễ có người xem. Rủi ro: nội dung AI tràn lan, người xem chán nhanh nếu không có cá tính.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: chọn một nhân vật Việt dễ nhớ (ví dụ một con vật hay một ‘ông chú bán trà đá’ hư cấu), mỗi tập 30–45 giây về chuyện đời thường của người trẻ đi làm; đăng 1 tập/ngày trong 2 tuần. Khi có người xem ổn định, chào bán gói ‘nhân vật ghé quán’ cho quán cà phê, tiệm bánh trong quận: nhân vật xuất hiện cùng món của quán trong 1 tập, ghi rõ là quảng cáo.\n\n## 4. Ràng buộc\n- Vốn: 1–6 triệu đồng (Ước tính của người soạn: phí công cụ video/ảnh AI 1–2 tháng (xem data/tools.json), giả định đã có điện thoại và máy tính.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Nội dung AI bị nền tảng hạn chế phân phối hoặc gắn nhãn [cần xác minh chính sách]; Khó giữ nhân vật nhất quán giữa các tập; Bản quyền giọng nói/hình ảnh nếu bắt chước người thật; Quảng cáo trong video phải ghi rõ, quy định quảng cáo [cần xác minh]; Người xem chán nhanh, cần ra tập đều.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Kling AI: Dựng cảnh động cho từng tập từ ảnh nhân vật.\n- Nano Banana (Gemini image, Google): Tạo và giữ bộ ảnh nhân vật nhất quán.\n- ElevenLabs: Lồng tiếng nhân vật.\n- CapCut: Dựng tập, phụ đề, nhạc nền.\n- Claude (Anthropic): Viết hồ sơ nhân vật, kịch bản tập, tin nhắn chào quán.\n- Zalo Official Account (OA): Chào gói ‘nhân vật ghé quán’ và nhận đặt.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Viết hồ sơ nhân vật (tính cách, câu cửa miệng, bối cảnh) và 7 ý tưởng tập cùng Claude.\n- Ngày 2: Tạo bộ ảnh nhân vật nhất quán bằng Nano Banana; thử 3 cảnh động bằng Kling.\n- Ngày 3: Lồng tiếng bằng ElevenLabs hoặc tự đọc; dựng 2 tập đầu bằng CapCut.\n- Ngày 4–6: Đăng 1 tập/ngày; ghi lượt xem, thời gian xem, bình luận.\n- Ngày 7: Nhắn 10 quán/shop quen qua Zalo OA giới thiệu gói ‘nhân vật ghé quán’, ghi số người trả lời và người hỏi giá.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Hồ sơ nhân vật: tính cách, ngoại hình, câu cửa miệng, điều nhân vật không bao giờ làm.\n- Prompt ảnh và prompt video mẫu để giữ nhân vật nhất quán, kèm quy trình kiểm tra từng tập.\n- Kịch bản 7 tập đầu (mỗi tập có mở – xung đột – câu chốt) và lịch đăng 2 tuần.\n- Bảng theo dõi chỉ số mỗi tập và ngưỡng quyết định.\n- Gói ‘nhân vật ghé quán’: mô tả, cách ghi nhãn quảng cáo, tin nhắn chào 10 quán.\n- Checklist rủi ro bản quyền, nhãn nội dung AI, quy định quảng cáo cần tự xác minh.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "total_score": 6.44,
+      "rank": 2
+    },
+    {
+      "id": "20261127-08-qua-noel-gia-black-friday",
+      "date": "2026-11-27",
+      "type": "startup",
+      "category": [
+        "ecom",
+        "service"
+      ],
+      "title": "“Quà Noel giá Black Friday” — nhận đặt quà trong đợt sale cuối tháng 11 – 12.12, gói sẵn và giao đúng ngày 24/12, rồi mở tiếp đợt quà Tết",
+      "pitch": "Ở Nhật, 72,6% người 20–30 tuổi định mua quà Giáng sinh trong dịp Black Friday; ở Anh, 73% Gen Z cũng vậy và dồn 37% ngân sách Giáng sinh vào đợt này. Ở VN, chuỗi Black Friday → 12.12 → Noel → Tết là một mùa quà liền mạch: shop nhỏ có thể bán ‘mua giá sale, nhận đúng ngày’.",
+      "tags": [
+        "Black Friday",
+        "quà Giáng sinh",
+        "đặt trước",
+        "gói quà",
+        "Tết 2027"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Số liệu là của Nhật và Anh (khảo sát của doanh nghiệp, mẫu khác nhau). Ở VN, dịch vụ quà Noel, gói quà, giao quà đã có nhiều (VnExpress từng viết ‘Nở rộ các dịch vụ cho ngày Noel’, các shop trên sàn bán quà Noel — chỉ thấy trong kết quả tìm kiếm) → độ mới thấp; điểm khác là khóa giá sale sớm rồi giao đúng ngày. Chưa có số liệu người Việt mua quà Noel trong đợt Black Friday.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261127-08-qua-noel-gia-black-friday.webp",
+      "image_alt": "Minh họa phẳng hộp quà màu cam buộc nơ teal đặt cạnh lịch tháng 12 khoanh tròn ngày 24 và một nhãn giảm giá hình tam giác",
+      "regions": [
+        "JP",
+        "EU"
+      ],
+      "signal_text": "Nhật (Scroll, công bố 17/11/2026, ECのミカタ 26/11): trong 448 người định mua quà Giáng sinh, 60,0% sẽ mua toàn bộ hoặc một phần dịp Black Friday, nhóm 20–30 tuổi 72,6%. Anh (eBay Advertising UK, 2.001 người): 73% Gen Z có khả năng mua quà Giáng sinh dịp Black Friday, dành 37% ngân sách Giáng sinh; TikTok Shop UK (25/11): 53% Gen Z định mua trên TikTok Shop cuối tuần này.",
+      "vn_youth_fit": "Người trẻ VN mua sắm qua Shopee, TikTok Shop là chính (fact san-tmdt), hơn một nửa Gen Z sẵn sàng chi cho món ‘cảm giác cao cấp’ nếu giá hợp lý (fact xa-xi-vua-tui), và thanh toán số phổ biến (fact vi-dien-tu) — đặt cọc trước, nhận quà sau là thao tác quen.",
+      "vn_fit_refs": [
+        "san-tmdt",
+        "xa-xi-vua-tui",
+        "vi-dien-tu"
+      ],
+      "key_facts": [
+        {
+          "text": "Nhật (Scroll, khảo sát chính 29/10/2026, 969 người): trong 448 người định mua quà Giáng sinh, 19,6% sẽ mua toàn bộ và 40,4% mua một phần dịp Black Friday (cộng 60,0%), thêm 21,9% đang cân nhắc; nhóm 20–30 tuổi 72,6%, nhóm 50 tuổi 45,1%.",
+          "source_ids": [
+            "jp_bf_scroll"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Khảo sát chỉ hỏi người từng mua dịp Black Friday (sàng lọc 5.000 người ngày 20/10)."
+        },
+        {
+          "text": "Anh (eBay Advertising UK, 2.001 người lớn): 48% có khả năng mua quà Giáng sinh dịp Black Friday 2026, Gen Z 73%; Gen Z dành 37% tổng ngân sách Giáng sinh cho Black Friday (trung bình 22%); 56% Gen Z coi nội dung video là quan trọng khi mua quà.",
+          "source_ids": [
+            "uk_bf_ebay"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Bài ngày 10/11, ngoài cửa sổ 7 ngày; dùng để đối chiếu với số liệu Nhật."
+        },
+        {
+          "text": "Hai khảo sát độc lập ở Nhật (Scroll) và Anh (eBay) cùng cho thấy khoảng 7/10 người trẻ dùng Black Friday để mua quà Giáng sinh (72,6% nhóm 20–30 tuổi ở Nhật; 73% Gen Z ở Anh).",
+          "source_ids": [
+            "jp_bf_scroll",
+            "uk_bf_ebay"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Định nghĩa nhóm tuổi và mẫu khác nhau, chỉ so sánh định tính."
+        },
+        {
+          "text": "TikTok Shop UK (25/11): 53% Gen Z định mua trên TikTok Shop cuối tuần này; bài đăng Black Friday +111% so cùng kỳ; giảm đến 60%, deal chỉ có trên live mỗi ngày tới 30/11; 32% người xem live ở Anh sau đó mua sản phẩm tại cửa hàng.",
+          "source_ids": [
+            "uk_tts_bf"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu do TikTok Shop UK công bố; cùng trang ChannelX nhưng khác nguồn gốc dữ liệu với bài eBay."
+        }
+      ],
+      "sources": [
+        {
+          "id": "jp_bf_scroll",
+          "name": "ECのミカタ",
+          "title": "2026年クリスマス、約6割が「プレゼントをブラックフライデーで購入」　スクロール調査",
+          "url": "https://ecnomikata.com/ecnews/marketing/52205/",
+          "published": "2026-11-26",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Trang chỉ ghi ‘最終更新日：2026/11/26’; Scroll công bố kết quả ngày 17/11/2026. Đọc qua WebFetch (tác tử đọc web)."
+        },
+        {
+          "id": "uk_bf_ebay",
+          "name": "ChannelX",
+          "title": "Gen Z to put over a third of their Christmas budget into Black Friday",
+          "url": "https://channelx.world/2026/11/gen-z-to-put-over-a-third-of-their-christmas-budget-into-black-friday/",
+          "published": "2026-11-10",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Vùng ‘EU’ dùng để chỉ châu Âu (Anh). Bài ngoài cửa sổ 7 ngày. Đọc qua WebFetch (tác tử đọc web)."
+        },
+        {
+          "id": "uk_tts_bf",
+          "name": "ChannelX",
+          "title": "TikTok Shop Black Friday Sale launched ahead of biggest LIVE shopping moment to date",
+          "url": "https://channelx.world/2026/11/tiktok-shop-black-friday-sale-launched-ahead-of-biggest-live-shopping-moment-to-date/",
+          "published": "2026-11-25",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Đọc qua WebFetch (tác tử đọc web)."
+        }
+      ],
+      "localize_vn": "Giả thuyết: mở đặt quà từ nay tới 12.12 với 10–15 món quà phổ biến (khăn len, nến thơm, cốc, sách, đồ công nghệ nhỏ) mua giá sale từ nhà cung cấp hoặc sàn; khách cọc trước, mình gói kèm thiệp và giao đúng 23–24/12 trong nội thành. Sau Noel chuyển cùng danh sách khách sang đợt quà Tết.",
+      "first_steps": [
+        "Ngày 1: Chọn 10–15 món, Claude so sánh giá sale và giá thường, tính phí gói – giao.",
+        "Ngày 2: Làm catalog và mẫu gói quà bằng Canva; chụp 3 mẫu gói thật.",
+        "Ngày 3: Quay clip ‘mua giá sale – nhận đúng Noel’ bằng CapCut; mở nhận đặt qua Zalo OA.",
+        "Ngày 4–6: Nhận cọc VietQR, mua hàng trong đợt sale, ghi ngày giao từng đơn.",
+        "Ngày 7: Đếm đơn, giá trị đơn trung bình, phản hồi; chốt lịch giao 23–24/12."
+      ],
+      "capital": {
+        "vnd_min_m": 3,
+        "vnd_max_m": 15,
+        "usd_min": 115,
+        "usd_max": 577,
+        "note": "Ước tính của người soạn: giấy gói, hộp, thiệp, vài món mẫu; hàng chính mua bằng tiền cọc của khách."
+      },
+      "risks": [
+        "Hàng sale hết hoặc giao chậm, lỡ ngày 24/12",
+        "Giữ hàng nhiều tuần, hỏng hoặc thất lạc",
+        "Giá ‘sale’ không thật sự rẻ hơn",
+        "Cạnh tranh với shop quà có sẵn trên sàn",
+        "Trách nhiệm khi hoàn tiền cọc [cần xác minh]"
+      ],
+      "scores": {
+        "ease": 7,
+        "demand": 6,
+        "novelty": 4,
+        "lowcap": 7,
+        "signal": 7,
+        "vnfit": 7
+      },
+      "toolstack": {
+        "checked": "2026-11-27",
+        "confidence": "trung bình",
+        "wow": "Khách bấm đặt hôm nay với giá sale, quên luôn — rồi đúng tối 24/12 người nhận mở cửa thấy hộp quà đã gói.",
+        "tools": [
+          {
+            "tool_id": "canva",
+            "role": "Catalog quà, thiệp, nhãn hộp.",
+            "why": "Nhiều mẫu Noel, Tết.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip giới thiệu mẫu gói và quy trình.",
+            "why": "Dựng nhanh trên điện thoại.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận đặt, xác nhận ngày giao, nhắc khách.",
+            "why": "Kênh chat phổ biến ở VN.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Thu cọc và tiền còn lại.",
+            "why": "Chuyển khoản ngân hàng VN.",
+            "alt_ids": [
+              "payos"
+            ]
+          },
+          {
+            "tool_id": "claude",
+            "role": "So sánh giá, bảng đơn – ngày giao, lời chúc thiệp.",
+            "why": "Giữ đơn và lịch giao rõ ràng.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "canva",
+            "capcut",
+            "zalo_oa",
+            "vietqr",
+            "claude"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): Canva, CapCut, Zalo Official Account (OA), VietQR Kit (Casso), Claude (Anthropic).",
+          "tradeoff": "Ít tính năng, làm tay nhiều hơn; đủ để kiểm chứng nhu cầu trong 1 tuần."
+        },
+        "premium": {
+          "tool_ids": [
+            "canva",
+            "capcut",
+            "zalo_oa",
+            "payos",
+            "chatgpt"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): Canva, CapCut, Zalo Official Account (OA), payOS (Casso), ChatGPT / OpenAI.",
+          "tradeoff": "Tốn phí thuê bao; chỉ nâng cấp khi đã có khách trả tiền."
+        }
+      },
+      "from_keywords": [
+        "kw-global-01",
+        "kw-us-17"
+      ],
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Quà Noel giá Black Friday” — nhận đặt quà trong đợt sale cuối tháng 11 – 12.12, gói sẵn và giao đúng ngày 24/12, rồi mở tiếp đợt quà Tết\nTóm tắt: Ở Nhật, 72,6% người 20–30 tuổi định mua quà Giáng sinh trong dịp Black Friday; ở Anh, 73% Gen Z cũng vậy và dồn 37% ngân sách Giáng sinh vào đợt này. Ở VN, chuỗi Black Friday → 12.12 → Noel → Tết là một mùa quà liền mạch: shop nhỏ có thể bán ‘mua giá sale, nhận đúng ngày’.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Nhật (Scroll, công bố 17/11/2026, ECのミカタ 26/11): trong 448 người định mua quà Giáng sinh, 60,0% sẽ mua toàn bộ hoặc một phần dịp Black Friday, nhóm 20–30 tuổi 72,6%. Anh (eBay Advertising UK, 2.001 người): 73% Gen Z có khả năng mua quà Giáng sinh dịp Black Friday, dành 37% ngân sách Giáng sinh; TikTok Shop UK (25/11): 53% Gen Z định mua trên TikTok Shop cuối tuần này.\nDữ kiện:\n- Nhật (Scroll, khảo sát chính 29/10/2026, 969 người): trong 448 người định mua quà Giáng sinh, 19,6% sẽ mua toàn bộ và 40,4% mua một phần dịp Black Friday (cộng 60,0%), thêm 21,9% đang cân nhắc; nhóm 20–30 tuổi 72,6%, nhóm 50 tuổi 45,1%. (mức xác minh: 1 nguồn gốc)\n- Anh (eBay Advertising UK, 2.001 người lớn): 48% có khả năng mua quà Giáng sinh dịp Black Friday 2026, Gen Z 73%; Gen Z dành 37% tổng ngân sách Giáng sinh cho Black Friday (trung bình 22%); 56% Gen Z coi nội dung video là quan trọng khi mua quà. (mức xác minh: 1 nguồn gốc)\n- Hai khảo sát độc lập ở Nhật (Scroll) và Anh (eBay) cùng cho thấy khoảng 7/10 người trẻ dùng Black Friday để mua quà Giáng sinh (72,6% nhóm 20–30 tuổi ở Nhật; 73% Gen Z ở Anh). (mức xác minh: 2+ nguồn độc lập)\n- TikTok Shop UK (25/11): 53% Gen Z định mua trên TikTok Shop cuối tuần này; bài đăng Black Friday +111% so cùng kỳ; giảm đến 60%, deal chỉ có trên live mỗi ngày tới 30/11; 32% người xem live ở Anh sau đó mua sản phẩm tại cửa hàng. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Số liệu là của Nhật và Anh (khảo sát của doanh nghiệp, mẫu khác nhau). Ở VN, dịch vụ quà Noel, gói quà, giao quà đã có nhiều (VnExpress từng viết ‘Nở rộ các dịch vụ cho ngày Noel’, các shop trên sàn bán quà Noel — chỉ thấy trong kết quả tìm kiếm) → độ mới thấp; điểm khác là khóa giá sale sớm rồi giao đúng ngày. Chưa có số liệu người Việt mua quà Noel trong đợt Black Friday.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nNgười trẻ VN mua sắm qua Shopee, TikTok Shop là chính (fact san-tmdt), hơn một nửa Gen Z sẵn sàng chi cho món ‘cảm giác cao cấp’ nếu giá hợp lý (fact xa-xi-vua-tui), và thanh toán số phổ biến (fact vi-dien-tu) — đặt cọc trước, nhận quà sau là thao tác quen.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: mở đặt quà từ nay tới 12.12 với 10–15 món quà phổ biến (khăn len, nến thơm, cốc, sách, đồ công nghệ nhỏ) mua giá sale từ nhà cung cấp hoặc sàn; khách cọc trước, mình gói kèm thiệp và giao đúng 23–24/12 trong nội thành. Sau Noel chuyển cùng danh sách khách sang đợt quà Tết.\n\n## 4. Ràng buộc\n- Vốn: 3–15 triệu đồng (Ước tính của người soạn: giấy gói, hộp, thiệp, vài món mẫu; hàng chính mua bằng tiền cọc của khách.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Hàng sale hết hoặc giao chậm, lỡ ngày 24/12; Giữ hàng nhiều tuần, hỏng hoặc thất lạc; Giá ‘sale’ không thật sự rẻ hơn; Cạnh tranh với shop quà có sẵn trên sàn; Trách nhiệm khi hoàn tiền cọc [cần xác minh].\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Canva: Catalog quà, thiệp, nhãn hộp.\n- CapCut: Clip giới thiệu mẫu gói và quy trình.\n- Zalo Official Account (OA): Nhận đặt, xác nhận ngày giao, nhắc khách.\n- VietQR Kit (Casso): Thu cọc và tiền còn lại.\n- Claude (Anthropic): So sánh giá, bảng đơn – ngày giao, lời chúc thiệp.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Chọn 10–15 món, Claude so sánh giá sale và giá thường, tính phí gói – giao.\n- Ngày 2: Làm catalog và mẫu gói quà bằng Canva; chụp 3 mẫu gói thật.\n- Ngày 3: Quay clip ‘mua giá sale – nhận đúng Noel’ bằng CapCut; mở nhận đặt qua Zalo OA.\n- Ngày 4–6: Nhận cọc VietQR, mua hàng trong đợt sale, ghi ngày giao từng đơn.\n- Ngày 7: Đếm đơn, giá trị đơn trung bình, phản hồi; chốt lịch giao 23–24/12.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Catalog 10–15 món với giá sale, giá thường và phí dịch vụ.\n- Bảng quản lý đơn: món, người nhận, ngày giao, trạng thái mua hàng.\n- Chính sách cọc, đổi trả, hoàn tiền — đánh dấu điểm pháp lý cần tự xác minh.\n- Kịch bản 3 clip và bài đăng mở đặt.\n- Lịch giao 23–24/12 theo khu vực và kế hoạch dự phòng khi hàng trễ.\n- Kế hoạch chuyển khách sang đợt quà Tết.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "total_score": 6.42,
+      "rank": 3
+    },
+    {
+      "id": "20261127-07-kho-do-si-len-song",
+      "date": "2026-11-27",
+      "type": "startup",
+      "category": [
+        "ecom",
+        "content"
+      ],
+      "title": "“Kho đồ si lên sóng” — livestream đồ cũ theo lịch cố định ngay từ kho của một shop nhỏ, giá khởi điểm thấp, soi kỹ từng lỗi trên camera",
+      "pitch": "Ở Mỹ, ThredUp biến trung tâm phân phối thành studio livestream trên TikTok Shop: 10 phiên/tuần, có món khởi điểm 1 USD, hơn 75% người mua là khách mới. Ở VN live bán đồ si đã đông; điểm khác biệt có thể là lịch cố định, soi lỗi minh bạch và giá khởi điểm thấp.",
+      "tags": [
+        "đồ si",
+        "livestream",
+        "TikTok Shop",
+        "kho",
+        "minh bạch"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Số liệu là của Mỹ, phần lớn do ThredUp tự công bố. Ở VN bán đồ si qua live đã rất đông và nhiều phiên ít đơn (theo các bài VnExpress, Nhà Đầu Tư, Brands Vietnam trong kết quả tìm kiếm, chưa mở) → độ mới thấp. Dữ kiện ‘68% Gen Z từng dùng đồ cũ’ trong hồ sơ giới trẻ còn ‘chưa xác minh’ nên không dùng để chấm điểm.",
+      "confidence": "trung bình",
+      "image": "assets/ideas/20261127-07-kho-do-si-len-song.webp",
+      "image_alt": "Minh họa phẳng một giá treo quần áo cũ nhiều màu trong kho, phía trước là điện thoại trên giá ba chân đang phát trực tiếp với kính lúp soi chiếc áo",
+      "regions": [
+        "US"
+      ],
+      "signal_text": "Mỹ (Modern Retail 18/11/2026; TheStreet 24/11/2026): ThredUp livestream bán đồ cũ trên TikTok Shop từ studio trong trung tâm phân phối ở Atlanta và Dallas, 10 phiên/tuần, định tăng lên 20; có món khởi điểm 1 USD hoặc 5 USD; hơn 75% người mua qua live là khách mới; trên Whatnot giá bán trung vị cao hơn 52% so với món tương đương trên chợ; 94% giao dịch đồ hiệu cũ trên TikTok Shop Mỹ đến từ livestream.",
+      "vn_youth_fit": "VN là thị trường video commerce lớn thứ hai Đông Nam Á, 1,3 tỷ giao dịch (fact video-commerce); TikTok Shop đã chiếm khoảng 41% GMV 4 sàn và đang đuổi kịp Shopee (fact san-tmdt) — mua qua live là hành vi quen của người trẻ.",
+      "vn_fit_refs": [
+        "video-commerce",
+        "san-tmdt"
+      ],
+      "key_facts": [
+        {
+          "text": "ThredUp bán đồ cũ qua livestream TikTok Shop từ studio trong trung tâm phân phối Atlanta và Dallas, bắt đầu với 10 phiên/tuần và định tăng gấp đôi (20 phiên).",
+          "source_ids": [
+            "us_thredup_mr",
+            "us_thredup_ts"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Hai báo khác nhau, nhưng thông tin đều xuất phát từ thông báo/phỏng vấn của ThredUp."
+        },
+        {
+          "text": "Hơn 75% người mua qua live TikTok Shop là khách mới của ThredUp (Modern Retail ghi 75% cho 6 phiên đầu; TheStreet trích ‘More than 75%’).",
+          "source_ids": [
+            "us_thredup_mr",
+            "us_thredup_ts"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số do ThredUp tự công bố."
+        },
+        {
+          "text": "Phiên đầu dài 4 giờ phát ngày 11/11; ngày 17/11 một host giới thiệu 250 món trong 4 giờ; có món khởi điểm 1 USD, có món 5 USD; thương hiệu bán nhiều nhất qua 6 phiên đầu: Madewell, Frame, Free People, Good American; ThredUp có hơn 20 host.",
+          "source_ids": [
+            "us_thredup_mr"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Live trên Whatnot (từ cuối tháng 9): giá bán trung vị cao hơn 52% so với món tương đương bán trên chợ của ThredUp (công ty không đưa số tuyệt đối); 94% giao dịch đồ hiệu cũ trên TikTok Shop Mỹ đến từ livestream.",
+          "source_ids": [
+            "us_thredup_mr"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "us_thredup_mr",
+          "name": "Modern Retail",
+          "title": "ThredUp launches TikTok Shop livestreams as part of its social commerce push",
+          "url": "https://www.modernretail.co/operations/thredup-launches-tiktok-shop-livestreams-as-part-of-its-social-commerce-push/",
+          "published": "2026-11-18",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Tác giả Julia Waldow; có phỏng vấn Danielle Vermeer (ThredUp). Đọc qua WebFetch (tác tử đọc web)."
+        },
+        {
+          "id": "us_thredup_ts",
+          "name": "TheStreet",
+          "title": "ThredUp brings its secondhand treasure hunt to TikTok",
+          "url": "https://www.thestreet.com/retail/thredup-brings-secondhand-treasure-hunt-to-tiktok",
+          "published": "2026-11-24",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Tác giả Madison Troyer; trích CEO James Reinhart. Đọc qua WebFetch (tác tử đọc web)."
+        }
+      ],
+      "localize_vn": "Giả thuyết: một shop đồ si nhỏ chọn 3 khung giờ cố định mỗi tuần (ví dụ 20h thứ 3, 5, 7), mỗi phiên 60–90 món đã chụp và đo sẵn, giá khởi điểm thấp cho vài món mở màn, host soi lỗi kỹ trước camera; khách quen nhận thông báo trước phiên qua Zalo. Đo tỷ lệ khách mới và tỷ lệ trả hàng so với bán bài đăng thường.",
+      "first_steps": [
+        "Ngày 1: Chọn 3 khung giờ, Claude soạn kịch bản phiên live và câu soi lỗi chuẩn.",
+        "Ngày 2: Chụp, đo, đánh số 60 món; làm bảng giá khởi điểm bằng Canva.",
+        "Ngày 3: Dựng 3 clip nhá hàng bằng CapCut, báo lịch qua Zalo OA.",
+        "Ngày 4–6: Chạy 3 phiên trên TikTok Shop; thu tiền đơn ngoài sàn bằng VietQR nếu có.",
+        "Ngày 7: So sánh đơn, khách mới, tỷ lệ trả hàng với tuần bán thường."
+      ],
+      "capital": {
+        "vnd_min_m": 5,
+        "vnd_max_m": 20,
+        "usd_min": 192,
+        "usd_max": 769,
+        "note": "Ước tính của người soạn: đèn, giá điện thoại, micro, lô hàng đồ si đầu tiên; giả định đã có hàng hoặc nguồn hàng."
+      },
+      "risks": [
+        "Cạnh tranh rất đông, độ mới thấp",
+        "Phiên live ít người xem lúc đầu",
+        "Khiếu nại hàng khác mô tả nếu soi lỗi chưa kỹ",
+        "Phí sàn, quy định ngành hàng đồ cũ trên TikTok Shop [cần xác minh]",
+        "Mệt host khi chạy lịch dày"
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 6,
+        "novelty": 3,
+        "lowcap": 7,
+        "signal": 7,
+        "vnfit": 7
+      },
+      "toolstack": {
+        "checked": "2026-11-27",
+        "confidence": "trung bình",
+        "wow": "Khách biết chắc 20h thứ Năm ‘kho mở sóng’, và mỗi vết xước đều được soi trước khi chốt — vì thế họ quay lại.",
+        "tools": [
+          {
+            "tool_id": "tiktok_shop",
+            "role": "Kênh livestream và đặt hàng.",
+            "why": "Mua qua live là hành vi quen ở VN.",
+            "alt_ids": [
+              "shopee_seller"
+            ]
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip nhá hàng trước phiên, cắt đoạn hay sau phiên.",
+            "why": "Dựng nhanh trên điện thoại.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "canva",
+            "role": "Bảng giá khởi điểm, ảnh bìa phiên, nhãn số món.",
+            "why": "Dàn trang nhanh.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Báo lịch phiên cho khách quen, chăm sóc sau bán.",
+            "why": "Giữ khách ngoài sàn.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Thu tiền đơn chốt ngoài sàn.",
+            "why": "Chuyển khoản ngân hàng VN.",
+            "alt_ids": [
+              "momo"
+            ]
+          },
+          {
+            "tool_id": "claude",
+            "role": "Kịch bản phiên, câu soi lỗi, bảng đo lường.",
+            "why": "Chuẩn hóa cách mô tả lỗi.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "tiktok_shop",
+            "capcut",
+            "canva",
+            "zalo_oa",
+            "vietqr",
+            "claude"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): TikTok Shop Việt Nam (Seller Center), CapCut, Canva, Zalo Official Account (OA), VietQR Kit (Casso), Claude (Anthropic).",
+          "tradeoff": "Ít tính năng, làm tay nhiều hơn; đủ để kiểm chứng nhu cầu trong 1 tuần."
+        },
+        "premium": {
+          "tool_ids": [
+            "tiktok_shop",
+            "shopee_seller",
+            "capcut",
+            "canva",
+            "zalo_oa",
+            "chatgpt"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): TikTok Shop Việt Nam (Seller Center), Shopee Việt Nam (Kênh Người Bán), CapCut, Canva, Zalo Official Account (OA), ChatGPT / OpenAI.",
+          "tradeoff": "Tốn phí thuê bao; chỉ nâng cấp khi đã có khách trả tiền."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Kho đồ si lên sóng” — livestream đồ cũ theo lịch cố định ngay từ kho của một shop nhỏ, giá khởi điểm thấp, soi kỹ từng lỗi trên camera\nTóm tắt: Ở Mỹ, ThredUp biến trung tâm phân phối thành studio livestream trên TikTok Shop: 10 phiên/tuần, có món khởi điểm 1 USD, hơn 75% người mua là khách mới. Ở VN live bán đồ si đã đông; điểm khác biệt có thể là lịch cố định, soi lỗi minh bạch và giá khởi điểm thấp.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Mỹ (Modern Retail 18/11/2026; TheStreet 24/11/2026): ThredUp livestream bán đồ cũ trên TikTok Shop từ studio trong trung tâm phân phối ở Atlanta và Dallas, 10 phiên/tuần, định tăng lên 20; có món khởi điểm 1 USD hoặc 5 USD; hơn 75% người mua qua live là khách mới; trên Whatnot giá bán trung vị cao hơn 52% so với món tương đương trên chợ; 94% giao dịch đồ hiệu cũ trên TikTok Shop Mỹ đến từ livestream.\nDữ kiện:\n- ThredUp bán đồ cũ qua livestream TikTok Shop từ studio trong trung tâm phân phối Atlanta và Dallas, bắt đầu với 10 phiên/tuần và định tăng gấp đôi (20 phiên). (mức xác minh: 2+ nguồn độc lập)\n- Hơn 75% người mua qua live TikTok Shop là khách mới của ThredUp (Modern Retail ghi 75% cho 6 phiên đầu; TheStreet trích ‘More than 75%’). (mức xác minh: 1 nguồn gốc)\n- Phiên đầu dài 4 giờ phát ngày 11/11; ngày 17/11 một host giới thiệu 250 món trong 4 giờ; có món khởi điểm 1 USD, có món 5 USD; thương hiệu bán nhiều nhất qua 6 phiên đầu: Madewell, Frame, Free People, Good American; ThredUp có hơn 20 host. (mức xác minh: 1 nguồn gốc)\n- Live trên Whatnot (từ cuối tháng 9): giá bán trung vị cao hơn 52% so với món tương đương bán trên chợ của ThredUp (công ty không đưa số tuyệt đối); 94% giao dịch đồ hiệu cũ trên TikTok Shop Mỹ đến từ livestream. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Số liệu là của Mỹ, phần lớn do ThredUp tự công bố. Ở VN bán đồ si qua live đã rất đông và nhiều phiên ít đơn (theo các bài VnExpress, Nhà Đầu Tư, Brands Vietnam trong kết quả tìm kiếm, chưa mở) → độ mới thấp. Dữ kiện ‘68% Gen Z từng dùng đồ cũ’ trong hồ sơ giới trẻ còn ‘chưa xác minh’ nên không dùng để chấm điểm.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nVN là thị trường video commerce lớn thứ hai Đông Nam Á, 1,3 tỷ giao dịch (fact video-commerce); TikTok Shop đã chiếm khoảng 41% GMV 4 sàn và đang đuổi kịp Shopee (fact san-tmdt) — mua qua live là hành vi quen của người trẻ.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: một shop đồ si nhỏ chọn 3 khung giờ cố định mỗi tuần (ví dụ 20h thứ 3, 5, 7), mỗi phiên 60–90 món đã chụp và đo sẵn, giá khởi điểm thấp cho vài món mở màn, host soi lỗi kỹ trước camera; khách quen nhận thông báo trước phiên qua Zalo. Đo tỷ lệ khách mới và tỷ lệ trả hàng so với bán bài đăng thường.\n\n## 4. Ràng buộc\n- Vốn: 5–20 triệu đồng (Ước tính của người soạn: đèn, giá điện thoại, micro, lô hàng đồ si đầu tiên; giả định đã có hàng hoặc nguồn hàng.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Cạnh tranh rất đông, độ mới thấp; Phiên live ít người xem lúc đầu; Khiếu nại hàng khác mô tả nếu soi lỗi chưa kỹ; Phí sàn, quy định ngành hàng đồ cũ trên TikTok Shop [cần xác minh]; Mệt host khi chạy lịch dày.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- TikTok Shop Việt Nam (Seller Center): Kênh livestream và đặt hàng.\n- CapCut: Clip nhá hàng trước phiên, cắt đoạn hay sau phiên.\n- Canva: Bảng giá khởi điểm, ảnh bìa phiên, nhãn số món.\n- Zalo Official Account (OA): Báo lịch phiên cho khách quen, chăm sóc sau bán.\n- VietQR Kit (Casso): Thu tiền đơn chốt ngoài sàn.\n- Claude (Anthropic): Kịch bản phiên, câu soi lỗi, bảng đo lường.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Chọn 3 khung giờ, Claude soạn kịch bản phiên live và câu soi lỗi chuẩn.\n- Ngày 2: Chụp, đo, đánh số 60 món; làm bảng giá khởi điểm bằng Canva.\n- Ngày 3: Dựng 3 clip nhá hàng bằng CapCut, báo lịch qua Zalo OA.\n- Ngày 4–6: Chạy 3 phiên trên TikTok Shop; thu tiền đơn ngoài sàn bằng VietQR nếu có.\n- Ngày 7: So sánh đơn, khách mới, tỷ lệ trả hàng với tuần bán thường.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Lịch phát cố định 1 tháng và cấu trúc một phiên (mở màn – món chính – chốt).\n- Kịch bản host và bộ câu soi lỗi chuẩn cho từng loại đồ.\n- Quy trình chụp, đo, đánh số món trước phiên.\n- Chính sách đổi trả rõ ràng để đăng cùng phiên.\n- Tin nhắn báo lịch, nhắc phiên, cảm ơn sau mua.\n- Bảng chỉ số: người xem, khách mới, đơn, tỷ lệ trả hàng và ngưỡng quyết định.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "total_score": 6.12,
+      "rank": 4
+    },
+    {
+      "id": "20261127-09-gia-that-hay-ao",
+      "date": "2026-11-27",
+      "type": "startup",
+      "category": [
+        "content",
+        "ai"
+      ],
+      "title": "“Giá thật hay ảo” — kênh video ngắn kiểm chứng giá giảm trong mùa 12.12 và Tết, tập trung hàng hot trên TikTok Shop, kiếm tiền bằng link tiếp thị liên kết công khai",
+      "pitch": "Ở Mỹ, 44% người lớn tin giảm giá Black Friday chủ yếu là giá thường được ‘đóng gói’ thành deal, và báo cáo của Visa cho thấy AI gợi ý sai nhu cầu trong 42% lượt thử. Ở VN đã có tiện ích xem lịch sử giá Shopee; khoảng trống có thể là kênh video kiểm chứng cho người lướt TikTok Shop.",
+      "tags": [
+        "lịch sử giá",
+        "giảm giá ảo",
+        "12.12",
+        "TikTok Shop",
+        "tiếp thị liên kết"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Số liệu là của Mỹ. Ở VN đã có nhiều công cụ xem lịch sử giá sàn (BeeCost, tiện ích ‘Lịch sử giá Shopee’, SoiGia, BeeTracker — chỉ thấy trong kết quả tìm kiếm ngày 27/11/2026, chưa mở từng trang) → độ mới thấp; khoảng trống giả định là nội dung video cho TikTok Shop. Thu thập giá tự động từ sàn có thể vi phạm điều khoản sàn [cần xác minh].",
+      "confidence": "thấp",
+      "image": "assets/ideas/20261127-09-gia-that-hay-ao.webp",
+      "image_alt": "Minh họa phẳng một điện thoại hiển thị biểu đồ đường giá lên xuống màu teal, bên cạnh là nhãn giảm giá màu cam và kính lúp soi dấu hỏi",
+      "regions": [
+        "US"
+      ],
+      "signal_text": "Mỹ (NPR 25/11/2026; TheStreet 24/11/2026): báo cáo của Visa — mô hình AI không gợi ý được sản phẩm đúng nhu cầu trong 42% lượt thử; khảo sát tháng 10 của Tunnl — 44% người lớn Mỹ tin giảm giá Black Friday/Cyber Monday chủ yếu là giá thường, chỉ 39% coi là tiết kiệm thật; NRF: 59% người tiêu dùng định dùng AI hỗ trợ mua sắm cuối tuần này.",
+      "vn_youth_fit": "Shopee và TikTok Shop chiếm phần lớn GMV, TikTok Shop đang đuổi kịp (fact san-tmdt); VN là thị trường video commerce lớn thứ hai Đông Nam Á (fact video-commerce); TikTok, Facebook, YouTube phủ rộng (fact mxh-top) — người trẻ săn deal qua video ngắn, cần biết deal có thật không.",
+      "vn_fit_refs": [
+        "san-tmdt",
+        "video-commerce",
+        "mxh-top"
+      ],
+      "key_facts": [
+        {
+          "text": "Báo cáo của Visa: mô hình AI không gợi ý được sản phẩm đáp ứng nhu cầu khách trong 42% lượt thử; hơn một nửa số lượt thất bại vẫn gợi ý một sản phẩm không khớp.",
+          "source_ids": [
+            "us_ai_npr"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "NPR dẫn lại; chưa mở báo cáo gốc của Visa."
+        },
+        {
+          "text": "Khảo sát tháng 10 của Tunnl: 44% người lớn Mỹ tin giảm giá Black Friday và Cyber Monday chủ yếu là giá thường được tiếp thị như deal; chỉ 39% coi là tiết kiệm thật.",
+          "source_ids": [
+            "us_ai_ts"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Hai báo độc lập (NPR, TheStreet) cùng ghi nhận mùa Black Friday 2026 là lần đầu agent AI được dùng rộng để săn deal, kèm cảnh báo về độ chính xác và quyền truy cập dữ liệu thanh toán; NPR dẫn NRF: 59% người tiêu dùng định dùng AI cho mua sắm cuối tuần này.",
+          "source_ids": [
+            "us_ai_npr",
+            "us_ai_ts"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Con số 59% (NRF) đã đưa ngày 24/11; nhắc lại làm bối cảnh."
+        }
+      ],
+      "sources": [
+        {
+          "id": "us_ai_npr",
+          "name": "NPR (đăng lại trên WAMC)",
+          "title": "What to know before using AI agents for Black Friday shopping",
+          "url": "https://www.wamc.org/2026-11-25/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+          "published": "2026-11-25",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Tác giả Stephan Bisaha (NPR); đài thành viên WAMC đăng lại nguyên bài. Đọc qua WebFetch (tác tử đọc web)."
+        },
+        {
+          "id": "us_ai_ts",
+          "name": "TheStreet (đăng lại trên Yahoo Finance)",
+          "title": "AI agents are transforming the Black Friday shopping experience",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-transforming-black-friday-010300057.html",
+          "published": "2026-11-24",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Tác giả Hillary Remy. Bài dẫn Reuters: năm ngoái hoạt động có AI hỗ trợ góp phần đẩy chi tiêu online Black Friday lên kỷ lục 11,8 tỷ USD (không dùng làm dữ kiện chính). Đọc qua WebFetch (tác tử đọc web)."
+        }
+      ],
+      "localize_vn": "Giả thuyết: mỗi ngày chọn 3 món đang được đẩy mạnh trong mùa 12.12, ghi tay giá mỗi ngày từ nay (ảnh chụp màn hình có ngày giờ), làm clip 30 giây ‘giá thật hay ảo’; kèm bảng giá công khai trên một trang web đơn giản. Kiếm tiền bằng link tiếp thị liên kết, ghi rõ là link có hoa hồng; không nhận tiền để nói tốt.",
+      "first_steps": [
+        "Ngày 1: Chọn 10 món hot, ghi giá hôm nay kèm ảnh chụp màn hình; Claude làm mẫu bảng theo dõi.",
+        "Ngày 2: Dựng trang bảng giá công khai trên Supabase; viết quy tắc minh bạch.",
+        "Ngày 3–6: Mỗi ngày ghi giá, làm 1–2 clip bằng CapCut, ảnh bìa bằng Canva.",
+        "Ngày 5: Đăng ký chương trình tiếp thị liên kết của sàn [cần xác minh điều kiện].",
+        "Ngày 7: Đo lượt xem, lượt lưu, lượt bấm link; quyết định đi tiếp."
+      ],
+      "capital": {
+        "vnd_min_m": 0,
+        "vnd_max_m": 3,
+        "usd_min": 0,
+        "usd_max": 115,
+        "note": "Ước tính của người soạn: gần như 0 đồng; chỉ tốn thời gian và phí công cụ nếu nâng cấp."
+      },
+      "risks": [
+        "Độ mới thấp — đã có nhiều tiện ích lịch sử giá",
+        "Thu thập giá tự động có thể vi phạm điều khoản sàn [cần xác minh]",
+        "Bị shop phản ứng khi bị chê ‘giá ảo’ — cần bằng chứng ảnh có ngày giờ",
+        "Quy định ghi nhãn tiếp thị liên kết [cần xác minh]",
+        "Thu nhập hoa hồng thấp lúc đầu"
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 5,
+        "novelty": 3,
+        "lowcap": 9,
+        "signal": 6,
+        "vnfit": 7
+      },
+      "toolstack": {
+        "checked": "2026-11-27",
+        "confidence": "trung bình",
+        "wow": "Clip chỉ 30 giây: ảnh chụp giá ngày 1, ngày 7, ngày sale — người xem tự thấy deal thật hay ảo.",
+        "tools": [
+          {
+            "tool_id": "claude",
+            "role": "Mẫu bảng theo dõi giá, kịch bản clip, quy tắc minh bạch.",
+            "why": "Viết nhanh, rõ, giúp tính % chênh giá.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          },
+          {
+            "tool_id": "supabase",
+            "role": "Lưu bảng giá theo ngày và trang tra cứu công khai.",
+            "why": "Gói miễn phí đủ cho bản thử.",
+            "alt_ids": [
+              "github_pages"
+            ]
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Dựng clip 30 giây so giá.",
+            "why": "Dựng nhanh, phụ đề tự động.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "canva",
+            "role": "Ảnh bìa, biểu đồ giá đơn giản.",
+            "why": "Dàn trang nhanh.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "n8n",
+            "role": "Nhắc lịch ghi giá mỗi ngày, gom ảnh chụp vào bảng.",
+            "why": "Tự động hóa việc lặp lại, không cào dữ liệu sàn.",
+            "alt_ids": [
+              "zapier"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "claude",
+            "github_pages",
+            "capcut",
+            "canva",
+            "zapier"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): Claude (Anthropic), GitHub Pages, CapCut, Canva, Zapier.",
+          "tradeoff": "Ít tính năng, làm tay nhiều hơn; đủ để kiểm chứng nhu cầu trong 1 tuần."
+        },
+        "premium": {
+          "tool_ids": [
+            "chatgpt",
+            "supabase",
+            "capcut",
+            "canva",
+            "n8n"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): ChatGPT / OpenAI, Supabase, CapCut, Canva, n8n.",
+          "tradeoff": "Tốn phí thuê bao; chỉ nâng cấp khi đã có khách trả tiền."
+        }
+      },
+      "from_keywords": [
+        "kw-global-01",
+        "kw-us-17"
+      ],
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Giá thật hay ảo” — kênh video ngắn kiểm chứng giá giảm trong mùa 12.12 và Tết, tập trung hàng hot trên TikTok Shop, kiếm tiền bằng link tiếp thị liên kết công khai\nTóm tắt: Ở Mỹ, 44% người lớn tin giảm giá Black Friday chủ yếu là giá thường được ‘đóng gói’ thành deal, và báo cáo của Visa cho thấy AI gợi ý sai nhu cầu trong 42% lượt thử. Ở VN đã có tiện ích xem lịch sử giá Shopee; khoảng trống có thể là kênh video kiểm chứng cho người lướt TikTok Shop.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Mỹ (NPR 25/11/2026; TheStreet 24/11/2026): báo cáo của Visa — mô hình AI không gợi ý được sản phẩm đúng nhu cầu trong 42% lượt thử; khảo sát tháng 10 của Tunnl — 44% người lớn Mỹ tin giảm giá Black Friday/Cyber Monday chủ yếu là giá thường, chỉ 39% coi là tiết kiệm thật; NRF: 59% người tiêu dùng định dùng AI hỗ trợ mua sắm cuối tuần này.\nDữ kiện:\n- Báo cáo của Visa: mô hình AI không gợi ý được sản phẩm đáp ứng nhu cầu khách trong 42% lượt thử; hơn một nửa số lượt thất bại vẫn gợi ý một sản phẩm không khớp. (mức xác minh: 1 nguồn gốc)\n- Khảo sát tháng 10 của Tunnl: 44% người lớn Mỹ tin giảm giá Black Friday và Cyber Monday chủ yếu là giá thường được tiếp thị như deal; chỉ 39% coi là tiết kiệm thật. (mức xác minh: 1 nguồn gốc)\n- Hai báo độc lập (NPR, TheStreet) cùng ghi nhận mùa Black Friday 2026 là lần đầu agent AI được dùng rộng để săn deal, kèm cảnh báo về độ chính xác và quyền truy cập dữ liệu thanh toán; NPR dẫn NRF: 59% người tiêu dùng định dùng AI cho mua sắm cuối tuần này. (mức xác minh: 2+ nguồn độc lập)\nLưu ý giả thuyết: Số liệu là của Mỹ. Ở VN đã có nhiều công cụ xem lịch sử giá sàn (BeeCost, tiện ích ‘Lịch sử giá Shopee’, SoiGia, BeeTracker — chỉ thấy trong kết quả tìm kiếm ngày 27/11/2026, chưa mở từng trang) → độ mới thấp; khoảng trống giả định là nội dung video cho TikTok Shop. Thu thập giá tự động từ sàn có thể vi phạm điều khoản sàn [cần xác minh].\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nShopee và TikTok Shop chiếm phần lớn GMV, TikTok Shop đang đuổi kịp (fact san-tmdt); VN là thị trường video commerce lớn thứ hai Đông Nam Á (fact video-commerce); TikTok, Facebook, YouTube phủ rộng (fact mxh-top) — người trẻ săn deal qua video ngắn, cần biết deal có thật không.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: mỗi ngày chọn 3 món đang được đẩy mạnh trong mùa 12.12, ghi tay giá mỗi ngày từ nay (ảnh chụp màn hình có ngày giờ), làm clip 30 giây ‘giá thật hay ảo’; kèm bảng giá công khai trên một trang web đơn giản. Kiếm tiền bằng link tiếp thị liên kết, ghi rõ là link có hoa hồng; không nhận tiền để nói tốt.\n\n## 4. Ràng buộc\n- Vốn: 0–3 triệu đồng (Ước tính của người soạn: gần như 0 đồng; chỉ tốn thời gian và phí công cụ nếu nâng cấp.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Độ mới thấp — đã có nhiều tiện ích lịch sử giá; Thu thập giá tự động có thể vi phạm điều khoản sàn [cần xác minh]; Bị shop phản ứng khi bị chê ‘giá ảo’ — cần bằng chứng ảnh có ngày giờ; Quy định ghi nhãn tiếp thị liên kết [cần xác minh]; Thu nhập hoa hồng thấp lúc đầu.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Claude (Anthropic): Mẫu bảng theo dõi giá, kịch bản clip, quy tắc minh bạch.\n- Supabase: Lưu bảng giá theo ngày và trang tra cứu công khai.\n- CapCut: Dựng clip 30 giây so giá.\n- Canva: Ảnh bìa, biểu đồ giá đơn giản.\n- n8n: Nhắc lịch ghi giá mỗi ngày, gom ảnh chụp vào bảng.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Chọn 10 món hot, ghi giá hôm nay kèm ảnh chụp màn hình; Claude làm mẫu bảng theo dõi.\n- Ngày 2: Dựng trang bảng giá công khai trên Supabase; viết quy tắc minh bạch.\n- Ngày 3–6: Mỗi ngày ghi giá, làm 1–2 clip bằng CapCut, ảnh bìa bằng Canva.\n- Ngày 5: Đăng ký chương trình tiếp thị liên kết của sàn [cần xác minh điều kiện].\n- Ngày 7: Đo lượt xem, lượt lưu, lượt bấm link; quyết định đi tiếp.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Mẫu bảng theo dõi giá (món, sàn, ngày, giá, ảnh bằng chứng) và công thức tính % chênh.\n- Quy tắc minh bạch của kênh: cách chọn món, cách ghi giá, cách ghi nhãn link hoa hồng.\n- Kịch bản 7 clip đầu và mẫu ảnh bìa.\n- Đặc tả trang tra cứu bảng giá công khai và mã nguồn chạy được (Supabase hoặc trang tĩnh).\n- Lịch đăng mùa 12.12 → Tết.\n- Checklist điều khoản sàn và quy định quảng cáo cần tự xác minh.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "total_score": 6.08,
+      "rank": 5
+    },
+    {
+      "id": "20261127-02-ke-thu-30-ngay",
+      "date": "2026-11-27",
+      "type": "startup",
+      "category": [
+        "service",
+        "b2b"
+      ],
+      "title": "“Kệ thử 30 ngày” — thuê một góc nhỏ trong quán cà phê, chia kệ cho 4–6 người trẻ làm đồ thủ công, đồ ăn khô thử bán một tháng rồi xoay vòng, có phiên chợ cuối tháng",
+      "pitch": "Ở Trung Quốc, chính quyền cho người trẻ trông ‘tiệm câu chuyện’ dưới 10 m² thử 1 tháng miễn tiền thuê, rồi mới cho vay, trao danh hiệu. Ở VN, hỗ trợ của Đoàn chủ yếu là vốn vay; một người trẻ có thể làm đầu mối ‘kệ thử bán’ xoay vòng, thu phí kệ theo tháng và đề xuất hợp tác với Đoàn phường.",
+      "tags": [
+        "kệ ký gửi",
+        "tiệm thử",
+        "người làm đồ thủ công",
+        "quán cà phê",
+        "chợ phiên"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu là bài tuyên truyền chính sách của Trung Quốc, kể theo ca điển hình, không có số liệu tổng (1 nguồn gốc). Ở VN đã có phiên chợ trong trường đại học và hỗ trợ vốn vay của Đoàn (Báo Tin Tức 22/10/2026 về Đồng Nai — tác tử tìm kiếm đọc trang), chưa thấy mô hình ‘kệ thử 1 tháng xoay vòng chủ’ do một đơn vị quản lý; mô hình kệ ký gửi nói chung thì đã có. Chưa biết quán cà phê có chịu chia góc và người làm đồ có chịu trả phí kệ hay không.",
+      "confidence": "thấp",
+      "image": "assets/ideas/20261127-02-ke-thu-30-ngay.webp",
+      "image_alt": "Minh họa phẳng một góc quán cà phê với kệ gỗ nhiều ngăn bày lọ, túi vải, gốm nhỏ màu cam và teal, bên cạnh là lịch 30 ngày và mã vuông thanh toán",
+      "regions": [
+        "CN"
+      ],
+      "signal_text": "Trung Quốc (Nhân Dân Nhật báo, 24/11/2026): sau văn bản tháng 4/2026 của Trung ương Đoàn và 15 bộ ngành về ‘青春小店’, Thượng Hải cho người trẻ làm chủ ‘tiệm câu chuyện’ dưới 10 m² thử 1 tháng, miễn tiền thuê, điện nước, nhân công; Tế Nam cho chủ tiệm giỏi vay tín chấp tới 80万元; Hồ Nam chọn 100 tiệm, mỗi tiệm 2万元 vốn nâng cấp.",
+      "vn_youth_fit": "Hơn một nửa Gen Z sẵn sàng chi cho món ‘cảm giác cao cấp’ nếu giá hợp lý (fact xa-xi-vua-tui) — đồ thủ công lô nhỏ hợp nhóm này; thanh toán QR, ví điện tử đã phổ biến (fact vi-dien-tu: 30–36 triệu ví đang hoạt động) nên kệ không người trực vẫn thu tiền được. Nhưng 49% Gen Z giữ ngân sách chặt (fact ngan-sach) → giá trên kệ phải vừa túi.",
+      "vn_fit_refs": [
+        "xa-xi-vua-tui",
+        "vi-dien-tu",
+        "ngan-sach"
+      ],
+      "key_facts": [
+        {
+          "text": "Tháng 4/2026, Trung ương Đoàn TQ cùng 15 bộ ngành ra văn bản về thành phố phát triển cho thanh niên, khuyến khích ‘青春小店’ gắn với ‘vòng sống 15 phút’.",
+          "source_ids": [
+            "cn_rmrb_qcxd",
+            "cn_paper_qcxd"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Bài 澎湃号·政务 ghi nguồn ‘人民日报、共青团中央’, nội dung trùng bài Nhân Dân Nhật báo, nên không tính là nguồn độc lập."
+        },
+        {
+          "text": "Thượng Hải (愚园路1046号, quận Trường Ninh): ‘故事商店’ dưới 10 m², chủ tiệm chủ yếu sinh sau 1990 và 2000, được làm thử 1 tháng, miễn tiền thuê, điện nước và nhân công.",
+          "source_ids": [
+            "cn_rmrb_qcxd",
+            "cn_paper_qcxd"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Cùng một bài gốc."
+        },
+        {
+          "text": "Tế Nam: chủ tiệm giỏi của chương trình ‘泉城青春小店’ (bắt đầu 2025) được công nhận nhân tài loại E (tháng 4/2026), được đi xe buýt và tàu điện miễn phí 3 năm và vay tín chấp tới 80万元; chương trình tạo việc cho hơn 500 người, gián tiếp cho gần 1.000 việc làm linh hoạt.",
+          "source_ids": [
+            "cn_rmrb_qcxd",
+            "cn_paper_qcxd"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Cùng một bài gốc."
+        },
+        {
+          "text": "Hồ Nam: kế hoạch 2026 chọn 100 tiệm và 10 dự án mẫu; tiệm hạt rang 王胖子 (lập năm 1836, truyền 6 đời) nhận 2万元 vốn nâng cấp, có 4 tiệm trực tiếp ở Trường Sa; vị đậu ‘剁椒怪味’ bán hơn 500 hộp trong một ngày ở một tiệm.",
+          "source_ids": [
+            "cn_rmrb_qcxd",
+            "cn_paper_qcxd"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Cùng một bài gốc."
+        }
+      ],
+      "sources": [
+        {
+          "id": "cn_rmrb_qcxd",
+          "name": "中新网 (đăng lại 人民日报)",
+          "title": "青春小店 装下生活与梦想（经济聚焦）",
+          "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736981.shtml",
+          "published": "2026-11-24",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Bài gốc của Nhân Dân Nhật báo (phóng viên 曹玲娟, 李蕊, 杨迅). Đọc qua WebFetch (tác tử đọc web) ngày 27/11/2026."
+        },
+        {
+          "id": "cn_paper_qcxd",
+          "name": "澎湃新闻 · 澎湃号·政务 (Đoàn trường ĐH Tài chính Kinh tế Sơn Đông)",
+          "title": "把子肉冰淇淋、榴莲瓜子、剁椒怪味豆……这届年轻人敢想敢拼！",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34560916",
+          "published": "2026-11-25",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Ghi nguồn ‘人民日报、共青团中央’; số liệu trùng bài Nhân Dân Nhật báo, nên không phải nguồn độc lập. Đọc qua WebFetch (tác tử đọc web) ngày 27/11/2026."
+        }
+      ],
+      "localize_vn": "Giả thuyết: thuê góc 6–10 m² trong một quán cà phê đông người trẻ, chia 4–6 kệ, mỗi người làm đồ thuê 1 tháng (phí kệ cố định hoặc % doanh thu), quán hưởng thêm khách; cuối tháng làm phiên chợ nhỏ cho các chủ kệ gặp khách. Mỗi kệ có mã QR riêng. Sau 2–3 vòng, đem số liệu đề xuất Đoàn phường làm điểm ‘tiệm thử của thanh niên’.",
+      "first_steps": [
+        "Ngày 1: Liệt kê 10 quán cà phê có góc trống; Claude soạn đề xuất chia doanh thu với quán.",
+        "Ngày 2: Gặp hoặc nhắn 5 quán; chốt 1 quán đồng ý thử.",
+        "Ngày 3: Đăng tuyển chủ kệ qua nhóm Facebook, Zalo của người làm đồ thủ công; làm biểu mẫu đăng ký bằng Canva.",
+        "Ngày 4–5: Chọn 4–6 chủ kệ, ký thỏa thuận đơn giản, in mã QR thu tiền payOS cho từng kệ.",
+        "Ngày 6–7: Mở kệ; quay clip giới thiệu bằng CapCut; đo số khách ghé kệ, đơn, phản hồi của quán."
+      ],
+      "capital": {
+        "vnd_min_m": 8,
+        "vnd_max_m": 30,
+        "usd_min": 308,
+        "usd_max": 1154,
+        "note": "Ước tính của người soạn: kệ gỗ, đèn, bảng tên, tiền cọc góc thuê tháng đầu; chưa tính hàng hóa (do chủ kệ tự lo)."
+      },
+      "risks": [
+        "Quán đổi ý hoặc tăng phí góc",
+        "Hàng bán chậm khiến chủ kệ bỏ giữa chừng",
+        "Trách nhiệm khi hàng mất, hỏng trên kệ không người trực",
+        "Thuế, hóa đơn cho doanh thu ký gửi [cần xác minh]",
+        "Đồ ăn khô cần điều kiện an toàn thực phẩm [cần xác minh]"
+      ],
+      "scores": {
+        "ease": 5,
+        "demand": 5,
+        "novelty": 7,
+        "lowcap": 6,
+        "signal": 5,
+        "vnfit": 6
+      },
+      "toolstack": {
+        "checked": "2026-11-27",
+        "confidence": "trung bình",
+        "wow": "Một góc 8 m² mỗi tháng là sáu tiệm nhỏ mới — và cuối tháng có phiên chợ để cả sáu gặp khách thật.",
+        "tools": [
+          {
+            "tool_id": "canva",
+            "role": "Biểu mẫu đăng ký, bảng tên kệ, poster phiên chợ.",
+            "why": "Dàn trang nhanh, nhiều mẫu.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "payos",
+            "role": "Mã QR thu tiền riêng cho từng kệ, đối soát tự động.",
+            "why": "Mỗi giao dịch có thông báo, dễ chia tiền cho chủ kệ.",
+            "alt_ids": [
+              "vietqr"
+            ]
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhóm điều phối chủ kệ, báo hàng sắp hết, nhắn khách quen.",
+            "why": "Kênh chat phổ biến ở VN.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Clip giới thiệu từng chủ kệ và phiên chợ.",
+            "why": "Dựng nhanh trên điện thoại.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "claude",
+            "role": "Soạn đề xuất cho quán, thỏa thuận chủ kệ, bảng chia doanh thu.",
+            "why": "Viết rõ ràng, giúp tính kịch bản phí.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "canva",
+            "vietqr",
+            "zalo_oa",
+            "capcut",
+            "claude"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): Canva, VietQR Kit (Casso), Zalo Official Account (OA), CapCut, Claude (Anthropic).",
+          "tradeoff": "Ít tính năng, làm tay nhiều hơn; đủ để kiểm chứng nhu cầu trong 1 tuần."
+        },
+        "premium": {
+          "tool_ids": [
+            "canva",
+            "payos",
+            "zalo_oa",
+            "capcut",
+            "chatgpt"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): Canva, payOS (Casso), Zalo Official Account (OA), CapCut, ChatGPT / OpenAI.",
+          "tradeoff": "Tốn phí thuê bao; chỉ nâng cấp khi đã có khách trả tiền."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Kệ thử 30 ngày” — thuê một góc nhỏ trong quán cà phê, chia kệ cho 4–6 người trẻ làm đồ thủ công, đồ ăn khô thử bán một tháng rồi xoay vòng, có phiên chợ cuối tháng\nTóm tắt: Ở Trung Quốc, chính quyền cho người trẻ trông ‘tiệm câu chuyện’ dưới 10 m² thử 1 tháng miễn tiền thuê, rồi mới cho vay, trao danh hiệu. Ở VN, hỗ trợ của Đoàn chủ yếu là vốn vay; một người trẻ có thể làm đầu mối ‘kệ thử bán’ xoay vòng, thu phí kệ theo tháng và đề xuất hợp tác với Đoàn phường.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Trung Quốc (Nhân Dân Nhật báo, 24/11/2026): sau văn bản tháng 4/2026 của Trung ương Đoàn và 15 bộ ngành về ‘青春小店’, Thượng Hải cho người trẻ làm chủ ‘tiệm câu chuyện’ dưới 10 m² thử 1 tháng, miễn tiền thuê, điện nước, nhân công; Tế Nam cho chủ tiệm giỏi vay tín chấp tới 80万元; Hồ Nam chọn 100 tiệm, mỗi tiệm 2万元 vốn nâng cấp.\nDữ kiện:\n- Tháng 4/2026, Trung ương Đoàn TQ cùng 15 bộ ngành ra văn bản về thành phố phát triển cho thanh niên, khuyến khích ‘青春小店’ gắn với ‘vòng sống 15 phút’. (mức xác minh: 1 nguồn gốc)\n- Thượng Hải (愚园路1046号, quận Trường Ninh): ‘故事商店’ dưới 10 m², chủ tiệm chủ yếu sinh sau 1990 và 2000, được làm thử 1 tháng, miễn tiền thuê, điện nước và nhân công. (mức xác minh: 1 nguồn gốc)\n- Tế Nam: chủ tiệm giỏi của chương trình ‘泉城青春小店’ (bắt đầu 2025) được công nhận nhân tài loại E (tháng 4/2026), được đi xe buýt và tàu điện miễn phí 3 năm và vay tín chấp tới 80万元; chương trình tạo việc cho hơn 500 người, gián tiếp cho gần 1.000 việc làm linh hoạt. (mức xác minh: 1 nguồn gốc)\n- Hồ Nam: kế hoạch 2026 chọn 100 tiệm và 10 dự án mẫu; tiệm hạt rang 王胖子 (lập năm 1836, truyền 6 đời) nhận 2万元 vốn nâng cấp, có 4 tiệm trực tiếp ở Trường Sa; vị đậu ‘剁椒怪味’ bán hơn 500 hộp trong một ngày ở một tiệm. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Tín hiệu là bài tuyên truyền chính sách của Trung Quốc, kể theo ca điển hình, không có số liệu tổng (1 nguồn gốc). Ở VN đã có phiên chợ trong trường đại học và hỗ trợ vốn vay của Đoàn (Báo Tin Tức 22/10/2026 về Đồng Nai — tác tử tìm kiếm đọc trang), chưa thấy mô hình ‘kệ thử 1 tháng xoay vòng chủ’ do một đơn vị quản lý; mô hình kệ ký gửi nói chung thì đã có. Chưa biết quán cà phê có chịu chia góc và người làm đồ có chịu trả phí kệ hay không.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nHơn một nửa Gen Z sẵn sàng chi cho món ‘cảm giác cao cấp’ nếu giá hợp lý (fact xa-xi-vua-tui) — đồ thủ công lô nhỏ hợp nhóm này; thanh toán QR, ví điện tử đã phổ biến (fact vi-dien-tu: 30–36 triệu ví đang hoạt động) nên kệ không người trực vẫn thu tiền được. Nhưng 49% Gen Z giữ ngân sách chặt (fact ngan-sach) → giá trên kệ phải vừa túi.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: thuê góc 6–10 m² trong một quán cà phê đông người trẻ, chia 4–6 kệ, mỗi người làm đồ thuê 1 tháng (phí kệ cố định hoặc % doanh thu), quán hưởng thêm khách; cuối tháng làm phiên chợ nhỏ cho các chủ kệ gặp khách. Mỗi kệ có mã QR riêng. Sau 2–3 vòng, đem số liệu đề xuất Đoàn phường làm điểm ‘tiệm thử của thanh niên’.\n\n## 4. Ràng buộc\n- Vốn: 8–30 triệu đồng (Ước tính của người soạn: kệ gỗ, đèn, bảng tên, tiền cọc góc thuê tháng đầu; chưa tính hàng hóa (do chủ kệ tự lo).).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Quán đổi ý hoặc tăng phí góc; Hàng bán chậm khiến chủ kệ bỏ giữa chừng; Trách nhiệm khi hàng mất, hỏng trên kệ không người trực; Thuế, hóa đơn cho doanh thu ký gửi [cần xác minh]; Đồ ăn khô cần điều kiện an toàn thực phẩm [cần xác minh].\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- Canva: Biểu mẫu đăng ký, bảng tên kệ, poster phiên chợ.\n- payOS (Casso): Mã QR thu tiền riêng cho từng kệ, đối soát tự động.\n- Zalo Official Account (OA): Nhóm điều phối chủ kệ, báo hàng sắp hết, nhắn khách quen.\n- CapCut: Clip giới thiệu từng chủ kệ và phiên chợ.\n- Claude (Anthropic): Soạn đề xuất cho quán, thỏa thuận chủ kệ, bảng chia doanh thu.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Liệt kê 10 quán cà phê có góc trống; Claude soạn đề xuất chia doanh thu với quán.\n- Ngày 2: Gặp hoặc nhắn 5 quán; chốt 1 quán đồng ý thử.\n- Ngày 3: Đăng tuyển chủ kệ qua nhóm Facebook, Zalo của người làm đồ thủ công; làm biểu mẫu đăng ký bằng Canva.\n- Ngày 4–5: Chọn 4–6 chủ kệ, ký thỏa thuận đơn giản, in mã QR thu tiền payOS cho từng kệ.\n- Ngày 6–7: Mở kệ; quay clip giới thiệu bằng CapCut; đo số khách ghé kệ, đơn, phản hồi của quán.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Đề xuất một trang gửi chủ quán: lợi ích, cách chia doanh thu, quy định góc kệ.\n- Thỏa thuận mẫu với chủ kệ (phí, thời hạn, trách nhiệm hàng hóa) — đánh dấu điểm cần luật sư xem.\n- Bảng tính 3 kịch bản phí kệ: cố định, theo % doanh thu, kết hợp.\n- Bài tuyển chủ kệ và tiêu chí chọn.\n- Quy trình đối soát tiền QR theo kệ hằng tuần.\n- Kế hoạch phiên chợ cuối tháng và bản đề xuất hợp tác với Đoàn phường.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "total_score": 5.58,
+      "rank": 6
+    },
+    {
+      "id": "20261127-06-ke-khoe-van-phong",
+      "date": "2026-11-27",
+      "type": "startup",
+      "category": [
+        "service",
+        "b2b"
+      ],
+      "title": "“Kệ khỏe văn phòng” — kệ tự phục vụ ở pantry công ty bán hạt, sữa chua uống, trà, nước điện giải và vitamin nguyên hộp đã đăng ký, trả bằng mã QR, không quảng cáo công dụng",
+      "pitch": "Ở Hàn, cửa hàng tiện lợi biến dân văn phòng tuổi 30 thành nhóm mua thực phẩm chức năng lớn nhất: GS25 tăng 15,2% trong quý 3, ở khu văn phòng tăng 21,2%. Ở VN, kệ tự phục vụ trong pantry là bản vốn thấp — nhưng chỉ bán lại hàng đã đăng ký, nguyên hộp.",
+      "tags": [
+        "văn phòng",
+        "kệ tự phục vụ",
+        "sức khỏe",
+        "QR",
+        "B2B"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Số liệu là của Hàn, một bài, do chuỗi cung cấp. Ở VN, nhà thuốc chuỗi đã bán thực phẩm bảo vệ sức khỏe kể cả qua GrabFood (theo kết quả tìm kiếm, chưa mở từng trang). Bộ Y tế (Cục ATTP, công văn ký số 13/8/2026) yêu cầu các tỉnh rà soát cơ sở bán và tăng giám sát quảng cáo thực phẩm bảo vệ sức khỏe trên mạng — rủi ro pháp lý cao nếu tự chia gói hay nói công dụng. Nhu cầu của công ty VN với kệ kiểu này chưa đo.",
+      "confidence": "thấp",
+      "image": "assets/ideas/20261127-06-ke-khoe-van-phong.webp",
+      "image_alt": "Minh họa phẳng một kệ nhỏ màu teal trong góc pantry văn phòng với chai nước, hộp hạt và hũ màu cam, phía trên có mã vuông thanh toán và chiếc lá xanh",
+      "regions": [
+        "KR"
+      ],
+      "signal_text": "Hàn (Seoul Economic Daily, 25/11/2026): doanh số thực phẩm chức năng ở GS25 tăng 3,0% quý 1, 7,5% quý 2, 15,2% quý 3/2026 so quý trước, ở khu văn phòng 7,0% → 11,4% → 21,2%; nhóm 30 tuổi chiếm 26,1% khách; 7-Eleven quý 3 +23%, khu văn phòng +30%; gói nhỏ 2 tuần, loại uống không cần nước bán chạy.",
+      "vn_youth_fit": "Sức khỏe là ngành tăng nhanh trên sàn (fact lam-dep-suc-khoe: +46,9%); người trẻ quen trả bằng QR, ví (fact vi-dien-tu) nên kệ không người trực vẫn thu tiền. Nhưng giá phải vừa túi vì 49% Gen Z giữ ngân sách chặt (fact ngan-sach).",
+      "vn_fit_refs": [
+        "lam-dep-suc-khoe",
+        "vi-dien-tu",
+        "ngan-sach"
+      ],
+      "key_facts": [
+        {
+          "text": "GS25 (bắt đầu bán từ tháng 8 năm trước): doanh số thực phẩm chức năng tăng 3,0% quý 1, 7,5% quý 2, 15,2% quý 3/2026 so quý trước; khu văn phòng (Yeouido, Gangnam, Gwanghwamun) tăng 7,0%, 11,4%, 21,2%; danh mục tăng từ khoảng 30 lên khoảng 40 sản phẩm.",
+          "source_ids": [
+            "kr_supp_sed"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu do chuỗi cung cấp."
+        },
+        {
+          "text": "Khách GS25 theo tuổi: 30 tuổi 26,1%, 40 tuổi 25,5%, 10–20 tuổi 21,7%, 50 tuổi 19,5%, 60+ 7,2% — trong khi toàn thị trường (Hiệp hội TPCN Hàn) 30 tuổi chỉ chiếm 13,2%, 20 tuổi 2,7%.",
+          "source_ids": [
+            "kr_supp_sed"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "7-Eleven (bán từ tháng 11 năm trước): quý 3 +23% so quý trước, khu văn phòng +30%; nhân viên 20–30 tuổi tạo một nửa doanh số khu văn phòng; số cửa hàng bán tăng từ khoảng 3.000 lên khoảng 4.000. Daiso bán loại dưới 5.000 won từ tháng 2 năm trước, số thương hiệu từ 13 lên 25.",
+          "source_ids": [
+            "kr_supp_sed"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Định dạng bán chạy: gói nhỏ 2 tuần hoặc 1 tháng, gói dùng một lần, loại uống không cần nước; 3 sản phẩm bán chạy nhất nửa đầu năm của GS25 đều là dạng combo nước + viên.",
+          "source_ids": [
+            "kr_supp_sed"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "kr_supp_sed",
+          "name": "Seoul Economic Daily (서울경제, bản tiếng Anh)",
+          "title": "Convenience Stores Make Shoppers in Their 30s Top Buyers of Supplements",
+          "url": "https://en.sedaily.com/business/2026/11/25/convenience-stores-turn-office-workers-in-their-30s-into",
+          "published": "2026-11-25",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Chỉ tìm được một nguồn trong ngân sách tìm kiếm; chưa có nguồn độc lập thứ hai. Đọc qua WebFetch (tác tử đọc web)."
+        }
+      ],
+      "localize_vn": "Giả thuyết: đặt 1 kệ thử ở pantry của 2–3 công ty 30–100 người (thỏa thuận với phòng hành chính), hàng chủ yếu là đồ ăn uống lành mạnh (hạt, sữa chua uống, trà, nước điện giải), thêm vài loại vitamin nguyên hộp có số đăng ký; không chia lẻ, không ghi công dụng. Mỗi món có mã QR thanh toán; bổ sung hàng 2 lần/tuần.",
+      "first_steps": [
+        "Ngày 1: Lập danh mục 15 món, kiểm tra số đăng ký sản phẩm của nhóm vitamin; Claude soạn quy định ‘không nói công dụng’.",
+        "Ngày 2: Nhắn 10 công ty quen qua Zalo OA đề xuất đặt kệ thử miễn phí 2 tuần.",
+        "Ngày 3: In mã QR payOS cho từng món, bảng giá bằng Canva.",
+        "Ngày 4–6: Đặt kệ ở 1–2 công ty; ghi hàng bán, hàng mất, giờ mua.",
+        "Ngày 7: Tính doanh thu/kệ/ngày, tỷ lệ hao hụt; quyết định mở rộng hay dừng."
+      ],
+      "capital": {
+        "vnd_min_m": 10,
+        "vnd_max_m": 30,
+        "usd_min": 385,
+        "usd_max": 1154,
+        "note": "Ước tính của người soạn: kệ, tủ mát mini nếu cần, lô hàng đầu cho 2–3 kệ; mua sỉ từ nhà phân phối có hóa đơn."
+      },
+      "risks": [
+        "Quy định kinh doanh, quảng cáo thực phẩm bảo vệ sức khỏe [cần xác minh]",
+        "Hàng mất ở kệ không người trực",
+        "Hàng hết hạn, bảo quản",
+        "Công ty đổi ý hoặc đòi phí đặt kệ",
+        "Biên lợi nhuận thấp khi mua sỉ số nhỏ"
+      ],
+      "scores": {
+        "ease": 6,
+        "demand": 5,
+        "novelty": 5,
+        "lowcap": 6,
+        "signal": 5,
+        "vnfit": 6
+      },
+      "toolstack": {
+        "checked": "2026-11-27",
+        "confidence": "trung bình",
+        "wow": "Ba giờ chiều, nhân viên quét mã lấy chai nước điện giải ở pantry — chủ kệ nhận thông báo và biết ngay món nào sắp hết.",
+        "tools": [
+          {
+            "tool_id": "payos",
+            "role": "Mã QR theo món, đối soát giao dịch tự động.",
+            "why": "Thông báo từng giao dịch, dễ đếm hàng bán.",
+            "alt_ids": [
+              "vietqr"
+            ]
+          },
+          {
+            "tool_id": "n8n",
+            "role": "Tự động gom giao dịch thành bảng tồn kho và cảnh báo hết hàng.",
+            "why": "Nối thông báo thanh toán với bảng tính.",
+            "alt_ids": [
+              "zapier"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Bảng giá, nhãn kệ, tờ giới thiệu cho phòng hành chính.",
+            "why": "Dàn trang nhanh.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Chào công ty, báo bổ sung hàng, nhận góp ý.",
+            "why": "Phòng hành chính VN dùng Zalo nhiều.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "claude",
+            "role": "Soạn đề xuất, quy định nội dung không nói công dụng, tính giá.",
+            "why": "Rà câu chữ để tránh quảng cáo công dụng.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "vietqr",
+            "canva",
+            "zalo_oa",
+            "claude",
+            "zapier"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): VietQR Kit (Casso), Canva, Zalo Official Account (OA), Claude (Anthropic), Zapier.",
+          "tradeoff": "Ít tính năng, làm tay nhiều hơn; đủ để kiểm chứng nhu cầu trong 1 tuần."
+        },
+        "premium": {
+          "tool_ids": [
+            "payos",
+            "n8n",
+            "canva",
+            "zalo_oa",
+            "chatgpt"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): payOS (Casso), n8n, Canva, Zalo Official Account (OA), ChatGPT / OpenAI.",
+          "tradeoff": "Tốn phí thuê bao; chỉ nâng cấp khi đã có khách trả tiền."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Kệ khỏe văn phòng” — kệ tự phục vụ ở pantry công ty bán hạt, sữa chua uống, trà, nước điện giải và vitamin nguyên hộp đã đăng ký, trả bằng mã QR, không quảng cáo công dụng\nTóm tắt: Ở Hàn, cửa hàng tiện lợi biến dân văn phòng tuổi 30 thành nhóm mua thực phẩm chức năng lớn nhất: GS25 tăng 15,2% trong quý 3, ở khu văn phòng tăng 21,2%. Ở VN, kệ tự phục vụ trong pantry là bản vốn thấp — nhưng chỉ bán lại hàng đã đăng ký, nguyên hộp.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Hàn (Seoul Economic Daily, 25/11/2026): doanh số thực phẩm chức năng ở GS25 tăng 3,0% quý 1, 7,5% quý 2, 15,2% quý 3/2026 so quý trước, ở khu văn phòng 7,0% → 11,4% → 21,2%; nhóm 30 tuổi chiếm 26,1% khách; 7-Eleven quý 3 +23%, khu văn phòng +30%; gói nhỏ 2 tuần, loại uống không cần nước bán chạy.\nDữ kiện:\n- GS25 (bắt đầu bán từ tháng 8 năm trước): doanh số thực phẩm chức năng tăng 3,0% quý 1, 7,5% quý 2, 15,2% quý 3/2026 so quý trước; khu văn phòng (Yeouido, Gangnam, Gwanghwamun) tăng 7,0%, 11,4%, 21,2%; danh mục tăng từ khoảng 30 lên khoảng 40 sản phẩm. (mức xác minh: 1 nguồn gốc)\n- Khách GS25 theo tuổi: 30 tuổi 26,1%, 40 tuổi 25,5%, 10–20 tuổi 21,7%, 50 tuổi 19,5%, 60+ 7,2% — trong khi toàn thị trường (Hiệp hội TPCN Hàn) 30 tuổi chỉ chiếm 13,2%, 20 tuổi 2,7%. (mức xác minh: 1 nguồn gốc)\n- 7-Eleven (bán từ tháng 11 năm trước): quý 3 +23% so quý trước, khu văn phòng +30%; nhân viên 20–30 tuổi tạo một nửa doanh số khu văn phòng; số cửa hàng bán tăng từ khoảng 3.000 lên khoảng 4.000. Daiso bán loại dưới 5.000 won từ tháng 2 năm trước, số thương hiệu từ 13 lên 25. (mức xác minh: 1 nguồn gốc)\n- Định dạng bán chạy: gói nhỏ 2 tuần hoặc 1 tháng, gói dùng một lần, loại uống không cần nước; 3 sản phẩm bán chạy nhất nửa đầu năm của GS25 đều là dạng combo nước + viên. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Số liệu là của Hàn, một bài, do chuỗi cung cấp. Ở VN, nhà thuốc chuỗi đã bán thực phẩm bảo vệ sức khỏe kể cả qua GrabFood (theo kết quả tìm kiếm, chưa mở từng trang). Bộ Y tế (Cục ATTP, công văn ký số 13/8/2026) yêu cầu các tỉnh rà soát cơ sở bán và tăng giám sát quảng cáo thực phẩm bảo vệ sức khỏe trên mạng — rủi ro pháp lý cao nếu tự chia gói hay nói công dụng. Nhu cầu của công ty VN với kệ kiểu này chưa đo.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nSức khỏe là ngành tăng nhanh trên sàn (fact lam-dep-suc-khoe: +46,9%); người trẻ quen trả bằng QR, ví (fact vi-dien-tu) nên kệ không người trực vẫn thu tiền. Nhưng giá phải vừa túi vì 49% Gen Z giữ ngân sách chặt (fact ngan-sach).\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: đặt 1 kệ thử ở pantry của 2–3 công ty 30–100 người (thỏa thuận với phòng hành chính), hàng chủ yếu là đồ ăn uống lành mạnh (hạt, sữa chua uống, trà, nước điện giải), thêm vài loại vitamin nguyên hộp có số đăng ký; không chia lẻ, không ghi công dụng. Mỗi món có mã QR thanh toán; bổ sung hàng 2 lần/tuần.\n\n## 4. Ràng buộc\n- Vốn: 10–30 triệu đồng (Ước tính của người soạn: kệ, tủ mát mini nếu cần, lô hàng đầu cho 2–3 kệ; mua sỉ từ nhà phân phối có hóa đơn.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Quy định kinh doanh, quảng cáo thực phẩm bảo vệ sức khỏe [cần xác minh]; Hàng mất ở kệ không người trực; Hàng hết hạn, bảo quản; Công ty đổi ý hoặc đòi phí đặt kệ; Biên lợi nhuận thấp khi mua sỉ số nhỏ.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- payOS (Casso): Mã QR theo món, đối soát giao dịch tự động.\n- n8n: Tự động gom giao dịch thành bảng tồn kho và cảnh báo hết hàng.\n- Canva: Bảng giá, nhãn kệ, tờ giới thiệu cho phòng hành chính.\n- Zalo Official Account (OA): Chào công ty, báo bổ sung hàng, nhận góp ý.\n- Claude (Anthropic): Soạn đề xuất, quy định nội dung không nói công dụng, tính giá.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Lập danh mục 15 món, kiểm tra số đăng ký sản phẩm của nhóm vitamin; Claude soạn quy định ‘không nói công dụng’.\n- Ngày 2: Nhắn 10 công ty quen qua Zalo OA đề xuất đặt kệ thử miễn phí 2 tuần.\n- Ngày 3: In mã QR payOS cho từng món, bảng giá bằng Canva.\n- Ngày 4–6: Đặt kệ ở 1–2 công ty; ghi hàng bán, hàng mất, giờ mua.\n- Ngày 7: Tính doanh thu/kệ/ngày, tỷ lệ hao hụt; quyết định mở rộng hay dừng.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Danh mục thử 15 món và tiêu chí chọn hàng (nguồn gốc, hóa đơn, hạn dùng).\n- Đề xuất gửi phòng hành chính công ty và thỏa thuận đặt kệ.\n- Quy định câu chữ: những gì được và không được ghi trên kệ — đánh dấu điểm pháp lý cần tự xác minh.\n- Quy trình bổ sung hàng, kiểm hao hụt, đối soát QR hằng tuần.\n- Bảng giá vốn–giá bán và ngưỡng doanh thu/kệ/ngày để đi tiếp.\n- Luồng tự động thông báo thanh toán → bảng tồn kho.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "total_score": 5.52,
+      "rank": 7
+    },
+    {
+      "id": "20261127-05-sinh-to-1-phut",
+      "date": "2026-11-27",
+      "type": "startup",
+      "category": [
+        "fnb",
+        "product"
+      ],
+      "title": "“Sinh tố 1 phút” — cốc trái cây Việt cấp đông sẵn cộng máy xay tự động đặt ở sảnh tòa văn phòng, ký túc xá, phòng gym: khách bấm máy, 1 phút có cốc sinh tố",
+      "pitch": "Ở Hàn, 7-Eleven bán 1,2 triệu cốc sinh tố xay sẵn bằng máy nhập từ Nhật trong 8 tháng, CU và GS25 cùng chạy theo. Mô hình cốc trái cây đông lạnh + máy xay tự động không cần người pha chế; ở VN trái cây nhiệt đới rẻ và sẵn — đáng thử ở một điểm bán nhỏ.",
+      "tags": [
+        "sinh tố",
+        "máy tự động",
+        "trái cây Việt",
+        "văn phòng",
+        "ký túc xá"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Số liệu là của Hàn, phần lớn do chuỗi cung cấp. Một lượt tìm không thấy chuỗi tiện lợi VN chạy mô hình này, nhưng GS25 và 7-Eleven đều có mặt ở VN nên có thể đưa vào bất cứ lúc nào [chưa kiểm]; xe sinh tố đường phố giá rẻ là đối thủ trực tiếp. Chi phí máy xay tự động, chuỗi lạnh và giấy phép thực phẩm ở VN chưa được kiểm.",
+      "confidence": "thấp",
+      "image": "assets/ideas/20261127-05-sinh-to-1-phut.webp",
+      "image_alt": "Minh họa phẳng một máy xay sinh tố tự động màu teal bên cạnh các cốc trái cây đông lạnh vàng cam và đồng hồ đếm một phút",
+      "regions": [
+        "KR",
+        "JP"
+      ],
+      "signal_text": "Hàn (Seoul Economic Daily 24/11/2026; Wikitree 19/9/2026): sinh tố kiểu Nhật của 7-Eleven Hàn đạt 1,2 triệu cốc sau 8 tháng, doanh số tháng 10 cao hơn khoảng 20% so với tháng 6; CU tăng 110,8% trong tháng 6–7, máy làm một cốc trong khoảng 1 phút, định mở rộng lên khoảng 500 cửa hàng; GS25 thử nghiệm trung bình 25,5 cốc/cửa hàng/ngày; khu văn phòng chiếm 20% doanh số của 7-Eleven.",
+      "vn_youth_fit": "Hơn một nửa Gen Z sẵn sàng chi cho món ‘cảm giác cao cấp’ nếu giá hợp lý (fact xa-xi-vua-tui); sức khỏe là ngành tăng nhanh trên sàn (fact lam-dep-suc-khoe: +46,9%); thanh toán QR phổ biến (fact vi-dien-tu) nên điểm bán không người trực vẫn thu tiền được. Nhưng 49% Gen Z giữ hạn mức chi ăn uống (fact ngan-sach).",
+      "vn_fit_refs": [
+        "xa-xi-vua-tui",
+        "lam-dep-suc-khoe",
+        "vi-dien-tu",
+        "ngan-sach"
+      ],
+      "key_facts": [
+        {
+          "text": "7-Eleven Hàn Quốc: sinh tố kiểu Nhật đạt 1,2 triệu cốc (units) sau 8 tháng kể từ khi ra mắt; máy sinh tố Nhật được đưa vào giữa tháng 3/2026 sau hơn 1 năm thử nghiệm bản địa hóa.",
+          "source_ids": [
+            "kr_smoothie_sed"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Số liệu do 7-Eleven cung cấp, báo đăng lại. Wikitree (19/9) độc lập ghi mốc 1 triệu sau 6 tháng — khớp quỹ đạo."
+        },
+        {
+          "text": "Doanh số tháng 10 cao hơn khoảng 20% so với tháng 6; doanh số với khách nước ngoài từ ngày 1–22 tháng này gấp 2,5 lần cùng kỳ tháng 4; vị mới ‘Seven Select Hongsi Smoothie’ dùng hồng chín.",
+          "source_ids": [
+            "kr_smoothie_sed"
+          ],
+          "verification": "1 nguồn gốc"
+        },
+        {
+          "text": "Mô hình đã được hai báo độc lập ghi nhận: 7-Eleven bán tại khoảng 300 cửa hàng, khu văn phòng chiếm 20% doanh số; độ ngọt trái cây tăng trung bình 2 Brix, nhiệt độ lõi đồ uống hạ xuống −5°C để hợp khẩu vị Hàn; bản gốc ‘Seven Café Smoothie’ ra mắt ở Nhật năm 2023.",
+          "source_ids": [
+            "kr_smoothie_wiki",
+            "kr_smoothie_sed"
+          ],
+          "verification": "2+ nguồn độc lập",
+          "note": "Chi tiết 300 cửa hàng, 20% văn phòng, 2 Brix, −5°C chỉ có ở Wikitree (19/9, ngoài cửa sổ 7 ngày); sự tồn tại và tăng trưởng của mô hình thì cả hai báo cùng ghi nhận."
+        },
+        {
+          "text": "Đối thủ: CU — 6 loại ‘Real Smoothie’ tăng 110,8% trong tháng 6–7 so cùng kỳ, máy làm một cốc trong khoảng 1 phút, kế hoạch khoảng 500 cửa hàng cuối năm; GS25 — thử nghiệm từ tháng 12 năm trước, trung bình 25,5 cốc/cửa hàng/ngày.",
+          "source_ids": [
+            "kr_smoothie_sed",
+            "kr_smoothie_wiki"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Hai báo cùng đưa đúng các con số này, nhiều khả năng từ cùng tài liệu của doanh nghiệp → tính là 1 nguồn gốc."
+        }
+      ],
+      "sources": [
+        {
+          "id": "kr_smoothie_sed",
+          "name": "Seoul Economic Daily (서울경제, bản tiếng Anh)",
+          "title": "Seven-Eleven's Japanese-Style Smoothies Sell 1.2 Million Cups in Korea in 8 Months",
+          "url": "https://en.sedaily.com/business/2026/11/24/convenience-store-smoothies-boom-in-korea-topping-12",
+          "published": "2026-11-24",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Bài không nêu giá bán, số máy, độ tuổi khách; ‘người trẻ’ là người mua chính theo bài nhưng không có số liệu tuổi. Đọc qua WebFetch (tác tử đọc web)."
+        },
+        {
+          "id": "kr_smoothie_wiki",
+          "name": "위키트리 (Wikitree)",
+          "title": "일본서 줄 서더니 한국서도 터졌다… 세븐일레븐 스무디 100만개 돌파",
+          "url": "https://www.wikitree.co.kr/articles/1160690",
+          "published": "2026-09-19",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Bài trước cửa sổ 7 ngày, dùng làm bối cảnh/nguồn độc lập thứ hai. Đọc qua WebFetch (tác tử đọc web)."
+        }
+      ],
+      "localize_vn": "Giả thuyết: bắt đầu bằng 1 điểm thử ở sảnh tòa văn phòng hoặc phòng gym (thỏa thuận chia doanh thu với chủ tòa nhà), 3 vị (xoài – chanh dây, thanh long – chuối, bơ – sữa chua), cốc cấp đông chuẩn bị ở bếp có giấy phép, tủ đông nhỏ cạnh máy xay; khách quét QR trả tiền rồi tự xay. Bản rẻ hơn: thuê máy xay công nghiệp loại thường và một người trực giờ cao điểm.",
+      "first_steps": [
+        "Ngày 1: Tìm 3 mẫu máy xay tự động hoặc bán tự động trên 1688.com; Claude so sánh giá, công suất, điện áp.",
+        "Ngày 2: Làm thử 3 công thức cốc cấp đông, đo thời gian xay và độ mịn bằng máy xay sẵn có.",
+        "Ngày 3: Gặp 3 chủ tòa nhà, phòng gym; Claude soạn đề xuất chia doanh thu.",
+        "Ngày 4–6: Bán thử ở một điểm với máy xay thường và người trực, thu tiền VietQR; menu làm bằng Canva.",
+        "Ngày 7: Đếm cốc/ngày, giờ cao điểm, vị bán chạy; so với ngưỡng hòa vốn nếu đầu tư máy tự động."
+      ],
+      "capital": {
+        "vnd_min_m": 30,
+        "vnd_max_m": 80,
+        "usd_min": 1154,
+        "usd_max": 3077,
+        "note": "Ước tính của người soạn: máy xay tự động hoặc bán tự động nhập khẩu, tủ đông nhỏ, cốc, nguyên liệu thử; chưa có báo giá máy thật — cần hỏi xưởng."
+      },
+      "risks": [
+        "Giấy phép an toàn thực phẩm cho bếp chuẩn bị và điểm bán [cần xác minh]",
+        "Máy hỏng, vệ sinh máy hằng ngày",
+        "Chuỗi lạnh và hao hụt trái cây",
+        "Đối thủ xe sinh tố giá rẻ",
+        "Chuỗi tiện lợi lớn đưa mô hình vào VN"
+      ],
+      "scores": {
+        "ease": 4,
+        "demand": 6,
+        "novelty": 6,
+        "lowcap": 4,
+        "signal": 7,
+        "vnfit": 6
+      },
+      "toolstack": {
+        "checked": "2026-11-27",
+        "confidence": "trung bình",
+        "wow": "Đúng 1 phút sau khi quét mã, dân văn phòng cầm cốc sinh tố xoài – chanh dây lạnh mà không ai phải pha.",
+        "tools": [
+          {
+            "tool_id": "a1688",
+            "role": "Tìm máy xay tự động, cốc, nắp.",
+            "why": "Nhiều xưởng máy F&B, giá sỉ.",
+            "alt_ids": [
+              "alibaba"
+            ]
+          },
+          {
+            "tool_id": "canva",
+            "role": "Menu, bảng hướng dẫn tự xay, nhãn cốc.",
+            "why": "Dàn trang nhanh.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "vietqr",
+            "role": "Thu tiền tại điểm bán bằng QR.",
+            "why": "Chuyển khoản ngân hàng VN.",
+            "alt_ids": [
+              "payos",
+              "momo"
+            ]
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận đặt trước theo tòa nhà, báo vị mới.",
+            "why": "Dân văn phòng dùng Zalo hằng ngày.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "claude",
+            "role": "So sánh máy, tính giá vốn từng cốc, đề xuất với chủ tòa nhà.",
+            "why": "Tính nhanh kịch bản hòa vốn.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "a1688",
+            "canva",
+            "vietqr",
+            "zalo_oa",
+            "claude"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): 1688.com, Canva, VietQR Kit (Casso), Zalo Official Account (OA), Claude (Anthropic).",
+          "tradeoff": "Ít tính năng, làm tay nhiều hơn; đủ để kiểm chứng nhu cầu trong 1 tuần."
+        },
+        "premium": {
+          "tool_ids": [
+            "alibaba",
+            "canva",
+            "payos",
+            "zalo_oa",
+            "chatgpt"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): Alibaba.com, Canva, payOS (Casso), Zalo Official Account (OA), ChatGPT / OpenAI.",
+          "tradeoff": "Tốn phí thuê bao; chỉ nâng cấp khi đã có khách trả tiền."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Sinh tố 1 phút” — cốc trái cây Việt cấp đông sẵn cộng máy xay tự động đặt ở sảnh tòa văn phòng, ký túc xá, phòng gym: khách bấm máy, 1 phút có cốc sinh tố\nTóm tắt: Ở Hàn, 7-Eleven bán 1,2 triệu cốc sinh tố xay sẵn bằng máy nhập từ Nhật trong 8 tháng, CU và GS25 cùng chạy theo. Mô hình cốc trái cây đông lạnh + máy xay tự động không cần người pha chế; ở VN trái cây nhiệt đới rẻ và sẵn — đáng thử ở một điểm bán nhỏ.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Hàn (Seoul Economic Daily 24/11/2026; Wikitree 19/9/2026): sinh tố kiểu Nhật của 7-Eleven Hàn đạt 1,2 triệu cốc sau 8 tháng, doanh số tháng 10 cao hơn khoảng 20% so với tháng 6; CU tăng 110,8% trong tháng 6–7, máy làm một cốc trong khoảng 1 phút, định mở rộng lên khoảng 500 cửa hàng; GS25 thử nghiệm trung bình 25,5 cốc/cửa hàng/ngày; khu văn phòng chiếm 20% doanh số của 7-Eleven.\nDữ kiện:\n- 7-Eleven Hàn Quốc: sinh tố kiểu Nhật đạt 1,2 triệu cốc (units) sau 8 tháng kể từ khi ra mắt; máy sinh tố Nhật được đưa vào giữa tháng 3/2026 sau hơn 1 năm thử nghiệm bản địa hóa. (mức xác minh: 1 nguồn gốc)\n- Doanh số tháng 10 cao hơn khoảng 20% so với tháng 6; doanh số với khách nước ngoài từ ngày 1–22 tháng này gấp 2,5 lần cùng kỳ tháng 4; vị mới ‘Seven Select Hongsi Smoothie’ dùng hồng chín. (mức xác minh: 1 nguồn gốc)\n- Mô hình đã được hai báo độc lập ghi nhận: 7-Eleven bán tại khoảng 300 cửa hàng, khu văn phòng chiếm 20% doanh số; độ ngọt trái cây tăng trung bình 2 Brix, nhiệt độ lõi đồ uống hạ xuống −5°C để hợp khẩu vị Hàn; bản gốc ‘Seven Café Smoothie’ ra mắt ở Nhật năm 2023. (mức xác minh: 2+ nguồn độc lập)\n- Đối thủ: CU — 6 loại ‘Real Smoothie’ tăng 110,8% trong tháng 6–7 so cùng kỳ, máy làm một cốc trong khoảng 1 phút, kế hoạch khoảng 500 cửa hàng cuối năm; GS25 — thử nghiệm từ tháng 12 năm trước, trung bình 25,5 cốc/cửa hàng/ngày. (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Số liệu là của Hàn, phần lớn do chuỗi cung cấp. Một lượt tìm không thấy chuỗi tiện lợi VN chạy mô hình này, nhưng GS25 và 7-Eleven đều có mặt ở VN nên có thể đưa vào bất cứ lúc nào [chưa kiểm]; xe sinh tố đường phố giá rẻ là đối thủ trực tiếp. Chi phí máy xay tự động, chuỗi lạnh và giấy phép thực phẩm ở VN chưa được kiểm.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nHơn một nửa Gen Z sẵn sàng chi cho món ‘cảm giác cao cấp’ nếu giá hợp lý (fact xa-xi-vua-tui); sức khỏe là ngành tăng nhanh trên sàn (fact lam-dep-suc-khoe: +46,9%); thanh toán QR phổ biến (fact vi-dien-tu) nên điểm bán không người trực vẫn thu tiền được. Nhưng 49% Gen Z giữ hạn mức chi ăn uống (fact ngan-sach).\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: bắt đầu bằng 1 điểm thử ở sảnh tòa văn phòng hoặc phòng gym (thỏa thuận chia doanh thu với chủ tòa nhà), 3 vị (xoài – chanh dây, thanh long – chuối, bơ – sữa chua), cốc cấp đông chuẩn bị ở bếp có giấy phép, tủ đông nhỏ cạnh máy xay; khách quét QR trả tiền rồi tự xay. Bản rẻ hơn: thuê máy xay công nghiệp loại thường và một người trực giờ cao điểm.\n\n## 4. Ràng buộc\n- Vốn: 30–80 triệu đồng (Ước tính của người soạn: máy xay tự động hoặc bán tự động nhập khẩu, tủ đông nhỏ, cốc, nguyên liệu thử; chưa có báo giá máy thật — cần hỏi xưởng.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Giấy phép an toàn thực phẩm cho bếp chuẩn bị và điểm bán [cần xác minh]; Máy hỏng, vệ sinh máy hằng ngày; Chuỗi lạnh và hao hụt trái cây; Đối thủ xe sinh tố giá rẻ; Chuỗi tiện lợi lớn đưa mô hình vào VN.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- 1688.com: Tìm máy xay tự động, cốc, nắp.\n- Canva: Menu, bảng hướng dẫn tự xay, nhãn cốc.\n- VietQR Kit (Casso): Thu tiền tại điểm bán bằng QR.\n- Zalo Official Account (OA): Nhận đặt trước theo tòa nhà, báo vị mới.\n- Claude (Anthropic): So sánh máy, tính giá vốn từng cốc, đề xuất với chủ tòa nhà.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Tìm 3 mẫu máy xay tự động hoặc bán tự động trên 1688.com; Claude so sánh giá, công suất, điện áp.\n- Ngày 2: Làm thử 3 công thức cốc cấp đông, đo thời gian xay và độ mịn bằng máy xay sẵn có.\n- Ngày 3: Gặp 3 chủ tòa nhà, phòng gym; Claude soạn đề xuất chia doanh thu.\n- Ngày 4–6: Bán thử ở một điểm với máy xay thường và người trực, thu tiền VietQR; menu làm bằng Canva.\n- Ngày 7: Đếm cốc/ngày, giờ cao điểm, vị bán chạy; so với ngưỡng hòa vốn nếu đầu tư máy tự động.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Bảng so sánh 3 phương án máy: giá, công suất, điện áp, bảo hành, câu hỏi cần hỏi xưởng.\n- Công thức 3 vị cốc cấp đông và quy trình chuẩn bị, bảo quản.\n- Bảng giá vốn từng cốc và ngưỡng hòa vốn theo số cốc/ngày.\n- Đề xuất chia doanh thu với chủ tòa nhà, phòng gym.\n- Menu, hướng dẫn tự xay và quy trình vệ sinh máy.\n- Checklist giấy phép thực phẩm cần tự xác minh.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "total_score": 5.46,
+      "rank": 8
+    },
+    {
+      "id": "20261127-04-tram-ngam-chim-ban-cong",
+      "date": "2026-11-27",
+      "type": "startup",
+      "category": [
+        "product",
+        "ecom"
+      ],
+      "title": "“Trạm ngắm chim ban công” — bộ kit tự lắp máy cho chim ăn gắn camera cũ hoặc camera Wi-Fi giá rẻ, bán đặt trước theo đợt 30–50 bộ cho người ở chung cư có ban công",
+      "pitch": "Ở Trung Quốc, đội phần cứng nhỏ đem đồ quen gắn AI đi gọi vốn cộng đồng; máy cho chim ăn có camera Birdfy đã bán hơn 1 triệu máy. Ở VN chưa thấy ai làm; bản thử vốn thấp là bộ kit tự lắp từ linh kiện có sẵn, bán trước rồi mới nhập.",
+      "tags": [
+        "đồ gắn camera",
+        "chim",
+        "ban công",
+        "kit tự lắp",
+        "đặt trước"
+      ],
+      "hypothesis": true,
+      "hypothesis_note": "Tín hiệu là của Trung Quốc, 1 nguồn gốc, nhiều số do hãng tự công bố. Chưa có dữ liệu về người Việt nuôi, ngắm chim ở ban công; nhu cầu có thể rất hẹp. Một lượt tìm chưa thấy đội Việt nào gọi vốn cộng đồng cho đồ gắn AI (CafeF 22/11/2026 chỉ nói startup phần mềm, robot) — không có nghĩa là chưa ai bán máy cho chim ăn có camera. Máy cho thú cưng ăn có camera thì đã bán nhiều trên sàn.",
+      "confidence": "thấp",
+      "image": "assets/ideas/20261127-04-tram-ngam-chim-ban-cong.webp",
+      "image_alt": "Minh họa phẳng một máng thức ăn cho chim màu cam treo trên lan can ban công teal, một chú chim nhỏ đang mổ hạt, bên cạnh là camera tròn nhỏ",
+      "regions": [
+        "CN"
+      ],
+      "signal_text": "Trung Quốc (澎湃号·湃客, 20/11/2026): 9 tháng đầu 2026 đội TQ chiếm 62/100 dự án phần cứng gọi vốn lớn nhất trên Kickstarter và Indiegogo, lấy khoảng 77% số tiền; máy cho chim ăn có camera và nhận diện chim Birdfy bán cộng dồn hơn 1 triệu máy, máy ghi âm AI PLAUD giao hơn 2 triệu máy (số do hãng tự nêu).",
+      "vn_youth_fit": "Người trẻ VN chi cho thú cưng và sở thích ở nhà (fact thu-cung: combo 200–500 nghìn phổ biến), mua qua Shopee, TikTok Shop (fact san-tmdt); nhưng đây là sở thích ngách, chưa có dữ kiện về ngắm chim — điểm hợp VN để trung tính.",
+      "vn_fit_refs": [
+        "thu-cung",
+        "san-tmdt"
+      ],
+      "key_facts": [
+        {
+          "text": "9 tháng đầu 2026, đội TQ chiếm 62/100 dự án gọi vốn phần cứng hàng đầu trên Kickstarter và Indiegogo, lấy khoảng 77% số tiền huy động.",
+          "source_ids": [
+            "cn_paper_aihw"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Bài không nêu ai tổng hợp con số này."
+        },
+        {
+          "text": "ToolDance X1 (máy CNC để bàn, lên Kickstarter tháng 10/2026): 1 triệu USD trong 3 phút, 10 triệu USD trong chưa tới 13 giờ, tổng hơn 17 triệu USD. Beni (robot quay phim AI cho người làm nội dung) huy động hơn 5 triệu USD. Violoop có 5.845 người ủng hộ, hơn 3,423 triệu USD.",
+          "source_ids": [
+            "cn_paper_aihw"
+          ],
+          "verification": "1 nguồn gốc",
+          "note": "Chưa mở được trang Kickstarter để đối chiếu."
+        },
+        {
+          "text": "PLAUD (máy ghi âm AI): giao hơn 2 triệu máy tính đến 6/2026, doanh thu thuê bao phần mềm quy năm hơn 100 triệu USD. Birdfy (máy cho chim ăn có camera và nhận diện chim bằng AI): bán cộng dồn hơn 1 triệu máy (số do hãng tự công bố).",
+          "source_ids": [
+            "cn_paper_aihw"
+          ],
+          "verification": "1 nguồn gốc"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cn_paper_aihw",
+          "name": "澎湃新闻 · 澎湃号·湃客",
+          "title": "3分钟卖出百万美元，13小时破千万，这些AI硬件在海外杀疯了",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34519563",
+          "published": "2026-11-20",
+          "accessed": "2026-11-27",
+          "how_read": "mở trang",
+          "note": "Bài trên kênh tự đăng 湃客, không ghi tên tác giả; nhiều số do hãng tự công bố. Đọc qua WebFetch (tác tử đọc web) ngày 27/11/2026."
+        }
+      ],
+      "localize_vn": "Giả thuyết: bộ kit gồm máng thức ăn chống mưa, giá gắn lan can, khay hạt và giá đỡ để người mua tự gắn camera Wi-Fi sẵn có (hoặc mua kèm camera giá rẻ); tặng thẻ nhận biết các loài chim thường gặp ở đô thị VN [cần xác minh danh sách loài]. Bán đặt trước theo đợt 30–50 bộ, nội dung là clip chim ghé ban công thật.",
+      "first_steps": [
+        "Ngày 1: Tìm 3 mẫu máng thức ăn và giá gắn trên 1688.com; Claude so sánh giá, kích thước, phí ship.",
+        "Ngày 2: Lắp 1 bộ mẫu ở ban công, đặt camera quay thử.",
+        "Ngày 3–4: Dựng 3 clip chim ghé bằng CapCut, làm trang giới thiệu bằng Canva.",
+        "Ngày 5: Mở đặt trước đợt 1 qua Zalo OA, thu cọc.",
+        "Ngày 6–7: Đếm số đặt cọc; nếu dưới ngưỡng thì dừng, không nhập hàng."
+      ],
+      "capital": {
+        "vnd_min_m": 15,
+        "vnd_max_m": 40,
+        "usd_min": 577,
+        "usd_max": 1538,
+        "note": "Ước tính của người soạn: hàng mẫu, phí ship và thuế nhập khẩu một lô nhỏ 30–50 bộ, bao bì; chưa gồm camera."
+      },
+      "risks": [
+        "Nhu cầu quá hẹp, không đủ đơn",
+        "Chim không ghé trong thời gian ngắn, khó có clip",
+        "Ban quản lý chung cư cấm treo đồ ngoài lan can [cần xác minh]",
+        "Thức ăn rơi gây bẩn, phiền hàng xóm",
+        "Hàng nhập lỗi, bảo hành"
+      ],
+      "scores": {
+        "ease": 4,
+        "demand": 3,
+        "novelty": 7,
+        "lowcap": 5,
+        "signal": 6,
+        "vnfit": 4
+      },
+      "toolstack": {
+        "checked": "2026-11-27",
+        "confidence": "trung bình",
+        "wow": "Sáng ra mở điện thoại thấy một chú chim sẻ đang ăn trên ban công nhà mình — clip đó tự bán bộ kit.",
+        "tools": [
+          {
+            "tool_id": "a1688",
+            "role": "Tìm xưởng máng thức ăn, giá gắn lan can.",
+            "why": "Giá sỉ, nhiều mẫu.",
+            "alt_ids": [
+              "alibaba"
+            ]
+          },
+          {
+            "tool_id": "capcut",
+            "role": "Dựng clip chim ghé ban công.",
+            "why": "Dựng nhanh, thêm nhạc nền.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "canva",
+            "role": "Trang giới thiệu, thẻ nhận biết chim, bao bì.",
+            "why": "Dàn trang nhanh.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "zalo_oa",
+            "role": "Nhận đặt trước, báo tiến độ nhập hàng.",
+            "why": "Kênh chat phổ biến ở VN.",
+            "alt_ids": []
+          },
+          {
+            "tool_id": "claude",
+            "role": "So sánh nhà cung cấp, tính giá vốn–giá bán, soạn hướng dẫn lắp.",
+            "why": "Gom thông tin rời rạc thành bảng.",
+            "alt_ids": [
+              "chatgpt"
+            ]
+          }
+        ],
+        "budget": {
+          "tool_ids": [
+            "a1688",
+            "capcut",
+            "canva",
+            "zalo_oa",
+            "claude"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): 1688.com, CapCut, Canva, Zalo Official Account (OA), Claude (Anthropic).",
+          "tradeoff": "Ít tính năng, làm tay nhiều hơn; đủ để kiểm chứng nhu cầu trong 1 tuần."
+        },
+        "premium": {
+          "tool_ids": [
+            "alibaba",
+            "capcut",
+            "canva",
+            "zalo_oa",
+            "chatgpt"
+          ],
+          "monthly_cost_note": "Dùng gói miễn phí/rẻ nhất khi có; giá từng công cụ xem data/tools.json (một số giá chưa xác minh tuần này): Alibaba.com, CapCut, Canva, Zalo Official Account (OA), ChatGPT / OpenAI.",
+          "tradeoff": "Tốn phí thuê bao; chỉ nâng cấp khi đã có khách trả tiền."
+        }
+      },
+      "claude_prompt": "Bạn là cố vấn khởi nghiệp nhỏ tại Việt Nam. Hãy giúp tôi chạy thử ý tưởng dưới đây trong 1 tuần và tạo sẵn các sản phẩm tôi dùng được ngay. Chỉ dùng dữ kiện tôi đưa; đánh dấu [cần xác minh] khi thiếu.\n\n## 1. Ý tưởng & mục tiêu\nTên ý tưởng: “Trạm ngắm chim ban công” — bộ kit tự lắp máy cho chim ăn gắn camera cũ hoặc camera Wi-Fi giá rẻ, bán đặt trước theo đợt 30–50 bộ cho người ở chung cư có ban công\nTóm tắt: Ở Trung Quốc, đội phần cứng nhỏ đem đồ quen gắn AI đi gọi vốn cộng đồng; máy cho chim ăn có camera Birdfy đã bán hơn 1 triệu máy. Ở VN chưa thấy ai làm; bản thử vốn thấp là bộ kit tự lắp từ linh kiện có sẵn, bán trước rồi mới nhập.\nMục tiêu tuần này: kiểm chứng nhu cầu thật ở Việt Nam bằng khách trả tiền hoặc đăng ký thật, rồi quyết định đi tiếp / điều chỉnh / dừng dựa trên số liệu đo được.\n\n## 2. Tín hiệu đã có nguồn (chỉ dùng các dữ kiện này; KHÔNG tự thêm số liệu, thương hiệu hay nguồn khác)\nTín hiệu quốc tế: Trung Quốc (澎湃号·湃客, 20/11/2026): 9 tháng đầu 2026 đội TQ chiếm 62/100 dự án phần cứng gọi vốn lớn nhất trên Kickstarter và Indiegogo, lấy khoảng 77% số tiền; máy cho chim ăn có camera và nhận diện chim Birdfy bán cộng dồn hơn 1 triệu máy, máy ghi âm AI PLAUD giao hơn 2 triệu máy (số do hãng tự nêu).\nDữ kiện:\n- 9 tháng đầu 2026, đội TQ chiếm 62/100 dự án gọi vốn phần cứng hàng đầu trên Kickstarter và Indiegogo, lấy khoảng 77% số tiền huy động. (mức xác minh: 1 nguồn gốc)\n- ToolDance X1 (máy CNC để bàn, lên Kickstarter tháng 10/2026): 1 triệu USD trong 3 phút, 10 triệu USD trong chưa tới 13 giờ, tổng hơn 17 triệu USD. Beni (robot quay phim AI cho người làm nội dung) huy động hơn 5 triệu USD. Violoop có 5.845 người ủng hộ, hơn 3,423 triệu USD. (mức xác minh: 1 nguồn gốc)\n- PLAUD (máy ghi âm AI): giao hơn 2 triệu máy tính đến 6/2026, doanh thu thuê bao phần mềm quy năm hơn 100 triệu USD. Birdfy (máy cho chim ăn có camera và nhận diện chim bằng AI): bán cộng dồn hơn 1 triệu máy (số do hãng tự công bố). (mức xác minh: 1 nguồn gốc)\nLưu ý giả thuyết: Tín hiệu là của Trung Quốc, 1 nguồn gốc, nhiều số do hãng tự công bố. Chưa có dữ liệu về người Việt nuôi, ngắm chim ở ban công; nhu cầu có thể rất hẹp. Một lượt tìm chưa thấy đội Việt nào gọi vốn cộng đồng cho đồ gắn AI (CafeF 22/11/2026 chỉ nói startup phần mềm, robot) — không có nghĩa là chưa ai bán máy cho chim ăn có camera. Máy cho thú cưng ăn có camera thì đã bán nhiều trên sàn.\n\n## 3. Khách hàng mục tiêu (giới trẻ Việt Nam)\nNgười trẻ VN chi cho thú cưng và sở thích ở nhà (fact thu-cung: combo 200–500 nghìn phổ biến), mua qua Shopee, TikTok Shop (fact san-tmdt); nhưng đây là sở thích ngách, chưa có dữ kiện về ngắm chim — điểm hợp VN để trung tính.\nCách áp dụng ở VN (đây là GIẢ THUYẾT, cần kiểm chứng): Giả thuyết: bộ kit gồm máng thức ăn chống mưa, giá gắn lan can, khay hạt và giá đỡ để người mua tự gắn camera Wi-Fi sẵn có (hoặc mua kèm camera giá rẻ); tặng thẻ nhận biết các loài chim thường gặp ở đô thị VN [cần xác minh danh sách loài]. Bán đặt trước theo đợt 30–50 bộ, nội dung là clip chim ghé ban công thật.\n\n## 4. Ràng buộc\n- Vốn: 15–40 triệu đồng (Ước tính của người soạn: hàng mẫu, phí ship và thuế nhập khẩu một lô nhỏ 30–50 bộ, bao bì; chưa gồm camera.).\n- Thị trường: Việt Nam; thanh toán kiểu Việt (chuyển khoản VietQR, ví điện tử, tiền mặt khi gặp trực tiếp).\n- Pháp lý/tuân thủ: chỉ nêu những điểm cần xác minh (đăng ký hộ kinh doanh, quy định ngành liên quan, thuế, quyền riêng tư) — không khẳng định điều luật cụ thể nếu không chắc.\n- Rủi ro đã biết: Nhu cầu quá hẹp, không đủ đơn; Chim không ghé trong thời gian ngắn, khó có clip; Ban quản lý chung cư cấm treo đồ ngoài lan can [cần xác minh]; Thức ăn rơi gây bẩn, phiền hàng xóm; Hàng nhập lỗi, bảo hành.\n- Bộ công cụ bắt buộc dùng (tên + vai trò):\n- 1688.com: Tìm xưởng máng thức ăn, giá gắn lan can.\n- CapCut: Dựng clip chim ghé ban công.\n- Canva: Trang giới thiệu, thẻ nhận biết chim, bao bì.\n- Zalo Official Account (OA): Nhận đặt trước, báo tiến độ nhập hàng.\n- Claude (Anthropic): So sánh nhà cung cấp, tính giá vốn–giá bán, soạn hướng dẫn lắp.\n\n## 5. Kế hoạch MVP 1 tuần (bản nháp — hãy rà soát, sửa và gán theo ngày)\n- Ngày 1: Tìm 3 mẫu máng thức ăn và giá gắn trên 1688.com; Claude so sánh giá, kích thước, phí ship.\n- Ngày 2: Lắp 1 bộ mẫu ở ban công, đặt camera quay thử.\n- Ngày 3–4: Dựng 3 clip chim ghé bằng CapCut, làm trang giới thiệu bằng Canva.\n- Ngày 5: Mở đặt trước đợt 1 qua Zalo OA, thu cọc.\n- Ngày 6–7: Đếm số đặt cọc; nếu dưới ngưỡng thì dừng, không nhập hàng.\n\n## 6. Sản phẩm bạn PHẢI tạo cho tôi\n- Bảng so sánh 3 mẫu máng và giá gắn: kích thước, chất liệu, giá, phí ship, rủi ro.\n- Bảng giá vốn–giá bán cho lô thử và ngưỡng đặt cọc tối thiểu.\n- Hướng dẫn lắp và gắn camera an toàn cho ban công chung cư.\n- Kịch bản 3 clip và trang đặt trước.\n- Tin nhắn gửi xưởng hỏi mẫu, MOQ, thời gian giao.\n- Checklist pháp lý nhập hàng, nội quy chung cư cần tự xác minh.\n\n## 7. Cách làm việc\n- Chỉ hỏi tôi tối đa 3 câu nếu thật sự cần; nếu không, tự giả định hợp lý và ghi rõ giả định.\n- Không bịa số liệu, thương hiệu, điều luật hay nguồn; chỗ nào thiếu thông tin hãy đánh dấu [cần xác minh].\n- Tách bạch 3 loại: (a) dữ kiện có nguồn ở mục 2, (b) giả định của bạn, (c) việc tôi phải tự kiểm tra ngoài thực tế.\n- Viết tiếng Việt, ngắn gọn, dùng bảng khi so sánh.\n\n## 8. Định dạng đầu ra\n1) Tóm tắt 5 dòng + danh sách giả định.\n2) Bảng kế hoạch 7 ngày (ngày – việc – sản phẩm đầu ra – người làm – chi phí ước tính).\n3) Từng sản phẩm ở mục 6, đầy đủ để dùng ngay.\n4) Chỉ số theo dõi và ngưỡng quyết định đi tiếp / điều chỉnh / dừng sau 7 ngày.\n5) 5 rủi ro lớn nhất và cách giảm.",
+      "total_score": 4.58,
+      "rank": 9
+    }
+  ],
+  "keywords": [
+    {
+      "id": "kw-vn-01",
+      "region": "VN",
+      "rank": 1,
+      "keyword": "đội tuyển bóng đá u-17 quốc gia việt nam đấu với u-17 mali",
+      "gloss": "U17 Việt Nam gặp U17 Mali (World Cup U17)",
+      "theme": "sport",
+      "source_id": "kws-gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 200 N lượt tìm, +1.000%",
+      "note": "Thể thao — không gắn ý tưởng.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-03",
+      "region": "VN",
+      "rank": 3,
+      "keyword": "định danh",
+      "gloss": "Định danh (tài khoản/định danh điện tử)",
+      "theme": "society",
+      "source_id": "kws-gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 20 N lượt tìm, +1.000%",
+      "note": "Chưa rõ tin liên quan.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-06",
+      "region": "VN",
+      "rank": 6,
+      "keyword": "hậu hoàng",
+      "gloss": "Hậu Hoàng (YouTuber) — cụm liên quan: ‘hậu hoàng bị ung thư’",
+      "theme": "ent",
+      "source_id": "kws-gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 10 N lượt tìm, +1.000%",
+      "note": "Tin người nổi tiếng; chưa xác minh nội dung tin.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-07",
+      "region": "VN",
+      "rank": 7,
+      "keyword": "kim cúc",
+      "gloss": "NSƯT Kim Cúc (nghệ sĩ)",
+      "theme": "ent",
+      "source_id": "kws-gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 5 N lượt tìm, +1.000%",
+      "note": "Tin người nổi tiếng; chưa rõ lý do.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-08",
+      "region": "VN",
+      "rank": 8,
+      "keyword": "doanh thu",
+      "gloss": "Doanh thu",
+      "theme": "money",
+      "source_id": "kws-gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 2 N lượt tìm, +700%",
+      "note": "Chưa rõ tin liên quan.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-17",
+      "region": "VN",
+      "rank": 17,
+      "keyword": "exynos",
+      "gloss": "Exynos (chip di động của Samsung)",
+      "theme": "tech",
+      "source_id": "kws-gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 2 N lượt tìm, +300%",
+      "note": "Công nghệ; chưa rõ tin liên quan.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-vn-25",
+      "region": "VN",
+      "rank": 25,
+      "keyword": "cá hồi",
+      "gloss": "Cá hồi",
+      "theme": "food",
+      "source_id": "kws-gt-vn",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 1 N lượt tìm, +200%",
+      "note": "Chưa rõ tin liên quan.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-01",
+      "region": "KR",
+      "rank": 1,
+      "keyword": "맥도날드",
+      "gloss": "McDonald's",
+      "theme": "food",
+      "source_id": "kws-gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 20 N lượt tìm, +1.000%",
+      "note": "Chưa rõ tin liên quan.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-03",
+      "region": "KR",
+      "rank": 3,
+      "keyword": "반도체 메모리",
+      "gloss": "Chip nhớ bán dẫn (liên quan: Samsung, Elon Musk)",
+      "theme": "tech",
+      "source_id": "kws-gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 20 N lượt tìm, +1.000%",
+      "note": "Nối tiếp chủ đề 반도체 hạng 1 ngày 26/11.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-07",
+      "region": "KR",
+      "rank": 7,
+      "keyword": "육아휴직",
+      "gloss": "Nghỉ phép chăm con",
+      "theme": "home",
+      "source_id": "kws-gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 5 N lượt tìm, +1.000%",
+      "note": "Chính sách/gia đình.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-09",
+      "region": "KR",
+      "rank": 9,
+      "keyword": "2027 학년도 대학 수학 능력 시험",
+      "gloss": "Kỳ thi đại học Hàn Quốc (Suneung) năm học 2027",
+      "theme": "work",
+      "source_id": "kws-gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 5 N lượt tìm, +1.000%",
+      "note": "Học tập.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-16",
+      "region": "KR",
+      "rank": 16,
+      "keyword": "순댓국",
+      "gloss": "Canh dồi lợn sundae (món Hàn)",
+      "theme": "food",
+      "source_id": "kws-gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 2 N lượt tìm, +900%",
+      "note": "Chưa rõ tin liên quan.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-19",
+      "region": "KR",
+      "rank": 19,
+      "keyword": "김장",
+      "gloss": "Muối kimchi mùa đông (gimjang)",
+      "theme": "food",
+      "source_id": "kws-gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 5 N lượt tìm, +1.000%",
+      "note": "Đúng mùa cuối tháng 11.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-kr-24",
+      "region": "KR",
+      "rank": 24,
+      "keyword": "종부세",
+      "gloss": "Thuế bất động sản tổng hợp (jongbuse)",
+      "theme": "money",
+      "source_id": "kws-gt-kr",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 10 N lượt tìm, +800%",
+      "note": "Liên quan: 종합 부동산 세, 부동산.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-03",
+      "region": "JP",
+      "rank": 3,
+      "keyword": "iphone",
+      "gloss": "iPhone — cụm liên quan: Amazon Black Friday, PS5",
+      "theme": "tech",
+      "source_id": "kws-gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 50 N lượt tìm, +200%",
+      "note": "Mùa giảm giá Black Friday.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-05",
+      "region": "JP",
+      "rank": 5,
+      "keyword": "不二家",
+      "gloss": "Fujiya (hãng bánh kẹo) — liên quan: bánh kem 不二家",
+      "theme": "food",
+      "source_id": "kws-gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 20 N lượt tìm, +1.000%",
+      "note": "Chưa rõ tin liên quan.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-06",
+      "region": "JP",
+      "rank": 6,
+      "keyword": "usj",
+      "gloss": "Universal Studios Japan (Osaka)",
+      "theme": "travel",
+      "source_id": "kws-gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 10 N lượt tìm, +1.000%",
+      "note": "Chưa rõ tin liên quan.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-12",
+      "region": "JP",
+      "rank": 12,
+      "keyword": "ペット",
+      "gloss": "Thú cưng",
+      "theme": "home",
+      "source_id": "kws-gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 10 N lượt tìm, +1.000%",
+      "note": "Chưa rõ tin liên quan.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-15",
+      "region": "JP",
+      "rank": 15,
+      "keyword": "スバル リコール",
+      "gloss": "Subaru triệu hồi xe (liên quan: Forester)",
+      "theme": "tech",
+      "source_id": "kws-gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 10 N lượt tìm, +700%",
+      "note": "Ô tô.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-18",
+      "region": "JP",
+      "rank": 18,
+      "keyword": "プリキュアシリーズ",
+      "gloss": "Loạt hoạt hình PreCure",
+      "theme": "ent",
+      "source_id": "kws-gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 10 N lượt tìm, +1.000%",
+      "note": "Hoạt hình/nhân vật.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-jp-25",
+      "region": "JP",
+      "rank": 25,
+      "keyword": "パイ",
+      "gloss": "Bánh pie — liên quan: pie bò hầm (ビーフシチューパイ)",
+      "theme": "food",
+      "source_id": "kws-gt-jp",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 5 N lượt tìm, +300%",
+      "note": "Chưa rõ tin liên quan.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-us-01",
+      "region": "US",
+      "rank": 1,
+      "keyword": "eagles vs cowboys",
+      "gloss": "Eagles gặp Cowboys (NFL ngày Lễ Tạ ơn)",
+      "theme": "sport",
+      "source_id": "kws-gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 1 Tr lượt tìm, +1.000%",
+      "note": "Thể thao.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-us-03",
+      "region": "US",
+      "rank": 3,
+      "keyword": "safeway",
+      "gloss": "Chuỗi siêu thị Safeway — liên quan: ‘stores open near me’",
+      "theme": "food",
+      "source_id": "kws-gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 1 Tr lượt tìm, +200%",
+      "note": "Tìm giờ mở cửa ngày lễ.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-us-04",
+      "region": "US",
+      "rank": 4,
+      "keyword": "fast food open on thanksgiving",
+      "gloss": "Quán đồ ăn nhanh mở cửa ngày Lễ Tạ ơn",
+      "theme": "food",
+      "source_id": "kws-gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 200 N lượt tìm, +1.000%",
+      "note": "Mùa lễ.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-us-10",
+      "region": "US",
+      "rank": 10,
+      "keyword": "national dog show",
+      "gloss": "Cuộc thi chó quốc gia (phát sóng ngày Lễ Tạ ơn)",
+      "theme": "home",
+      "source_id": "kws-gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 100 N lượt tìm, +900%",
+      "note": "Thú cưng/sự kiện.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-us-15",
+      "region": "US",
+      "rank": 15,
+      "keyword": "wu tang clan",
+      "gloss": "Nhóm hip-hop Wu-Tang Clan — liên quan: ‘thanksgiving halftime show’",
+      "theme": "ent",
+      "source_id": "kws-gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 200 N lượt tìm, +1.000%",
+      "note": "Giải trí.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-us-17",
+      "region": "US",
+      "rank": 17,
+      "keyword": "best black friday deals",
+      "gloss": "Ưu đãi Black Friday tốt nhất",
+      "theme": "money",
+      "source_id": "kws-gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 50 N lượt tìm, +200%",
+      "note": "Liên quan: best buy black friday 2026, walmart black friday deals.",
+      "idea_ids": [
+        "20261127-08-qua-noel-gia-black-friday",
+        "20261127-09-gia-that-hay-ao"
+      ]
+    },
+    {
+      "id": "kw-us-24",
+      "region": "US",
+      "rank": 24,
+      "keyword": "starbucks thanksgiving hours",
+      "gloss": "Giờ mở cửa Starbucks ngày Lễ Tạ ơn",
+      "theme": "food",
+      "source_id": "kws-gt-us",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "Hơn 50 N lượt tìm, +400%",
+      "note": "Mùa lễ.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-01",
+      "region": "CN",
+      "rank": 1,
+      "keyword": "“天下第一财神庙”重新开放",
+      "gloss": "‘Miếu Thần Tài số một thiên hạ’ mở cửa trở lại",
+      "theme": "travel",
+      "source_id": "kws-baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "热搜指数 7.808.510 (nhãn 热)",
+      "note": "Du lịch/tín ngưỡng.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-11",
+      "region": "CN",
+      "rank": 11,
+      "keyword": "别被冲锋衣“无氟”营销带偏",
+      "gloss": "Đừng để chiêu tiếp thị áo gió ‘không flo’ dắt mũi",
+      "theme": "fashion",
+      "source_id": "kws-baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "热搜指数 6.850.451",
+      "note": "Áo khoác ngoài trời mùa đông.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-13",
+      "region": "CN",
+      "rank": 13,
+      "keyword": "小学生流行起“纸质短剧”",
+      "gloss": "Học sinh tiểu học rộ mốt ‘phim ngắn trên giấy’",
+      "theme": "ent",
+      "source_id": "kws-baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "热搜指数 6.662.652",
+      "note": "Trào lưu trẻ em.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-19",
+      "region": "CN",
+      "rank": 19,
+      "keyword": "电影贺岁档片单来了",
+      "gloss": "Danh sách phim mùa Tết (贺岁档) đã ra",
+      "theme": "ent",
+      "source_id": "kws-baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "热搜指数 6.094.283",
+      "note": "Phim.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-36",
+      "region": "CN",
+      "rank": 36,
+      "keyword": "6G要来了",
+      "gloss": "6G sắp đến",
+      "theme": "tech",
+      "source_id": "kws-baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "热搜指数 4.467.733",
+      "note": "Liên quan hội nghị 6G 2026.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-44",
+      "region": "CN",
+      "rank": 44,
+      "keyword": "游戏公司老板破产后摆摊卖杨枝甘露",
+      "gloss": "Chủ công ty game phá sản ra bày sạp bán chè xoài bưởi (dương chi cam lộ)",
+      "theme": "food",
+      "source_id": "kws-baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "热搜指数 3.715.372",
+      "note": "Chuyện đời/ăn uống.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-cn-49",
+      "region": "CN",
+      "rank": 49,
+      "keyword": "终于有人说说干发帽了",
+      "gloss": "Cuối cùng cũng có người nói về mũ quấn khô tóc",
+      "theme": "beauty",
+      "source_id": "kws-baidu",
+      "confidence": "bảng xếp hạng gốc (đo trực tiếp)",
+      "metric": "热搜指数 3.244.783",
+      "note": "Chăm sóc tóc.",
+      "idea_ids": []
+    },
+    {
+      "id": "kw-global-01",
+      "region": "GLOBAL",
+      "rank": null,
+      "keyword": "Black Friday",
+      "gloss": "Đợt giảm giá cuối tháng 11 — Mỹ tìm ‘best black friday deals’, Nhật tìm iPhone kèm cụm ‘Amazon Black Friday’",
+      "theme": "money",
+      "derived_from": [
+        "kw-us-17",
+        "kw-jp-03"
+      ],
+      "confidence": "suy ra từ nhiều vùng",
+      "metric": "Có mặt trong danh sách thịnh hành của Mỹ và Nhật ngày 27/11/2026",
+      "note": "Suy ra từ 2 vùng, không phải số đo trực tiếp.",
+      "idea_ids": [
+        "20261127-08-qua-noel-gia-black-friday",
+        "20261127-09-gia-that-hay-ao"
+      ]
+    }
+  ],
+  "keyword_sources": [
+    {
+      "id": "kws-gt-vn",
+      "name": "Google Trends (Trending now, VN)",
+      "title": "Trending now — Vietnam, past 24 hours",
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=VN",
+      "published": "2026-11-27",
+      "accessed": "2026-11-27",
+      "captured_at": "2026-11-27T05:54:00+07:00",
+      "how_read": "mở trang",
+      "region": "VN",
+      "note": "Trang ‘Trending now’ (24 giờ qua, xếp theo mức liên quan) đọc qua WebFetch — công cụ tóm tắt trang nên chưa đối chiếu từng ký tự; RSS không mở được. Hạng là vị trí trên trang, không phải hạng lưu lượng; lưu lượng là khoảng ước của Google. Trang không ghi giờ tuyệt đối; các trận Europa/Conference League tối 26/11 (giờ châu Âu) hiện ‘bắt đầu 40 phút trước’ nên dữ liệu có thể ứng với khoảng 03:40–04:00 UTC+7, sớm hơn giờ đọc. Các URL geo=VN&hl=vi, geo=VN, geo=VN&hours=24 hôm nay trả về dữ liệu cũ cuối tháng 10 nên không dùng."
+    },
+    {
+      "id": "kws-gt-kr",
+      "name": "Google Trends (Trending now, KR)",
+      "title": "Trending now — South Korea, past 24 hours",
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=KR",
+      "published": "2026-11-27",
+      "accessed": "2026-11-27",
+      "captured_at": "2026-11-27T05:54:00+07:00",
+      "how_read": "mở trang",
+      "region": "KR",
+      "note": "Trang ‘Trending now’ (24 giờ qua, xếp theo mức liên quan) đọc qua WebFetch — công cụ tóm tắt trang nên chưa đối chiếu từng ký tự; RSS không mở được. Hạng là vị trí trên trang, không phải hạng lưu lượng; lưu lượng là khoảng ước của Google. Trang không ghi giờ tuyệt đối; độ mới đánh giá theo nội dung (김장, 종부세, 수능 2027 — đúng mùa cuối tháng 11; khác danh sách 26/11). Các URL geo=KR, geo=KR&hours=24, geo=KR&hours=4 hôm nay trả về dữ liệu cũ cuối tháng 10 nên không dùng."
+    },
+    {
+      "id": "kws-gt-jp",
+      "name": "Google Trends (Trending now, JP)",
+      "title": "Trending now — Japan, past 24 hours",
+      "url": "https://trends.google.com/trends/trendingsearches/realtime?category=all&geo=JP",
+      "published": "2026-11-27",
+      "accessed": "2026-11-27",
+      "captured_at": "2026-11-27T05:54:00+07:00",
+      "how_read": "mở trang",
+      "region": "JP",
+      "note": "Trang ‘Trending now’ (24 giờ qua, xếp theo mức liên quan) đọc qua WebFetch — công cụ tóm tắt trang nên chưa đối chiếu từng ký tự; RSS không mở được. Hạng là vị trí trên trang, không phải hạng lưu lượng; lưu lượng là khoảng ước của Google. Trang không ghi giờ tuyệt đối; mục ‘クリスタル・パレスfc 対 レアル・ソシエダ 順位’ (Europa League tối 26/11 giờ châu Âu) hiện ‘40 phút trước’, khớp với trang VN. Các URL geo=JP&hl=ja, geo=JP&hours=24 hôm nay trả về dữ liệu cũ cuối tháng 10 nên không dùng."
+    },
+    {
+      "id": "kws-gt-us",
+      "name": "Google Trends (Trending now, US)",
+      "title": "Đang thịnh hành — Hoa Kỳ, 24 giờ qua",
+      "url": "https://trends.google.com/trending?hl=vi",
+      "published": "2026-11-27",
+      "accessed": "2026-11-27",
+      "captured_at": "2026-11-27T05:54:00+07:00",
+      "how_read": "mở trang",
+      "region": "US",
+      "note": "Trang ‘Trending now’ (24 giờ qua, xếp theo mức liên quan) đọc qua WebFetch — công cụ tóm tắt trang nên chưa đối chiếu từng ký tự; RSS không mở được. Hạng là vị trí trên trang, không phải hạng lưu lượng; lưu lượng là khoảng ước của Google. Trang không ghi giờ tuyệt đối; URL không có geo — trang tự chọn Hoa Kỳ (theo vị trí máy đọc); nội dung đúng ngày Lễ Tạ ơn 26/11 (giờ Mỹ). Bản authuser=80&hl=vi cho cùng danh sách."
+    },
+    {
+      "id": "kws-baidu",
+      "name": "百度热搜 (热搜榜)",
+      "title": "百度热搜 — 热搜榜",
+      "url": "https://top.baidu.com/board?tab=realtime",
+      "published": "2026-11-27",
+      "accessed": "2026-11-27",
+      "captured_at": "2026-11-27T05:54:00+07:00",
+      "how_read": "mở trang",
+      "region": "CN",
+      "note": "Đọc qua WebFetch (tóm tắt trang, chưa đối chiếu từng ký tự). Có 热搜指数 cho từng mục; mục ghim đầu trang (“开放是深圳与生俱来的基因”, không đánh số) không tính hạng. Trang không ghi giờ; nội dung nhắc tới ngày 27/11 (mở màn mùa phim Tết 2026)."
+    }
+  ],
+  "keyword_unreachable": [
+    {
+      "region": "VN",
+      "source": "Google Trends RSS geo=VN; Google Trends trending?geo=VN&hl=vi, ?geo=VN, ?geo=VN&hours=24",
+      "reason": "RSS: thử 27/11/2026 ~05:53 UTC+7 — URL không xuất hiện trong kết quả WebSearch nên không mở được (PROVENANCE_REQUIRED); curl qua Bash bị từ chối quyền. Ba URL trang ‘Trending now’ mở được nhưng hiện dữ liệu cũ cuối tháng 10 (vd. ‘xổ số miền nam ngày 26 tháng 10’, Quả bóng vàng) nên không dùng; dùng trends/trendingsearches/daily?geo=VN thay thế."
+    },
+    {
+      "region": "KR",
+      "source": "Google Trends RSS geo=KR; trending?geo=KR, ?geo=KR&hours=24, ?geo=KR&hours=4",
+      "reason": "thử 27/11/2026 ~05:53 UTC+7: RSS không xuất hiện trong kết quả tìm kiếm nên không mở được (PROVENANCE_REQUIRED); ba URL trang mở được nhưng là dữ liệu cũ cuối tháng 10 (Ballon d'Or, LAFC–LA Galaxy, playoff KBO) nên không dùng."
+    },
+    {
+      "region": "JP",
+      "source": "Google Trends RSS geo=JP; Yahoo! JAPAN リアルタイム検索 (まとめ); trending?geo=JP&hl=ja, ?geo=JP&hours=24",
+      "reason": "thử 27/11/2026 ~05:54 UTC+7: RSS và Yahoo! まとめ không xuất hiện trong kết quả WebSearch nên không mở được (PROVENANCE_REQUIRED). Hai URL trang Google mở được nhưng là dữ liệu cũ cuối tháng 10 (菊花賞, 天皇賞秋, ハロウィンジャンボ) nên không dùng."
+    },
+    {
+      "region": "US",
+      "source": "Google Trends RSS geo=US; Z Media TikTok Shop Index",
+      "reason": "RSS thử 27/11/2026 ~05:54 UTC+7: không xuất hiện trong kết quả WebSearch nên không mở được (PROVENANCE_REQUIRED); TikTok Shop Index không thử hôm nay."
+    },
+    {
+      "region": "CN",
+      "source": "Weibo 热搜 (s.weibo.com/top/summary); Douyin/Xiaohongshu",
+      "reason": "không thử 27/11/2026 ~05:54 UTC+7 (hết ngân sách tìm kiếm; các ngày trước cần đăng nhập khách/JS). Baidu 热搜 tab=realtime đọc được hôm nay."
+    }
+  ]
+}

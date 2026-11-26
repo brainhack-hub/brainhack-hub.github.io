@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-26",
-  "latest": "2026-11-26",
+  "updated": "2026-11-27",
+  "latest": "2026-11-27",
   "days": [
+    {
+      "date": "2026-11-27",
+      "file": "2026-11-27.json",
+      "headline": "TQ: ‘AI siêu sáng tạo’ thành nghề, chính quyền ươm ‘tiệm thanh xuân’, quà thiết thực lên ngôi; Hàn: sinh tố máy 1 phút ở cửa hàng tiện lợi, dân văn phòng tuổi 30 mua thực phẩm chức năng; Mỹ: ThredUp live đồ cũ từ kho, AI mua hộ lộ mặt trái — 9 ý tưởng",
+      "idea_count": 9,
+      "trend_count": 9,
+      "keyword_count": 36,
+      "top": {
+        "title": "“Quà thiết thực có thiệp” — gói quà Noel, Tết 2027 kiểu ‘trả hộ một tháng internet, nạp tiền điện thoại hoặc hộp nhu yếu phẩm năm mới’ kèm thiệp thiết kế hoặc video chúc qua Zalo",
+        "total_score": 6.54
+      }
+    },
     {
       "date": "2026-11-26",
       "file": "2026-11-26.json",
