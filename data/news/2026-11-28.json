@@ -1,0 +1,673 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T07:36:00+07:00",
+  "headline": "Đọc báo 28/11/2026: OpenAI kiện ngược Apple, Taisei soạn kế hoạch thi công bằng AI trong 10 phút, LH đưa AI an toàn vào 128 gói thầu",
+  "digest": [
+    {
+      "title": "Cuộc chiến pháp lý của các hãng AI lớn",
+      "text": "OpenAI kiện ngược Apple, cáo buộc đánh cắp bí mật và gây sức ép nhà cung cấp; 42 tổng chưởng lý phản đối Character.AI đấu giá chat riêng tư của hơn 21 triệu tài khoản; New York cấm đồ chơi chatbot AI cho trẻ 5 năm.",
+      "item_ids": [
+        "n-20261128-01-openai-kien-nguoc-apple",
+        "n-20261128-02-character-ai-dau-gia-chat",
+        "n-20261128-03-new-york-cam-do-choi-ai"
+      ]
+    },
+    {
+      "title": "AI soạn hồ sơ và giữ kinh nghiệm thi công ở Nhật",
+      "text": "Taisei dùng VLM soạn nháp kế hoạch thi công tổng thể trong khoảng 10 phút (28 giờ còn khoảng 4 giờ); Nishimatsu nối BIM với trợ lý AI để kỹ sư trẻ hỏi kinh nghiệm chỉ huy trưởng; hệ thống lập tiến độ bằng AI của Arent vào NETIS.",
+      "item_ids": [
+        "n-20261128-07-taisei-ai-ke-hoach-thi-cong",
+        "n-20261128-08-nishimatsu-edgelab-bim-ai",
+        "n-20261128-09-arent-procolla-netis"
+      ]
+    },
+    {
+      "title": "Chủ đầu tư và hợp đồng: AI phải đi vào quy trình",
+      "text": "LH (Hàn) chạy AI an toàn ở 128 gói thầu, xử lý 802 tình huống; pbctoday nhắc kết quả AI kiểm tra phải thành chỉ thị theo NEC/JCT; quét hiện trạng trước khi đóng trần làm bằng chứng ‘Golden Thread’.",
+      "item_ids": [
+        "n-20261128-10-lh-ai-an-toan-128-cong-truong",
+        "n-20261128-11-pbctoday-ai-kiem-tra-du-an",
+        "n-20261128-12-pbctoday-reality-capture-golden-thread"
+      ]
+    },
+    {
+      "title": "Chuỗi cung ứng & giá thép",
+      "text": "P&G cắt 20–30% nhân sự cung ứng đến 2030 nhờ tự động hóa; thép cây Thượng Hải 3.075 NDT/tấn, than cốc +4,18%; Mỹ sơ bộ kết luận thép mạ gia công ở Indonesia từ thép VN không lẩn tránh thuế; phế liệu công trình thành dữ liệu mua hàng.",
+      "item_ids": [
+        "n-20261128-15-pg-cat-giam-cung-ung",
+        "n-20261128-16-gia-thep-27-11",
+        "n-20261128-17-thep-viet-indonesia-lan-tranh-thue",
+        "n-20261128-13-woodchuck-thung-rac-cong-trinh"
+      ]
+    },
+    {
+      "title": "BĐS Việt Nam: đất Thủ Thiêm hạ nhiệt, luật cải tạo chung cư cũ",
+      "text": "Lô 3-9 Thủ Thiêm trúng 1.772 tỷ, chỉ bằng khoảng 1/3 giá 2021, ba lô khác ế; từ 1/7/2027 bồi thường cải tạo chung cư cũ theo hệ số K; NOXH Dương Nội 34,28 triệu/m²; công đoàn ngành đặt mục tiêu 65% lao động dùng nền tảng số.",
+      "item_ids": [
+        "n-20261128-18-thu-thiem-lo-3-9",
+        "n-20261128-19-cai-tao-chung-cu-cu-2027",
+        "n-20261128-20-noxh-duong-noi-34-trieu",
+        "n-20261128-14-cong-doan-xay-dung-cong-nghe"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "n-20261128-01-openai-kien-nguoc-apple",
+      "title": "OpenAI countersues Apple over allegations of stealing trade secrets",
+      "title_vi": "OpenAI kiện ngược Apple, cáo buộc Apple đánh cắp bí mật kinh doanh và gây sức ép lên nhà cung cấp",
+      "source": {
+        "name": "CBS News",
+        "kind": "báo điện tử"
+      },
+      "url": "https://www.cbsnews.com/news/openai-countersues-apple-trade-secrets-lawsuit/",
+      "published": "2026-11-27T16:18:00-05:00",
+      "time_known": true,
+      "date_basis": "datePublished (JSON-LD) của trang bài",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "OpenAI nộp đơn kiện ngược Apple tại tòa liên bang Bắc California, đáp lại vụ Apple kiện OpenAI và hai cựu nhân sự Apple (Tang Tan, Chang Liu) về bí mật kinh doanh liên quan mảng thiết bị io mà OpenAI mua năm 2025. Theo 9to5Mac (dẫn Financial Times), OpenAI cáo buộc Apple gây sức ép lên nhà cung cấp để họ không làm việc với OpenAI; Apple bác bỏ. CBS ghi vụ Apple kiện được nộp tháng 6, còn 9to5Mac ghi tháng 7 — hai nguồn lệch nhau.",
+      "why_it_matters": "Cuộc chiến phần cứng AI giữa OpenAI và Apple kéo cả chuỗi cung ứng thiết bị vào tranh chấp — đáng theo dõi với nhà cung cấp linh kiện ở châu Á.",
+      "tags": [
+        "OpenAI",
+        "Apple",
+        "kiện tụng",
+        "bí mật kinh doanh",
+        "chuỗi cung ứng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28",
+      "note": "Đối chiếu với 9to5Mac (27/11): https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/"
+    },
+    {
+      "id": "n-20261128-02-character-ai-dau-gia-chat",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "title_vi": "42 tổng chưởng lý bang phản đối Character.AI đem đấu giá dữ liệu trò chuyện riêng tư của người dùng trong vụ phá sản",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "published": "2026-11-25T17:35:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Character.AI nộp đơn phá sản Chapter 11 hồi tháng 10 và định bán tài sản, gồm dữ liệu của hơn 21 triệu tài khoản, trong đó khoảng 2,1 triệu tài khoản trẻ vị thành niên. 42 tổng chưởng lý bang phản đối, cho rằng nhật ký trò chuyện riêng tư không được bán như tài sản; một bên mua là công ty mới lập ngày 13/11, phiên đấu giá dự kiến 1/12.",
+      "why_it_matters": "Dữ liệu hội thoại với chatbot đang trở thành ‘tài sản’ khi công ty AI phá sản — rủi ro quyền riêng tư khi doanh nghiệp đưa dữ liệu lên dịch vụ AI bên thứ ba.",
+      "tags": [
+        "Character.AI",
+        "phá sản",
+        "quyền riêng tư",
+        "dữ liệu",
+        "chatbot"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28"
+    },
+    {
+      "id": "n-20261128-03-new-york-cam-do-choi-ai",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "title_vi": "New York cấm bán đồ chơi có chatbot AI cho trẻ em trong 5 năm",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "published": "2026-11-25T18:11:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Thống đốc New York ký luật cấm bán đồ chơi tích hợp chatbot AI cho trẻ em trong 5 năm, có hiệu lực 90 ngày sau khi ký; New York là bang thứ hai sau California. Bài nhắc các lo ngại về đồ chơi AI nói chuyện không phù hợp với trẻ và thu thập dữ liệu.",
+      "why_it_matters": "Sản phẩm AI cho trẻ em đang bị siết ở Mỹ — ý tưởng kinh doanh liên quan trẻ em nên tránh chatbot trò chuyện tự do.",
+      "tags": [
+        "đồ chơi AI",
+        "trẻ em",
+        "New York",
+        "luật",
+        "chatbot"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28",
+      "idea_ids": [
+        "20261128-05-tranh-con-thanh-tuong"
+      ]
+    },
+    {
+      "id": "n-20261128-04-anthropic-tang-11",
+      "title": "Anthropic Surges 11% In Best Day Since IPO Boom",
+      "title_vi": "Cổ phiếu Anthropic tăng 11%, phiên tốt nhất kể từ đợt sốt IPO",
+      "source": {
+        "name": "Forbes (qua Yahoo Finance)",
+        "kind": "báo tài chính"
+      },
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-surges-11-best-day-184457287.html",
+      "published": "2026-11-27T13:44:00-05:00",
+      "time_known": true,
+      "date_basis": "Giờ ghi trên trang bài (EST)",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "Cổ phiếu Anthropic đóng cửa 91,88 USD, tăng 11% — phiên tốt nhất kể từ khi niêm yết, vẫn trên giá IPO 83 USD nhưng dưới đỉnh 115 USD. Bài nhắc đợt bán riêng lẻ cổ phiếu không biểu quyết trị giá 26 tỷ USD; CEO Dario Amodei gọi một bài viết của Axios là ‘vô lý’. Chỉ số Nasdaq-100 tăng 2,6% cùng phiên.",
+      "why_it_matters": "Định giá các hãng AI lớn biến động mạnh — ảnh hưởng chi phí và độ ổn định dịch vụ AI mà doanh nghiệp đang dùng.",
+      "tags": [
+        "Anthropic",
+        "cổ phiếu",
+        "IPO",
+        "AI"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28"
+    },
+    {
+      "id": "n-20261128-05-tencent-hy3d-36",
+      "title": "Tencent launches Hy3D 3.6 for professional 3D asset generation",
+      "title_vi": "Tencent ra Hy3D 3.6 tạo mô hình 3D chuyên nghiệp, có 5 lượt tạo miễn phí mỗi ngày",
+      "source": {
+        "name": "TechNode",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://technode.com/2026/11/27/tencent-launches-hy3d-3-6-for-professional-3d-asset-generation/",
+      "published": "2026-11-27T13:44:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_toan_cau",
+      "region": "CN",
+      "summary_vi": "Tencent ra mô hình tạo tài sản 3D Hy3D 3.6, nhắm tới mô hình chi tiết cao cho game, thiết kế nhân vật, sản phẩm. Mô hình dùng được qua API trên Tencent Cloud (Token Hub) và dịch vụ sáng tạo Hunyuan 3D, nơi người dùng có 5 lượt tạo miễn phí mỗi ngày.",
+      "why_it_matters": "Công cụ AI 3D của TQ ngày càng rẻ — có thể dùng dựng mô hình sản phẩm, nội thất, mẫu trưng bày nhanh.",
+      "tags": [
+        "Tencent",
+        "Hunyuan",
+        "AI 3D",
+        "mô hình 3D"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28",
+      "idea_ids": [
+        "20261128-05-tranh-con-thanh-tuong"
+      ]
+    },
+    {
+      "id": "n-20261128-06-chatgpt-gop-chat-work",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "title_vi": "OpenAI gộp chế độ Chat và Work của ChatGPT, dùng chung hạn mức — người dùng nặng có thể chạm giới hạn sớm hơn",
+      "source": {
+        "name": "TechCrunch",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "published": "2026-11-25T20:03:00+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_toan_cau",
+      "region": "US",
+      "summary_vi": "OpenAI gộp hai chế độ Chat và Work của ChatGPT, dùng chung một bộ đếm hạn mức; chế độ Instant vẫn không giới hạn. Việc triển khai rộng sẽ diễn ra trong tháng 12; trước đó Anthropic cũng gộp Claude với Cowork vào tháng 9.",
+      "why_it_matters": "Hạn mức dùng AI thay đổi ảnh hưởng chi phí và quy trình của đội dùng ChatGPT cho công việc — nên theo dõi khi mua gói doanh nghiệp.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "hạn mức",
+        "gói dịch vụ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28"
+    },
+    {
+      "id": "n-20261128-07-taisei-ai-ke-hoach-thi-cong",
+      "title": "大成建設が施工計画書をAIで10分作成｜作業時間を約85%削減",
+      "title_vi": "Taisei dùng AI soạn bản nháp ‘kế hoạch thi công tổng thể’ trong khoảng 10 phút, giảm khoảng 85% thời gian",
+      "source": {
+        "name": "Conshift",
+        "kind": "trang tin ngành xây dựng"
+      },
+      "url": "https://conshift.net/2026/11/27/post-1949/",
+      "published": "2026-11-27T08:05:00+09:00",
+      "time_known": true,
+      "date_basis": "Giờ ghi trên trang bài (JST)",
+      "topic": "ai_xd",
+      "region": "JP",
+      "summary_vi": "Taisei phát triển hệ thống dùng mô hình thị giác–ngôn ngữ (VLM) đọc bản vẽ, hồ sơ để soạn bản nháp kế hoạch thi công tổng thể trong khoảng 10 phút; công việc trước mất khoảng 28 giờ nay còn khoảng 4 giờ (giảm khoảng 85%). Hồ sơ này bắt buộc theo Luật Kinh doanh Xây dựng với công trình từ 5 triệu yên, gồm 14 mục chuẩn và có thể dài hơn 500 trang.",
+      "why_it_matters": "Hồ sơ biện pháp thi công là việc tốn công của nhà thầu — có thể tham khảo khi đánh giá năng lực số hóa của tổng thầu và yêu cầu nộp hồ sơ nhanh hơn.",
+      "tags": [
+        "Taisei",
+        "kế hoạch thi công",
+        "VLM",
+        "tự động hóa hồ sơ"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28",
+      "note": "Nikken Times có bài cùng sự kiện nhưng chỉ đọc được đoạn trích."
+    },
+    {
+      "id": "n-20261128-08-nishimatsu-edgelab-bim-ai",
+      "title": "BIMに蓄積した所長の気付きをAIでノウハウ化、現場横断で活用　西松建設とEdgeLabが実証",
+      "title_vi": "Nishimatsu và EdgeLab thử nghiệm AI biến ghi chú của chỉ huy trưởng trên BIM thành kho kinh nghiệm dùng chung cho các công trường",
+      "source": {
+        "name": "BUILT (ITmedia)",
+        "kind": "báo ngành xây dựng"
+      },
+      "url": "https://built.itmedia.co.jp/bt/articles/2611/27/news081.html",
+      "published": "2026-11-27",
+      "time_known": false,
+      "date_basis": "Ngày trong URL và datePublished (không rõ múi giờ)",
+      "topic": "ai_xd",
+      "region": "JP",
+      "summary_vi": "Nishimatsu Construction và EdgeLab (công bố 26/11) nối Autodesk Forma với trợ lý AI ‘たっくんAI’: các ghi chú của chỉ huy trưởng gắn trên mô hình BIM được AI gom thành kinh nghiệm, kỹ sư trẻ ở công trường khác hỏi qua chat để biết cách xử lý và lý do. Chỉ huy trưởng không phải nhập thêm; AI còn đọc kế hoạch thi công để gợi ý kinh nghiệm liên quan. EdgeLab sẽ trình diễn tại JAPAN BUILD 2–4/12.",
+      "why_it_matters": "Giữ kinh nghiệm của kỹ sư lâu năm là bài toán chung; cách gắn tri thức vào BIM có thể áp dụng khi chủ đầu tư yêu cầu mô hình BIM bàn giao.",
+      "tags": [
+        "Nishimatsu",
+        "BIM",
+        "Autodesk Forma",
+        "tri thức",
+        "AI agent"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28"
+    },
+    {
+      "id": "n-20261128-09-arent-procolla-netis",
+      "title": "Arentの「GENBA Dock 工程管理（PROCOLLA）」が国土交通省の新技術データベース「NETIS」に登録",
+      "title_vi": "Hệ thống lập tiến độ bằng AI tạo sinh của Arent được đưa vào cơ sở dữ liệu công nghệ mới NETIS của Bộ Đất đai Nhật",
+      "source": {
+        "name": "PR TIMES (thông cáo Arent)",
+        "kind": "thông cáo doanh nghiệp"
+      },
+      "url": "https://prtimes.jp/main/html/rd/p/000000175.000063436.html",
+      "published": "2026-11-26T08:00:00+09:00",
+      "time_known": true,
+      "date_basis": "Giờ ghi trên trang thông cáo",
+      "topic": "ai_xd",
+      "region": "JP",
+      "summary_vi": "Arent thông báo ‘GENBA Dock 工程管理 (PROCOLLA)’ — hệ thống dùng AI tạo sinh để lập bảng tiến độ — đã được đăng ký vào NETIS (cơ sở dữ liệu công nghệ mới của Bộ Đất đai, Hạ tầng, Giao thông và Du lịch Nhật) ngày 12/11/2026. Công ty muốn mở rộng dùng trong công trình công, nơi dùng công nghệ NETIS có thể được cộng điểm đánh giá.",
+      "why_it_matters": "Nhật dùng cơ sở dữ liệu công nghệ mới để khuyến khích nhà thầu dùng AI lập tiến độ — gợi ý cách chủ đầu tư có thể chấm điểm năng lực số khi đấu thầu.",
+      "tags": [
+        "Arent",
+        "tiến độ",
+        "NETIS",
+        "AI tạo sinh"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28"
+    },
+    {
+      "id": "n-20261128-10-lh-ai-an-toan-128-cong-truong",
+      "title": "LH, 건설현장 128개 공구에 AI 안전관리 도입…순찰로봇도 선보여",
+      "title_vi": "Tổng công ty Đất và Nhà Hàn Quốc (LH) đưa AI giám sát an toàn vào 128 gói thầu, ghi nhận xử lý 802 tình huống nguy hiểm",
+      "source": {
+        "name": "나이스경제 (Nice Economy)",
+        "kind": "báo kinh tế"
+      },
+      "url": "https://www.niceeconomy.co.kr/news/articleView.html?idxno=92034",
+      "published": "2026-11-26T17:06:50+09:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "KR",
+      "summary_vi": "LH áp dụng hệ thống ‘늘봄 A-Eye’ (camera CCTV + cảm biến IoT, AI phát hiện không đội mũ, ngã, cháy, nguy cơ kẹp với máy) cho 128 gói thầu, xử lý 802 tình huống nguy hiểm thực; LH tự công bố tỷ lệ phát hiện đúng 96,6% (4.084/4.228) nhưng báo ghi chưa rõ cách tính. LH muốn mở rộng tới khoảng 300 công trường đến 10/2027; ở Jeonbuk, số lần phát hiện không đội mũ giảm từ khoảng 180 xuống 18 mỗi tháng.",
+      "why_it_matters": "Chủ đầu tư công ở Hàn đang tự triển khai AI an toàn trên toàn danh mục dự án — mô hình có thể tham khảo khi đặt yêu cầu an toàn cho tổng thầu.",
+      "tags": [
+        "LH",
+        "an toàn lao động",
+        "CCTV AI",
+        "Hàn Quốc"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28",
+      "note": "Cùng triển lãm KINTEX đã đưa ngày 27/11, nhưng tin này về hệ thống AI an toàn của chủ đầu tư LH."
+    },
+    {
+      "id": "n-20261128-11-pbctoday-ai-kiem-tra-du-an",
+      "title": "AI construction project checks: The value is in finishing the job",
+      "title_vi": "AI kiểm tra dự án xây dựng: giá trị nằm ở việc ‘làm đến nơi’, không chỉ phát hiện lỗi",
+      "source": {
+        "name": "Planning, BIM & Construction Today (pbctoday)",
+        "kind": "báo ngành xây dựng (Anh)"
+      },
+      "url": "https://www.pbctoday.co.uk/news/digital-construction-news/construction-software-news/ai-construction-project-checks-value-in-finishing-job/168021/",
+      "published": "2026-11-26T08:23:04+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Bài bình luận cho rằng AI kiểm tra hồ sơ/thiết kế chỉ có giá trị khi lỗi được xử lý tới cùng: ví dụ AI phát hiện hố ga bị dời 2 m nhưng không ai ra chỉ thị thay đổi. Tác giả nhắc khung IMI và khái niệm ‘confabulation’ (AI bịa) của NIST, đề nghị gắn kết quả AI vào quy trình chỉ thị theo hợp đồng NEC/JCT.",
+      "why_it_matters": "Nhắc đội hợp đồng: kết quả kiểm tra của AI phải đi vào quy trình chỉ thị thay đổi theo hợp đồng mới có giá trị pháp lý.",
+      "tags": [
+        "kiểm tra thiết kế",
+        "AI",
+        "hợp đồng NEC/JCT",
+        "quản lý thay đổi"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "ý kiến",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28"
+    },
+    {
+      "id": "n-20261128-12-pbctoday-reality-capture-golden-thread",
+      "title": "Can reality capture strengthen the Golden Thread?",
+      "title_vi": "Quét hiện trạng (reality capture) có giúp ‘sợi chỉ vàng’ thông tin an toàn công trình ở Anh?",
+      "source": {
+        "name": "Planning, BIM & Construction Today (pbctoday)",
+        "kind": "báo ngành xây dựng (Anh)"
+      },
+      "url": "https://www.pbctoday.co.uk/news/digital-construction-news/can-reality-capture-strengthen-the-golden-thread/168047/",
+      "published": "2026-11-27T09:00:44+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "EU",
+      "summary_vi": "Bài viết về Luật An toàn Công trình (Building Safety Act) của Anh: yêu cầu ‘Golden Thread’ lưu thông tin an toàn suốt vòng đời. Tác giả đề xuất quét/ghi hình hiện trạng ở các mốc then chốt như trước khi đóng trần để có bằng chứng thi công đúng, phục vụ kiểm tra và bàn giao.",
+      "why_it_matters": "Chụp/quét trước khi đóng trần là cách rẻ để lưu bằng chứng chất lượng phần khuất — áp dụng được cho nghiệm thu MEP.",
+      "tags": [
+        "reality capture",
+        "Golden Thread",
+        "Anh",
+        "nghiệm thu"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "ý kiến",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28"
+    },
+    {
+      "id": "n-20261128-13-woodchuck-thung-rac-cong-trinh",
+      "title": "Jobsite Dumpster Analysis Reveals Construction Inefficiencies",
+      "title_vi": "Phân tích thùng rác công trình cho thấy lỗi mua hàng: đặt thừa, hàng hư khi giao, bao bì quá nhiều",
+      "source": {
+        "name": "For Construction Pros (bài của Woodchuck.ai)",
+        "kind": "báo ngành xây dựng"
+      },
+      "url": "https://www.forconstructionpros.com/equipment/worksite/article/22978654/woodchuckai-jobsite-dumpster-analysis-reveals-construction-inefficiencies",
+      "published": "2026-11-26",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài",
+      "topic": "ai_xd",
+      "region": "US",
+      "summary_vi": "Bài do Woodchuck.ai viết: dùng camera AI và theo dõi rác thải, nội dung thùng rác công trình trở thành dữ liệu mua hàng — lộ ra các mẫu lặp lại như đặt thừa, hàng giao bị hư, quy cách vật liệu không khớp, bao bì thừa. Nhà thầu có thể dùng dữ liệu này để chỉnh cách đặt hàng, yêu cầu nhà cung cấp đổi đóng gói, cải thiện lưu kho và dự toán.",
+      "why_it_matters": "Góc nhìn mới cho đội mua hàng: phế liệu là dữ liệu về hao hụt và lỗi đặt hàng. Đây là quan điểm của nhà cung cấp, chưa có số liệu độc lập.",
+      "tags": [
+        "phế liệu",
+        "mua hàng",
+        "AI thị giác",
+        "hao hụt"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "thông cáo/blog nhà cung cấp",
+      "how_read": "curl bị 403; đọc toàn bộ chính văn qua WebFetch.",
+      "accessed": "2026-11-28",
+      "idea_ids": [
+        "20261128-06-soi-thung-rac-cong-trinh"
+      ]
+    },
+    {
+      "id": "n-20261128-14-cong-doan-xay-dung-cong-nghe",
+      "title": "Giữ việc làm, nâng tay nghề, bảo vệ người lao động ngành Xây dựng trước làn sóng công nghệ",
+      "title_vi": "Công đoàn ngành Xây dựng đặt mục tiêu đào tạo lại lao động trước làn sóng công nghệ: 65% dùng nền tảng số",
+      "source": {
+        "name": "Báo Xây dựng",
+        "kind": "báo ngành"
+      },
+      "url": "https://baoxaydung.vn/giu-viec-lam-nang-tay-nghe-bao-ve-nguoi-lao-dong-nganh-xay-dung-truoc-lan-song-cong-nghe-192261127160031755.htm",
+      "published": "2026-11-28T07:00:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "ai_xd",
+      "region": "VN",
+      "summary_vi": "Công đoàn ngành Xây dựng đặt mục tiêu đến 2031: 90% người lao động được thông tin về chuyển đổi công nghệ, 75% được đào tạo/nâng kỹ năng, 65% sử dụng nền tảng số, 50% đạt danh hiệu ‘Công dân học tập’/chứng chỉ. Các giải pháp gồm khóa ngắn về BIM và vật liệu xanh ngay tại công trường, ‘phiếu hỗ trợ học nghề’, ít nhất 10 mô hình điểm và bộ tiêu chí ‘chuyển đổi việc làm công bằng’.",
+      "why_it_matters": "Lực lượng thợ và kỹ sư của nhà thầu sẽ được đào tạo BIM, nền tảng số — liên quan năng lực thực hiện yêu cầu số hóa của chủ đầu tư.",
+      "tags": [
+        "công đoàn",
+        "đào tạo",
+        "BIM",
+        "lao động xây dựng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "văn bản/sự kiện cơ quan nhà nước",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28"
+    },
+    {
+      "id": "n-20261128-15-pg-cat-giam-cung-ung",
+      "title": "Procter & Gamble plans supply chain workforce cuts as automation expands",
+      "title_vi": "P&G sẽ cắt 20–30% nhân sự khối cung ứng đến 2030 khi mở rộng tự động hóa",
+      "source": {
+        "name": "Supply Chain Dive",
+        "kind": "báo chuỗi cung ứng"
+      },
+      "url": "https://www.supplychaindive.com/news/procter-gamble-plans-supply-chain-workforce-cuts-as-automation-expands/875533/",
+      "published": "2026-11-24",
+      "time_known": false,
+      "date_basis": "Ngày ghi trên trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "US",
+      "summary_vi": "Tại Investor Day 19/11, Giám đốc cung ứng Luc Reynaert cho biết P&G sẽ giảm 20–30% lực lượng khối cung ứng (gồm nhà thầu) đến 2030 nhờ robot, tự động hóa, số hóa, với hơn 15 nhà máy vận hành không người trực. P&G tăng điểm giao hàng ở Bắc Mỹ từ 19 lên 35 và đặt mục tiêu tiết kiệm tới 10 tỷ USD.",
+      "why_it_matters": "Ví dụ lớn về tự động hóa chuỗi cung ứng — tham chiếu khi đánh giá năng suất và chi phí logistics của nhà cung cấp.",
+      "tags": [
+        "P&G",
+        "tự động hóa",
+        "nhân sự",
+        "chuỗi cung ứng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "curl bị 403; đọc toàn bộ chính văn qua WebFetch.",
+      "accessed": "2026-11-28"
+    },
+    {
+      "id": "n-20261128-16-gia-thep-27-11",
+      "title": "Giá thép hôm nay 27/11: Quặng sắt tăng nhờ kỳ vọng nhu cầu tích trữ mùa đông",
+      "title_vi": "Giá thép 27/11: thép cây Thượng Hải nhích lên 3.075 NDT/tấn, quặng sắt tăng nhờ nhu cầu tích trữ mùa đông",
+      "source": {
+        "name": "VietnamBiz",
+        "kind": "báo kinh tế"
+      },
+      "url": "https://vietnambiz.vn/gia-thep-hom-nay-2711-quang-sat-tang-nho-ky-vong-nhu-cau-tich-tru-mua-dong-20261126172626258.htm",
+      "published": "2026-11-27T07:16:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "CN",
+      "summary_vi": "Thép cây kỳ hạn tháng 12 trên sàn Thượng Hải tăng 15 NDT lên 3.075 NDT/tấn; quặng sắt trên sàn Đại Liên 672,5 NDT/tấn, trên sàn Singapore 90,1 USD/tấn; than cốc tăng 4,18% lên 1.520 NDT/tấn. Bài cho rằng nhu cầu tích trữ mùa đông của nhà máy TQ hỗ trợ giá nguyên liệu.",
+      "why_it_matters": "Giá nguyên liệu thép tăng nhẹ — theo dõi cho ngưỡng điều chỉnh giá thép trong hợp đồng tổng thầu.",
+      "tags": [
+        "giá thép",
+        "quặng sắt",
+        "than cốc",
+        "SHFE"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "bảng giá tổng hợp",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28"
+    },
+    {
+      "id": "n-20261128-17-thep-viet-indonesia-lan-tranh-thue",
+      "title": "Thép Việt gia công tại Indonesia 'thoát' cáo buộc lẩn tránh thuế của Mỹ",
+      "title_vi": "Bộ Thương mại Mỹ sơ bộ kết luận thép mạ gia công ở Indonesia từ thép cán nguội Việt Nam không lẩn tránh thuế",
+      "source": {
+        "name": "VietnamBiz",
+        "kind": "báo kinh tế"
+      },
+      "url": "https://vietnambiz.vn/thep-viet-gia-cong-tai-indonesia-thoat-cao-buoc-lan-tranh-thue-cua-my-20261126163816649.htm",
+      "published": "2026-11-26T17:04:00+07:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "chuoi_cung_ung",
+      "region": "VN",
+      "summary_vi": "Bộ Thương mại Mỹ (DOC) ngày 24/11 ra kết luận sơ bộ: thép chống ăn mòn (CORE) hoàn thiện tại Indonesia từ thép cán nguội Việt Nam không lẩn tránh thuế chống bán phá giá/chống trợ cấp. Các doanh nghiệp Indonesia liên quan gồm AMNS, Sunrise, TML, PT Alex Indo.",
+      "why_it_matters": "Giảm rủi ro thuế với chuỗi thép Việt Nam – Indonesia sang Mỹ; giữ ổn định đầu ra cho nhà sản xuất thép cán nguội trong nước.",
+      "tags": [
+        "thép",
+        "phòng vệ thương mại",
+        "Mỹ",
+        "Indonesia"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28"
+    },
+    {
+      "id": "n-20261128-18-thu-thiem-lo-3-9",
+      "title": "Lô đất 3-9 ở Thủ Thiêm trúng đấu giá gần 1.772 tỷ đồng",
+      "title_vi": "Lô 3-9 Thủ Thiêm trúng đấu giá gần 1.772 tỷ đồng, ba lô còn lại không có người tham gia",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử"
+      },
+      "url": "https://vnexpress.net/lo-dat-3-9-o-thu-thiem-trung-dau-gia-gan-1-772-ty-dong-5149752.html",
+      "published": "2026-11-27T17:37:46+07:00",
+      "time_known": true,
+      "date_basis": "datePublished (JSON-LD) của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Lô 3-9 rộng 5.009 m² ở Thủ Thiêm trúng giá gần 1.772 tỷ đồng (khoảng 353 triệu/m²), cao hơn giá khởi điểm 27 tỷ; năm 2021 lô này từng được trả 5.026 tỷ (gấp khoảng 2,8 lần) rồi bỏ cọc. Ba lô 3-12, 3-8, 3-5 không có người tham gia.",
+      "why_it_matters": "Giá đất Thủ Thiêm đã hạ mặt bằng so với 2021 — tín hiệu thận trọng của nhà đầu tư ở phân khúc cao cấp TP HCM.",
+      "tags": [
+        "Thủ Thiêm",
+        "đấu giá đất",
+        "TP HCM",
+        "BĐS cao cấp"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28"
+    },
+    {
+      "id": "n-20261128-19-cai-tao-chung-cu-cu-2027",
+      "title": "Cải tạo chung cư cũ, chủ căn hộ được bồi thường thế nào từ giữa 2027",
+      "title_vi": "Từ 1/7/2027, chủ căn hộ chung cư cũ được bồi thường thế nào khi cải tạo theo Luật Nhà ở sửa đổi",
+      "source": {
+        "name": "VnExpress",
+        "kind": "báo điện tử"
+      },
+      "url": "https://vnexpress.net/cai-tao-chung-cu-cu-chu-can-ho-duoc-boi-thuong-the-nao-tu-giua-2027-5149304.html",
+      "published": "2026-11-28T06:00:00+07:00",
+      "time_known": true,
+      "date_basis": "datePublished (JSON-LD) của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Theo Luật Nhà ở sửa đổi có hiệu lực từ 1/7/2027, chủ căn hộ chung cư cũ khi cải tạo được bồi thường bằng nhà (theo hệ số K) hoặc tiền; các tòa xây từ năm 1994 trở về trước không đủ điều kiện tự cải tạo. Luật mở thêm phương án như bố trí nhà ở xã hội, quyền sử dụng đất.",
+      "why_it_matters": "Thị trường cải tạo chung cư cũ sẽ có khung pháp lý rõ hơn từ giữa 2027 — cơ hội cho chủ đầu tư và nhà thầu tái thiết đô thị.",
+      "tags": [
+        "chung cư cũ",
+        "Luật Nhà ở",
+        "bồi thường",
+        "cải tạo đô thị"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28"
+    },
+    {
+      "id": "n-20261128-20-noxh-duong-noi-34-trieu",
+      "title": "Hà Nội: Nhà ở xã hội tại Dương Nội, xuất hiện căn 64m2 giá gần 2,2 tỷ đồng",
+      "title_vi": "Nhà ở xã hội Dương Nội giá gần 34,28 triệu/m², cao nhất Hà Nội",
+      "source": {
+        "name": "Vietnamnet",
+        "kind": "báo điện tử"
+      },
+      "url": "https://vietnamnet.vn/ha-noi-nha-o-xa-hoi-tai-duong-noi-co-gia-gan-34-28-trieu-dong-m2-2578947.html",
+      "published": "2026-11-26T16:03:00+07:00",
+      "time_known": true,
+      "date_basis": "datePublished (JSON-LD) của trang bài",
+      "topic": "vn",
+      "region": "VN",
+      "summary_vi": "Dự án nhà ở xã hội của Xuân Mai tại khu Nam Hà Nội (Dương Nội) có giá gần 34,28 triệu đồng/m²; căn 64–77 m² giá khoảng 2,2–2,6 tỷ đồng. Tổng mức đầu tư dự án 2.474 tỷ đồng.",
+      "why_it_matters": "Giá NOXH tiến sát mặt bằng thương mại tầm trung — tham chiếu chi phí xây dựng và khả năng chi trả ở Hà Nội.",
+      "tags": [
+        "nhà ở xã hội",
+        "Dương Nội",
+        "Hà Nội",
+        "giá bán"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28"
+    },
+    {
+      "id": "n-20261128-21-bambu-p3c",
+      "title": "Bambu Lab launches $1,149 P3C with seven-slot tool changer",
+      "title_vi": "Bambu Lab ra máy in 3D P3C giá 1.149 USD với bộ đổi 7 đầu",
+      "source": {
+        "name": "TechNode",
+        "kind": "báo công nghệ"
+      },
+      "url": "https://technode.com/2026/11/25/bambu-lab-launches-1149-p3c-with-seven-slot-tool-changer/",
+      "published": "2026-11-25T05:13:03+00:00",
+      "time_known": true,
+      "date_basis": "meta article:published_time của trang bài",
+      "topic": "cong_nghe",
+      "region": "CN",
+      "summary_vi": "Bambu Lab ra máy in 3D để bàn P3C trên toàn cầu ngày 24/11, đưa kiến trúc đổi đầu in của dòng cao cấp H3C xuống mức 1.149 USD. Gói P3C AMS Combo gồm máy, hệ quản lý sợi nhựa AMS 3P và 5 đầu in, còn 2 vị trí để mở rộng. Mỗi đầu in có đường sợi riêng, đầu kế tiếp được làm nóng trước nên đổi vật liệu trong khoảng 6 giây.",
+      "why_it_matters": "Máy in 3D đa vật liệu ngày càng rẻ — làm mẫu, chi tiết nhỏ, mô hình trưng bày tại chỗ dễ hơn.",
+      "tags": [
+        "Bambu Lab",
+        "in 3D",
+        "phần cứng"
+      ],
+      "verification": "đọc đầy đủ",
+      "source_type": "tin độc lập",
+      "how_read": "Mở trang bài gốc, đọc toàn bộ chính văn.",
+      "accessed": "2026-11-28",
+      "idea_ids": [
+        "20261128-05-tranh-con-thanh-tuong"
+      ]
+    }
+  ],
+  "unreachable": [
+    {
+      "source": "Pandaily (DeepSeek hạn mức theo lượt; EngineAI)",
+      "status": "Trang tải bằng JavaScript, WebFetch trả về rỗng",
+      "impact": "Bỏ hai tin này."
+    },
+    {
+      "source": "Investing.com / StreetInsider (tin Reuters Black Friday)",
+      "status": "HTTP 403",
+      "impact": "Dùng số liệu Adobe qua Anadolu ở phần xu hướng; không đưa tin Reuters."
+    },
+    {
+      "source": "SupplyChainBrain (trung tâm dữ liệu New York)",
+      "status": "HTTP 403",
+      "impact": "Bỏ tin."
+    },
+    {
+      "source": "ENR (RSS và bài)",
+      "status": "HTTP 403",
+      "impact": "Chỉ dùng tiêu đề làm bối cảnh ở ý tưởng #6."
+    },
+    {
+      "source": "Nikken Times (Taisei)",
+      "status": "Tường phí, chỉ có đoạn trích",
+      "impact": "Dùng Conshift làm nguồn chính."
+    },
+    {
+      "source": "weather.com.cn, 163.com",
+      "status": "HTTP 500",
+      "impact": "Dùng 京报网 thay thế cho tin El Niño."
+    }
+  ]
+}

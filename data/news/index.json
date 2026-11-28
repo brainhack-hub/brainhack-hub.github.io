@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27",
-  "latest": "2026-11-27",
+  "updated": "2026-11-28",
+  "latest": "2026-11-28",
   "topics": [
     {
       "id": "ai_xd",
@@ -68,6 +68,19 @@
     "chỉ đọc tiêu đề"
   ],
   "days": [
+    {
+      "date": "2026-11-28",
+      "file": "2026-11-28.json",
+      "headline": "Đọc báo 28/11/2026: OpenAI kiện ngược Apple, Taisei soạn kế hoạch thi công bằng AI trong 10 phút, LH đưa AI an toàn vào 128 gói thầu",
+      "item_count": 21,
+      "topics": {
+        "ai_xd": 8,
+        "chuoi_cung_ung": 3,
+        "cong_nghe": 1,
+        "ai_toan_cau": 6,
+        "vn": 3
+      }
+    },
     {
       "date": "2026-11-27",
       "file": "2026-11-27.json",
